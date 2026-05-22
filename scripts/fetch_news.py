@@ -85,13 +85,10 @@ def translate_to_chinese(text):
         return text
     for attempt in range(3):
         try:
-            url = "https://api.mymemory.translated.net/get"
-            params = {"q": text, "langpair": "en|zh-CN"}
-            resp = requests.get(url, params=params, timeout=15)
-            data = resp.json()
-            translated = data.get("responseData", {}).get("translatedText", "")
-            if translated and translated != text:
-                return translated
+            from deep_translator import GoogleTranslator
+            result = GoogleTranslator(source='en', target='zh-CN').translate(text)
+            if result and result != text:
+                return result
         except Exception as e:
             print(f"    Translation retry {attempt+1}: {e}")
             time.sleep(1)
