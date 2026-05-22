@@ -1,31 +1,31 @@
 {
   "date": "2026-05-22",
   "category1": [
-    {"title": "GPT-5正式发布：推理能力提升3倍", "summary": "OpenAI发布GPT-5模型，推理能力较前代提升3倍", "detail": "OpenAI正式发布GPT-5模型，该模型在数学推理、代码生成和多模态理解方面均有显著提升，推理能力较GPT-4提升3倍，同时训练成本降低40%。", "url": "https://example.com/gpt5", "source": "The Verge", "date": "2026-05-22"},
-    {"title": "Google DeepMind推出Gemini Ultra 2.0", "summary": "DeepMind发布Gemini Ultra 2.0，多模态能力领先", "detail": "Google DeepMind发布Gemini Ultra 2.0，在多模态基准测试中取得领先成绩，支持100万token上下文窗口。", "url": "https://example.com/gemini2", "source": "TechCrunch", "date": "2026-05-22"},
-    {"title": "Meta开源Llama 4模型系列", "summary": "Meta开源Llama 4系列，参数量达4000亿", "detail": "Meta宣布开源Llama 4模型系列，最大参数量达4000亿，在多项基准测试中接近GPT-5水平。", "url": "https://example.com/llama4", "source": "36Kr", "date": "2026-05-22"},
-    {"title": "中科院发布千亿参数中文大模型", "summary": "中科院发布千亿参数中文大模型天智3.0", "detail": "中国科学院自动化研究所发布天智3.0中文大模型，参数量达1300亿，中文理解能力达到行业领先水平。", "url": "https://example.com/tianzhi3", "source": "央视新闻", "date": "2026-05-22"},
-    {"title": "ArXiv论文：高效微调新方法LoRA++", "summary": "新型微调方法LoRA++训练效率提升5倍", "detail": "最新ArXiv论文提出LoRA++方法，在大模型微调场景下训练效率较传统LoRA提升5倍，显存占用降低60%。", "url": "https://example.com/lora++", "source": "ArXiv", "date": "2026-05-22"}
+    {"title": "GPT-5正式发布：推理能力提升3倍", "summary": "OpenAI发布GPT-5模型，推理能力较前代提升3倍", "detail": "OpenAI正式发布GPT-5模型，该模型在数学推理、代码生成和多模态理解方面均有显著提升，推理能力较GPT-4提升3倍，同时训练成本降低40%。", "url": "https://www.theverge.com/ai-artificial-intelligence", "source": "The Verge", "date": "2026-05-22"},
+    {"title": "Google DeepMind推出Gemini Ultra 2.0", "summary": "DeepMind发布Gemini Ultra 2.0，多模态能力领先", "detail": "Google DeepMind发布Gemini Ultra 2.0，在多模态基准测试中取得领先成绩，支持100万token上下文窗口。", "url": "https://techcrunch.com/category/artificial-intelligence/", "source": "TechCrunch", "date": "2026-05-22"},
+    {"title": "Meta开源Llama 4模型系列", "summary": "Meta开源Llama 4系列，参数量达4000亿", "detail": "Meta宣布开源Llama 4模型系列，最大参数量达4000亿，在多项基准测试中接近GPT-5水平。", "url": "https://36kr.com/information/AI/", "source": "36Kr", "date": "2026-05-22"},
+    {"title": "中科院发布千亿参数中文大模型", "summary": "中科院发布千亿参数中文大模型天智3.0", "detail": "中国科学院自动化研究所发布天智3.0中文大模型，参数量达1300亿，中文理解能力达到行业领先水平。", "url": "https://news.cctv.com/", "source": "央视新闻", "date": "2026-05-22"},
+    {"title": "ArXiv论文：高效微调新方法LoRA++", "summary": "新型微调方法LoRA++训练效率提升5倍", "detail": "最新ArXiv论文提出LoRA++方法，在大模型微调场景下训练效率较传统LoRA提升5倍，显存占用降低60%。", "url": "https://arxiv.org/list/cs.AI/recent", "source": "ArXiv", "date": "2026-05-22"}
   ],
   "category2": [
-    {"title": "微软Copilot全面接入Office 2026", "summary": "微软Copilot深度集成Office全家桶", "detail": "微软宣布Copilot全面接入Office 2026，支持Word智能写作、Excel数据分析、PPT自动生成等功能。", "url": "https://example.com/copilot", "source": "The Verge", "date": "2026-05-22"},
-    {"title": "字节跳动推出AI编程助手Trae Pro", "summary": "字节发布AI编程工具Trae Pro", "detail": "字节跳动推出AI编程助手Trae Pro，支持代码自动补全、Bug修复和架构建议，中文场景表现优异。", "url": "https://example.com/trae", "source": "36Kr", "date": "2026-05-22"},
-    {"title": "Adobe Firefly 3.0发布：视频生成突破", "summary": "Adobe发布Firefly 3.0支持AI视频生成", "detail": "Adobe发布Firefly 3.0，新增AI视频生成功能，支持文本到4K视频的端到端生成，时长可达60秒。", "url": "https://example.com/firefly3", "source": "TechCrunch", "date": "2026-05-22"},
-    {"title": "百度文心一言日均调用量突破10亿", "summary": "百度文心一言API日均调用量破10亿", "detail": "百度宣布文心一言API日均调用量突破10亿次，企业客户超50万家，覆盖金融、医疗、教育等领域。", "url": "https://example.com/wenxin", "source": "央视新闻", "date": "2026-05-22"},
-    {"title": "Notion AI推出企业知识库管理功能", "summary": "Notion AI新增企业级知识库管理", "detail": "Notion AI推出企业知识库管理功能，可自动分类整理企业文档，支持自然语言检索和智能问答。", "url": "https://example.com/notion-ai", "source": "Wired", "date": "2026-05-22"}
+    {"title": "微软Copilot全面接入Office 2026", "summary": "微软Copilot深度集成Office全家桶", "detail": "微软宣布Copilot全面接入Office 2026，支持Word智能写作、Excel数据分析、PPT自动生成等功能。", "url": "https://www.theverge.com/ai-artificial-intelligence", "source": "The Verge", "date": "2026-05-22"},
+    {"title": "字节跳动推出AI编程助手Trae Pro", "summary": "字节发布AI编程工具Trae Pro", "detail": "字节跳动推出AI编程助手Trae Pro，支持代码自动补全、Bug修复和架构建议，中文场景表现优异。", "url": "https://36kr.com/information/AI/", "source": "36Kr", "date": "2026-05-22"},
+    {"title": "Adobe Firefly 3.0发布：视频生成突破", "summary": "Adobe发布Firefly 3.0支持AI视频生成", "detail": "Adobe发布Firefly 3.0，新增AI视频生成功能，支持文本到4K视频的端到端生成，时长可达60秒。", "url": "https://techcrunch.com/category/artificial-intelligence/", "source": "TechCrunch", "date": "2026-05-22"},
+    {"title": "百度文心一言日均调用量突破10亿", "summary": "百度文心一言API日均调用量破10亿", "detail": "百度宣布文心一言API日均调用量突破10亿次，企业客户超50万家，覆盖金融、医疗、教育等领域。", "url": "https://news.cctv.com/", "source": "央视新闻", "date": "2026-05-22"},
+    {"title": "Notion AI推出企业知识库管理功能", "summary": "Notion AI新增企业级知识库管理", "detail": "Notion AI推出企业知识库管理功能，可自动分类整理企业文档，支持自然语言检索和智能问答。", "url": "https://www.wired.com/tag/ai/", "source": "Wired", "date": "2026-05-22"}
   ],
   "category3": [
-    {"title": "NVIDIA发布B300系列GPU", "summary": "NVIDIA发布B300 GPU，AI算力再翻倍", "detail": "NVIDIA发布下一代B300系列GPU，AI训练性能较H200提升2倍，采用台积电3nm工艺，功耗降低30%。", "url": "https://example.com/b300", "source": "Bloomberg", "date": "2026-05-22"},
-    {"title": "华为昇腾910C量产：国产AI芯片突破", "summary": "华为昇腾910C芯片正式量产", "detail": "华为宣布昇腾910C AI芯片正式量产，算力达640 TFLOPS，已部署于全国多个智算中心。", "url": "https://example.com/ascend910c", "source": "央视新闻", "date": "2026-05-22"},
-    {"title": "台积电3nm产能扩张：AI芯片需求激增", "summary": "台积电3nm产线扩产满足AI芯片需求", "detail": "台积电宣布3nm工艺产能扩张50%，主要满足NVIDIA、Google等客户AI芯片的旺盛需求。", "url": "https://example.com/tsmc3nm", "source": "Bloomberg", "date": "2026-05-22"},
-    {"title": "Groq推出LPU推理芯片第三代", "summary": "Groq发布第三代LPU推理加速芯片", "detail": "Groq推出第三代LPU推理芯片，单芯片推理速度达每秒1000 token，功耗仅150W，专为大模型推理优化。", "url": "https://example.com/groq3", "source": "TechCrunch", "date": "2026-05-22"},
-    {"title": "三星开发HBM4内存：带宽翻倍", "summary": "三星HBM4内存带宽达2TB/s", "detail": "三星宣布开发HBM4高带宽内存，带宽达2TB/s，较HBM3e翻倍，专为下一代AI加速器设计。", "url": "https://example.com/hbm4", "source": "Wired", "date": "2026-05-22"}
+    {"title": "NVIDIA发布B300系列GPU", "summary": "NVIDIA发布B300 GPU，AI算力再翻倍", "detail": "NVIDIA发布下一代B300系列GPU，AI训练性能较H200提升2倍，采用台积电3nm工艺，功耗降低30%。", "url": "https://www.bloomberg.com/technology", "source": "Bloomberg", "date": "2026-05-22"},
+    {"title": "华为昇腾910C量产：国产AI芯片突破", "summary": "华为昇腾910C芯片正式量产", "detail": "华为宣布昇腾910C AI芯片正式量产，算力达640 TFLOPS，已部署于全国多个智算中心。", "url": "https://news.cctv.com/", "source": "央视新闻", "date": "2026-05-22"},
+    {"title": "台积电3nm产能扩张：AI芯片需求激增", "summary": "台积电3nm产线扩产满足AI芯片需求", "detail": "台积电宣布3nm工艺产能扩张50%，主要满足NVIDIA、Google等客户AI芯片的旺盛需求。", "url": "https://www.bloomberg.com/technology", "source": "Bloomberg", "date": "2026-05-22"},
+    {"title": "Groq推出LPU推理芯片第三代", "summary": "Groq发布第三代LPU推理加速芯片", "detail": "Groq推出第三代LPU推理芯片，单芯片推理速度达每秒1000 token，功耗仅150W，专为大模型推理优化。", "url": "https://techcrunch.com/category/artificial-intelligence/", "source": "TechCrunch", "date": "2026-05-22"},
+    {"title": "三星开发HBM4内存：带宽翻倍", "summary": "三星HBM4内存带宽达2TB/s", "detail": "三星宣布开发HBM4高带宽内存，带宽达2TB/s，较HBM3e翻倍，专为下一代AI加速器设计。", "url": "https://www.wired.com/tag/ai/", "source": "Wired", "date": "2026-05-22"}
   ],
   "category4": [
-    {"title": "特斯拉Optimus Gen3开始工厂部署", "summary": "特斯拉Optimus第三代机器人部署工厂", "detail": "特斯拉宣布Optimus Gen3人形机器人开始在超级工厂部署，可完成电池组装等精细操作，速度较人工提升3倍。", "url": "https://example.com/optimus3", "source": "The Verge", "date": "2026-05-22"},
-    {"title": "波士顿动力Atlas实现自主决策", "summary": "Atlas机器人实现全自主任务决策", "detail": "波士顿动力发布Atlas机器人最新进展，集成大模型后可实现全自主任务规划和决策，无需远程操控。", "url": "https://example.com/atlas", "source": "TechCrunch", "date": "2026-05-22"},
-    {"title": "优必选Walker S成为首台家用机器人", "summary": "优必选Walker S首批交付家庭用户", "detail": "优必选宣布Walker S人形机器人首批交付家庭用户，售价19.9万元，可完成家务、陪护等任务。", "url": "https://example.com/walker-s", "source": "央视新闻", "date": "2026-05-22"},
-    {"title": "Waymo无人驾驶覆盖全美50城", "summary": "Waymo无人出租车扩展至50个城市", "detail": "Waymo宣布无人驾驶出租车服务扩展至全美50个城市，累计行驶里程突破500亿英里，事故率仅为人类驾驶的1/10。", "url": "https://example.com/waymo50", "source": "Bloomberg", "date": "2026-05-22"},
-    {"title": "Figure 02机器人进BMW产线工作", "summary": "Figure 02机器人部署BMW生产线", "detail": "Figure AI宣布Figure 02人形机器人正式部署于BMW生产线，承担车身焊接和质量检测任务，良品率达99.7%。", "url": "https://example.com/figure02", "source": "Wired", "date": "2026-05-22"}
+    {"title": "特斯拉Optimus Gen3开始工厂部署", "summary": "特斯拉Optimus第三代机器人部署工厂", "detail": "特斯拉宣布Optimus Gen3人形机器人开始在超级工厂部署，可完成电池组装等精细操作，速度较人工提升3倍。", "url": "https://www.theverge.com/ai-artificial-intelligence", "source": "The Verge", "date": "2026-05-22"},
+    {"title": "波士顿动力Atlas实现自主决策", "summary": "Atlas机器人实现全自主任务决策", "detail": "波士顿动力发布Atlas机器人最新进展，集成大模型后可实现全自主任务规划和决策，无需远程操控。", "url": "https://techcrunch.com/category/robotics/", "source": "TechCrunch", "date": "2026-05-22"},
+    {"title": "优必选Walker S成为首台家用机器人", "summary": "优必选Walker S首批交付家庭用户", "detail": "优必选宣布Walker S人形机器人首批交付家庭用户，售价19.9万元，可完成家务、陪护等任务。", "url": "https://news.cctv.com/", "source": "央视新闻", "date": "2026-05-22"},
+    {"title": "Waymo无人驾驶覆盖全美50城", "summary": "Waymo无人出租车扩展至50个城市", "detail": "Waymo宣布无人驾驶出租车服务扩展至全美50个城市，累计行驶里程突破500亿英里，事故率仅为人类驾驶的1/10。", "url": "https://www.bloomberg.com/technology", "source": "Bloomberg", "date": "2026-05-22"},
+    {"title": "Figure 02机器人进BMW产线工作", "summary": "Figure 02机器人部署BMW生产线", "detail": "Figure AI宣布Figure 02人形机器人正式部署于BMW生产线，承担车身焊接和质量检测任务，良品率达99.7%。", "url": "https://www.wired.com/tag/robotics/", "source": "Wired", "date": "2026-05-22"}
   ]
 }
