@@ -1,70 +1,118 @@
 import feedparser
+import requests
 import json
 import os
 import re
 from datetime import datetime, timedelta
 from bs4 import BeautifulSoup
-import requests
 
 RSS_SOURCES = {
     "1": [
-        {"name": "ArXiv CS.AI", "url": "http://arxiv.org/rss/cs.AI", "source": "ArXiv"},
-        {"name": "ArXiv CS.CL", "url": "http://arxiv.org/rss/cs.CL", "source": "ArXiv"},
-        {"name": "MIT Tech Review AI", "url": "https://www.technologyreview.com/feed/", "source": "MIT Tech Review"},
-        {"name": "VentureBeat AI", "url": "https://venturebeat.com/category/ai/feed/", "source": "VentureBeat"},
+        {"url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml", "source": "The Verge"},
+        {"url": "https://techcrunch.com/category/artificial-intelligence/feed/", "source": "TechCrunch"},
+        {"url": "https://www.wired.com/feed/tag/ai/latest/rss", "source": "Wired"},
+        {"url": "https://venturebeat.com/category/ai/feed/", "source": "VentureBeat"},
+        {"url": "https://www.technologyreview.com/feed/", "source": "MIT Tech Review"},
     ],
     "2": [
-        {"name": "The Verge AI", "url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml", "source": "The Verge"},
-        {"name": "TechCrunch AI", "url": "https://techcrunch.com/category/artificial-intelligence/feed/", "source": "TechCrunch"},
-        {"name": "Wired AI", "url": "https://www.wired.com/feed/tag/ai/latest/rss", "source": "Wired"},
+        {"url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml", "source": "The Verge"},
+        {"url": "https://techcrunch.com/category/artificial-intelligence/feed/", "source": "TechCrunch"},
+        {"url": "https://www.wired.com/feed/tag/ai/latest/rss", "source": "Wired"},
+        {"url": "https://venturebeat.com/category/ai/feed/", "source": "VentureBeat"},
+        {"url": "https://www.technologyreview.com/feed/", "source": "MIT Tech Review"},
     ],
     "3": [
-        {"name": "AnandTech", "url": "https://www.anandtech.com/rss/", "source": "AnandTech"},
-        {"name": "Tom's Hardware", "url": "https://www.tomshardware.com/feeds/all", "source": "Tom's Hardware"},
-        {"name": "Semiconductor Engineering", "url": "https://semiengineering.com/feed/", "source": "SemiEngineering"},
+        {"url": "https://www.tomshardware.com/feeds/all", "source": "Tom's Hardware"},
+        {"url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml", "source": "The Verge"},
+        {"url": "https://techcrunch.com/category/artificial-intelligence/feed/", "source": "TechCrunch"},
+        {"url": "https://www.wired.com/feed/tag/ai/latest/rss", "source": "Wired"},
     ],
     "4": [
-        {"name": "IEEE Spectrum Robotics", "url": "https://spectrum.ieee.org/robotics/feed", "source": "IEEE Spectrum"},
-        {"name": "The Robot Report", "url": "https://www.therobotreport.com/feed/", "source": "The Robot Report"},
-        {"name": "TechCrunch Robotics", "url": "https://techcrunch.com/category/robotics/feed/", "source": "TechCrunch"},
+        {"url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml", "source": "The Verge"},
+        {"url": "https://techcrunch.com/category/artificial-intelligence/feed/", "source": "TechCrunch"},
+        {"url": "https://www.wired.com/feed/tag/ai/latest/rss", "source": "Wired"},
+        {"url": "https://venturebeat.com/category/ai/feed/", "source": "VentureBeat"},
+        {"url": "https://www.tomshardware.com/feeds/all", "source": "Tom's Hardware"},
+        {"url": "https://www.technologyreview.com/feed/", "source": "MIT Tech Review"},
+        {"url": "https://www.newscientist.com/subject/technology/feed/", "source": "New Scientist"},
     ],
 }
 
 KEYWORDS = {
-    "1": ["llm", "gpt", "claude", "gemini", "llama", "model", "transformer", "diffusion", "foundation model",
-          "training", "fine-tuning", "rlhf", "alignment", "大模型", "基础模型", "训练", "微调", "openai", "deepseek",
-          "deepmind", "anthropic", "mistral", "qwen", "通义", "文心", "智谱"],
+    "1": ["llm", "gpt", "claude", "gemini", "llama", "model", "transformer", "diffusion", "foundation",
+          "training", "fine-tuning", "rlhf", "alignment", "deepseek", "deepmind", "anthropic", "mistral",
+          "qwen", "openai", "large language", "neural network", "bert", "parameters", "checkpoint",
+          "agi", "reasoning", "inference", "multimodal", "language model", "ai model"],
     "2": ["copilot", "chatbot", "assistant", "agent", "ai app", "ai product", "generative", "midjourney",
-          "stable diffusion", "sora", "ai tool", "ai platform", "ai应用", "ai产品", "智能助手", "ai办公",
-          "notion ai", "cursor", "ai编程", "ai写作", "ai绘画"],
-    "3": ["gpu", "chip", "nvidia", "amd", "tpu", "inference", "compute", "semiconductor", "hbm", "gpu",
-          "chiplet", "asic", "fpga", "算力", "芯片", "gpu", "ai加速", "h100", "h200", "b200", "昇腾",
-          "寒武纪", "台积电", "tsmc", "intel", "qualcomm"],
-    "4": ["robot", "humanoid", "embodied", "autonomous", "self-driving", "waymo", "tesla bot", "optimus",
-          "atlas", "boston dynamics", "figure", "具身智能", "机器人", "人形", "自动驾驶", "无人驾驶",
-          "walker", "ubtech", "agility", "digit"],
+          "stable diffusion", "sora", "ai tool", "ai platform", "ai-powered", "notion ai", "cursor",
+          "coding assistant", "ai feature", "ai integration", "launches ai", "announces ai",
+          "ai therapy", "audiobook", "podcast", "spotify", "elevenlabs", "ai avatar", "ai clone"],
+    "3": ["gpu", "chip", "nvidia", "amd", "tpu", "compute", "semiconductor", "hbm",
+          "asic", "fpga", "accelerat", "processor", "data center", "foundry", "tsmc",
+          "intel", "qualcomm", "epyc", "venice", "2nm", "3nm", "fabrication", "smuggling",
+          "super micro", "broadcom", "mtia", "server shipment", "production ramp"],
+    "4": ["robot", "humanoid", "embodied", "autonomous driving", "self-driving", "waymo", "optimus",
+          "atlas", "boston dynamics", "figure ai", "bipedal", "manipulation", "locomotion",
+          "walker", "ubtech", "agility", "digit", "autonomous vehicle", "lidar",
+          "drone", "tesla bot", "3d print", "oled", "ssd", "storage",
+          "autonomous", "mobility", "hardware", "device", "sensor", "iot"],
 }
+
+EXCLUDE_KEYWORDS = {
+    "3": ["gaming laptop", "gaming pc", "discount", "sale", "save $", "coupon"],
+    "4": ["crypto", "bitcoin", "etf", "funeral", "chromebook"],
+}
+
+def validate_url(url, timeout=10):
+    try:
+        resp = requests.head(url, timeout=timeout, allow_redirects=True)
+        return resp.status_code == 200
+    except:
+        try:
+            resp = requests.get(url, timeout=timeout, allow_redirects=True, stream=True)
+            resp.close()
+            return resp.status_code == 200
+        except:
+            return False
+
+def classify_item(title, summary):
+    text = (title + " " + summary).lower()
+    scores = {}
+    for cat, keywords in KEYWORDS.items():
+        score = sum(1 for kw in keywords if kw.lower() in text)
+        scores[cat] = score
+    if max(scores.values()) == 0:
+        return None
+    best_cat = max(scores, key=scores.get)
+    if best_cat in EXCLUDE_KEYWORDS:
+        for excl in EXCLUDE_KEYWORDS[best_cat]:
+            if excl.lower() in text:
+                scores[best_cat] = max(0, scores[best_cat] - 5)
+        best_cat = max(scores, key=scores.get)
+    return best_cat
 
 def fetch_rss(url, source_name):
     items = []
     try:
         feed = feedparser.parse(url)
-        for entry in feed.entries[:20]:
-            title = entry.get("title", "")
-            link = entry.get("link", "")
+        for entry in feed.entries[:30]:
+            title = entry.get("title", "").strip()
+            link = entry.get("link", "").strip()
+            if not title or not link:
+                continue
             summary = ""
             if entry.get("summary"):
                 soup = BeautifulSoup(entry.summary, "html.parser")
-                summary = soup.get_text()[:200]
-            pub_date = ""
-            if entry.get("published"):
+                summary = soup.get_text()[:300].strip()
+            pub_date = datetime.now().strftime("%Y-%m-%d")
+            if entry.get("published_parsed"):
                 try:
                     parsed = datetime(*entry.published_parsed[:6])
+                    if (datetime.now() - parsed).days > 7:
+                        continue
                     pub_date = parsed.strftime("%Y-%m-%d")
                 except:
-                    pub_date = datetime.now().strftime("%Y-%m-%d")
-            else:
-                pub_date = datetime.now().strftime("%Y-%m-%d")
+                    pass
             items.append({
                 "title": title,
                 "url": link,
@@ -77,51 +125,55 @@ def fetch_rss(url, source_name):
         print(f"Error fetching {url}: {e}")
     return items
 
-
-def classify_news(items):
-    classified = {"1": [], "2": [], "3": [], "4": []}
-    for item in items:
-        text = (item["title"] + " " + item["summary"]).lower()
-        scores = {}
-        for cat, keywords in KEYWORDS.items():
-            score = sum(1 for kw in keywords if kw.lower() in text)
-            scores[cat] = score
-        best_cat = max(scores, key=scores.get)
-        if scores[best_cat] > 0:
-            classified[best_cat].append(item)
-    return classified
-
-
-def select_top_news(classified, per_category=5):
-    today = datetime.now().strftime("%Y-%m-%d")
-    yesterday = (datetime.now() - timedelta(days=1)).strftime("%Y-%m-%d")
-    for cat in classified:
-        recent = [n for n in classified[cat] if n["date"] in [today, yesterday]]
-        if len(recent) < per_category:
-            recent = classified[cat][:per_category]
-        classified[cat] = recent[:per_category]
-    return classified
-
-
 def main():
+    print("Fetching RSS feeds...")
     all_items = []
     for cat, sources in RSS_SOURCES.items():
         for src in sources:
             items = fetch_rss(src["url"], src["source"])
-            all_items.extend(items)
+            print(f"  {src['source']}: {len(items)} items")
+            for item in items:
+                classified_cat = classify_item(item["title"], item["summary"])
+                if classified_cat:
+                    item["_cat"] = classified_cat
+                    all_items.append(item)
 
-    classified = classify_news(all_items)
-    selected = select_top_news(classified, 5)
+    classified = {"1": [], "2": [], "3": [], "4": []}
+    for item in all_items:
+        cat = item.pop("_cat")
+        seen_titles = {n["title"] for n in classified[cat]}
+        if item["title"] not in seen_titles:
+            classified[cat].append(item)
 
+    for cat in classified:
+        classified[cat].sort(key=lambda x: x["date"], reverse=True)
+
+    print("\nValidating URLs...")
     result = {"date": datetime.now().strftime("%Y-%m-%d")}
     for i in range(1, 5):
         cat_key = str(i)
-        result[f"category{i}"] = selected[cat_key]
+        valid_items = []
+        candidates = classified[cat_key]
+        print(f"  Category {i}: {len(candidates)} candidates, validating...")
+        for item in candidates:
+            if len(valid_items) >= 5:
+                break
+            url = item["url"]
+            print(f"    Checking: {url[:80]}...", end=" ")
+            if validate_url(url):
+                valid_items.append(item)
+                print("OK")
+            else:
+                print("FAILED")
+        result[f"category{i}"] = valid_items
+        print(f"  Category {i}: {len(valid_items)} valid items")
 
     os.makedirs("data", exist_ok=True)
     with open("data/news.json", "w", encoding="utf-8") as f:
         json.dump(result, f, ensure_ascii=False, indent=2)
-    print(f"News updated: {sum(len(v) for v in result.values() if isinstance(v, list))} items")
+
+    total = sum(len(result.get(f"category{i}", [])) for i in range(1, 5))
+    print(f"\nDone! Total: {total} validated news items")
 
 
 if __name__ == "__main__":
