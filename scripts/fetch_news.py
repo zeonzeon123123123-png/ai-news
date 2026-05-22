@@ -3,6 +3,8 @@ import requests
 import json
 import os
 import re
+import time
+import unicodedata
 from datetime import datetime, timedelta
 from bs4 import BeautifulSoup
 
@@ -35,6 +37,8 @@ RSS_SOURCES = {
         {"url": "https://www.tomshardware.com/feeds/all", "source": "Tom's Hardware"},
         {"url": "https://www.technologyreview.com/feed/", "source": "MIT Tech Review"},
         {"url": "https://www.newscientist.com/subject/technology/feed/", "source": "New Scientist"},
+        {"url": "https://arstechnica.com/feed/", "source": "Ars Technica"},
+        {"url": "https://www.wired.com/feed/rss", "source": "Wired"},
     ],
 }
 
@@ -54,14 +58,44 @@ KEYWORDS = {
     "4": ["robot", "humanoid", "embodied", "autonomous driving", "self-driving", "waymo", "optimus",
           "atlas", "boston dynamics", "figure ai", "bipedal", "manipulation", "locomotion",
           "walker", "ubtech", "agility", "digit", "autonomous vehicle", "lidar",
-          "drone", "tesla bot", "3d print", "oled", "ssd", "storage",
-          "autonomous", "mobility", "hardware", "device", "sensor", "iot"],
+          "drone", "tesla bot", "3d print", "iot", "sensor",
+          "autonomous", "mobility", "hardware", "device",
+          "ai-powered", "ai-driven", "smart", "intelligent", "neural", "deep learning"],
 }
 
 EXCLUDE_KEYWORDS = {
-    "3": ["gaming laptop", "gaming pc", "discount", "sale", "save $", "coupon"],
-    "4": ["crypto", "bitcoin", "etf", "funeral", "chromebook"],
+    "3": ["gaming laptop", "gaming pc", "discount", "sale", "save $", "coupon",
+          "gaming chair", "memorial day", "gaming monitor", "ssd", "hard drive",
+          "chromebook", "deal on", "best buy", "newegg"],
+    "4": ["crypto", "bitcoin", "etf", "funeral", "chromebook", "gaming chair",
+          "gaming monitor", "memorial day", "discount", "best buy", "newegg"],
 }
+
+def is_chinese(text):
+    if not text:
+        return False
+    count = 0
+    for ch in text:
+        if '\u4e00' <= ch <= '\u9fff':
+            count += 1
+    return count / max(len(text), 1) > 0.1
+
+def translate_to_chinese(text):
+    if not text or is_chinese(text):
+        return text
+    for attempt in range(3):
+        try:
+            url = "https://api.mymemory.translated.net/get"
+            params = {"q": text, "langpair": "en|zh-CN"}
+            resp = requests.get(url, params=params, timeout=15)
+            data = resp.json()
+            translated = data.get("responseData", {}).get("translatedText", "")
+            if translated and translated != text:
+                return translated
+        except Exception as e:
+            print(f"    Translation retry {attempt+1}: {e}")
+            time.sleep(1)
+    return text
 
 def validate_url(url, timeout=10):
     try:
@@ -148,8 +182,9 @@ def main():
     for cat in classified:
         classified[cat].sort(key=lambda x: x["date"], reverse=True)
 
-    print("\nValidating URLs...")
+    print("\nValidating URLs and translating...")
     result = {"date": datetime.now().strftime("%Y-%m-%d")}
+    used_titles = set()
     for i in range(1, 5):
         cat_key = str(i)
         valid_items = []
@@ -161,10 +196,46 @@ def main():
             url = item["url"]
             print(f"    Checking: {url[:80]}...", end=" ")
             if validate_url(url):
+                if not is_chinese(item["title"]):
+                    print("OK, translating...", end=" ")
+                    item["title"] = translate_to_chinese(item["title"])
+                    item["summary"] = translate_to_chinese(item["summary"])
+                    item["detail"] = translate_to_chinese(item["detail"])
+                    time.sleep(0.5)
+                    print("done")
+                else:
+                    print("OK (Chinese)")
                 valid_items.append(item)
-                print("OK")
+                used_titles.add(item["title"])
             else:
                 print("FAILED")
+        if len(valid_items) < 5:
+            print(f"  Category {i} only has {len(valid_items)} items, supplementing from other categories...")
+            all_candidates = []
+            for other_cat in classified:
+                for item in classified[other_cat]:
+                    if item["title"] not in used_titles and item not in valid_items:
+                        all_candidates.append(item)
+            all_candidates.sort(key=lambda x: x["date"], reverse=True)
+            for item in all_candidates:
+                if len(valid_items) >= 5:
+                    break
+                url = item["url"]
+                print(f"    Supplement: {url[:80]}...", end=" ")
+                if validate_url(url):
+                    if not is_chinese(item["title"]):
+                        print("OK, translating...", end=" ")
+                        item["title"] = translate_to_chinese(item["title"])
+                        item["summary"] = translate_to_chinese(item["summary"])
+                        item["detail"] = translate_to_chinese(item["detail"])
+                        time.sleep(0.5)
+                        print("done")
+                    else:
+                        print("OK (Chinese)")
+                    valid_items.append(item)
+                    used_titles.add(item["title"])
+                else:
+                    print("FAILED")
         result[f"category{i}"] = valid_items
         print(f"  Category {i}: {len(valid_items)} valid items")
 
