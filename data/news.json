@@ -2,15 +2,6 @@
   "date": "2026-05-22",
   "category1": [
     {
-      "title": "Hark 因其神秘的“通用”人工智能界面筹集了 7 亿美元的 A 轮融资",
-      "url": "https://techcrunch.com/2026/05/21/hark-raises-700m-series-a-for-its-secretive-universal-ai-interface/",
-      "summary": "Hark 预计今年将发布首款多式联运车型",
-      "detail": "Hark 预计将在今年夏天发布其首款多式联运模型，据称该模型将为可与现有产品和服务配合使用的个人人工智能平台提供支持。该公司预计将推出专为这些系统打造的硬件设备。",
-      "source": "TechCrunch",
-      "source_authority": 0.95,
-      "date": "2026-05-21"
-    },
-    {
       "title": "Anthropic 与 Claude 合作的《Code》展示了编码的未来——无论你喜欢与否",
       "url": "https://www.technologyreview.com/2026/05/21/1137735/anthropics-code-with-claude-showed-off-codings-future-whether-you-like-it-or-not/",
       "summary": "在 Code with Claude（Anthropic 的二维码）上，气氛很强烈",
@@ -20,52 +11,46 @@
       "date": "2026-05-21"
     },
     {
-      "title": "OpenAI 有望在 9 月份进行 IPO",
-      "url": "https://techcrunch.com/2026/05/20/openai-barrels-toward-ipo-that-may-happen-in-september/",
-      "summary": "埃隆·马斯克 (Elon Musk) 在威胁 OpenA 的诉讼中败诉一天后",
-      "detail": "埃隆·马斯克 (Elon Musk) 在威胁 OpenAI 结构、领导力和财务的诉讼中败诉一天后，据报道 OpenAI 又开始准备 IPO。",
+      "title": "Hark 因其神秘的“通用”人工智能界面筹集了 7 亿美元的 A 轮融资",
+      "url": "https://techcrunch.com/2026/05/21/hark-raises-700m-series-a-for-its-secretive-universal-ai-interface/",
+      "summary": "Hark 预计今年将发布首款多式联运车型",
+      "detail": "Hark 预计将在今年夏天发布其首款多式联运模型，据称该模型将为可与现有产品和服务配合使用的个人人工智能平台提供支持。该公司预计将推出专为这些系统打造的硬件设备。",
       "source": "TechCrunch",
       "source_authority": 0.95,
-      "date": "2026-05-20"
+      "date": "2026-05-21"
     },
     {
-      "title": "OpenAI的“灾难大师”能否修复AI的声誉危机？",
-      "url": "https://www.wired.com/story/openai-chris-lehane-global-affairs-pr/",
-      "summary": "全球事务主管克里斯·勒哈恩 (Chris Lehane) 希望降低债务负担",
-      "detail": "全球事务主管 Chris Lehane 希望缓和有关人工智能社会影响的争论，并让各州通过不会阻碍 OpenAI 迅速崛起的法律。",
-      "source": "Wired",
-      "source_authority": 0.85,
-      "date": "2026-05-22"
+      "title": "国家发改委：加快具身智能训练基础设施建设，让机器人不仅能上赛场，还能“进工厂、进商场、进家庭”",
+      "url": "https://www.ithome.com/0/954/126.htm",
+      "summary": "IT之家 5 月 22 日消息，5 月 22 日上午，国家发展改革委举行 5 月份新闻发布会。国家发展改革委政策研究室副",
+      "detail": "IT之家 5 月 22 日消息，5 月 22 日上午，国家发展改革委举行 5 月份新闻发布会。国家发展改革委政策研究室副主任、委新闻发言人李超出席发布会。李超提到，和去年相比，今年的北京亦庄人形机器人半程马拉松比赛中，机器人们的表现进步明显，比较突出的有三个方面。一是速度更快，这主要是靠高爆发力电机等元器件的性能升级。二是更加灵活，我们看到机器人通过弯道、坡道等复杂路况的能力显著提升，这主要是靠动态平衡“小脑”模型等技术进步。三是更加自主，部分机器人实现全程自主导航和避障，这主要是靠自主感知与导航模型能力的提升。IT之家注意到，李超还提到，人形机器人已经从“能跑完”升级到“能高速、灵活、自主地跑完”。我们更要看到，今年的参赛队伍从去年的 20 余支增加到百余支，完赛队伍从 6 支增加到 40 余支，在春晚、世界人形机器人运动会等场合，机器人和它们背后的创新团队，正在持续不断地给我们带来惊喜。这些都反映出我国具身智能创新活力不断增强、产业规模持续扩大的良好态势。下一步，国家发展改革委将按照“十五五”规划部署要求，以具身智能关键基础设施建设为抓手，全面推进具身智能领域高质量发展。一方面，加",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-05-22",
+      "score": 0.8975
     },
     {
-      "title": "Google I/O 2026 上公布的一切：Gemini、搜索、智能眼镜",
-      "url": "https://www.wired.com/story/everything-google-announced-at-google-io-2026/",
-      "summary": "谷歌正在改进其 Gemini 模型、改进搜索、",
-      "detail": "谷歌正在完善其 Gemini 模型，改进搜索，并在一切领域启用人工智能代理。今年秋天还将推出一些漂亮的新型智能眼镜。",
-      "source": "Wired",
+      "title": "定制 AI ASIC 的发展状况（2026 年 5 月）——Broadcom 交易、Google TPU、Meta MTIA 等",
+      "url": "https://www.tomshardware.com/tech-industry/semiconductors/custom-ai-asics-examined-from-broadcom-to-mtia",
+      "summary": "基于ASIC的AI服务器出货量预计将达到27.8%",
+      "detail": "基于 ASIC 的 AI 服务器出货量预计到 2026 年将达到 27.8% 的市场份额，为 2023 年以来的最高份额，定制 ASIC 出货量将同比增长 44.6%。",
+      "source": "Tom's Hardware",
+      "source_authority": 0.7,
+      "date": "2026-05-21",
+      "score": 0.8625
+    },
+    {
+      "title": "算力浪潮下，AI智能影像的无线化变革| 2026AI Partner·北京亦庄AI+产业大会",
+      "url": "https://36kr.com/p/3818843802665862?f=rss",
+      "summary": "神眸做的事情不是追逐英伟达，而是在算力浪潮的下游，用极致的低功耗芯片设计，让摄像头摆脱电线的束缚，打开一个千亿只智能视觉",
+      "detail": "神眸做的事情不是追逐英伟达，而是在算力浪潮的下游，用极致的低功耗芯片设计，让摄像头摆脱电线的束缚，打开一个千亿只智能视觉终端的未来。\n\n杨作兴带领神眸实现了摄像头功耗降低一个数量级的突破——第一代芯片达业界三分之一功耗，第二代达十分之一，首次用1瓦太阳能板驱动全天候智能摄像机。他认为，当前全球安防摄像头年出货量仅3到4亿只，但到2035年将达100亿只，2045年更将达1000亿只，因为世界大模型需要万亿级摄像头来实时映射物理世界。而在推理算力领域，杨作兴判断中国创业公司仍有大机会。\n以下为演讲内容全文，经36氪整理编辑：\n\n杨作兴丨杭州研极微电子有限公司董事长、神眸品牌创始人\n大家下午好，今天非常开心，去年在上海参加了36氪的AI+大会，今天是第二次。一年时间过去了，AI发生了非常大的变化，大家都异常兴奋。36氪AI+大会，明显感觉到今年跟去年相比有很大的变化，在此感谢主办方36氪。\n我是杭州研极微董事长、神眸品牌创始人杨作兴。AI是世界风暴的中心，这个风暴中心我们能不能再往深里看，风暴中心的眼是什么，我们认为是新质生产力。\n目前，全球市值最高的公司是英伟达，它超越了苹果、微软、亚",
+      "source": "36Kr",
       "source_authority": 0.85,
-      "date": "2026-05-19"
+      "date": "2026-05-22",
+      "score": 0.84
     }
   ],
   "category2": [
-    {
-      "title": "Spotify 推出 ElevenLabs 支持的有声读物创作工具",
-      "url": "https://techcrunch.com/2026/05/21/spotify-launches-an-elevenlabs-powered-audiobook-creation-tool/",
-      "summary": "人工智能驱动的有声读物一代不会将作者束缚在",
-      "detail": "由人工智能驱动的有声读物生成不会将作者束缚于独家合同，这意味着他们可以在任何地方自由发布生成的有声读物。",
-      "source": "TechCrunch",
-      "source_authority": 0.95,
-      "date": "2026-05-21"
-    },
-    {
-      "title": "谷歌正在向可能不买账的消费者推销人工智能代理生态系统",
-      "url": "https://techcrunch.com/2026/05/21/google-is-pitching-an-ai-agent-ecosystem-to-consumers-who-may-not-buy-it/",
-      "summary": "Google I/O 开发中最有前途的介绍之一",
-      "detail": "周二，谷歌 I/O 开发者大会上最有前途的介绍之一是消费者使用网络的新方式：人工智能代理。不幸的是，这也是最令人困惑的。",
-      "source": "TechCrunch",
-      "source_authority": 0.95,
-      "date": "2026-05-21"
-    },
     {
       "title": "台湾首次正式打击英伟达人工智能芯片走私行动，突击搜查 12 个地点，追捕三名在超微走私案中伪造文件、虚假申报的逃犯",
       "url": "https://www.tomshardware.com/desktops/servers/taiwan-raids-12-locations-in-its-first-formal-crackdown-on-nvidia-ai-chip-smuggling-hunts-three-fugitives-for-document-forgery-fraudulent-declarations-in-super-micro-smuggling-case",
@@ -73,7 +58,18 @@
       "detail": "随着台湾开始打击走私者，将被禁止的 Hopper 或 Blackwell 芯片带入大陆数据中心变得更加令人担忧。",
       "source": "Tom's Hardware",
       "source_authority": 0.7,
-      "date": "2026-05-21"
+      "date": "2026-05-21",
+      "score": 0.8325
+    },
+    {
+      "title": "能落地的请留下，讲故事的请离场",
+      "url": "https://36kr.com/p/3820169156890759?f=rss",
+      "summary": "让合作当场发生！\n\n2026年的AI行业，正在经历一次价值体系的深层重构。过去两年，聚光灯始终偏向技术侧——参数、算力、",
+      "detail": "让合作当场发生！\n\n2026年的AI行业，正在经历一次价值体系的深层重构。过去两年，聚光灯始终偏向技术侧——参数、算力、榜单排名。但今天，话语权正在向产业方转移：那些拥有真实需求、真实场景、真实业务压力的企业，开始掌握定义权。产业界最关切的问题变得具体而迫切：在必须交付结果的地方，AI到底靠不靠得住？\n5月19日，以“带着AI去前线”为主题的2026 AI Partner大会在北京亦庄通明湖会展中心开幕。本次大会由北京经开区管委会指导、36氪主办、国家信创园承办。作为首都高精尖产业的主阵地，北京经开区正以场景开放为核心，构建覆盖多领域的“全域AI试验场”。本届大会正是这一思路从“规划”走向“实战”的集中体现。\n36氪与北京经开区在推动AI产业落地的战略上深度契合。作为产业创新的长期观察者与连接者，36氪紧扣经开区的全域场景蓝图，专门设立AI+产业对接会，让需求与方案现场碰撞，加速“AI+”在实体经济中生根。正是这一设计，让外会场供需双方的热情远超预期——需求方带着痛点来，技术方带着方案上，让合作当场发生！\n\n\n  “带着AI去前线”：\n不是口号，是判断\n大会期间，36氪CE",
+      "source": "36Kr",
+      "source_authority": 0.85,
+      "date": "2026-05-22",
+      "score": 0.795
     },
     {
       "title": "AMD 开始量产 256 核 EPYC Venice——首款 2nm HPC 芯片声称性能飞跃 70%",
@@ -82,45 +78,49 @@
       "detail": "AMD 宣布其代号为 Venice 的第六代 EPYC 处理器已在台湾台积电的 N2 工艺上进入量产阶段。",
       "source": "Tom's Hardware",
       "source_authority": 0.7,
-      "date": "2026-05-21"
+      "date": "2026-05-21",
+      "score": 0.7875
     },
     {
-      "title": "机器人军队的未来就在这里——但它不是你想象的那样",
-      "url": "https://www.newscientist.com/article/2527125-the-future-of-robot-armies-is-here-and-its-not-what-you-think/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology",
-      "summary": "机器人每年都越来越成为我们生活的一部分，并且",
-      "detail": "机器人每年都越来越成为我们生活的一部分，而对机器人大军崛起的担忧长期以来一直困扰着这项技术。但专栏作家 Annalee Newitz 与纳米机器人研究人员交谈，发现真正的机器人军队可能是解决医疗或环境问题的一个受欢迎的解决方案",
-      "source": "New Scientist",
-      "source_authority": 0.75,
-      "date": "2026-05-19"
+      "title": "Spotify 推出 ElevenLabs 支持的有声读物创作工具",
+      "url": "https://techcrunch.com/2026/05/21/spotify-launches-an-elevenlabs-powered-audiobook-creation-tool/",
+      "summary": "人工智能驱动的有声读物一代不会将作者束缚在",
+      "detail": "由人工智能驱动的有声读物生成不会将作者束缚于独家合同，这意味着他们可以在任何地方自由发布生成的有声读物。",
+      "source": "TechCrunch",
+      "source_authority": 0.95,
+      "date": "2026-05-21",
+      "score": 0.76
+    },
+    {
+      "title": "OpenAI的“灾难大师”能否修复AI的声誉危机？",
+      "url": "https://www.wired.com/story/openai-chris-lehane-global-affairs-pr/",
+      "summary": "全球事务主管克里斯·勒哈恩 (Chris Lehane) 希望降低债务负担",
+      "detail": "全球事务主管 Chris Lehane 希望缓和有关人工智能社会影响的争论，并让各州通过不会阻碍 OpenAI 迅速崛起的法律。",
+      "source": "Wired",
+      "source_authority": 0.85,
+      "date": "2026-05-22",
+      "score": 0.755
     }
   ],
   "category3": [
     {
-      "title": "定制 AI ASIC 的发展状况（2026 年 5 月）——Broadcom 交易、Google TPU、Meta MTIA 等",
-      "url": "https://www.tomshardware.com/tech-industry/semiconductors/custom-ai-asics-examined-from-broadcom-to-mtia",
-      "summary": "基于ASIC的AI服务器出货量预计将达到27.8%",
-      "detail": "基于 ASIC 的 AI 服务器出货量预计到 2026 年将达到 27.8% 的市场份额，为 2023 年以来的最高份额，定制 ASIC 出货量将同比增长 44.6%。",
+      "title": "Nvidia 的内存成本飙升 485%，最新的 AI 系统目前的构建成本为 780 万美元——内存目前占总成本的 25%，Rubin GPU 每个仅​​需 5 万美元",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidias-memory-costs-soar-485-percent-latest-ai-systems-now-cost-usd7-8-million-to-build-memory-now-comprises-25-percent-of-the-total-cost-rubin-gpus-a-mere-usd50-000-apiece",
+      "summary": "随着 Vera Rubin 平台中每个机架的内存容量增加，",
+      "detail": "随着 Vera Rubin 平台中每个机架内存容量的增加，它现在占其成本的近 25%。",
       "source": "Tom's Hardware",
       "source_authority": 0.7,
       "date": "2026-05-21"
     },
     {
-      "title": "Nvidia 公布又一个创纪录的季度业绩，披露了 43B 美元的初创公司持仓",
-      "url": "https://techcrunch.com/2026/05/20/nvidia-posts-another-record-quarter-reveals-43-billion-of-holdings-in-startups/",
-      "summary": "英伟达盘后公布营收数据再创新高",
-      "detail": "周三收盘后，英伟达公布了再创新高的营收数据，但预计下一季度营收增长将放缓。",
-      "source": "TechCrunch",
-      "source_authority": 0.95,
-      "date": "2026-05-20"
-    },
-    {
-      "title": "三星在最后一刻与 48,000 名工人工会达成工资协议后，勉强避免了为期 18 天的芯片罢工——暂定协议取决于工人投票，将暂停价值数十亿美元的潜在损失",
-      "url": "https://www.tomshardware.com/tech-industry/big-tech/samsung-narrowly-avoids-18-day-chip-strike-after-last-minute-wage-deal-with-48-000-worker-union-tentative-deal-subject-to-workers-vote-suspends-billions-of-dollars-worth-of-potential-losses",
-      "summary": "三星电子暂时避免了为期 18 天的重大发布会",
-      "detail": "三星电子在与其 48,000 名工会成员达成临时工资协议后，暂时避免了韩国半导体工厂发生为期 18 天的大罢工。",
+      "title": "中国新的国产游戏 GPU 在性能和价格上都表现不佳——旗舰产品 485 美元的 LX 7G100 无法跟上 Nvidia 旧款 RTX 4060 的步伐",
+      "url": "https://www.tomshardware.com/pc-components/gpus/chinas-new-homegrown-gaming-gpu-flops-in-performance-and-price-flagship-usd485-lx-7g100-cant-keep-pace-with-nvidias-older-rtx-4060",
+      "summary": "力算科技LX 7G100游戏显卡上架预售",
+      "detail": "Lisuan Tech 的 LX 7G100 游戏显卡的预购价格为 485 美元，中国媒体对此进行了评论。",
       "source": "Tom's Hardware",
       "source_authority": 0.7,
-      "date": "2026-05-20"
+      "date": "2026-05-21",
+      "score": 0.765
     },
     {
       "title": "Anthropic 表示即将迎来第一个盈利季度",
@@ -129,63 +129,80 @@
       "detail": "Anthropic 告诉投资者，第二季度的收入将增加一倍多，达到 109 亿美元左右。",
       "source": "TechCrunch",
       "source_authority": 0.95,
-      "date": "2026-05-21"
+      "date": "2026-05-21",
+      "score": 0.7525
     },
     {
-      "title": "我用 Gemini 的 AI 头像工具克隆了自己。结果让我感到不安",
-      "url": "https://www.wired.com/story/i-cloned-myself-with-geminis-ai-avatar-tool-the-result-was-unnervingly-me/",
-      "summary": "我使用 Gemini 应用程序生成了栩栩如生的视频，其中包含",
-      "detail": "我使用 Gemini 应用程序生成了栩栩如生的视频，其中包含我自己的数字克隆。谷歌将其视为创造的未来。我仍然感到害怕。",
-      "source": "Wired",
-      "source_authority": 0.85,
-      "date": "2026-05-21"
+      "title": "OpenAI 有望在 9 月份进行 IPO",
+      "url": "https://techcrunch.com/2026/05/20/openai-barrels-toward-ipo-that-may-happen-in-september/",
+      "summary": "埃隆·马斯克 (Elon Musk) 在威胁 OpenA 的诉讼中败诉一天后",
+      "detail": "埃隆·马斯克 (Elon Musk) 在威胁 OpenAI 结构、领导力和财务的诉讼中败诉一天后，据报道 OpenAI 又开始准备 IPO。",
+      "source": "TechCrunch",
+      "source_authority": 0.95,
+      "date": "2026-05-20",
+      "score": 0.7525
+    },
+    {
+      "title": "英伟达黄仁勋：LPX 等 SRAM AI 芯片将长期属于利基市场",
+      "url": "https://www.ithome.com/0/954/083.htm",
+      "summary": "IT之家 5 月 22 日消息，NVIDIA 创始人、总裁兼首席执行官黄仁勋在企业 FY2027Q1 财报电话会议上回答",
+      "detail": "IT之家 5 月 22 日消息，NVIDIA 创始人、总裁兼首席执行官黄仁勋在企业 FY2027Q1 财报电话会议上回答分析师问题时表示，LPX 等基于 SRAM 的 AI 推理解码工作负载加速器芯片将长期属于利基市场，GPU 等仍将占据主要地位。黄仁勋表示，LPX 的设计目标是低延迟和高 Token（词元）速率，但吞吐量和容量都比较低。其适合软件编程场景的上下文处理，但在代理式任务上就不那么擅长。LPX 的应用场景并不广泛，其最适合的是需求高 Token 速率的高定价 AI 服务。考虑到仅有少数 AI 服务提供商提供高定价方案，其潜在客户群体相对较少。此类高价服务当前在整体 AI 市场中的占比远低于 20%，未来确实可能会达到 20% 水平。",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-05-22",
+      "score": 0.74
     }
   ],
   "category4": [
     {
-      "title": "Anthropic 将每月向 xAI 支付 1.25B 美元用于计算",
-      "url": "https://techcrunch.com/2026/05/20/anthropic-will-pay-xai-1-25-billion-per-month-for-compute/",
-      "summary": "埃隆·马斯克 (Elon Musk) 的 xAI 与",
-      "detail": "埃隆·马斯克 (Elon Musk) 的 xAI 与 Anthropic 达成协议，出售计算能力，令人工智能界感到惊讶。现在我们知道它值多少钱了。",
+      "title": "OpenAI 声称它解决了一个 80 年前的数学问题——这次是真的",
+      "url": "https://techcrunch.com/2026/05/20/openai-claims-it-solved-an-80-year-old-math-problem-for-real-this-time/",
+      "summary": "OpenAI 声称其推理模型反驳了几何猜想",
+      "detail": "OpenAI 声称其推理模型反驳了自 1946 年以来一直未解的几何猜想，而这一次，揭露其最后令人尴尬的主张的数学家们也支持了它。",
       "source": "TechCrunch",
       "source_authority": 0.95,
-      "date": "2026-05-20"
+      "date": "2026-05-20",
+      "score": 0.75
     },
     {
-      "title": "Jensen Huang 表示他为 Nvidia 找到了一个“全新”的 200B 美元市场",
-      "url": "https://techcrunch.com/2026/05/20/jensen-huang-says-hes-found-a-brand-new-200b-market-for-nvidia/",
-      "summary": "Nvidia 的下一件大事将是用于 AI 代理的 CPU，2 美元",
-      "detail": "Nvidia 的下一件大事将是用于人工智能代理的 CPU，首席执行官黄仁勋 (Jensen Huang) 预测，价值 2000 亿美元。",
+      "title": "由于机器人出租车不断驶入洪水，Waymo 将暂停时间扩大到四个城市",
+      "url": "https://techcrunch.com/2026/05/21/waymo-pauses-service-in-four-cities-as-robotaxis-keep-driving-into-floods/",
+      "summary": "Waymo 的机器人出租车服务现已在亚特兰大和亚特兰大暂停",
+      "detail": "Waymo 的机器人出租车服务现已在亚特兰大和圣安东尼奥暂停，该公司正在努力阻止其车辆驶入被洪水淹没的道路。",
       "source": "TechCrunch",
-      "source_authority": 0.95,
-      "date": "2026-05-21"
+      "source_authority": 0.9,
+      "date": "2026-05-22",
+      "score": 0.745
     },
     {
-      "title": "ASML 首席执行官表示埃隆·马斯克对 TeraFab 芯片制造大型项目“非常认真”，并确认直接谈判——马斯克的目标是价值 1190 亿美元的德克萨斯州半导体工厂",
-      "url": "https://www.tomshardware.com/tech-industry/asml-ceo-confirms-direct-talks-with-elon-musk-about-terafab",
-      "summary": "ASML 首席执行官 Christophe Fouquet 周三表示，他已经",
-      "detail": "ASML 首席执行官 Christophe Fouquet 周三表示，他已与埃隆·马斯克直接就 TeraFab 半导体项目进行了交谈。",
-      "source": "Tom's Hardware",
-      "source_authority": 0.7,
-      "date": "2026-05-21"
-    },
-    {
-      "title": "我给了我的 OpenClaw 特工一个实体",
-      "url": "https://www.wired.com/story/i-gave-my-openclaw-agent-physical-body-robot/",
-      "summary": "人工智能模型的编码技能将使事情变得更加容易",
-      "detail": "人工智能模型的编码技能将使机器人的构建和部署变得更加容易。",
+      "title": "Google I/O 2026 上公布的一切：Gemini、搜索、智能眼镜",
+      "url": "https://www.wired.com/story/everything-google-announced-at-google-io-2026/",
+      "summary": "谷歌正在改进其 Gemini 模型、改进搜索、",
+      "detail": "谷歌正在完善其 Gemini 模型，改进搜索，并在一切领域启用人工智能代理。今年秋天还将推出一些漂亮的新型智能眼镜。",
       "source": "Wired",
       "source_authority": 0.85,
-      "date": "2026-05-20"
+      "date": "2026-05-19",
+      "score": 0.725
     },
     {
-      "title": "物联网小工具制造商 AcuRite 分享了杀死客户最喜欢的应用程序的原因",
-      "url": "https://arstechnica.com/gadgets/2026/05/iot-gadget-maker-acurite-shares-reasoning-for-killing-customers-favorite-app/",
-      "summary": "“迁移到 AcuRite NOW 并不像某些客户那样顺利",
-      "detail": "“迁移到 AcuRite NOW 并不像一些客户预期的那么顺利......”",
-      "source": "Ars Technica",
-      "source_authority": 0.8,
-      "date": "2026-05-21"
+      "title": "优必选等在温州成立具身智能科技公司，注册资本7000万",
+      "url": "https://36kr.com/newsflashes/3820258546077830?f=rss",
+      "summary": "36氪获悉，天眼查App显示，5月22日，温州市具身智能科技有限公司成立，法定代表人为余仰望，注册资本7000万人民币，",
+      "detail": "36氪获悉，天眼查App显示，5月22日，温州市具身智能科技有限公司成立，法定代表人为余仰望，注册资本7000万人民币，经营范围包括软件开发、智能机器人的研发、特殊作业机器人制造、服务消费机器人制造等。股东信息显示，该公司由深圳市优必选科技股份有限公司、温州市数据集团有限公司、温州国投股权投资基金有限公司等共同持股。",
+      "source": "36Kr",
+      "source_authority": 0.85,
+      "date": "2026-05-22",
+      "score": 0.725
+    },
+    {
+      "title": "让智能体看见世界：CV × AI Agent 的行业场景新实践| 2026AI Partner·北京亦庄AI+产业大会",
+      "url": "https://36kr.com/p/3820220616495492?f=rss",
+      "summary": "让智能体“看见”世界，不是给它装上摄像头那么简单。当CV遇上AI Agent，乘数效应正在发生。AI Agent不等于C",
+      "detail": "让智能体“看见”世界，不是给它装上摄像头那么简单。当CV遇上AI Agent，乘数效应正在发生。AI Agent不等于Chatbot，真正的价值在于静默看护与自主决策。\n\nAI进入产业腹地仍面临两大鸿沟：视觉认知与行业的理解。为此，大华股份构建了星汉大模型系列——V系列视觉大模型让系统“看得懂”物理世界，L系列行业模型打通业务逻辑。未来“基模+行业Know-how”将成为新范式，而AI的终局不是刷榜，是让每个行业、每个个体都不掉队。\n以下为大华股份研发中心副总裁 周文凯 演讲内容，经36氪整理编辑：\n\n周文凯丨大华股份研发中心副总裁\n非常感谢北京亦庄和36氪给我们这个机会来给大家做一个分享。\n我今天分享的主题是让智能体看见世界。为什么让智能体看见世界？看见世界并不是让数字世界的智能体装上摄像头，或者输入视频数据让它看得到物理世界这么简单，CV × AI Agent，为什么是乘，CV是视觉计算，AI Agent是智能体，让数字世界的AI智能体可以认知物理世界非常重要，这两个事情并不是特性和功能的孤立，而是相互乘数效应的加强。\n简单来说，AI智能体对物理世界的认知，可以为我们对于数字世界",
+      "source": "36Kr",
+      "source_authority": 0.85,
+      "date": "2026-05-22",
+      "score": 0.72
     }
   ]
 }

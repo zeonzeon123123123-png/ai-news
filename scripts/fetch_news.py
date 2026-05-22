@@ -17,43 +17,59 @@ RSS_SOURCES = [
     {"url": "https://www.newscientist.com/subject/technology/feed/", "source": "New Scientist", "authority": 0.75},
     {"url": "https://arstechnica.com/feed/", "source": "Ars Technica", "authority": 0.8},
     {"url": "https://www.wired.com/feed/rss", "source": "Wired", "authority": 0.85},
+    {"url": "https://www.theverge.com/rss/index.xml", "source": "The Verge", "authority": 0.85},
+    {"url": "https://techcrunch.com/feed/", "source": "TechCrunch", "authority": 0.9},
+    {"url": "https://www.theverge.com/rss/tech/index.xml", "source": "The Verge", "authority": 0.85},
+    {"url": "https://arstechnica.com/tag/ai/feed/", "source": "Ars Technica", "authority": 0.85},
+    {"url": "https://feeds.feedburner.com/ruanyifeng", "source": "Ruan Yifeng", "authority": 0.75},
+    {"url": "https://36kr.com/feed", "source": "36Kr", "authority": 0.85},
+    {"url": "https://www.jiqizhixin.com/rss", "source": "Jiqizhixin", "authority": 0.85},
+    {"url": "https://www.ithome.com/rss/", "source": "ITHome", "authority": 0.75},
 ]
 
 CATEGORY_KEYWORDS = {
     "1": {
         "core": ["llm", "gpt", "claude", "gemini", "llama", "openai", "anthropic", "deepmind",
                  "deepseek", "mistral", "qwen", "language model", "foundation model",
-                 "transformer", "diffusion model", "agi", "multimodal model"],
+                 "transformer", "diffusion model", "agi", "multimodal model",
+                 "大模型", "基础模型", "语言模型", "通用人工智能", "深度学习"],
         "secondary": ["model", "training", "fine-tuning", "rlhf", "alignment", "neural network",
                       "bert", "parameters", "checkpoint", "reasoning", "inference",
-                      "large language", "ai model", "generative model"],
+                      "large language", "ai model", "generative model",
+                      "训练", "微调", "推理", "参数", "对齐"],
     },
     "2": {
         "core": ["copilot", "chatbot", "ai agent", "ai assistant", "ai-powered app",
                  "ai product launch", "midjourney", "sora", "ai coding", "ai tool launch",
-                 "elevenlabs", "ai avatar", "ai clone"],
+                 "elevenlabs", "ai avatar", "ai clone",
+                 "AI应用", "AI产品", "智能助手", "AI编程", "AI写作", "AI绘画"],
         "secondary": ["ai app", "ai product", "ai platform", "ai tool", "ai-powered",
                       "ai feature", "ai integration", "generative ai app", "ai writing",
                       "ai art", "ai music", "ai video", "ai therapy", "ai audiobook",
-                      "podcast ai", "spotify ai", "cursor", "notion ai"],
+                      "podcast ai", "spotify ai", "cursor", "notion ai",
+                      "智能办公", "AI办公", "AI工具"],
     },
     "3": {
         "core": ["gpu", "nvidia gpu", "ai chip", "tpu", "ai accelerator", "h100", "h200", "b200",
                  "ai semiconductor", "ai asic", "epyc", "data center ai", "ai server",
-                 "chip manufacturing", "tsmc ai"],
+                 "chip manufacturing", "tsmc ai",
+                 "AI芯片", "算力", "GPU", "芯片制造", "智算中心", "国产芯片"],
         "secondary": ["nvidia", "amd", "chip", "semiconductor", "hbm", "asic", "fpga",
                       "processor", "foundry", "tsmc", "intel", "broadcom", "mtia",
                       "server shipment", "production ramp", "2nm", "3nm", "fabrication",
-                      "compute", "super micro", "smuggling"],
+                      "compute", "super micro", "smuggling",
+                      "半导体", "台积电", "英伟达", "昇腾", "寒武纪"],
     },
     "4": {
         "core": ["robot", "humanoid robot", "embodied ai", "self-driving car", "autonomous vehicle",
                  "waymo", "tesla bot", "optimus robot", "atlas robot", "boston dynamics",
-                 "figure ai", "delivery robot", "surgical robot", "drone ai"],
+                 "figure ai", "delivery robot", "surgical robot", "drone ai",
+                 "机器人", "人形机器人", "具身智能", "自动驾驶", "无人驾驶", "特斯拉机器人"],
         "secondary": ["humanoid", "autonomous driving", "bipedal", "manipulation",
                       "locomotion", "walker robot", "ubtech", "agility robotics",
                       "autonomous", "lidar", "robotic arm", "industrial robot",
-                      "service robot", "smart hardware", "iot device"],
+                      "service robot", "smart hardware", "iot device",
+                      "优必选", "机械臂", "服务机器人", "工业机器人", "激光雷达"],
     },
 }
 
@@ -64,6 +80,8 @@ INDUSTRY_KEYWORDS = [
     "regulation", "policy", "ban", "restrict", "export", "law", "legislation",
     "breakthrough", "first", "record", "milestone", "launches", "announces",
     "partnership", "acquisition", "deal", "contract", "investment",
+    "融资", "上市", "突破", "首次", "发布", "合作", "收购", "投资", "政策", "禁令", "限制",
+    "十亿", "亿", "美元",
 ]
 
 NOISE_KEYWORDS = [
@@ -80,9 +98,13 @@ SOURCE_AUTHORITY = {
     "MIT Tech Review": 0.9,
     "The Verge": 0.9,
     "Wired": 0.85,
+    "36Kr": 0.85,
+    "Jiqizhixin": 0.85,
     "Ars Technica": 0.8,
     "VentureBeat": 0.8,
     "New Scientist": 0.75,
+    "ITHome": 0.75,
+    "Ruan Yifeng": 0.75,
     "Tom's Hardware": 0.7,
 }
 
@@ -112,17 +134,23 @@ def translate_to_chinese(text):
     return text
 
 
-def validate_url(url, timeout=10):
-    try:
-        resp = requests.head(url, timeout=timeout, allow_redirects=True)
-        return resp.status_code == 200
-    except:
+def validate_url(url, timeout=15):
+    for attempt in range(2):
+        try:
+            resp = requests.head(url, timeout=timeout, allow_redirects=True)
+            if resp.status_code == 200:
+                return True
+        except:
+            pass
         try:
             resp = requests.get(url, timeout=timeout, allow_redirects=True, stream=True)
             resp.close()
-            return resp.status_code == 200
+            if resp.status_code == 200:
+                return True
         except:
-            return False
+            pass
+        time.sleep(1)
+    return False
 
 
 def classify_item(title, summary):
@@ -140,30 +168,57 @@ def classify_item(title, summary):
 def score_relevance(item, cat):
     text = (item["title"] + " " + item["summary"]).lower()
     kw_groups = CATEGORY_KEYWORDS.get(cat, {})
-    core_hits = sum(2 for kw in kw_groups.get("core", []) if kw.lower() in text)
+    core_hits = sum(1 for kw in kw_groups.get("core", []) if kw.lower() in text)
     secondary_hits = sum(1 for kw in kw_groups.get("secondary", []) if kw.lower() in text)
-    total_possible = len(kw_groups.get("core", [])) * 2 + len(kw_groups.get("secondary", []))
-    if total_possible == 0:
-        return 0
-    raw = (core_hits + secondary_hits) / total_possible
-    return min(raw * 3, 1.0)
+    if core_hits >= 3:
+        return 1.0
+    elif core_hits == 2:
+        return 0.95
+    elif core_hits == 1:
+        if secondary_hits >= 2:
+            return 0.9
+        elif secondary_hits == 1:
+            return 0.85
+        else:
+            return 0.7
+    elif secondary_hits >= 3:
+        return 0.7
+    elif secondary_hits == 2:
+        return 0.55
+    elif secondary_hits == 1:
+        return 0.4
+    return 0
 
 
 def score_industry_impact(item):
     text = (item["title"] + " " + item["summary"]).lower()
     hits = sum(1 for kw in INDUSTRY_KEYWORDS if kw.lower() in text)
-    return min(hits / 5, 1.0)
+    if hits >= 5:
+        return 1.0
+    elif hits >= 4:
+        return 0.95
+    elif hits >= 3:
+        return 0.85
+    elif hits >= 2:
+        return 0.75
+    elif hits >= 1:
+        return 0.6
+    return 0.3
 
 
 def score_content_depth(item):
     detail_len = len(item.get("detail", ""))
-    if detail_len > 200:
+    if detail_len > 300:
         return 1.0
+    elif detail_len > 200:
+        return 0.9
+    elif detail_len > 150:
+        return 0.8
     elif detail_len > 100:
         return 0.7
     elif detail_len > 50:
-        return 0.4
-    return 0.2
+        return 0.5
+    return 0.3
 
 
 def score_timeliness(item):
@@ -194,7 +249,7 @@ def compute_final_score(item, cat):
     if has_noise(item):
         return 0
     relevance = score_relevance(item, cat)
-    if relevance < 0.05:
+    if relevance < 0.4:
         return 0
     impact = score_industry_impact(item)
     depth = score_content_depth(item)
@@ -202,6 +257,9 @@ def compute_final_score(item, cat):
     source = score_source(item)
     final = (relevance * 0.30 + impact * 0.25 + depth * 0.20 + timeliness * 0.15 + source * 0.10)
     return round(final, 4)
+
+
+SCORE_THRESHOLD = 0.8
 
 
 def is_similar(title1, title2, threshold=0.5):
@@ -273,15 +331,15 @@ def main():
         cat = classify_item(item["title"], item["summary"])
         if cat:
             score = compute_final_score(item, cat)
-            if score > 0:
-                item["_cat"] = cat
-                item["_score"] = score
+            item["_cat"] = cat
+            item["_score"] = score
+            if score >= SCORE_THRESHOLD:
                 classified[cat].append(item)
 
     for cat in classified:
         classified[cat].sort(key=lambda x: x.get("_score", 0), reverse=True)
         classified[cat] = deduplicate_titles(classified[cat])
-        print(f"  Category {cat}: {len(classified[cat])} scored items (top score: {classified[cat][0]['_score'] if classified[cat] else 0})")
+        print(f"  Category {cat}: {len(classified[cat])} items above {SCORE_THRESHOLD} (top score: {classified[cat][0]['_score'] if classified[cat] else 0})")
 
     print("\nValidating URLs and translating...")
     result = {"date": datetime.now().strftime("%Y-%m-%d")}
@@ -326,15 +384,28 @@ def main():
                 print("FAILED")
 
         if len(valid_items) < 5:
-            print(f"  Category {i} needs {5 - len(valid_items)} more, supplementing...")
+            print(f"  Category {i} needs {5 - len(valid_items)} more, supplementing from 0.75+ pool...")
             pool = []
+            all_scored = []
             for other_cat in classified:
-                if other_cat == cat_key:
-                    continue
-                for item in classified[other_cat]:
-                    if item["url"] not in used_urls and item.get("_score", 0) > 0.15:
-                        pool.append(item)
+                for item_candidate in classified.get(other_cat, []):
+                    if item_candidate["url"] not in used_urls and item_candidate.get("_score", 0) >= 0.70:
+                        all_scored.append(item_candidate)
+            for item_candidate in unique_items:
+                cat2 = classify_item(item_candidate["title"], item_candidate["summary"])
+                if cat2:
+                    sc = compute_final_score(item_candidate, cat2)
+                    if sc >= 0.70 and item_candidate["url"] not in used_urls:
+                        item_candidate["_cat"] = cat2
+                        item_candidate["_score"] = sc
+                        all_scored.append(item_candidate)
+            seen = set()
+            for p in all_scored:
+                if p["url"] not in seen:
+                    seen.add(p["url"])
+                    pool.append(p)
             pool.sort(key=lambda x: x.get("_score", 0), reverse=True)
+            pool = deduplicate_titles(pool)
             for item in pool:
                 if len(valid_items) >= 5:
                     break
@@ -355,6 +426,7 @@ def main():
                     else:
                         print("OK")
                     clean_item = {k: v for k, v in item.items() if not k.startswith("_")}
+                    clean_item["score"] = score
                     valid_items.append(clean_item)
                     used_urls.add(item["url"])
                     source_count[src] = source_count.get(src, 0) + 1
