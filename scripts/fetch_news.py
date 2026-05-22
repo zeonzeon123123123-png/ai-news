@@ -4,72 +4,88 @@ import json
 import os
 import re
 import time
-import unicodedata
 from datetime import datetime, timedelta
 from bs4 import BeautifulSoup
 
-RSS_SOURCES = {
-    "1": [
-        {"url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml", "source": "The Verge"},
-        {"url": "https://techcrunch.com/category/artificial-intelligence/feed/", "source": "TechCrunch"},
-        {"url": "https://www.wired.com/feed/tag/ai/latest/rss", "source": "Wired"},
-        {"url": "https://venturebeat.com/category/ai/feed/", "source": "VentureBeat"},
-        {"url": "https://www.technologyreview.com/feed/", "source": "MIT Tech Review"},
-    ],
-    "2": [
-        {"url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml", "source": "The Verge"},
-        {"url": "https://techcrunch.com/category/artificial-intelligence/feed/", "source": "TechCrunch"},
-        {"url": "https://www.wired.com/feed/tag/ai/latest/rss", "source": "Wired"},
-        {"url": "https://venturebeat.com/category/ai/feed/", "source": "VentureBeat"},
-        {"url": "https://www.technologyreview.com/feed/", "source": "MIT Tech Review"},
-    ],
-    "3": [
-        {"url": "https://www.tomshardware.com/feeds/all", "source": "Tom's Hardware"},
-        {"url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml", "source": "The Verge"},
-        {"url": "https://techcrunch.com/category/artificial-intelligence/feed/", "source": "TechCrunch"},
-        {"url": "https://www.wired.com/feed/tag/ai/latest/rss", "source": "Wired"},
-    ],
-    "4": [
-        {"url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml", "source": "The Verge"},
-        {"url": "https://techcrunch.com/category/artificial-intelligence/feed/", "source": "TechCrunch"},
-        {"url": "https://www.wired.com/feed/tag/ai/latest/rss", "source": "Wired"},
-        {"url": "https://venturebeat.com/category/ai/feed/", "source": "VentureBeat"},
-        {"url": "https://www.tomshardware.com/feeds/all", "source": "Tom's Hardware"},
-        {"url": "https://www.technologyreview.com/feed/", "source": "MIT Tech Review"},
-        {"url": "https://www.newscientist.com/subject/technology/feed/", "source": "New Scientist"},
-        {"url": "https://arstechnica.com/feed/", "source": "Ars Technica"},
-        {"url": "https://www.wired.com/feed/rss", "source": "Wired"},
-    ],
+RSS_SOURCES = [
+    {"url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml", "source": "The Verge", "authority": 0.9},
+    {"url": "https://techcrunch.com/category/artificial-intelligence/feed/", "source": "TechCrunch", "authority": 0.95},
+    {"url": "https://www.wired.com/feed/tag/ai/latest/rss", "source": "Wired", "authority": 0.85},
+    {"url": "https://venturebeat.com/category/ai/feed/", "source": "VentureBeat", "authority": 0.8},
+    {"url": "https://www.technologyreview.com/feed/", "source": "MIT Tech Review", "authority": 0.9},
+    {"url": "https://www.tomshardware.com/feeds/all", "source": "Tom's Hardware", "authority": 0.7},
+    {"url": "https://www.newscientist.com/subject/technology/feed/", "source": "New Scientist", "authority": 0.75},
+    {"url": "https://arstechnica.com/feed/", "source": "Ars Technica", "authority": 0.8},
+    {"url": "https://www.wired.com/feed/rss", "source": "Wired", "authority": 0.85},
+]
+
+CATEGORY_KEYWORDS = {
+    "1": {
+        "core": ["llm", "gpt", "claude", "gemini", "llama", "openai", "anthropic", "deepmind",
+                 "deepseek", "mistral", "qwen", "language model", "foundation model",
+                 "transformer", "diffusion model", "agi", "multimodal model"],
+        "secondary": ["model", "training", "fine-tuning", "rlhf", "alignment", "neural network",
+                      "bert", "parameters", "checkpoint", "reasoning", "inference",
+                      "large language", "ai model", "generative model"],
+    },
+    "2": {
+        "core": ["copilot", "chatbot", "ai agent", "ai assistant", "ai-powered app",
+                 "ai product launch", "midjourney", "sora", "ai coding", "ai tool launch",
+                 "elevenlabs", "ai avatar", "ai clone"],
+        "secondary": ["ai app", "ai product", "ai platform", "ai tool", "ai-powered",
+                      "ai feature", "ai integration", "generative ai app", "ai writing",
+                      "ai art", "ai music", "ai video", "ai therapy", "ai audiobook",
+                      "podcast ai", "spotify ai", "cursor", "notion ai"],
+    },
+    "3": {
+        "core": ["gpu", "nvidia gpu", "ai chip", "tpu", "ai accelerator", "h100", "h200", "b200",
+                 "ai semiconductor", "ai asic", "epyc", "data center ai", "ai server",
+                 "chip manufacturing", "tsmc ai"],
+        "secondary": ["nvidia", "amd", "chip", "semiconductor", "hbm", "asic", "fpga",
+                      "processor", "foundry", "tsmc", "intel", "broadcom", "mtia",
+                      "server shipment", "production ramp", "2nm", "3nm", "fabrication",
+                      "compute", "super micro", "smuggling"],
+    },
+    "4": {
+        "core": ["robot", "humanoid robot", "embodied ai", "self-driving car", "autonomous vehicle",
+                 "waymo", "tesla bot", "optimus robot", "atlas robot", "boston dynamics",
+                 "figure ai", "delivery robot", "surgical robot", "drone ai"],
+        "secondary": ["humanoid", "autonomous driving", "bipedal", "manipulation",
+                      "locomotion", "walker robot", "ubtech", "agility robotics",
+                      "autonomous", "lidar", "robotic arm", "industrial robot",
+                      "service robot", "smart hardware", "iot device"],
+    },
 }
 
-KEYWORDS = {
-    "1": ["llm", "gpt", "claude", "gemini", "llama", "model", "transformer", "diffusion", "foundation",
-          "training", "fine-tuning", "rlhf", "alignment", "deepseek", "deepmind", "anthropic", "mistral",
-          "qwen", "openai", "large language", "neural network", "bert", "parameters", "checkpoint",
-          "agi", "reasoning", "inference", "multimodal", "language model", "ai model"],
-    "2": ["copilot", "chatbot", "assistant", "agent", "ai app", "ai product", "generative", "midjourney",
-          "stable diffusion", "sora", "ai tool", "ai platform", "ai-powered", "notion ai", "cursor",
-          "coding assistant", "ai feature", "ai integration", "launches ai", "announces ai",
-          "ai therapy", "audiobook", "podcast", "spotify", "elevenlabs", "ai avatar", "ai clone"],
-    "3": ["gpu", "chip", "nvidia", "amd", "tpu", "compute", "semiconductor", "hbm",
-          "asic", "fpga", "accelerat", "processor", "data center", "foundry", "tsmc",
-          "intel", "qualcomm", "epyc", "venice", "2nm", "3nm", "fabrication", "smuggling",
-          "super micro", "broadcom", "mtia", "server shipment", "production ramp"],
-    "4": ["robot", "humanoid", "embodied", "autonomous driving", "self-driving", "waymo", "optimus",
-          "atlas", "boston dynamics", "figure ai", "bipedal", "manipulation", "locomotion",
-          "walker", "ubtech", "agility", "digit", "autonomous vehicle", "lidar",
-          "drone", "tesla bot", "3d print", "iot", "sensor",
-          "autonomous", "mobility", "hardware", "device",
-          "ai-powered", "ai-driven", "smart", "intelligent", "neural", "deep learning"],
+INDUSTRY_KEYWORDS = [
+    "openai", "google", "microsoft", "meta", "nvidia", "amd", "apple", "amazon",
+    "anthropic", "deepmind", "tesla", "baidu", "alibaba", "bytedance", "huawei",
+    "billion", "million", "funding", "series a", "series b", "ipo", "valuation",
+    "regulation", "policy", "ban", "restrict", "export", "law", "legislation",
+    "breakthrough", "first", "record", "milestone", "launches", "announces",
+    "partnership", "acquisition", "deal", "contract", "investment",
+]
+
+NOISE_KEYWORDS = [
+    "discount", "sale", "save $", "coupon", "deal on", "best buy", "newegg",
+    "gaming chair", "gaming monitor", "gaming laptop", "gaming pc", "memorial day",
+    "black friday", "prime day", "review:", "hands-on:", "unboxing",
+    "chromebook", "smart ring", "smart watch", "fitness tracker",
+    "crypto", "bitcoin", "nft", "etf", "funeral",
+    "ssd deal", "hard drive deal", "monitor deal",
+]
+
+SOURCE_AUTHORITY = {
+    "TechCrunch": 0.95,
+    "MIT Tech Review": 0.9,
+    "The Verge": 0.9,
+    "Wired": 0.85,
+    "Ars Technica": 0.8,
+    "VentureBeat": 0.8,
+    "New Scientist": 0.75,
+    "Tom's Hardware": 0.7,
 }
 
-EXCLUDE_KEYWORDS = {
-    "3": ["gaming laptop", "gaming pc", "discount", "sale", "save $", "coupon",
-          "gaming chair", "memorial day", "gaming monitor", "ssd", "hard drive",
-          "chromebook", "deal on", "best buy", "newegg"],
-    "4": ["crypto", "bitcoin", "etf", "funeral", "chromebook", "gaming chair",
-          "gaming monitor", "memorial day", "discount", "best buy", "newegg"],
-}
 
 def is_chinese(text):
     if not text:
@@ -79,6 +95,7 @@ def is_chinese(text):
         if '\u4e00' <= ch <= '\u9fff':
             count += 1
     return count / max(len(text), 1) > 0.1
+
 
 def translate_to_chinese(text):
     if not text or is_chinese(text):
@@ -91,8 +108,9 @@ def translate_to_chinese(text):
                 return result
         except Exception as e:
             print(f"    Translation retry {attempt+1}: {e}")
-            time.sleep(1)
+            time.sleep(2)
     return text
+
 
 def validate_url(url, timeout=10):
     try:
@@ -106,23 +124,96 @@ def validate_url(url, timeout=10):
         except:
             return False
 
+
 def classify_item(title, summary):
     text = (title + " " + summary).lower()
     scores = {}
-    for cat, keywords in KEYWORDS.items():
-        score = sum(1 for kw in keywords if kw.lower() in text)
-        scores[cat] = score
+    for cat, kw_groups in CATEGORY_KEYWORDS.items():
+        core_hits = sum(2 for kw in kw_groups["core"] if kw.lower() in text)
+        secondary_hits = sum(1 for kw in kw_groups["secondary"] if kw.lower() in text)
+        scores[cat] = core_hits + secondary_hits
     if max(scores.values()) == 0:
         return None
-    best_cat = max(scores, key=scores.get)
-    if best_cat in EXCLUDE_KEYWORDS:
-        for excl in EXCLUDE_KEYWORDS[best_cat]:
-            if excl.lower() in text:
-                scores[best_cat] = max(0, scores[best_cat] - 5)
-        best_cat = max(scores, key=scores.get)
-    return best_cat
+    return max(scores, key=scores.get)
 
-def fetch_rss(url, source_name):
+
+def score_relevance(item, cat):
+    text = (item["title"] + " " + item["summary"]).lower()
+    kw_groups = CATEGORY_KEYWORDS.get(cat, {})
+    core_hits = sum(2 for kw in kw_groups.get("core", []) if kw.lower() in text)
+    secondary_hits = sum(1 for kw in kw_groups.get("secondary", []) if kw.lower() in text)
+    total_possible = len(kw_groups.get("core", [])) * 2 + len(kw_groups.get("secondary", []))
+    if total_possible == 0:
+        return 0
+    raw = (core_hits + secondary_hits) / total_possible
+    return min(raw * 3, 1.0)
+
+
+def score_industry_impact(item):
+    text = (item["title"] + " " + item["summary"]).lower()
+    hits = sum(1 for kw in INDUSTRY_KEYWORDS if kw.lower() in text)
+    return min(hits / 5, 1.0)
+
+
+def score_content_depth(item):
+    detail_len = len(item.get("detail", ""))
+    if detail_len > 200:
+        return 1.0
+    elif detail_len > 100:
+        return 0.7
+    elif detail_len > 50:
+        return 0.4
+    return 0.2
+
+
+def score_timeliness(item):
+    try:
+        pub = datetime.strptime(item["date"], "%Y-%m-%d")
+        days_old = (datetime.now() - pub).days
+    except:
+        days_old = 7
+    if days_old == 0:
+        return 1.0
+    elif days_old == 1:
+        return 0.8
+    elif days_old <= 3:
+        return 0.5
+    return 0.2
+
+
+def score_source(item):
+    return SOURCE_AUTHORITY.get(item.get("source", ""), 0.5)
+
+
+def has_noise(item):
+    text = (item["title"] + " " + item["summary"]).lower()
+    return any(nk.lower() in text for nk in NOISE_KEYWORDS)
+
+
+def compute_final_score(item, cat):
+    if has_noise(item):
+        return 0
+    relevance = score_relevance(item, cat)
+    if relevance < 0.05:
+        return 0
+    impact = score_industry_impact(item)
+    depth = score_content_depth(item)
+    timeliness = score_timeliness(item)
+    source = score_source(item)
+    final = (relevance * 0.30 + impact * 0.25 + depth * 0.20 + timeliness * 0.15 + source * 0.10)
+    return round(final, 4)
+
+
+def is_similar(title1, title2, threshold=0.5):
+    words1 = set(title1.lower().split())
+    words2 = set(title2.lower().split())
+    if not words1 or not words2:
+        return False
+    overlap = len(words1 & words2) / min(len(words1), len(words2))
+    return overlap > threshold
+
+
+def fetch_rss(url, source_name, authority):
     items = []
     try:
         feed = feedparser.parse(url)
@@ -134,7 +225,7 @@ def fetch_rss(url, source_name):
             summary = ""
             if entry.get("summary"):
                 soup = BeautifulSoup(entry.summary, "html.parser")
-                summary = soup.get_text()[:300].strip()
+                summary = soup.get_text()[:500].strip()
             pub_date = datetime.now().strftime("%Y-%m-%d")
             if entry.get("published_parsed"):
                 try:
@@ -150,91 +241,128 @@ def fetch_rss(url, source_name):
                 "summary": summary[:60],
                 "detail": summary,
                 "source": source_name,
+                "source_authority": authority,
                 "date": pub_date,
             })
     except Exception as e:
-        print(f"Error fetching {url}: {e}")
+        print(f"  Error fetching {url}: {e}")
     return items
+
 
 def main():
     print("Fetching RSS feeds...")
     all_items = []
-    for cat, sources in RSS_SOURCES.items():
-        for src in sources:
-            items = fetch_rss(src["url"], src["source"])
-            print(f"  {src['source']}: {len(items)} items")
-            for item in items:
-                classified_cat = classify_item(item["title"], item["summary"])
-                if classified_cat:
-                    item["_cat"] = classified_cat
-                    all_items.append(item)
+    for src in RSS_SOURCES:
+        items = fetch_rss(src["url"], src["source"], src.get("authority", 0.7))
+        print(f"  {src['source']}: {len(items)} items")
+        all_items.extend(items)
+
+    print(f"\nTotal raw items: {len(all_items)}")
+
+    seen_urls = set()
+    unique_items = []
+    for item in all_items:
+        if item["url"] not in seen_urls:
+            seen_urls.add(item["url"])
+            unique_items.append(item)
+
+    print(f"After URL dedup: {len(unique_items)}")
 
     classified = {"1": [], "2": [], "3": [], "4": []}
-    for item in all_items:
-        cat = item.pop("_cat")
-        seen_titles = {n["title"] for n in classified[cat]}
-        if item["title"] not in seen_titles:
-            classified[cat].append(item)
+    for item in unique_items:
+        cat = classify_item(item["title"], item["summary"])
+        if cat:
+            score = compute_final_score(item, cat)
+            if score > 0:
+                item["_cat"] = cat
+                item["_score"] = score
+                classified[cat].append(item)
 
     for cat in classified:
-        classified[cat].sort(key=lambda x: x["date"], reverse=True)
+        classified[cat].sort(key=lambda x: x.get("_score", 0), reverse=True)
+        classified[cat] = deduplicate_titles(classified[cat])
+        print(f"  Category {cat}: {len(classified[cat])} scored items (top score: {classified[cat][0]['_score'] if classified[cat] else 0})")
 
     print("\nValidating URLs and translating...")
     result = {"date": datetime.now().strftime("%Y-%m-%d")}
     used_titles = set()
+    used_urls = set()
+
     for i in range(1, 5):
         cat_key = str(i)
         valid_items = []
+        source_count = {}
         candidates = classified[cat_key]
-        print(f"  Category {i}: {len(candidates)} candidates, validating...")
+
         for item in candidates:
             if len(valid_items) >= 5:
                 break
+            src = item.get("source", "")
+            if source_count.get(src, 0) >= 2:
+                continue
+            if item["url"] in used_urls:
+                continue
+
             url = item["url"]
-            print(f"    Checking: {url[:80]}...", end=" ")
+            score = item.get("_score", 0)
+            print(f"  [{score:.2f}] {url[:70]}...", end=" ")
+
             if validate_url(url):
                 if not is_chinese(item["title"]):
-                    print("OK, translating...", end=" ")
+                    print("OK trans...", end=" ")
                     item["title"] = translate_to_chinese(item["title"])
                     item["summary"] = translate_to_chinese(item["summary"])
                     item["detail"] = translate_to_chinese(item["detail"])
                     time.sleep(0.5)
                     print("done")
                 else:
-                    print("OK (Chinese)")
-                valid_items.append(item)
+                    print("OK")
+                clean_item = {k: v for k, v in item.items() if not k.startswith("_")}
+                valid_items.append(clean_item)
                 used_titles.add(item["title"])
+                used_urls.add(item["url"])
+                source_count[src] = source_count.get(src, 0) + 1
             else:
                 print("FAILED")
+
         if len(valid_items) < 5:
-            print(f"  Category {i} only has {len(valid_items)} items, supplementing from other categories...")
-            all_candidates = []
+            print(f"  Category {i} needs {5 - len(valid_items)} more, supplementing...")
+            pool = []
             for other_cat in classified:
+                if other_cat == cat_key:
+                    continue
                 for item in classified[other_cat]:
-                    if item["title"] not in used_titles and item not in valid_items:
-                        all_candidates.append(item)
-            all_candidates.sort(key=lambda x: x["date"], reverse=True)
-            for item in all_candidates:
+                    if item["url"] not in used_urls and item.get("_score", 0) > 0.15:
+                        pool.append(item)
+            pool.sort(key=lambda x: x.get("_score", 0), reverse=True)
+            for item in pool:
                 if len(valid_items) >= 5:
                     break
+                src = item.get("source", "")
+                if source_count.get(src, 0) >= 2:
+                    continue
                 url = item["url"]
-                print(f"    Supplement: {url[:80]}...", end=" ")
+                score = item.get("_score", 0)
+                print(f"  [sup {score:.2f}] {url[:70]}...", end=" ")
                 if validate_url(url):
                     if not is_chinese(item["title"]):
-                        print("OK, translating...", end=" ")
+                        print("OK trans...", end=" ")
                         item["title"] = translate_to_chinese(item["title"])
                         item["summary"] = translate_to_chinese(item["summary"])
                         item["detail"] = translate_to_chinese(item["detail"])
                         time.sleep(0.5)
                         print("done")
                     else:
-                        print("OK (Chinese)")
-                    valid_items.append(item)
-                    used_titles.add(item["title"])
+                        print("OK")
+                    clean_item = {k: v for k, v in item.items() if not k.startswith("_")}
+                    valid_items.append(clean_item)
+                    used_urls.add(item["url"])
+                    source_count[src] = source_count.get(src, 0) + 1
                 else:
                     print("FAILED")
+
         result[f"category{i}"] = valid_items
-        print(f"  Category {i}: {len(valid_items)} valid items")
+        print(f"  Category {i}: {len(valid_items)} items")
 
     os.makedirs("data", exist_ok=True)
     with open("data/news.json", "w", encoding="utf-8") as f:
@@ -242,6 +370,19 @@ def main():
 
     total = sum(len(result.get(f"category{i}", [])) for i in range(1, 5))
     print(f"\nDone! Total: {total} validated news items")
+
+
+def deduplicate_titles(items):
+    result = []
+    for item in items:
+        is_dup = False
+        for existing in result:
+            if is_similar(item["title"], existing["title"]):
+                is_dup = True
+                break
+        if not is_dup:
+            result.append(item)
+    return result
 
 
 if __name__ == "__main__":
