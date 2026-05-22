@@ -86,14 +86,6 @@
   ],
   "category3": [
     {
-      "title": "汽车行业警告供应危机后，欧盟被迫豁免被禁的中国芯片制造商——欧洲汽车工厂警告供应链即将崩溃",
-      "url": "https://www.tomshardware.com/tech-industry/eu-moves-to-exempt-sanctioned-chinese-chipmaker-after-auto-industry-warns-of-weeks-long-supply-crisis",
-      "summary": "欧盟委员会正准备提出临时方案",
-      "detail": "欧盟委员会正准备提议暂时豁免一家中国半导体制造商免受欧盟第20轮俄罗斯制裁方案。",
-      "source": "Tom's Hardware",
-      "date": "2026-05-21"
-    },
-    {
       "title": "台湾首次正式打击英伟达人工智能芯片走私行动，突击搜查 12 个地点，追捕三名在超微走私案中伪造文件、虚假申报的逃犯",
       "url": "https://www.tomshardware.com/desktops/servers/taiwan-raids-12-locations-in-its-first-formal-crackdown-on-nvidia-ai-chip-smuggling-hunts-three-fugitives-for-document-forgery-fraudulent-declarations-in-super-micro-smuggling-case",
       "summary": "将被禁止的 Hopper 或 Blackwell 芯片纳入大陆数据",
@@ -124,6 +116,14 @@
       "detail": "由于 Grok 落后于竞争对手的人工智能服务，SpaceX 首次公开募股文件提出轨道数据中心。",
       "source": "Ars Technica",
       "date": "2026-05-21"
+    },
+    {
+      "title": "Nvidia 公布又一个创纪录的季度业绩，披露了 43B 美元的初创公司持仓",
+      "url": "https://techcrunch.com/2026/05/20/nvidia-posts-another-record-quarter-reveals-43-billion-of-holdings-in-startups/",
+      "summary": "英伟达盘后公布营收数据再创新高",
+      "detail": "周三收盘后，英伟达公布了再创新高的营收数据，但预计下一季度营收增长将放缓。",
+      "source": "TechCrunch",
+      "date": "2026-05-20"
     }
   ],
   "category4": [
