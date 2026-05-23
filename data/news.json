@@ -1,6 +1,33 @@
 {
-  "date": "2026-05-22",
+  "date": "2026-05-23",
   "category1": [
+    {
+      "title": "Anthropic最快下周完成逾300亿美元融资轮",
+      "url": "https://36kr.com/newsflashes/3821194878947715?f=rss",
+      "summary": "Anthropic PBC最快将于下周完成最新一轮融资，融资额可能超过300亿美元，公司估值超过9000亿美元，从而超越",
+      "detail": "Anthropic PBC最快将于下周完成最新一轮融资，融资额可能超过300亿美元，公司估值超过9000亿美元，从而超越竞争对手OpenAI，成为全球估值最高的人工智能初创公司。据报道，红杉资本、Dragoneer Investment Group、Altimeter Capital和Greenoaks Capital Partners预计将联合领投本轮融资。上述每家公司计划投资约20亿美元。（新浪财经）",
+      "source": "36Kr",
+      "source_authority": 0.85,
+      "date": "2026-05-23"
+    },
+    {
+      "title": "年薪 32~40 万美元：Anthropic 推出高薪写作岗，打响 AI 传播战",
+      "url": "https://www.ithome.com/0/954/277.htm",
+      "summary": "IT之家 5 月 23 日消息，科技媒体 Business Insider 昨日（5 月 22 日）发布博文，报道称 A",
+      "detail": "IT之家 5 月 23 日消息，科技媒体 Business Insider 昨日（5 月 22 日）发布博文，报道称 Anthropic 正在扩招高薪写作岗位，从而强化品牌叙事和市场沟通，尤其重视把复杂产品能力转化为清晰、具体且有吸引力的表达。根据官方招聘信息显示，Anthropic 正在招募一名文案负责人，主要面向企业客户传播，岗位年薪范围为 25.5 万至 32 万美元（IT之家注：现汇率约合 173.6 万至 217.9 万元人民币）。该职位要求应聘者拥有 10 年经验，写作范围覆盖长文案、脚本、活动内容与社交媒体文案，需要统一 Anthropic 对外表达方式。除了这一岗位，Anthropic 还在招聘内容与文案主管，年薪范围达到 32 万到 40 万美元（现汇率约合 217.9 万到 272.3 万元人民币）。该媒体解读认为，当前 AI 行业面临一个现实需求：很多产品能力过于技术化，普通用户和企业采购者并不容易快速理解。招聘描述中直接提到，候选人需要把复杂的产品能力和客户成果转化成清晰、具体且真正有趣的语言，这也是 AI 公司愿意为写作能力支付溢价的重要原因。即便如此，写作岗",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-05-23"
+    },
+    {
+      "title": "修不过来：Anthropic 披露 AI 抓虫首月战报，揪出超 1 万个高危漏洞",
+      "url": "https://www.ithome.com/0/954/272.htm",
+      "summary": "IT之家 5 月 23 日消息，Anthropic 昨日（5 月 22 日）发布公告，披露称 Project Glass",
+      "detail": "IT之家 5 月 23 日消息，Anthropic 昨日（5 月 22 日）发布公告，披露称 Project Glasswing 项目上线 1 个月后，携手约 50 家合作伙伴，已在关键软件中挖掘出超过 1 万个高危（High）和关键（Critical）级别漏洞。根据 Project Glasswing 项目合作方的反馈，Claude Mythos Preview 模型已显著提升漏洞发现能力，部分团队的找漏洞速度提升超过 10 倍，当前瓶颈已从“发现漏洞”转向“验证、披露与修补漏洞”。Cloudflare 披露，其在关键路径系统中发现 2000 个漏洞，其中 400 个属于高危或严重级别，且误报率优于人工测试。Mozilla 在 Firefox 150 中修复 271 个漏洞，这一数量超过使用 Claude Opus 4.6 测试 Firefox 148 时的 10 倍。在外部评测中，Mythos Preview 也表现突出。英国 AI Security Institute 称其是首个端到端攻破 2 个网络攻防靶场的模型。独立安全平台 XBOW 认为，该模型在网页利用基准上的表现明显强",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-05-23"
+    },
     {
       "title": "Anthropic 与 Claude 合作的《Code》展示了编码的未来——无论你喜欢与否",
       "url": "https://www.technologyreview.com/2026/05/21/1137735/anthropics-code-with-claude-showed-off-codings-future-whether-you-like-it-or-not/",
@@ -11,23 +38,56 @@
       "date": "2026-05-21"
     },
     {
-      "title": "Hark 因其神秘的“通用”人工智能界面筹集了 7 亿美元的 A 轮融资",
-      "url": "https://techcrunch.com/2026/05/21/hark-raises-700m-series-a-for-its-secretive-universal-ai-interface/",
-      "summary": "Hark 预计今年将发布首款多式联运车型",
-      "detail": "Hark 预计将在今年夏天发布其首款多式联运模型，据称该模型将为可与现有产品和服务配合使用的个人人工智能平台提供支持。该公司预计将推出专为这些系统打造的硬件设备。",
-      "source": "TechCrunch",
-      "source_authority": 0.95,
-      "date": "2026-05-21"
-    },
+      "title": "分析师表示，Nvidia 准备从英特尔和 AMD 手中夺取三分之二的 x86 服务器 CPU 市场，预计收入达 200 亿美元——“Nvidia 已步入正轨”，将在 2027 财年交付 400 万颗 Vera CPU",
+      "url": "https://www.tomshardware.com/pc-components/cpus/analyst-says-nvidia-poised-to-capture-two-thirds-of-the-x86-server-cpu-market-from-intel-and-amd-with-expected-usd20-billion-in-revenue-nvidia-is-already-on-track-to-deliver-4-million-vera-cpus-in-fy2027",
+      "summary": "Nvidia i 已成为人工智能加速器的主要供应商",
+      "detail": "Nvidia 已成为 AI 加速器的主要供应商，其 Vera CPU 的销量有望超过 AMD 和英特尔，成为领先的处理器供应商。",
+      "source": "Tom's Hardware",
+      "source_authority": 0.7,
+      "date": "2026-05-22",
+      "score": 0.8575
+    }
+  ],
+  "category2": [
     {
-      "title": "国家发改委：加快具身智能训练基础设施建设，让机器人不仅能上赛场，还能“进工厂、进商场、进家庭”",
-      "url": "https://www.ithome.com/0/954/126.htm",
-      "summary": "IT之家 5 月 22 日消息，5 月 22 日上午，国家发展改革委举行 5 月份新闻发布会。国家发展改革委政策研究室副",
-      "detail": "IT之家 5 月 22 日消息，5 月 22 日上午，国家发展改革委举行 5 月份新闻发布会。国家发展改革委政策研究室副主任、委新闻发言人李超出席发布会。李超提到，和去年相比，今年的北京亦庄人形机器人半程马拉松比赛中，机器人们的表现进步明显，比较突出的有三个方面。一是速度更快，这主要是靠高爆发力电机等元器件的性能升级。二是更加灵活，我们看到机器人通过弯道、坡道等复杂路况的能力显著提升，这主要是靠动态平衡“小脑”模型等技术进步。三是更加自主，部分机器人实现全程自主导航和避障，这主要是靠自主感知与导航模型能力的提升。IT之家注意到，李超还提到，人形机器人已经从“能跑完”升级到“能高速、灵活、自主地跑完”。我们更要看到，今年的参赛队伍从去年的 20 余支增加到百余支，完赛队伍从 6 支增加到 40 余支，在春晚、世界人形机器人运动会等场合，机器人和它们背后的创新团队，正在持续不断地给我们带来惊喜。这些都反映出我国具身智能创新活力不断增强、产业规模持续扩大的良好态势。下一步，国家发展改革委将按照“十五五”规划部署要求，以具身智能关键基础设施建设为抓手，全面推进具身智能领域高质量发展。一方面，加",
+      "title": "人形机器人也有“身份证”：全国首个管理平台在京发布，全程可追溯",
+      "url": "https://www.ithome.com/0/954/264.htm",
+      "summary": "IT之家 5 月 23 日消息，据央视新闻报道，全国首个人形机器人全生命周期管理平台在北京发布。今后每一台出厂的人形机器",
+      "detail": "IT之家 5 月 23 日消息，据央视新闻报道，全国首个人形机器人全生命周期管理平台在北京发布。今后每一台出厂的人形机器人都将拥有独一无二的“数字身份证”，可在生产、销售、使用、回收流程追溯。IT之家在此援引央视新闻，该平台由信息化部人形机器人与具身智能标准化技术委员会牵头搭建。每台机器人出厂时将被赋予唯一编码，相当于机器人的“身份证号”，覆盖从研发生产、市场准入、销售使用到报废回收的全链条，实现“源头可溯、全程可控、风险可防、责任可究”。截至目前，该平台已覆盖全国 100 余家人形机器人企业，完成 200 余个产品型号、2.8 万余台机器人的全生命周期赋码，加快形成开放、包容、共赢的产业生态。",
       "source": "ITHome",
       "source_authority": 0.75,
+      "date": "2026-05-23",
+      "score": 0.86
+    },
+    {
+      "title": "36氪首发 | 北大项目孵化，国内首家原生机器人“大脑芯片”企业获数亿元融资",
+      "url": "https://36kr.com/p/3821371042877575?f=rss",
+      "summary": "作者 | 乔钰杰\n编辑 | 袁斯来\n硬氪获悉，北京维泛智能科技有限公司（以下简称“维泛智能”）近日完成数亿元种子轮融资，",
+      "detail": "作者 | 乔钰杰\n编辑 | 袁斯来\n硬氪获悉，北京维泛智能科技有限公司（以下简称“维泛智能”）近日完成数亿元种子轮融资，由中关村资本及旗下启航投资联合领投，上海未来产业基金、石溪资本、佰维存储、燕创集团、海益投资、探元创投共同投资。\n维泛智能成立于2025年5月，孵化自北京大学类脑芯片实验室（PAICORE Lab），专注于具身智能“大小脑”融合芯片研发，致力于打造全国产化机器人核心计算方案。\n联合创始人殷积磊毕业于北京大学，拥有超过20年半导体行业经验，曾任知存科技COO兼研发副总裁，以及IBM、GlobalFoundries芯片研发总监，并曾在MTK、VIA等企业从事芯片研发工作。团队核心成员均来自IBM、华为、腾讯等行业头部企业。\n随着具身智能快速发展，机器人“大脑”算法持续演进，对通用芯片平台提出了更高要求。机器人“大脑”芯片不仅需要承载多模态感知与AI推理，还需要兼顾运动控制等核心计算任务，是机器人完成交互、决策与执行的“中枢神经”。\n目前，具身智能“大脑”芯片市场高度依赖英伟达Jetson系列，但存在着价格高昂、本地化支持有限，商业化部署门槛较高问题。\n另一方面，国产芯片目",
+      "source": "36Kr",
+      "source_authority": 0.85,
+      "date": "2026-05-23",
+      "score": 0.8325
+    },
+    {
+      "title": "微软推出 Fara1.5 系列浏览器 AI 智能体模型，72% 任务成功率超 OpenAI Operator",
+      "url": "https://www.ithome.com/0/954/266.htm",
+      "summary": "IT之家 5 月 23 日消息，微软研究院 AI Frontiers 实验室最新发布 Fara1.5 系列模型，主要适用",
+      "detail": "IT之家 5 月 23 日消息，微软研究院 AI Frontiers 实验室最新发布 Fara1.5 系列模型，主要适用于浏览器场景下的计算机使用智能体，涵盖 4B、9B 和 27B 三个参数规模版本。该系列模型配套 MagenticLite（微软为此类智能体设计的沙盒浏览器界面）使用，可以直接读取浏览器截图，再输出鼠标和键盘操作，完成网页任务。Fara1.5 采用 Qwen3.5 基础检查点，使用“观察 — 思考 — 行动”循环。每一步都会结合历史对话与最近 3 张浏览器截图，输出推理内容和下一个动作。性能方面，Fara1.5-27B 在 Online-Mind2Web 上拿到 72% 任务成功率，该基准覆盖 136 个热门网站、300 项任务。对比来看，OpenAI Operator 为 58.3%，Gemini 2.5 Computer Use 为 57.3%，Yutori Navigator n1 为 64.7%，Fara1.5-9B 也达到 63.4%。训练层面，Fara1.5 采用约 200 万条样本做 Fine-tuning（微调），其中 60% 来自网页轨迹，12.8%",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-05-23",
+      "score": 0.8225
+    },
+    {
+      "title": "氪星晚报｜优步与印度JSW集团达成协议，合作在印度开发及部署电动汽车；英伟达、AMD、英特尔参投，AI初创公司Hark完成7亿美元融资；神舟二十三号发射在即，各系统准备就绪",
+      "url": "https://36kr.com/p/3816943010071427?f=rss",
+      "summary": "大公司：\nJefferies预计7-Eleven日本业务营业利润将达2270亿日元，本财年同店销售增长势头强劲\n投行杰富",
+      "detail": "大公司：\nJefferies预计7-Eleven日本业务营业利润将达2270亿日元，本财年同店销售增长势头强劲\n投行杰富瑞（Jefferies）分析师栗山俊介在最新发布的研究报告中指出，凭借在现做食品领域的拓展及有效的营销策略，日本零售巨头零售集团7&I控股（Seven & i Holdings）旗下的日本7-Eleven便利店本财年同店销售额有望实现稳步增长。报告预测，7&I控股国内便利店业务在本财年的营业利润将达到2270亿日元，且在下一财年有望继续增长4.8%。（新浪财经）\n雅诗兰黛与Puig终止合并谈判，组建美妆巨头计划作罢\n美国美妆巨头雅诗兰黛已终止与西班牙竞品Puig的合并谈判，这笔交易原本有望打造一家市值近400亿美元的美妆时尚行业巨头。雅诗兰黛周四表示，双方已终止此次并购磋商，Puig也证实谈判宣告结束。（新浪财经）\n优步与印度JSW集团达成协议，合作在印度开发及部署电动汽车\n5月22日，优步与印度跨国巨头JSW集团签署合作谅解备忘录，双方将共同研发并推广专为印度网约车市场定制的电动汽车解决方案。此次合作旨在通过提供符合当地运营环境、成本效益及性能预期的电动车型，加速优",
+      "source": "36Kr",
+      "source_authority": 0.85,
       "date": "2026-05-22",
-      "score": 0.8975
+      "score": 0.82
     },
     {
       "title": "定制 AI ASIC 的发展状况（2026 年 5 月）——Broadcom 交易、Google TPU、Meta MTIA 等",
@@ -37,20 +97,20 @@
       "source": "Tom's Hardware",
       "source_authority": 0.7,
       "date": "2026-05-21",
-      "score": 0.8625
-    },
-    {
-      "title": "算力浪潮下，AI智能影像的无线化变革| 2026AI Partner·北京亦庄AI+产业大会",
-      "url": "https://36kr.com/p/3818843802665862?f=rss",
-      "summary": "神眸做的事情不是追逐英伟达，而是在算力浪潮的下游，用极致的低功耗芯片设计，让摄像头摆脱电线的束缚，打开一个千亿只智能视觉",
-      "detail": "神眸做的事情不是追逐英伟达，而是在算力浪潮的下游，用极致的低功耗芯片设计，让摄像头摆脱电线的束缚，打开一个千亿只智能视觉终端的未来。\n\n杨作兴带领神眸实现了摄像头功耗降低一个数量级的突破——第一代芯片达业界三分之一功耗，第二代达十分之一，首次用1瓦太阳能板驱动全天候智能摄像机。他认为，当前全球安防摄像头年出货量仅3到4亿只，但到2035年将达100亿只，2045年更将达1000亿只，因为世界大模型需要万亿级摄像头来实时映射物理世界。而在推理算力领域，杨作兴判断中国创业公司仍有大机会。\n以下为演讲内容全文，经36氪整理编辑：\n\n杨作兴丨杭州研极微电子有限公司董事长、神眸品牌创始人\n大家下午好，今天非常开心，去年在上海参加了36氪的AI+大会，今天是第二次。一年时间过去了，AI发生了非常大的变化，大家都异常兴奋。36氪AI+大会，明显感觉到今年跟去年相比有很大的变化，在此感谢主办方36氪。\n我是杭州研极微董事长、神眸品牌创始人杨作兴。AI是世界风暴的中心，这个风暴中心我们能不能再往深里看，风暴中心的眼是什么，我们认为是新质生产力。\n目前，全球市值最高的公司是英伟达，它超越了苹果、微软、亚",
-      "source": "36Kr",
-      "source_authority": 0.85,
-      "date": "2026-05-22",
-      "score": 0.84
+      "score": 0.8175
     }
   ],
-  "category2": [
+  "category3": [
+    {
+      "title": "Hark 因其神秘的“通用”人工智能界面筹集了 7 亿美元的 A 轮融资",
+      "url": "https://techcrunch.com/2026/05/21/hark-raises-700m-series-a-for-its-secretive-universal-ai-interface/",
+      "summary": "Hark 预计今年将发布首款多式联运车型",
+      "detail": "Hark 预计将在今年夏天发布其首款多式联运模型，据称该模型将为可与现有产品和服务配合使用的个人人工智能平台提供支持。该公司预计将推出专为这些系统打造的硬件设备。",
+      "source": "TechCrunch",
+      "source_authority": 0.95,
+      "date": "2026-05-21",
+      "score": 0.7925
+    },
     {
       "title": "台湾首次正式打击英伟达人工智能芯片走私行动，突击搜查 12 个地点，追捕三名在超微走私案中伪造文件、虚假申报的逃犯",
       "url": "https://www.tomshardware.com/desktops/servers/taiwan-raids-12-locations-in-its-first-formal-crackdown-on-nvidia-ai-chip-smuggling-hunts-three-fugitives-for-document-forgery-fraudulent-declarations-in-super-micro-smuggling-case",
@@ -59,17 +119,7 @@
       "source": "Tom's Hardware",
       "source_authority": 0.7,
       "date": "2026-05-21",
-      "score": 0.8325
-    },
-    {
-      "title": "能落地的请留下，讲故事的请离场",
-      "url": "https://36kr.com/p/3820169156890759?f=rss",
-      "summary": "让合作当场发生！\n\n2026年的AI行业，正在经历一次价值体系的深层重构。过去两年，聚光灯始终偏向技术侧——参数、算力、",
-      "detail": "让合作当场发生！\n\n2026年的AI行业，正在经历一次价值体系的深层重构。过去两年，聚光灯始终偏向技术侧——参数、算力、榜单排名。但今天，话语权正在向产业方转移：那些拥有真实需求、真实场景、真实业务压力的企业，开始掌握定义权。产业界最关切的问题变得具体而迫切：在必须交付结果的地方，AI到底靠不靠得住？\n5月19日，以“带着AI去前线”为主题的2026 AI Partner大会在北京亦庄通明湖会展中心开幕。本次大会由北京经开区管委会指导、36氪主办、国家信创园承办。作为首都高精尖产业的主阵地，北京经开区正以场景开放为核心，构建覆盖多领域的“全域AI试验场”。本届大会正是这一思路从“规划”走向“实战”的集中体现。\n36氪与北京经开区在推动AI产业落地的战略上深度契合。作为产业创新的长期观察者与连接者，36氪紧扣经开区的全域场景蓝图，专门设立AI+产业对接会，让需求与方案现场碰撞，加速“AI+”在实体经济中生根。正是这一设计，让外会场供需双方的热情远超预期——需求方带着痛点来，技术方带着方案上，让合作当场发生！\n\n\n  “带着AI去前线”：\n不是口号，是判断\n大会期间，36氪CE",
-      "source": "36Kr",
-      "source_authority": 0.85,
-      "date": "2026-05-22",
-      "score": 0.795
+      "score": 0.7875
     },
     {
       "title": "AMD 开始量产 256 核 EPYC Venice——首款 2nm HPC 芯片声称性能飞跃 70%",
@@ -79,17 +129,17 @@
       "source": "Tom's Hardware",
       "source_authority": 0.7,
       "date": "2026-05-21",
-      "score": 0.7875
+      "score": 0.7425
     },
     {
-      "title": "Spotify 推出 ElevenLabs 支持的有声读物创作工具",
-      "url": "https://techcrunch.com/2026/05/21/spotify-launches-an-elevenlabs-powered-audiobook-creation-tool/",
-      "summary": "人工智能驱动的有声读物一代不会将作者束缚在",
-      "detail": "由人工智能驱动的有声读物生成不会将作者束缚于独家合同，这意味着他们可以在任何地方自由发布生成的有声读物。",
-      "source": "TechCrunch",
-      "source_authority": 0.95,
-      "date": "2026-05-21",
-      "score": 0.76
+      "title": "江行智能：从感知环境到改变世界：物理AI的机遇、路径与实践| 2026AI Partner·北京亦庄AI+产业大会",
+      "url": "https://36kr.com/p/3820298219425924?f=rss",
+      "summary": "中国工业物理AI的真正优势不在模型参数，而在全球12倍的工业机器人部署密度、两倍的发电量和密集的5G边缘节点——场景密度",
+      "detail": "中国工业物理AI的真正优势不在模型参数，而在全球12倍的工业机器人部署密度、两倍的发电量和密集的5G边缘节点——场景密度、基建底座和开源模型的合力，正在推动物理AI从实验室走向规模化落地。\n\n江行智能提出工业物理AI的三层模型，这套系统已在新能源场站和电网巡检场景落地——覆盖贵州、内蒙古等多地，核心算法准确率达99%。陈龙特别指出，工业场景下一个看似简单的巡检任务通常需要拆成100到200个子任务，这对AI的稳定性和可靠性提出了远超消费级应用的要求。\n以下为演讲内容，经36氪整理编辑：\n\n陈龙丨江行智能基模CTO\n各位嘉宾、行业伙伴下午好，我是来自江行智能的具身基模CTO陈龙，我的分享题目是从感知环境到改变世界：物理AI的机遇、路径和挑战。\nAI 的竞争已经从数字世界的模型参数之争，转向了真实物理世界的系统能力之争。中国凭借独特的五层产业基础，正在成为全球工业物理 AI 落地的最佳土壤。江行智能通过打造全栈工业物理 AI 模型架构，已经在新能源、电网等核心领域实现了规模化部署，证明了物理 AI 从概念走向现实的可行性。\nAI 竞争正在从模型竞争走向物理系统竞争\n过去几年，生成式 AI",
+      "source": "36Kr",
+      "source_authority": 0.85,
+      "date": "2026-05-22",
+      "score": 0.735
     },
     {
       "title": "OpenAI的“灾难大师”能否修复AI的声誉危机？",
@@ -99,110 +149,29 @@
       "source": "Wired",
       "source_authority": 0.85,
       "date": "2026-05-22",
-      "score": 0.755
-    }
-  ],
-  "category3": [
-    {
-      "title": "Nvidia 的内存成本飙升 485%，最新的 AI 系统目前的构建成本为 780 万美元——内存目前占总成本的 25%，Rubin GPU 每个仅​​需 5 万美元",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidias-memory-costs-soar-485-percent-latest-ai-systems-now-cost-usd7-8-million-to-build-memory-now-comprises-25-percent-of-the-total-cost-rubin-gpus-a-mere-usd50-000-apiece",
-      "summary": "随着 Vera Rubin 平台中每个机架的内存容量增加，",
-      "detail": "随着 Vera Rubin 平台中每个机架内存容量的增加，它现在占其成本的近 25%。",
-      "source": "Tom's Hardware",
-      "source_authority": 0.7,
-      "date": "2026-05-21"
-    },
-    {
-      "title": "中国新的国产游戏 GPU 在性能和价格上都表现不佳——旗舰产品 485 美元的 LX 7G100 无法跟上 Nvidia 旧款 RTX 4060 的步伐",
-      "url": "https://www.tomshardware.com/pc-components/gpus/chinas-new-homegrown-gaming-gpu-flops-in-performance-and-price-flagship-usd485-lx-7g100-cant-keep-pace-with-nvidias-older-rtx-4060",
-      "summary": "力算科技LX 7G100游戏显卡上架预售",
-      "detail": "Lisuan Tech 的 LX 7G100 游戏显卡的预购价格为 485 美元，中国媒体对此进行了评论。",
-      "source": "Tom's Hardware",
-      "source_authority": 0.7,
-      "date": "2026-05-21",
-      "score": 0.765
-    },
-    {
-      "title": "Anthropic 表示即将迎来第一个盈利季度",
-      "url": "https://techcrunch.com/2026/05/20/anthropic-says-its-about-to-have-its-first-profitable-quarter/",
-      "summary": "Anthropic 告诉投资者，它将增加一倍以上",
-      "detail": "Anthropic 告诉投资者，第二季度的收入将增加一倍多，达到 109 亿美元左右。",
-      "source": "TechCrunch",
-      "source_authority": 0.95,
-      "date": "2026-05-21",
-      "score": 0.7525
-    },
-    {
-      "title": "OpenAI 有望在 9 月份进行 IPO",
-      "url": "https://techcrunch.com/2026/05/20/openai-barrels-toward-ipo-that-may-happen-in-september/",
-      "summary": "埃隆·马斯克 (Elon Musk) 在威胁 OpenA 的诉讼中败诉一天后",
-      "detail": "埃隆·马斯克 (Elon Musk) 在威胁 OpenAI 结构、领导力和财务的诉讼中败诉一天后，据报道 OpenAI 又开始准备 IPO。",
-      "source": "TechCrunch",
-      "source_authority": 0.95,
-      "date": "2026-05-20",
-      "score": 0.7525
-    },
-    {
-      "title": "英伟达黄仁勋：LPX 等 SRAM AI 芯片将长期属于利基市场",
-      "url": "https://www.ithome.com/0/954/083.htm",
-      "summary": "IT之家 5 月 22 日消息，NVIDIA 创始人、总裁兼首席执行官黄仁勋在企业 FY2027Q1 财报电话会议上回答",
-      "detail": "IT之家 5 月 22 日消息，NVIDIA 创始人、总裁兼首席执行官黄仁勋在企业 FY2027Q1 财报电话会议上回答分析师问题时表示，LPX 等基于 SRAM 的 AI 推理解码工作负载加速器芯片将长期属于利基市场，GPU 等仍将占据主要地位。黄仁勋表示，LPX 的设计目标是低延迟和高 Token（词元）速率，但吞吐量和容量都比较低。其适合软件编程场景的上下文处理，但在代理式任务上就不那么擅长。LPX 的应用场景并不广泛，其最适合的是需求高 Token 速率的高定价 AI 服务。考虑到仅有少数 AI 服务提供商提供高定价方案，其潜在客户群体相对较少。此类高价服务当前在整体 AI 市场中的占比远低于 20%，未来确实可能会达到 20% 水平。",
-      "source": "ITHome",
-      "source_authority": 0.75,
-      "date": "2026-05-22",
-      "score": 0.74
+      "score": 0.725
     }
   ],
   "category4": [
     {
-      "title": "OpenAI 声称它解决了一个 80 年前的数学问题——这次是真的",
-      "url": "https://techcrunch.com/2026/05/20/openai-claims-it-solved-an-80-year-old-math-problem-for-real-this-time/",
-      "summary": "OpenAI 声称其推理模型反驳了几何猜想",
-      "detail": "OpenAI 声称其推理模型反驳了自 1946 年以来一直未解的几何猜想，而这一次，揭露其最后令人尴尬的主张的数学家们也支持了它。",
+      "title": "Spotify 推出 ElevenLabs 支持的有声读物创作工具",
+      "url": "https://techcrunch.com/2026/05/21/spotify-launches-an-elevenlabs-powered-audiobook-creation-tool/",
+      "summary": "人工智能驱动的有声读物一代不会将作者束缚在",
+      "detail": "由人工智能驱动的有声读物生成不会将作者束缚于独家合同，这意味着他们可以在任何地方自由发布生成的有声读物。",
       "source": "TechCrunch",
       "source_authority": 0.95,
-      "date": "2026-05-20",
-      "score": 0.75
+      "date": "2026-05-21",
+      "score": 0.715
     },
     {
-      "title": "由于机器人出租车不断驶入洪水，Waymo 将暂停时间扩大到四个城市",
-      "url": "https://techcrunch.com/2026/05/21/waymo-pauses-service-in-four-cities-as-robotaxis-keep-driving-into-floods/",
-      "summary": "Waymo 的机器人出租车服务现已在亚特兰大和亚特兰大暂停",
-      "detail": "Waymo 的机器人出租车服务现已在亚特兰大和圣安东尼奥暂停，该公司正在努力阻止其车辆驶入被洪水淹没的道路。",
+      "title": "芬兰手机制造商 HMD 将印度人工智能聊天机器人捆绑到新智能手机上，以进军当地市场",
+      "url": "https://techcrunch.com/2026/05/21/finnish-phone-maker-hmd-bundles-indian-ai-chatbot-onto-new-smartphone-in-push-to-reach-local-market/",
+      "summary": "此次合作伙伴关系是两家公司的潜在试验场",
+      "detail": "此次合作是两家公司评估市场对以印度为中心的聊天机器人的兴趣的潜在试验场。",
       "source": "TechCrunch",
       "source_authority": 0.9,
       "date": "2026-05-22",
-      "score": 0.745
-    },
-    {
-      "title": "Google I/O 2026 上公布的一切：Gemini、搜索、智能眼镜",
-      "url": "https://www.wired.com/story/everything-google-announced-at-google-io-2026/",
-      "summary": "谷歌正在改进其 Gemini 模型、改进搜索、",
-      "detail": "谷歌正在完善其 Gemini 模型，改进搜索，并在一切领域启用人工智能代理。今年秋天还将推出一些漂亮的新型智能眼镜。",
-      "source": "Wired",
-      "source_authority": 0.85,
-      "date": "2026-05-19",
-      "score": 0.725
-    },
-    {
-      "title": "优必选等在温州成立具身智能科技公司，注册资本7000万",
-      "url": "https://36kr.com/newsflashes/3820258546077830?f=rss",
-      "summary": "36氪获悉，天眼查App显示，5月22日，温州市具身智能科技有限公司成立，法定代表人为余仰望，注册资本7000万人民币，",
-      "detail": "36氪获悉，天眼查App显示，5月22日，温州市具身智能科技有限公司成立，法定代表人为余仰望，注册资本7000万人民币，经营范围包括软件开发、智能机器人的研发、特殊作业机器人制造、服务消费机器人制造等。股东信息显示，该公司由深圳市优必选科技股份有限公司、温州市数据集团有限公司、温州国投股权投资基金有限公司等共同持股。",
-      "source": "36Kr",
-      "source_authority": 0.85,
-      "date": "2026-05-22",
-      "score": 0.725
-    },
-    {
-      "title": "让智能体看见世界：CV × AI Agent 的行业场景新实践| 2026AI Partner·北京亦庄AI+产业大会",
-      "url": "https://36kr.com/p/3820220616495492?f=rss",
-      "summary": "让智能体“看见”世界，不是给它装上摄像头那么简单。当CV遇上AI Agent，乘数效应正在发生。AI Agent不等于C",
-      "detail": "让智能体“看见”世界，不是给它装上摄像头那么简单。当CV遇上AI Agent，乘数效应正在发生。AI Agent不等于Chatbot，真正的价值在于静默看护与自主决策。\n\nAI进入产业腹地仍面临两大鸿沟：视觉认知与行业的理解。为此，大华股份构建了星汉大模型系列——V系列视觉大模型让系统“看得懂”物理世界，L系列行业模型打通业务逻辑。未来“基模+行业Know-how”将成为新范式，而AI的终局不是刷榜，是让每个行业、每个个体都不掉队。\n以下为大华股份研发中心副总裁 周文凯 演讲内容，经36氪整理编辑：\n\n周文凯丨大华股份研发中心副总裁\n非常感谢北京亦庄和36氪给我们这个机会来给大家做一个分享。\n我今天分享的主题是让智能体看见世界。为什么让智能体看见世界？看见世界并不是让数字世界的智能体装上摄像头，或者输入视频数据让它看得到物理世界这么简单，CV × AI Agent，为什么是乘，CV是视觉计算，AI Agent是智能体，让数字世界的AI智能体可以认知物理世界非常重要，这两个事情并不是特性和功能的孤立，而是相互乘数效应的加强。\n简单来说，AI智能体对物理世界的认知，可以为我们对于数字世界",
-      "source": "36Kr",
-      "source_authority": 0.85,
-      "date": "2026-05-22",
-      "score": 0.72
+      "score": 0.715
     }
   ]
 }
