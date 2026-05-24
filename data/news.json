@@ -1,32 +1,14 @@
 {
-  "date": "2026-05-23",
+  "date": "2026-05-24",
   "category1": [
     {
-      "title": "Anthropic最快下周完成逾300亿美元融资轮",
-      "url": "https://36kr.com/newsflashes/3821194878947715?f=rss",
-      "summary": "Anthropic PBC最快将于下周完成最新一轮融资，融资额可能超过300亿美元，公司估值超过9000亿美元，从而超越",
-      "detail": "Anthropic PBC最快将于下周完成最新一轮融资，融资额可能超过300亿美元，公司估值超过9000亿美元，从而超越竞争对手OpenAI，成为全球估值最高的人工智能初创公司。据报道，红杉资本、Dragoneer Investment Group、Altimeter Capital和Greenoaks Capital Partners预计将联合领投本轮融资。上述每家公司计划投资约20亿美元。（新浪财经）",
+      "title": "一季度AI领域融资超1100亿元 国产大模型融资金额暴增",
+      "url": "https://36kr.com/newsflashes/3822775103607172?f=rss",
+      "summary": "近期人工智能创投市场热度攀升。5月，月之暗面、阶跃星辰等国产大模型拿下超过300亿元融资。具身智能同样受到市场关注，一周",
+      "detail": "近期人工智能创投市场热度攀升。5月，月之暗面、阶跃星辰等国产大模型拿下超过300亿元融资。具身智能同样受到市场关注，一周内维他动力、鹿明机器人等接连斩获数亿元融资。有创投机构统计，一季度人工智能领域的融资有近600起，总额超1100亿元，同比激增185.4%。AI创业公司拿到融资后不少都投向三大方向。一是研发，头部大模型公司2025年研发投入普遍达到数十亿，远超当期营收。二是算力，GPU采购和云服务租赁占融资额的30%到50%。三是招揽全球顶尖人才和团队。研发投得多，技术迭代就快。2026年，中国大模型企业迭代周期已普遍缩短至3个月以内，人工智能推理成本也大幅下降，商业化进程不断深入。",
       "source": "36Kr",
       "source_authority": 0.85,
-      "date": "2026-05-23"
-    },
-    {
-      "title": "年薪 32~40 万美元：Anthropic 推出高薪写作岗，打响 AI 传播战",
-      "url": "https://www.ithome.com/0/954/277.htm",
-      "summary": "IT之家 5 月 23 日消息，科技媒体 Business Insider 昨日（5 月 22 日）发布博文，报道称 A",
-      "detail": "IT之家 5 月 23 日消息，科技媒体 Business Insider 昨日（5 月 22 日）发布博文，报道称 Anthropic 正在扩招高薪写作岗位，从而强化品牌叙事和市场沟通，尤其重视把复杂产品能力转化为清晰、具体且有吸引力的表达。根据官方招聘信息显示，Anthropic 正在招募一名文案负责人，主要面向企业客户传播，岗位年薪范围为 25.5 万至 32 万美元（IT之家注：现汇率约合 173.6 万至 217.9 万元人民币）。该职位要求应聘者拥有 10 年经验，写作范围覆盖长文案、脚本、活动内容与社交媒体文案，需要统一 Anthropic 对外表达方式。除了这一岗位，Anthropic 还在招聘内容与文案主管，年薪范围达到 32 万到 40 万美元（现汇率约合 217.9 万到 272.3 万元人民币）。该媒体解读认为，当前 AI 行业面临一个现实需求：很多产品能力过于技术化，普通用户和企业采购者并不容易快速理解。招聘描述中直接提到，候选人需要把复杂的产品能力和客户成果转化成清晰、具体且真正有趣的语言，这也是 AI 公司愿意为写作能力支付溢价的重要原因。即便如此，写作岗",
-      "source": "ITHome",
-      "source_authority": 0.75,
-      "date": "2026-05-23"
-    },
-    {
-      "title": "修不过来：Anthropic 披露 AI 抓虫首月战报，揪出超 1 万个高危漏洞",
-      "url": "https://www.ithome.com/0/954/272.htm",
-      "summary": "IT之家 5 月 23 日消息，Anthropic 昨日（5 月 22 日）发布公告，披露称 Project Glass",
-      "detail": "IT之家 5 月 23 日消息，Anthropic 昨日（5 月 22 日）发布公告，披露称 Project Glasswing 项目上线 1 个月后，携手约 50 家合作伙伴，已在关键软件中挖掘出超过 1 万个高危（High）和关键（Critical）级别漏洞。根据 Project Glasswing 项目合作方的反馈，Claude Mythos Preview 模型已显著提升漏洞发现能力，部分团队的找漏洞速度提升超过 10 倍，当前瓶颈已从“发现漏洞”转向“验证、披露与修补漏洞”。Cloudflare 披露，其在关键路径系统中发现 2000 个漏洞，其中 400 个属于高危或严重级别，且误报率优于人工测试。Mozilla 在 Firefox 150 中修复 271 个漏洞，这一数量超过使用 Claude Opus 4.6 测试 Firefox 148 时的 10 倍。在外部评测中，Mythos Preview 也表现突出。英国 AI Security Institute 称其是首个端到端攻破 2 个网络攻防靶场的模型。独立安全平台 XBOW 认为，该模型在网页利用基准上的表现明显强",
-      "source": "ITHome",
-      "source_authority": 0.75,
-      "date": "2026-05-23"
+      "date": "2026-05-24"
     },
     {
       "title": "Anthropic 与 Claude 合作的《Code》展示了编码的未来——无论你喜欢与否",
@@ -45,19 +27,7 @@
       "source": "Tom's Hardware",
       "source_authority": 0.7,
       "date": "2026-05-22",
-      "score": 0.8575
-    }
-  ],
-  "category2": [
-    {
-      "title": "人形机器人也有“身份证”：全国首个管理平台在京发布，全程可追溯",
-      "url": "https://www.ithome.com/0/954/264.htm",
-      "summary": "IT之家 5 月 23 日消息，据央视新闻报道，全国首个人形机器人全生命周期管理平台在北京发布。今后每一台出厂的人形机器",
-      "detail": "IT之家 5 月 23 日消息，据央视新闻报道，全国首个人形机器人全生命周期管理平台在北京发布。今后每一台出厂的人形机器人都将拥有独一无二的“数字身份证”，可在生产、销售、使用、回收流程追溯。IT之家在此援引央视新闻，该平台由信息化部人形机器人与具身智能标准化技术委员会牵头搭建。每台机器人出厂时将被赋予唯一编码，相当于机器人的“身份证号”，覆盖从研发生产、市场准入、销售使用到报废回收的全链条，实现“源头可溯、全程可控、风险可防、责任可究”。截至目前，该平台已覆盖全国 100 余家人形机器人企业，完成 200 余个产品型号、2.8 万余台机器人的全生命周期赋码，加快形成开放、包容、共赢的产业生态。",
-      "source": "ITHome",
-      "source_authority": 0.75,
-      "date": "2026-05-23",
-      "score": 0.86
+      "score": 0.8125
     },
     {
       "title": "36氪首发 | 北大项目孵化，国内首家原生机器人“大脑芯片”企业获数亿元融资",
@@ -67,40 +37,8 @@
       "source": "36Kr",
       "source_authority": 0.85,
       "date": "2026-05-23",
-      "score": 0.8325
+      "score": 0.8025
     },
-    {
-      "title": "微软推出 Fara1.5 系列浏览器 AI 智能体模型，72% 任务成功率超 OpenAI Operator",
-      "url": "https://www.ithome.com/0/954/266.htm",
-      "summary": "IT之家 5 月 23 日消息，微软研究院 AI Frontiers 实验室最新发布 Fara1.5 系列模型，主要适用",
-      "detail": "IT之家 5 月 23 日消息，微软研究院 AI Frontiers 实验室最新发布 Fara1.5 系列模型，主要适用于浏览器场景下的计算机使用智能体，涵盖 4B、9B 和 27B 三个参数规模版本。该系列模型配套 MagenticLite（微软为此类智能体设计的沙盒浏览器界面）使用，可以直接读取浏览器截图，再输出鼠标和键盘操作，完成网页任务。Fara1.5 采用 Qwen3.5 基础检查点，使用“观察 — 思考 — 行动”循环。每一步都会结合历史对话与最近 3 张浏览器截图，输出推理内容和下一个动作。性能方面，Fara1.5-27B 在 Online-Mind2Web 上拿到 72% 任务成功率，该基准覆盖 136 个热门网站、300 项任务。对比来看，OpenAI Operator 为 58.3%，Gemini 2.5 Computer Use 为 57.3%，Yutori Navigator n1 为 64.7%，Fara1.5-9B 也达到 63.4%。训练层面，Fara1.5 采用约 200 万条样本做 Fine-tuning（微调），其中 60% 来自网页轨迹，12.8%",
-      "source": "ITHome",
-      "source_authority": 0.75,
-      "date": "2026-05-23",
-      "score": 0.8225
-    },
-    {
-      "title": "氪星晚报｜优步与印度JSW集团达成协议，合作在印度开发及部署电动汽车；英伟达、AMD、英特尔参投，AI初创公司Hark完成7亿美元融资；神舟二十三号发射在即，各系统准备就绪",
-      "url": "https://36kr.com/p/3816943010071427?f=rss",
-      "summary": "大公司：\nJefferies预计7-Eleven日本业务营业利润将达2270亿日元，本财年同店销售增长势头强劲\n投行杰富",
-      "detail": "大公司：\nJefferies预计7-Eleven日本业务营业利润将达2270亿日元，本财年同店销售增长势头强劲\n投行杰富瑞（Jefferies）分析师栗山俊介在最新发布的研究报告中指出，凭借在现做食品领域的拓展及有效的营销策略，日本零售巨头零售集团7&I控股（Seven & i Holdings）旗下的日本7-Eleven便利店本财年同店销售额有望实现稳步增长。报告预测，7&I控股国内便利店业务在本财年的营业利润将达到2270亿日元，且在下一财年有望继续增长4.8%。（新浪财经）\n雅诗兰黛与Puig终止合并谈判，组建美妆巨头计划作罢\n美国美妆巨头雅诗兰黛已终止与西班牙竞品Puig的合并谈判，这笔交易原本有望打造一家市值近400亿美元的美妆时尚行业巨头。雅诗兰黛周四表示，双方已终止此次并购磋商，Puig也证实谈判宣告结束。（新浪财经）\n优步与印度JSW集团达成协议，合作在印度开发及部署电动汽车\n5月22日，优步与印度跨国巨头JSW集团签署合作谅解备忘录，双方将共同研发并推广专为印度网约车市场定制的电动汽车解决方案。此次合作旨在通过提供符合当地运营环境、成本效益及性能预期的电动车型，加速优",
-      "source": "36Kr",
-      "source_authority": 0.85,
-      "date": "2026-05-22",
-      "score": 0.82
-    },
-    {
-      "title": "定制 AI ASIC 的发展状况（2026 年 5 月）——Broadcom 交易、Google TPU、Meta MTIA 等",
-      "url": "https://www.tomshardware.com/tech-industry/semiconductors/custom-ai-asics-examined-from-broadcom-to-mtia",
-      "summary": "基于ASIC的AI服务器出货量预计将达到27.8%",
-      "detail": "基于 ASIC 的 AI 服务器出货量预计到 2026 年将达到 27.8% 的市场份额，为 2023 年以来的最高份额，定制 ASIC 出货量将同比增长 44.6%。",
-      "source": "Tom's Hardware",
-      "source_authority": 0.7,
-      "date": "2026-05-21",
-      "score": 0.8175
-    }
-  ],
-  "category3": [
     {
       "title": "Hark 因其神秘的“通用”人工智能界面筹集了 7 亿美元的 A 轮融资",
       "url": "https://techcrunch.com/2026/05/21/hark-raises-700m-series-a-for-its-secretive-universal-ai-interface/",
@@ -110,49 +48,29 @@
       "source_authority": 0.95,
       "date": "2026-05-21",
       "score": 0.7925
-    },
-    {
-      "title": "台湾首次正式打击英伟达人工智能芯片走私行动，突击搜查 12 个地点，追捕三名在超微走私案中伪造文件、虚假申报的逃犯",
-      "url": "https://www.tomshardware.com/desktops/servers/taiwan-raids-12-locations-in-its-first-formal-crackdown-on-nvidia-ai-chip-smuggling-hunts-three-fugitives-for-document-forgery-fraudulent-declarations-in-super-micro-smuggling-case",
-      "summary": "将被禁止的 Hopper 或 Blackwell 芯片纳入大陆数据",
-      "detail": "随着台湾开始打击走私者，将被禁止的 Hopper 或 Blackwell 芯片带入大陆数据中心变得更加令人担忧。",
-      "source": "Tom's Hardware",
-      "source_authority": 0.7,
-      "date": "2026-05-21",
-      "score": 0.7875
-    },
-    {
-      "title": "AMD 开始量产 256 核 EPYC Venice——首款 2nm HPC 芯片声称性能飞跃 70%",
-      "url": "https://www.tomshardware.com/tech-industry/semiconductors/amd-begins-production-ramp-of-256-core-epyc-venice-on-tsmcs-2nm-node",
-      "summary": "AMD 宣布推出代号为 6 代 EPYC（霄龙）处理器",
-      "detail": "AMD 宣布其代号为 Venice 的第六代 EPYC 处理器已在台湾台积电的 N2 工艺上进入量产阶段。",
-      "source": "Tom's Hardware",
-      "source_authority": 0.7,
-      "date": "2026-05-21",
-      "score": 0.7425
-    },
-    {
-      "title": "江行智能：从感知环境到改变世界：物理AI的机遇、路径与实践| 2026AI Partner·北京亦庄AI+产业大会",
-      "url": "https://36kr.com/p/3820298219425924?f=rss",
-      "summary": "中国工业物理AI的真正优势不在模型参数，而在全球12倍的工业机器人部署密度、两倍的发电量和密集的5G边缘节点——场景密度",
-      "detail": "中国工业物理AI的真正优势不在模型参数，而在全球12倍的工业机器人部署密度、两倍的发电量和密集的5G边缘节点——场景密度、基建底座和开源模型的合力，正在推动物理AI从实验室走向规模化落地。\n\n江行智能提出工业物理AI的三层模型，这套系统已在新能源场站和电网巡检场景落地——覆盖贵州、内蒙古等多地，核心算法准确率达99%。陈龙特别指出，工业场景下一个看似简单的巡检任务通常需要拆成100到200个子任务，这对AI的稳定性和可靠性提出了远超消费级应用的要求。\n以下为演讲内容，经36氪整理编辑：\n\n陈龙丨江行智能基模CTO\n各位嘉宾、行业伙伴下午好，我是来自江行智能的具身基模CTO陈龙，我的分享题目是从感知环境到改变世界：物理AI的机遇、路径和挑战。\nAI 的竞争已经从数字世界的模型参数之争，转向了真实物理世界的系统能力之争。中国凭借独特的五层产业基础，正在成为全球工业物理 AI 落地的最佳土壤。江行智能通过打造全栈工业物理 AI 模型架构，已经在新能源、电网等核心领域实现了规模化部署，证明了物理 AI 从概念走向现实的可行性。\nAI 竞争正在从模型竞争走向物理系统竞争\n过去几年，生成式 AI",
-      "source": "36Kr",
-      "source_authority": 0.85,
-      "date": "2026-05-22",
-      "score": 0.735
-    },
-    {
-      "title": "OpenAI的“灾难大师”能否修复AI的声誉危机？",
-      "url": "https://www.wired.com/story/openai-chris-lehane-global-affairs-pr/",
-      "summary": "全球事务主管克里斯·勒哈恩 (Chris Lehane) 希望降低债务负担",
-      "detail": "全球事务主管 Chris Lehane 希望缓和有关人工智能社会影响的争论，并让各州通过不会阻碍 OpenAI 迅速崛起的法律。",
-      "source": "Wired",
-      "source_authority": 0.85,
-      "date": "2026-05-22",
-      "score": 0.725
     }
   ],
-  "category4": [
+  "category2": [
+    {
+      "title": "AMD宣布下一代EPYC CPU进入量产",
+      "url": "https://36kr.com/newsflashes/3822607641841801?f=rss",
+      "summary": "超威半导体(AMD)宣布已开始量产代号为“Venice”的第6代AMD EPYC CPU，成为AMD与台积电在2纳米技术",
+      "detail": "超威半导体(AMD)宣布已开始量产代号为“Venice”的第6代AMD EPYC CPU，成为AMD与台积电在2纳米技术合作上的重要里程碑。据悉，AMD计划未来于台积电在美国的亚利桑那州晶圆厂展开上述量产。",
+      "source": "36Kr",
+      "source_authority": 0.85,
+      "date": "2026-05-24",
+      "score": 0.795
+    },
+    {
+      "title": "全球首款机器人手机：荣耀 Robot Phone 真机现身高通骁友会五周年派对",
+      "url": "https://www.ithome.com/0/954/521.htm",
+      "summary": "IT之家 5 月 24 日消息，据博主 @旺仔百事通 分享，全球首款机器人手机 —— 荣耀 Robot Phone 真机",
+      "detail": "IT之家 5 月 24 日消息，据博主 @旺仔百事通 分享，全球首款机器人手机 —— 荣耀 Robot Phone 真机已现身高通骁友会五周年派对。荣耀今年 3 月在 MWC 2026 展会上带来了全新“机器人手机”Robot Phone，新机最显眼之处就是配备一颗硕大的电动翻转摄像头，号称是新形态具身智能 AI 终端。外观方面，Robot Phone 通体银灰色，边框则是采用了拉丝装饰。看起来就是一台正常的智能手机，只不过顶部多了个有点像大疆 Osmo Pocket 的三轴云台相机，同时背面还有“α”Logo，彰显该机的特殊之处。功能方面，这台手机顶上的三轴云台相机配备 2 亿像素传感器，可以向前 / 向后翻转，方便用户拍摄自己或拍摄物体，还有影像大厂 ARRI 技术合作加持，支持 AI 物体追踪、AI 视频剪辑与智能拍摄，可支持实时感知与补偿，确保视频画面极度稳定。参考IT之家此前报道，这款“手机机器人”Robot Phone 仍处于待发布阶段，不过荣耀终端股份有限公司 CEO 李健已在 5 月 15 日官宣，Robot Phone 将在三季度上市。此次 ARRI 阿莱工作人员的到",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-05-24",
+      "score": 0.785
+    },
     {
       "title": "Spotify 推出 ElevenLabs 支持的有声读物创作工具",
       "url": "https://techcrunch.com/2026/05/21/spotify-launches-an-elevenlabs-powered-audiobook-creation-tool/",
@@ -162,16 +80,8 @@
       "source_authority": 0.95,
       "date": "2026-05-21",
       "score": 0.715
-    },
-    {
-      "title": "芬兰手机制造商 HMD 将印度人工智能聊天机器人捆绑到新智能手机上，以进军当地市场",
-      "url": "https://techcrunch.com/2026/05/21/finnish-phone-maker-hmd-bundles-indian-ai-chatbot-onto-new-smartphone-in-push-to-reach-local-market/",
-      "summary": "此次合作伙伴关系是两家公司的潜在试验场",
-      "detail": "此次合作是两家公司评估市场对以印度为中心的聊天机器人的兴趣的潜在试验场。",
-      "source": "TechCrunch",
-      "source_authority": 0.9,
-      "date": "2026-05-22",
-      "score": 0.715
     }
-  ]
+  ],
+  "category3": [],
+  "category4": []
 }
