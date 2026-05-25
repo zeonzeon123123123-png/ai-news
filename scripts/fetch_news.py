@@ -110,6 +110,40 @@ SOURCE_AUTHORITY = {
 
 BJ_TZ = timezone(timedelta(hours=8))
 
+TERM_WHITELIST = [
+    "AGI", "API", "ASIC", "BERT", "B200", "CPU", "CUDA", "DeepSeek",
+    "FPGA", "GPT", "GPU", "H100", "H200", "HBM", "IPO", "LLM", "Llama",
+    "Mistral", "MIT", "NFT", "NPU", "OpenAI", "RLHF", "SDK", "Sora",
+    "TPU", "VLA", "Qwen", "Midjourney", "ElevenLabs", "Notion AI",
+    "Waymo", "Copilot", "Stable Diffusion", "RAG",
+    "Anthropic", "DeepMind", "VentureBeat", "TechCrunch",
+    "ArXiv", "Gemini", "Claude",
+]
+
+TRANSLATION_FIXES = {
+    "代币": "token",
+    "令牌": "token",
+    "代币化": "token化",
+    "代理人工智能": "智能体 AI",
+    "代理式人工智能": "智能体 AI",
+    "代理 AI": "智能体 AI",
+    "Agentic AI": "智能体 AI",
+    "加速器": "加速卡",
+    "大型语言模型": "大语言模型",
+    "大型语言": "大语言",
+    "基础模型": "基础模型",
+    "半导体制造": "半导体制造",
+    "自主车辆": "自动驾驶车辆",
+    "自主驾驶": "自动驾驶",
+    "人形": "人形",
+    "双足": "双足",
+    "体现 AI": "具身智能",
+    "体现人工智能": "具身智能",
+    "体现智能": "具身智能",
+    " embodied AI": " 具身智能",
+    " embodied intelligence": " 具身智能",
+}
+
 
 def now_bj():
     return datetime.now(BJ_TZ)
@@ -125,19 +159,46 @@ def is_chinese(text):
     return count / max(len(text), 1) > 0.1
 
 
+def _protect_terms(text):
+    placeholders = {}
+    result = text
+    for i, term in enumerate(TERM_WHITELIST):
+        placeholder = f"__TERM{i}__"
+        if term in result:
+            placeholders[placeholder] = term
+            result = result.replace(term, placeholder)
+    return result, placeholders
+
+
+def _restore_terms(text, placeholders):
+    result = text
+    for placeholder, term in placeholders.items():
+        result = result.replace(placeholder, term)
+    return result
+
+
+def _post_fix(text):
+    for wrong, correct in TRANSLATION_FIXES.items():
+        text = text.replace(wrong, correct)
+    return text
+
+
 def translate_to_chinese(text):
     if not text or is_chinese(text):
         return text
+    protected, placeholders = _protect_terms(text)
     for attempt in range(3):
         try:
             from deep_translator import GoogleTranslator
-            result = GoogleTranslator(source='en', target='zh-CN').translate(text)
-            if result and result != text:
+            result = GoogleTranslator(source='en', target='zh-CN').translate(protected)
+            if result and result != protected:
+                result = _restore_terms(result, placeholders)
+                result = _post_fix(result)
                 return result
         except Exception as e:
             print(f"    Translation retry {attempt+1}: {e}")
             time.sleep(2)
-    return text
+    return _restore_terms(text, placeholders)
 
 
 def classify_item(title, summary):
