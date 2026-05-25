@@ -135,21 +135,13 @@ def translate_to_chinese(text):
 
 
 def validate_url(url, timeout=15):
-    for attempt in range(2):
-        try:
-            resp = requests.head(url, timeout=timeout, allow_redirects=True)
-            if resp.status_code == 200:
-                return True
-        except:
-            pass
-        try:
-            resp = requests.get(url, timeout=timeout, allow_redirects=True, stream=True)
-            resp.close()
-            if resp.status_code == 200:
-                return True
-        except:
-            pass
-        time.sleep(1)
+    headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"}
+    try:
+        resp = requests.get(url, timeout=timeout, allow_redirects=True, stream=True, headers=headers)
+        resp.close()
+        return resp.status_code == 200
+    except:
+        pass
     return False
 
 
@@ -224,16 +216,16 @@ def score_content_depth(item):
 def score_timeliness(item):
     try:
         pub = datetime.strptime(item["date"], "%Y-%m-%d")
-        days_old = (datetime.now() - pub).days
+        hours_old = (datetime.now() - pub).total_seconds() / 3600
     except:
-        days_old = 7
-    if days_old == 0:
+        hours_old = 48
+    if hours_old <= 24:
         return 1.0
-    elif days_old == 1:
-        return 0.8
-    elif days_old <= 3:
-        return 0.5
-    return 0.2
+    elif hours_old <= 48:
+        return 0.7
+    elif hours_old <= 72:
+        return 0.4
+    return 0.1
 
 
 def score_source(item):
@@ -259,7 +251,7 @@ def compute_final_score(item, cat):
     return round(final, 4)
 
 
-SCORE_THRESHOLD = 0.8
+SCORE_THRESHOLD = 0.7
 
 
 def is_similar(title1, title2, threshold=0.5):
@@ -285,14 +277,28 @@ def fetch_rss(url, source_name, authority):
                 soup = BeautifulSoup(entry.summary, "html.parser")
                 summary = soup.get_text()[:500].strip()
             pub_date = datetime.now().strftime("%Y-%m-%d")
+            has_valid_date = False
             if entry.get("published_parsed"):
                 try:
                     parsed = datetime(*entry.published_parsed[:6])
-                    if (datetime.now() - parsed).days > 7:
+                    age_hours = (datetime.now() - parsed).total_seconds() / 3600
+                    if age_hours > 48:
                         continue
                     pub_date = parsed.strftime("%Y-%m-%d")
+                    has_valid_date = True
                 except:
                     pass
+            if not has_valid_date:
+                if entry.get("updated_parsed"):
+                    try:
+                        parsed = datetime(*entry.updated_parsed[:6])
+                        age_hours = (datetime.now() - parsed).total_seconds() / 3600
+                        if age_hours > 48:
+                            continue
+                        pub_date = parsed.strftime("%Y-%m-%d")
+                        has_valid_date = True
+                    except:
+                        pass
             items.append({
                 "title": title,
                 "url": link,
@@ -356,7 +362,7 @@ def main():
             if len(valid_items) >= 5:
                 break
             src = item.get("source", "")
-            if source_count.get(src, 0) >= 2:
+            if source_count.get(src, 0) >= 3:
                 continue
             if item["url"] in used_urls:
                 continue
@@ -384,21 +390,21 @@ def main():
                 print("FAILED")
 
         if len(valid_items) < 5:
-            print(f"  Category {i} needs {5 - len(valid_items)} more, supplementing from 0.75+ pool...")
+            print(f"  Category {i} needs {5 - len(valid_items)} more, supplementing from all scored items...")
             pool = []
             all_scored = []
-            for other_cat in classified:
-                for item_candidate in classified.get(other_cat, []):
-                    if item_candidate["url"] not in used_urls and item_candidate.get("_score", 0) >= 0.70:
-                        all_scored.append(item_candidate)
             for item_candidate in unique_items:
-                cat2 = classify_item(item_candidate["title"], item_candidate["summary"])
-                if cat2:
-                    sc = compute_final_score(item_candidate, cat2)
-                    if sc >= 0.70 and item_candidate["url"] not in used_urls:
-                        item_candidate["_cat"] = cat2
-                        item_candidate["_score"] = sc
-                        all_scored.append(item_candidate)
+                c = classify_item(item_candidate["title"], item_candidate["summary"])
+                if not c:
+                    continue
+                sc = compute_final_score(item_candidate, c)
+                if sc < SCORE_THRESHOLD:
+                    continue
+                if item_candidate["url"] in used_urls and c != cat_key:
+                    continue
+                item_candidate["_cat"] = c
+                item_candidate["_score"] = sc
+                all_scored.append(item_candidate)
             seen = set()
             for p in all_scored:
                 if p["url"] not in seen:
@@ -410,7 +416,7 @@ def main():
                 if len(valid_items) >= 5:
                     break
                 src = item.get("source", "")
-                if source_count.get(src, 0) >= 2:
+                if source_count.get(src, 0) >= 4:
                     continue
                 url = item["url"]
                 score = item.get("_score", 0)
