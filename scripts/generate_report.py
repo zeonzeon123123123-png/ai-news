@@ -1,6 +1,8 @@
 import json
 import os
-from datetime import datetime
+from datetime import datetime, timedelta, timezone
+
+BJ_TZ = timezone(timedelta(hours=8))
 
 CATEGORY_NAMES = {
     "1": "大模型与基础技术",
@@ -18,7 +20,7 @@ def generate_daily_report():
         print("No news.json found")
         return
 
-    now = datetime.now()
+    now = datetime.now(BJ_TZ)
     today_cn = f"{now.year}年{now.month}月{now.day}日"
     date_str = now.strftime("%Y-%m-%d")
     report = f"# AI 新闻日报 - {today_cn}\n\n"

@@ -4,7 +4,7 @@ import json
 import os
 import re
 import time
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, timezone
 from bs4 import BeautifulSoup
 
 RSS_SOURCES = [
@@ -107,6 +107,12 @@ SOURCE_AUTHORITY = {
     "Ruan Yifeng": 0.75,
     "Tom's Hardware": 0.7,
 }
+
+BJ_TZ = timezone(timedelta(hours=8))
+
+
+def now_bj():
+    return datetime.now(BJ_TZ)
 
 
 def is_chinese(text):
@@ -215,8 +221,8 @@ def score_content_depth(item):
 
 def score_timeliness(item):
     try:
-        pub = datetime.strptime(item["date"], "%Y-%m-%d")
-        hours_old = (datetime.now() - pub).total_seconds() / 3600
+        pub = datetime.strptime(item["date"], "%Y-%m-%d").replace(tzinfo=BJ_TZ)
+        hours_old = (now_bj() - pub).total_seconds() / 3600
     except:
         hours_old = 48
     if hours_old <= 24:
@@ -276,26 +282,26 @@ def fetch_rss(url, source_name, authority):
             if entry.get("summary"):
                 soup = BeautifulSoup(entry.summary, "html.parser")
                 summary = soup.get_text()[:500].strip()
-            pub_date = datetime.now().strftime("%Y-%m-%d")
+            pub_date = now_bj().strftime("%Y-%m-%d")
             has_valid_date = False
             if entry.get("published_parsed"):
                 try:
-                    parsed = datetime(*entry.published_parsed[:6])
-                    age_hours = (datetime.now() - parsed).total_seconds() / 3600
-                    if age_hours > 48:
+                    parsed = datetime(*entry.published_parsed[:6], tzinfo=timezone.utc)
+                    age_hours = (now_bj() - parsed).total_seconds() / 3600
+                    if age_hours > 24:
                         continue
-                    pub_date = parsed.strftime("%Y-%m-%d")
+                    pub_date = parsed.astimezone(BJ_TZ).strftime("%Y-%m-%d")
                     has_valid_date = True
                 except:
                     pass
             if not has_valid_date:
                 if entry.get("updated_parsed"):
                     try:
-                        parsed = datetime(*entry.updated_parsed[:6])
-                        age_hours = (datetime.now() - parsed).total_seconds() / 3600
-                        if age_hours > 48:
+                        parsed = datetime(*entry.updated_parsed[:6], tzinfo=timezone.utc)
+                        age_hours = (now_bj() - parsed).total_seconds() / 3600
+                        if age_hours > 24:
                             continue
-                        pub_date = parsed.strftime("%Y-%m-%d")
+                        pub_date = parsed.astimezone(BJ_TZ).strftime("%Y-%m-%d")
                         has_valid_date = True
                     except:
                         pass
@@ -348,7 +354,7 @@ def main():
         print(f"  Category {cat}: {len(classified[cat])} items above {SCORE_THRESHOLD} (top score: {classified[cat][0]['_score'] if classified[cat] else 0})")
 
     print("\nValidating URLs and translating...")
-    result = {"date": datetime.now().strftime("%Y-%m-%d")}
+    result = {"date": now_bj().strftime("%Y-%m-%d")}
     used_titles = set()
     used_urls = set()
 
