@@ -81,23 +81,72 @@ document.getElementById('weeklyModal').addEventListener('click', (e) => {
     if (e.target === e.currentTarget) e.currentTarget.classList.remove('active');
 });
 
-document.getElementById('weeklySubmit').addEventListener('click', () => {
+document.getElementById('weeklySubmit').addEventListener('click', async () => {
     const start = document.getElementById('weekStart').value;
     const end = document.getElementById('weekEnd').value;
     const cats = Array.from(document.querySelectorAll('.checkbox-group input:checked')).map(cb => cb.value);
     const count = parseInt(document.getElementById('weeklyCount').value) || 5;
-    if (!start || !end) { alert('Please select date range'); return; }
-    if (cats.length === 0) { alert('Please select at least one category'); return; }
+    if (!start || !end) { alert('请选择日期范围'); return; }
+    if (cats.length === 0) { alert('请至少选择一个板块'); return; }
     const resultEl = document.getElementById('weeklyResult');
     resultEl.style.display = 'block';
-    resultEl.textContent = 'Generating weekly report...';
+    resultEl.textContent = '正在加载历史数据...';
+
     const catNames = { '1': '大模型与基础技术', '2': 'AI 应用与产品', '3': '芯片与算力', '4': '具身智能与机器人' };
+
+    let startDate = new Date(start);
+    let endDate = new Date(end);
+    let allNews = { '1': [], '2': [], '3': [], '4': [] };
+
+    let dates = [];
+    for (let d = new Date(startDate); d <= endDate; d.setDate(d.getDate() + 1)) {
+        dates.push(d.toISOString().slice(0, 10));
+    }
+
+    let loaded = 0;
+    let total = dates.length;
+    let datas = [];
+
+    for (let dateStr of dates) {
+        try {
+            const res = await fetch('https://raw.githubusercontent.com/zeonzeon123123123-png/ai-news/main/daily/' + dateStr + '.json');
+            if (res.ok) {
+                const data = await res.json();
+                datas.push(data);
+            }
+        } catch (e) {}
+        loaded++;
+        resultEl.textContent = `正在加载... (${loaded}/${total})`;
+    }
+
+    if (newsData && newsData.date >= start && newsData.date <= end) {
+        let found = false;
+        for (let d of datas) { if (d.date === newsData.date) { found = true; break; } }
+        if (!found) datas.push(newsData);
+    }
+
+    if (datas.length === 0) {
+        resultEl.textContent = '所选日期范围内没有找到历史数据。目前仅支持查看当前和已存档的新闻。';
+        return;
+    }
+
+    for (let data of datas) {
+        for (let i = 1; i <= 4; i++) {
+            let items = data['category' + i] || [];
+            for (let item of items) {
+                if (!allNews[String(i)].some(n => n.title === item.title)) {
+                    allNews[String(i)].push(item);
+                }
+            }
+        }
+    }
+
     let report = '# AI 新闻周报 - ' + start + ' 至 ' + end + '\n\n';
     cats.forEach(cat => {
         report += '## 板块：' + catNames[cat] + '\n\n';
-        const items = (newsData['category' + cat] || []).slice(0, count);
+        const items = allNews[cat].slice(0, count);
         if (items.length === 0) {
-            report += 'No news found.\n\n';
+            report += '暂无新闻\n\n';
         } else {
             items.forEach((item, idx) => {
                 report += (idx + 1) + '. **' + item.title + '** - ' + item.url + '\n   ' + item.summary + '\n\n';

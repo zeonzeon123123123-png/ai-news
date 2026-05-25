@@ -8,7 +8,9 @@
 body{font-family:-apple-system,BlinkMacSystemFont,sans-serif;background:#0a0a1a;color:#e0e0e0;max-width:800px;margin:0 auto;padding:2rem}
 h1{background:linear-gradient(90deg,#00d2ff,#3a7bd5);-webkit-background-clip:text;-webkit-text-fill-color:transparent}
 a{color:#00d2ff;text-decoration:none}a:hover{text-decoration:underline}
-.item{background:#1a1a2e;border:1px solid #2a2a4a;border-radius:8px;padding:1rem;margin:0.5rem 0}
+.item{background:#1a1a2e;border:1px solid #2a2a4a;border-radius:8px;padding:1rem;margin:0.5rem 0;display:flex;align-items:center;gap:1rem}
+.item .date-label{font-size:1.1rem;font-weight:600}
+.item .links{display:flex;gap:0.5rem;font-size:0.85rem}
 .back{display:inline-block;margin-bottom:2rem;padding:0.5rem 1rem;background:#3a7bd5;color:#fff;border-radius:6px}
 </style>
 </head>
@@ -20,8 +22,12 @@ a{color:#00d2ff;text-decoration:none}a:hover{text-decoration:underline}
 fetch('https://api.github.com/repos/zeonzeon123123123-png/ai-news/contents/daily')
 .then(r=>r.json())
 .then(files=>{
-  const md=files.filter(f=>f.name.endsWith('.md')).sort((a,b)=>b.name.localeCompare(a.name));
-  document.getElementById('list').innerHTML=md.map(f=>'<div class="item"><a href="'+f.download_url+'">'+f.name.replace('.md','')+'</a></div>').join('');
+  const htmls=files.filter(f=>f.name.endsWith('.html')&&f.name!=='index.html').sort((a,b)=>b.name.localeCompare(a.name));
+  document.getElementById('list').innerHTML=htmls.map(f=>{
+    const date=f.name.replace('.html','');
+    const base=f.download_url.replace(f.name,'');
+    return '<div class="item"><span class="date-label">'+date+'</span><div class="links"><a href="'+f.download_url+'">HTML版</a></div></div>';
+  }).join('');
 });
 </script>
 </body>

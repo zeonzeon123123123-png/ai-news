@@ -18,13 +18,16 @@ def generate_daily_report():
         print("No news.json found")
         return
 
-    today = datetime.now().strftime("%Y年%-m月%-d日")
-    report = f"# AI 新闻日报 - {today}\n\n"
+    now = datetime.now()
+    today_cn = f"{now.year}年{now.month}月{now.day}日"
+    date_str = now.strftime("%Y-%m-%d")
+    report = f"# AI 新闻日报 - {today_cn}\n\n"
 
     for i in range(1, 5):
         cat_key = f"category{i}"
         items = data.get(cat_key, [])
-        report += f"## 板块{chr(0xFF11 + i - 1)}：{CATEGORY_NAMES[str(i)]}\n\n"
+        nums = ["一", "二", "三", "四"]
+        report += f"## 板块{nums[i-1]}：{CATEGORY_NAMES[str(i)]}\n\n"
         if not items:
             report += "暂无新闻\n\n"
         else:
@@ -35,9 +38,14 @@ def generate_daily_report():
                 report += f"{idx}. **{title}** - {url}\n   {summary}\n\n"
 
     os.makedirs("daily", exist_ok=True)
-    date_str = datetime.now().strftime("%Y-%m-%d")
     with open(f"daily/{date_str}.md", "w", encoding="utf-8") as f:
         f.write(report)
+
+    with open(f"daily/{date_str}.json", "w", encoding="utf-8") as f:
+        json.dump(data, f, ensure_ascii=False, indent=2)
+
+    with open(f"daily/{date_str}.html", "w", encoding="utf-8") as f:
+        f.write(generate_daily_html(data, date_str, today_cn))
 
     with open("daily/index.html", "w", encoding="utf-8") as f:
         f.write(generate_archive_page())
@@ -45,8 +53,71 @@ def generate_daily_report():
     print(f"Daily report generated: daily/{date_str}.md")
 
 
+def generate_daily_html(data, date_str, date_cn):
+    cat_colors = {
+        "1": "#00d2ff",
+        "2": "#f857a6",
+        "3": "#f7971e",
+        "4": "#56ab2f",
+    }
+    cat_icons = {
+        "1": "&#x1F9E0;",
+        "2": "&#x1F4F1;",
+        "3": "&#x1F4BB;",
+        "4": "&#x1F916;",
+    }
+    cat_names = CATEGORY_NAMES
+
+    cards_html = ""
+    for i in range(1, 5):
+        items = data.get(f"category{i}", [])
+        cards_html += f'<h2 style="color:{cat_colors[str(i)]}">{cat_icons[str(i)]} 板块{"一二三四"[i-1]}：{cat_names[str(i)]}</h2>\n'
+        if not items:
+            cards_html += '<p style="color:#666">暂无新闻</p>\n'
+        else:
+            for idx, item in enumerate(items, 1):
+                title = item.get("title", "")
+                url = item.get("url", "")
+                summary = item.get("summary", "")
+                source = item.get("source", "")
+                cards_html += f'''<div class="card">
+  <div class="card-head"><span class="idx">{idx}</span><a href="{url}" target="_blank">{title}</a></div>
+  <div class="card-body">{summary}</div>
+  <div class="card-meta">{source}</div>
+</div>\n'''
+
+    return f"""<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AI 新闻日报 - {date_cn}</title>
+<style>
+body{{font-family:-apple-system,BlinkMacSystemFont,sans-serif;background:#0a0a1a;color:#e0e0e0;max-width:800px;margin:0 auto;padding:2rem}}
+h1{{background:linear-gradient(90deg,#00d2ff,#3a7bd5);-webkit-background-clip:text;-webkit-text-fill-color:transparent}}
+h2{{margin-top:2rem;padding-bottom:0.5rem;border-bottom:2px solid #3a7bd5}}
+a{{color:#00d2ff;text-decoration:none}}a:hover{{text-decoration:underline}}
+.back{{display:inline-block;margin-bottom:2rem;padding:0.5rem 1rem;background:#3a7bd5;color:#fff;border-radius:6px}}
+.card{{background:#1a1a2e;border:1px solid #2a2a4a;border-radius:8px;padding:1rem;margin:0.5rem 0}}
+.card-head{{font-size:1rem;margin-bottom:0.3rem}}
+.idx{{display:inline-block;background:#3a7bd5;color:#fff;width:1.5rem;height:1.5rem;border-radius:50%;text-align:center;line-height:1.5rem;margin-right:0.5rem;font-size:0.8rem}}
+.card-body{{font-size:0.85rem;color:#a0a0b0}}
+.card-meta{{font-size:0.75rem;color:#666;margin-top:0.3rem}}
+.date{{color:#888;font-size:0.9rem;margin-bottom:1rem}}
+</style>
+</head>
+<body>
+<h1>AI 新闻日报</h1>
+<div class="date">{date_cn}</div>
+<a class="back" href="index.html">返回历史列表</a>
+<a class="back" href="../" style="margin-left:0.5rem">返回首页</a>
+{cards_html}
+</body>
+</html>"""
+
+
 def generate_archive_page():
-    html = """<!DOCTYPE html>
+    return """<!DOCTYPE html>
 <html lang="zh-CN">
 <head>
 <meta charset="UTF-8">
@@ -56,7 +127,9 @@ def generate_archive_page():
 body{font-family:-apple-system,BlinkMacSystemFont,sans-serif;background:#0a0a1a;color:#e0e0e0;max-width:800px;margin:0 auto;padding:2rem}
 h1{background:linear-gradient(90deg,#00d2ff,#3a7bd5);-webkit-background-clip:text;-webkit-text-fill-color:transparent}
 a{color:#00d2ff;text-decoration:none}a:hover{text-decoration:underline}
-.item{background:#1a1a2e;border:1px solid #2a2a4a;border-radius:8px;padding:1rem;margin:0.5rem 0}
+.item{background:#1a1a2e;border:1px solid #2a2a4a;border-radius:8px;padding:1rem;margin:0.5rem 0;display:flex;align-items:center;gap:1rem}
+.item .date-label{font-size:1.1rem;font-weight:600}
+.item .links{display:flex;gap:0.5rem;font-size:0.85rem}
 .back{display:inline-block;margin-bottom:2rem;padding:0.5rem 1rem;background:#3a7bd5;color:#fff;border-radius:6px}
 </style>
 </head>
@@ -68,13 +141,16 @@ a{color:#00d2ff;text-decoration:none}a:hover{text-decoration:underline}
 fetch('https://api.github.com/repos/zeonzeon123123123-png/ai-news/contents/daily')
 .then(r=>r.json())
 .then(files=>{
-  const md=files.filter(f=>f.name.endsWith('.md')).sort((a,b)=>b.name.localeCompare(a.name));
-  document.getElementById('list').innerHTML=md.map(f=>'<div class="item"><a href="'+f.download_url+'">'+f.name.replace('.md','')+'</a></div>').join('');
+  const htmls=files.filter(f=>f.name.endsWith('.html')&&f.name!=='index.html').sort((a,b)=>b.name.localeCompare(a.name));
+  document.getElementById('list').innerHTML=htmls.map(f=>{
+    const date=f.name.replace('.html','');
+    const base=f.download_url.replace(f.name,'');
+    return '<div class="item"><span class="date-label">'+date+'</span><div class="links"><a href="'+f.download_url+'">HTML版</a></div></div>';
+  }).join('');
 });
 </script>
 </body>
 </html>"""
-    return html
 
 
 if __name__ == "__main__":
