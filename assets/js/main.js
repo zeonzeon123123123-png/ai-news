@@ -93,52 +93,56 @@ document.getElementById('weeklySubmit').addEventListener('click', async () => {
     resultEl.textContent = '正在加载历史数据...';
 
     const catNames = { '1': '大模型与基础技术', '2': 'AI 应用与产品', '3': '芯片与算力', '4': '具身智能与机器人' };
+    const BASE = 'https://raw.githubusercontent.com/zeonzeon123123123-png/ai-news/main/daily/';
 
     let startDate = new Date(start);
     let endDate = new Date(end);
-    let allNews = { '1': [], '2': [], '3': [], '4': [] };
-
     let dates = [];
     for (let d = new Date(startDate); d <= endDate; d.setDate(d.getDate() + 1)) {
-        dates.push(d.toISOString().slice(0, 10));
+        let y = d.getFullYear();
+        let m = String(d.getMonth() + 1).padStart(2, '0');
+        let dd = String(d.getDate()).padStart(2, '0');
+        dates.push(y + '-' + m + '-' + dd);
     }
 
+    let allNews = { '1': [], '2': [], '3': [], '4': [] };
     let loaded = 0;
-    let total = dates.length;
-    let datas = [];
+    let found = 0;
 
     for (let dateStr of dates) {
+        loaded++;
         try {
-            const res = await fetch('https://raw.githubusercontent.com/zeonzeon123123123-png/ai-news/main/daily/' + dateStr + '.json');
+            const res = await fetch(BASE + dateStr + '.json');
             if (res.ok) {
                 const data = await res.json();
-                datas.push(data);
+                found++;
+                for (let i = 1; i <= 4; i++) {
+                    let items = data['category' + i] || [];
+                    for (let item of items) {
+                        if (!allNews[String(i)].some(n => n.title === item.title)) {
+                            allNews[String(i)].push(item);
+                        }
+                    }
+                }
             }
         } catch (e) {}
-        loaded++;
-        resultEl.textContent = `正在加载... (${loaded}/${total})`;
+        resultEl.textContent = '正在加载... (' + loaded + '/' + dates.length + ') 已找到' + found + '天数据';
     }
 
     if (newsData && newsData.date >= start && newsData.date <= end) {
-        let found = false;
-        for (let d of datas) { if (d.date === newsData.date) { found = true; break; } }
-        if (!found) datas.push(newsData);
-    }
-
-    if (datas.length === 0) {
-        resultEl.textContent = '所选日期范围内没有找到历史数据。目前仅支持查看当前和已存档的新闻。';
-        return;
-    }
-
-    for (let data of datas) {
         for (let i = 1; i <= 4; i++) {
-            let items = data['category' + i] || [];
+            let items = newsData['category' + i] || [];
             for (let item of items) {
                 if (!allNews[String(i)].some(n => n.title === item.title)) {
                     allNews[String(i)].push(item);
                 }
             }
         }
+    }
+
+    if (found === 0 && (!newsData || newsData.date < start || newsData.date > end)) {
+        resultEl.textContent = '所选日期范围内没有找到历史数据。\n\n目前可用数据日期：' + (newsData ? newsData.date : '无');
+        return;
     }
 
     let report = '# AI 新闻周报 - ' + start + ' 至 ' + end + '\n\n';
@@ -161,7 +165,17 @@ function setCurrentDate() {
     const y = now.getFullYear();
     const m = String(now.getMonth() + 1).padStart(2, '0');
     const d = String(now.getDate()).padStart(2, '0');
-    document.getElementById('currentDate').textContent = y + '-' + m + '-' + d + ' AI 新闻日报';
+    const today = y + '-' + m + '-' + d;
+    document.getElementById('currentDate').textContent = today + ' AI 新闻日报';
+    document.getElementById('weekStart').max = today;
+    document.getElementById('weekEnd').max = today;
+    document.getElementById('weekStart').value = today;
+    var weekAgo = new Date(now);
+    weekAgo.setDate(weekAgo.getDate() - 7);
+    var wy = weekAgo.getFullYear();
+    var wm = String(weekAgo.getMonth() + 1).padStart(2, '0');
+    var wd = String(weekAgo.getDate()).padStart(2, '0');
+    document.getElementById('weekStart').value = wy + '-' + wm + '-' + wd;
 }
 
 setCurrentDate();

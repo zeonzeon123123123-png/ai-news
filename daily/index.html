@@ -5,25 +5,28 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>AI News - 历史日报</title>
 <style>
+*{margin:0;padding:0;box-sizing:border-box}
 body{font-family:-apple-system,BlinkMacSystemFont,sans-serif;background:#0a0a1a;color:#e0e0e0;max-width:800px;margin:0 auto;padding:2rem}
-h1{background:linear-gradient(90deg,#00d2ff,#3a7bd5);-webkit-background-clip:text;-webkit-text-fill-color:transparent}
+h1{background:linear-gradient(90deg,#00d2ff,#3a7bd5);-webkit-background-clip:text;-webkit-text-fill-color:transparent;margin-bottom:1.5rem}
 h2{margin-top:1.5rem;color:#e0e0e0;border-bottom:1px solid #2a2a4a;padding-bottom:0.5rem}
 a{color:#00d2ff;text-decoration:none}a:hover{text-decoration:underline}
 .back{display:inline-block;margin-bottom:1.5rem;padding:0.5rem 1rem;background:#3a7bd5;color:#fff;border-radius:6px;cursor:pointer}
-.date-picker{display:flex;align-items:center;gap:1rem;margin-bottom:1.5rem;flex-wrap:wrap}
-.date-picker label{font-weight:600}
-.date-picker input[type="date"]{background:#1a1a2e;border:1px solid #3a3a5a;color:#e0e0e0;padding:0.5rem;border-radius:6px;font-size:1rem}
-.date-picker button{background:#3a7bd5;color:#fff;border:none;padding:0.5rem 1.5rem;border-radius:6px;cursor:pointer;font-size:1rem}
+.date-picker{display:flex;align-items:center;gap:0.8rem;margin-bottom:1rem;flex-wrap:wrap}
+.date-picker label{font-weight:600;font-size:0.95rem}
+.date-picker input[type="date"]{background:#1a1a2e;border:1px solid #3a3a5a;color:#e0e0e0;padding:0.5rem 0.8rem;border-radius:6px;font-size:0.95rem;outline:none}
+.date-picker input[type="date"]:focus{border-color:#00d2ff}
+.date-picker button{background:#3a7bd5;color:#fff;border:none;padding:0.5rem 1.2rem;border-radius:6px;cursor:pointer;font-size:0.95rem}
 .date-picker button:hover{background:#2a6bc5}
-.date-list{display:flex;flex-wrap:wrap;gap:0.5rem;margin-bottom:2rem}
-.date-chip{background:#1a1a2e;border:1px solid #2a2a4a;border-radius:6px;padding:0.4rem 0.8rem;cursor:pointer;font-size:0.9rem;transition:all 0.2s}
+.date-list{display:flex;flex-wrap:wrap;gap:0.4rem;margin-bottom:2rem}
+.date-chip{background:#1a1a2e;border:1px solid #2a2a4a;border-radius:6px;padding:0.35rem 0.7rem;cursor:pointer;font-size:0.85rem;transition:all 0.2s}
 .date-chip:hover,.date-chip.active{background:#3a7bd5;border-color:#3a7bd5;color:#fff}
 .news-item{background:#1a1a2e;border:1px solid #2a2a4a;border-radius:8px;padding:1rem;margin:0.5rem 0}
 .news-item .title{font-size:1rem;font-weight:600;margin-bottom:0.3rem}
 .news-item .title a{color:#e0e0e0}
 .news-item .summary{font-size:0.85rem;color:#a0a0b0;margin-bottom:0.3rem}
-.news-item .link{font-size:0.8rem;color:#00d2ff}
-.section-title{font-size:1.1rem;margin-top:1.5rem;margin-bottom:0.5rem;padding-left:0.5rem;border-left:3px solid #3a7bd5}
+.news-item .link{font-size:0.8rem}
+.news-item .link a{color:#00d2ff}
+.section-title{font-size:1.05rem;margin-top:1.5rem;margin-bottom:0.5rem;padding-left:0.5rem;border-left:3px solid #3a7bd5;font-weight:600}
 .loading{text-align:center;padding:2rem;color:#888}
 .empty{text-align:center;padding:2rem;color:#666}
 </style>
@@ -33,85 +36,93 @@ a{color:#00d2ff;text-decoration:none}a:hover{text-decoration:underline}
 <a class="back" href="../">返回首页</a>
 <div class="date-picker">
   <label>选择日期：</label>
-  <input type="date" id="dateInput" min="2026-01-01">
-  <button id="viewBtn">查看</button>
+  <input type="date" id="dateInput">
+  <button id="viewBtn">查看日报</button>
 </div>
 <div class="date-list" id="dateList"></div>
 <div id="content"></div>
 
 <script>
-const API = 'https://api.github.com/repos/zeonzeon123123123-png/ai-news/contents/daily';
-const RAW = 'https://raw.githubusercontent.com/zeonzeon123123123-png/ai-news/main/daily/';
+var RAW = 'https://raw.githubusercontent.com/zeonzeon123123123-png/ai-news/main/daily/';
+var catNames = {'1':'大模型与基础技术','2':'AI 应用与产品','3':'芯片与算力','4':'具身智能与机器人'};
+var catColors = {'1':'#00d2ff','2':'#f857a6','3':'#f7971e','4':'#56ab2f'};
 
-const catNames = {'1':'大模型与基础技术','2':'AI 应用与产品','3':'芯片与算力','4':'具身智能与机器人'};
-const catColors = {'1':'#00d2ff','2':'#f857a6','3':'#f7971e','4':'#56ab2f'};
+var today = new Date();
+var availableDates = [];
 
-let availableDates = [];
+function formatDate(d) {
+  var y = d.getFullYear();
+  var m = String(d.getMonth()+1).padStart(2,'0');
+  var dd = String(d.getDate()).padStart(2,'0');
+  return y + '-' + m + '-' + dd;
+}
 
-fetch(API)
-.then(r => r.json())
-.then(files => {
-  availableDates = files
-    .filter(f => f.name.endsWith('.json'))
-    .map(f => f.name.replace('.json',''))
-    .sort()
-    .reverse();
-  renderDateChips();
-  if (availableDates.length > 0) {
-    loadReport(availableDates[0]);
-  }
-});
+for (var i = 0; i < 30; i++) {
+  var d = new Date(today);
+  d.setDate(d.getDate() - i);
+  availableDates.push(formatDate(d));
+}
+
+document.getElementById('dateInput').max = formatDate(today);
+document.getElementById('dateInput').min = '2026-01-01';
+document.getElementById('dateInput').value = formatDate(today);
+
+renderDateChips();
+loadReport(formatDate(today));
 
 function renderDateChips() {
-  const el = document.getElementById('dateList');
-  el.innerHTML = availableDates.map(d =>
-    '<span class="date-chip" data-date="' + d + '">' + d + '</span>'
-  ).join('');
-  el.querySelectorAll('.date-chip').forEach(chip => {
-    chip.addEventListener('click', () => {
-      loadReport(chip.dataset.date);
+  var el = document.getElementById('dateList');
+  el.innerHTML = availableDates.map(function(d) {
+    return '<span class="date-chip" data-date="' + d + '">' + d + '</span>';
+  }).join('');
+  var chips = el.querySelectorAll('.date-chip');
+  for (var j = 0; j < chips.length; j++) {
+    chips[j].addEventListener('click', function() {
+      loadReport(this.dataset.date);
     });
-  });
+  }
 }
 
 function loadReport(date) {
-  document.querySelectorAll('.date-chip').forEach(c => c.classList.remove('active'));
-  const active = document.querySelector('.date-chip[data-date="' + date + '"]');
+  var chips = document.querySelectorAll('.date-chip');
+  for (var j = 0; j < chips.length; j++) chips[j].classList.remove('active');
+  var active = document.querySelector('.date-chip[data-date="' + date + '"]');
   if (active) active.classList.add('active');
   document.getElementById('dateInput').value = date;
 
-  const content = document.getElementById('content');
+  var content = document.getElementById('content');
   content.innerHTML = '<div class="loading">加载中...</div>';
 
   fetch(RAW + date + '.json')
-    .then(r => {
+    .then(function(r) {
       if (!r.ok) throw new Error('Not found');
       return r.json();
     })
-    .then(data => renderReport(data, date))
-    .catch(() => {
+    .then(function(data) { renderReport(data, date); })
+    .catch(function() {
       content.innerHTML = '<div class="empty">' + date + ' 暂无日报数据</div>';
     });
 }
 
 function renderReport(data, date) {
-  const content = document.getElementById('content');
-  let html = '<h2>' + date + ' AI 新闻日报</h2>';
+  var content = document.getElementById('content');
+  var html = '<h2>' + date + ' AI 新闻日报</h2>';
+  var nums = ['一','二','三','四'];
 
-  for (let i = 1; i <= 4; i++) {
-    const items = data['category' + i] || [];
-    const nums = ['一','二','三','四'];
+  for (var i = 1; i <= 4; i++) {
+    var items = data['category' + i] || [];
     html += '<div class="section-title" style="border-left-color:' + catColors[String(i)] + '">板块' + nums[i-1] + '：' + catNames[String(i)] + '</div>';
     if (items.length === 0) {
       html += '<div class="empty">暂无新闻</div>';
     } else {
-      items.forEach(item => {
+      for (var j = 0; j < items.length; j++) {
+        var item = items[j];
         html += '<div class="news-item">' +
           '<div class="title"><a href="' + escapeAttr(item.url) + '" target="_blank">' + escapeHtml(item.title) + '</a></div>' +
           '<div class="summary">' + escapeHtml(item.summary) + '</div>' +
-          '<div class="link"><a href="' + escapeAttr(item.url) + '" target="_blank">' + escapeAttr(item.url) + '</a></div>' +
+          '<div class="link"><a href="' + escapeAttr(item.url) + '" target="_blank">阅读原文</a></div>' +
           '</div>';
-      });
+      }
     }
   }
   content.innerHTML = html;
@@ -126,8 +137,8 @@ function escapeAttr(s) {
   return s.replace(/&/g,'&amp;').replace(/"/g,'&quot;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
 }
 
-document.getElementById('viewBtn').addEventListener('click', () => {
-  const d = document.getElementById('dateInput').value;
+document.getElementById('viewBtn').addEventListener('click', function() {
+  var d = document.getElementById('dateInput').value;
   if (d) loadReport(d);
 });
 </script>
