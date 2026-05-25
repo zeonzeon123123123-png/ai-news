@@ -140,17 +140,6 @@ def translate_to_chinese(text):
     return text
 
 
-def validate_url(url, timeout=15):
-    headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"}
-    try:
-        resp = requests.get(url, timeout=timeout, allow_redirects=True, stream=True, headers=headers)
-        resp.close()
-        return resp.status_code == 200
-    except:
-        pass
-    return False
-
-
 def classify_item(title, summary):
     text = (title + " " + summary).lower()
     scores = {}
@@ -319,8 +308,11 @@ def fetch_rss(url, source_name, authority):
     return items
 
 
+MAX_PER_CATEGORY = int(os.environ.get("MAX_NEWS_PER_CATEGORY", "10"))
+
+
 def main():
-    print("Fetching RSS feeds...")
+    print(f"Fetching RSS feeds... (max {MAX_PER_CATEGORY} per category)")
     all_items = []
     for src in RSS_SOURCES:
         items = fetch_rss(src["url"], src["source"], src.get("authority", 0.7))
@@ -353,9 +345,8 @@ def main():
         classified[cat] = deduplicate_titles(classified[cat])
         print(f"  Category {cat}: {len(classified[cat])} items above {SCORE_THRESHOLD} (top score: {classified[cat][0]['_score'] if classified[cat] else 0})")
 
-    print("\nValidating URLs and translating...")
+    print("\nTranslating...")
     result = {"date": now_bj().strftime("%Y-%m-%d")}
-    used_titles = set()
     used_urls = set()
 
     for i in range(1, 5):
@@ -365,7 +356,7 @@ def main():
         candidates = classified[cat_key]
 
         for item in candidates:
-            if len(valid_items) >= 5:
+            if len(valid_items) >= MAX_PER_CATEGORY:
                 break
             src = item.get("source", "")
             if source_count.get(src, 0) >= 3:
@@ -373,77 +364,21 @@ def main():
             if item["url"] in used_urls:
                 continue
 
-            url = item["url"]
             score = item.get("_score", 0)
-            print(f"  [{score:.2f}] {url[:70]}...", end=" ")
-
-            if validate_url(url):
-                if not is_chinese(item["title"]):
-                    print("OK trans...", end=" ")
-                    item["title"] = translate_to_chinese(item["title"])
-                    item["summary"] = translate_to_chinese(item["summary"])
-                    item["detail"] = translate_to_chinese(item["detail"])
-                    time.sleep(0.5)
-                    print("done")
-                else:
-                    print("OK")
-                clean_item = {k: v for k, v in item.items() if not k.startswith("_")}
-                valid_items.append(clean_item)
-                used_titles.add(item["title"])
-                used_urls.add(item["url"])
-                source_count[src] = source_count.get(src, 0) + 1
+            if not is_chinese(item["title"]):
+                print(f"  [{score:.2f}] translating: {item['title'][:60]}...")
+                item["title"] = translate_to_chinese(item["title"])
+                item["summary"] = translate_to_chinese(item["summary"])
+                item["detail"] = translate_to_chinese(item["detail"])
+                time.sleep(0.5)
             else:
-                print("FAILED")
+                print(f"  [{score:.2f}] OK: {item['title'][:60]}")
 
-        if len(valid_items) < 5:
-            print(f"  Category {i} needs {5 - len(valid_items)} more, supplementing from all scored items...")
-            pool = []
-            all_scored = []
-            for item_candidate in unique_items:
-                c = classify_item(item_candidate["title"], item_candidate["summary"])
-                if not c:
-                    continue
-                sc = compute_final_score(item_candidate, c)
-                if sc < SCORE_THRESHOLD:
-                    continue
-                if item_candidate["url"] in used_urls and c != cat_key:
-                    continue
-                item_candidate["_cat"] = c
-                item_candidate["_score"] = sc
-                all_scored.append(item_candidate)
-            seen = set()
-            for p in all_scored:
-                if p["url"] not in seen:
-                    seen.add(p["url"])
-                    pool.append(p)
-            pool.sort(key=lambda x: x.get("_score", 0), reverse=True)
-            pool = deduplicate_titles(pool)
-            for item in pool:
-                if len(valid_items) >= 5:
-                    break
-                src = item.get("source", "")
-                if source_count.get(src, 0) >= 4:
-                    continue
-                url = item["url"]
-                score = item.get("_score", 0)
-                print(f"  [sup {score:.2f}] {url[:70]}...", end=" ")
-                if validate_url(url):
-                    if not is_chinese(item["title"]):
-                        print("OK trans...", end=" ")
-                        item["title"] = translate_to_chinese(item["title"])
-                        item["summary"] = translate_to_chinese(item["summary"])
-                        item["detail"] = translate_to_chinese(item["detail"])
-                        time.sleep(0.5)
-                        print("done")
-                    else:
-                        print("OK")
-                    clean_item = {k: v for k, v in item.items() if not k.startswith("_")}
-                    clean_item["score"] = score
-                    valid_items.append(clean_item)
-                    used_urls.add(item["url"])
-                    source_count[src] = source_count.get(src, 0) + 1
-                else:
-                    print("FAILED")
+            clean_item = {k: v for k, v in item.items() if not k.startswith("_")}
+            clean_item["score"] = score
+            valid_items.append(clean_item)
+            used_urls.add(item["url"])
+            source_count[src] = source_count.get(src, 0) + 1
 
         result[f"category{i}"] = valid_items
         print(f"  Category {i}: {len(valid_items)} items")
@@ -453,7 +388,7 @@ def main():
         json.dump(result, f, ensure_ascii=False, indent=2)
 
     total = sum(len(result.get(f"category{i}", [])) for i in range(1, 5))
-    print(f"\nDone! Total: {total} validated news items")
+    print(f"\nDone! Total: {total} news items")
 
 
 def deduplicate_titles(items):

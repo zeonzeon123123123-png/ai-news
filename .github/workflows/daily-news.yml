@@ -26,6 +26,8 @@ jobs:
           pip install feedparser requests beautifulsoup4 deep-translator
 
       - name: Fetch and categorize news
+        env:
+          MAX_NEWS_PER_CATEGORY: "10"
         run: python scripts/fetch_news.py
 
       - name: Generate daily report
