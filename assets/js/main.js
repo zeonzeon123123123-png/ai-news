@@ -7,8 +7,8 @@ async function loadNews() {
         renderNews(newsData);
     } catch (e) {
         console.error('Failed to load news:', e);
-        document.querySelectorAll('.news-grid').forEach(g => {
-            g.innerHTML = '<p class="error">Failed to load news data</p>';
+        document.querySelectorAll('.news-list').forEach(g => {
+            g.innerHTML = '<div class="news-empty">加载失败，请稍后重试</div>';
         });
     }
 }
@@ -17,15 +17,30 @@ function renderNews(data) {
     const categories = ['1', '2', '3', '4'];
     const catClasses = ['cat1', 'cat2', 'cat3', 'cat4'];
     categories.forEach((cat, idx) => {
-        const grid = document.getElementById('grid' + cat);
+        const list = document.getElementById('grid' + cat);
         const items = data['category' + cat] || [];
-        grid.innerHTML = '';
-        items.forEach(item => {
+        const countEl = document.getElementById('count' + cat);
+        if (countEl) countEl.textContent = items.length + ' 条';
+        list.innerHTML = '';
+        if (items.length === 0) {
+            list.innerHTML = '<div class="news-empty">暂无新闻</div>';
+            return;
+        }
+        items.forEach((item, i) => {
             const card = document.createElement('div');
             card.className = 'news-card ' + catClasses[idx];
-            card.innerHTML = '<h3>' + escapeHtml(item.title) + '</h3><p class="summary">' + escapeHtml(item.summary) + '</p><div class="meta"><span>' + escapeHtml(item.source) + '</span><span>' + escapeHtml(item.date) + '</span></div>';
+            card.innerHTML =
+                '<div class="idx">' + (i + 1) + '</div>' +
+                '<div class="card-body">' +
+                    '<h3>' + escapeHtml(item.title) + '</h3>' +
+                    '<p class="summary">' + escapeHtml(item.summary) + '</p>' +
+                    '<div class="meta">' +
+                        '<span class="source-tag">' + escapeHtml(item.source) + '</span>' +
+                        '<span>' + escapeHtml(item.date) + '</span>' +
+                    '</div>' +
+                '</div>';
             card.addEventListener('click', () => showDetail(item));
-            grid.appendChild(card);
+            list.appendChild(card);
         });
     });
 }
@@ -169,7 +184,7 @@ function setCurrentDate() {
     document.getElementById('currentDate').textContent = today + ' AI 新闻日报';
     document.getElementById('weekStart').max = today;
     document.getElementById('weekEnd').max = today;
-    document.getElementById('weekStart').value = today;
+    document.getElementById('weekEnd').value = today;
     var weekAgo = new Date(now);
     weekAgo.setDate(weekAgo.getDate() - 7);
     var wy = weekAgo.getFullYear();
