@@ -1,24 +1,52 @@
 let newsData = null;
 
+const CAT_NAMES = { '1': '大模型与基础技术', '2': 'AI 应用与产品', '3': '芯片与算力', '4': '具身智能与机器人' };
+const CAT_CLASSES = ['cat1', 'cat2', 'cat3', 'cat4'];
+const CATEGORIES = ['1', '2', '3', '4'];
+let currentFilter = 'all';
+
 async function loadNews() {
+    showSkeleton();
     try {
         const res = await fetch('data/news.json');
+        if (!res.ok) throw new Error('HTTP ' + res.status);
         newsData = await res.json();
         renderNews(newsData);
     } catch (e) {
         console.error('Failed to load news:', e);
-        document.querySelectorAll('.news-list').forEach(g => {
-            g.innerHTML = '<div class="news-empty">加载失败，请稍后重试</div>';
-        });
+        showError();
     }
 }
 
-function renderNews(data) {
-    const categories = ['1', '2', '3', '4'];
-    const catClasses = ['cat1', 'cat2', 'cat3', 'cat4'];
-    categories.forEach((cat, idx) => {
+function showSkeleton() {
+    CATEGORIES.forEach(cat => {
         const list = document.getElementById('grid' + cat);
-        const items = data['category' + cat] || [];
+        list.innerHTML = '';
+        for (let i = 0; i < 5; i++) {
+            const sk = document.createElement('div');
+            sk.className = 'skeleton-card';
+            sk.innerHTML = '<div class="sk-idx"></div><div class="sk-body"><div class="sk-line sk-wide"></div><div class="sk-line sk-mid"></div><div class="sk-line sk-narrow"></div></div>';
+            list.appendChild(sk);
+        }
+    });
+}
+
+function showError() {
+    CATEGORIES.forEach(cat => {
+        const list = document.getElementById('grid' + cat);
+        list.innerHTML = '<div class="news-empty">加载失败 <button class="retry-btn" onclick="loadNews()">重试</button></div>';
+    });
+}
+
+function renderNews(data) {
+    CATEGORIES.forEach((cat, idx) => {
+        const list = document.getElementById('grid' + cat);
+        let items = data['category' + cat] || [];
+        if (currentFilter !== 'all' && currentFilter !== cat) {
+            document.getElementById('cat' + cat).style.display = 'none';
+            return;
+        }
+        document.getElementById('cat' + cat).style.display = '';
         const countEl = document.getElementById('count' + cat);
         if (countEl) countEl.textContent = items.length + ' 条';
         list.innerHTML = '';
@@ -28,12 +56,14 @@ function renderNews(data) {
         }
         items.forEach((item, i) => {
             const card = document.createElement('div');
-            card.className = 'news-card ' + catClasses[idx];
+            card.className = 'news-card ' + CAT_CLASSES[idx];
+            const highlightTitle = currentSearchQuery ? highlightText(escapeHtml(item.title), currentSearchQuery) : escapeHtml(item.title);
+            const highlightSummary = currentSearchQuery ? highlightText(escapeHtml(item.summary), currentSearchQuery) : escapeHtml(item.summary);
             card.innerHTML =
                 '<div class="idx">' + (i + 1) + '</div>' +
                 '<div class="card-body">' +
-                    '<h3>' + escapeHtml(item.title) + '</h3>' +
-                    '<p class="summary">' + escapeHtml(item.summary) + '</p>' +
+                    '<h3>' + highlightTitle + '</h3>' +
+                    '<p class="summary">' + highlightSummary + '</p>' +
                     '<div class="meta">' +
                         '<span class="source-tag">' + escapeHtml(item.source) + '</span>' +
                         '<span>' + escapeHtml(item.date) + '</span>' +
@@ -48,6 +78,13 @@ function renderNews(data) {
 function escapeHtml(str) {
     if (!str) return '';
     return str.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+}
+
+function highlightText(html, query) {
+    if (!query) return html;
+    const escaped = query.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+    const re = new RegExp('(' + escaped + ')', 'gi');
+    return html.replace(re, '<mark>$1</mark>');
 }
 
 function showDetail(item) {
@@ -66,13 +103,17 @@ document.getElementById('detailModal').addEventListener('click', (e) => {
     if (e.target === e.currentTarget) e.currentTarget.classList.remove('active');
 });
 
+let currentSearchQuery = '';
+
 document.getElementById('searchBtn').addEventListener('click', doSearch);
 document.getElementById('searchInput').addEventListener('keyup', (e) => {
     if (e.key === 'Enter') doSearch();
+    if (e.target.value === '') doSearch();
 });
 
 function doSearch() {
     const q = document.getElementById('searchInput').value.trim().toLowerCase();
+    currentSearchQuery = q;
     if (!q) { renderNews(newsData); return; }
     const filtered = {};
     for (let i = 1; i <= 4; i++) {
@@ -84,6 +125,22 @@ function doSearch() {
         );
     }
     renderNews(filtered);
+    const total = Object.values(filtered).reduce((s, a) => s + a.length, 0);
+    if (total === 0) {
+        document.getElementById('grid1').innerHTML = '<div class="news-empty">未找到与 "' + escapeHtml(currentSearchQuery) + '" 相关的新闻</div>';
+    }
+}
+
+function setupFilterTabs() {
+    const tabs = document.querySelectorAll('.filter-tab');
+    tabs.forEach(tab => {
+        tab.addEventListener('click', () => {
+            tabs.forEach(t => t.classList.remove('active'));
+            tab.classList.add('active');
+            currentFilter = tab.dataset.cat;
+            renderNews(newsData);
+        });
+    });
 }
 
 document.getElementById('weeklyBtn').addEventListener('click', () => {
@@ -105,9 +162,8 @@ document.getElementById('weeklySubmit').addEventListener('click', async () => {
     if (cats.length === 0) { alert('请至少选择一个板块'); return; }
     const resultEl = document.getElementById('weeklyResult');
     resultEl.style.display = 'block';
-    resultEl.textContent = '正在加载历史数据...';
+    resultEl.innerHTML = '<div class="weekly-loading">正在加载历史数据...</div>';
 
-    const catNames = { '1': '大模型与基础技术', '2': 'AI 应用与产品', '3': '芯片与算力', '4': '具身智能与机器人' };
     const BASE = 'https://raw.githubusercontent.com/zeonzeon123123123-png/ai-news/main/daily/';
 
     let startDate = new Date(start);
@@ -141,7 +197,7 @@ document.getElementById('weeklySubmit').addEventListener('click', async () => {
                 }
             }
         } catch (e) {}
-        resultEl.textContent = '正在加载... (' + loaded + '/' + dates.length + ') 已找到' + found + '天数据';
+        resultEl.innerHTML = '<div class="weekly-loading">正在加载... (' + loaded + '/' + dates.length + ') 已找到' + found + '天数据</div>';
     }
 
     if (newsData && newsData.date >= start && newsData.date <= end) {
@@ -156,24 +212,50 @@ document.getElementById('weeklySubmit').addEventListener('click', async () => {
     }
 
     if (found === 0 && (!newsData || newsData.date < start || newsData.date > end)) {
-        resultEl.textContent = '所选日期范围内没有找到历史数据。\n\n目前可用数据日期：' + (newsData ? newsData.date : '无');
+        resultEl.innerHTML = '<div class="news-empty">所选日期范围内没有找到历史数据。<br>目前可用数据日期：' + (newsData ? newsData.date : '无') + '</div>';
         return;
     }
 
-    let report = '# AI 新闻周报 - ' + start + ' 至 ' + end + '\n\n';
+    let mdReport = '# AI 新闻周报 - ' + start + ' 至 ' + end + '\n\n';
+    let htmlParts = [];
     cats.forEach(cat => {
-        report += '## 板块：' + catNames[cat] + '\n\n';
         const items = allNews[cat].slice(0, count);
+        mdReport += '## 板块：' + CAT_NAMES[cat] + '\n\n';
+        htmlParts.push('<div class="weekly-section"><h3>' + escapeHtml(CAT_NAMES[cat]) + '</h3>');
         if (items.length === 0) {
-            report += '暂无新闻\n\n';
+            mdReport += '暂无新闻\n\n';
+            htmlParts.push('<div class="news-empty">暂无新闻</div></div>');
         } else {
             items.forEach((item, idx) => {
-                report += (idx + 1) + '. **' + item.title + '** - ' + item.url + '\n   ' + item.summary + '\n\n';
+                mdReport += (idx + 1) + '. **' + item.title + '** - ' + item.url + '\n   ' + item.summary + '\n\n';
+                htmlParts.push(
+                    '<div class="weekly-item">' +
+                        '<span class="weekly-idx">' + (idx + 1) + '</span>' +
+                        '<div class="weekly-body">' +
+                            '<a href="' + escapeHtml(item.url) + '" target="_blank" class="weekly-title">' + escapeHtml(item.title) + '</a>' +
+                            '<p class="weekly-summary">' + escapeHtml(item.summary) + '</p>' +
+                            '<span class="weekly-source">' + escapeHtml(item.source) + '</span>' +
+                        '</div>' +
+                    '</div>'
+                );
             });
+            htmlParts.push('</div>');
         }
     });
-    resultEl.textContent = report;
+    htmlParts.push('<button class="copy-md-btn" onclick="copyWeeklyMd()">复制 Markdown</button>');
+    resultEl.innerHTML = htmlParts.join('');
+    window._weeklyMd = mdReport;
 });
+
+window.copyWeeklyMd = function() {
+    if (window._weeklyMd) {
+        navigator.clipboard.writeText(window._weeklyMd).then(() => {
+            const btn = document.querySelector('.copy-md-btn');
+            btn.textContent = '已复制';
+            setTimeout(() => { btn.textContent = '复制 Markdown'; }, 2000);
+        });
+    }
+};
 
 function setCurrentDate() {
     const now = new Date();
@@ -193,5 +275,6 @@ function setCurrentDate() {
     document.getElementById('weekStart').value = wy + '-' + wm + '-' + wd;
 }
 
+setupFilterTabs();
 setCurrentDate();
 loadNews();
