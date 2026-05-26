@@ -451,6 +451,10 @@ def main():
         classified[cat] = deduplicate_titles(classified[cat])
         print(f"  Category {cat}: {len(classified[cat])} items above {SCORE_THRESHOLD} (top score: {classified[cat][0]['_score'] if classified[cat] else 0})")
 
+    removed = cross_category_dedup(classified)
+    if removed > 0:
+        print(f"  Cross-category dedup: removed {removed} duplicates")
+
     print("\nTranslating...")
     result = {"date": now_bj().strftime("%Y-%m-%d")}
     used_urls = set()
@@ -515,6 +519,32 @@ def deduplicate_titles(items):
         if not is_dup:
             result.append(item)
     return result
+
+
+def cross_category_dedup(classified):
+    removed = 0
+    all_pairs = []
+    for i in range(1, 5):
+        for j in range(i + 1, 5):
+            all_pairs.append((str(i), str(j)))
+    for cat_a, cat_b in all_pairs:
+        items_a = classified[cat_a]
+        items_b = classified[cat_b]
+        remove_from_b = set()
+        for idx_b, item_b in enumerate(items_b):
+            for idx_a, item_a in enumerate(items_a):
+                if idx_a in remove_from_b:
+                    continue
+                if is_similar(item_a["title"], item_b["title"]):
+                    if item_a.get("_score", 0) >= item_b.get("_score", 0):
+                        remove_from_b.add(idx_b)
+                    else:
+                        remove_from_b.add(idx_a)
+                    removed += 1
+                    break
+        classified[cat_a] = [item for idx, item in enumerate(items_a) if idx not in remove_from_b]
+        classified[cat_b] = [item for idx, item in enumerate(items_b) if idx not in remove_from_b]
+    return removed
 
 
 if __name__ == "__main__":
