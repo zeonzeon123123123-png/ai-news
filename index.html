@@ -114,33 +114,38 @@
     <div class="modal" id="settingsModal">
         <div class="modal-content settings-form">
             <button class="modal-close" id="settingsClose">&times;</button>
-            <h2>AI 模型设置</h2>
-            <p class="settings-desc">配置 LLM 用于翻译和摘要生成，API Key 存储在浏览器本地。<br><strong>推荐使用 Google Gemini</strong>，原生支持浏览器直接调用；OpenAI/DeepSeek 需要配置 CORS 代理地址。</p>
-            <div class="form-group">
-                <label>Provider</label>
-                <select id="llmProvider">
-                    <option value="gemini">Google Gemini (推荐)</option>
-                    <option value="openai">OpenAI</option>
-                    <option value="deepseek">DeepSeek</option>
-                    <option value="custom">自定义 (OpenAI 兼容)</option>
-                </select>
-            </div>
-            <div class="form-group">
-                <label>Model ID</label>
-                <input type="text" id="llmModel" placeholder="gemini-2.0-flash">
-            </div>
-            <div class="form-group">
-                <label>API Key</label>
-                <input type="password" id="llmApiKey" placeholder="AIza...">
-            </div>
-            <div class="form-group">
-                <label>Base URL</label>
-                <input type="text" id="llmBaseUrl" placeholder="https://generativelanguage.googleapis.com/v1beta">
-                <span class="form-hint" id="baseUrlHint">Gemini 无需修改；OpenAI/DeepSeek 需填写支持浏览器调用的代理地址</span>
-            </div>
-            <div class="settings-actions">
-                <button class="submit-btn" id="settingsSave">保存配置</button>
-                <button class="test-btn" id="settingsTest">测试连接</button>
+            <h2>高级设置</h2>
+            <p class="settings-desc">配置 LLM 模型用于翻译和摘要生成。API Key 存储在浏览器本地。<br><strong>仅支持允许浏览器跨域调用的 API 地址</strong>（如 OpenRouter 等）。<br>如需使用不支持 CORS 的 API，请在 GitHub 仓库 Settings → Secrets 中配置 LLM_API_KEY、LLM_BASE_URL、LLM_MODEL。</p>
+            <div id="modelsContainer"></div>
+            <button class="submit-btn" id="addModelBtn">+ 添加模型</button>
+            <div id="modelEditor" style="display:none;">
+                <div class="model-editor-title" id="editorTitle">添加模型</div>
+                <input type="hidden" id="editModelId">
+                <div class="form-group">
+                    <label>模型名称</label>
+                    <input type="text" id="editModelName" placeholder="如：我的GPT-4o">
+                </div>
+                <div class="form-group">
+                    <label>Model ID</label>
+                    <input type="text" id="editModelId2" placeholder="如：gpt-4o-mini">
+                </div>
+                <div class="form-group">
+                    <label>API Key</label>
+                    <input type="password" id="editApiKey" placeholder="sk-...">
+                </div>
+                <div class="form-group">
+                    <label>Base URL</label>
+                    <input type="text" id="editBaseUrl" placeholder="https://openrouter.ai/api/v1">
+                    <span class="form-hint">填写兼容 OpenAI chat/completions 接口的地址</span>
+                </div>
+                <div class="form-group">
+                    <label><input type="checkbox" id="editModelEnabled" checked> 启用此模型</label>
+                </div>
+                <div class="settings-actions">
+                    <button class="submit-btn" id="editorSave">保存</button>
+                    <button class="test-btn" id="editorTest">测试连接</button>
+                    <button class="cancel-btn" id="editorCancel">取消</button>
+                </div>
             </div>
             <div id="settingsStatus"></div>
         </div>

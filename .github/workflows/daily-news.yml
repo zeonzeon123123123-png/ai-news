@@ -23,14 +23,21 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install feedparser requests beautifulsoup4 deep-translator
+          pip install feedparser requests beautifulsoup4 deep-translator openai
 
       - name: Fetch and categorize news
         env:
           MAX_NEWS_PER_CATEGORY: "10"
+          LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
+          LLM_BASE_URL: ${{ secrets.LLM_BASE_URL }}
+          LLM_MODEL: ${{ secrets.LLM_MODEL }}
         run: python scripts/fetch_news.py
 
       - name: Generate daily report
+        env:
+          LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
+          LLM_BASE_URL: ${{ secrets.LLM_BASE_URL }}
+          LLM_MODEL: ${{ secrets.LLM_MODEL }}
         run: python scripts/generate_report.py
 
       - name: Commit and push changes

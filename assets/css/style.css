@@ -148,4 +148,39 @@ footer { text-align: center; padding: 2rem; color: #666; font-size: 0.85rem; bor
     .news-card .idx { min-width: 32px; font-size: 0.75rem; }
     .news-card h3 { font-size: 0.9rem; }
     .news-card .summary { -webkit-line-clamp: 2; }
+    .model-card-header { flex-direction: column; align-items: flex-start; }
+    .model-card-actions { margin-top: 0.4rem; }
 }
+
+.model-empty { color: #666; font-size: 0.88rem; padding: 1.2rem; text-align: center; background: #0a0a1a; border-radius: 8px; border: 1px dashed #3a3a5a; margin-bottom: 1rem; }
+
+.model-card { background: #0a0a1a; border: 1px solid #2a2a4a; border-radius: 8px; padding: 0.8rem 1rem; margin-bottom: 0.6rem; transition: border-color 0.2s; }
+.model-card:hover { border-color: #3a3a5a; }
+.model-card.model-active { border-color: #3a7bd5; background: linear-gradient(135deg, #0a1020, #0a0a1a); }
+
+.model-card-header { display: flex; align-items: center; gap: 0.5rem; }
+.model-name { font-weight: 600; font-size: 0.92rem; color: #e0e0e0; flex: 1; }
+.model-badge { background: linear-gradient(90deg, #3a7bd5, #00d2ff); color: #fff; font-size: 0.68rem; padding: 1px 8px; border-radius: 10px; font-weight: 600; }
+
+.model-card-actions { display: flex; gap: 0.4rem; }
+.model-btn { background: none; border: 1px solid #3a3a5a; color: #888; padding: 2px 8px; border-radius: 4px; cursor: pointer; font-size: 0.78rem; }
+.model-btn:hover { border-color: #3a7bd5; color: #00d2ff; }
+.model-switch-btn { color: #3a7bd5; border-color: #3a7bd5; }
+
+.model-card-info { display: flex; gap: 0.8rem; margin-top: 0.4rem; font-size: 0.75rem; color: #888; }
+.model-url { max-width: 250px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+
+#addModelBtn { background: #1a1a2e; border: 1px dashed #3a3a5a; color: #a0a0b0; margin-bottom: 1rem; }
+#addModelBtn:hover { border-color: #3a7bd5; color: #00d2ff; }
+
+#modelEditor { background: #0a0a1a; border: 1px solid #2a2a4a; border-radius: 8px; padding: 1rem 1.2rem; margin-bottom: 1rem; }
+.model-editor-title { font-size: 0.92rem; font-weight: 600; color: #e0e0e0; margin-bottom: 0.8rem; }
+
+.cancel-btn { background: #2a2a4a; color: #a0a0b0; border: 1px solid #3a3a5a; padding: 0.7rem 1.5rem; border-radius: 6px; cursor: pointer; font-weight: 600; flex: 0.6; }
+.cancel-btn:hover { background: #3a3a5a; }
+
+.scope-picker { position: absolute; background: #1a1a2e; border: 1px solid #3a3a5a; border-radius: 8px; padding: 0.8rem; z-index: 300; box-shadow: 0 4px 20px rgba(0,0,0,0.5); min-width: 180px; }
+.scope-picker-title { font-size: 0.85rem; color: #a0a0b0; margin-bottom: 0.6rem; font-weight: 600; }
+.scope-picker-options { display: flex; flex-direction: column; gap: 0.3rem; }
+.scope-btn { background: #0a0a1a; border: 1px solid #2a2a4a; color: #e0e0e0; padding: 0.5rem 1rem; border-radius: 6px; cursor: pointer; font-size: 0.85rem; text-align: left; }
+.scope-btn:hover { border-color: #3a7bd5; color: #00d2ff; }

@@ -1,5 +1,6 @@
 import json
 import os
+import requests
 from datetime import datetime, timedelta, timezone
 
 BJ_TZ = timezone(timedelta(hours=8))
@@ -10,6 +11,50 @@ CATEGORY_NAMES = {
     "3": "芯片与算力",
     "4": "具身智能与机器人",
 }
+
+LLM_API_KEY = os.environ.get("LLM_API_KEY", "")
+LLM_BASE_URL = os.environ.get("LLM_BASE_URL", "")
+LLM_MODEL = os.environ.get("LLM_MODEL", "")
+
+
+def llm_generate_summary(data):
+    if not LLM_API_KEY or not LLM_BASE_URL or not LLM_MODEL:
+        return None
+    try:
+        context = ""
+        for i in range(1, 5):
+            items = data.get(f"category{i}", [])
+            if not items:
+                continue
+            context += f"\n## {CATEGORY_NAMES[str(i)]}\n"
+            for idx, item in enumerate(items[:5], 1):
+                context += f"{idx}. {item.get('title', '')}：{item.get('summary', '')}\n"
+        prompt = (
+            "你是AI新闻分析师。根据以下今日AI新闻，生成一段"今日要点"摘要，要求：\n"
+            "1. 用2-3段话总结今天最重要的AI动态\n"
+            "2. 突出跨领域趋势和关键事件\n"
+            "3. 语言简洁专业\n"
+            "4. 用中文输出\n\n"
+            f"今日新闻：\n{context}"
+        )
+        url = LLM_BASE_URL.rstrip("/") + "/chat/completions"
+        headers = {
+            "Content-Type": "application/json",
+            "Authorization": f"Bearer {LLM_API_KEY}",
+        }
+        payload = {
+            "model": LLM_MODEL,
+            "messages": [{"role": "user", "content": prompt}],
+            "temperature": 0.3,
+            "max_tokens": 2000,
+        }
+        resp = requests.post(url, headers=headers, json=payload, timeout=120)
+        resp.raise_for_status()
+        result = resp.json()
+        return result["choices"][0]["message"]["content"].strip()
+    except Exception as e:
+        print(f"LLM summary generation failed: {e}")
+        return None
 
 
 def generate_daily_report():
@@ -23,7 +68,19 @@ def generate_daily_report():
     now = datetime.now(BJ_TZ)
     today_cn = f"{now.year}年{now.month}月{now.day}日"
     date_str = now.strftime("%Y-%m-%d")
+
+    if LLM_API_KEY and LLM_BASE_URL and LLM_MODEL:
+        print("Generating AI summary via LLM...")
+        summary = llm_generate_summary(data)
+        if summary:
+            data["ai_summary"] = summary
+            print("AI summary generated successfully")
+        else:
+            print("AI summary generation failed, skipped")
+
     report = f"# AI 新闻日报 - {today_cn}\n\n"
+    if data.get("ai_summary"):
+        report += "## AI 今日要点\n\n" + data["ai_summary"] + "\n\n"
 
     for i in range(1, 5):
         cat_key = f"category{i}"

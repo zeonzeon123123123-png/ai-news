@@ -10,49 +10,52 @@ let currentSearchQuery = '';
 const LLM_STORAGE_KEY = 'ai_news_llm_config';
 const LLM_SUMMARY_CACHE_KEY = 'ai_news_summary_cache_';
 
-const PROVIDER_DEFAULTS = {
-    gemini: { baseUrl: 'https://generativelanguage.googleapis.com/v1beta', model: 'gemini-2.0-flash' },
-    openai: { baseUrl: 'https://api.openai.com/v1', model: 'gpt-4o-mini' },
-    deepseek: { baseUrl: 'https://api.deepseek.com/v1', model: 'deepseek-chat' },
-    custom: { baseUrl: '', model: '' },
-};
+function generateId() {
+    return Date.now().toString(36) + Math.random().toString(36).slice(2, 8);
+}
 
 function getLLMConfig() {
     try {
         const saved = localStorage.getItem(LLM_STORAGE_KEY);
         if (saved) return JSON.parse(saved);
     } catch (e) {}
-    return null;
+    return { models: [], activeModelId: null };
 }
 
 function saveLLMConfig(config) {
     localStorage.setItem(LLM_STORAGE_KEY, JSON.stringify(config));
 }
 
-function isLLMReady() {
+function getActiveModel() {
     const cfg = getLLMConfig();
-    return cfg && cfg.apiKey && cfg.baseUrl && cfg.model;
+    if (!cfg.activeModelId || !cfg.models) return null;
+    return cfg.models.find(m => m.id === cfg.activeModelId) || null;
 }
 
-async function callLLM(messages) {
+function getEnabledModels() {
     const cfg = getLLMConfig();
-    if (!cfg) throw new Error('请先配置 AI 模型');
+    return (cfg.models || []).filter(m => m.enabled !== false);
+}
 
-    if (cfg.provider === 'gemini') {
-        return await callGemini(cfg, messages);
+function isLLMReady() {
+    return getActiveModel() !== null;
+}
+
+async function callLLMWithModel(model, messages) {
+    if (!model || !model.baseUrl || !model.apiKey || !model.model) {
+        throw new Error('模型配置不完整');
     }
-
-    const url = cfg.baseUrl.replace(/\/+$/, '') + '/chat/completions';
+    const url = model.baseUrl.replace(/\/+$/, '') + '/chat/completions';
     let res;
     try {
         res = await fetch(url, {
             method: 'POST',
             headers: {
                 'Content-Type': 'application/json',
-                'Authorization': 'Bearer ' + cfg.apiKey,
+                'Authorization': 'Bearer ' + model.apiKey,
             },
             body: JSON.stringify({
-                model: cfg.model,
+                model: model.model,
                 messages: messages,
                 temperature: 0.3,
                 max_tokens: 2000,
@@ -72,35 +75,31 @@ async function callLLM(messages) {
     return data.choices[0].message.content.trim();
 }
 
-async function callGemini(cfg, messages) {
-    const url = cfg.baseUrl.replace(/\/+$/, '') + '/models/' + cfg.model + ':generateContent?key=' + cfg.apiKey;
-    const contents = messages.map(m => ({
-        role: m.role === 'assistant' ? 'model' : 'user',
-        parts: [{ text: m.content }],
-    }));
-    let res;
-    try {
-        res = await fetch(url, {
-            method: 'POST',
-            headers: { 'Content-Type': 'application/json' },
-            body: JSON.stringify({ contents: contents, generationConfig: { temperature: 0.3, maxOutputTokens: 2000 } }),
-        });
-    } catch (e) {
-        throw new Error('网络请求失败，可能是 CORS 限制或 URL 不可达: ' + e.message);
+async function callLLM(messages) {
+    const enabledModels = getEnabledModels();
+    if (enabledModels.length === 0) throw new Error('请先配置 AI 模型');
+    const activeModel = getActiveModel();
+    const modelOrder = activeModel
+        ? [activeModel, ...enabledModels.filter(m => m.id !== activeModel.id)]
+        : enabledModels;
+    const errors = [];
+    for (const model of modelOrder) {
+        try {
+            const result = await callLLMWithModel(model, messages);
+            const cfg = getLLMConfig();
+            cfg.activeModelId = model.id;
+            saveLLMConfig(cfg);
+            return result;
+        } catch (e) {
+            errors.push(model.name + ': ' + e.message);
+            console.warn('Model ' + model.name + ' failed, trying next...', e);
+        }
     }
-    if (!res.ok) {
-        const err = await res.text().catch(() => '');
-        throw new Error('Gemini API 错误 (' + res.status + '): ' + err.slice(0, 200));
-    }
-    const data = await res.json();
-    if (!data.candidates || !data.candidates[0] || !data.candidates[0].content || !data.candidates[0].content.parts || !data.candidates[0].content.parts[0]) {
-        throw new Error('Gemini API 返回格式异常: ' + JSON.stringify(data).slice(0, 200));
-    }
-    return data.candidates[0].content.parts[0].text.trim();
+    throw new Error('所有模型均调用失败:\n' + errors.join('\n'));
 }
 
-async function testLLMConnection() {
-    const result = await callLLM([{ role: 'user', content: 'Say "OK" in one word.' }]);
+async function testLLMConnection(model) {
+    const result = await callLLMWithModel(model, [{ role: 'user', content: 'Say "OK" in one word.' }]);
     if (!result) throw new Error('空响应');
     return result;
 }
@@ -118,17 +117,26 @@ async function llmTranslate(title, summary, detail) {
     };
 }
 
-async function llmGenerateSummary(allItems) {
+async function llmGenerateSummary(items, scopeLabel) {
     let context = '';
-    for (let i = 1; i <= 4; i++) {
-        const items = allItems['category' + i] || [];
-        if (items.length === 0) continue;
-        context += '\n## ' + CAT_NAMES[String(i)] + '\n';
-        items.slice(0, 5).forEach((item, idx) => {
+    if (scopeLabel === 'all') {
+        for (let i = 1; i <= 4; i++) {
+            const catItems = items['category' + i] || [];
+            if (catItems.length === 0) continue;
+            context += '\n## ' + CAT_NAMES[String(i)] + '\n';
+            catItems.slice(0, 5).forEach((item, idx) => {
+                context += (idx + 1) + '. ' + item.title + '：' + (item.summary || '') + '\n';
+            });
+        }
+    } else {
+        context += '\n## ' + CAT_NAMES[scopeLabel] + '\n';
+        const catItems = items['category' + scopeLabel] || [];
+        catItems.slice(0, 5).forEach((item, idx) => {
             context += (idx + 1) + '. ' + item.title + '：' + (item.summary || '') + '\n';
         });
     }
-    const prompt = '你是AI新闻分析师。根据以下今日AI新闻，生成一段"今日要点"摘要，要求：\n1. 用2-3段话总结今天最重要的AI动态\n2. 突出跨领域趋势和关键事件\n3. 语言简洁专业\n4. 用中文输出\n\n今日新闻：\n' + context;
+    const scopeText = scopeLabel === 'all' ? '今日全部' : CAT_NAMES[scopeLabel];
+    const prompt = '你是AI新闻分析师。根据以下' + scopeText + 'AI新闻，生成一段"要点"摘要，要求：\n1. 用2-3段话总结最重要的AI动态\n2. 突出关键事件和趋势\n3. 语言简洁专业\n4. 用中文输出\n\n新闻内容：\n' + context;
     return await callLLM([{ role: 'user', content: prompt }]);
 }
 
@@ -136,13 +144,8 @@ async function llmGenerateSummary(allItems) {
 let settingsUIInitialized = false;
 
 function initSettingsUI() {
-    document.getElementById('llmProvider').addEventListener('change', (e) => {
-        applyProviderDefaults(e.target.value);
-        document.getElementById('settingsStatus').textContent = '';
-        document.getElementById('settingsStatus').className = '';
-    });
     document.getElementById('settingsBtn').addEventListener('click', () => {
-        loadConfigToForm();
+        renderSettingsModal();
         document.getElementById('settingsModal').classList.add('active');
     });
     document.getElementById('settingsClose').addEventListener('click', () => {
@@ -151,77 +154,147 @@ function initSettingsUI() {
     document.getElementById('settingsModal').addEventListener('click', (e) => {
         if (e.target === e.currentTarget) e.currentTarget.classList.remove('active');
     });
-    document.getElementById('settingsSave').addEventListener('click', () => {
-        const config = readConfigFromForm();
-        if (!config.apiKey || !config.baseUrl || !config.model) {
+    settingsUIInitialized = true;
+}
+
+function renderSettingsModal() {
+    const cfg = getLLMConfig();
+    const models = cfg.models || [];
+    const activeId = cfg.activeModelId;
+    const container = document.getElementById('modelsContainer');
+    if (!container) return;
+    container.innerHTML = '';
+    if (models.length === 0) {
+        container.innerHTML = '<div class="model-empty">暂无模型配置，点击下方"添加模型"开始</div>';
+    } else {
+        models.forEach((model, index) => {
+            const isActive = model.id === activeId;
+            const el = document.createElement('div');
+            el.className = 'model-card' + (isActive ? ' model-active' : '');
+            el.innerHTML =
+                '<div class="model-card-header">' +
+                    '<span class="model-name">' + escapeHtml(model.name || '未命名模型') + '</span>' +
+                    (isActive ? '<span class="model-badge">当前使用</span>' : '') +
+                    '<div class="model-card-actions">' +
+                        '<button class="model-btn model-switch-btn" data-id="' + model.id + '" title="切换为当前模型">' + (isActive ? '&#10003;' : '切换') + '</button>' +
+                        '<button class="model-btn model-edit-btn" data-id="' + model.id + '" title="编辑">&#9998;</button>' +
+                        '<button class="model-btn model-delete-btn" data-id="' + model.id + '" title="删除">&#10005;</button>' +
+                    '</div>' +
+                '</div>' +
+                '<div class="model-card-info">' +
+                    '<span>' + escapeHtml(model.model || '') + '</span>' +
+                    '<span class="model-url">' + escapeHtml(model.baseUrl || '') + '</span>' +
+                '</div>';
+            container.appendChild(el);
+        });
+    }
+    bindModelCardEvents();
+    document.getElementById('settingsStatus').textContent = '';
+    document.getElementById('settingsStatus').className = '';
+}
+
+function bindModelCardEvents() {
+    document.querySelectorAll('.model-switch-btn').forEach(btn => {
+        btn.addEventListener('click', () => {
+            const id = btn.dataset.id;
+            const cfg = getLLMConfig();
+            cfg.activeModelId = id;
+            saveLLMConfig(cfg);
+            renderSettingsModal();
+            showSettingsStatus('ok', '已切换模型');
+        });
+    });
+    document.querySelectorAll('.model-edit-btn').forEach(btn => {
+        btn.addEventListener('click', () => {
+            const id = btn.dataset.id;
+            const cfg = getLLMConfig();
+            const model = cfg.models.find(m => m.id === id);
+            if (model) showModelEditor(model);
+        });
+    });
+    document.querySelectorAll('.model-delete-btn').forEach(btn => {
+        btn.addEventListener('click', () => {
+            const id = btn.dataset.id;
+            const cfg = getLLMConfig();
+            cfg.models = cfg.models.filter(m => m.id !== id);
+            if (cfg.activeModelId === id) {
+                cfg.activeModelId = cfg.models.length > 0 ? cfg.models[0].id : null;
+            }
+            saveLLMConfig(cfg);
+            renderSettingsModal();
+            showSettingsStatus('ok', '模型已删除');
+        });
+    });
+}
+
+function showModelEditor(model) {
+    const editor = document.getElementById('modelEditor');
+    if (!editor) return;
+    editor.style.display = 'block';
+    document.getElementById('editModelId').value = model ? model.id : '';
+    document.getElementById('editModelName').value = model ? model.name : '';
+    document.getElementById('editModelId2').value = model ? model.model : '';
+    document.getElementById('editApiKey').value = model ? model.apiKey : '';
+    document.getElementById('editBaseUrl').value = model ? model.baseUrl : '';
+    document.getElementById('editModelEnabled').checked = model ? model.enabled !== false : true;
+}
+
+function hideModelEditor() {
+    const editor = document.getElementById('modelEditor');
+    if (editor) editor.style.display = 'none';
+}
+
+function initModelEditorEvents() {
+    document.getElementById('addModelBtn').addEventListener('click', () => {
+        showModelEditor(null);
+    });
+    document.getElementById('editorCancel').addEventListener('click', () => {
+        hideModelEditor();
+    });
+    document.getElementById('editorSave').addEventListener('click', () => {
+        const id = document.getElementById('editModelId').value;
+        const name = document.getElementById('editModelName').value.trim();
+        const modelId = document.getElementById('editModelId2').value.trim();
+        const apiKey = document.getElementById('editApiKey').value.trim();
+        const baseUrl = document.getElementById('editBaseUrl').value.trim().replace(/\/+$/, '');
+        const enabled = document.getElementById('editModelEnabled').checked;
+        if (!name || !modelId || !apiKey || !baseUrl) {
             showSettingsStatus('err', '请填写所有必填字段');
             return;
         }
-        saveLLMConfig(config);
-        showSettingsStatus('ok', '配置已保存');
+        const cfg = getLLMConfig();
+        if (id) {
+            const idx = cfg.models.findIndex(m => m.id === id);
+            if (idx >= 0) {
+                cfg.models[idx] = { ...cfg.models[idx], name, model: modelId, apiKey, baseUrl, enabled };
+            }
+        } else {
+            const newModel = { id: generateId(), name, model: modelId, apiKey, baseUrl, enabled };
+            cfg.models.push(newModel);
+            if (!cfg.activeModelId) cfg.activeModelId = newModel.id;
+        }
+        saveLLMConfig(cfg);
+        hideModelEditor();
+        renderSettingsModal();
+        showSettingsStatus('ok', id ? '模型已更新' : '模型已添加');
     });
-    document.getElementById('settingsTest').addEventListener('click', async () => {
-        const config = readConfigFromForm();
-        if (!config.apiKey || !config.baseUrl || !config.model) {
+    document.getElementById('editorTest').addEventListener('click', async () => {
+        const name = document.getElementById('editModelName').value.trim();
+        const modelId = document.getElementById('editModelId2').value.trim();
+        const apiKey = document.getElementById('editApiKey').value.trim();
+        const baseUrl = document.getElementById('editBaseUrl').value.trim().replace(/\/+$/, '');
+        if (!modelId || !apiKey || !baseUrl) {
             showSettingsStatus('err', '请先填写所有字段');
             return;
         }
-        saveLLMConfig(config);
         showSettingsStatus('', '正在测试连接...');
         try {
-            await testLLMConnection();
+            await testLLMConnection({ name, model: modelId, apiKey, baseUrl });
             showSettingsStatus('ok', '连接成功！模型可用');
         } catch (e) {
             showSettingsStatus('err', '连接失败: ' + e.message);
         }
     });
-    settingsUIInitialized = true;
-}
-
-function loadConfigToForm() {
-    const cfg = getLLMConfig();
-    if (cfg) {
-        document.getElementById('llmProvider').value = cfg.provider || 'gemini';
-        document.getElementById('llmModel').value = cfg.model || '';
-        document.getElementById('llmApiKey').value = cfg.apiKey || '';
-        document.getElementById('llmBaseUrl').value = cfg.baseUrl || '';
-    } else {
-        applyProviderDefaults('gemini');
-    }
-    updateBaseUrlHint();
-    document.getElementById('settingsStatus').textContent = '';
-    document.getElementById('settingsStatus').className = '';
-}
-
-function readConfigFromForm() {
-    return {
-        provider: document.getElementById('llmProvider').value,
-        model: document.getElementById('llmModel').value.trim(),
-        apiKey: document.getElementById('llmApiKey').value.trim(),
-        baseUrl: document.getElementById('llmBaseUrl').value.trim().replace(/\/+$/, ''),
-    };
-}
-
-function applyProviderDefaults(provider) {
-    const defaults = PROVIDER_DEFAULTS[provider] || {};
-    document.getElementById('llmBaseUrl').value = defaults.baseUrl || '';
-    document.getElementById('llmModel').value = defaults.model || '';
-    updateBaseUrlHint();
-}
-
-function updateBaseUrlHint() {
-    const provider = document.getElementById('llmProvider').value;
-    const hint = document.getElementById('baseUrlHint');
-    if (!hint) return;
-    if (provider === 'gemini') {
-        hint.textContent = 'Gemini 原生支持浏览器调用，无需代理';
-    } else if (provider === 'openai') {
-        hint.textContent = 'OpenAI 官方 API 不支持浏览器直接调用，需填写 CORS 代理地址（如 https://your-proxy.com/v1）';
-    } else if (provider === 'deepseek') {
-        hint.textContent = 'DeepSeek 官方 API 不支持浏览器直接调用，需填写 CORS 代理地址';
-    } else {
-        hint.textContent = '填写兼容 OpenAI chat/completions 接口的地址';
-    }
 }
 
 function showSettingsStatus(type, msg) {
@@ -238,31 +311,71 @@ function initAISummary() {
             return;
         }
         if (!newsData) return;
-        const btn = document.getElementById('aiSummaryBtn');
-        btn.disabled = true;
-        btn.textContent = '生成中...';
-        const box = document.getElementById('aiSummaryBox');
-        const content = document.getElementById('aiSummaryContent');
-        box.style.display = 'block';
-        const cacheKey = LLM_SUMMARY_CACHE_KEY + newsData.date;
-        try {
-            const cached = localStorage.getItem(cacheKey);
-            if (cached) {
-                content.innerHTML = '<div class="summary-text">' + formatSummary(cached) + '</div>';
-                btn.disabled = false;
-                btn.textContent = 'AI 要点';
-                return;
-            }
-            content.innerHTML = '<div class="weekly-loading">AI 正在分析今日新闻...</div>';
-            const summary = await llmGenerateSummary(newsData);
-            localStorage.setItem(cacheKey, summary);
-            content.innerHTML = '<div class="summary-text">' + formatSummary(summary) + '</div>';
-        } catch (e) {
-            content.innerHTML = '<div class="news-empty">生成失败: ' + escapeHtml(e.message) + '</div>';
-        }
-        btn.disabled = false;
-        btn.textContent = 'AI 要点';
+        showSummaryScopePicker();
     });
+}
+
+function showSummaryScopePicker() {
+    const existing = document.getElementById('summaryScopePicker');
+    if (existing) { existing.remove(); return; }
+    const picker = document.createElement('div');
+    picker.id = 'summaryScopePicker';
+    picker.className = 'scope-picker';
+    const activeCat = currentFilter !== 'all' ? currentFilter : null;
+    let optionsHtml = '<button class="scope-btn" data-scope="all">全部新闻</button>';
+    if (activeCat) {
+        optionsHtml += '<button class="scope-btn" data-scope="' + activeCat + '">' + CAT_NAMES[activeCat] + '</button>';
+    }
+    for (let i = 1; i <= 4; i++) {
+        if (String(i) !== activeCat) {
+            optionsHtml += '<button class="scope-btn" data-scope="' + i + '">' + CAT_NAMES[String(i)] + '</button>';
+        }
+    }
+    picker.innerHTML = '<div class="scope-picker-title">选择摘要范围</div><div class="scope-picker-options">' + optionsHtml + '</div>';
+    document.getElementById('aiSummaryBtn').parentNode.insertBefore(picker, document.getElementById('aiSummaryBtn').nextSibling);
+    picker.querySelectorAll('.scope-btn').forEach(btn => {
+        btn.addEventListener('click', () => {
+            const scope = btn.dataset.scope;
+            picker.remove();
+            generateAISummary(scope);
+        });
+    });
+    setTimeout(() => {
+        const closeHandler = (e) => {
+            if (!picker.contains(e.target)) {
+                picker.remove();
+                document.removeEventListener('click', closeHandler);
+            }
+        };
+        document.addEventListener('click', closeHandler);
+    }, 0);
+}
+
+async function generateAISummary(scope) {
+    const btn = document.getElementById('aiSummaryBtn');
+    btn.disabled = true;
+    btn.textContent = '生成中...';
+    const box = document.getElementById('aiSummaryBox');
+    const content = document.getElementById('aiSummaryContent');
+    box.style.display = 'block';
+    const cacheKey = LLM_SUMMARY_CACHE_KEY + newsData.date + '_' + scope;
+    try {
+        const cached = localStorage.getItem(cacheKey);
+        if (cached) {
+            content.innerHTML = '<div class="summary-text">' + formatSummary(cached) + '</div>';
+            btn.disabled = false;
+            btn.textContent = 'AI 要点';
+            return;
+        }
+        content.innerHTML = '<div class="weekly-loading">AI 正在分析新闻...</div>';
+        const summary = await llmGenerateSummary(newsData, scope);
+        localStorage.setItem(cacheKey, summary);
+        content.innerHTML = '<div class="summary-text">' + formatSummary(summary) + '</div>';
+    } catch (e) {
+        content.innerHTML = '<div class="news-empty">生成失败: ' + escapeHtml(e.message) + '</div>';
+    }
+    btn.disabled = false;
+    btn.textContent = 'AI 要点';
 }
 
 function formatSummary(text) {
@@ -705,6 +818,7 @@ function setCurrentDate() {
 
 setupFilterTabs();
 initSettingsUI();
+initModelEditorEvents();
 initAISummary();
 initTrend();
 setCurrentDate();

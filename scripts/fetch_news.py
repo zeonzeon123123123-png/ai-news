@@ -7,6 +7,46 @@ import time
 from datetime import datetime, timedelta, timezone
 from bs4 import BeautifulSoup
 
+LLM_API_KEY = os.environ.get("LLM_API_KEY", "")
+LLM_BASE_URL = os.environ.get("LLM_BASE_URL", "")
+LLM_MODEL = os.environ.get("LLM_MODEL", "")
+
+def llm_translate_text(title, summary, detail):
+    if not LLM_API_KEY or not LLM_BASE_URL or not LLM_MODEL:
+        return None
+    try:
+        url = LLM_BASE_URL.rstrip("/") + "/chat/completions"
+        headers = {
+            "Content-Type": "application/json",
+            "Authorization": f"Bearer {LLM_API_KEY}",
+        }
+        prompt = (
+            "将以下英文新闻翻译为中文，保持专业术语不变（如LLM、GPU、API等不翻译），输出格式：\n"
+            "标题：翻译后的标题\n摘要：翻译后的摘要\n详情：翻译后的详情\n\n"
+            f"标题：{title}\n摘要：{summary}\n详情：{detail or summary}"
+        )
+        payload = {
+            "model": LLM_MODEL,
+            "messages": [{"role": "user", "content": prompt}],
+            "temperature": 0.3,
+            "max_tokens": 2000,
+        }
+        resp = requests.post(url, headers=headers, json=payload, timeout=60)
+        resp.raise_for_status()
+        data = resp.json()
+        content = data["choices"][0]["message"]["content"].strip()
+        title_match = re.search(r"标题[：:]\s*(.+)", content)
+        summary_match = re.search(r"摘要[：:]\s*(.+)", content)
+        detail_match = re.search(r"详情[：:]\s*([\s\S]+?)(?:\n\n|$)", content)
+        return {
+            "title": title_match.group(1).strip() if title_match else title,
+            "summary": summary_match.group(1).strip() if summary_match else summary,
+            "detail": detail_match.group(1).strip() if detail_match else (detail or summary),
+        }
+    except Exception as e:
+        print(f"    LLM translation failed: {e}")
+        return None
+
 RSS_SOURCES = [
     {"url": "https://techcrunch.com/category/artificial-intelligence/feed/", "source": "TechCrunch", "authority": 0.95},
     {"url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml", "source": "The Verge", "authority": 0.9},
@@ -433,10 +473,17 @@ def main():
             score = item.get("_score", 0)
             if not is_chinese(item["title"]):
                 print(f"  [{score:.2f}] translating: {item['title'][:60]}...")
-                item["title"] = translate_to_chinese(item["title"])
-                item["summary"] = translate_to_chinese(item["summary"])
-                item["detail"] = translate_to_chinese(item["detail"])
-                time.sleep(0.5)
+                llm_result = llm_translate_text(item["title"], item["summary"], item["detail"])
+                if llm_result:
+                    item["title"] = llm_result["title"]
+                    item["summary"] = llm_result["summary"]
+                    item["detail"] = llm_result["detail"]
+                    print(f"    -> LLM translated")
+                else:
+                    item["title"] = translate_to_chinese(item["title"])
+                    item["summary"] = translate_to_chinese(item["summary"])
+                    item["detail"] = translate_to_chinese(item["detail"])
+                    time.sleep(0.5)
             else:
                 print(f"  [{score:.2f}] OK: {item['title'][:60]}")
 
