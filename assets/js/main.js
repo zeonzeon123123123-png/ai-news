@@ -11,8 +11,8 @@ const LLM_STORAGE_KEY = 'ai_news_llm_config';
 const LLM_SUMMARY_CACHE_KEY = 'ai_news_summary_cache_';
 
 const PROVIDER_DEFAULTS = {
-    openai: { baseUrl: 'https://api.openai.com/v1', model: 'gpt-4o-mini' },
     gemini: { baseUrl: 'https://generativelanguage.googleapis.com/v1beta', model: 'gemini-2.0-flash' },
+    openai: { baseUrl: 'https://api.openai.com/v1', model: 'gpt-4o-mini' },
     deepseek: { baseUrl: 'https://api.deepseek.com/v1', model: 'deepseek-chat' },
     custom: { baseUrl: '', model: '' },
 };
@@ -138,6 +138,8 @@ let settingsUIInitialized = false;
 function initSettingsUI() {
     document.getElementById('llmProvider').addEventListener('change', (e) => {
         applyProviderDefaults(e.target.value);
+        document.getElementById('settingsStatus').textContent = '';
+        document.getElementById('settingsStatus').className = '';
     });
     document.getElementById('settingsBtn').addEventListener('click', () => {
         loadConfigToForm();
@@ -179,13 +181,14 @@ function initSettingsUI() {
 function loadConfigToForm() {
     const cfg = getLLMConfig();
     if (cfg) {
-        document.getElementById('llmProvider').value = cfg.provider || 'openai';
+        document.getElementById('llmProvider').value = cfg.provider || 'gemini';
         document.getElementById('llmModel').value = cfg.model || '';
         document.getElementById('llmApiKey').value = cfg.apiKey || '';
         document.getElementById('llmBaseUrl').value = cfg.baseUrl || '';
     } else {
-        applyProviderDefaults('openai');
+        applyProviderDefaults('gemini');
     }
+    updateBaseUrlHint();
     document.getElementById('settingsStatus').textContent = '';
     document.getElementById('settingsStatus').className = '';
 }
@@ -203,6 +206,22 @@ function applyProviderDefaults(provider) {
     const defaults = PROVIDER_DEFAULTS[provider] || {};
     document.getElementById('llmBaseUrl').value = defaults.baseUrl || '';
     document.getElementById('llmModel').value = defaults.model || '';
+    updateBaseUrlHint();
+}
+
+function updateBaseUrlHint() {
+    const provider = document.getElementById('llmProvider').value;
+    const hint = document.getElementById('baseUrlHint');
+    if (!hint) return;
+    if (provider === 'gemini') {
+        hint.textContent = 'Gemini 原生支持浏览器调用，无需代理';
+    } else if (provider === 'openai') {
+        hint.textContent = 'OpenAI 官方 API 不支持浏览器直接调用，需填写 CORS 代理地址（如 https://your-proxy.com/v1）';
+    } else if (provider === 'deepseek') {
+        hint.textContent = 'DeepSeek 官方 API 不支持浏览器直接调用，需填写 CORS 代理地址';
+    } else {
+        hint.textContent = '填写兼容 OpenAI chat/completions 接口的地址';
+    }
 }
 
 function showSettingsStatus(type, msg) {

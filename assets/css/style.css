@@ -131,7 +131,8 @@ mark { background: rgba(0, 210, 255, 0.25); color: #00d2ff; padding: 0 2px; bord
 .weekly-form h2 { margin-bottom: 1.5rem; }
 .form-group { margin-bottom: 1rem; }
 .form-group label { display: block; margin-bottom: 0.3rem; font-weight: 600; font-size: 0.9rem; }
-.form-group input[type="date"], .form-group input[type="number"] { background: #0a0a1a; border: 1px solid #3a3a5a; color: #e0e0e0; padding: 0.5rem; border-radius: 6px; width: 100%; }
+.form-group input[type="date"], .form-group input[type="number"], .form-group input[type="text"], .form-group input[type="password"] { background: #0a0a1a; border: 1px solid #3a3a5a; color: #e0e0e0; padding: 0.5rem; border-radius: 6px; width: 100%; }
+.form-hint { display: block; font-size: 0.72rem; color: #666; margin-top: 0.3rem; line-height: 1.4; }
 .checkbox-group { display: flex; flex-direction: column; gap: 0.3rem; }
 .checkbox-group label { font-weight: normal; font-size: 0.85rem; }
 .submit-btn { background: linear-gradient(90deg, #00d2ff, #3a7bd5); color: #fff; border: none; padding: 0.7rem 2rem; border-radius: 6px; cursor: pointer; font-weight: 600; width: 100%; margin-top: 1rem; }
