@@ -16,6 +16,8 @@
                     <button id="searchBtn">搜索</button>
                 </div>
                 <button class="weekly-btn" id="weeklyBtn">生成周报</button>
+                <button class="ai-btn" id="aiSummaryBtn">AI 要点</button>
+                <button class="settings-btn" id="settingsBtn" title="AI 模型设置">&#9881;</button>
             </div>
         </div>
     </header>
@@ -32,6 +34,11 @@
             <button class="filter-tab" data-cat="2">AI 应用</button>
             <button class="filter-tab" data-cat="3">芯片算力</button>
             <button class="filter-tab" data-cat="4">具身智能</button>
+        </div>
+
+        <div class="ai-summary-box" id="aiSummaryBox" style="display:none;">
+            <h3>AI 今日要点</h3>
+            <div id="aiSummaryContent"></div>
         </div>
 
         <section class="category" id="cat1">
@@ -95,6 +102,40 @@
             </div>
             <button class="submit-btn" id="weeklySubmit">生成周报</button>
             <div id="weeklyResult"></div>
+        </div>
+    </div>
+
+    <div class="modal" id="settingsModal">
+        <div class="modal-content settings-form">
+            <button class="modal-close" id="settingsClose">&times;</button>
+            <h2>AI 模型设置</h2>
+            <p class="settings-desc">配置 LLM 用于翻译和摘要生成，API Key 存储在浏览器本地。</p>
+            <div class="form-group">
+                <label>Provider</label>
+                <select id="llmProvider">
+                    <option value="openai">OpenAI</option>
+                    <option value="gemini">Google Gemini</option>
+                    <option value="deepseek">DeepSeek</option>
+                    <option value="custom">自定义</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label>Model ID</label>
+                <input type="text" id="llmModel" placeholder="gpt-4o-mini">
+            </div>
+            <div class="form-group">
+                <label>API Key</label>
+                <input type="password" id="llmApiKey" placeholder="sk-...">
+            </div>
+            <div class="form-group">
+                <label>Base URL</label>
+                <input type="text" id="llmBaseUrl" placeholder="https://api.openai.com/v1">
+            </div>
+            <div class="settings-actions">
+                <button class="submit-btn" id="settingsSave">保存配置</button>
+                <button class="test-btn" id="settingsTest">测试连接</button>
+            </div>
+            <div id="settingsStatus"></div>
         </div>
     </div>
 

@@ -4,7 +4,230 @@ const CAT_NAMES = { '1': '大模型与基础技术', '2': 'AI 应用与产品', 
 const CAT_CLASSES = ['cat1', 'cat2', 'cat3', 'cat4'];
 const CATEGORIES = ['1', '2', '3', '4'];
 let currentFilter = 'all';
+let currentSearchQuery = '';
 
+// ============ LLM Module ============
+const LLM_STORAGE_KEY = 'ai_news_llm_config';
+const LLM_SUMMARY_CACHE_KEY = 'ai_news_summary_cache_';
+
+const PROVIDER_DEFAULTS = {
+    openai: { baseUrl: 'https://api.openai.com/v1', model: 'gpt-4o-mini' },
+    gemini: { baseUrl: 'https://generativelanguage.googleapis.com/v1beta', model: 'gemini-2.0-flash' },
+    deepseek: { baseUrl: 'https://api.deepseek.com/v1', model: 'deepseek-chat' },
+    custom: { baseUrl: '', model: '' },
+};
+
+function getLLMConfig() {
+    try {
+        const saved = localStorage.getItem(LLM_STORAGE_KEY);
+        if (saved) return JSON.parse(saved);
+    } catch (e) {}
+    return null;
+}
+
+function saveLLMConfig(config) {
+    localStorage.setItem(LLM_STORAGE_KEY, JSON.stringify(config));
+}
+
+function isLLMReady() {
+    const cfg = getLLMConfig();
+    return cfg && cfg.apiKey && cfg.baseUrl && cfg.model;
+}
+
+async function callLLM(messages) {
+    const cfg = getLLMConfig();
+    if (!cfg) throw new Error('请先配置 AI 模型');
+    const url = cfg.baseUrl.replace(/\/+$/, '') + '/chat/completions';
+    const res = await fetch(url, {
+        method: 'POST',
+        headers: {
+            'Content-Type': 'application/json',
+            'Authorization': 'Bearer ' + cfg.apiKey,
+        },
+        body: JSON.stringify({
+            model: cfg.model,
+            messages: messages,
+            temperature: 0.3,
+            max_tokens: 2000,
+        }),
+    });
+    if (!res.ok) {
+        const err = await res.text().catch(() => '');
+        throw new Error('API 错误 (' + res.status + '): ' + err.slice(0, 200));
+    }
+    const data = await res.json();
+    return data.choices[0].message.content.trim();
+}
+
+async function testLLMConnection() {
+    const result = await callLLM([{ role: 'user', content: 'Say "OK" in one word.' }]);
+    if (!result) throw new Error('空响应');
+    return result;
+}
+
+async function llmTranslate(title, summary, detail) {
+    const prompt = '将以下英文新闻翻译为中文，保持专业术语不变（如LLM、GPU、API等不翻译），输出格式：\n标题：翻译后的标题\n摘要：翻译后的摘要\n详情：翻译后的详情\n\n标题：' + title + '\n摘要：' + summary + '\n详情：' + (detail || summary);
+    const result = await callLLM([{ role: 'user', content: prompt }]);
+    const titleMatch = result.match(/标题[：:]\s*(.+)/);
+    const summaryMatch = result.match(/摘要[：:]\s*(.+)/);
+    const detailMatch = result.match(/详情[：:]\s*([\s\S]+?)(?:\n\n|$)/);
+    return {
+        title: titleMatch ? titleMatch[1].trim() : title,
+        summary: summaryMatch ? summaryMatch[1].trim() : summary,
+        detail: detailMatch ? detailMatch[1].trim() : (detail || summary),
+    };
+}
+
+async function llmGenerateSummary(allItems) {
+    let context = '';
+    for (let i = 1; i <= 4; i++) {
+        const items = allItems['category' + i] || [];
+        if (items.length === 0) continue;
+        context += '\n## ' + CAT_NAMES[String(i)] + '\n';
+        items.slice(0, 5).forEach((item, idx) => {
+            context += (idx + 1) + '. ' + item.title + '：' + (item.summary || '') + '\n';
+        });
+    }
+    const prompt = '你是AI新闻分析师。根据以下今日AI新闻，生成一段"今日要点"摘要，要求：\n1. 用2-3段话总结今天最重要的AI动态\n2. 突出跨领域趋势和关键事件\n3. 语言简洁专业\n4. 用中文输出\n\n今日新闻：\n' + context;
+    return await callLLM([{ role: 'user', content: prompt }]);
+}
+
+// ============ Settings UI ============
+function initSettingsUI() {
+    const cfg = getLLMConfig();
+    if (cfg) {
+        document.getElementById('llmProvider').value = cfg.provider || 'openai';
+        document.getElementById('llmModel').value = cfg.model || '';
+        document.getElementById('llmApiKey').value = cfg.apiKey || '';
+        document.getElementById('llmBaseUrl').value = cfg.baseUrl || '';
+    } else {
+        applyProviderDefaults('openai');
+    }
+    document.getElementById('llmProvider').addEventListener('change', (e) => {
+        applyProviderDefaults(e.target.value);
+    });
+    document.getElementById('settingsBtn').addEventListener('click', () => {
+        initSettingsUI();
+        document.getElementById('settingsModal').classList.add('active');
+    });
+    document.getElementById('settingsClose').addEventListener('click', () => {
+        document.getElementById('settingsModal').classList.remove('active');
+    });
+    document.getElementById('settingsModal').addEventListener('click', (e) => {
+        if (e.target === e.currentTarget) e.currentTarget.classList.remove('active');
+    });
+    document.getElementById('settingsSave').addEventListener('click', () => {
+        const config = {
+            provider: document.getElementById('llmProvider').value,
+            model: document.getElementById('llmModel').value.trim(),
+            apiKey: document.getElementById('llmApiKey').value.trim(),
+            baseUrl: document.getElementById('llmBaseUrl').value.trim().replace(/\/+$/, ''),
+        };
+        if (!config.apiKey || !config.baseUrl || !config.model) {
+            showSettingsStatus('err', '请填写所有必填字段');
+            return;
+        }
+        saveLLMConfig(config);
+        showSettingsStatus('ok', '配置已保存');
+    });
+    document.getElementById('settingsTest').addEventListener('click', async () => {
+        const config = {
+            provider: document.getElementById('llmProvider').value,
+            model: document.getElementById('llmModel').value.trim(),
+            apiKey: document.getElementById('llmApiKey').value.trim(),
+            baseUrl: document.getElementById('llmBaseUrl').value.trim().replace(/\/+$/, ''),
+        };
+        if (!config.apiKey || !config.baseUrl || !config.model) {
+            showSettingsStatus('err', '请先填写所有字段');
+            return;
+        }
+        saveLLMConfig(config);
+        showSettingsStatus('', '正在测试连接...');
+        try {
+            await testLLMConnection();
+            showSettingsStatus('ok', '连接成功！模型可用');
+        } catch (e) {
+            showSettingsStatus('err', '连接失败: ' + e.message);
+        }
+    });
+}
+
+function applyProviderDefaults(provider) {
+    const defaults = PROVIDER_DEFAULTS[provider] || {};
+    document.getElementById('llmBaseUrl').value = defaults.baseUrl || '';
+    document.getElementById('llmModel').value = defaults.model || '';
+}
+
+function showSettingsStatus(type, msg) {
+    const el = document.getElementById('settingsStatus');
+    el.className = type;
+    el.textContent = msg;
+}
+
+// ============ AI Summary ============
+function initAISummary() {
+    document.getElementById('aiSummaryBtn').addEventListener('click', async () => {
+        if (!isLLMReady()) {
+            document.getElementById('settingsBtn').click();
+            return;
+        }
+        if (!newsData) return;
+        const btn = document.getElementById('aiSummaryBtn');
+        btn.disabled = true;
+        btn.textContent = '生成中...';
+        const box = document.getElementById('aiSummaryBox');
+        const content = document.getElementById('aiSummaryContent');
+        box.style.display = 'block';
+        const cacheKey = LLM_SUMMARY_CACHE_KEY + newsData.date;
+        try {
+            const cached = localStorage.getItem(cacheKey);
+            if (cached) {
+                content.innerHTML = '<div class="summary-text">' + formatSummary(cached) + '</div>';
+                btn.disabled = false;
+                btn.textContent = 'AI 要点';
+                return;
+            }
+            content.innerHTML = '<div class="weekly-loading">AI 正在分析今日新闻...</div>';
+            const summary = await llmGenerateSummary(newsData);
+            localStorage.setItem(cacheKey, summary);
+            content.innerHTML = '<div class="summary-text">' + formatSummary(summary) + '</div>';
+        } catch (e) {
+            content.innerHTML = '<div class="news-empty">生成失败: ' + escapeHtml(e.message) + '</div>';
+        }
+        btn.disabled = false;
+        btn.textContent = 'AI 要点';
+    });
+}
+
+function formatSummary(text) {
+    return text.split('\n').filter(l => l.trim()).map(line => '<p>' + escapeHtml(line) + '</p>').join('');
+}
+
+// ============ Retranslate ============
+async function retranslateItem(item, cardEl) {
+    if (!isLLMReady()) {
+        document.getElementById('settingsBtn').click();
+        return;
+    }
+    const btn = cardEl.querySelector('.retranslate-btn');
+    if (btn) { btn.textContent = '翻译中...'; btn.disabled = true; }
+    try {
+        const translated = await llmTranslate(item.title, item.summary, item.detail);
+        item.title = translated.title;
+        item.summary = translated.summary;
+        item.detail = translated.detail;
+        const h3 = cardEl.querySelector('h3');
+        const summary = cardEl.querySelector('.summary');
+        if (h3) h3.textContent = translated.title;
+        if (summary) summary.textContent = translated.summary;
+        if (btn) { btn.textContent = '已翻译'; }
+    } catch (e) {
+        if (btn) { btn.textContent = '失败'; }
+        console.error('Retranslate failed:', e);
+    }
+}
+
+// ============ Core ============
 async function loadNews() {
     showSkeleton();
     try {
@@ -59,17 +282,25 @@ function renderNews(data) {
             card.className = 'news-card ' + CAT_CLASSES[idx];
             const highlightTitle = currentSearchQuery ? highlightText(escapeHtml(item.title), currentSearchQuery) : escapeHtml(item.title);
             const highlightSummary = currentSearchQuery ? highlightText(escapeHtml(item.summary), currentSearchQuery) : escapeHtml(item.summary);
+            const retranslateBtn = isLLMReady() ? '<button class="retranslate-btn" title="用 AI 重新翻译">翻译</button>' : '';
             card.innerHTML =
                 '<div class="idx">' + (i + 1) + '</div>' +
                 '<div class="card-body">' +
-                    '<h3>' + highlightTitle + '</h3>' +
+                    '<h3>' + highlightTitle + retranslateBtn + '</h3>' +
                     '<p class="summary">' + highlightSummary + '</p>' +
                     '<div class="meta">' +
                         '<span class="source-tag">' + escapeHtml(item.source) + '</span>' +
                         '<span>' + escapeHtml(item.date) + '</span>' +
                     '</div>' +
                 '</div>';
-            card.addEventListener('click', () => showDetail(item));
+            card.addEventListener('click', (e) => {
+                if (e.target.classList.contains('retranslate-btn')) {
+                    e.stopPropagation();
+                    retranslateItem(item, card);
+                    return;
+                }
+                showDetail(item);
+            });
             list.appendChild(card);
         });
     });
@@ -102,8 +333,6 @@ document.getElementById('modalClose').addEventListener('click', () => {
 document.getElementById('detailModal').addEventListener('click', (e) => {
     if (e.target === e.currentTarget) e.currentTarget.classList.remove('active');
 });
-
-let currentSearchQuery = '';
 
 document.getElementById('searchBtn').addEventListener('click', doSearch);
 document.getElementById('searchInput').addEventListener('keyup', (e) => {
@@ -276,5 +505,7 @@ function setCurrentDate() {
 }
 
 setupFilterTabs();
+initSettingsUI();
+initAISummary();
 setCurrentDate();
 loadNews();
