@@ -17,6 +17,7 @@
                 </div>
                 <button class="weekly-btn" id="weeklyBtn">生成周报</button>
                 <button class="ai-btn" id="aiSummaryBtn">AI 要点</button>
+                <button class="trend-btn" id="trendBtn">趋势</button>
                 <button class="settings-btn" id="settingsBtn" title="AI 模型设置">&#9881;</button>
             </div>
         </div>
@@ -39,6 +40,11 @@
         <div class="ai-summary-box" id="aiSummaryBox" style="display:none;">
             <h3>AI 今日要点</h3>
             <div id="aiSummaryContent"></div>
+        </div>
+
+        <div class="trend-box" id="trendBox" style="display:none;">
+            <h3>热度趋势 <span class="trend-period" id="trendPeriod"></span></h3>
+            <div id="trendContent"></div>
         </div>
 
         <section class="category" id="cat1">

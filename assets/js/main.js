@@ -227,6 +227,136 @@ async function retranslateItem(item, cardEl) {
     }
 }
 
+// ============ Trend ============
+const TREND_KEYWORDS = [
+    'OpenAI', 'GPT', 'LLM', 'NVIDIA', 'GPU', 'Claude', 'Gemini', 'DeepSeek',
+    'AI Agent', 'Robot', 'Humanoid', 'Chip', 'Tesla', 'Anthropic', 'Llama',
+    'Autonomous', 'Embodied', 'Semiconductor', 'TSMC', 'Waymo',
+];
+const TREND_CACHE_KEY = 'ai_news_trend_cache_';
+
+function initTrend() {
+    document.getElementById('trendBtn').addEventListener('click', async () => {
+        const box = document.getElementById('trendBox');
+        if (box.style.display !== 'none') {
+            box.style.display = 'none';
+            return;
+        }
+        if (!newsData) return;
+        const btn = document.getElementById('trendBtn');
+        btn.disabled = true;
+        btn.textContent = '加载中...';
+        box.style.display = 'block';
+
+        const content = document.getElementById('trendContent');
+        const period = document.getElementById('trendPeriod');
+        content.innerHTML = '<div class="trend-loading">正在加载历史数据...</div>';
+
+        const BASE = 'https://raw.githubusercontent.com/zeonzeon123123123-png/ai-news/main/daily/';
+        const now = new Date();
+        let dates = [];
+        for (let i = 0; i < 7; i++) {
+            const d = new Date(now);
+            d.setDate(d.getDate() - i);
+            const y = d.getFullYear();
+            const m = String(d.getMonth() + 1).padStart(2, '0');
+            const dd = String(d.getDate()).padStart(2, '0');
+            dates.push(y + '-' + m + '-' + dd);
+        }
+        period.textContent = '(近 7 天)';
+
+        const cacheKey = TREND_CACHE_KEY + dates[6] + '_' + dates[0];
+        try {
+            const cached = localStorage.getItem(cacheKey);
+            if (cached) {
+                renderTrend(JSON.parse(cached), content);
+                btn.disabled = false;
+                btn.textContent = '趋势';
+                return;
+            }
+        } catch (e) {}
+
+        let allItems = [];
+        let loaded = 0;
+        for (const dateStr of dates) {
+            loaded++;
+            try {
+                let data = null;
+                if (newsData && newsData.date === dateStr) {
+                    data = newsData;
+                } else {
+                    const res = await fetch(BASE + dateStr + '.json');
+                    if (res.ok) data = await res.json();
+                }
+                if (data) {
+                    for (let i = 1; i <= 4; i++) {
+                        const items = data['category' + i] || [];
+                        items.forEach(item => {
+                            allItems.push({ ...item, _cat: String(i) });
+                        });
+                    }
+                }
+            } catch (e) {}
+            content.innerHTML = '<div class="trend-loading">正在加载... (' + loaded + '/' + dates.length + ')</div>';
+        }
+
+        const trendData = computeTrend(allItems);
+        try { localStorage.setItem(cacheKey, JSON.stringify(trendData)); } catch (e) {}
+        renderTrend(trendData, content);
+        btn.disabled = false;
+        btn.textContent = '趋势';
+    });
+}
+
+function computeTrend(items) {
+    const kwMap = {};
+    items.forEach(item => {
+        const text = ((item.title || '') + ' ' + (item.summary || '')).toLowerCase();
+        TREND_KEYWORDS.forEach(kw => {
+            if (text.includes(kw.toLowerCase())) {
+                if (!kwMap[kw]) kwMap[kw] = { count: 0, score: 0, cats: new Set() };
+                kwMap[kw].count++;
+                kwMap[kw].score += (item.score || 0.7);
+                kwMap[kw].cats.add(item._cat || '1');
+            }
+        });
+    });
+    const results = Object.entries(kwMap).map(([kw, data]) => ({
+        keyword: kw,
+        heat: data.count * 0.4 + data.score * 0.6,
+        count: data.count,
+        cats: Array.from(data.cats),
+    }));
+    results.sort((a, b) => b.heat - a.heat);
+    return results.slice(0, 10);
+}
+
+function renderTrend(trendData, contentEl) {
+    if (!trendData || trendData.length === 0) {
+        contentEl.innerHTML = '<div class="news-empty">暂无足够数据生成趋势</div>';
+        return;
+    }
+    const maxHeat = trendData[0].heat;
+    let html = '';
+    trendData.forEach(item => {
+        const pct = Math.round((item.heat / maxHeat) * 100);
+        const catClass = item.cats.length > 1 ? 'mix' : 'cat' + item.cats[0];
+        html += '<div class="trend-item">' +
+            '<span class="trend-keyword">' + escapeHtml(item.keyword) + '</span>' +
+            '<div class="trend-bar-wrap"><div class="trend-bar ' + catClass + '" style="width:' + pct + '%"></div></div>' +
+            '<span class="trend-score">' + item.count + '次</span>' +
+        '</div>';
+    });
+    html += '<div class="trend-legend">' +
+        '<span class="trend-legend-item"><span class="trend-legend-dot" style="background:#3a7bd5"></span>大模型</span>' +
+        '<span class="trend-legend-item"><span class="trend-legend-dot" style="background:#f857a6"></span>AI应用</span>' +
+        '<span class="trend-legend-item"><span class="trend-legend-dot" style="background:#f7971e"></span>芯片算力</span>' +
+        '<span class="trend-legend-item"><span class="trend-legend-dot" style="background:#56ab2f"></span>具身智能</span>' +
+        '<span class="trend-legend-item"><span class="trend-legend-dot" style="background:linear-gradient(90deg,#00d2ff,#f857a6)"></span>跨领域</span>' +
+    '</div>';
+    contentEl.innerHTML = html;
+}
+
 // ============ Core ============
 async function loadNews() {
     showSkeleton();
@@ -507,5 +637,6 @@ function setCurrentDate() {
 setupFilterTabs();
 initSettingsUI();
 initAISummary();
+initTrend();
 setCurrentDate();
 loadNews();

@@ -15,6 +15,9 @@ header { background: linear-gradient(135deg, #1a1a2e, #16213e); padding: 1rem 2r
 .ai-btn { background: linear-gradient(90deg, #56ab2f, #a8e063); color: #fff; border: none; padding: 0.5rem 1.2rem; border-radius: 6px; cursor: pointer; font-weight: 600; }
 .ai-btn:hover { opacity: 0.9; }
 .ai-btn:disabled { opacity: 0.5; cursor: not-allowed; }
+.trend-btn { background: linear-gradient(90deg, #f7971e, #ffd200); color: #1a1a2e; border: none; padding: 0.5rem 1.2rem; border-radius: 6px; cursor: pointer; font-weight: 600; }
+.trend-btn:hover { opacity: 0.9; }
+.trend-btn:disabled { opacity: 0.5; cursor: not-allowed; }
 .settings-btn { background: none; border: 1px solid #3a3a5a; color: #a0a0b0; font-size: 1.3rem; cursor: pointer; padding: 0.3rem 0.5rem; border-radius: 6px; line-height: 1; }
 .settings-btn:hover { color: #00d2ff; border-color: #00d2ff; }
 
@@ -96,6 +99,24 @@ mark { background: rgba(0, 210, 255, 0.25); color: #00d2ff; padding: 0 2px; bord
 
 .retranslate-btn { background: none; border: 1px solid #3a3a5a; color: #888; font-size: 0.7rem; padding: 1px 6px; border-radius: 3px; cursor: pointer; margin-left: 0.5rem; }
 .retranslate-btn:hover { border-color: #3a7bd5; color: #00d2ff; }
+
+.trend-box { background: linear-gradient(135deg, #2a1a1a, #1a1a2e); border: 1px solid #4a3a2a; border-radius: 10px; padding: 1.2rem 1.5rem; margin-bottom: 2rem; }
+.trend-box h3 { font-size: 0.95rem; color: #ffd200; margin-bottom: 0.8rem; }
+.trend-period { font-size: 0.75rem; color: #888; font-weight: 400; }
+.trend-item { display: flex; align-items: center; gap: 0.6rem; margin-bottom: 0.5rem; }
+.trend-keyword { min-width: 90px; font-size: 0.82rem; color: #e0e0e0; text-align: right; font-weight: 600; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.trend-bar-wrap { flex: 1; height: 18px; background: #1a1a2e; border-radius: 4px; overflow: hidden; position: relative; }
+.trend-bar { height: 100%; border-radius: 4px; transition: width 0.6s ease; min-width: 4px; }
+.trend-bar.cat1 { background: linear-gradient(90deg, #00d2ff, #3a7bd5); }
+.trend-bar.cat2 { background: linear-gradient(90deg, #f857a6, #ff5858); }
+.trend-bar.cat3 { background: linear-gradient(90deg, #f7971e, #ffd200); }
+.trend-bar.cat4 { background: linear-gradient(90deg, #56ab2f, #a8e063); }
+.trend-bar.mix { background: linear-gradient(90deg, #00d2ff, #f857a6); }
+.trend-score { font-size: 0.72rem; color: #888; min-width: 36px; }
+.trend-loading { color: #888; text-align: center; padding: 1rem; font-size: 0.9rem; }
+.trend-legend { display: flex; gap: 1rem; margin-top: 0.8rem; flex-wrap: wrap; }
+.trend-legend-item { display: flex; align-items: center; gap: 0.3rem; font-size: 0.72rem; color: #888; }
+.trend-legend-dot { width: 8px; height: 8px; border-radius: 50%; }
 
 .modal { display: none; position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.7); z-index: 200; justify-content: center; align-items: center; }
 .modal.active { display: flex; }
