@@ -41,28 +41,16 @@ function isLLMReady() {
     return getActiveModel() !== null;
 }
 
-async function callLLMWithModel(model, messages) {
-    if (!model || !model.baseUrl || !model.apiKey || !model.model) {
-        throw new Error('模型配置不完整');
-    }
-    const url = model.baseUrl.replace(/\/+$/, '') + '/chat/completions';
+async function doLLMRequest(url, headers, payload) {
     let res;
     try {
         res = await fetch(url, {
             method: 'POST',
-            headers: {
-                'Content-Type': 'application/json',
-                'Authorization': 'Bearer ' + model.apiKey,
-            },
-            body: JSON.stringify({
-                model: model.model,
-                messages: messages,
-                temperature: 0.3,
-                max_tokens: 2000,
-            }),
+            headers: headers,
+            body: JSON.stringify(payload),
         });
     } catch (e) {
-        throw new Error('网络请求失败，可能是 CORS 限制或 URL 不可达: ' + e.message);
+        throw new Error('CORS_OR_NETWORK:' + e.message);
     }
     if (!res.ok) {
         const err = await res.text().catch(() => '');
@@ -73,6 +61,36 @@ async function callLLMWithModel(model, messages) {
         throw new Error('API 返回格式异常: ' + JSON.stringify(data).slice(0, 200));
     }
     return data.choices[0].message.content.trim();
+}
+
+async function callLLMWithModel(model, messages) {
+    if (!model || !model.baseUrl || !model.apiKey || !model.model) {
+        throw new Error('模型配置不完整');
+    }
+    const url = model.baseUrl.replace(/\/+$/, '') + '/chat/completions';
+    const headers = {
+        'Content-Type': 'application/json',
+        'Authorization': 'Bearer ' + model.apiKey,
+    };
+    const payload = {
+        model: model.model,
+        messages: messages,
+        temperature: 0.3,
+        max_tokens: 2000,
+    };
+    try {
+        return await doLLMRequest(url, headers, payload);
+    } catch (e) {
+        if (e.message.startsWith('CORS_OR_NETWORK:')) {
+            const proxyUrl = 'https://corsproxy.io/?' + encodeURIComponent(url);
+            try {
+                return await doLLMRequest(proxyUrl, headers, payload);
+            } catch (proxyErr) {
+                throw new Error('网络请求失败（直连和CORS代理均不可达）: ' + proxyErr.message);
+            }
+        }
+        throw e;
+    }
 }
 
 async function callLLM(messages) {
