@@ -37,26 +37,66 @@ function isLLMReady() {
 async function callLLM(messages) {
     const cfg = getLLMConfig();
     if (!cfg) throw new Error('请先配置 AI 模型');
+
+    if (cfg.provider === 'gemini') {
+        return await callGemini(cfg, messages);
+    }
+
     const url = cfg.baseUrl.replace(/\/+$/, '') + '/chat/completions';
-    const res = await fetch(url, {
-        method: 'POST',
-        headers: {
-            'Content-Type': 'application/json',
-            'Authorization': 'Bearer ' + cfg.apiKey,
-        },
-        body: JSON.stringify({
-            model: cfg.model,
-            messages: messages,
-            temperature: 0.3,
-            max_tokens: 2000,
-        }),
-    });
+    let res;
+    try {
+        res = await fetch(url, {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json',
+                'Authorization': 'Bearer ' + cfg.apiKey,
+            },
+            body: JSON.stringify({
+                model: cfg.model,
+                messages: messages,
+                temperature: 0.3,
+                max_tokens: 2000,
+            }),
+        });
+    } catch (e) {
+        throw new Error('网络请求失败，可能是 CORS 限制或 URL 不可达: ' + e.message);
+    }
     if (!res.ok) {
         const err = await res.text().catch(() => '');
         throw new Error('API 错误 (' + res.status + '): ' + err.slice(0, 200));
     }
     const data = await res.json();
+    if (!data.choices || !data.choices[0] || !data.choices[0].message) {
+        throw new Error('API 返回格式异常: ' + JSON.stringify(data).slice(0, 200));
+    }
     return data.choices[0].message.content.trim();
+}
+
+async function callGemini(cfg, messages) {
+    const url = cfg.baseUrl.replace(/\/+$/, '') + '/models/' + cfg.model + ':generateContent?key=' + cfg.apiKey;
+    const contents = messages.map(m => ({
+        role: m.role === 'assistant' ? 'model' : 'user',
+        parts: [{ text: m.content }],
+    }));
+    let res;
+    try {
+        res = await fetch(url, {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ contents: contents, generationConfig: { temperature: 0.3, maxOutputTokens: 2000 } }),
+        });
+    } catch (e) {
+        throw new Error('网络请求失败，可能是 CORS 限制或 URL 不可达: ' + e.message);
+    }
+    if (!res.ok) {
+        const err = await res.text().catch(() => '');
+        throw new Error('Gemini API 错误 (' + res.status + '): ' + err.slice(0, 200));
+    }
+    const data = await res.json();
+    if (!data.candidates || !data.candidates[0] || !data.candidates[0].content || !data.candidates[0].content.parts || !data.candidates[0].content.parts[0]) {
+        throw new Error('Gemini API 返回格式异常: ' + JSON.stringify(data).slice(0, 200));
+    }
+    return data.candidates[0].content.parts[0].text.trim();
 }
 
 async function testLLMConnection() {
@@ -93,21 +133,14 @@ async function llmGenerateSummary(allItems) {
 }
 
 // ============ Settings UI ============
+let settingsUIInitialized = false;
+
 function initSettingsUI() {
-    const cfg = getLLMConfig();
-    if (cfg) {
-        document.getElementById('llmProvider').value = cfg.provider || 'openai';
-        document.getElementById('llmModel').value = cfg.model || '';
-        document.getElementById('llmApiKey').value = cfg.apiKey || '';
-        document.getElementById('llmBaseUrl').value = cfg.baseUrl || '';
-    } else {
-        applyProviderDefaults('openai');
-    }
     document.getElementById('llmProvider').addEventListener('change', (e) => {
         applyProviderDefaults(e.target.value);
     });
     document.getElementById('settingsBtn').addEventListener('click', () => {
-        initSettingsUI();
+        loadConfigToForm();
         document.getElementById('settingsModal').classList.add('active');
     });
     document.getElementById('settingsClose').addEventListener('click', () => {
@@ -117,12 +150,7 @@ function initSettingsUI() {
         if (e.target === e.currentTarget) e.currentTarget.classList.remove('active');
     });
     document.getElementById('settingsSave').addEventListener('click', () => {
-        const config = {
-            provider: document.getElementById('llmProvider').value,
-            model: document.getElementById('llmModel').value.trim(),
-            apiKey: document.getElementById('llmApiKey').value.trim(),
-            baseUrl: document.getElementById('llmBaseUrl').value.trim().replace(/\/+$/, ''),
-        };
+        const config = readConfigFromForm();
         if (!config.apiKey || !config.baseUrl || !config.model) {
             showSettingsStatus('err', '请填写所有必填字段');
             return;
@@ -131,12 +159,7 @@ function initSettingsUI() {
         showSettingsStatus('ok', '配置已保存');
     });
     document.getElementById('settingsTest').addEventListener('click', async () => {
-        const config = {
-            provider: document.getElementById('llmProvider').value,
-            model: document.getElementById('llmModel').value.trim(),
-            apiKey: document.getElementById('llmApiKey').value.trim(),
-            baseUrl: document.getElementById('llmBaseUrl').value.trim().replace(/\/+$/, ''),
-        };
+        const config = readConfigFromForm();
         if (!config.apiKey || !config.baseUrl || !config.model) {
             showSettingsStatus('err', '请先填写所有字段');
             return;
@@ -150,6 +173,30 @@ function initSettingsUI() {
             showSettingsStatus('err', '连接失败: ' + e.message);
         }
     });
+    settingsUIInitialized = true;
+}
+
+function loadConfigToForm() {
+    const cfg = getLLMConfig();
+    if (cfg) {
+        document.getElementById('llmProvider').value = cfg.provider || 'openai';
+        document.getElementById('llmModel').value = cfg.model || '';
+        document.getElementById('llmApiKey').value = cfg.apiKey || '';
+        document.getElementById('llmBaseUrl').value = cfg.baseUrl || '';
+    } else {
+        applyProviderDefaults('openai');
+    }
+    document.getElementById('settingsStatus').textContent = '';
+    document.getElementById('settingsStatus').className = '';
+}
+
+function readConfigFromForm() {
+    return {
+        provider: document.getElementById('llmProvider').value,
+        model: document.getElementById('llmModel').value.trim(),
+        apiKey: document.getElementById('llmApiKey').value.trim(),
+        baseUrl: document.getElementById('llmBaseUrl').value.trim().replace(/\/+$/, ''),
+    };
 }
 
 function applyProviderDefaults(provider) {
@@ -217,12 +264,15 @@ async function retranslateItem(item, cardEl) {
         item.summary = translated.summary;
         item.detail = translated.detail;
         const h3 = cardEl.querySelector('h3');
+        if (h3) {
+            const btnHtml = isLLMReady() ? '<button class="retranslate-btn" title="用 AI 重新翻译">已翻译</button>' : '';
+            h3.innerHTML = escapeHtml(translated.title) + btnHtml;
+        }
         const summary = cardEl.querySelector('.summary');
-        if (h3) h3.textContent = translated.title;
         if (summary) summary.textContent = translated.summary;
-        if (btn) { btn.textContent = '已翻译'; }
     } catch (e) {
-        if (btn) { btn.textContent = '失败'; }
+        const btn = cardEl.querySelector('.retranslate-btn');
+        if (btn) { btn.textContent = '失败'; btn.disabled = false; }
         console.error('Retranslate failed:', e);
     }
 }
