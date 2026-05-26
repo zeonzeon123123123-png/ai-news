@@ -101,6 +101,10 @@ async function callLLMWithModel(model, messages) {
         temperature: 0.3,
         max_tokens: 2000,
     };
+    if (model.useProxy) {
+        const proxyUrl = 'https://corsproxy.io/?' + encodeURIComponent(url);
+        return await doLLMRequest(proxyUrl, headers, payload);
+    }
     try {
         return await doLLMRequest(url, headers, payload);
     } catch (e) {
@@ -225,6 +229,7 @@ function renderSettingsModal() {
                 '<div class="model-card-info">' +
                     '<span>' + escapeHtml(model.model || '') + '</span>' +
                     '<span class="model-url">' + escapeHtml(model.baseUrl || '') + '</span>' +
+                    (model.useProxy ? '<span class="model-proxy-tag">代理</span>' : '') +
                 '</div>';
             container.appendChild(el);
         });
@@ -276,6 +281,7 @@ function showModelEditor(model) {
     document.getElementById('editApiKey').value = model ? model.apiKey : '';
     document.getElementById('editBaseUrl').value = model ? model.baseUrl : '';
     document.getElementById('editModelEnabled').checked = model ? model.enabled !== false : true;
+    document.getElementById('editUseProxy').checked = model ? !!model.useProxy : false;
     document.getElementById('editorTitle').textContent = model ? '编辑模型' : '添加模型';
     editor.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
 }
@@ -300,6 +306,7 @@ function initModelEditorEvents() {
             const apiKey = document.getElementById('editApiKey').value.trim();
             const baseUrl = document.getElementById('editBaseUrl').value.trim().replace(/\/+$/, '');
             const enabled = document.getElementById('editModelEnabled').checked;
+        const useProxy = document.getElementById('editUseProxy').checked;
             if (!name || !modelId || !apiKey || !baseUrl) {
                 showSettingsStatus('err', '请填写所有必填字段');
                 return;
@@ -309,13 +316,13 @@ function initModelEditorEvents() {
             if (id) {
                 const idx = cfg.models.findIndex(m => m.id === id);
                 if (idx >= 0) {
-                    cfg.models[idx] = { id, name, model: modelId, apiKey, baseUrl, enabled };
+                    cfg.models[idx] = { id, name, model: modelId, apiKey, baseUrl, enabled, useProxy };
                 } else {
-                    cfg.models.push({ id: generateId(), name, model: modelId, apiKey, baseUrl, enabled });
+                    cfg.models.push({ id: generateId(), name, model: modelId, apiKey, baseUrl, enabled, useProxy });
                     if (!cfg.activeModelId) cfg.activeModelId = cfg.models[cfg.models.length - 1].id;
                 }
             } else {
-                const newModel = { id: generateId(), name, model: modelId, apiKey, baseUrl, enabled };
+                const newModel = { id: generateId(), name, model: modelId, apiKey, baseUrl, enabled, useProxy };
                 cfg.models.push(newModel);
                 if (!cfg.activeModelId) cfg.activeModelId = newModel.id;
             }
@@ -340,7 +347,7 @@ function initModelEditorEvents() {
                 return;
             }
             showSettingsStatus('', '正在测试连接...');
-            await testLLMConnection({ name, model: modelId, apiKey, baseUrl });
+            await testLLMConnection({ name, model: modelId, apiKey, baseUrl, useProxy: document.getElementById('editUseProxy').checked });
             showSettingsStatus('ok', '连接成功！模型可用');
         } catch (e) {
             showSettingsStatus('err', '连接失败: ' + e.message);

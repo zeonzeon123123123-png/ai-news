@@ -170,6 +170,8 @@ footer { text-align: center; padding: 2rem; color: #666; font-size: 0.85rem; bor
 .model-card-info { display: flex; gap: 0.8rem; margin-top: 0.4rem; font-size: 0.75rem; color: #888; }
 .model-url { max-width: 250px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
 
+.model-proxy-tag { background: #3a5a3a; color: #a8e063; font-size: 0.65rem; padding: 1px 6px; border-radius: 3px; font-weight: 600; }
+
 #addModelBtn { background: #1a1a2e; border: 1px dashed #3a3a5a; color: #a0a0b0; margin-bottom: 1rem; }
 #addModelBtn:hover { border-color: #3a7bd5; color: #00d2ff; }
 
