@@ -17,7 +17,26 @@ function generateId() {
 function getLLMConfig() {
     try {
         const saved = localStorage.getItem(LLM_STORAGE_KEY);
-        if (saved) return JSON.parse(saved);
+        if (saved) {
+            const parsed = JSON.parse(saved);
+            if (parsed && Array.isArray(parsed.models)) return parsed;
+            if (parsed && parsed.apiKey && parsed.baseUrl && parsed.model) {
+                const migrated = {
+                    models: [{
+                        id: generateId(),
+                        name: parsed.provider || '已迁移模型',
+                        model: parsed.model,
+                        apiKey: parsed.apiKey,
+                        baseUrl: parsed.baseUrl,
+                        enabled: true,
+                    }],
+                    activeModelId: null,
+                };
+                migrated.activeModelId = migrated.models[0].id;
+                saveLLMConfig(migrated);
+                return migrated;
+            }
+        }
     } catch (e) {}
     return { models: [], activeModelId: null };
 }
@@ -255,6 +274,8 @@ function showModelEditor(model) {
     document.getElementById('editApiKey').value = model ? model.apiKey : '';
     document.getElementById('editBaseUrl').value = model ? model.baseUrl : '';
     document.getElementById('editModelEnabled').checked = model ? model.enabled !== false : true;
+    document.getElementById('editorTitle').textContent = model ? '编辑模型' : '添加模型';
+    editor.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
 }
 
 function hideModelEditor() {
@@ -281,10 +302,14 @@ function initModelEditorEvents() {
             return;
         }
         const cfg = getLLMConfig();
+        if (!cfg.models) cfg.models = [];
         if (id) {
             const idx = cfg.models.findIndex(m => m.id === id);
             if (idx >= 0) {
-                cfg.models[idx] = { ...cfg.models[idx], name, model: modelId, apiKey, baseUrl, enabled };
+                cfg.models[idx] = { id, name, model: modelId, apiKey, baseUrl, enabled };
+            } else {
+                cfg.models.push({ id: generateId(), name, model: modelId, apiKey, baseUrl, enabled });
+                if (!cfg.activeModelId) cfg.activeModelId = cfg.models[cfg.models.length - 1].id;
             }
         } else {
             const newModel = { id: generateId(), name, model: modelId, apiKey, baseUrl, enabled };
