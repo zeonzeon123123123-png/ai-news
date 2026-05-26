@@ -20,7 +20,8 @@ function getLLMConfig() {
         if (saved) {
             const parsed = JSON.parse(saved);
             if (parsed && Array.isArray(parsed.models)) return parsed;
-            if (parsed && parsed.apiKey && parsed.baseUrl && parsed.model) {
+            if (parsed && (parsed.provider || parsed.apiKey) && parsed.baseUrl && parsed.model) {
+                localStorage.removeItem(LLM_STORAGE_KEY);
                 const migrated = {
                     models: [{
                         id: generateId(),
@@ -36,8 +37,11 @@ function getLLMConfig() {
                 saveLLMConfig(migrated);
                 return migrated;
             }
+            localStorage.removeItem(LLM_STORAGE_KEY);
         }
-    } catch (e) {}
+    } catch (e) {
+        localStorage.removeItem(LLM_STORAGE_KEY);
+    }
     return { models: [], activeModelId: null };
 }
 
@@ -226,8 +230,6 @@ function renderSettingsModal() {
         });
     }
     bindModelCardEvents();
-    document.getElementById('settingsStatus').textContent = '';
-    document.getElementById('settingsStatus').className = '';
 }
 
 function bindModelCardEvents() {
@@ -291,47 +293,53 @@ function initModelEditorEvents() {
         hideModelEditor();
     });
     document.getElementById('editorSave').addEventListener('click', () => {
-        const id = document.getElementById('editModelId').value;
-        const name = document.getElementById('editModelName').value.trim();
-        const modelId = document.getElementById('editModelId2').value.trim();
-        const apiKey = document.getElementById('editApiKey').value.trim();
-        const baseUrl = document.getElementById('editBaseUrl').value.trim().replace(/\/+$/, '');
-        const enabled = document.getElementById('editModelEnabled').checked;
-        if (!name || !modelId || !apiKey || !baseUrl) {
-            showSettingsStatus('err', '请填写所有必填字段');
-            return;
-        }
-        const cfg = getLLMConfig();
-        if (!cfg.models) cfg.models = [];
-        if (id) {
-            const idx = cfg.models.findIndex(m => m.id === id);
-            if (idx >= 0) {
-                cfg.models[idx] = { id, name, model: modelId, apiKey, baseUrl, enabled };
-            } else {
-                cfg.models.push({ id: generateId(), name, model: modelId, apiKey, baseUrl, enabled });
-                if (!cfg.activeModelId) cfg.activeModelId = cfg.models[cfg.models.length - 1].id;
+        try {
+            const id = document.getElementById('editModelId').value;
+            const name = document.getElementById('editModelName').value.trim();
+            const modelId = document.getElementById('editModelId2').value.trim();
+            const apiKey = document.getElementById('editApiKey').value.trim();
+            const baseUrl = document.getElementById('editBaseUrl').value.trim().replace(/\/+$/, '');
+            const enabled = document.getElementById('editModelEnabled').checked;
+            if (!name || !modelId || !apiKey || !baseUrl) {
+                showSettingsStatus('err', '请填写所有必填字段');
+                return;
             }
-        } else {
-            const newModel = { id: generateId(), name, model: modelId, apiKey, baseUrl, enabled };
-            cfg.models.push(newModel);
-            if (!cfg.activeModelId) cfg.activeModelId = newModel.id;
+            const cfg = getLLMConfig();
+            if (!cfg.models) cfg.models = [];
+            if (id) {
+                const idx = cfg.models.findIndex(m => m.id === id);
+                if (idx >= 0) {
+                    cfg.models[idx] = { id, name, model: modelId, apiKey, baseUrl, enabled };
+                } else {
+                    cfg.models.push({ id: generateId(), name, model: modelId, apiKey, baseUrl, enabled });
+                    if (!cfg.activeModelId) cfg.activeModelId = cfg.models[cfg.models.length - 1].id;
+                }
+            } else {
+                const newModel = { id: generateId(), name, model: modelId, apiKey, baseUrl, enabled };
+                cfg.models.push(newModel);
+                if (!cfg.activeModelId) cfg.activeModelId = newModel.id;
+            }
+            saveLLMConfig(cfg);
+            hideModelEditor();
+            renderSettingsModal();
+            showSettingsStatus('ok', id ? '模型已更新' : '模型已添加');
+            if (newsData) renderNews(newsData);
+        } catch (e) {
+            console.error('Save failed:', e);
+            showSettingsStatus('err', '保存失败: ' + e.message);
         }
-        saveLLMConfig(cfg);
-        hideModelEditor();
-        renderSettingsModal();
-        showSettingsStatus('ok', id ? '模型已更新' : '模型已添加');
     });
     document.getElementById('editorTest').addEventListener('click', async () => {
-        const name = document.getElementById('editModelName').value.trim();
-        const modelId = document.getElementById('editModelId2').value.trim();
-        const apiKey = document.getElementById('editApiKey').value.trim();
-        const baseUrl = document.getElementById('editBaseUrl').value.trim().replace(/\/+$/, '');
-        if (!modelId || !apiKey || !baseUrl) {
-            showSettingsStatus('err', '请先填写所有字段');
-            return;
-        }
-        showSettingsStatus('', '正在测试连接...');
         try {
+            const name = document.getElementById('editModelName').value.trim();
+            const modelId = document.getElementById('editModelId2').value.trim();
+            const apiKey = document.getElementById('editApiKey').value.trim();
+            const baseUrl = document.getElementById('editBaseUrl').value.trim().replace(/\/+$/, '');
+            if (!modelId || !apiKey || !baseUrl) {
+                showSettingsStatus('err', '请先填写所有字段');
+                return;
+            }
+            showSettingsStatus('', '正在测试连接...');
             await testLLMConnection({ name, model: modelId, apiKey, baseUrl });
             showSettingsStatus('ok', '连接成功！模型可用');
         } catch (e) {
