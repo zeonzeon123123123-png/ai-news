@@ -863,8 +863,6 @@ function setCurrentDate() {
     const d = String(now.getDate()).padStart(2, '0');
     const today = y + '-' + m + '-' + d;
     document.getElementById('currentDate').textContent = today + ' AI 新闻日报';
-    document.getElementById('weekStart').max = today;
-    document.getElementById('weekEnd').max = today;
     document.getElementById('weekEnd').value = today;
     var weekAgo = new Date(now);
     weekAgo.setDate(weekAgo.getDate() - 7);
@@ -874,10 +872,110 @@ function setCurrentDate() {
     document.getElementById('weekStart').value = wy + '-' + wm + '-' + wd;
 }
 
+// ============ Calendar Picker ============
+function CalendarPicker(inputEl, panelEl) {
+    this.input = inputEl;
+    this.panel = panelEl;
+    this.currentYear = new Date().getFullYear();
+    this.currentMonth = new Date().getMonth();
+    this.selectedDate = null;
+    this.isOpen = false;
+    var self = this;
+    this.input.addEventListener('click', function(e) {
+        e.stopPropagation();
+        if (self.isOpen) {
+            self.close();
+        } else {
+            self.open();
+        }
+    });
+    this.panel.addEventListener('click', function(e) {
+        e.stopPropagation();
+    });
+    document.addEventListener('click', function() {
+        self.close();
+    });
+}
+
+CalendarPicker.prototype.open = function() {
+    if (this.input.value) {
+        var parts = this.input.value.split('-');
+        if (parts.length === 3) {
+            this.currentYear = parseInt(parts[0]);
+            this.currentMonth = parseInt(parts[1]) - 1;
+        }
+    }
+    this.render();
+    this.panel.style.display = 'block';
+    this.isOpen = true;
+};
+
+CalendarPicker.prototype.close = function() {
+    this.panel.style.display = 'none';
+    this.isOpen = false;
+};
+
+CalendarPicker.prototype.render = function() {
+    var self = this;
+    var year = this.currentYear;
+    var month = this.currentMonth;
+    var firstDay = new Date(year, month, 1).getDay();
+    var daysInMonth = new Date(year, month + 1, 0).getDate();
+    var today = new Date();
+    var todayStr = today.getFullYear() + '-' + String(today.getMonth() + 1).padStart(2, '0') + '-' + String(today.getDate()).padStart(2, '0');
+    var monthNames = ['1月','2月','3月','4月','5月','6月','7月','8月','9月','10月','11月','12月'];
+    var html = '<div class="cal-header">';
+    html += '<button class="cal-nav" data-dir="-1">&#9664;</button>';
+    html += '<span class="cal-title">' + year + '年 ' + monthNames[month] + '</span>';
+    html += '<button class="cal-nav" data-dir="1">&#9654;</button>';
+    html += '</div>';
+    html += '<div class="cal-weekdays">';
+    var weekdays = ['日','一','二','三','四','五','六'];
+    for (var i = 0; i < 7; i++) {
+        html += '<span class="cal-wd">' + weekdays[i] + '</span>';
+    }
+    html += '</div>';
+    html += '<div class="cal-days">';
+    for (var i = 0; i < firstDay; i++) {
+        html += '<span class="cal-day cal-empty"></span>';
+    }
+    for (var d = 1; d <= daysInMonth; d++) {
+        var dateStr = year + '-' + String(month + 1).padStart(2, '0') + '-' + String(d).padStart(2, '0');
+        var classes = 'cal-day';
+        if (dateStr === todayStr) classes += ' cal-today';
+        if (dateStr === this.selectedDate) classes += ' cal-selected';
+        if (dateStr > todayStr) classes += ' cal-future';
+        html += '<span class="' + classes + '" data-date="' + dateStr + '">' + d + '</span>';
+    }
+    html += '</div>';
+    this.panel.innerHTML = html;
+    this.panel.querySelectorAll('.cal-nav').forEach(function(btn) {
+        btn.addEventListener('click', function() {
+            self.currentMonth += parseInt(this.dataset.dir);
+            if (self.currentMonth > 11) { self.currentMonth = 0; self.currentYear++; }
+            if (self.currentMonth < 0) { self.currentMonth = 11; self.currentYear--; }
+            self.render();
+        });
+    });
+    this.panel.querySelectorAll('.cal-day:not(.cal-empty):not(.cal-future)').forEach(function(dayEl) {
+        dayEl.addEventListener('click', function() {
+            self.selectedDate = this.dataset.date;
+            self.input.value = this.dataset.date;
+            self.close();
+        });
+    });
+};
+
+function initCalendarPickers() {
+    new CalendarPicker(document.getElementById('weekStart'), document.getElementById('calendarStart'));
+    new CalendarPicker(document.getElementById('weekEnd'), document.getElementById('calendarEnd'));
+}
+
 setupFilterTabs();
 initSettingsUI();
 initModelEditorEvents();
 initAISummary();
 initTrend();
+initCalendarPickers();
 setCurrentDate();
 loadNews();
