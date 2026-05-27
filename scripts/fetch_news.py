@@ -57,16 +57,13 @@ RSS_SOURCES = [
     {"url": "https://spectrum.ieee.org/rss/fulltext", "source": "IEEE Spectrum", "authority": 0.9},
     {"url": "https://spectrum.ieee.org/semiconductors/rss", "source": "IEEE Spectrum Semi", "authority": 0.85},
     {"url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml", "source": "NYT", "authority": 0.9},
-    {"url": "https://hnrss.org/newest?q=AI&count=15", "source": "Hacker News", "authority": 0.8},
-    {"url": "https://hnrss.org/newest?q=LLM&count=15", "source": "Hacker News", "authority": 0.8},
-    {"url": "https://hnrss.org/newest?q=robot&count=15", "source": "Hacker News", "authority": 0.8},
-    {"url": "https://hnrss.org/newest?q=nvidia+OR+GPU&count=15", "source": "Hacker News", "authority": 0.8},
-    {"url": "https://www.tomshardware.com/feeds/all", "source": "Tom's Hardware", "authority": 0.7},
     {"url": "https://www.newscientist.com/subject/technology/feed/", "source": "New Scientist", "authority": 0.75},
     {"url": "https://feeds.arstechnica.com/arstechnica/technology-lab", "source": "Ars Technica", "authority": 0.8},
-    {"url": "https://feeds.feedburner.com/ruanyifeng", "source": "Ruan Yifeng", "authority": 0.75},
-    {"url": "https://36kr.com/feed", "source": "36Kr", "authority": 0.85},
-    {"url": "https://www.ithome.com/rss/", "source": "ITHome", "authority": 0.75},
+    {"url": "https://arxiv.org/rss/cs.AI", "source": "ArXiv AI", "authority": 0.85},
+]
+
+RSS_SOURCES_FALLBACK = [
+    {"url": "https://36kr.com/feed", "source": "36Kr", "authority": 0.70},
 ]
 
 CATEGORY_KEYWORDS = {
@@ -143,14 +140,11 @@ SOURCE_AUTHORITY = {
     "IEEE Spectrum Semi": 0.85,
     "NYT": 0.9,
     "Wired": 0.85,
-    "36Kr": 0.85,
     "Ars Technica": 0.85,
-    "Hacker News": 0.8,
+    "ArXiv AI": 0.85,
     "VentureBeat": 0.8,
     "New Scientist": 0.75,
-    "ITHome": 0.75,
-    "Ruan Yifeng": 0.75,
-    "Tom's Hardware": 0.7,
+    "36Kr": 0.70,
 }
 
 BJ_TZ = timezone(timedelta(hours=8))
