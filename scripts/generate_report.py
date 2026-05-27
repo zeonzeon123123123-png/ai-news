@@ -119,31 +119,21 @@ def generate_daily_html(data, date_str, date_cn):
         "3": "#f7971e",
         "4": "#56ab2f",
     }
-    cat_icons = {
-        "1": "&#x1F9E0;",
-        "2": "&#x1F4F1;",
-        "3": "&#x1F4BB;",
-        "4": "&#x1F916;",
-    }
     cat_names = CATEGORY_NAMES
 
-    cards_html = ""
+    sections_html = ""
     for i in range(1, 5):
         items = data.get(f"category{i}", [])
-        cards_html += f'<h2 style="color:{cat_colors[str(i)]}">{cat_icons[str(i)]} 板块{"一二三四"[i-1]}：{cat_names[str(i)]}</h2>\n'
+        sections_html += f'<div class="section">\n<h2 style="color:{cat_colors[str(i)]}">板块{"一二三四"[i-1]}：{cat_names[str(i)]}</h2>\n'
         if not items:
-            cards_html += '<p style="color:#666">暂无新闻</p>\n'
+            sections_html += '<p class="empty">暂无新闻</p>\n'
         else:
             for idx, item in enumerate(items, 1):
                 title = item.get("title", "")
                 url = item.get("url", "")
                 summary = item.get("summary", "")
-                source = item.get("source", "")
-                cards_html += f'''<div class="card">
-  <div class="card-head"><span class="idx">{idx}</span><a href="{url}" target="_blank">{title}</a></div>
-  <div class="card-body">{summary}</div>
-  <div class="card-meta">{source}</div>
-</div>\n'''
+                sections_html += f'<div class="news-item">\n<div class="news-title">{idx}. {title}</div>\n<div class="news-summary">{summary}</div>\n<a class="news-link" href="{url}" target="_blank">阅读原文</a>\n</div>\n'
+        sections_html += '</div>\n'
 
     return f"""<!DOCTYPE html>
 <html lang="zh-CN">
@@ -154,15 +144,16 @@ def generate_daily_html(data, date_str, date_cn):
 <style>
 body{{font-family:-apple-system,BlinkMacSystemFont,sans-serif;background:#0a0a1a;color:#e0e0e0;max-width:800px;margin:0 auto;padding:2rem}}
 h1{{background:linear-gradient(90deg,#00d2ff,#3a7bd5);-webkit-background-clip:text;-webkit-text-fill-color:transparent}}
-h2{{margin-top:2rem;padding-bottom:0.5rem;border-bottom:2px solid #3a7bd5}}
 a{{color:#00d2ff;text-decoration:none}}a:hover{{text-decoration:underline}}
 .back{{display:inline-block;margin-bottom:2rem;padding:0.5rem 1rem;background:#3a7bd5;color:#fff;border-radius:6px}}
-.card{{background:#1a1a2e;border:1px solid #2a2a4a;border-radius:8px;padding:1rem;margin:0.5rem 0}}
-.card-head{{font-size:1rem;margin-bottom:0.3rem}}
-.idx{{display:inline-block;background:#3a7bd5;color:#fff;width:1.5rem;height:1.5rem;border-radius:50%;text-align:center;line-height:1.5rem;margin-right:0.5rem;font-size:0.8rem}}
-.card-body{{font-size:0.85rem;color:#a0a0b0}}
-.card-meta{{font-size:0.75rem;color:#666;margin-top:0.3rem}}
 .date{{color:#888;font-size:0.9rem;margin-bottom:1rem}}
+.section{{margin-bottom:2rem}}
+.section h2{{margin-bottom:0.8rem;padding-bottom:0.5rem;border-bottom:2px solid #3a7bd5}}
+.news-item{{padding:0.8rem 0;border-bottom:1px solid #2a2a4a}}
+.news-title{{font-size:1rem;font-weight:600;color:#e0e0e0;margin-bottom:0.3rem;line-height:1.5}}
+.news-summary{{font-size:0.88rem;color:#a0a0b0;line-height:1.6;margin-bottom:0.3rem}}
+.news-link{{font-size:0.82rem}}
+.empty{{color:#666;padding:1rem 0}}
 </style>
 </head>
 <body>
@@ -170,7 +161,7 @@ a{{color:#00d2ff;text-decoration:none}}a:hover{{text-decoration:underline}}
 <div class="date">{date_cn}</div>
 <a class="back" href="index.html">返回历史列表</a>
 <a class="back" href="../" style="margin-left:0.5rem">返回首页</a>
-{cards_html}
+{sections_html}
 </body>
 </html>"""
 
