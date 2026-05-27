@@ -77,6 +77,8 @@ mark { background: rgba(0, 210, 255, 0.25); color: #00d2ff; padding: 0 2px; bord
 .weekly-title:hover { color: #00d2ff; }
 .weekly-summary { font-size: 0.78rem; color: #a0a0b0; margin: 0.2rem 0; line-height: 1.5; }
 .weekly-source { font-size: 0.72rem; color: #666; }
+.weekly-meta { display: flex; gap: 0.5rem; align-items: center; margin-top: 0.2rem; }
+.weekly-cat-tag { background: #2a2a4a; color: #00d2ff; font-size: 0.68rem; padding: 1px 6px; border-radius: 3px; }
 .weekly-loading { color: #888; text-align: center; padding: 1rem; font-size: 0.9rem; }
 .copy-md-btn { background: #2a2a4a; color: #e0e0e0; border: 1px solid #3a3a5a; padding: 0.4rem 1rem; border-radius: 6px; cursor: pointer; font-size: 0.8rem; margin-top: 0.8rem; display: block; width: 100%; }
 .copy-md-btn:hover { background: #3a3a5a; }

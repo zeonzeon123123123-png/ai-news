@@ -755,10 +755,8 @@ document.getElementById('weeklyModal').addEventListener('click', (e) => {
 document.getElementById('weeklySubmit').addEventListener('click', async () => {
     const start = document.getElementById('weekStart').value;
     const end = document.getElementById('weekEnd').value;
-    const cats = Array.from(document.querySelectorAll('.checkbox-group input:checked')).map(cb => cb.value);
-    const count = parseInt(document.getElementById('weeklyCount').value) || 5;
+    const count = parseInt(document.getElementById('weeklyCount').value) || 10;
     if (!start || !end) { alert('请选择日期范围'); return; }
-    if (cats.length === 0) { alert('请至少选择一个板块'); return; }
     const resultEl = document.getElementById('weeklyResult');
     resultEl.style.display = 'block';
     resultEl.innerHTML = '<div class="weekly-loading">正在加载历史数据...</div>';
@@ -775,7 +773,8 @@ document.getElementById('weeklySubmit').addEventListener('click', async () => {
         dates.push(y + '-' + m + '-' + dd);
     }
 
-    let allNews = { '1': [], '2': [], '3': [], '4': [] };
+    let allItems = [];
+    let seenTitles = new Set();
     let loaded = 0;
     let found = 0;
 
@@ -789,8 +788,9 @@ document.getElementById('weeklySubmit').addEventListener('click', async () => {
                 for (let i = 1; i <= 4; i++) {
                     let items = data['category' + i] || [];
                     for (let item of items) {
-                        if (!allNews[String(i)].some(n => n.title === item.title)) {
-                            allNews[String(i)].push(item);
+                        if (!seenTitles.has(item.title)) {
+                            seenTitles.add(item.title);
+                            allItems.push({ ...item, _cat: String(i) });
                         }
                     }
                 }
@@ -803,8 +803,9 @@ document.getElementById('weeklySubmit').addEventListener('click', async () => {
         for (let i = 1; i <= 4; i++) {
             let items = newsData['category' + i] || [];
             for (let item of items) {
-                if (!allNews[String(i)].some(n => n.title === item.title)) {
-                    allNews[String(i)].push(item);
+                if (!seenTitles.has(item.title)) {
+                    seenTitles.add(item.title);
+                    allItems.push({ ...item, _cat: String(i) });
                 }
             }
         }
@@ -815,32 +816,33 @@ document.getElementById('weeklySubmit').addEventListener('click', async () => {
         return;
     }
 
+    allItems.sort((a, b) => (b.score || 0) - (a.score || 0));
+    const topItems = allItems.slice(0, count);
+
     let mdReport = '# AI 新闻周报 - ' + start + ' 至 ' + end + '\n\n';
     let htmlParts = [];
-    cats.forEach(cat => {
-        const items = allNews[cat].slice(0, count);
-        mdReport += '## 板块：' + CAT_NAMES[cat] + '\n\n';
-        htmlParts.push('<div class="weekly-section"><h3>' + escapeHtml(CAT_NAMES[cat]) + '</h3>');
-        if (items.length === 0) {
-            mdReport += '暂无新闻\n\n';
-            htmlParts.push('<div class="news-empty">暂无新闻</div></div>');
-        } else {
-            items.forEach((item, idx) => {
-                mdReport += (idx + 1) + '. **' + item.title + '** - ' + item.url + '\n   ' + item.summary + '\n\n';
-                htmlParts.push(
-                    '<div class="weekly-item">' +
-                        '<span class="weekly-idx">' + (idx + 1) + '</span>' +
-                        '<div class="weekly-body">' +
-                            '<a href="' + escapeHtml(item.url) + '" target="_blank" class="weekly-title">' + escapeHtml(item.title) + '</a>' +
-                            '<p class="weekly-summary">' + escapeHtml(item.summary) + '</p>' +
-                            '<span class="weekly-source">' + escapeHtml(item.source) + '</span>' +
-                        '</div>' +
-                    '</div>'
-                );
-            });
-            htmlParts.push('</div>');
-        }
-    });
+    htmlParts.push('<div class="weekly-section">');
+    if (topItems.length === 0) {
+        mdReport += '暂无新闻\n\n';
+        htmlParts.push('<div class="news-empty">暂无新闻</div>');
+    } else {
+        topItems.forEach((item, idx) => {
+            const catLabel = CAT_NAMES[item._cat] || '';
+            const sourceLabel = item.source || '';
+            mdReport += (idx + 1) + '. **[' + catLabel + '] [' + sourceLabel + '] ' + item.title + '** - ' + item.url + '\n   ' + item.summary + '\n\n';
+            htmlParts.push(
+                '<div class="weekly-item">' +
+                    '<span class="weekly-idx">' + (idx + 1) + '</span>' +
+                    '<div class="weekly-body">' +
+                        '<a href="' + escapeHtml(item.url) + '" target="_blank" class="weekly-title">' + escapeHtml(item.title) + '</a>' +
+                        '<p class="weekly-summary">' + escapeHtml(item.summary) + '</p>' +
+                        '<span class="weekly-meta"><span class="weekly-cat-tag">' + escapeHtml(catLabel) + '</span><span class="weekly-source">' + escapeHtml(sourceLabel) + '</span></span>' +
+                    '</div>' +
+                '</div>'
+            );
+        });
+    }
+    htmlParts.push('</div>');
     htmlParts.push('<button class="copy-md-btn" onclick="copyWeeklyMd()">复制 Markdown</button>');
     resultEl.innerHTML = htmlParts.join('');
     window._weeklyMd = mdReport;
