@@ -198,16 +198,17 @@ fetch('https://api.github.com/repos/zeonzeon123123123-png/ai-news/contents/daily
       var d=m[1],ext=m[2];
       if(d&&ext!=='json'){
         if(!dateMap[d]) dateMap[d]={html:null,md:null};
-        if(ext==='html') dateMap[d].html=f.download_url;
-        if(ext==='md') dateMap[d].md=f.download_url;
+        if(ext==='html') dateMap[d].html=true;
+        if(ext==='md') dateMap[d].md=true;
       }
     }
   });
+  var base='https://zeonzeon123123123-png.github.io/ai-news/daily/';
   var dates=Object.keys(dateMap).sort().reverse();
   document.getElementById('list').innerHTML=dates.map(function(d){
     var links=dateMap[d];
-    var htmlLink=links.html?'<a href="'+links.html+'">HTML版</a>':'';
-    var mdLink=links.md?'<a href="'+links.md+'">Markdown版</a>':'';
+    var htmlLink=links.html?'<a href="'+base+d+'.html">HTML版</a>':'';
+    var mdLink=links.md?'<a href="'+base+d+'.md">Markdown版</a>':'';
     return '<div class="item"><span class="date-label">'+d+'</span><div class="links">'+htmlLink+mdLink+'</div></div>';
   }).join('');
 });
