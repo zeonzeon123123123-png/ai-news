@@ -30,7 +30,7 @@ def llm_generate_summary(data):
             for idx, item in enumerate(items[:5], 1):
                 context += f"{idx}. {item.get('title', '')}：{item.get('summary', '')}\n"
         prompt = (
-            "你是AI新闻分析师。根据以下今日AI新闻，生成一段"今日要点"摘要，要求：\n"
+            "你是AI新闻分析师。根据以下今日AI新闻，生成一段摘要，要求：\n"
             "1. 用2-3段话总结今天最重要的AI动态\n"
             "2. 突出跨领域趋势和关键事件\n"
             "3. 语言简洁专业\n"
