@@ -449,6 +449,33 @@ def main():
     if removed > 0:
         print(f"  Cross-category dedup: removed {removed} duplicates")
 
+    MIN_PER_CATEGORY = 3
+    need_fallback = any(len(classified[cat]) < MIN_PER_CATEGORY for cat in classified)
+    if need_fallback:
+        print("\nFetching fallback sources (36Kr)...")
+        fallback_items = []
+        for src in RSS_SOURCES_FALLBACK:
+            items = fetch_rss(src["url"], src["source"], src.get("authority", 0.7))
+            print(f"  {src['source']}: {len(items)} items")
+            fallback_items.extend(items)
+
+        for item in fallback_items:
+            if item["url"] in seen_urls:
+                continue
+            seen_urls.add(item["url"])
+            cat = classify_item(item["title"], item["summary"])
+            if cat and len(classified[cat]) < MIN_PER_CATEGORY:
+                score = compute_final_score(item, cat)
+                item["_cat"] = cat
+                item["_score"] = score
+                if score >= SCORE_THRESHOLD:
+                    classified[cat].append(item)
+
+        for cat in classified:
+            classified[cat].sort(key=lambda x: x.get("_score", 0), reverse=True)
+            classified[cat] = deduplicate_titles(classified[cat])
+            print(f"  Category {cat} (after fallback): {len(classified[cat])} items")
+
     print("\nTranslating...")
     result = {"date": now_bj().strftime("%Y-%m-%d")}
     used_urls = set()
