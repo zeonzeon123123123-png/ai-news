@@ -200,11 +200,24 @@ a{color:#00d2ff;text-decoration:none}a:hover{text-decoration:underline}
 fetch('https://api.github.com/repos/zeonzeon123123123-png/ai-news/contents/daily')
 .then(r=>r.json())
 .then(files=>{
-  const htmls=files.filter(f=>f.name.endsWith('.html')&&f.name!=='index.html').sort((a,b)=>b.name.localeCompare(a.name));
-  document.getElementById('list').innerHTML=htmls.map(f=>{
-    const date=f.name.replace('.html','');
-    const base=f.download_url.replace(f.name,'');
-    return '<div class="item"><span class="date-label">'+date+'</span><div class="links"><a href="'+f.download_url+'">HTML版</a></div></div>';
+  var dateMap={};
+  files.forEach(function(f){
+    var m=f.name.match(/^(\\d{4}-\\d{2}-\\d{2})\\.(html|md|json)$/);
+    if(m){
+      var d=m[1],ext=m[2];
+      if(d&&ext!=='json'){
+        if(!dateMap[d]) dateMap[d]={html:null,md:null};
+        if(ext==='html') dateMap[d].html=f.download_url;
+        if(ext==='md') dateMap[d].md=f.download_url;
+      }
+    }
+  });
+  var dates=Object.keys(dateMap).sort().reverse();
+  document.getElementById('list').innerHTML=dates.map(function(d){
+    var links=dateMap[d];
+    var htmlLink=links.html?'<a href="'+links.html+'">HTML版</a>':'';
+    var mdLink=links.md?'<a href="'+links.md+'">Markdown版</a>':'';
+    return '<div class="item"><span class="date-label">'+d+'</span><div class="links">'+htmlLink+mdLink+'</div></div>';
   }).join('');
 });
 </script>
