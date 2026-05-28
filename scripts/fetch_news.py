@@ -59,7 +59,9 @@ RSS_SOURCES = [
     {"url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml", "source": "NYT", "authority": 0.9},
     {"url": "https://www.newscientist.com/subject/technology/feed/", "source": "New Scientist", "authority": 0.75},
     {"url": "https://feeds.arstechnica.com/arstechnica/technology-lab", "source": "Ars Technica", "authority": 0.8},
-    {"url": "https://arxiv.org/rss/cs.AI", "source": "ArXiv AI", "authority": 0.85},
+    {"url": "https://feeds.bbci.co.uk/news/technology/rss.xml", "source": "BBC Tech", "authority": 0.85},
+    {"url": "https://www.theguardian.com/technology/rss", "source": "The Guardian", "authority": 0.85},
+    {"url": "https://www.qbitai.com/feed", "source": "量子位", "authority": 0.85},
 ]
 
 RSS_SOURCES_FALLBACK = [
@@ -141,7 +143,9 @@ SOURCE_AUTHORITY = {
     "NYT": 0.9,
     "Wired": 0.85,
     "Ars Technica": 0.85,
-    "ArXiv AI": 0.85,
+    "BBC Tech": 0.85,
+    "The Guardian": 0.85,
+    "量子位": 0.85,
     "VentureBeat": 0.8,
     "New Scientist": 0.75,
     "36Kr": 0.70,
