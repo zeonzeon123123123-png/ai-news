@@ -14,6 +14,8 @@ permissions:
 jobs:
   fetch-and-update:
     runs-on: ubuntu-latest
+    outputs:
+      new_sha: ${{ steps.get_sha.outputs.sha }}
     steps:
       - uses: actions/checkout@v4
 
@@ -69,6 +71,10 @@ jobs:
           git diff --staged --quiet || git commit -m "Update news $(date +%Y-%m-%d)"
           git push
 
+      - name: Get new commit SHA
+        id: get_sha
+        run: echo "sha=$(git rev-parse HEAD)" >> "$GITHUB_OUTPUT"
+
       - name: Notify on failure
         if: failure()
         uses: actions/github-script@v7
@@ -90,6 +96,8 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: ${{ needs.fetch-and-update.outputs.new_sha }}
       - name: Prepare deploy directory
         run: |
           mkdir -p _site
