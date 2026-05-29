@@ -56,12 +56,18 @@ RSS_SOURCES = [
     {"url": "https://venturebeat.com/category/ai/feed/", "source": "VentureBeat", "authority": 0.8},
     {"url": "https://spectrum.ieee.org/rss/fulltext", "source": "IEEE Spectrum", "authority": 0.9},
     {"url": "https://spectrum.ieee.org/semiconductors/rss", "source": "IEEE Spectrum Semi", "authority": 0.85},
+    {"url": "https://spectrum.ieee.org/robotics/rss", "source": "IEEE Spectrum Robotics", "authority": 0.9},
     {"url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml", "source": "NYT", "authority": 0.9},
     {"url": "https://www.newscientist.com/subject/technology/feed/", "source": "New Scientist", "authority": 0.75},
     {"url": "https://feeds.arstechnica.com/arstechnica/technology-lab", "source": "Ars Technica", "authority": 0.8},
     {"url": "https://feeds.bbci.co.uk/news/technology/rss.xml", "source": "BBC Tech", "authority": 0.85},
     {"url": "https://www.theguardian.com/technology/rss", "source": "The Guardian", "authority": 0.85},
     {"url": "https://www.qbitai.com/feed", "source": "量子位", "authority": 0.85},
+    {"url": "https://feeds.feedburner.com/ruanyifeng", "source": "Ruan Yifeng", "authority": 0.75},
+    {"url": "https://36kr.com/feed", "source": "36Kr", "authority": 0.85},
+    {"url": "https://www.ithome.com/rss/", "source": "ITHome", "authority": 0.75},
+    {"url": "https://semiengineering.com/feed/", "source": "SemiEngineering", "authority": 0.85},
+    {"url": "https://www.therobotreport.com/feed/", "source": "The Robot Report", "authority": 0.85},
 ]
 
 RSS_SOURCES_FALLBACK = [
@@ -140,15 +146,22 @@ SOURCE_AUTHORITY = {
     "The Verge": 0.9,
     "IEEE Spectrum": 0.9,
     "IEEE Spectrum Semi": 0.85,
+    "IEEE Spectrum Robotics": 0.9,
     "NYT": 0.9,
     "Wired": 0.85,
+    "36Kr": 0.85,
     "Ars Technica": 0.85,
     "BBC Tech": 0.85,
     "The Guardian": 0.85,
     "量子位": 0.85,
+    "Hacker News": 0.8,
     "VentureBeat": 0.8,
+    "SemiEngineering": 0.85,
+    "The Robot Report": 0.85,
     "New Scientist": 0.75,
-    "36Kr": 0.70,
+    "ITHome": 0.75,
+    "Ruan Yifeng": 0.75,
+    "Tom's Hardware": 0.7,
 }
 
 BJ_TZ = timezone(timedelta(hours=8))
@@ -257,7 +270,7 @@ def classify_item(title, summary):
 
 
 def score_relevance(item, cat):
-    text = (item["title"] + " " + item["summary"]).lower()
+    text = (item["title"] + " " + item.get("detail", item.get("summary", ""))).lower()
     kw_groups = CATEGORY_KEYWORDS.get(cat, {})
     core_hits = sum(1 for kw in kw_groups.get("core", []) if kw.lower() in text)
     secondary_hits = sum(1 for kw in kw_groups.get("secondary", []) if kw.lower() in text)
@@ -282,7 +295,7 @@ def score_relevance(item, cat):
 
 
 def score_industry_impact(item):
-    text = (item["title"] + " " + item["summary"]).lower()
+    text = (item["title"] + " " + item.get("detail", item.get("summary", ""))).lower()
     hits = sum(1 for kw in INDUSTRY_KEYWORDS if kw.lower() in text)
     if hits >= 5:
         return 1.0
@@ -332,7 +345,7 @@ def score_source(item):
 
 
 def has_noise(item):
-    text = (item["title"] + " " + item["summary"]).lower()
+    text = (item["title"] + " " + item.get("detail", item.get("summary", ""))).lower()
     return any(nk.lower() in text for nk in NOISE_KEYWORDS)
 
 
@@ -350,9 +363,6 @@ def compute_final_score(item, cat):
     return round(final, 4)
 
 
-SCORE_THRESHOLD = 0.7
-
-
 def is_similar(title1, title2, threshold=0.5):
     words1 = set(title1.lower().split())
     words2 = set(title2.lower().split())
@@ -362,7 +372,7 @@ def is_similar(title1, title2, threshold=0.5):
     return overlap > threshold
 
 
-def fetch_rss(url, source_name, authority):
+def fetch_rss(url, source_name, authority, max_age_hours=24):
     items = []
     try:
         feed = feedparser.parse(url)
@@ -381,7 +391,7 @@ def fetch_rss(url, source_name, authority):
                 try:
                     parsed = datetime(*entry.published_parsed[:6], tzinfo=timezone.utc)
                     age_hours = (now_bj() - parsed).total_seconds() / 3600
-                    if age_hours > 24:
+                    if age_hours > max_age_hours:
                         continue
                     pub_date = parsed.astimezone(BJ_TZ).strftime("%Y-%m-%d")
                     has_valid_date = True
@@ -392,16 +402,18 @@ def fetch_rss(url, source_name, authority):
                     try:
                         parsed = datetime(*entry.updated_parsed[:6], tzinfo=timezone.utc)
                         age_hours = (now_bj() - parsed).total_seconds() / 3600
-                        if age_hours > 24:
+                        if age_hours > max_age_hours:
                             continue
                         pub_date = parsed.astimezone(BJ_TZ).strftime("%Y-%m-%d")
                         has_valid_date = True
                     except:
                         pass
+            short_summary = summary[:60] if summary else ""
             items.append({
                 "title": title,
                 "url": link,
-                "summary": summary[:60],
+                "summary": summary,
+                "short_summary": short_summary,
                 "detail": summary,
                 "source": source_name,
                 "source_authority": authority,
@@ -413,13 +425,74 @@ def fetch_rss(url, source_name, authority):
 
 
 MAX_PER_CATEGORY = int(os.environ.get("MAX_NEWS_PER_CATEGORY", "10"))
+MIN_PER_CATEGORY = 3
+
+SCORE_THRESHOLDS = {"1": 0.7, "2": 0.7, "3": 0.6, "4": 0.6}
+
+CATEGORY_FALLBACK_SOURCES = {
+    "3": [
+        {"url": "https://spectrum.ieee.org/semiconductors/rss", "source": "IEEE Spectrum Semi", "authority": 0.85},
+        {"url": "https://semiengineering.com/feed/", "source": "SemiEngineering", "authority": 0.85},
+        {"url": "https://hnrss.org/newest?q=nvidia+OR+GPU&count=15", "source": "Hacker News", "authority": 0.8},
+    ],
+    "4": [
+        {"url": "https://spectrum.ieee.org/robotics/rss", "source": "IEEE Spectrum Robotics", "authority": 0.9},
+        {"url": "https://www.therobotreport.com/feed/", "source": "The Robot Report", "authority": 0.85},
+        {"url": "https://hnrss.org/newest?q=robot&count=15", "source": "Hacker News", "authority": 0.8},
+    ],
+}
+
+
+def fetch_rss_with_retry(url, source_name, authority, max_age_hours=24, max_retries=2):
+    for attempt in range(max_retries + 1):
+        items = fetch_rss(url, source_name, authority, max_age_hours)
+        if items:
+            return items
+        if attempt < max_retries:
+            print(f"  Retrying {url} (attempt {attempt+2})...")
+            time.sleep(3)
+    return []
+
+
+def cross_category_dedup(result):
+    for i in range(1, 5):
+        for j in range(i + 1, 5):
+            cat_i_key = f"category{i}"
+            cat_j_key = f"category{j}"
+            remove_j = set()
+            for idx_j, item_j in enumerate(result[cat_j_key]):
+                for item_i in result[cat_i_key]:
+                    if is_similar(item_i["title"], item_j["title"]):
+                        if item_i.get("score", 0) >= item_j.get("score", 0):
+                            remove_j.add(idx_j)
+                        break
+            if remove_j:
+                result[cat_j_key] = [item for idx, item in enumerate(result[cat_j_key]) if idx not in remove_j]
+    return result
+
+
+def classify_and_score(items, threshold_override=None):
+    classified = {"1": [], "2": [], "3": [], "4": []}
+    for item in items:
+        cat = classify_item(item["title"], item.get("detail", item.get("summary", "")))
+        if cat:
+            score = compute_final_score(item, cat)
+            item["_cat"] = cat
+            item["_score"] = score
+            threshold = threshold_override if threshold_override else SCORE_THRESHOLDS.get(cat, 0.7)
+            if score >= threshold:
+                classified[cat].append(item)
+    for cat in classified:
+        classified[cat].sort(key=lambda x: x.get("_score", 0), reverse=True)
+        classified[cat] = deduplicate_titles(classified[cat])
+    return classified
 
 
 def main():
     print(f"Fetching RSS feeds... (max {MAX_PER_CATEGORY} per category)")
     all_items = []
     for src in RSS_SOURCES:
-        items = fetch_rss(src["url"], src["source"], src.get("authority", 0.7))
+        items = fetch_rss_with_retry(src["url"], src["source"], src.get("authority", 0.7))
         print(f"  {src['source']}: {len(items)} items")
         all_items.extend(items)
 
@@ -434,20 +507,41 @@ def main():
 
     print(f"After URL dedup: {len(unique_items)}")
 
-    classified = {"1": [], "2": [], "3": [], "4": []}
-    for item in unique_items:
-        cat = classify_item(item["title"], item["summary"])
-        if cat:
-            score = compute_final_score(item, cat)
-            item["_cat"] = cat
-            item["_score"] = score
-            if score >= SCORE_THRESHOLD:
-                classified[cat].append(item)
+    classified = classify_and_score(unique_items)
 
     for cat in classified:
-        classified[cat].sort(key=lambda x: x.get("_score", 0), reverse=True)
-        classified[cat] = deduplicate_titles(classified[cat])
-        print(f"  Category {cat}: {len(classified[cat])} items above {SCORE_THRESHOLD} (top score: {classified[cat][0]['_score'] if classified[cat] else 0})")
+        print(f"  Category {cat}: {len(classified[cat])} items (top score: {classified[cat][0]['_score'] if classified[cat] else 0})")
+
+    thin_cats = [cat for cat in classified if len(classified[cat]) < MIN_PER_CATEGORY]
+    if thin_cats:
+        print(f"\nCategories {thin_cats} have fewer than {MIN_PER_CATEGORY} items, fetching with extended time window...")
+        for max_age in [48, 72]:
+            for cat in thin_cats:
+                if len(classified[cat]) >= MIN_PER_CATEGORY:
+                    continue
+                print(f"  Category {cat}: trying {max_age}h window from fallback sources...")
+                extra_items = []
+                for src in CATEGORY_FALLBACK_SOURCES.get(cat, []):
+                    items = fetch_rss_with_retry(src["url"], src["source"], src.get("authority", 0.7), max_age_hours=max_age)
+                    extra_items.extend(items)
+                if extra_items:
+                    existing_urls = {item["url"] for item in classified[cat]}
+                    for item in extra_items:
+                        if item["url"] not in seen_urls and item["url"] not in existing_urls:
+                            seen_urls.add(item["url"])
+                            c = classify_item(item["title"], item.get("detail", item.get("summary", "")))
+                            if c == cat:
+                                score = compute_final_score(item, cat)
+                                item["_cat"] = cat
+                                item["_score"] = score
+                                threshold = SCORE_THRESHOLDS.get(cat, 0.6)
+                                if score >= threshold:
+                                    classified[cat].append(item)
+                    classified[cat].sort(key=lambda x: x.get("_score", 0), reverse=True)
+                    classified[cat] = deduplicate_titles(classified[cat])
+                    print(f"  Category {cat}: now {len(classified[cat])} items after {max_age}h window")
+                if len(classified[cat]) >= MIN_PER_CATEGORY:
+                    break
 
     removed = cross_category_dedup(classified)
     if removed > 0:
@@ -501,18 +595,18 @@ def main():
 
             score = item.get("_score", 0)
             if not is_chinese(item["title"]):
-                print(f"  [{score:.2f}] translating: {item['title'][:60]}...")
                 llm_result = llm_translate_text(item["title"], item["summary"], item["detail"])
                 if llm_result:
                     item["title"] = llm_result["title"]
                     item["summary"] = llm_result["summary"]
                     item["detail"] = llm_result["detail"]
-                    print(f"    -> LLM translated")
+                    print(f"  [{score:.2f}] LLM translated: {item['title'][:60]}...")
                 else:
                     item["title"] = translate_to_chinese(item["title"])
                     item["summary"] = translate_to_chinese(item["summary"])
                     item["detail"] = translate_to_chinese(item["detail"])
                     time.sleep(0.5)
+                    print(f"  [{score:.2f}] translated: {item['title'][:60]}...")
             else:
                 print(f"  [{score:.2f}] OK: {item['title'][:60]}")
 
@@ -524,6 +618,8 @@ def main():
 
         result[f"category{i}"] = valid_items
         print(f"  Category {i}: {len(valid_items)} items")
+
+    result = cross_category_dedup(result)
 
     os.makedirs("data", exist_ok=True)
     with open("data/news.json", "w", encoding="utf-8") as f:
@@ -544,32 +640,6 @@ def deduplicate_titles(items):
         if not is_dup:
             result.append(item)
     return result
-
-
-def cross_category_dedup(classified):
-    removed = 0
-    all_pairs = []
-    for i in range(1, 5):
-        for j in range(i + 1, 5):
-            all_pairs.append((str(i), str(j)))
-    for cat_a, cat_b in all_pairs:
-        items_a = classified[cat_a]
-        items_b = classified[cat_b]
-        remove_from_b = set()
-        for idx_b, item_b in enumerate(items_b):
-            for idx_a, item_a in enumerate(items_a):
-                if idx_a in remove_from_b:
-                    continue
-                if is_similar(item_a["title"], item_b["title"]):
-                    if item_a.get("_score", 0) >= item_b.get("_score", 0):
-                        remove_from_b.add(idx_b)
-                    else:
-                        remove_from_b.add(idx_a)
-                    removed += 1
-                    break
-        classified[cat_a] = [item for idx, item in enumerate(items_a) if idx not in remove_from_b]
-        classified[cat_b] = [item for idx, item in enumerate(items_b) if idx not in remove_from_b]
-    return removed
 
 
 if __name__ == "__main__":
