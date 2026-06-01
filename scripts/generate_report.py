@@ -1,5 +1,6 @@
 import json
 import os
+import re
 import requests
 from datetime import datetime, timedelta, timezone
 
@@ -66,8 +67,12 @@ def generate_daily_report():
         return
 
     now = datetime.now(BJ_TZ)
-    today_cn = f"{now.year}年{now.month}月{now.day}日"
-    date_str = now.strftime("%Y-%m-%d")
+    date_str = data.get("date", now.strftime("%Y-%m-%d"))
+    try:
+        date_obj = datetime.strptime(date_str, "%Y-%m-%d")
+        today_cn = f"{date_obj.year}年{date_obj.month}月{date_obj.day}日"
+    except ValueError:
+        today_cn = date_str
 
     if LLM_API_KEY and LLM_BASE_URL and LLM_MODEL:
         print("Generating AI summary via LLM...")
@@ -93,18 +98,40 @@ def generate_daily_report():
             for idx, item in enumerate(items, 1):
                 title = item.get("title", "")
                 url = item.get("url", "")
-                summary = item.get("summary", "")[:30]
+                summary = item.get("summary", "")[:120]
                 report += f"{idx}. **{title}** - {url}\n   {summary}\n\n"
 
     os.makedirs("daily", exist_ok=True)
+
+    existing_json_path = f"daily/{date_str}.json"
+    if os.path.exists(existing_json_path):
+        try:
+            with open(existing_json_path, "r", encoding="utf-8") as f:
+                existing = json.load(f)
+            existing_count = sum(len(existing.get(f"category{i}", [])) for i in range(1, 5))
+            new_count = sum(len(data.get(f"category{i}", [])) for i in range(1, 5))
+            if existing_count >= new_count:
+                print(f"Daily report for {date_str} already exists with {existing_count} items (>= {new_count}), skipping overwrite")
+                return
+        except Exception:
+            pass
+
+    clean_data = {k: v for k, v in data.items() if k != "short_summary"}
+    for cat_key in ["category1", "category2", "category3", "category4"]:
+        if cat_key in clean_data:
+            clean_data[cat_key] = [
+                {k: v for k, v in item.items() if k != "short_summary"}
+                for item in clean_data[cat_key]
+            ]
+
     with open(f"daily/{date_str}.md", "w", encoding="utf-8") as f:
         f.write(report)
 
     with open(f"daily/{date_str}.json", "w", encoding="utf-8") as f:
-        json.dump(data, f, ensure_ascii=False, indent=2)
+        json.dump(clean_data, f, ensure_ascii=False, indent=2)
 
     with open(f"daily/{date_str}.html", "w", encoding="utf-8") as f:
-        f.write(generate_daily_html(data, date_str, today_cn))
+        f.write(generate_daily_html(clean_data, date_str, today_cn))
 
     with open("daily/index.html", "w", encoding="utf-8") as f:
         f.write(generate_archive_page())
@@ -167,6 +194,28 @@ a{{color:#00d2ff;text-decoration:none}}a:hover{{text-decoration:underline}}
 
 
 def generate_archive_page():
+    import glob
+    daily_dir = os.path.join(os.path.dirname(os.path.dirname(__file__)), "daily")
+    date_map = {}
+    for f in os.listdir(daily_dir):
+        m = re.match(r"^(\d{4}-\d{2}-\d{2})\.(html|md|json)$", f)
+        if m:
+            d, ext = m.group(1), m.group(2)
+            if ext != "json":
+                if d not in date_map:
+                    date_map[d] = {"html": False, "md": False}
+                if ext == "html":
+                    date_map[d]["html"] = True
+                if ext == "md":
+                    date_map[d]["md"] = True
+    dates = sorted(date_map.keys(), reverse=True)
+    items_html = ""
+    base = "https://zeonzeon123123123-png.github.io/ai-news/daily/"
+    for d in dates:
+        links = date_map[d]
+        html_link = '<a href="' + base + d + '.html">HTML版</a>' if links["html"] else ""
+        md_link = '<a href="' + base + d + '.md">Markdown版</a>' if links["md"] else ""
+        items_html += '<div class="item"><span class="date-label">' + d + '</span><div class="links">' + html_link + md_link + '</div></div>\n'
     return """<!DOCTYPE html>
 <html lang="zh-CN">
 <head>
@@ -186,33 +235,7 @@ a{color:#00d2ff;text-decoration:none}a:hover{text-decoration:underline}
 <body>
 <h1>历史日报</h1>
 <a class="back" href="../">返回首页</a>
-<div id="list"></div>
-<script>
-fetch('https://api.github.com/repos/zeonzeon123123123-png/ai-news/contents/daily')
-.then(r=>r.json())
-.then(files=>{
-  var dateMap={};
-  files.forEach(function(f){
-    var m=f.name.match(/^(\\d{4}-\\d{2}-\\d{2})\\.(html|md|json)$/);
-    if(m){
-      var d=m[1],ext=m[2];
-      if(d&&ext!=='json'){
-        if(!dateMap[d]) dateMap[d]={html:null,md:null};
-        if(ext==='html') dateMap[d].html=true;
-        if(ext==='md') dateMap[d].md=true;
-      }
-    }
-  });
-  var base='https://zeonzeon123123123-png.github.io/ai-news/daily/';
-  var dates=Object.keys(dateMap).sort().reverse();
-  document.getElementById('list').innerHTML=dates.map(function(d){
-    var links=dateMap[d];
-    var htmlLink=links.html?'<a href="'+base+d+'.html">HTML版</a>':'';
-    var mdLink=links.md?'<a href="'+base+d+'.md">Markdown版</a>':'';
-    return '<div class="item"><span class="date-label">'+d+'</span><div class="links">'+htmlLink+mdLink+'</div></div>';
-  }).join('');
-});
-</script>
+""" + items_html + """
 </body>
 </html>"""
 
