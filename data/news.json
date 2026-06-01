@@ -59,9 +59,9 @@
     {
       "title": "我们的科技霸主正在计划让有意识的人工智能征服宇宙。可能会出什么问题？ |爱德华多·波特",
       "url": "https://www.theguardian.com/us-news/ng-interactive/2026/may/31/transhuman-silicon-valley-ai",
-      "summary": "一种新的信念正在将世界上一些最富有的人团结起来，围绕一个“超人类”的未来——真正的人类该死。OpenAI的首席执行官萨姆·奥尔特曼几年前在互联网上提出，智人将是第一个“设计自己的后代”的物种。在他最好的情况下，人类和人工智能之间的“融合”将在未来 50 年的某个时刻发生。另一种选择是，我们仍然只是人类，而机器遵循它们自己的",
+      "summary": "一种新的信念正在将世界上一些最富有的人团结起来，围绕一个“超人类”的未来——真正的人类该死。OpenAI的首席执行官山姆·奥尔特曼几年前在互联网上提出，智人将是第一个“设计我们自己的后代”的物种。在他最好的情况下，人类和人工智能之间的“融合”将在未来 50 年的某个时刻发生。另一种选择是，我们仍然只是人类，而机器遵循它们自己的",
       "short_summary": "A new belief set is uniting some of the wealthiest men in th",
-      "detail": "一种新的信念正在将世界上一些最富有的人团结起来，围绕一个“超人类”的未来——真正的人类该死。OpenAI的首席执行官萨姆·奥尔特曼几年前在互联网上提出，智人将是第一个“设计自己的后代”的物种。在他最好的情况下，人类和人工智能之间的“融合”将在未来 50 年的某个时刻发生。另一种选择是，我们仍然只是人类，而机器遵循它们自己的",
+      "detail": "一种新的信念正在将世界上一些最富有的人团结起来，围绕一个“超人类”的未来——真正的人类该死。OpenAI的首席执行官山姆·奥尔特曼几年前在互联网上提出，智人将是第一个“设计我们自己的后代”的物种。在他最好的情况下，人类和人工智能之间的“融合”将在未来 50 年的某个时刻发生。另一种选择是，我们仍然只是人类，而机器遵循它们自己的",
       "source": "The Guardian",
       "source_authority": 0.85,
       "date": "2026-05-31",
@@ -93,37 +93,26 @@
       "score": 0.9225
     },
     {
-      "title": "首台英伟达 RTX Spark 处理器笔记本：Surface Laptop Ultra 亮相，微软顶级配置",
-      "url": "https://www.ithome.com/0/958/097.htm",
-      "summary": "IT之家 6 月 1 日消息，在今日的 2026 台北国际电脑展主题演讲中，英伟达 CEO 黄仁勋正式宣布推出 RTX Spark PC 处理器。随后，微软官方宣布推出 Surface Laptop Ultra 笔记本，搭载英伟达 RTX Spark 处理器。据IT之家此前报道，英伟达 RTX Spark 由联发科合作的 20 核 Grace CPU + 英伟达 Blackwell RTX GPU 组成（6144 CUDA 核心），AI 性能达到 1petaFLOP。英伟达 RTX Spark 采用台积电 3nm 工艺打造，配备 128GB 统一内存。英伟达宣称将与微软一起开启 PC 新世代。微软表示，开发者从内到外精心设计了 Surface Laptop Ultra，内部架构和外部造型浑然一体。从研发一开始，机械、电气、散热、声学、材料、工业设计和软件工程师就齐聚一堂。Surface Laptop Ultra 提供 Platinum（铂金）和 Nightfall（深黑）两种外观颜色可选，搭载 15 英寸 mini-LED PixelSense Ultra 触控屏，峰值 HDR 亮度高",
-      "short_summary": "IT之家 6 月 1 日消息，在今日的 2026 台北国际电脑展主题演讲中，英伟达 CEO 黄仁勋正式宣布推出 RTX ",
-      "detail": "IT之家 6 月 1 日消息，在今日的 2026 台北国际电脑展主题演讲中，英伟达 CEO 黄仁勋正式宣布推出 RTX Spark PC 处理器。随后，微软官方宣布推出 Surface Laptop Ultra 笔记本，搭载英伟达 RTX Spark 处理器。据IT之家此前报道，英伟达 RTX Spark 由联发科合作的 20 核 Grace CPU + 英伟达 Blackwell RTX GPU 组成（6144 CUDA 核心），AI 性能达到 1petaFLOP。英伟达 RTX Spark 采用台积电 3nm 工艺打造，配备 128GB 统一内存。英伟达宣称将与微软一起开启 PC 新世代。微软表示，开发者从内到外精心设计了 Surface Laptop Ultra，内部架构和外部造型浑然一体。从研发一开始，机械、电气、散热、声学、材料、工业设计和软件工程师就齐聚一堂。Surface Laptop Ultra 提供 Platinum（铂金）和 Nightfall（深黑）两种外观颜色可选，搭载 15 英寸 mini-LED PixelSense Ultra 触控屏，峰值 HDR 亮度高",
+      "title": "英伟达发布 DLSS 4.5 光线重建技术：支持全部 RTX 显卡，8 月推出",
+      "url": "https://www.ithome.com/0/958/108.htm",
+      "summary": "IT之家 6 月 1 日消息，NVIDIA（英伟达）今日发布 DLSS 4.5 光线重建 (Ray Reconstruction) 技术。这项技术将于今年 8 月正式推出，适用于所有 GeForce RTX GPU，当前已有 27 款游戏支持。DLSS 4.5 光线重建以神经渲染取代传统需要手工设置的降噪器，可提升光线追踪和路径追踪场景的画质。其在训练数据集更大的单一模型中集成了降噪和超分辨率功能，能生成采样光线之间更高质量的像素。DLSS 4.5 光线重建新模型计算能力提升 35%、处理参数数量增加 20%；相较 DLSS 4.5 超分辨率，这一模型在每个场景中都具有更深入的空间感知能力，并更智能地使用游戏引擎像素采样和运动数据，带来改进的光照精度、时间稳定性、运动清晰度。该模型还搭配有专属开发者遮罩工具，让开发者可进行更细致的参数调节，精准优化算法表现，进一步提升画面质量。",
+      "short_summary": "IT之家 6 月 1 日消息，NVIDIA（英伟达）今日发布 DLSS 4.5 光线重建 (Ray Reconstruc",
+      "detail": "IT之家 6 月 1 日消息，NVIDIA（英伟达）今日发布 DLSS 4.5 光线重建 (Ray Reconstruction) 技术。这项技术将于今年 8 月正式推出，适用于所有 GeForce RTX GPU，当前已有 27 款游戏支持。DLSS 4.5 光线重建以神经渲染取代传统需要手工设置的降噪器，可提升光线追踪和路径追踪场景的画质。其在训练数据集更大的单一模型中集成了降噪和超分辨率功能，能生成采样光线之间更高质量的像素。DLSS 4.5 光线重建新模型计算能力提升 35%、处理参数数量增加 20%；相较 DLSS 4.5 超分辨率，这一模型在每个场景中都具有更深入的空间感知能力，并更智能地使用游戏引擎像素采样和运动数据，带来改进的光照精度、时间稳定性、运动清晰度。该模型还搭配有专属开发者遮罩工具，让开发者可进行更细致的参数调节，精准优化算法表现，进一步提升画面质量。",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-06-01",
+      "score": 0.8975
+    },
+    {
+      "title": "微星正式官宣 Titan 18 HX 史诗天龙座四十周年典藏特仕版游戏本",
+      "url": "https://www.ithome.com/0/958/105.htm",
+      "summary": "IT之家 6 月 1 日消息，微星 (MSI) 今日正式官宣 Titan 18 HX Dragon Edition Draco Epic 史诗天龙座四十周年典藏特仕版游戏本：这款微星成立 40 周年纪念笔记本电脑设计灵感源自天龙座：A 面采用金属蚀刻 + 阳极氧化工艺，集成龙盾 RGB 徽标和希腊文铭文；C 面应用五层丝网印刷工艺；前缘和 C 面右下方印有 40 周年标志。这款游戏本搭载英特尔酷睿 Ultra 9 处理器 290HX Plus 和 NVIDIA GeForce RTX 5090 笔记本电脑 GPU，整机性能释放 270W，配备 CHERRY MX ULP 机械键盘；随附纪念金币、主题定制鼠标与鼠标垫、礼盒包装。而作为去年葛饰北斋《神奈川冲浪里》主题 Prestige 尊爵轻薄本特仕版的后续，微星今年将梵高经典画作《星空》《罗纳河上的星夜》搬到了新款 Prestige 14 Flip AI+ 上，透过光影与色彩的交织，将经典艺术转化为科技驱动的现代工业美学。",
+      "short_summary": "IT之家 6 月 1 日消息，微星 (MSI) 今日正式官宣 Titan 18 HX Dragon Edition Dr",
+      "detail": "IT之家 6 月 1 日消息，微星 (MSI) 今日正式官宣 Titan 18 HX Dragon Edition Draco Epic 史诗天龙座四十周年典藏特仕版游戏本：这款微星成立 40 周年纪念笔记本电脑设计灵感源自天龙座：A 面采用金属蚀刻 + 阳极氧化工艺，集成龙盾 RGB 徽标和希腊文铭文；C 面应用五层丝网印刷工艺；前缘和 C 面右下方印有 40 周年标志。这款游戏本搭载英特尔酷睿 Ultra 9 处理器 290HX Plus 和 NVIDIA GeForce RTX 5090 笔记本电脑 GPU，整机性能释放 270W，配备 CHERRY MX ULP 机械键盘；随附纪念金币、主题定制鼠标与鼠标垫、礼盒包装。而作为去年葛饰北斋《神奈川冲浪里》主题 Prestige 尊爵轻薄本特仕版的后续，微星今年将梵高经典画作《星空》《罗纳河上的星夜》搬到了新款 Prestige 14 Flip AI+ 上，透过光影与色彩的交织，将经典艺术转化为科技驱动的现代工业美学。",
       "source": "ITHome",
       "source_authority": 0.75,
       "date": "2026-06-01",
       "score": 0.86
-    },
-    {
-      "title": "英伟达宣布推出用于个人电脑的新型人工智能芯片",
-      "url": "https://www.bbc.com/news/articles/crmp9mppvzro?at_medium=RSS&at_campaign=rss",
-      "summary": "这家科技巨头的老板黄仁勋称此举为“计算机的重塑”。",
-      "short_summary": "The technology giant's boss Jensen Huang called the move the",
-      "detail": "这家科技巨头的老板黄仁勋称此举为“计算机的重塑”。",
-      "source": "BBC Tech",
-      "source_authority": 0.85,
-      "date": "2026-06-01",
-      "score": 0.7925
-    },
-    {
-      "title": "英特尔推出以太网 E835 系列有线网卡：200GbE 吞吐，支持 RDMA",
-      "url": "https://www.ithome.com/0/958/077.htm",
-      "summary": "IT之家 6 月 1 日消息，Intel（英特尔）今日宣布推出面向企业级应用的以太网 E835 系列控制器与网络适配器。该家族有线网络产品拥有 200GbE 的吞吐量，可配置为 2× 25GbE、4× 25GbE、2× 100GbE、1× 200GbE 等模式。Ethernet E835 支持 RDMA（IT之家注：远程直接内存访问），兼容 RoCEv2 与 iWARP 协议；兼容 Linux、ESXi、Windows 等多种操作系统。其能效可达 Broadcom（博通）BCM957508-P2100G 的 1.4 倍或 NVIDIA（英伟达）ConnectX-6 DX 的 1.9 倍，使用寿命达到 10 年以上。",
-      "short_summary": "IT之家 6 月 1 日消息，Intel（英特尔）今日宣布推出面向企业级应用的以太网 E835 系列控制器与网络适配器。",
-      "detail": "IT之家 6 月 1 日消息，Intel（英特尔）今日宣布推出面向企业级应用的以太网 E835 系列控制器与网络适配器。该家族有线网络产品拥有 200GbE 的吞吐量，可配置为 2× 25GbE、4× 25GbE、2× 100GbE、1× 200GbE 等模式。Ethernet E835 支持 RDMA（IT之家注：远程直接内存访问），兼容 RoCEv2 与 iWARP 协议；兼容 Linux、ESXi、Windows 等多种操作系统。其能效可达 Broadcom（博通）BCM957508-P2100G 的 1.4 倍或 NVIDIA（英伟达）ConnectX-6 DX 的 1.9 倍，使用寿命达到 10 年以上。",
-      "source": "ITHome",
-      "source_authority": 0.75,
-      "date": "2026-06-01",
-      "score": 0.785
     },
     {
       "title": "英伟达计划将其芯片用于个人电脑",
