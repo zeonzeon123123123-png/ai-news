@@ -112,6 +112,8 @@ def generate_daily_report():
             new_count = sum(len(data.get(f"category{i}", [])) for i in range(1, 5))
             if existing_count >= new_count:
                 print(f"Daily report for {date_str} already exists with {existing_count} items (>= {new_count}), skipping overwrite")
+                with open("daily/index.html", "w", encoding="utf-8") as f:
+                    f.write(generate_archive_page())
                 return
         except Exception:
             pass
