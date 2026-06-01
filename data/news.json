@@ -24,39 +24,6 @@
       "score": 0.895
     },
     {
-      "title": "英伟达：Anthropic、OpenAI等企业将率先采用新款Vera芯片",
-      "url": "https://36kr.com/newsflashes/3834111706834560?f=rss",
-      "summary": "据报道，英伟达表示，Anthropic、OpenAI以及SpaceX将成为其新款Vera处理器的首批主要客户。黄仁勋在6月1日演讲中点名提及上述几家企业。他称，这些企业将率先在自有数据中心部署英伟达Vera系列中央处理器。该新品将于今年第三季度全面投产。（界面）",
-      "short_summary": "据报道，英伟达表示，Anthropic、OpenAI以及SpaceX将成为其新款Vera处理器的首批主要客户。黄仁勋在6",
-      "detail": "据报道，英伟达表示，Anthropic、OpenAI以及SpaceX将成为其新款Vera处理器的首批主要客户。黄仁勋在6月1日演讲中点名提及上述几家企业。他称，这些企业将率先在自有数据中心部署英伟达Vera系列中央处理器。该新品将于今年第三季度全面投产。（界面）",
-      "source": "36Kr",
-      "source_authority": 0.85,
-      "date": "2026-06-01",
-      "score": 0.8475
-    },
-    {
-      "title": "英伟达推出 Alpamayo 2 Super 开源推理模型，助力 L4 自动驾驶研发",
-      "url": "https://www.ithome.com/0/958/092.htm",
-      "summary": "IT之家 6 月 1 日消息，英伟达今日正式推出了 Alpamayo 2 Super，这是一款拥有 320 亿参数、基于推理能力的视觉 - 语言 - 动作（VLA）模型，进一步丰富了英伟达 Alpamayo 系列开源人工智能模型、仿真框架与物理人工智能数据集，助力企业研发安全的 L4 自动驾驶出租车。IT之家注意到，伴随该模型发布，英伟达还推出多款全新工具、模型与智能体技能，打通从真实场景数据采集、闭环训练到车载部署的全流程，其中包括包括 NVIDIA AlpaGym、NVIDIA OmniDreams 以及全新的 NVIDIA Omniverse NuRec 模型。据官方介绍，Alpamayo 2 Super 可免去企业从零搭建自动驾驶核心基础设施的环节，大幅加速自动驾驶车辆研发进程。该模型具备类人的感知、推理与行动能力，同时拥有可解释性，能够满足安全验证与合规监管的相关要求。为适配道路实车部署的模型训练需求，AlpaGym 提供闭环强化学习平台。而英伟达 OmniDreams 作为可生成逼真场景的世界模型，能够大规模仿真各类罕见、长尾驾驶场景。为提升开发者效率，英伟达为旗下所有自动",
-      "short_summary": "IT之家 6 月 1 日消息，英伟达今日正式推出了 Alpamayo 2 Super，这是一款拥有 320 亿参数、基于",
-      "detail": "IT之家 6 月 1 日消息，英伟达今日正式推出了 Alpamayo 2 Super，这是一款拥有 320 亿参数、基于推理能力的视觉 - 语言 - 动作（VLA）模型，进一步丰富了英伟达 Alpamayo 系列开源人工智能模型、仿真框架与物理人工智能数据集，助力企业研发安全的 L4 自动驾驶出租车。IT之家注意到，伴随该模型发布，英伟达还推出多款全新工具、模型与智能体技能，打通从真实场景数据采集、闭环训练到车载部署的全流程，其中包括包括 NVIDIA AlpaGym、NVIDIA OmniDreams 以及全新的 NVIDIA Omniverse NuRec 模型。据官方介绍，Alpamayo 2 Super 可免去企业从零搭建自动驾驶核心基础设施的环节，大幅加速自动驾驶车辆研发进程。该模型具备类人的感知、推理与行动能力，同时拥有可解释性，能够满足安全验证与合规监管的相关要求。为适配道路实车部署的模型训练需求，AlpaGym 提供闭环强化学习平台。而英伟达 OmniDreams 作为可生成逼真场景的世界模型，能够大规模仿真各类罕见、长尾驾驶场景。为提升开发者效率，英伟达为旗下所有自动",
-      "source": "ITHome",
-      "source_authority": 0.75,
-      "date": "2026-06-01",
-      "score": 0.8475
-    },
-    {
-      "title": "“全球最强大的桌面 AI 超级计算机”，英伟达 DGX Station for Windows 发布",
-      "url": "https://www.ithome.com/0/958/091.htm",
-      "summary": "IT之家 6 月 1 日消息，在今日的 2026 台北国际电脑展主题演讲中，英伟达 CEO 黄仁勋发布了“全球最强大的桌面 AI 超级计算机”—— DGX Station for Windows。DGX Station for Windows 用于在 Windows 上开发和运行智能体 —— 基于英伟达 GB300 Grace Blackwell Ultra Desktop Superchip 构建，将于今年第四季度上市。英伟达表示，繁重的企业级 AI 工作负载（训练、微调、大规模推理和多智能体开发）通常需要数据中心运行在 Linux 上，而绝大多数财富 500 强公司则使用 Windows 进行日常生产力、创意、设计和工程应用程序。DGX Station for Windows 基于 NVIDIA DGX Station 系统设计，作为首款将 GB300 Grace Blackwell 级 AI 基础架构直接引入 Windows 生态系统的桌面 AI 超级计算机，弥合了这一差距。DGX Station 由 GB300 Grace Blackwell Ultra 桌面超级芯片提供支持，",
-      "short_summary": "IT之家 6 月 1 日消息，在今日的 2026 台北国际电脑展主题演讲中，英伟达 CEO 黄仁勋发布了“全球最强大的桌",
-      "detail": "IT之家 6 月 1 日消息，在今日的 2026 台北国际电脑展主题演讲中，英伟达 CEO 黄仁勋发布了“全球最强大的桌面 AI 超级计算机”—— DGX Station for Windows。DGX Station for Windows 用于在 Windows 上开发和运行智能体 —— 基于英伟达 GB300 Grace Blackwell Ultra Desktop Superchip 构建，将于今年第四季度上市。英伟达表示，繁重的企业级 AI 工作负载（训练、微调、大规模推理和多智能体开发）通常需要数据中心运行在 Linux 上，而绝大多数财富 500 强公司则使用 Windows 进行日常生产力、创意、设计和工程应用程序。DGX Station for Windows 基于 NVIDIA DGX Station 系统设计，作为首款将 GB300 Grace Blackwell 级 AI 基础架构直接引入 Windows 生态系统的桌面 AI 超级计算机，弥合了这一差距。DGX Station 由 GB300 Grace Blackwell Ultra 桌面超级芯片提供支持，",
-      "source": "ITHome",
-      "source_authority": 0.75,
-      "date": "2026-06-01",
-      "score": 0.8475
-    },
-    {
       "title": "我们的科技霸主正在计划让有意识的人工智能征服宇宙。可能会出什么问题？ |爱德华多·波特",
       "url": "https://www.theguardian.com/us-news/ng-interactive/2026/may/31/transhuman-silicon-valley-ai",
       "summary": "一种新的信念正在将世界上一些最富有的人团结起来，围绕一个“超人类”的未来——真正的人类该死。OpenAI的首席执行官萨姆·奥尔特曼几年前在互联网上提出，智人将是第一个“设计自己的后代”的物种。在他最好的情况下，人类和人工智能之间的“融合”将在未来 50 年的某个时刻发生。另一种选择是，我们仍然只是人类，而机器遵循它们自己的",
@@ -79,19 +46,53 @@
       "score": 0.7
     }
   ],
-  "category2": [],
-  "category3": [
+  "category2": [
     {
-      "title": "英伟达 RTX Spark PC 处理器正式发布：联发科合作 20 核 CPU + 英伟达 RTX GPU，首批电脑秋季推出",
-      "url": "https://www.ithome.com/0/958/088.htm",
-      "summary": "IT之家 6 月 1 日消息，在今日的 2026 台北国际电脑展主题演讲中，英伟达 CEO 黄仁勋正式宣布推出 RTX Spark PC 处理器。英伟达 RTX Spark 由联发科合作的 20 核 Grace CPU + 英伟达 Blackwell RTX GPU 组成（6144 CUDA 核心），AI 性能达到 1petaFLOP。英伟达 RTX Spark 采用台积电 3nm 工艺打造，配备 128GB 统一内存。英伟达宣称将与微软一起开启 PC 新世代。黄仁勋谈到了适配英伟达 RTX Spark 的应用，RTX Spark 让创作者、AI 开发者和游戏玩家能够渲染 90GB 以上的超大型 3D 场景、编辑 12K 4:2:2 视频、生成 4K AI 视频、使用本地智能体运行具有高达 100 万 token 上下文的 1200 亿参数 LLM，并以 1440p 分辨率和每秒 100 帧以上的速度畅玩 3A 游戏。Adobe 正在对 Photoshop 和 Premiere 进行彻底的架构重构，以支持 RTX Spark，从而实现最高 2 倍的 AI 和图形性能提升。RTX Spa",
-      "short_summary": "IT之家 6 月 1 日消息，在今日的 2026 台北国际电脑展主题演讲中，英伟达 CEO 黄仁勋正式宣布推出 RTX ",
-      "detail": "IT之家 6 月 1 日消息，在今日的 2026 台北国际电脑展主题演讲中，英伟达 CEO 黄仁勋正式宣布推出 RTX Spark PC 处理器。英伟达 RTX Spark 由联发科合作的 20 核 Grace CPU + 英伟达 Blackwell RTX GPU 组成（6144 CUDA 核心），AI 性能达到 1petaFLOP。英伟达 RTX Spark 采用台积电 3nm 工艺打造，配备 128GB 统一内存。英伟达宣称将与微软一起开启 PC 新世代。黄仁勋谈到了适配英伟达 RTX Spark 的应用，RTX Spark 让创作者、AI 开发者和游戏玩家能够渲染 90GB 以上的超大型 3D 场景、编辑 12K 4:2:2 视频、生成 4K AI 视频、使用本地智能体运行具有高达 100 万 token 上下文的 1200 亿参数 LLM，并以 1440p 分辨率和每秒 100 帧以上的速度畅玩 3A 游戏。Adobe 正在对 Photoshop 和 Premiere 进行彻底的架构重构，以支持 RTX Spark，从而实现最高 2 倍的 AI 和图形性能提升。RTX Spa",
+      "title": "华为 nova 16 Pro 新机官宣搭载业界独家 2 亿红枫影像系统",
+      "url": "https://www.ithome.com/0/958/165.htm",
+      "summary": "IT之家 6 月 1 日消息，华为 nova 16 系列及全场景新品发布会已拉开序幕，率先登场的就是系列大杯 —— nova 16 Pro。据介绍，nova 16 Pro 共有四种“夏日美学”配色，包括天际白、幻彩贝母、晴空蓝和星空黑。新机还配备了昆仑玻璃，提升防护能力。IT之家在发布会现场了解到，nova 16 Pro 还官宣搭载业界独家 2 亿红枫影像系统，包括 2 亿 RYYB 大底主摄、5000 万 RYYB 潜望长焦、5000 万超广角微距和红枫原色镜头（150 万多光谱通道）。值得一提的是，nova 16 Pro 还搭载了业界独家前置 5000 万红枫影像系统。",
+      "short_summary": "IT之家 6 月 1 日消息，华为 nova 16 系列及全场景新品发布会已拉开序幕，率先登场的就是系列大杯 —— no",
+      "detail": "IT之家 6 月 1 日消息，华为 nova 16 系列及全场景新品发布会已拉开序幕，率先登场的就是系列大杯 —— nova 16 Pro。据介绍，nova 16 Pro 共有四种“夏日美学”配色，包括天际白、幻彩贝母、晴空蓝和星空黑。新机还配备了昆仑玻璃，提升防护能力。IT之家在发布会现场了解到，nova 16 Pro 还官宣搭载业界独家 2 亿红枫影像系统，包括 2 亿 RYYB 大底主摄、5000 万 RYYB 潜望长焦、5000 万超广角微距和红枫原色镜头（150 万多光谱通道）。值得一提的是，nova 16 Pro 还搭载了业界独家前置 5000 万红枫影像系统。",
       "source": "ITHome",
       "source_authority": 0.75,
       "date": "2026-06-01",
-      "score": 0.9225
+      "score": 0.7125
     },
+    {
+      "title": "土耳其如何入侵毛发移植行业",
+      "url": "https://www.wired.com/story/how-turkey-hacked-the-hair-transplant-industry/",
+      "summary": "从专用电机到机器学习算法的使用，土耳其价值数十亿美元的毛发移植产业是不断创新过程的结果。",
+      "short_summary": "From specialized motors to the use of machine learning algor",
+      "detail": "从专用电机到机器学习算法的使用，土耳其价值数十亿美元的毛发移植产业是不断创新过程的结果。",
+      "source": "Wired",
+      "source_authority": 0.85,
+      "date": "2026-05-31",
+      "score": 0.62
+    },
+    {
+      "title": "1.5 匹 1799 → 1242 元：小米巨省电空调睡眠版 S1A1 双重补贴探新低",
+      "url": "https://www.ithome.com/0/958/142.htm",
+      "summary": "【京东活动可能随时变更，需以实付款为准】小米 · 米家巨省电空调睡眠版 1.5 匹 KFR-35GW / S1A1 今年日常售价 1799 元。京东 618 大促期间，按下方步骤下单，叠加 15% 国补后仅需 1242.48 元：领 2000-200 元空调券：点此查看。满 800-80 元 PLUS 专享券（需 2 积分兑换）：点此查看。下方两款加入购物车，选择组合优惠购，一起付款结算即可：京东小米 米家巨省电空调睡眠款 1.5 匹 KFR-35GW / S1A1 凑单后 1242.48 元直达链接京东凑单品 下单后可立即退款加购物车 1 件直达链接京东无门槛红包至高 26618 元，支持即领即用：点此抽取。据介绍，这款空调的能效值为 APF 5.27，符合国家新一级能效标准。官方宣传在相同条件下，相比原一级能效壁挂空调，一年可省约 201 度电。该空调采用全直流变频压缩机，搭配电子膨胀阀，能平稳运行，寿命持久且减少耗电。另外，采用自研全新风道，保障送风顺畅，实现低噪运行。并内置光敏传感器，支持智能调节亮度。京东小米 米家巨省电空调睡眠款 1.5 匹 KFR-35GW / S1A1",
+      "short_summary": "【京东活动可能随时变更，需以实付款为准】小米 · 米家巨省电空调睡眠版 1.5 匹 KFR-35GW / S1A1 今年",
+      "detail": "【京东活动可能随时变更，需以实付款为准】小米 · 米家巨省电空调睡眠版 1.5 匹 KFR-35GW / S1A1 今年日常售价 1799 元。京东 618 大促期间，按下方步骤下单，叠加 15% 国补后仅需 1242.48 元：领 2000-200 元空调券：点此查看。满 800-80 元 PLUS 专享券（需 2 积分兑换）：点此查看。下方两款加入购物车，选择组合优惠购，一起付款结算即可：京东小米 米家巨省电空调睡眠款 1.5 匹 KFR-35GW / S1A1 凑单后 1242.48 元直达链接京东凑单品 下单后可立即退款加购物车 1 件直达链接京东无门槛红包至高 26618 元，支持即领即用：点此抽取。据介绍，这款空调的能效值为 APF 5.27，符合国家新一级能效标准。官方宣传在相同条件下，相比原一级能效壁挂空调，一年可省约 201 度电。该空调采用全直流变频压缩机，搭配电子膨胀阀，能平稳运行，寿命持久且减少耗电。另外，采用自研全新风道，保障送风顺畅，实现低噪运行。并内置光敏传感器，支持智能调节亮度。京东小米 米家巨省电空调睡眠款 1.5 匹 KFR-35GW / S1A1",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-06-01",
+      "score": 0.62
+    },
+    {
+      "title": "首批英伟达 RTX Spark 笔记本名单公布：联想 Yoga Pro 9n、华硕 ProArt P16/P14 等",
+      "url": "https://www.ithome.com/0/958/100.htm",
+      "summary": "IT之家 6 月 1 日消息，在今日的 2026 台北国际电脑展主题演讲中，英伟达 CEO 黄仁勋正式宣布推出 RTX Spark PC 处理器，首批搭载该处理器的笔记本将在今年秋季推出。IT之家从微软官方公告获悉，RTX Spark 的首批产品包括微软 Surface、华硕、戴尔、惠普、联想和微星的新品：Surface Laptop Ultra：专为全球创客和创意专业人士打造，搭载 15 英寸 mini-LED PixelSense Ultra 微软史上最亮触控屏，以及 Surface 史上最大尺寸触控板，还配有 HDMI、USB-C、USB-A、SD 卡槽和耳机接口。华硕 ProArt P16 和 ProArt P14：这两款笔记本电脑提供 16 英寸和 14 英寸两种尺寸选择，并有纳米黑和全新的霓虹白两种配色可选。它们配备华硕 Lumina Pro OLED 显示屏，并拥有全天候电池续航能力。戴尔 XPS 16 Creator Edition：专为创意工作打造，可流畅播放 4K 时间线内容，加快导出速度，并带来更无缝的 AI 工具体验；配备 True Black HDR 600",
+      "short_summary": "IT之家 6 月 1 日消息，在今日的 2026 台北国际电脑展主题演讲中，英伟达 CEO 黄仁勋正式宣布推出 RTX ",
+      "detail": "IT之家 6 月 1 日消息，在今日的 2026 台北国际电脑展主题演讲中，英伟达 CEO 黄仁勋正式宣布推出 RTX Spark PC 处理器，首批搭载该处理器的笔记本将在今年秋季推出。IT之家从微软官方公告获悉，RTX Spark 的首批产品包括微软 Surface、华硕、戴尔、惠普、联想和微星的新品：Surface Laptop Ultra：专为全球创客和创意专业人士打造，搭载 15 英寸 mini-LED PixelSense Ultra 微软史上最亮触控屏，以及 Surface 史上最大尺寸触控板，还配有 HDMI、USB-C、USB-A、SD 卡槽和耳机接口。华硕 ProArt P16 和 ProArt P14：这两款笔记本电脑提供 16 英寸和 14 英寸两种尺寸选择，并有纳米黑和全新的霓虹白两种配色可选。它们配备华硕 Lumina Pro OLED 显示屏，并拥有全天候电池续航能力。戴尔 XPS 16 Creator Edition：专为创意工作打造，可流畅播放 4K 时间线内容，加快导出速度，并带来更无缝的 AI 工具体验；配备 True Black HDR 600",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-06-01",
+      "score": 0.62
+    }
+  ],
+  "category3": [
     {
       "title": "英伟达发布 DLSS 4.5 光线重建技术：支持全部 RTX 显卡，8 月推出",
       "url": "https://www.ithome.com/0/958/108.htm",
@@ -115,6 +116,17 @@
       "score": 0.86
     },
     {
+      "title": "首台英伟达 RTX Spark 处理器笔记本：Surface Laptop Ultra 亮相，微软顶级配置",
+      "url": "https://www.ithome.com/0/958/097.htm",
+      "summary": "IT之家 6 月 1 日消息，在今日的 2026 台北国际电脑展主题演讲中，英伟达 CEO 黄仁勋正式宣布推出 RTX Spark PC 处理器。随后，微软官方宣布推出 Surface Laptop Ultra 笔记本，搭载英伟达 RTX Spark 处理器。据IT之家此前报道，英伟达 RTX Spark 由联发科合作的 20 核 Grace CPU + 英伟达 Blackwell RTX GPU 组成（6144 CUDA 核心），AI 性能达到 1petaFLOP。英伟达 RTX Spark 采用台积电 3nm 工艺打造，配备 128GB 统一内存。英伟达宣称将与微软一起开启 PC 新世代。微软表示，开发者从内到外精心设计了 Surface Laptop Ultra，内部架构和外部造型浑然一体。从研发一开始，机械、电气、散热、声学、材料、工业设计和软件工程师就齐聚一堂。Surface Laptop Ultra 提供 Platinum（铂金）和 Nightfall（深黑）两种外观颜色可选，搭载 15 英寸 mini-LED PixelSense Ultra 触控屏，峰值 HDR 亮度高",
+      "short_summary": "IT之家 6 月 1 日消息，在今日的 2026 台北国际电脑展主题演讲中，英伟达 CEO 黄仁勋正式宣布推出 RTX ",
+      "detail": "IT之家 6 月 1 日消息，在今日的 2026 台北国际电脑展主题演讲中，英伟达 CEO 黄仁勋正式宣布推出 RTX Spark PC 处理器。随后，微软官方宣布推出 Surface Laptop Ultra 笔记本，搭载英伟达 RTX Spark 处理器。据IT之家此前报道，英伟达 RTX Spark 由联发科合作的 20 核 Grace CPU + 英伟达 Blackwell RTX GPU 组成（6144 CUDA 核心），AI 性能达到 1petaFLOP。英伟达 RTX Spark 采用台积电 3nm 工艺打造，配备 128GB 统一内存。英伟达宣称将与微软一起开启 PC 新世代。微软表示，开发者从内到外精心设计了 Surface Laptop Ultra，内部架构和外部造型浑然一体。从研发一开始，机械、电气、散热、声学、材料、工业设计和软件工程师就齐聚一堂。Surface Laptop Ultra 提供 Platinum（铂金）和 Nightfall（深黑）两种外观颜色可选，搭载 15 英寸 mini-LED PixelSense Ultra 触控屏，峰值 HDR 亮度高",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-06-01",
+      "score": 0.86
+    },
+    {
       "title": "英伟达计划将其芯片用于个人电脑",
       "url": "https://www.nytimes.com/2026/06/01/technology/nvidia-chips-personal-computers.html",
       "summary": "这家世界上最有价值的公司正在追赶英特尔和苹果，因为它试图将人工智能引入人工智能领域。笔记本电脑和台式机代理。",
@@ -124,28 +136,6 @@
       "source_authority": 0.9,
       "date": "2026-06-01",
       "score": 0.7775
-    },
-    {
-      "title": "英伟达新一代平台Vera Rubin已全面投产",
-      "url": "https://36kr.com/newsflashes/3834124762589061?f=rss",
-      "summary": "据报道，英伟达CEO黄仁勋6月1日宣布，英伟达新一代平台Vera Rubin已全面投产。Vera Rubin采用美光、SK海力士和三星的HBM（高带宽内存），提供机柜级（POD）一体化AI工厂底座。英伟达为Rubin搭建的供应链是上一代Blackwell的“两倍大”，以往需要花两个小时组装一个巨大的Blackwell机架，现在（Vera Rubin）只需要5分钟。此外，英伟达CEO黄仁勋发布新AI模型Nemotron 3 Ultra。",
-      "short_summary": "据报道，英伟达CEO黄仁勋6月1日宣布，英伟达新一代平台Vera Rubin已全面投产。Vera Rubin采用美光、S",
-      "detail": "据报道，英伟达CEO黄仁勋6月1日宣布，英伟达新一代平台Vera Rubin已全面投产。Vera Rubin采用美光、SK海力士和三星的HBM（高带宽内存），提供机柜级（POD）一体化AI工厂底座。英伟达为Rubin搭建的供应链是上一代Blackwell的“两倍大”，以往需要花两个小时组装一个巨大的Blackwell机架，现在（Vera Rubin）只需要5分钟。此外，英伟达CEO黄仁勋发布新AI模型Nemotron 3 Ultra。",
-      "source": "36Kr",
-      "source_authority": 0.85,
-      "date": "2026-06-01",
-      "score": 0.73
-    },
-    {
-      "title": "英伟达将NVIDIA DRIVE Hyperion定位为支持自动驾驶出租车出行服务的全球性平台",
-      "url": "https://36kr.com/newsflashes/3834143035205509?f=rss",
-      "summary": "英伟达将NVIDIA DRIVE Hyperion定位为支持自动驾驶出租车出行服务的全球性平台。（财联社）",
-      "short_summary": "英伟达将NVIDIA DRIVE Hyperion定位为支持自动驾驶出租车出行服务的全球性平台。（财联社）",
-      "detail": "英伟达将NVIDIA DRIVE Hyperion定位为支持自动驾驶出租车出行服务的全球性平台。（财联社）",
-      "source": "36Kr",
-      "source_authority": 0.85,
-      "date": "2026-06-01",
-      "score": 0.65
     }
   ],
   "category4": [
@@ -161,26 +151,37 @@
       "score": 0.9475
     },
     {
-      "title": "英伟达 Isaac GR00T 人形机器人发布：基于宇树 H2 打造，年底推出",
-      "url": "https://www.ithome.com/0/958/094.htm",
-      "summary": "IT之家 6 月 1 日消息，英伟达今日宣布推出 NVIDIA Isaac GR00T 人形机器人参考设计，这是首款基于 NVIDIA Jetson Thor 和 NVIDIA Isaac GR00T 开放开发平台构建的开放式人形机器人参考设计。NVIDIA Isaac GR00T 人形机器人将宇树 H2 Plus 人形机器人和 Sharpa Wave 触觉五指灵巧手与 NVIDIA Jetson Thor 驱动的板载计算以及 Isaac GR00T 软件和工作流程（“大脑”）整合到一个单一的集成参考设计中，从而统一了开发过程，帮助研究团队更快地从机器人启动过渡到技能开发和现实世界验证。宇树 H2 人形机器人底座，身高近 6 英尺（IT之家注：约 1.8 米），重 150 磅（约 68 千克），全身有 31 个自由度。双 Sharpa Wave 触觉五指手，可实现 22 个自由度的灵巧操作，使机器人在身体和手部达到 75 个自由度。多视角传感，包括一个头部立体摄像头（水平 140 度，垂直 102 度），用于近距离操作的腕部摄像头，以及一个用于运动跟踪的惯性测量单元。全身控制，手臂扭矩",
-      "short_summary": "IT之家 6 月 1 日消息，英伟达今日宣布推出 NVIDIA Isaac GR00T 人形机器人参考设计，这是首款基于",
-      "detail": "IT之家 6 月 1 日消息，英伟达今日宣布推出 NVIDIA Isaac GR00T 人形机器人参考设计，这是首款基于 NVIDIA Jetson Thor 和 NVIDIA Isaac GR00T 开放开发平台构建的开放式人形机器人参考设计。NVIDIA Isaac GR00T 人形机器人将宇树 H2 Plus 人形机器人和 Sharpa Wave 触觉五指灵巧手与 NVIDIA Jetson Thor 驱动的板载计算以及 Isaac GR00T 软件和工作流程（“大脑”）整合到一个单一的集成参考设计中，从而统一了开发过程，帮助研究团队更快地从机器人启动过渡到技能开发和现实世界验证。宇树 H2 人形机器人底座，身高近 6 英尺（IT之家注：约 1.8 米），重 150 磅（约 68 千克），全身有 31 个自由度。双 Sharpa Wave 触觉五指手，可实现 22 个自由度的灵巧操作，使机器人在身体和手部达到 75 个自由度。多视角传感，包括一个头部立体摄像头（水平 140 度，垂直 102 度），用于近距离操作的腕部摄像头，以及一个用于运动跟踪的惯性测量单元。全身控制，手臂扭矩",
+      "title": "OpenAI 发招聘宣布进军机器人赛道，短期内专注研发协助型机器人",
+      "url": "https://www.ithome.com/0/958/172.htm",
+      "summary": "IT之家 6 月 1 日消息，OpenAI CEO 萨姆 · 奥尔特曼（Sam Altman）今日在 X 平台发布 OpenAI Robotics 招聘信息，称公司正在招聘优秀的全栈硬件、运营、系统及机器学习工程师，研发和制造出对人类社会有用的机器人。IT之家获悉，奥尔特曼表示，人工智能应当能够在现实世界中帮助人类。短期内，OpenAI 专注于利用机器人来协助技术娴熟的工人建设未来的基础设施；从长远来看，OpenAI 希望每个人都能拥有属于自己的机器人，从而满足自己的各种需求。奥尔特曼透露，OpenAI 的世界模拟研究项目在过去一年中发展迅速，现发展为 OpenAI Robotics。项目由阿迪亚 · 拉梅什（Aditya Ramesh）领导，目前的进展十分迅猛，其根基在于机器人硬件研究与机器学习研究的深度融合与协同设计。",
+      "short_summary": "IT之家 6 月 1 日消息，OpenAI CEO 萨姆 · 奥尔特曼（Sam Altman）今日在 X 平台发布 Op",
+      "detail": "IT之家 6 月 1 日消息，OpenAI CEO 萨姆 · 奥尔特曼（Sam Altman）今日在 X 平台发布 OpenAI Robotics 招聘信息，称公司正在招聘优秀的全栈硬件、运营、系统及机器学习工程师，研发和制造出对人类社会有用的机器人。IT之家获悉，奥尔特曼表示，人工智能应当能够在现实世界中帮助人类。短期内，OpenAI 专注于利用机器人来协助技术娴熟的工人建设未来的基础设施；从长远来看，OpenAI 希望每个人都能拥有属于自己的机器人，从而满足自己的各种需求。奥尔特曼透露，OpenAI 的世界模拟研究项目在过去一年中发展迅速，现发展为 OpenAI Robotics。项目由阿迪亚 · 拉梅什（Aditya Ramesh）领导，目前的进展十分迅猛，其根基在于机器人硬件研究与机器学习研究的深度融合与协同设计。",
       "source": "ITHome",
       "source_authority": 0.75,
       "date": "2026-06-01",
       "score": 0.8975
     },
     {
-      "title": "小鹏集团：5 月交付新车 32158 辆，环比增长 4%",
-      "url": "https://www.ithome.com/0/958/085.htm",
-      "summary": "IT之家 6 月 1 日消息，小鹏集团发布公告，2026 年 5 月，小鹏集团共交付新车 32158 辆，较上月增长 4%。IT之家注意到，5 月 20 日小鹏 GX 正式上市并开启交付。新车提供纯电和超级增程两种动力，共 8 款车型。上市 12 小时大定达 24,863 辆，Ultra 旗舰版订单占比超过八成。5 月，国内首款整车厂全栈自研前装量产 L4 级 Robotaxi 在广州正式量产下线。以小鹏 GX 为原型车打造，搭载 4 颗自研图灵 AI 芯片，本地有效算力 3000TOPS，为全球最高。系统响应延迟低于 80 毫秒，不依赖高精地图与激光雷达，具备跨城市部署的泛化能力。目前已在广州进行小范围公开道路 L4 测试，计划三季度在广州启动示范运营。同月，XOS 6.2.0 开启陆续推送，覆盖搭载小鹏图灵芯片的 Ultra、Ultra SE、Max 及 MONA Plus 车型。Ultra、Ultra SE 车型将收到第二代 VLA 的第二个版本；无导航漫游能力由公开道路延伸至园区、地库，小鹏 NGP 实现更广场景的连续可用。5 月 28 日，小鹏集团发布 2026 年一季度财报",
-      "short_summary": "IT之家 6 月 1 日消息，小鹏集团发布公告，2026 年 5 月，小鹏集团共交付新车 32158 辆，较上月增长 4",
-      "detail": "IT之家 6 月 1 日消息，小鹏集团发布公告，2026 年 5 月，小鹏集团共交付新车 32158 辆，较上月增长 4%。IT之家注意到，5 月 20 日小鹏 GX 正式上市并开启交付。新车提供纯电和超级增程两种动力，共 8 款车型。上市 12 小时大定达 24,863 辆，Ultra 旗舰版订单占比超过八成。5 月，国内首款整车厂全栈自研前装量产 L4 级 Robotaxi 在广州正式量产下线。以小鹏 GX 为原型车打造，搭载 4 颗自研图灵 AI 芯片，本地有效算力 3000TOPS，为全球最高。系统响应延迟低于 80 毫秒，不依赖高精地图与激光雷达，具备跨城市部署的泛化能力。目前已在广州进行小范围公开道路 L4 测试，计划三季度在广州启动示范运营。同月，XOS 6.2.0 开启陆续推送，覆盖搭载小鹏图灵芯片的 Ultra、Ultra SE、Max 及 MONA Plus 车型。Ultra、Ultra SE 车型将收到第二代 VLA 的第二个版本；无导航漫游能力由公开道路延伸至园区、地库，小鹏 NGP 实现更广场景的连续可用。5 月 28 日，小鹏集团发布 2026 年一季度财报",
-      "source": "ITHome",
-      "source_authority": 0.75,
+      "title": "蚂蚁集团旗下公司等入股光轮智能",
+      "url": "https://36kr.com/newsflashes/3834266511861632?f=rss",
+      "summary": "36氪获悉，天眼查App显示，近日，光轮智能（北京）科技有限公司发生工商变更，新增蚂蚁集团旗下上海云玚企业管理咨询有限公司、建投投资有限责任公司等为股东，同时，注册资本由约250.8万人民币增至约268万人民币。 该公司成立于2023年1月，法定代表人为杨海波，经营范围包括人工智能基础软件开发、人工智能应用软件开发、计算机系统服务等，现由谢晨、杨海波及上述新增股东等共同持股。公开资料显示，该公司专注于为自动驾驶、具身智能等领域提供物理精确可控的合成数据解决方案。",
+      "short_summary": "36氪获悉，天眼查App显示，近日，光轮智能（北京）科技有限公司发生工商变更，新增蚂蚁集团旗下上海云玚企业管理咨询有限公",
+      "detail": "36氪获悉，天眼查App显示，近日，光轮智能（北京）科技有限公司发生工商变更，新增蚂蚁集团旗下上海云玚企业管理咨询有限公司、建投投资有限责任公司等为股东，同时，注册资本由约250.8万人民币增至约268万人民币。 该公司成立于2023年1月，法定代表人为杨海波，经营范围包括人工智能基础软件开发、人工智能应用软件开发、计算机系统服务等，现由谢晨、杨海波及上述新增股东等共同持股。公开资料显示，该公司专注于为自动驾驶、具身智能等领域提供物理精确可控的合成数据解决方案。",
+      "source": "36Kr",
+      "source_authority": 0.85,
       "date": "2026-06-01",
-      "score": 0.8675
+      "score": 0.85
+    },
+    {
+      "title": "Sharpa将触觉灵巧操作能力带⼊NVIDIA Isaac GR00T参考⼈形机器人",
+      "url": "https://36kr.com/newsflashes/3834282417546885?f=rss",
+      "summary": "36氪获悉，新加坡AI机器人公司Sharpa宣布，携手NVIDIA推出首个搭载Sharpa Wave灵巧手的NVIDIA Isaac GR00T参考人形机器人。该参考人形机器人以Isaac GR00T开发平台为底座，将Sharpa的触觉灵巧操作能⼒、Unitree的人形机器人本体、NVIDIA端侧算⼒与Isaac GR00T开发流程，整合到同⼀套已验证配置中。",
+      "short_summary": "36氪获悉，新加坡AI机器人公司Sharpa宣布，携手NVIDIA推出首个搭载Sharpa Wave灵巧手的NVIDIA",
+      "detail": "36氪获悉，新加坡AI机器人公司Sharpa宣布，携手NVIDIA推出首个搭载Sharpa Wave灵巧手的NVIDIA Isaac GR00T参考人形机器人。该参考人形机器人以Isaac GR00T开发平台为底座，将Sharpa的触觉灵巧操作能⼒、Unitree的人形机器人本体、NVIDIA端侧算⼒与Isaac GR00T开发流程，整合到同⼀套已验证配置中。",
+      "source": "36Kr",
+      "source_authority": 0.85,
+      "date": "2026-06-01",
+      "score": 0.83
     },
     {
       "title": "为什么机械臂现在与数控机床集成",
@@ -203,17 +204,6 @@
       "source_authority": 0.9,
       "date": "2026-05-31",
       "score": 0.74
-    },
-    {
-      "title": "浙江：拟实施“星火计划”培育未来产业行动，加速量子技术产品规模化应用",
-      "url": "https://36kr.com/newsflashes/3834176636626560?f=rss",
-      "summary": "36氪获悉，《浙江省实施“星火计划”培育壮大未来产业行动方案（2026—2030年）（征求意见稿）》公开征求意见，提到重点发展具身智能、生物制造、量子科技、脑机接口、氢能和绿色燃料、6G、前沿新材料、细胞与基因治疗、深海科技、空天科技等10个基础条件好、爆发力强的领域。其中，重点发展量子计算核心赛道，做强量子测量优势赛道，做优量子通信潜力赛道，推动量子芯片、核心器件、软件算法与场景应用协同发展，加速量子技术产品规模化应用，抢占量子科技产业发展机遇，打造全国知名的量子产业创新发展高地。",
-      "short_summary": "36氪获悉，《浙江省实施“星火计划”培育壮大未来产业行动方案（2026—2030年）（征求意见稿）》公开征求意见，提到重",
-      "detail": "36氪获悉，《浙江省实施“星火计划”培育壮大未来产业行动方案（2026—2030年）（征求意见稿）》公开征求意见，提到重点发展具身智能、生物制造、量子科技、脑机接口、氢能和绿色燃料、6G、前沿新材料、细胞与基因治疗、深海科技、空天科技等10个基础条件好、爆发力强的领域。其中，重点发展量子计算核心赛道，做强量子测量优势赛道，做优量子通信潜力赛道，推动量子芯片、核心器件、软件算法与场景应用协同发展，加速量子技术产品规模化应用，抢占量子科技产业发展机遇，打造全国知名的量子产业创新发展高地。",
-      "source": "36Kr",
-      "source_authority": 0.85,
-      "date": "2026-06-01",
-      "score": 0.7
     },
     {
       "title": "机器人原生世界动作模型问世！首创时空一体架构，复旦系团队出品",
