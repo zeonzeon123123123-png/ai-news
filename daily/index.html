@@ -17,32 +17,16 @@ a{color:#00d2ff;text-decoration:none}a:hover{text-decoration:underline}
 <body>
 <h1>历史日报</h1>
 <a class="back" href="../">返回首页</a>
-<div id="list"></div>
-<script>
-fetch('https://api.github.com/repos/zeonzeon123123123-png/ai-news/contents/daily')
-.then(r=>r.json())
-.then(files=>{
-  var dateMap={};
-  files.forEach(function(f){
-    var m=f.name.match(/^(\d{4}-\d{2}-\d{2})\.(html|md|json)$/);
-    if(m){
-      var d=m[1],ext=m[2];
-      if(d&&ext!=='json'){
-        if(!dateMap[d]) dateMap[d]={html:null,md:null};
-        if(ext==='html') dateMap[d].html=true;
-        if(ext==='md') dateMap[d].md=true;
-      }
-    }
-  });
-  var base='https://zeonzeon123123123-png.github.io/ai-news/daily/';
-  var dates=Object.keys(dateMap).sort().reverse();
-  document.getElementById('list').innerHTML=dates.map(function(d){
-    var links=dateMap[d];
-    var htmlLink=links.html?'<a href="'+base+d+'.html">HTML版</a>':'';
-    var mdLink=links.md?'<a href="'+base+d+'.md">Markdown版</a>':'';
-    return '<div class="item"><span class="date-label">'+d+'</span><div class="links">'+htmlLink+mdLink+'</div></div>';
-  }).join('');
-});
-</script>
+<div class="item"><span class="date-label">2026-06-01</span><div class="links"><a href="https://zeonzeon123123123-png.github.io/ai-news/daily/2026-06-01.html">HTML版</a><a href="https://zeonzeon123123123-png.github.io/ai-news/daily/2026-06-01.md">Markdown版</a></div></div>
+<div class="item"><span class="date-label">2026-05-31</span><div class="links"><a href="https://zeonzeon123123123-png.github.io/ai-news/daily/2026-05-31.html">HTML版</a><a href="https://zeonzeon123123123-png.github.io/ai-news/daily/2026-05-31.md">Markdown版</a></div></div>
+<div class="item"><span class="date-label">2026-05-30</span><div class="links"><a href="https://zeonzeon123123123-png.github.io/ai-news/daily/2026-05-30.html">HTML版</a><a href="https://zeonzeon123123123-png.github.io/ai-news/daily/2026-05-30.md">Markdown版</a></div></div>
+<div class="item"><span class="date-label">2026-05-29</span><div class="links"><a href="https://zeonzeon123123123-png.github.io/ai-news/daily/2026-05-29.html">HTML版</a><a href="https://zeonzeon123123123-png.github.io/ai-news/daily/2026-05-29.md">Markdown版</a></div></div>
+<div class="item"><span class="date-label">2026-05-28</span><div class="links"><a href="https://zeonzeon123123123-png.github.io/ai-news/daily/2026-05-28.html">HTML版</a><a href="https://zeonzeon123123123-png.github.io/ai-news/daily/2026-05-28.md">Markdown版</a></div></div>
+<div class="item"><span class="date-label">2026-05-27</span><div class="links"><a href="https://zeonzeon123123123-png.github.io/ai-news/daily/2026-05-27.html">HTML版</a><a href="https://zeonzeon123123123-png.github.io/ai-news/daily/2026-05-27.md">Markdown版</a></div></div>
+<div class="item"><span class="date-label">2026-05-26</span><div class="links"><a href="https://zeonzeon123123123-png.github.io/ai-news/daily/2026-05-26.html">HTML版</a><a href="https://zeonzeon123123123-png.github.io/ai-news/daily/2026-05-26.md">Markdown版</a></div></div>
+<div class="item"><span class="date-label">2026-05-25</span><div class="links"><a href="https://zeonzeon123123123-png.github.io/ai-news/daily/2026-05-25.html">HTML版</a><a href="https://zeonzeon123123123-png.github.io/ai-news/daily/2026-05-25.md">Markdown版</a></div></div>
+<div class="item"><span class="date-label">2026-05-24</span><div class="links"><a href="https://zeonzeon123123123-png.github.io/ai-news/daily/2026-05-24.html">HTML版</a><a href="https://zeonzeon123123123-png.github.io/ai-news/daily/2026-05-24.md">Markdown版</a></div></div>
+<div class="item"><span class="date-label">2026-05-23</span><div class="links"><a href="https://zeonzeon123123123-png.github.io/ai-news/daily/2026-05-23.html">HTML版</a><a href="https://zeonzeon123123123-png.github.io/ai-news/daily/2026-05-23.md">Markdown版</a></div></div>
+
 </body>
 </html>
