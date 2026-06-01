@@ -88,13 +88,18 @@ CATEGORY_KEYWORDS = {
     "2": {
         "core": ["copilot", "chatbot", "ai agent", "ai assistant", "ai-powered app",
                  "ai product launch", "midjourney", "sora", "ai coding", "ai tool launch",
-                 "elevenlabs", "ai avatar", "ai clone",
-                 "AI应用", "AI产品", "智能助手", "AI编程", "AI写作", "AI绘画"],
+                 "elevenlabs", "ai avatar", "ai clone", "chatgpt", "perplexity",
+                 "ai search", "conversational ai", "ai companion", "ai copilot",
+                 "AI应用", "AI产品", "智能助手", "AI编程", "AI写作", "AI绘画",
+                 "AI助手", "AI搜索", "对话式AI", "智能客服", "数字人", "AI客服"],
         "secondary": ["ai app", "ai product", "ai platform", "ai tool", "ai-powered",
                       "ai feature", "ai integration", "generative ai app", "ai writing",
                       "ai art", "ai music", "ai video", "ai therapy", "ai audiobook",
                       "podcast ai", "spotify ai", "cursor", "notion ai",
-                      "智能办公", "AI办公", "AI工具"],
+                      "ai update", "ai release", "ai launch", "ai subscription",
+                      "pro", "plus", "premium",
+                      "智能办公", "AI办公", "AI工具",
+                      "新功能", "AI更新", "AI发布", "AI升级", "AI订阅"],
     },
     "3": {
         "core": ["gpu", "nvidia gpu", "ai chip", "tpu", "ai accelerator", "h100", "h200", "b200",
@@ -427,9 +432,16 @@ def fetch_rss(url, source_name, authority, max_age_hours=24):
 MAX_PER_CATEGORY = int(os.environ.get("MAX_NEWS_PER_CATEGORY", "10"))
 MIN_PER_CATEGORY = 3
 
-SCORE_THRESHOLDS = {"1": 0.7, "2": 0.7, "3": 0.6, "4": 0.6}
+SCORE_THRESHOLDS = {"1": 0.7, "2": 0.6, "3": 0.6, "4": 0.6}
 
 CATEGORY_FALLBACK_SOURCES = {
+    "1": [
+        {"url": "https://hnrss.org/newest?q=LLM+OR+AI+model&count=15", "source": "Hacker News", "authority": 0.8},
+    ],
+    "2": [
+        {"url": "https://hnrss.org/newest?q=AI+app+OR+AI+tool+OR+chatbot+OR+copilot&count=15", "source": "Hacker News", "authority": 0.8},
+        {"url": "https://www.qbitai.com/feed", "source": "量子位", "authority": 0.85},
+    ],
     "3": [
         {"url": "https://spectrum.ieee.org/semiconductors/rss", "source": "IEEE Spectrum Semi", "authority": 0.85},
         {"url": "https://semiengineering.com/feed/", "source": "SemiEngineering", "authority": 0.85},
@@ -452,6 +464,25 @@ def fetch_rss_with_retry(url, source_name, authority, max_age_hours=24, max_retr
             print(f"  Retrying {url} (attempt {attempt+2})...")
             time.sleep(3)
     return []
+
+
+def load_historical_urls(days=7):
+    urls = set()
+    now = datetime.now(BJ_TZ)
+    for i in range(1, days + 1):
+        d = (now - timedelta(days=i)).strftime("%Y-%m-%d")
+        path = f"daily/{d}.json"
+        if os.path.exists(path):
+            try:
+                with open(path, "r", encoding="utf-8") as f:
+                    data = json.load(f)
+                for cat_key in ["category1", "category2", "category3", "category4"]:
+                    for item in data.get(cat_key, []):
+                        if item.get("url"):
+                            urls.add(item["url"])
+            except Exception:
+                pass
+    return urls
 
 
 def cross_category_dedup(result):
@@ -490,6 +521,10 @@ def classify_and_score(items, threshold_override=None):
 
 def main():
     print(f"Fetching RSS feeds... (max {MAX_PER_CATEGORY} per category)")
+
+    historical_urls = load_historical_urls(7)
+    print(f"Historical URLs from past 7 days: {len(historical_urls)}")
+
     all_items = []
     for src in RSS_SOURCES:
         items = fetch_rss_with_retry(src["url"], src["source"], src.get("authority", 0.7))
@@ -498,14 +533,14 @@ def main():
 
     print(f"\nTotal raw items: {len(all_items)}")
 
-    seen_urls = set()
+    seen_urls = set(historical_urls)
     unique_items = []
     for item in all_items:
         if item["url"] not in seen_urls:
             seen_urls.add(item["url"])
             unique_items.append(item)
 
-    print(f"After URL dedup: {len(unique_items)}")
+    print(f"After URL dedup (incl. historical): {len(unique_items)}")
 
     classified = classify_and_score(unique_items)
 
@@ -515,7 +550,7 @@ def main():
     thin_cats = [cat for cat in classified if len(classified[cat]) < MIN_PER_CATEGORY]
     if thin_cats:
         print(f"\nCategories {thin_cats} have fewer than {MIN_PER_CATEGORY} items, fetching with extended time window...")
-        for max_age in [48, 72]:
+        for max_age in [48]:
             for cat in thin_cats:
                 if len(classified[cat]) >= MIN_PER_CATEGORY:
                     continue
@@ -534,7 +569,7 @@ def main():
                                 score = compute_final_score(item, cat)
                                 item["_cat"] = cat
                                 item["_score"] = score
-                                threshold = SCORE_THRESHOLDS.get(cat, 0.6)
+                                threshold = SCORE_THRESHOLDS.get(cat, 0.5)
                                 if score >= threshold:
                                     classified[cat].append(item)
                     classified[cat].sort(key=lambda x: x.get("_score", 0), reverse=True)
@@ -542,6 +577,34 @@ def main():
                     print(f"  Category {cat}: now {len(classified[cat])} items after {max_age}h window")
                 if len(classified[cat]) >= MIN_PER_CATEGORY:
                     break
+
+    empty_cats = [cat for cat in classified if len(classified[cat]) == 0]
+    if empty_cats:
+        print(f"\nCategories {empty_cats} are still empty, trying lower threshold and cross-category fallback...")
+        for cat in empty_cats:
+            low_threshold_items = []
+            for item in unique_items:
+                if item["url"] in historical_urls:
+                    continue
+                if item.get("_cat") and item["_cat"] != cat:
+                    cat_score_map = {}
+                    text = (item["title"] + " " + item.get("detail", item.get("summary", ""))).lower()
+                    for c, kw_groups in CATEGORY_KEYWORDS.items():
+                        core_hits = sum(2 for kw in kw_groups["core"] if kw.lower() in text)
+                        secondary_hits = sum(1 for kw in kw_groups["secondary"] if kw.lower() in text)
+                        cat_score_map[c] = core_hits + secondary_hits
+                    if cat_score_map.get(cat, 0) > 0:
+                        score = compute_final_score(item, cat)
+                        if score >= 0.5:
+                            item["_cat"] = cat
+                            item["_score"] = score
+                            low_threshold_items.append(item)
+            if low_threshold_items:
+                low_threshold_items.sort(key=lambda x: x.get("_score", 0), reverse=True)
+                classified[cat] = low_threshold_items
+                print(f"  Category {cat}: rescued {len(low_threshold_items)} items from cross-category (threshold=0.5)")
+            else:
+                print(f"  WARNING: Category {cat} has NO items even after all fallbacks!")
 
     print("\nTranslating...")
     result = {"date": now_bj().strftime("%Y-%m-%d")}
