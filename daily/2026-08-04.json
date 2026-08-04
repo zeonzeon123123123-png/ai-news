@@ -12,39 +12,29 @@
       "score": 0.97
     },
     {
-      "title": "中美 AI 大模型竞争加剧：OpenAI 等海外巨头大幅降价对标 Kimi、DeepSeek",
-      "url": "https://www.ithome.com/0/985/312.htm",
-      "summary": "IT之家 8 月 4 日消息，人工智能行业已经进入一个新的发展阶段。为了应对来自中国新一代模型（例如月之暗面的 Kimi K3 和 DeepSeek 的 V4 Flash）的竞争，全球主要 AI 企业正在大幅降低产品价格，同时提升入门级模型的能力。最近采取这一策略的是 OpenAI。该公司将基础前沿模型 ChatGPT 5.6 Luna 的价格降低了 80%（按每百万 Token 计算），同时将中端模型 5.6 Terra 的价格下调了 20%。而就在一周多前，谷歌刚刚推出了价格更低的 Gemini 3.6 Flash 和 3.5 Flash-Lite 模型。Anthropic 虽然没有直接降价，但将旗下价格最低的 Opus 4.8 模型替换为了能力更强的 Claude 5.0，并维持相同价格。全球竞争加剧正在推动 AI 能力变得更加廉价，但这也可能以牺牲这些大型公司的利润率为代价。此前数月，多家大型 AI 企业已经宣布削减成本，并限制 AI 技术的使用范围，甚至包括埃隆 · 马斯克旗下的 xAI 等曾大力推动 AI 发展的公司。尽管越来越多员工开始使用 AI，但目前报告显示，实际生产",
-      "detail": "IT之家 8 月 4 日消息，人工智能行业已经进入一个新的发展阶段。为了应对来自中国新一代模型（例如月之暗面的 Kimi K3 和 DeepSeek 的 V4 Flash）的竞争，全球主要 AI 企业正在大幅降低产品价格，同时提升入门级模型的能力。最近采取这一策略的是 OpenAI。该公司将基础前沿模型 ChatGPT 5.6 Luna 的价格降低了 80%（按每百万 Token 计算），同时将中端模型 5.6 Terra 的价格下调了 20%。而就在一周多前，谷歌刚刚推出了价格更低的 Gemini 3.6 Flash 和 3.5 Flash-Lite 模型。Anthropic 虽然没有直接降价，但将旗下价格最低的 Opus 4.8 模型替换为了能力更强的 Claude 5.0，并维持相同价格。全球竞争加剧正在推动 AI 能力变得更加廉价，但这也可能以牺牲这些大型公司的利润率为代价。此前数月，多家大型 AI 企业已经宣布削减成本，并限制 AI 技术的使用范围，甚至包括埃隆 · 马斯克旗下的 xAI 等曾大力推动 AI 发展的公司。尽管越来越多员工开始使用 AI，但目前报告显示，实际生产",
+      "title": "美国政府完成先进 AI 模型自愿性评估框架制定，内容未公开",
+      "url": "https://www.ithome.com/0/985/380.htm",
+      "summary": "IT之家 8 月 4 日消息，据 Axios 报道，美国政府当地时间周一表示，已经按期完成了一项针对先进 AI 模型评估的自愿性框架制定工作。但白宫并未透露该框架具体包含哪些内容、哪些机构或企业已经查看过，以及企业何时会开始采用这一框架。IT之家注意到，政策制定者、AI 安全倡导者以及美国盟友都在等待了解，全球最强大 AI 模型将受到怎样的监管规则约束。白宫方面表示：“6 月 2 日行政命令中提出的自愿性框架已经在截止日期前完成。”一名白宫官员表示：“目前正在与行业讨论下一步计划。”他补充称，政府正在与“远不止 Anthropic、OpenAI 和谷歌”的更多行业合作伙伴展开接触。在截止日期到来之前，这三家 AI 实验室已经就该框架草案向政府提供了反馈意见。该框架旨在为 AI 开发商提供一套结构化流程，帮助它们与政府合作，判断正在研发中的模型是否属于监管范围。据悉，该框架应明确规定，当政府在模型发布前最多提前 30 天获取相关模型时，需要遵守的保密要求、网络安全要求、内部风险管理要求、知识产权保护要求以及禁止披露规定。此外，框架还应该明确哪些“可信合作伙伴”能够提前获得模型访问权限。美",
+      "detail": "IT之家 8 月 4 日消息，据 Axios 报道，美国政府当地时间周一表示，已经按期完成了一项针对先进 AI 模型评估的自愿性框架制定工作。但白宫并未透露该框架具体包含哪些内容、哪些机构或企业已经查看过，以及企业何时会开始采用这一框架。IT之家注意到，政策制定者、AI 安全倡导者以及美国盟友都在等待了解，全球最强大 AI 模型将受到怎样的监管规则约束。白宫方面表示：“6 月 2 日行政命令中提出的自愿性框架已经在截止日期前完成。”一名白宫官员表示：“目前正在与行业讨论下一步计划。”他补充称，政府正在与“远不止 Anthropic、OpenAI 和谷歌”的更多行业合作伙伴展开接触。在截止日期到来之前，这三家 AI 实验室已经就该框架草案向政府提供了反馈意见。该框架旨在为 AI 开发商提供一套结构化流程，帮助它们与政府合作，判断正在研发中的模型是否属于监管范围。据悉，该框架应明确规定，当政府在模型发布前最多提前 30 天获取相关模型时，需要遵守的保密要求、网络安全要求、内部风险管理要求、知识产权保护要求以及禁止披露规定。此外，框架还应该明确哪些“可信合作伙伴”能够提前获得模型访问权限。美",
       "source": "ITHome",
       "source_authority": 0.75,
       "date": "2026-08-04",
-      "score": 0.9375
+      "score": 0.96
     },
     {
-      "title": "China&#8217;s Alibaba takes another swipe at America’s AI supremacy",
+      "title": "中国阿里巴巴再次冲击美国人工智能霸主地位",
       "url": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
-      "summary": "中国科技巨头阿里巴巴发布了据称是其最大且“迄今为止最强大的人工智能模型”，声称其性能可与美国前沿实验室Anthropic和OpenAI的最佳系统以及Moonshot AI的Kimi K3等国内竞争对手的最佳系统相媲美。阿里巴巴表示，它正在将模型 Qwen3.8-Max 广泛提供给 [...]",
-      "detail": "中国科技巨头阿里巴巴发布了据称是其最大且“迄今为止最强大的人工智能模型”，声称其性能可与美国前沿实验室Anthropic和OpenAI的最佳系统以及Moonshot AI的Kimi K3等国内竞争对手的最佳系统相媲美。阿里巴巴表示，它正在将模型 Qwen3.8-Max 广泛提供给 [...]",
+      "summary": "中国科技巨头阿里巴巴发布了据称是其最大且“迄今为止最强大的人工智能模型”，声称其性能可与美国前沿实验室Anthropic和OpenAI的最佳系统以及Moonshot AI的Kimi K3等国内竞争对手的最佳系统相媲美。阿里巴巴表示，它正在将模型 Qwen3.8-Max 广泛提供给 […]",
+      "detail": "中国科技巨头阿里巴巴发布了据称是其最大且“迄今为止最强大的人工智能模型”，声称其性能可与美国前沿实验室Anthropic和OpenAI的最佳系统以及Moonshot AI的Kimi K3等国内竞争对手的最佳系统相媲美。阿里巴巴表示，它正在将模型 Qwen3.8-Max 广泛提供给 […]",
       "source": "The Verge",
       "source_authority": 0.9,
       "date": "2026-08-03",
       "score": 0.9075
     },
     {
-      "title": "全球第一！OpenRouter 称上周 DeepSeek-V4-Flash 调用超 7.22 万亿 Token 登顶",
-      "url": "https://www.ithome.com/0/985/307.htm",
-      "summary": "IT之家 8 月 4 日消息，根据全球最大 AI 聚合平台 OpenRouter 的周度统计中，DeepSeek-V4-Flash 以 7.22 万亿 Token 的调用量位居全球第一。IT之家查询公开资料，OpenRouter 是全球最大的 AI 大模型 API 聚合平台，聚合了超过 400 款来自全球的顶尖和开源大模型，平台拥有约 800 万注册用户，每月处理的 Token 数量约为 100 万亿个。根据 OpenRouter 公布最新周报，在最近一周（7 月 27 日至 8 月 2 日）榜单上，DeepSeek V4 Flash 以 7.22 万亿 Token 的周调用量位居第一。开源项目团队 OpenCode 发文称，其平台上 DeepSeek V4 Flash 的调用量大幅飙升，单日处理达 8T（万亿）Token。其中 5T 为免费试用额度消耗，3T 为开发者通过 OpenCode 平台付费使用。此外 @互联网三爷 昨日（8 月 3 日）发布博文，报道称 OpenRouter 上前五全是中国 AI ！连续 14 周碾压美国：",
-      "detail": "IT之家 8 月 4 日消息，根据全球最大 AI 聚合平台 OpenRouter 的周度统计中，DeepSeek-V4-Flash 以 7.22 万亿 Token 的调用量位居全球第一。IT之家查询公开资料，OpenRouter 是全球最大的 AI 大模型 API 聚合平台，聚合了超过 400 款来自全球的顶尖和开源大模型，平台拥有约 800 万注册用户，每月处理的 Token 数量约为 100 万亿个。根据 OpenRouter 公布最新周报，在最近一周（7 月 27 日至 8 月 2 日）榜单上，DeepSeek V4 Flash 以 7.22 万亿 Token 的周调用量位居第一。开源项目团队 OpenCode 发文称，其平台上 DeepSeek V4 Flash 的调用量大幅飙升，单日处理达 8T（万亿）Token。其中 5T 为免费试用额度消耗，3T 为开发者通过 OpenCode 平台付费使用。此外 @互联网三爷 昨日（8 月 3 日）发布博文，报道称 OpenRouter 上前五全是中国 AI ！连续 14 周碾压美国：",
-      "source": "ITHome",
-      "source_authority": 0.75,
-      "date": "2026-08-04",
-      "score": 0.8975
-    },
-    {
       "title": "《Ring Cycle》回顾——人工智能舞台无需戏剧化，创造出平庸的小摆设",
       "url": "https://www.theguardian.com/music/2026/aug/03/wagner-bayreuth-ring-cycle-review-ai-staging-dispenses-with-drama-to-create-banal-bric-a-brac",
-      "summary": "Bayreuth festival theatre, BayreuthFor the festival’s 150th anniversary, the creative team have turned to AI to generate visuals reflecting Wagner’s tetralogy’s past, present – and future. The hyperactive result is a dismal, mindless messUnveiled the same week in which tech company Anthropic admitted that its AI model Claude had gone rogue during testing, Bayreuth festival’s new AI-generated staging of Wagner’s four-part Ring of the Nibelungen is at least timely. But anyone who assumes that the",
+      "summary": "拜罗伊特节日剧院，拜罗伊特为了庆祝该节日 150 周年，创意团队利用人工智能来生成反映瓦格纳四部曲的过去、现在和未来的视觉效果。过度活跃的结果是一场令人沮丧、盲目的混乱。就在科技公司 Anthropic 承认其人工智能模型 Claude 在测试过程中失控的同一周，拜罗伊特音乐节推出了由人工智能生成的瓦格纳四部分《尼伯龙根指环》的新舞台，这至少是及时的。但任何人如果认为",
       "detail": "拜罗伊特节日剧院，拜罗伊特为了庆祝该节日 150 周年，创意团队利用人工智能来生成反映瓦格纳四部曲的过去、现在和未来的视觉效果。过度活跃的结果是一场令人沮丧、盲目的混乱。就在科技公司 Anthropic 承认其人工智能模型 Claude 在测试过程中失控的同一周，拜罗伊特音乐节推出了由人工智能生成的瓦格纳四部分《尼伯龙根指环》的新舞台，这至少是及时的。但任何人如果认为",
       "source": "The Guardian",
       "source_authority": 0.85,
@@ -62,44 +52,54 @@
       "score": 0.8675
     },
     {
-      "title": "网络安全初创公司Horizon3.ai融资2.5亿美元",
-      "url": "https://36kr.com/newsflashes/3924513901820041?f=rss",
-      "summary": "总部位于旧金山的提供道德黑客雇佣服务的Horizon3.ai在后期融资中筹集了2.5亿美元。本轮融资由NightDragon和NEA共同领投，这两家机构均曾参与早期融资，此外还有十多家新老投资者参投。Anthropic的Mythos和其他前沿人工智能（AI）模型让网络攻击威力大增，引发了企业界的担忧浪潮，该公司希望借此势头实现发展。（新浪财经）",
-      "detail": "总部位于旧金山的提供道德黑客雇佣服务的Horizon3.ai在后期融资中筹集了2.5亿美元。本轮融资由NightDragon和NEA共同领投，这两家机构均曾参与早期融资，此外还有十多家新老投资者参投。Anthropic的Mythos和其他前沿人工智能（AI）模型让网络攻击威力大增，引发了企业界的担忧浪潮，该公司希望借此势头实现发展。（新浪财经）",
-      "source": "36Kr",
-      "source_authority": 0.85,
-      "date": "2026-08-04",
-      "score": 0.855
-    },
-    {
-      "title": "中信建投：北美云厂商资本开支继续高增长，关注算力超跌与高��息标的",
-      "url": "https://36kr.com/newsflashes/3924464275257472?f=rss",
-      "summary": "36氪获悉，中信建投指出，2026年二季度，北美头部云厂商资本开支继续高增长。2026年四家北美云厂商资本开支指引合计约为7200亿—7450亿美元，反映北美云厂商仍在围绕AI基础设施持续扩张。目前来看，AI算力产业链的景气度依旧，但市场近期出现明显调整，中信建投认为存在超跌情况。未来建议持续关注：一是大模型ARR，尤其是Coding场景ARR的增长情况；二是Coding之外，大模型在其它应用场景的落地及发展情况；三是算力通胀链未来一段时间的价格走势；四是AI产业链各环节的融资情况及市场风偏。此外，鉴于二季度AI产业链持仓较重，市场近期调整，出现高低切迹象，建议关注低估值、高股息标的。",
-      "detail": "36氪获悉，中信建投指出，2026年二季度，北美头部云厂商资本开支继续高增长。2026年四家北美云厂商资本开支指引合计约为7200亿—7450亿美元，反映北美云厂商仍在围绕AI基础设施持续扩张。目前来看，AI算力产业链的景气度依旧，但市场近期出现明显调整，中信建投认为存在超跌情况。未来建议持续关注：一是大模型ARR，尤其是Coding场景ARR的增长情况；二是Coding之外，大模型在其它应用场景的落地及发展情况；三是算力通胀链未来一段时间的价格走势；四是AI产业链各环节的融资情况及市场风偏。此外，鉴于二季度AI产业链持仓较重，市场近期调整，出现高低切迹象，建议关注低估值、高股息标的。",
-      "source": "36Kr",
-      "source_authority": 0.85,
-      "date": "2026-08-04",
-      "score": 0.8375
-    },
-    {
-      "title": "博导称月之暗面 Kimi 创始人杨植麟有很多机会留在美国，但他毅然拒绝苹果、坚持回国创业",
-      "url": "https://www.ithome.com/0/985/315.htm",
-      "summary": "IT之家 8 月 4 日消息，Kimi K3 模型发布后蝉联前端开发榜全球第一，月之暗面这家中国 AI 创企成为了人们关注的焦点。月之暗面创始人杨植麟的卡内基梅隆大学博士生导师 Russ Salakhutdinov 今年 7 月发文，透露了关于杨植麟回国创业的一些细节。Russ Salakhutdinov 表示，杨植麟如果想留下来，有很多机会留在美国。“事实上，我曾在一封邮件线程中与一位苹果高管（蒂姆 · 库克的直属下属）讨论，询问杨植麟是否考虑加入苹果。我说，他想回自己的祖国。对方回复说，好吧，我们在北京有办公室，如果他想加入苹果的话。”“但杨植麟非常坚定地要回去创业。我记得他告诉我，如果他不至少尝试创办自己的公司，他会后悔一辈子。我尊重这一点，他是对的。”IT之家注：Russ Salakhutdinov 担任卡内基梅隆大学教授，还曾是 Meta 公司前研究副总裁（多模态 LLM、AI 智能体），苹果前 AI 研究总监。卡内基梅隆大学计算机科学学院 Ray and Stephanie Lane 计算生物学讲席教授马坚表示，几年前，当杨植麟还是卡内基梅隆大学的博士生时，自己与他交流过几",
-      "detail": "IT之家 8 月 4 日消息，Kimi K3 模型发布后蝉联前端开发榜全球第一，月之暗面这家中国 AI 创企成为了人们关注的焦点。月之暗面创始人杨植麟的卡内基梅隆大学博士生导师 Russ Salakhutdinov 今年 7 月发文，透露了关于杨植麟回国创业的一些细节。Russ Salakhutdinov 表示，杨植麟如果想留下来，有很多机会留在美国。“事实上，我曾在一封邮件线程中与一位苹果高管（蒂姆 · 库克的直属下属）讨论，询问杨植麟是否考虑加入苹果。我说，他想回自己的祖国。对方回复说，好吧，我们在北京有办公室，如果他想加入苹果的话。”“但杨植麟非常坚定地要回去创业。我记得他告诉我，如果他不至少尝试创办自己的公司，他会后悔一辈子。我尊重这一点，他是对的。”IT之家注：Russ Salakhutdinov 担任卡内基梅隆大学教授，还曾是 Meta 公司前研究副总裁（多模态 LLM、AI 智能体），苹果前 AI 研究总监。卡内基梅隆大学计算机科学学院 Ray and Stephanie Lane 计算生物学讲席教授马坚表示，几年前，当杨植麟还是卡内基梅隆大学的博士生时，自己与他交流过几",
+      "title": "曝追觅手机负责人俞雷拟离职，上任不足半年",
+      "url": "https://www.ithome.com/0/985/398.htm",
+      "summary": "IT之家 8 月 4 日消息，据搜狐财经 8 月 3 日援引相关人士消息报道，追觅生态 Eclix 手机掌舵者、前金立集团全球副总裁俞雷拟从追觅系离职，目前其内部飞书账号仍未停用。报道称，俞雷于 2026 年 3 月正式入职追觅旗下 MOVA，任手机和 AI 硬件业务负责人，据此计算，其加入追觅至今不足半年。IT之家查询公开资料获悉，俞雷于 2015 年加入金立集团任全球副总裁，向集团董事长直接汇报，分管市场营销和渠道销售业务，于 2018 年宣布离职。此后，俞雷曾担任强脑科技的首席运营官，帮助企业快速完成商业初始化，强脑科技后来也成长为“杭州六小龙”之一。值得注意的是俞雷还创立过一个智能手机品牌“FreeYond”，以 DTC 模式主攻海外市场。界面新闻今年 6 月报道称，援引追觅生态品牌 Eclix 负责人俞雷消息称，团队已与国内头部大模型厂商达成深度合作，预计将于 2026 年 9 月发布第一代 AI 手机，双十一前上市。该产品主打高端，定价 5,000 元以上，目前核心团队研发已接近完成，即将进入整机测试阶段。",
+      "detail": "IT之家 8 月 4 日消息，据搜狐财经 8 月 3 日援引相关人士消息报道，追觅生态 Eclix 手机掌舵者、前金立集团全球副总裁俞雷拟从追觅系离职，目前其内部飞书账号仍未停用。报道称，俞雷于 2026 年 3 月正式入职追觅旗下 MOVA，任手机和 AI 硬件业务负责人，据此计算，其加入追觅至今不足半年。IT之家查询公开资料获悉，俞雷于 2015 年加入金立集团任全球副总裁，向集团董事长直接汇报，分管市场营销和渠道销售业务，于 2018 年宣布离职。此后，俞雷曾担任强脑科技的首席运营官，帮助企业快速完成商业初始化，强脑科技后来也成长为“杭州六小龙”之一。值得注意的是俞雷还创立过一个智能手机品牌“FreeYond”，以 DTC 模式主攻海外市场。界面新闻今年 6 月报道称，援引追觅生态品牌 Eclix 负责人俞雷消息称，团队已与国内头部大模型厂商达成深度合作，预计将于 2026 年 9 月发布第一代 AI 手机，双十一前上市。该产品主打高端，定价 5,000 元以上，目前核心团队研发已接近完成，即将进入整机测试阶段。",
       "source": "ITHome",
       "source_authority": 0.75,
       "date": "2026-08-04",
-      "score": 0.8225
+      "score": 0.8475
     },
     {
-      "title": "The Download: reward hacking explained, and suspected Iranian cyberattacks",
+      "title": "下载：奖励黑客攻击的解释，以及可疑的伊朗网络攻击",
       "url": "https://www.technologyreview.com/2026/08/03/1141039/the-download-reward-hacking-water-cyberattacks/",
-      "summary": "这是今天的《下载》版本，这是我们的工作日时事通讯，每天提供技术世界中正在发生的事情。这就是为什么人工智能代理为了达到目标而撒谎和作弊的原因当两个 OpenAI 模型上个月侵入 Hugging Face 时，他们并不是想赚钱或进行破坏——他们是……",
-      "detail": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Here’s why AI agents lie and cheat to reach their goals When two OpenAI models hacked into Hugging Face last month, they weren’t trying to make money or commit sabotage—they were…",
+      "summary": "这是今天版本的《下载》，这是我们的工作日时事通讯，每天提供技术世界中正在发生的事情。这就是为什么人工智能代理为了达到目标而撒谎和作弊的原因当两个 OpenAI 模型上个月侵入 Hugging Face 时，他们并不是想赚钱或进行破坏——他们是……",
+      "detail": "这是今天版本的《下载》，这是我们的工作日时事通讯，每天提供技术世界中正在发生的事情。这就是为什么人工智能代理为了达到目标而撒谎和作弊的原因当两个 OpenAI 模型上个月侵入 Hugging Face 时，他们并不是想赚钱或进行破坏——他们是……",
       "source": "MIT Tech Review",
       "source_authority": 0.9,
       "date": "2026-08-03",
       "score": 0.815
+    },
+    {
+      "title": "这就是人工智能代理为了达到目标而撒谎和欺骗的原因",
+      "url": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
+      "summary": "MIT 技术评论解释：让我们的作者解开复杂、混乱的技术世界，帮助您了解接下来会发生什么。您可以在此处阅读该系列的更多内容。当两名 OpenAI 模特在 7 月侵入 Hugging Face 网站时，他们并不是想赚钱或进行破坏——他们只是在寻找答案……",
+      "detail": "MIT 技术评论解释：让我们的作者解开复杂、混乱的技术世界，帮助您了解接下来会发生什么。您可以在此处阅读该系列的更多内容。当两名 OpenAI 模特在 7 月侵入 Hugging Face 网站时，他们并不是想赚钱或进行破坏——他们只是在寻找答案……",
+      "source": "MIT Tech Review",
+      "source_authority": 0.9,
+      "date": "2026-08-03",
+      "score": 0.815
+    },
+    {
+      "title": "Influencers draw backlash for attending OpenAI’s first luxury trip",
+      "url": "https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip/",
+      "summary": "随着人工智能使用的紧张局势持续存在，OpenAI 的首次影响者品牌之旅正在引发网上强烈反对。",
+      "detail": "随着人工智能使用的紧张局势持续存在，OpenAI 的首次影响者品牌之旅正在引发网上强烈反对。",
+      "source": "TechCrunch",
+      "source_authority": 0.95,
+      "date": "2026-08-04",
+      "score": 0.7825
+    },
+    {
+      "title": "Design Arena 创作者筹集了 790 万美元，为 AI 模型带来品味",
+      "url": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/",
+      "summary": "Design Arena 被全球 530 万人使用，为前沿实验室提供关键的人类评估。",
+      "detail": "Design Arena 被全球 530 万人使用，为前沿实验室提供关键的人类评估。",
+      "source": "TechCrunch",
+      "source_authority": 0.95,
+      "date": "2026-08-04",
+      "score": 0.7375
     }
   ],
   "category2": [
@@ -114,20 +114,10 @@
       "score": 0.9225
     },
     {
-      "title": "微软测试其首款自研全双工 AI 语音 MAI Realtime 模型：支持中文等 16 种语言、2 种风格",
-      "url": "https://www.ithome.com/0/985/297.htm",
-      "summary": "IT之家 8 月 4 日消息，科技媒体 TestingCatalog 于 8 月 2 日发布博文，报道称微软正测试其首款原生实时语音模型 MAI Realtime，支持 16 种语言、2 种语音，可在对话中听说并行，支持自动识别和中途切换语言。测试方面，消息称微软已邀请部分合作伙伴，在 MAI Playground 平台测试该模型，目前尚不清楚何时上线 Microsoft Foundry，以及扩展到 Copilot 语音功能上。运行方面，MAI Realtime 采用双向、全双工交互方式，无需严格按“用户说完、模型再答”的轮次交替，可支持同步聆听和回应。在支持语言方面，MAI Realtime 模型支持中文等在内 16 种语言，IT之家援引博文介绍，附上相关支持的语言如下：英语德语西班牙语法语意大利语葡萄牙语日语韩语中文荷兰语印地语印度尼西亚语阿拉伯语俄语土耳其语越南语泰语在语音风格方面，消息称该模型测试提供 Victoria 和 Grant 两种语音，比 Copilot 目前的语音模式更加自然。用户可以主动地指定语言，也可以启用自动检测。该模型不支持唱歌或生成非语音音效，定位仍是对话",
-      "detail": "IT之家 8 月 4 日消息，科技媒体 TestingCatalog 于 8 月 2 日发布博文，报道称微软正测试其首款原生实时语音模型 MAI Realtime，支持 16 种语言、2 种语音，可在对话中听说并行，支持自动识别和中途切换语言。测试方面，消息称微软已邀请部分合作伙伴，在 MAI Playground 平台测试该模型，目前尚不清楚何时上线 Microsoft Foundry，以及扩展到 Copilot 语音功能上。运行方面，MAI Realtime 采用双向、全双工交互方式，无需严格按“用户说完、模型再答”的轮次交替，可支持同步聆听和回应。在支持语言方面，MAI Realtime 模型支持中文等在内 16 种语言，IT之家援引博文介绍，附上相关支持的语言如下：英语德语西班牙语法语意大利语葡萄牙语日语韩语中文荷兰语印地语印度尼西亚语阿拉伯语俄语土耳其语越南语泰语在语音风格方面，消息称该模型测试提供 Victoria 和 Grant 两种语音，比 Copilot 目前的语音模式更加自然。用户可以主动地指定语言，也可以启用自动检测。该模型不支持唱歌或生成非语音音效，定位仍是对话",
-      "source": "ITHome",
-      "source_authority": 0.75,
-      "date": "2026-08-04",
-      "score": 0.8475
-    },
-    {
       "title": "Apple finally fixed Siri. So why does it feel anticlimactic?",
       "url": "https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/",
-      "summary": "Apple’s long-awaited AI overhaul finally makes Siri the assistant it was always supposed to be. Yet it arrives at a moment when simply being a capable AI assistant no longer feels revolutionary.",
-      "detail": "Apple’s long-awaited AI overhaul finally makes Siri the assistant it was always supposed to be. Yet it arrives at a moment when simply being a capable AI assistant no longer feels revolutionary.",
+      "summary": "苹果期待已久的人工智能改革终于让 Siri 成为了人们一直期待的助手。然而，现在已经到了这样一个时刻：仅仅作为一个有能力的人工智能助手不再给人带来革命性的感觉。",
+      "detail": "苹果期待已久的人工智能改革终于让 Siri 成为了人们一直期待的助手。然而，现在已经到了这样一个时刻：仅仅作为一个有能力的人工智能助手不再给人带来革命性的感觉。",
       "source": "TechCrunch",
       "source_authority": 0.95,
       "date": "2026-08-04",
@@ -136,7 +126,7 @@
     {
       "title": "将纸质图表转化为数字医疗记录的系统",
       "url": "https://spectrum.ieee.org/ieee-milestone-digital-medical-records",
-      "summary": "Most hospitals and health care providers use electronic health records instead of paper charts to note patient vaccinations, diagnoses, and procedures. AthenaOne, Epic, and Oracle Health are some of the systems employed around the world. Many patients can access their electronic medical records from home.The platforms exist thanks to pioneering efforts such as the Medical Information System (MIS-I). The first hospital-wide computer system, it was developed in the 1960s by Lockheed Martin (then k",
+      "summary": "大多数医院和医疗保健提供者使用电子健康记录而不是纸质图表来记录患者的疫苗接种、诊断和程序。 AthenaOne、Epic 和 Oracle Health 是世界各地使用的一些系统。许多患者可以在家中访问他们的电子病历。这些平台的存在得益于医疗信息系统 (MIS-I) 等开创性的努力。第一个医院范围内的计算机系统，由洛克希德·马丁公司（Lockheed Martin）于 20 世纪 60 年代开发（当时是",
       "detail": "Most hospitals and health care providers use electronic health records instead of paper charts to note patient vaccinations, diagnoses, and procedures. AthenaOne, Epic, and Oracle Health are some of the systems employed around the world. Many patients can access their electronic medical records from home.The platforms exist thanks to pioneering efforts such as the Medical Information System (MIS-I). The first hospital-wide computer system, it was developed in the 1960s by Lockheed Martin (then k",
       "source": "IEEE Spectrum",
       "source_authority": 0.9,
@@ -144,20 +134,10 @@
       "score": 0.7475
     },
     {
-      "title": "三星发声明：将封禁可共享用户网络的智能电视应用",
-      "url": "https://www.ithome.com/0/985/293.htm",
-      "summary": "IT之家 8 月 4 日消息，最新发布的一项安全研究显示，多款热门三星智能电视应用包含会与陌生人共享用户网络连接的代码，这可能使数百万台三星智能电视面临被恶意利用的风险。根据应用开发者公布的数据，其中一些应用已被安装在数亿台智能电视中。研究人员还发现，至少有一款应用是一款简单的《吃豆人》（Pac-Man）游戏，不仅获得了三星官方推荐，还曾被放在智能电视应用商店“编辑精选”（Editor's Choice）栏目中重点展示。这些应用内嵌了一种能够将陌生人的网络流量转发至普通家庭或办公网络的软件，这类技术被称为住宅代理网络（Residential Proxy，简称 Resproxy）。近年来，这类代理网络越来越多地与网络犯罪活动联系在一起。研究指出，当用户打开包含住宅代理代码的应用后，智能电视就可能变成一个持续在线的“出口节点”（Exit Node），供外部用户借助其家庭网络访问互联网。即使用户关闭了应用，这一功能也可能继续在后台运行。这项研究由挪威网络安全公司 Mnemonic 发布。研究人员认为，三星应用商店目前存在多项审核漏洞，使得大量质量较低的应用得以上架，其中部分应用包含可能导致用",
-      "detail": "IT之家 8 月 4 日消息，最新发布的一项安全研究显示，多款热门三星智能电视应用包含会与陌生人共享用户网络连接的代码，这可能使数百万台三星智能电视面临被恶意利用的风险。根据应用开发者公布的数据，其中一些应用已被安装在数亿台智能电视中。研究人员还发现，至少有一款应用是一款简单的《吃豆人》（Pac-Man）游戏，不仅获得了三星官方推荐，还曾被放在智能电视应用商店“编辑精选”（Editor's Choice）栏目中重点展示。这些应用内嵌了一种能够将陌生人的网络流量转发至普通家庭或办公网络的软件，这类技术被称为住宅代理网络（Residential Proxy，简称 Resproxy）。近年来，这类代理网络越来越多地与网络犯罪活动联系在一起。研究指出，当用户打开包含住宅代理代码的应用后，智能电视就可能变成一个持续在线的“出口节点”（Exit Node），供外部用户借助其家庭网络访问互联网。即使用户关闭了应用，这一功能也可能继续在后台运行。这项研究由挪威网络安全公司 Mnemonic 发布。研究人员认为，三星应用商店目前存在多项审核漏洞，使得大量质量较低的应用得以上架，其中部分应用包含可能导致用",
-      "source": "ITHome",
-      "source_authority": 0.75,
-      "date": "2026-08-04",
-      "score": 0.7325
-    },
-    {
       "title": "前安克3D打印业务负责人要做B端工具产品，获数千万融资｜36氪首发",
       "url": "https://36kr.com/p/3923371035831684?f=rss",
-      "summary": "文｜张子怡\n编辑｜袁斯来\n36氪获悉，3D打印智能制造品牌「轻量智造（LightMake）」连续完成两轮共计超2500万元人民币融资，投资机构有海目星激光老板家族办公室、南山资本、卓源亚洲、朗翰资本。本轮融资资金主要用于产品研发、供应链体系搭建以及全球市场推广。\n「轻量智造」成立于2025年，团队为中高端SMB（中小型企业）与Pro C（专业个人）用户研发生产桌面化、小型的“轻量化制造工具”，初代产品LightMake为独立四头3D打印机，目前已在Kickstarter平台上众筹，定价为2399美金。\n凭借极致的易用性和多色打印技术，消费级3D打印市场迎来了前所未有的爆发。海关数据显示，今年1至4月，中国3D打印机累计出口246万台，同比增长100.3%。\n在巨头林立、资源高度向头部聚集的消费级3D打印红海中，新入局者想���分一杯羹并不容易。轻量智造选择了一条截然不同的道路——不做玩具，做工具。\n轻量智造创始人兼CEO王志宇告诉36氪“我们不讲娱乐，我们讲的是纯粹的制造逻辑（人、机、料、法）。我们关注的是如何帮工厂节约一半人力、提升4倍产能、节约一半材料，最终让用户的ROI（投资回报",
-      "detail": "文｜张子怡\n编辑｜袁斯来\n36氪获悉，3D打印智能制造品牌「轻量智造（LightMake）」连续完成两轮共计超2500万元人民币融资，投资机构有海目星激光老板家族办公室、南山资本、卓源亚洲、朗翰资本。本轮融资资金主要用于产品研发、供应链体系搭建以及全球市场推广。\n「轻量智造」成立于2025年，团队为中高端SMB（中小型企业）与Pro C（专业个人）用户研发生产桌面化、小型的“轻量化制造工具”，初代产品LightMake为独立四头3D打印机，目前已在Kickstarter平台上众筹，定价为2399美金。\n凭借极致的易用性和多色打印技术，消费级3D打印市场迎来了前所未有的爆发。海关数据显示，今年1至4月，中国3D打印机累计出口246万台，同比增长100.3%。\n在巨头林立、资源高度向头部聚集的消费级3D打印红海中，新入局者想���分一杯羹并不容易。轻量智造选择了一条截然不同的道路——不做玩具，做工具。\n轻量智造创始人兼CEO王志宇告诉36氪“我们不讲娱乐，我们讲的是纯粹的制造逻辑（人、机、料、法）。我们关注的是如何帮工厂节约一半人力、提升4倍产能、节约一半材料，最终让用户的ROI（投资回报",
+      "summary": "文｜张子怡\n编辑｜袁斯来\n36氪获悉，3D打印智能制造品牌「轻量智造（LightMake）」连续完成两轮共计超2500万元人民币融资，投资机构有海目星激光老板家族办公室、南山资本、卓源亚洲、朗翰资本。本轮融资资金主要用于产品研发、供应链体系搭建以及全球市场推广。\n「轻量智造」成立于2025年，团队为中高端SMB（中小型企业）与Pro C（专业个人）用户研发生产桌面化、小型的“轻量化制造工具”，初代产品LightMake为独立四头3D打印机，目前已在Kickstarter平台上众筹，定价为2399美金。\n凭借极致的易用性和多色打印技术，消费级3D打印市场迎来了前所未有的爆发。海关数据显示，今年1至4月，中国3D打印机累计出口246万台，同比增长100.3%。\n在巨头林立、资源高度向头部聚集的消费级3D打印红海中，新入局者想要分一杯羹并不容易。轻量智造选择了一条截然不同的道路——不做玩具，做工具。\n轻量智造创始人兼CEO王志宇告诉36氪“我们不讲娱乐，我们讲的是纯粹的制造逻辑（人、机、料、法）。我们关注的是如何帮工厂节约一半人力、提升4倍产能、节约一半材料，最终让用户的ROI（投资回报率）",
+      "detail": "文｜张子怡\n编辑｜袁斯来\n36氪获悉，3D打印智能制造品牌「轻量智造（LightMake）」连续完成两轮共计超2500万元人民币融资，投资机构有海目星激光老板家族办公室、南山资本、卓源亚洲、朗翰资本。本轮融资资金主要用于产品研发、供应链体系搭建以及全球市场推广。\n「轻量智造」成立于2025年，团队为中高端SMB（中小型企业）与Pro C（专业个人）用户研发生产桌面化、小型的“轻量化制造工具”，初代产品LightMake为独立四头3D打印机，目前已在Kickstarter平台上众筹，定价为2399美金。\n凭借极致的易用性和多色打印技术，消费级3D打印市场迎来了前所未有的爆发。海关数据显示，今年1至4月，中国3D打印机累计出口246万台，同比增长100.3%。\n在巨头林立、资源高度向头部聚集的消费级3D打印红海中，新入局者想要分一杯羹并不容易。轻量智造选择了一条截然不同的道路——不做玩具，做工具。\n轻量智造创始人兼CEO王志宇告诉36氪“我们不讲娱乐，我们讲的是纯粹的制造逻辑（人、机、料、法）。我们关注的是如何帮工厂节约一半人力、提升4倍产能、节约一半材料，最终让用户的ROI（投资回报率）",
       "source": "36Kr",
       "source_authority": 0.85,
       "date": "2026-08-03",
@@ -166,7 +146,7 @@
     {
       "title": "在经历了杀手季度后，Palantir 首席执行官 Alex Karp 称人工智能行业为“马克思主义”",
       "url": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/",
-      "summary": "After a quarter that delivered $1 billion in profit, Palantir CEO Alex Karp on Monday once again warned that AI frontier labs are too untrustworthy for enterprises.",
+      "summary": "在一个季度实现 10 亿美元利润后，Palantir 首席执行官 Alex Karp 周一再次警告称，人工智能前沿实验室对于企业来说太不值得信任。",
       "detail": "在一个季度实现 10 亿美元利润后，Palantir 首席执行官 Alex Karp 周一再次警告称，人工智能前沿实验室对于企业来说太不值得信任。",
       "source": "TechCrunch",
       "source_authority": 0.95,
@@ -174,9 +154,9 @@
       "score": 0.675
     },
     {
-      "title": "Did an AI Music App Just Snitch on the Song of the Summer?",
+      "title": "人工智能音乐应用程序刚刚偷听了夏日之歌吗？",
       "url": "https://www.wired.com/story/ai-music-app-treblo-just-snitched-on-rubberz-song-of-the-summer/",
-      "summary": "Fenix Flexin’s hit song “Rubberz” has hip-hop fans arguing over whether it was generated by AI. Some say they have proof it’s machine-made, but will anyone care?",
+      "summary": "Fenix Flexin 的热门歌曲《Rubberz》让嘻哈粉丝争论这首歌是否是由人工智能生成的。有人说他们有证据证明它是机器制造的，但有人会在意吗？",
       "detail": "Fenix Flexin 的热门歌曲《Rubberz》让嘻哈粉丝争论这首歌是否是由人工智能生成的。有人说他们有证据证明它是机器制造的，但有人会在意吗？",
       "source": "Wired",
       "source_authority": 0.85,
@@ -186,50 +166,60 @@
     {
       "title": "一种理解物理现实的新型人工智能会再次改变世界吗？",
       "url": "https://www.newscientist.com/article/2580566-will-a-new-kind-of-ai-that-understands-physical-reality-change-the-world-again/?utm_campaign=RSS|NSNS&utm_content=technology&utm_medium=RSS&utm_source=NSNS",
-      "summary": "AI chatbots can describe reality in words, but don’t truly understand cause and effect in the real world. Now, a fresh kind of machine intelligence that does just that is emerging",
+      "summary": "人工智能聊天机器人可以用文字描述现实，但不能真正理解现实世界中的因果关系。现在，一种能够做到这一点的新型机器智能正在出现",
       "detail": "人工智能聊天机器人可以用文字描述现实，但不能真正理解现实世界中的因果关系。现在，一种能够做到这一点的新型机器智能正在出现",
       "source": "New Scientist",
       "source_authority": 0.75,
       "date": "2026-08-03",
       "score": 0.625
+    },
+    {
+      "title": "小米旗下两款神秘产品获认证，预计为小米平板 8S Pro/9 Pro",
+      "url": "https://www.ithome.com/0/985/360.htm",
+      "summary": "IT之家 8 月 4 日消息，小米旗下两款平板电脑于 8 月 3 日通过认证，均由西安比亚迪电子有限公司集贤分公司代工，其中“2612CRPFFC”支持 67W 快充、而“M367FC”支持 120W 快充，消息源“体验 more”称两款平板均为旗舰定位。作为参考，此前爆料称小米平板 8S Pro 内置 12000mAh 电池，支持 120W 有线充电，因此这款“M367FC”很有可能是该机。▲ 小米平板 7S Pro该机据称正面配备一块 12.5 英寸 3.2K 分辨率 LCD 面板，搭载 32Mp 自拍摄像头；平板背面搭载 50Mp 主摄 + 2Mp 辅助摄像头。机身内置玄戒 O3 处理器。此外，先前小米旗下一款型号为 M656BA 的平板电脑于 7 月 17 日通过国家 3C 认证，曝光称该机为小米平板 9，搭载高通骁龙 8s Gen4 处理器，采用了 9720mAh 电池，标配 45W 快充头。因此本次曝光的“2612CRPFFC”有可能是小米平板 9 Pro 版。",
+      "detail": "IT之家 8 月 4 日消息，小米旗下两款平板电脑于 8 月 3 日通过认证，均由西安比亚迪电子有限公司集贤分公司代工，其中“2612CRPFFC”支持 67W 快充、而“M367FC”支持 120W 快充，消息源“体验 more”称两款平板均为旗舰定位。作为参考，此前爆料称小米平板 8S Pro 内置 12000mAh 电池，支持 120W 有线充电，因此这款“M367FC”很有可能是该机。▲ 小米平板 7S Pro该机据称正面配备一块 12.5 英寸 3.2K 分辨率 LCD 面板，搭载 32Mp 自拍摄像头；平板背面搭载 50Mp 主摄 + 2Mp 辅助摄像头。机身内置玄戒 O3 处理器。此外，先前小米旗下一款型号为 M656BA 的平板电脑于 7 月 17 日通过国家 3C 认证，曝光称该机为小米平板 9，搭载高通骁龙 8s Gen4 处理器，采用了 9720mAh 电池，标配 45W 快充头。因此本次曝光的“2612CRPFFC”有可能是小米平板 9 Pro 版。",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-08-04",
+      "score": 0.62
+    },
+    {
+      "title": "小米之家将开启“夏日冰爽搭子”活动：8 月 6 日至 9 日到店可领元气森林气泡水",
+      "url": "https://www.ithome.com/0/985/388.htm",
+      "summary": "IT之家 8 月 4 日消息，小米之家宣布将于 8 月 6 日至 8 月 9 日开启“夏日冰爽搭子”门店活动，到店体验米家冰箱 Pro 至尊版 508L，并添加企微，可领元气森林气泡水。官方称相应活动覆盖全国 2000 余家小米之家门店，参与活动的门店单店不少于 24 份，每天限领 1 份。IT之家注：去门店之前可先致电咨询门店发放情况，官方提供的具体活动店铺列表（https://qr61.cn/ojDsrc/qux4BlZ）。此外，小米之家目前正开启免费领麦当劳中薯兑换券活动，到店添加企微，即可免费领取麦当劳中份薯条兑换券 1 张（注：兑换券需要在麦当劳得来速取餐）。",
+      "detail": "IT之家 8 月 4 日消息，小米之家宣布将于 8 月 6 日至 8 月 9 日开启“夏日冰爽搭子”门店活动，到店体验米家冰箱 Pro 至尊版 508L，并添加企微，可领元气森林气泡水。官方称相应活动覆盖全国 2000 余家小米之家门店，参与活动的门店单店不少于 24 份，每天限领 1 份。IT之家注：去门店之前可先致电咨询门店发放情况，官方提供的具体活动店铺列表（https://qr61.cn/ojDsrc/qux4BlZ）。此外，小米之家目前正开启免费领麦当劳中薯兑换券活动，到店添加企微，即可免费领取麦当劳中份薯条兑换券 1 张（注：兑换券需要在麦当劳得来速取餐）。",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-08-04",
+      "score": 0.6
     }
   ],
   "category3": [
     {
-      "title": "SK 海力士与闪迪将在 FMS 2026 发布 HBF 首个标准规范，展示面向 AI 的存储解决方案",
-      "url": "https://www.ithome.com/0/985/289.htm",
-      "summary": "IT之家 8 月 4 日消息，SK 海力士宣布联合闪迪（Sandisk），将在美国加州举办的闪存峰会 2026（FMS 2026）期间共同发布下一代存储技术高带宽闪存（HBF，High Bandwidth Flash）的首个标准规范。IT之家注：HBF 是介于 HBM 和固态硬盘之间的新型存储层级，不仅具备与 HBM 类似的高速数据传输能力，还可基于 NAND 闪存大幅提升容量。在 AI 推理普及、数据处理需求激增的背景下，其高带宽与可扩展容量特性优势受到业界关注。此次发布的标准规范，是继 SK 海力士去年 8 月与闪迪启动 HBF 标准化合作，并于今年 2 月成立联盟后，历时约 6 个月推出的首项成果。该规范定义了两种容量配置，分别采用 8 层和 16 层 NAND 芯片堆叠，最高支持 512GB 容量；并按三个等级（Grade 1~3）设定带宽标准，数据传输能力覆盖约 0.4TB/s 至 3.0TB/s。值得关注的是，HBF 与处理器之间采用行业标准 UCIe 互联，为 HBF 与 GPU、CPU 等不同类型的处理器灵活连接奠定了基础。该规范由全球最大的开放式数据中心技术合作组织",
-      "detail": "IT之家 8 月 4 日消息，SK 海力士宣布联合闪迪（Sandisk），将在美国加州举办的闪存峰会 2026（FMS 2026）期间共同发布下一代存储技术高带宽闪存（HBF，High Bandwidth Flash）的首个标准规范。IT之家注：HBF 是介于 HBM 和固态硬盘之间的新型存储层级，不仅具备与 HBM 类似的高速数据传输能力，还可基于 NAND 闪存大幅提升容量。在 AI 推理普及、数据处理需求激增的背景下，其高带宽与可扩展容量特性优势受到业界关注。此次发布的标准规范，是继 SK 海力士去年 8 月与闪迪启动 HBF 标准化合作，并于今年 2 月成立联盟后，历时约 6 个月推出的首项成果。该规范定义了两种容量配置，分别采用 8 层和 16 层 NAND 芯片堆叠，最高支持 512GB 容量；并按三个等级（Grade 1~3）设定带宽标准，数据传输能力覆盖约 0.4TB/s 至 3.0TB/s。值得关注的是，HBF 与处理器之间采用行业标准 UCIe 互联，为 HBF 与 GPU、CPU 等不同类型的处理器灵活连接奠定了基础。该规范由全球最大的开放式数据中心技术合作组织",
+      "title": "联想来酷斗战者战 7000X 轻薄游戏本上市，首发 + 国补 7904.15 元起",
+      "url": "https://www.ithome.com/0/985/371.htm",
+      "summary": "IT之家 8 月 4 日消息，联想 (Lenovo) 来酷 (Lecoo) 斗战者 (BELLATOR) 轻薄游戏笔记本电脑新品战 7000X 现已上市。其提供 4 个配置，首发期优惠 + 国家补贴后到手价 7904.15 元起。战 7000X 采用 16\" 机身，可选英特尔酷睿 Ultra 7 251HX / 酷睿 7 245HX 处理器，全系搭载 NVIDIA GeForce RTX 5060 笔记本电脑 GPU，轻约 1.99kg、薄约 18.95mm，支持至高 180W 整机性能释放。其搭载一块 2560×1600 180Hz 500nits 屏幕，色域覆盖 100% sRGB；标配 16GB DDR5 内存；内置 80Wh 电池；提供 2C3A USB、HDMI、1GbE RJ45、3.5mm 音频插孔。IT之家附该系列最终到手价情况如下：酷睿 7 245HX + 512GB SSD：乌骓黑 7904.15 元，照夜白 8074.15 元；酷睿 Ultra 7 251HX + 1TB SSD：乌骓黑 8999 元，照夜白 9199 元。京东斗战者 战 7000X 轻薄游戏本",
+      "detail": "IT之家 8 月 4 日消息，联想 (Lenovo) 来酷 (Lecoo) 斗战者 (BELLATOR) 轻薄游戏笔记本电脑新品战 7000X 现已上市。其提供 4 个配置，首发期优惠 + 国家补贴后到手价 7904.15 元起。战 7000X 采用 16\" 机身，可选英特尔酷睿 Ultra 7 251HX / 酷睿 7 245HX 处理器，全系搭载 NVIDIA GeForce RTX 5060 笔记本电脑 GPU，轻约 1.99kg、薄约 18.95mm，支持至高 180W 整机性能释放。其搭载一块 2560×1600 180Hz 500nits 屏幕，色域覆盖 100% sRGB；标配 16GB DDR5 内存；内置 80Wh 电池；提供 2C3A USB、HDMI、1GbE RJ45、3.5mm 音频插孔。IT之家附该系列最终到手价情况如下：酷睿 7 245HX + 512GB SSD：乌骓黑 7904.15 元，照夜白 8074.15 元；酷睿 Ultra 7 251HX + 1TB SSD：乌骓黑 8999 元，照夜白 9199 元。京东斗战者 战 7000X 轻薄游戏本",
       "source": "ITHome",
       "source_authority": 0.75,
       "date": "2026-08-04",
-      "score": 0.9225
+      "score": 0.8975
     },
     {
-      "title": "玻璃基封装成产业竞逐新焦点，面板厂商跨界布局",
-      "url": "https://36kr.com/newsflashes/3924485879937413?f=rss",
-      "summary": "日前，TCL科技高级副总裁、TCL华星首席执行官赵军在上海ChinaJoy（中国国际数码互动娱乐展览会）期间透露，TCL华星已组建专业团队推进玻璃基封装关键工艺验证，计划下半年展示相关样品并筹建中试线；此外，京东方9.93亿元投资的玻璃基封装载板试验线已向国内客户送样，部分客户通过概念认证进入技术测试阶段；深天马亦搭建MPG多项目玻璃基板技术平台，将先进封装列为重点赋能方向之一。随着AI芯片向大尺寸、高算力、高密度互连加速演进，传统有机载板逐步触及性能边界，玻璃基先进封装正成为产业竞逐的新焦点，一场由面板厂商主导的跨界布局已然展开。（证券时报）",
-      "detail": "日前，TCL科技高级副总裁、TCL华星首席执行官赵军在上海ChinaJoy（中国国际数码互动娱乐展览会）期间透露，TCL华星已组建专业团队推进玻璃基封装关键工艺验证，计划下半年展示相关样品并筹建中试线；此外，京东方9.93亿元投资的玻璃基封装载板试验线已向国内客户送样，部分客户通过概念认证进入技术测试阶段；深天马亦搭建MPG多项目玻璃基板技术平台，将先进封装列为重点赋能方向之一。随着AI芯片向大尺寸、高算力、高密度互连加速演进，传统有机载板逐步触及性能边界，玻璃基先进封装正成为产业竞逐的新焦点，一场由面板厂商主导的跨界布局已然展开。（证券时报）",
-      "source": "36Kr",
-      "source_authority": 0.85,
-      "date": "2026-08-04",
-      "score": 0.8875
-    },
-    {
-      "title": "友善推出 20 美元单板计算机 NanoPi R28S：基于 RK3528A，面向路由器用途",
-      "url": "https://www.ithome.com/0/985/314.htm",
-      "summary": "IT之家 8 月 4 日消息，友善电子 (FriendlyElec) 近日推出了单板计算机 (SBC) 新品 NanoPi R28S。其本体定价 20 美元（现汇率约合 135.3 元人民币），包含保护壳的套装则是 29 美元（现汇率约合 196.2 元人民币）。NanoPi R28S 基于瑞芯微 RK3528A 芯片 (4× Arm Cortex-A53 @ 1.8GHz CPU + Arm Mali-450 GPU)，拥有双 1GbE RJ45 有线网口，板载 Wi-Fi 6 & 蓝牙 5.3 无线网卡，面向路由器用途。NanoPi R28S 采用 8 层 PCB，长宽均为 45mm，集成 1GB LPDDR4 内存，支持 eMMC 模组，配备 microSD 卡槽。其提供 1 个用于供电和 eMMC 的 USB-C，另一个 USB-C 则连接至 UART 调试控制台。",
-      "detail": "IT之家 8 月 4 日消息，友善电子 (FriendlyElec) 近日推出了单板计算机 (SBC) 新品 NanoPi R28S。其本体定价 20 美元（现汇率约合 135.3 元人民币），包含保护壳的套装则是 29 美元（现汇率约合 196.2 元人民币）。NanoPi R28S 基于瑞芯微 RK3528A 芯片 (4× Arm Cortex-A53 @ 1.8GHz CPU + Arm Mali-450 GPU)，拥有双 1GbE RJ45 有线网口，板载 Wi-Fi 6 & 蓝牙 5.3 无线网卡，面向路由器用途。NanoPi R28S 采用 8 层 PCB，长宽均为 45mm，集成 1GB LPDDR4 内存，支持 eMMC 模组，配备 microSD 卡槽。其提供 1 个用于供电和 eMMC 的 USB-C，另一个 USB-C 则连接至 UART 调试控制台。",
+      "title": "全球最小 GPU 芯片通过实测：约 24 万个晶体管，最高渲染 15 FPS",
+      "url": "https://www.ithome.com/0/985/434.htm",
+      "summary": "IT之家 8 月 4 日消息，科技媒体 Tom's Hardware 昨日（8 月 3 日）发布博文，报道称全球最小 GPU 芯片 TinyGPU v2.0 通过实机测试。开发者蓬萨贡 · 维奇特（Pongsagon Vichit）于 7 月 31 日在 X 平台发布推文，宣布：“ASIC TinyGPU v2.0 已经成功运行！！！”IT之家援引博文介绍，TinyGPU v2.0 属于 Tiny Tapeout SKY 25b 流片项目，拥有约 24 万个晶体管，具备 4-bit 双缓冲（buffer），以及存储在 QSPI RAM（四线串行外设接口随机存取存储器）中的 8-bit 深度缓冲（depth buffer）。在首个演示中，TinyGPU v2.0 通过游戏手柄实时操控低多边形模型。第二个演示显示了一个彩色地球模型，画面支持缩放与旋转。根据项目 GitHub 页面，这款 GPU 能够完成变换、光照和光栅化，屏幕最多容纳 1000 个三角形。芯片还支持 1 个动态方向光源、平面着色、背面剔除和仿射纹理映射。在 v2.0 芯片完成测试前，TinyGPU v3.0 已提交至 Ti",
+      "detail": "IT之家 8 月 4 日消息，科技媒体 Tom's Hardware 昨日（8 月 3 日）发布博文，报道称全球最小 GPU 芯片 TinyGPU v2.0 通过实机测试。开发者蓬萨贡 · 维奇特（Pongsagon Vichit）于 7 月 31 日在 X 平台发布推文，宣布：“ASIC TinyGPU v2.0 已经成功运行！！！”IT之家援引博文介绍，TinyGPU v2.0 属于 Tiny Tapeout SKY 25b 流片项目，拥有约 24 万个晶体管，具备 4-bit 双缓冲（buffer），以及存储在 QSPI RAM（四线串行外设接口随机存取存储器）中的 8-bit 深度缓冲（depth buffer）。在首个演示中，TinyGPU v2.0 通过游戏手柄实时操控低多边形模型。第二个演示显示了一个彩色地球模型，画面支持缩放与旋转。根据项目 GitHub 页面，这款 GPU 能够完成变换、光照和光栅化，屏幕最多容纳 1000 个三角形。芯片还支持 1 个动态方向光源、平面着色、背面剔除和仿射纹理映射。在 v2.0 芯片完成测试前，TinyGPU v3.0 已提交至 Ti",
       "source": "ITHome",
       "source_authority": 0.75,
       "date": "2026-08-04",
       "score": 0.86
     },
     {
-      "title": "Windows 任务管理器之父普拉默打造 macOS 版 TMOG，高效监控 CPU / GPU 等",
-      "url": "https://www.ithome.com/0/985/313.htm",
-      "summary": "IT之家 8 月 4 日消息，微软 Windows 退休工程师、任务管理器之父戴夫・普拉默（Dave W. Plummer）于 7 月 29 日在 X 平台发布推文，发布适用于苹果 macOS 系统的任务管理器 Task Manager OG (TMOG) 测试版。研发初衷方面，普拉默指出苹果 macOS 系统的任务管理器 Activity Monitor 无法满足其使用需求，因此决定开发替代工具。功能方面，相比较原生 Activity Monitor 应用，TMOG 可快速展示操作系统如何使用 CPU、GPU 等硬件组件信息。除处理器频率、温度数值和资源分配外，TMOG 还能显示每个逻辑 CPU 核心的运行状态、进程的分支情况等信息。该应用目前仍处于测试阶段，根据网友 @Dmonty28516998 后续发布的应用截图，显示 TMOG 在 Mac 平台上可以高效运行，CPU 占用逼近 0%。IT之家附上相关截图如下：在代码构成中，普拉默今天（8 月 4 日）发布推文，详细介绍了代码构成，指出适用于 Win32 和 Linux 客户端的 TMOG 已在路上。macOS 版本采用 Swi",
-      "detail": "IT之家 8 月 4 日消息，微软 Windows 退休工程师、任务管理器之父戴夫・普拉默（Dave W. Plummer）于 7 月 29 日在 X 平台发布推文，发布适用于苹果 macOS 系统的任务管理器 Task Manager OG (TMOG) 测试版。研发初衷方面，普拉默指出苹果 macOS 系统的任务管理器 Activity Monitor 无法满足其使用需求，因此决定开发替代工具。功能方面，相比较原生 Activity Monitor 应用，TMOG 可快速展示操作系统如何使用 CPU、GPU 等硬件组件信息。除处理器频率、温度数值和资源分配外，TMOG 还能显示每个逻辑 CPU 核心的运行状态、进程的分支情况等信息。该应用目前仍处于测试阶段，根据网友 @Dmonty28516998 后续发布的应用截图，显示 TMOG 在 Mac 平台上可以高效运行，CPU 占用逼近 0%。IT之家附上相关截图如下：在代码构成中，普拉默今天（8 月 4 日）发布推文，详细介绍了代码构成，指出适用于 Win32 和 Linux 客户端的 TMOG 已在路上。macOS 版本采用 Swi",
+      "title": "Linux 内核 7.2-rc6 发布，AI 助推创近年来第 6 个候选版提交量新高",
+      "url": "https://www.ithome.com/0/985/393.htm",
+      "summary": "IT之家 8 月 4 日消息，科技媒体 Neowin 昨日（8 月 3 日）发布博文，报道称 Linux Kernel 内核 7.2 的第 6 个候选（RC）版本于上周日发布，若按提交数量计算，这是数年来规模最大的第 6 个候选版本。报道指出 Linux 7.2-rc6 以驱动更新为主，在全部变更中的比重逼近 60%，覆盖升级 GPU（图形处理器）、网络、音频、SPI（串行外设接口）与 ATA（高级技术附件）设备驱动。除外约 20% 变更补丁覆盖架构、工具、文件系统和其他子系统。按 Linux 内核开发流程，开发者会在最初 2 周合并大型新功能，随后用连续 7 至 8 周发布候选版本并修复问题，最后发布正式内核。Linux 内核创始人 Linus Torvalds 表示，本次候选版本规模扩大，很大程度上归因于 AI。他表示虽然候选版本规模异常扩大可能增加测试周期，但 Linux 7.2-rc6 尚未出现重大问题，也没有发现需要延迟发布的不良提交。若第 7 个候选版本的变更量趋稳，Linux 7.2 仍有望在 2 周后按计划发布。IT之家附上相关截图如下：",
+      "detail": "IT之家 8 月 4 日消息，科技媒体 Neowin 昨日（8 月 3 日）发布博文，报道称 Linux Kernel 内核 7.2 的第 6 个候选（RC）版本于上周日发布，若按提交数量计算，这是数年来规模最大的第 6 个候选版本。报道指出 Linux 7.2-rc6 以驱动更新为主，在全部变更中的比重逼近 60%，覆盖升级 GPU（图形处理器）、网络、音频、SPI（串行外设接口）与 ATA（高级技术附件）设备驱动。除外约 20% 变更补丁覆盖架构、工具、文件系统和其他子系统。按 Linux 内核开发流程，开发者会在最初 2 周合并大型新功能，随后用连续 7 至 8 周发布候选版本并修复问题，最后发布正式内核。Linux 内核创始人 Linus Torvalds 表示，本次候选版本规模扩大，很大程度上归因于 AI。他表示虽然候选版本规模异常扩大可能增加测试周期，但 Linux 7.2-rc6 尚未出现重大问题，也没有发现需要延迟发布的不良提交。若第 7 个候选版本的变更量趋稳，Linux 7.2 仍有望在 2 周后按计划发布。IT之家附上相关截图如下：",
       "source": "ITHome",
       "source_authority": 0.75,
       "date": "2026-08-04",
@@ -246,14 +236,34 @@
       "score": 0.84
     },
     {
-      "title": "中金：8月A股行情可能进入大幅回调后的修复阶段",
-      "url": "https://36kr.com/newsflashes/3924502785095816?f=rss",
-      "summary": "36氪获悉，中金公司指出，7月下旬以来指数震荡盘整，行情可能进入大幅回调后的修复阶段。建议近期开始关注两条主线：1、景气成长仍需要精挑细选：科技风格剧烈调整之后拥挤度已经有明显回落，景气度足够高的产业能够实现分子端高增长对冲分母端拖累的效果，AI基础设施相关环节，如光通信、PCB等环节，高景气状态在今年确定性仍较强，半导体及算力等领域较多公司则仍需要关注基本面与估值的匹配程度，科技成长后市或呈现分化走势；创新药较多公司进入临床数据验证阶段，值得自下而上关注。2、周期改善：越来越多领域基本面正从周期底部回升，我们建议综合考虑地缘局势与产能周期位置，关注业绩向好及供需格局改善的领域，如电网设备、石化化工、工程机械，以及受益资本市场向好的非银金融等行业；贵金属板块经历较多调整后也值得关注。纯内需行业的基本面回升进展仍然相对偏缓，需要进一步观察。",
-      "detail": "36氪获悉，中金公司指出，7月下旬以来指数震荡盘整，行情可能进入大幅回调后的修复阶段。建议近期开始关注两条主线：1、景气成长仍需要精挑细选：科技风格剧烈调整之后拥挤度已经有明显回落，景气度足够高的产业能够实现分子端高增长对冲分母端拖累的效果，AI基础设施相关环节，如光通信、PCB等环节，高景气状态在今年确定性仍较强，半导体及算力等领域较多公司则仍需要关注基本面与估值的匹配程度，科技成长后市或呈现分化走势；创新药较多公司进入临床数据验证阶段，值得自下而上关注。2、周期改善：越来越多领域基本面正从周期底部回升，我们建议综合考虑地缘局势与产能周期位置，关注业绩向好及供需格局改善的领域，如电网设备、石化化工、工程机械，以及受益资本市场向好的非银金融等行业；贵金属板块经历较多调整后也值得关注。纯内需行业的基本面回升进展仍然相对偏缓，需要进一步观察。",
+      "title": "亿级日活App的“算力生死劫”：推理成本倒挂，他们靠跨云架构砍掉75% GPU集群",
+      "url": "https://www.qbitai.com/2026/08/465732.html",
+      "summary": "出海AI，正被“三重算力锁链\"捆死",
+      "detail": "出海AI，正被“三重算力锁链\"捆死",
+      "source": "量子位",
+      "source_authority": 0.85,
+      "date": "2026-08-04",
+      "score": 0.745
+    },
+    {
+      "title": "创业板指涨超4%",
+      "url": "https://36kr.com/newsflashes/3924617622272132?f=rss",
+      "summary": "36氪获悉，创业板指涨超4%，沪指跌0.04%，深成指涨2.28%，算力硬件、医药医疗、半导体芯片等方向涨幅居前，沪深京三市上涨个股超3600只。",
+      "detail": "36氪获悉，创业板指涨超4%，沪指跌0.04%，深成指涨2.28%，算力硬件、医药医疗、半导体芯片等方向涨幅居前，沪深京三市上涨个股超3600只。",
       "source": "36Kr",
       "source_authority": 0.85,
       "date": "2026-08-04",
-      "score": 0.765
+      "score": 0.665
+    },
+    {
+      "title": "创业板指涨超3%",
+      "url": "https://36kr.com/newsflashes/3924565663152521?f=rss",
+      "summary": "36氪获悉，创业板指涨超3%，沪指跌0.11%，深成指涨1.61%，算力硬件、半导体芯片、医药医疗等方向涨幅居前，沪深京三市上涨个股3600只。",
+      "detail": "36氪获悉，创业板指涨超3%，沪指跌0.11%，深成指涨1.61%，算力硬件、半导体芯片、医药医疗等方向涨幅居前，沪深京三市上涨个股3600只。",
+      "source": "36Kr",
+      "source_authority": 0.85,
+      "date": "2026-08-04",
+      "score": 0.665
     },
     {
       "title": "芯片桥接神经形态和深度网络计算（德累斯顿工业大学）",
@@ -268,8 +278,8 @@
     {
       "title": "6G 人工智能的真正问题不是是否存在，而是在哪里",
       "url": "https://spectrum.ieee.org/ai-ran-6g",
-      "summary": "Are expensive GPUs really needed at every cellphone tower?",
-      "detail": "Are expensive GPUs really needed at every cellphone tower?",
+      "summary": "每个手机信号塔真的都需要昂贵的 GPU 吗？",
+      "detail": "每个手机信号塔真的都需要昂贵的 GPU 吗？",
       "source": "IEEE Spectrum Semi",
       "source_authority": 0.85,
       "date": "2026-08-03",
@@ -278,20 +288,20 @@
   ],
   "category4": [
     {
-      "title": "个人AI定义新一轮增长，消费电子产业链加速拥抱变革",
-      "url": "https://36kr.com/newsflashes/3924472893356165?f=rss",
-      "summary": "荣耀首款机器人手机Robot Phone预约量已突破20万台，超越历代旗舰；OPPO“小布Next计划”开启多机型内测，让AI（人工智能）助手化身“24小时待命的专家团队”；华为新款鸿蒙折叠电脑定档8月5日发布；苹果首款折叠屏手机将于今秋亮相，“Apple智能”已完成国内备案……从手机到PC，从可穿戴到智能眼镜，一场以AI为核心引擎的产业变革正在消费电子领域全面铺开。专家表示，构建以用户为中心的个人AI体验，正成为消费电子终端厂商决胜的关键。围绕着这一方向，消费电子行业算力架构将走向端边云协同发展，而以高通、英伟达等为代表的产业链企业已提前布局。（证券时报）",
-      "detail": "荣耀首款机器人手机Robot Phone预约量已突破20万台，超越历代旗舰；OPPO“小布Next计划”开启多机型内测，让AI（人工智能）助手化身“24小时待命的专家团队”；华为新款鸿蒙折叠电脑定档8月5日发布；苹果首款折叠屏手机将于今秋亮相，“Apple智能”已完成国内备案……从手机到PC，从可穿戴到智能眼镜，一场以AI为核心引擎的产业变革正在消费电子领域全面铺开。专家表示，构建以用户为中心的个人AI体验，正成为消费电子终端厂商决胜的关键。围绕着这一方向，消费电子行业算力架构将走向端边云协同发展，而以高通、英伟达等为代表的产业链企业已提前布局。（证券时报）",
+      "title": "36氪首发 | 为果链、头部灵巧手公司供货，新型减速器厂商完成超亿元融资，估值破10亿",
+      "url": "https://36kr.com/p/3924628805351811?f=rss",
+      "summary": "作者 | 乔钰杰\n编辑 | 袁斯来\n硬氪获悉，精密减速器企业陶世智能科技有限公司（以下简称“陶世”）近日完成1.4亿元融资。本轮融资由前海金控，广州国控，海川聚义，杭州众燊参与，德太资本担任财务顾问。融资资金将主要用于产品研发、产线扩建以及机器人领域市场拓展。\n陶世成立于2016年，总部位于深圳，主要研发和生产正交90度微型减速器及机器人关节模组。公司核心产品为微型环面包络蜗轮蜗杆减速器，通过将减速与转角功能集成在单一结构中，实现更小体积、更高精度的动力传输。\n目前，陶世产品已进入富士康、蓝思科技、先导智能、凌云光等企业供应链，并在人形机器人领域与近百家机器人企业开展合作。其中，公司面向灵巧手推出的关节模组已签署10万台供货协议，客户包括灵心巧手、超维动力、绳肌妙算、中科硅纪等。\n随着人形机器人进入产业化阶段，核心零部件供应链正在加速成熟。行业数据显示，人形机器人中执行器系统（电机、减速器、丝杠等）约占整机成本45%，传感器系统约占15%，两者合计超过60%。作为连接动力源与执行端的核心部件，减速器承担着动力传递和精度控制作用，直接影响机器人关节的力量、速度、稳定性和灵活性。目前，减速",
+      "detail": "作者 | 乔钰杰\n编辑 | 袁斯来\n硬氪获悉，精密减速器企业陶世智能科技有限公司（以下简称“陶世”）近日完成1.4亿元融资。本轮融资由前海金控，广州国控，海川聚义，杭州众燊参与，德太资本担任财务顾问。融资资金将主要用于产品研发、产线扩建以及机器人领域市场拓展。\n陶世成立于2016年，总部位于深圳，主要研发和生产正交90度微型减速器及机器人关节模组。公司核心产品为微型环面包络蜗轮蜗杆减速器，通过将减速与转角功能集成在单一结构中，实现更小体积、更高精度的动力传输。\n目前，陶世产品已进入富士康、蓝思科技、先导智能、凌云光等企业供应链，并在人形机器人领域与近百家机器人企业开展合作。其中，公司面向灵巧手推出的关节模组已签署10万台供货协议，客户包括灵心巧手、超维动力、绳肌妙算、中科硅纪等。\n随着人形机器人进入产业化阶段，核心零部件供应链正在加速成熟。行业数据显示，人形机器人中执行器系统（电机、减速器、丝杠等）约占整机成本45%，传感器系统约占15%，两者合计超过60%。作为连接动力源与执行端的核心部件，减速器承担着动力传递和精度控制作用，直接影响机器人关节的力量、速度、稳定性和灵活性。目前，减速",
       "source": "36Kr",
       "source_authority": 0.85,
       "date": "2026-08-04",
-      "score": 0.9125
+      "score": 0.9325
     },
     {
       "title": "特朗普的人工智能保护主义针对机器人",
       "url": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
       "summary": "这个故事最初出现在我们关于人工智能的每周通讯《算法》中。要首先在您的收件箱中收到此类报道，请在此处注册。人形机器人通常引起的畏缩多于敬畏：它们绊倒、踢孩子，尽管取得了进步，但在使用双手方面仍然比我的孩子差。这是一个新兴行业，这样的机器人......",
-      "detail": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Humanoid robots usually elicit more cringe than awe: They stumble, kick children, and despite advances are still worse at using their hands than my toddler. It’s a nascent industry, and such robots…",
+      "detail": "这个故事最初出现在我们关于人工智能的每周通讯《算法》中。要首先在您的收件箱中收到此类报道，请在此处注册。人形机器人通常引起的畏缩多于敬畏：它们绊倒、踢孩子，尽管取得了进步，但在使用双手方面仍然比我的孩子差。这是一个新兴行业，这样的机器人......",
       "source": "MIT Tech Review",
       "source_authority": 0.9,
       "date": "2026-08-04",
@@ -300,18 +310,28 @@
     {
       "title": "igus 推出用于工业机器人的 600 度旋转拖链",
       "url": "https://www.therobotreport.com/igus-launches-energy-chain-600-degree-rotation-industrial-robots/",
-      "summary": "igus 表示，其新型 twinserchain 拖链可为码垛等具有挑战性的工业机器人应用提供电缆管理。\nigus 推出用于工业机器人的 600 度旋转拖链，首次出现在《机器人报告》上。",
-      "detail": "igus 表示，其新型 twinserchain 拖链可为码垛等具有挑战性的工业机器人应用提供电缆管理。\nigus 推出用于工业机器人的 600 度旋转拖链，首次出现在《机器人报告》上。",
+      "summary": "igus 表示，其新型 twinserchain 拖链可为码垛等具有挑战性的工业机器人应用提供电缆管理。\n易格斯为工业机器人推出可旋转 600 度的拖链，该拖链首次出现在《机器人报告》上。",
+      "detail": "igus 表示，其新型 twinserchain 拖链可为码垛等具有挑战性的工业机器人应用提供电缆管理。\n易格斯为工业机器人推出可旋转 600 度的拖链，该拖链首次出现在《机器人报告》上。",
       "source": "The Robot Report",
       "source_authority": 0.85,
       "date": "2026-08-04",
       "score": 0.8575
     },
     {
+      "title": "微软 Teams 为遏制 AI 欺诈问题，本月将新增举报可疑会议功能",
+      "url": "https://www.ithome.com/0/985/355.htm",
+      "summary": "IT之家 8 月 4 日消息，科技媒体 Windows Latest 今天（8 月 4 日）发布博文，报道称微软计划本月（2026 年 8 月）为 Teams 推出“举报”功能，用于遏制 AI 深度伪造的会议问题。微软表示，AI 工具降低了实施诈骗和网络犯罪的技术门槛，攻击者可以抓取企业公开信息，制作外观逼真的深度伪造参会者，还能利用公开音频克隆目标人物的声音。微软在 2025 年发布的研究报告中称，通过 AI 辅助的欺诈攻击肆虐全球，相关威胁已日益凸显。通过该“举报”功能，参会者可在会议期间或会议聊天中提交举报，提醒组织、IT 管理员或安全团队介入调查。IT之家附上相关截图如下：在功能范围上，“举报”可用于举报钓鱼、冒充、诈骗、社会工程活动及其他可疑行为。微软称，举报信息能够帮助安全团队评估潜在威胁并采取相应措施。系统会收集并存储会议相关基础数据，以及有限的上下文信息，从而推进后续调查。Teams 还将推出外部会议机器人检测功能。微软表示，部分机器人能够生成会议转录和摘要，但也可能在组织成员不知情的情况下加入会议，引发安全与隐私问题。",
+      "detail": "IT之家 8 月 4 日消息，科技媒体 Windows Latest 今天（8 月 4 日）发布博文，报道称微软计划本月（2026 年 8 月）为 Teams 推出“举报”功能，用于遏制 AI 深度伪造的会议问题。微软表示，AI 工具降低了实施诈骗和网络犯罪的技术门槛，攻击者可以抓取企业公开信息，制作外观逼真的深度伪造参会者，还能利用公开音频克隆目标人物的声音。微软在 2025 年发布的研究报告中称，通过 AI 辅助的欺诈攻击肆虐全球，相关威胁已日益凸显。通过该“举报”功能，参会者可在会议期间或会议聊天中提交举报，提醒组织、IT 管理员或安全团队介入调查。IT之家附上相关截图如下：在功能范围上，“举报”可用于举报钓鱼、冒充、诈骗、社会工程活动及其他可疑行为。微软称，举报信息能够帮助安全团队评估潜在威胁并采取相应措施。系统会收集并存储会议相关基础数据，以及有限的上下文信息，从而推进后续调查。Teams 还将推出外部会议机器人检测功能。微软表示，部分机器人能够生成会议转录和摘要，但也可能在组织成员不知情的情况下加入会议，引发安全与隐私问题。",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-08-04",
+      "score": 0.785
+    },
+    {
       "title": "HEBI Robotics 获得 NASA SBIR 拨款用于快速跟踪微型执行器",
       "url": "https://www.therobotreport.com/hebi-robotics-earns-nasa-sbir-grant-fast-track-miniaturized-actuators/",
-      "summary": "This Phase I award is only part of HEBI Robotics' roadmap. The company also plans to continue developing its existing actuation hardware.\nThe post HEBI Robotics earns NASA SBIR grant to fast track miniaturized actuators appeared first on The Robot Report.",
-      "detail": "This Phase I award is only part of HEBI Robotics' roadmap. The company also plans to continue developing its existing actuation hardware.\nThe post HEBI Robotics earns NASA SBIR grant to fast track miniaturized actuators appeared first on The Robot Report.",
+      "summary": "该一期奖项只是鹤壁机器人路线图的一部分。该公司还计划继续开发现有的驱动硬件。\nHEBI Robotics 获得 NASA SBIR 拨款用于快速跟踪微型执行器的消息首先出现在《机器人报告》上。",
+      "detail": "该一期奖项只是鹤壁机器人路线图的一部分。该公司还计划继续开发现有的驱动硬件。\nHEBI Robotics 获得 NASA SBIR 拨款用于快速跟踪微型执行器的消息首先出现在《机器人报告》上。",
       "source": "The Robot Report",
       "source_authority": 0.85,
       "date": "2026-08-04",
@@ -328,14 +348,14 @@
       "score": 0.72
     },
     {
-      "title": "车主反馈：特斯拉 FSD v14 Lite 引发 HW3 自动驾驶电脑过热故障",
-      "url": "https://www.ithome.com/0/985/306.htm",
-      "summary": "IT之家 8 月 4 日消息，越来越多搭载 HW3 硬件的特斯拉车主在使用 FSD v14 Lite 版本后，报告出现 Autopilot 计算机过热警告，甚至部分车辆出现计算机彻底故障的情况。自特斯拉在两周前向大量用户推送 FSD v14 Lite 更新以来，相关报告数量不断增加，目前已有 4 名车主直接联系 Electrek 反映同样的问题。FSD v14 Lite 对老旧硬件做了什么特斯拉于 6 月底开始向 HW3 车型推送 FSD v14 Lite，并在 7 月 21 日通过软件版本 2026.20.6.11（FSD v14.3.6）向更广泛用户开放。这一版本实际上是从 HW4 平台上的 v14 模型压缩而来的精简版，目的是让它能够运行在内存有限的 AI3 计算机上。HW3 搭载的计算机只有 8GB 内存，内存带宽大约只有 HW4 的八分之一。这也是为什么特斯拉此前在这些车型上停留在 v12.6 版本超过一年，直到推出 Lite 版本。如今，一个基于更高负载 v14 模型的系统开始运行在这些硬件上，部分车主发现 Autopilot 计算机温度明显升高。IT之家注意到，一些车主上",
-      "detail": "IT之家 8 月 4 日消息，越来越多搭载 HW3 硬件的特斯拉车主在使用 FSD v14 Lite 版本后，报告出现 Autopilot 计算机过热警告，甚至部分车辆出现计算机彻底故障的情况。自特斯拉在两周前向大量用户推送 FSD v14 Lite 更新以来，相关报告数量不断增加，目前已有 4 名车主直接联系 Electrek 反映同样的问题。FSD v14 Lite 对老旧硬件做了什么特斯拉于 6 月底开始向 HW3 车型推送 FSD v14 Lite，并在 7 月 21 日通过软件版本 2026.20.6.11（FSD v14.3.6）向更广泛用户开放。这一版本实际上是从 HW4 平台上的 v14 模型压缩而来的精简版，目的是让它能够运行在内存有限的 AI3 计算机上。HW3 搭载的计算机只有 8GB 内存，内存带宽大约只有 HW4 的八分之一。这也是为什么特斯拉此前在这些车型上停留在 v12.6 版本超过一年，直到推出 Lite 版本。如今，一个基于更高负载 v14 模型的系统开始运行在这些硬件上，部分车主发现 Autopilot 计算机温度明显升高。IT之家注意到，一些车主上",
+      "title": "全球首个、性能提升 5 至 10 倍，我国牵头制定的工业通信国际标准发布",
+      "url": "https://www.ithome.com/0/985/392.htm",
+      "summary": "IT之家 8 月 4 日消息，据央视新闻今日报道，由我国牵头多国专家联合参与编制的《WiTSnet 工业以太网通信协议》国际标准，近日通过国际电工委员会发布，标志着我国自主工业网络技术方案得到全球行业广泛认可。该协议是全球首个采用动态组织网络架构、实现设备同步精度小于 10 纳秒、全网端到端高可靠传输的工业通信协议。高端自动化产线对同步精度、运行稳定性有着严苛要求，汇智同步网络（WiTSnet）精准攻克精密设备实时控制行业痛点，大幅降低数据转发延时，缩短通信周期，满足高速机械、精密加工的实时操控需求；多设备同步精度相较现有主流方案性能提升 5 至 10 倍，适配多机械臂协同装配等高精度生产场景。凭借极速响应与超高时序同步能力，可有效提升工厂生产效率、稳定产品工艺品质，保障企业 7×24 小时连续稳定生产。央视新闻表示，该标准的发布将搭建起全球通用开放框架，破除不同设备互通壁垒，降低企业改造对接成本，不仅夯实了我国智能制造底层能力，更对统一全球产业技术规范，降低协同门槛，加速制造业数智化转型起到重要作用。IT之家查询工信部官网获悉，2026 年 2 月 14 日，我国主导研制的基于以太网",
+      "detail": "IT之家 8 月 4 日消息，据央视新闻今日报道，由我国牵头多国专家联合参与编制的《WiTSnet 工业以太网通信协议》国际标准，近日通过国际电工委员会发布，标志着我国自主工业网络技术方案得到全球行业广泛认可。该协议是全球首个采用动态组织网络架构、实现设备同步精度小于 10 纳秒、全网端到端高可靠传输的工业通信协议。高端自动化产线对同步精度、运行稳定性有着严苛要求，汇智同步网络（WiTSnet）精准攻克精密设备实时控制行业痛点，大幅降低数据转发延时，缩短通信周期，满足高速机械、精密加工的实时操控需求；多设备同步精度相较现有主流方案性能提升 5 至 10 倍，适配多机械臂协同装配等高精度生产场景。凭借极速响应与超高时序同步能力，可有效提升工厂生产效率、稳定产品工艺品质，保障企业 7×24 小时连续稳定生产。央视新闻表示，该标准的发布将搭建起全球通用开放框架，破除不同设备互通壁垒，降低企业改造对接成本，不仅夯实了我国智能制造底层能力，更对统一全球产业技术规范，降低协同门槛，加速制造业数智化转型起到重要作用。IT之家查询工信部官网获悉，2026 年 2 月 14 日，我国主导研制的基于以太网",
       "source": "ITHome",
       "source_authority": 0.75,
       "date": "2026-08-04",
-      "score": 0.71
+      "score": 0.695
     },
     {
       "title": "瓦尔登机器人公司与丰田合作开发实用人形机器人",
