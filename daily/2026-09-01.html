@@ -27,7 +27,7 @@ a{color:#00d2ff;text-decoration:none}a:hover{text-decoration:underline}
 <div class="section">
 <h2 style="color:#00d2ff">板块一：大模型与基础技术</h2>
 <div class="news-item">
-<div class="news-title">1. Workload-Driven HBF Substrate For Capacity-Scalable LLM Inference (Huawei, ETH Zurich, HUST)</div>
+<div class="news-title">1. 用于容量可扩展的 LLM 推理的工作负载驱动的 HBF 底层（华为、苏黎世联邦理工学院、HUST）</div>
 <div class="news-summary">华为、苏黎世联邦理工学院和华中科技大学的研究人员发表了一篇题为“FLINT：有效利用高带宽闪存实现容量可扩展LLM推理加速”的技术论文。摘要：“LLM 推理越来越受到加速卡内存容量而不是计算吞吐量的限制。这种限制在单加速卡和小节点推理系统中尤其严重，其中有限的封装内存容量限制了... » 阅读更多
 后工作负载驱动的 HBF Substrate F</div>
 <a class="news-link" href="https://semiengineering.com/workload-driven-hbf-substrate-for-capacity-scalable-llm-inference-huawei-eth-zurich-hust/" target="_blank">阅读原文</a>
@@ -43,18 +43,33 @@ a{color:#00d2ff;text-decoration:none}a:hover{text-decoration:underline}
 <a class="news-link" href="https://www.theguardian.com/business/2026/aug/31/aanthropic-sued-alleged-theft-songs-ai-train-claude" target="_blank">阅读原文</a>
 </div>
 <div class="news-item">
-<div class="news-title">4. 五角大楼现在拥有自己版本的 ChatGPT 和 Grok</div>
+<div class="news-title">4. 1.5TB 压到 214GB：腾讯混元 Hy4 preview 轻量版发布开源，异构设备可联合推理</div>
+<div class="news-summary">IT之家 9 月 1 日消息，腾讯混元团队今日宣布推出 Hy4 preview 轻量版，将 Hy4 preview 的模型权重从接近 1.5TB 压缩至约 214GB。IT之家注：Hy4 preview 是腾讯于 8 月 28 日发布并开源的新一代 MoE（混合专家）大语言模型，总参数量 770B（7700 亿），激活参数 49B，上下文长度达 100 万 Token。此次压缩依托两项核心技术：其一是 Sherry 稀疏三值量化算法，将路由专家层权重压缩至平均 1.25 比特；其二是 MIX-STQ1_0 混合精度策略，依据校准数据逐层决定每层的量化位宽，敏感层保留较高精度（2.06 比特 IQ2_XXS），不敏感层采用更激进的 STQ1_0（1.31 比特）。两种技术结合，使模型在主流任务上表现稳定 —— 长文理解几乎与原始 BF16 模型持平，多轮长上下文检索基本在同一水平，数学能力仅小幅回落。MCP Atlas 得分从 83.7 微降至 83.2，SWE-Bench multi 从 82.9 降至 81.3。BF16 即 bfloat16 浮点格式，是 AI 训练中常用的低精度数</div>
+<a class="news-link" href="https://www.ithome.com/0/996/880.htm" target="_blank">阅读原文</a>
+</div>
+<div class="news-item">
+<div class="news-title">5. 五角大楼现在拥有自己版本的 ChatGPT 和 Grok</div>
 <div class="news-summary">OpenAI 的 ChatGPT 和 SpaceXAI 的 Grok 版本将与谷歌的 Gemini 一起出现在五角大楼的人工智能工具中央门户上。</div>
 <a class="news-link" href="https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/" target="_blank">阅读原文</a>
 </div>
 <div class="news-item">
-<div class="news-title">5. Skild AI推出S1旗舰机器人基础模型</div>
+<div class="news-title">6. 中央网信办：当前 AI 领域主要面临 5 方面安全风险挑战</div>
+<div class="news-summary">IT之家 9 月 1 日消息，据央视新闻报道，在今天（9 月 1 日）举办的 2026 年国家网络安全宣传周新闻发布会上，中央网信办网络安全协调局副局长、一级巡视员王丽宏介绍，当前人工智能领域主要面临 5 方面安全风险挑战。一是技术先天脆弱性难以根除，影响输出稳定性、可靠性。深度学习等人工智能算法本身运行逻辑复杂、可解释性欠缺，推理过程不透明，异常故障难以快速定位修正，即便是微小的输入扰动，也可能导致错误的推理结果。同时，研发训练过程中数据来源复杂多元，偏见、歧视等问题可能被有意或无意引入，导致模型错误学习并输出歧视性内容。这类技术层面的先天缺陷，大幅增加了系统故障排查难度，也让决策合理性难以有效验证，严重制约人工智能在安全要求高、容错率低、场景复杂的环境中大规模应用。二是模型能力跃迁颠覆传统安全范式，极端失控风险显现。部分前沿模型漏洞挖掘能力大幅跃升，极大降低了网络攻击门槛、提高了防护难度，打破了以修补漏洞为核心、由静态规则驱动的传统安全防护逻辑，网络安全范式面临重构。近期多家科技巨头接连曝出大模型失控事件，前沿模型在安全评估中出现智能体绕过沙箱、规避安全边界、越权访问攻击外部真实生</div>
+<a class="news-link" href="https://www.ithome.com/0/996/868.htm" target="_blank">阅读原文</a>
+</div>
+<div class="news-item">
+<div class="news-title">7. 国产智能化工大模型 3.0 Pro 发布，中国科学院大连化物所、科大讯飞、阿里云等研发</div>
+<div class="news-summary">IT之家 9 月 1 日消息，由中国科学院大连化学物理研究所（以下简称“大连化物所”）联合科大讯飞股份有限公司（以下简称“科大讯飞”）、阿里云计算有限公司（以下简称“阿里云”）等共同研发的智能化工大模型 3.0 Pro（以下简称“3.0 Pro”）于 8 月 31 日正式发布。作为我国化工行业首个大模型的最新迭代版本，3.0 Pro 实现了从“专业知识问答模型”向“化工任务智能执行系统”的重要跨越，推动了智能化工大模型从“能理解、会回答”向“能规划、会执行、可验证”迈进，从辅助知识获取的“专业助手”进一步升级为具备与专业人员协同完成复杂任务能力的“智能工程伙伴”，为化工研发、工程设计和生产运行的智能化提供了新型技术底座。化工行业具有对象复杂、尺度跨度大、数据类型多、工程约束强等特点，通用大模型难以满足专业需求。自 2024 年 3 月发布智能化工大模型 1.0 以来，大连化物所持续推进模型迭代与能力升级。IT之家从公告获悉，3.0 Pro 突破了传统大模型以知识问答和内容生成为主的应用模式，构建了“大模型 — 智能体 — 专业技能与工具 — 应用场景”的四层技术体系。其中：大模型作为认</div>
+<a class="news-link" href="https://www.ithome.com/0/996/891.htm" target="_blank">阅读原文</a>
+</div>
+<div class="news-item">
+<div class="news-title">8. Skild AI推出S1旗舰机器人基础模型</div>
 <div class="news-summary">Skild AI 表示，其 S1 机器人基础模型使机器人只需观看正在执行的视频即可学习新任务。
 Skild AI 发布 S1 旗舰机器人基础模型后首次出现在《机器人报告》上。</div>
 <a class="news-link" href="https://www.therobotreport.com/skild-ai-unveils-s1-flagship-robot-foundation-model/" target="_blank">阅读原文</a>
 </div>
 <div class="news-item">
-<div class="news-title">6. 苹果分享“令人震惊的证据”，指控前员工窃取 OpenAI 的公司数据</div>
+<div class="news-title">9. 苹果分享“令人震惊的证据”，指控前员工窃取 OpenAI 的公司数据</div>
 <div class="news-summary">苹果表示，有证据表明，一名前员工在得知自己正在接受调查后销毁了数据盗窃的证据。</div>
 <a class="news-link" href="https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/" target="_blank">阅读原文</a>
 </div>
@@ -67,14 +82,14 @@ Skild AI 发布 S1 旗舰机器人基础模型后首次出现在《机器人报�
 <a class="news-link" href="https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/" target="_blank">阅读原文</a>
 </div>
 <div class="news-item">
-<div class="news-title">2. Debian 不会禁止其 Linux 发行版中的 AI 代码</div>
-<div class="news-summary">Debian 投票允许开发人员使用 AI 工具为 Linux 发行版的“开发、维护和文档”做出贡献。关于人工智能的新政策承认“负责任”地使用人工智能可以提高开发人员的生产力，并接着说，“生成式人工智能既不能免除也不能遵守超出标准的特殊规则[……]</div>
-<a class="news-link" href="https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy" target="_blank">阅读原文</a>
+<div class="news-title">2. Manus 宣布正式恢复独立运营，创始人肖弘及团队留任</div>
+<div class="news-summary">IT之家 9 月 1 日消息，Manus 宣布即日起正式恢复独立运营，由创始人肖弘（Red Xiao）、首席科学家季逸超（Peak Ji）及联合创始人张涛（Hidecloud）组成的创始团队将继续领导公司。Manus 在此前一段时间经历了运营主体变更，部分用户在此期间需进行数据备份与恢复，并经历临时访问中断。公司对用户为此付出的额外时间与精力表示感谢，并提醒已备份但尚未恢复数据的用户可通过恢复门户进行操作，无截止时间限制（IT之家注：未受影响的用户无需采取任何行动）。作为独立的通用 AI 智能体（General AI Agent）实验室，Manus 表示将持续推进产品创新，未来将更深度融入用户日常工作流程、更直接地与世界交互，并以更主动的方式代表用户行动。Manus 表示，更多创新成果即将推出，并将陆续与用户分享。相关阅读：《消息称腾讯将从 Meta 手中接下股份，成为 Manus 最大股东》《Manus 开启限时免费活动：8 月 26 日前 Manus 1.6/Lite 全球免费用》《Manus 宣布脱离 Meta 恢复独立运营，部分用户需手动迁移账户数据》</div>
+<a class="news-link" href="https://www.ithome.com/0/996/898.htm" target="_blank">阅读原文</a>
 </div>
 <div class="news-item">
-<div class="news-title">3. 苹果首款折叠手机 iPhone Ultra 预估本月发售，首批供应“极其有限”</div>
-<div class="news-summary">IT之家 9 月 1 日消息，科技媒体 9to5Mac 昨日（8 月 31 日）发布博文，报道称苹果首款折叠手机（上市后预估名为 iPhone Ultra）上市首批供货紧张，部分地区可能无法与美国市场同步购买。北京时间 9 月 10 日凌晨 1 点召开的 2026 秋季发布会，对于苹果来说，具备非常重要的意义。在掌舵者方面，这是蒂姆 · 库克（Tim Cook）交棒后，新任 CEO 约翰 · 特努斯（John Ternus）主持召开首个新品发布会，是其履新后的首场重大公开活动。IT之家届时也会带来全程第一时间报道。在产品方面，除了 iPhone 18 Pro、iPhone 18 Pro Max 更迭外，诸多线索表明苹果会推出其首款折叠手机，上市后预估名为 iPhone Ultra。路透社于 8 月 27 日发布博文，报道称 iPhone Ultra 预估今年 9 月在美国等少数市场发售，且从供应链消息来看，目前没有证据表明该机会延后到 2027 年发售。不过路透社也表示 iPhone Ultra 上市初期供货紧张，铺货数量“极其有限”，可能会加剧出现黄牛加价销售的情况。在销售表现方面，</div>
-<a class="news-link" href="https://www.ithome.com/0/996/722.htm" target="_blank">阅读原文</a>
+<div class="news-title">3. Debian 不会禁止其 Linux 发行版中的 AI 代码</div>
+<div class="news-summary">Debian 投票允许开发人员使用 AI 工具为 Linux 发行版的“开发、维护和文档”做出贡献。关于人工智能的新政策承认“负责任”地使用人工智能可以提高开发人员的生产力，并接着说，“生成式人工智能既不能免除也不能遵守超出标准的特殊规则[……]</div>
+<a class="news-link" href="https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy" target="_blank">阅读原文</a>
 </div>
 <div class="news-item">
 <div class="news-title">4. 哈佛法学院辍学学生为 Blue Voice 筹集 600 万美元，用于建造“警察哈维”</div>
@@ -87,17 +102,27 @@ Skild AI 发布 S1 旗舰机器人基础模型后首次出现在《机器人报�
 <a class="news-link" href="https://www.theguardian.com/technology/2026/aug/31/superhuman-ai-tool-spots-heart-disease" target="_blank">阅读原文</a>
 </div>
 <div class="news-item">
-<div class="news-title">6. “可怕”：错误信息和人工智能幻觉如何渗透澳大利亚议会</div>
+<div class="news-title">6. 三星 Galaxy S27 Ultra 手机被爆测试 5000 万像素 4x 长焦镜头</div>
+<div class="news-summary">IT之家 9 月 1 日消息，消息源 @phonefuturist 昨日（8 月 31 日）在 X 平台发布推文，爆料称针对 Galaxy S27 系列，三星正测试相机硬件共享策略，目的是让该系列多款机型复用影像硬件。消息源称在 Galaxy S27 标准版和 Galaxy S27+ 两款机型上，三星计划采用 Galaxy S27 Pro 同款的 3 倍长焦镜头，并可能共享 Galaxy S27 Ultra 的主摄和超广角。在 Galaxy S27 Ultra 旗舰机型上，消息称三星测试一颗 5000 万像素长焦镜头，该镜头采用 1/1.9 英寸传感器，支持原生 4 倍光学变焦。三星尚未确认会量产这一模块。公司正在将 4 倍方案与其传统 5 倍长焦方案对比，并测试 5 款不同原型机，以评估实际成像收益是否足以覆盖更高成本。IT之家查询公开资料，三星 Galaxy S26 Ultra 的 5x 长焦适合拍摄远处建筑、舞台人物、野生动物或体育比赛，而本次测试的 4x 长焦可能更适合日常拍摄，4x 与主摄之间的距离更短，覆盖 2x、3x、4x 的过渡可能更自然。此前曝光的 Galaxy S2</div>
+<a class="news-link" href="https://www.ithome.com/0/996/895.htm" target="_blank">阅读原文</a>
+</div>
+<div class="news-item">
+<div class="news-title">7. 东风本田 8 月全系终端销量 16891 辆，环比增长 17.5%</div>
+<div class="news-summary">IT之家 9 月 1 日消息，东风本田今日宣布 8 月全系终端销量 16,891 辆，环比增长 17.5%。CR-V 销量 10,924 辆，环比增长 13.8%HR-V 销量 2,063 辆，环比增长 62.3%IT之家注意到，东风本田今年 6 月发布了新款 HR-V 汽车，共计 3 款车型，定价 10.99 万元-12.59 万元。新款 HR-V 将 240 TURBO Pro 更名为 1.5T Pro 版本，240 TURBO Max 更名为 1.5T Max 版本，240 TURBO 劲悦版则更名为 2026 款劲悦版。三款车型均取消后排 2 个充电口和后备厢 12V 电源接口，外观、内饰则与老款车型保持一致。</div>
+<a class="news-link" href="https://www.ithome.com/0/996/883.htm" target="_blank">阅读原文</a>
+</div>
+<div class="news-item">
+<div class="news-title">8. “可怕”：错误信息和人工智能幻觉如何渗透澳大利亚议会</div>
 <div class="news-summary">独家：《卫报》分析显示，来自各个政治派别的数十份政策提交文件错误地总结了真实的研究和发明，或错误地引用了来源。关注我们的澳大利亚新闻直播博客以获取最新更新获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客澳大利亚政府的调查程序应该帮助议会做出更好的决策，听取专家和选民的意见。但澳大利亚卫报可以透露，该系统正在被 A 淹没。</div>
 <a class="news-link" href="https://www.theguardian.com/australia-news/2026/sep/01/how-misinformation-ai-hallucinations-infiltrating-australian-parliament" target="_blank">阅读原文</a>
 </div>
 <div class="news-item">
-<div class="news-title">7. Clipto 使用 AI 搜索 TB 级视频，目前估值为 2.5 亿美元</div>
+<div class="news-title">9. Clipto 使用 AI 搜索 TB 级视频，目前估值为 2.5 亿美元</div>
 <div class="news-summary">这家成立三年的初创公司表示，在最新一轮融资 1500 万美元之前，其 ARR 和盈利能力已达到 1500 万美元。</div>
 <a class="news-link" href="https://techcrunch.com/2026/08/31/three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation/" target="_blank">阅读原文</a>
 </div>
 <div class="news-item">
-<div class="news-title">8. 特朗普攻击数据中心的强烈反对，声称社区抵制风险变得“落后和贫穷”</div>
+<div class="news-title">10. 特朗普攻击数据中心的强烈反对，声称社区抵制风险变得“落后和贫穷”</div>
 <div class="news-summary">在最近的一项民意调查中，四分之三的美国人表示，他们反对在自己家附近建造数据中心。唐纳德·特朗普批评美国各地社区在日益强烈的反对声中反对数据中心项目，并警告那些拒绝这些项目的人可能会变得“落后和贫穷”。在 11 月中期选举之前，围绕当地数据中心计划的争议继续围绕全国范围内的竞选活动展开，美国总统宣称美国人“只会拥有自己的数据中心”。</div>
 <a class="news-link" href="https://www.theguardian.com/us-news/2026/aug/31/trump-datacenter-comments" target="_blank">阅读原文</a>
 </div>
@@ -105,44 +130,34 @@ Skild AI 发布 S1 旗舰机器人基础模型后首次出现在《机器人报�
 <div class="section">
 <h2 style="color:#f7971e">板块三：芯片与算力</h2>
 <div class="news-item">
-<div class="news-title">1. 范式智能出资 10 亿元采购华为昇腾 950，用于 AI 大模型落地</div>
-<div class="news-summary">9 月 1 日上午消息，新浪科技从知情人士处独家获悉，港股上市公司范式智能近期与华为达成了一项大规模算力订单合作：范式将出资超 10 亿元采购华为昇腾 950 芯片，用于支撑 AI 大模型在金融、制造等核心领域的落地。据前述知情人士透露，在围绕此次合作的高层战略会晤中，范式创始人兼 CEO 戴文渊与华为常务董事杨超斌等华为及范式智能核心管理层多人出席，就算力合作进行了交流。公开信息显示，今年 4 月，范式曾公告拟以 4 亿元采购 GPU 服务器，用于推理训练及 API 支撑；其最新中报也披露，今年上半年公司资本开支高达 22.37 亿元，战略性加码算力储备，期末可用算力规模已达 2.8 万 PFLOPS。此前密集披露的算力投入表明，公司正处于明确的算力扩容周期，此次与华为的算力合作可视为这一扩张路径的延续。前述知情人士分析指出，从供应链安全维度来看，国际高端芯片供给不确定性依然存在，而昇腾 950 等国产算力在可用性与性价比上正迎来快速追赶期。“范式此时通过大规模投入率先跑通昇腾 950 生态，不仅能抢占国产算力替代的先机，更能将后续的切换成本与交付空窗期压到最低。”财报显示，今年上半</div>
-<a class="news-link" href="https://www.ithome.com/0/996/745.htm" target="_blank">阅读原文</a>
-</div>
-<div class="news-item">
-<div class="news-title">2. 七彩虹 COLORFIRE MEOW X16 Pro 游戏本上市：8745HX + 5060，首发价 10499 元</div>
-<div class="news-summary">IT之家 9 月 1 日消息，七彩虹 (Colorful) 旗下 COLORFIRE 品牌游戏笔记本电脑新品橘宝 MEOW X16 Pro 现已上市，首发价 10499 元。其配备提供 AMD 锐龙 7 8745HX 处理器、NVIDIA GeForce RTX 5060 笔记本电脑 GPU、16GB DDR5-5200 SO-DIMM 内存、512GB PCIe Gen4 SSD 存储。京东 COLORFIRE MEOW X16 Pro 游戏本 10499 元直达链接作为一款名字中带有 "MEOW" 的硬件，MEOW X16 Pro 整体采用融入猫系元素的“橘影白”外观方案。其机身整体采用冲压磨砂工艺，A 面键盘、暗藏橘宝猫系 3D 纹理丝印，C 面提供橙白撞色珠光涂层、猫爪纹触控板。该游戏本内置 2 风扇 4 热管、4 出风的“酷冷 2.0”散热系统，支持 170W 整机性能释放，噪声水平 50dB。此外其配备 16" 2560×1600 180Hz 500nit 的 100% sRGB 色域 IPS 屏幕，内置 80Wh 电池，支持 Wi-Fi 6E、2.5GbE，提供 3A2C</div>
-<a class="news-link" href="https://www.ithome.com/0/996/766.htm" target="_blank">阅读原文</a>
-</div>
-<div class="news-item">
-<div class="news-title">3. 消息称英伟达重启推理预填充优化芯片 Rubin CPX 项目，设计大幅调整</div>
-<div class="news-summary">IT之家 9 月 1 日消息，分析师郭明錤昨日表示，其最新产业调查显示 NVIDIA（英伟达）已重启人工智能推理预填充加速 GPU "Rubin CPX" 项目，不过其设计得到了大幅度的调整，预计 2027Q1 开始生产。在芯片级别，新 Rubin CPX 拥有接近标准 Rubin GPU 的算力，预填充性能进一步提升，单体最高功耗同为 2300W，配备 168GB HBM4 内存（IT之家注：旧 Rubin CPX 为 128GB GDDR7，168GB 或指向 7×24GB 设计）。来到托盘与机架级别，8 颗新 Rubin CPX 构成 1 个计算托盘；8 个计算托盘构成 1 个机架模组，内部以 Spectrum-6 全铜以太网横向扩展 (Scale-out)；新 Rubin CPX 采用独立的 MGX ETL 机架，每个机架包含 1~4 组机架模组，机架模组间横向扩展则是 Spectrum-6 + OSFP 光学方案。而在系统层面，NVIDIA 建议 Rubin CPX 与标准 Rubin 按 1:1 配对，Rubin CPX ETL 机架与 Vera Rubin NVL72 机</div>
-<a class="news-link" href="https://www.ithome.com/0/996/759.htm" target="_blank">阅读原文</a>
-</div>
-<div class="news-item">
-<div class="news-title">4. Nvidia 的 $3.5B 押注联发科揭示了其应对大型科技公司 AI 芯片建设的计划</div>
+<div class="news-title">1. Nvidia 的 $3.5B 押注联发科揭示了其应对大型科技公司 AI 芯片建设的计划</div>
 <div class="news-summary">Nvidia 向台湾芯片制造商联发科投资 35 亿美元。这笔交易表明，随着大型科技公司开始构建自己的人工智能芯片，英伟达计划如何保持对人工智能基础设施的重要地位。</div>
 <a class="news-link" href="https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/" target="_blank">阅读原文</a>
 </div>
 <div class="news-item">
-<div class="news-title">5. 欧盟的人工智能驱动力破坏了其自己的芯片战略</div>
-<div class="news-summary">本文最初由科技政策出版社发表。欧盟推动技术主权面临着令人不安的矛盾。随着欧盟推出人工智能工厂、超级工厂和新数据中心，对支撑人工智能的先进半导体的需求激增。然而，欧洲生产的芯片不到全球的 10%，并且仍然严重依赖美国设计师和亚洲制造商提供最先进的处理器。</div>
+<div class="news-title">2. 欧盟的人工智能驱动力破坏了其自己的芯片战略</div>
+<div class="news-summary">本文最初由科技政策出版社发表。欧盟推动技术主权面临着令人不安的矛盾。随着人工智能工厂、超级工厂和新数据中心的推出，对支撑人工智能的先进半导体的需求激增。然而，欧洲生产的芯片不到全球的 10%，并且仍然严重依赖美国设计师和亚洲制造商提供最先进的处理器。</div>
 <a class="news-link" href="https://spectrum.ieee.org/europes-ai-drive" target="_blank">阅读原文</a>
 </div>
 <div class="news-item">
-<div class="news-title">6. 光子学迫使 Chiplet 重新思考</div>
-<div class="news-summary">Thermal drift, stress, electromagnetic coupling, and verification gaps are turning optical integration into a full-system co-design problem rather than a plug-in bandwidth upgrade. 
+<div class="news-title">3. 光子学迫使 Chiplet 重新思考</div>
+<div class="news-summary">热漂移、应力、电磁耦合和验证差距正在将光学集成转变为全系统协同设计问题，而不是插入式带宽升级问题。 
 《光子学迫使小芯片重新思考》一文首先出现在《半导体工程》上。</div>
 <a class="news-link" href="https://semiengineering.com/photonics-forces-a-chiplet-rethink/" target="_blank">阅读原文</a>
 </div>
 <div class="news-item">
-<div class="news-title">7. 信任，但要验证</div>
+<div class="news-title">4. 信任，但要验证</div>
 <div class="news-summary">我们相信设计师会尽力而为，但也知道他们不可能做到完美。这就是我们验证的原因。当人工智能介入时，它就不可信了。
 这篇文章“信任，但验证”首先出现在半导体工程上。</div>
 <a class="news-link" href="https://semiengineering.com/trust-but-verify/" target="_blank">阅读原文</a>
 </div>
 <div class="news-item">
-<div class="news-title">8. 范式与华为达成重磅算力战略合作，成为首批拥抱国产最高端算力底座的AI企业</div>
+<div class="news-title">5. “如果你建造了比你聪明得多的东西，它最好站在你这边”：我们能阻止人工智能欺骗我们吗？</div>
+<div class="news-summary">我们已经习惯了人类同胞可能会故意误导或操纵我们的想法，但机器现在也可以做同样的事情，这令人深感不安。研究人员正在竞相寻找解决方案，以免为时已晚《Long Read》杂志夏季刊现已出版。点击此处订购 2023 年 11 月——人工智能领域的百年前——一些世界上最有权势的人突然来到白金汉郡的战时密码破译中心布莱切利公园，</div>
+<a class="news-link" href="https://www.theguardian.com/news/2026/sep/01/if-you-build-something-vastly-smarter-than-you-it-better-be-on-your-side-can-we-stop-ai-from-deceiving-us" target="_blank">阅读原文</a>
+</div>
+<div class="news-item">
+<div class="news-title">6. 范式与华为达成重磅算力战略合作，成为首批拥抱国产最高端算力底座的AI企业</div>
 <div class="news-summary"></div>
 <a class="news-link" href="https://www.qbitai.com/2026/08/481919.html" target="_blank">阅读原文</a>
 </div>
@@ -150,29 +165,24 @@ Skild AI 发布 S1 旗舰机器人基础模型后首次出现在《机器人报�
 <div class="section">
 <h2 style="color:#56ab2f">板块四：具身智能与机器人</h2>
 <div class="news-item">
-<div class="news-title">1. 岚图梦想家 9 定档 9 月 5 日预售：基于全域 L3 级自动驾驶架构打造，全球首款升降立标 MPV</div>
-<div class="news-summary">IT之家 9 月 1 日消息，岚图汽车官方今日宣布，岚图梦想家 9 定档 9 月 5 日 10:00 预售启幕。据岚图汽车最新预热，岚图梦想家 9 将成为全球首款升降立标 MPV，配备“鲲鹏凌云”升降立标。该车定位 50 万级旗舰 MPV，尺寸为 5325×1998×1823mm、轴距 3200mm。官方表示，岚图梦想家 9 整车宽高比 1:1，前鼻高占比 60%，带来稳立天地行政姿态；B 柱前后车身腰身分割比例 50:50。细节方面，岚图梦想家 9 采用“鲲鹏凌云”升降立标、“紫微星阁”大灯、“龙鳞纹”专属纹饰和“执掌星河”贯穿尾灯。岚图梦想家 9 预计今年下半年上市，售价或在 50 万元以上。官方介绍称，新车基于全域 L3 级自动驾驶架构打造，搭载 896 线双光路图像级主激光雷达和 3 颗固态补盲雷达；延续家族东方豪华设计语言，搭载可升降发光立标，支持自定义升降逻辑、灯语迎宾等功能。IT之家从申报信息获悉，该车提供插电式混合动力版和纯电动版两种车型。</div>
-<a class="news-link" href="https://www.ithome.com/0/996/773.htm" target="_blank">阅读原文</a>
-</div>
-<div class="news-item">
-<div class="news-title">2. 更好的抓手如何解锁物理人工智能</div>
+<div class="news-title">1. 更好的抓手如何解锁物理人工智能</div>
 <div class="news-summary">物理人工智能依靠更智能的抓手来赋予机器人处理现实世界任务所需的灵活性、感知能力和适应性。
 文章《如何更好的抓手可以解锁物理人工智能》首先出现在《机器人报告》上。</div>
 <a class="news-link" href="https://www.therobotreport.com/how-better-grippers-can-unlock-physical-ai/" target="_blank">阅读原文</a>
 </div>
 <div class="news-item">
-<div class="news-title">3. Reframe Systems 融资 4000 万美元，扩大其用于住宅建筑的机器人微型工厂</div>
+<div class="news-title">2. Reframe Systems 融资 4000 万美元，扩大其用于住宅建筑的机器人微型工厂</div>
 <div class="news-summary">Reframe Systems 的目标是在需要住房的社区附近建立一个自动化微型工厂网络。
 Reframe Systems 筹集了 4000 万美元，用于扩大其用于住宅建筑的机器人微型工厂，该项目首先出现在《机器人报告》上。</div>
 <a class="news-link" href="https://www.therobotreport.com/reframe-systems-raises-40m-scale-robotic-microfactories-home-building/" target="_blank">阅读原文</a>
 </div>
 <div class="news-item">
-<div class="news-title">4. 宇树消防机器人亮相，能背水炮、不怕火烧</div>
-<div class="news-summary">IT之家 9 月 1 日消息，宇树科技昨日晚间晒出一段视频，展示了其四足机器人消防应急解决方案。从视频可以看到，宇树展示了 A2-W 背负机器狗、B2 智能水炮机器狗、A2-W 侦测机器狗、B2 侦测机器狗、As2 云台侦查机器狗、B2 卫星侦查机器狗、A2-W 建模机器狗等产品，还有不怕火烧的 B2 耐高温机器狗。IT之家注意到，消防员可通过机器狗与被困人员进行双向语音对讲。</div>
-<a class="news-link" href="https://www.ithome.com/0/996/772.htm" target="_blank">阅读原文</a>
+<div class="news-title">3. 小鹏集团 8 月交付 39107 辆新车，同比增长 4%</div>
+<div class="news-summary">IT之家 9 月 1 日消息，小鹏集团今日在港交所公告，2026 年 8 月，小鹏集团共交付新车 39,107 辆，同比增长 4%。2026 年 8 月 11 日，小鹏 G9L 在中国内地正式首发并开启预售。IT之家从公告获悉，2026 年 8 月，小鹏自动驾驶出租车（Robotaxi）业务验证进一步提速。公司获得广州市智能网联汽车远程测试资质，可在广州相关一、二、三级测试道路开展主驾无安全员道路测试，进入主驾无人的关键道路验证阶段。2026 年 1 到 8 月，小鹏集团交付的电动汽车，相比内燃机汽车，全生命周期温室气体预计减排超过 372 万吨，相当于 6,160 万棵小树十年的碳吸收量。</div>
+<a class="news-link" href="https://www.ithome.com/0/996/879.htm" target="_blank">阅读原文</a>
 </div>
 <div class="news-item">
-<div class="news-title">5. 滴滴自动驾驶新一代车型开启载客测试服务</div>
+<div class="news-title">4. 滴滴自动驾驶新一代车型开启载客测试服务</div>
 <div class="news-summary">近期，滴滴自动驾驶新一代 Robotaxi R2正式开启无人载客测试服务</div>
 <a class="news-link" href="https://www.qbitai.com/2026/08/481923.html" target="_blank">阅读原文</a>
 </div>
