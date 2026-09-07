@@ -2,29 +2,39 @@
   "date": "2026-09-07",
   "category1": [
     {
-      "title": "《西雅图时报》和《新闻日报》起诉 OpenAI 和 Microsoft 侵权",
+      "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
       "url": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
-      "summary": "《西雅图时报》和《新闻日报》是最新将 OpenAI 告上法庭的原告，指控其侵犯版权。这两家媒体表示，该公司未经许可使用他们的新闻作为其人工智能模型的训练数据，并经常复制他们报道中的段落以回应用户的查询。这类似于 [...] 提起的诉讼",
-      "detail": "《西雅图时报》和《新闻日报》是最新将 OpenAI 告上法庭的原告，指控其侵犯版权。这两家媒体表示，该公司未经许可使用他们的新闻作为其人工智能模型的训练数据，并经常复制他们报道中的段落以回应用户的查询。这类似于 [...] 提起的诉讼",
+      "summary": "The Seattle Times and Newsday are just the latest plaintiffs to take OpenAI to court, alleging copyright infringement. The two outlets say the company used their journalism as training data for its AI models without permission and often reproduces passages from their reporting in response to user queries. This is similar to lawsuits filed by […]",
+      "detail": "The Seattle Times and Newsday are just the latest plaintiffs to take OpenAI to court, alleging copyright infringement. The two outlets say the company used their journalism as training data for its AI models without permission and often reproduces passages from their reporting in response to user queries. This is similar to lawsuits filed by […]",
       "source": "The Verge",
       "source_authority": 0.9,
       "date": "2026-09-07",
       "score": 0.9225
     },
     {
-      "title": "英伟达黄仁勋祝贺 OpenAI 团队发布 Astra，称“AGI 已经到来”",
-      "url": "https://www.ithome.com/0/999/069.htm",
-      "summary": "IT之家 9 月 7 日消息，英伟达创始人兼首席执行官黄仁勋今天在 X 平台发文，祝贺 OpenAI 发布最新大模型 Astra，并抛出引人注目的观点：AGI 已经到来。黄仁勋表示：“OpenAI 从发布 ChatGPT 到 o1，再到 Astra 只用了 4 年，AGI 已经到来，恭喜 OpenAI 团队。”IT之家注：通用人工智能（AGI）指的是具备与人类同等智能或超越普通人类的人工智能，能表现正常人类所具有的所有智能行为。OpenAI 本周四正式发布 Astra，官方称其是全球“最智能、最符合人类价值观的模型”，认为该模型能以“无与伦比的速度、准确性和判断力完成最具挑战性的专业工作”。OpenAI 总裁格雷格 · 布罗克曼随后在一场电话会议中表示：“欢迎来到 AGI 时代。”AI 研究院、批评学者加里 · 马库斯（Gary Marcus）认为，黄仁勋的判断为时过早。他称黄仁勋没有提供任何科学定义，也没有给出任何证据。在他看来，英伟达只是通过单方面宣布，接管原本属于科学范畴的问题。马库斯同时附上了自己的 10 项 AGI 定义标准，并指出 Astra 目前只能满足其中一到两项。另一",
-      "detail": "IT之家 9 月 7 日消息，英伟达创始人兼首席执行官黄仁勋今天在 X 平台发文，祝贺 OpenAI 发布最新大模型 Astra，并抛出引人注目的观点：AGI 已经到来。黄仁勋表示：“OpenAI 从发布 ChatGPT 到 o1，再到 Astra 只用了 4 年，AGI 已经到来，恭喜 OpenAI 团队。”IT之家注：通用人工智能（AGI）指的是具备与人类同等智能或超越普通人类的人工智能，能表现正常人类所具有的所有智能行为。OpenAI 本周四正式发布 Astra，官方称其是全球“最智能、最符合人类价值观的模型”，认为该模型能以“无与伦比的速度、准确性和判断力完成最具挑战性的专业工作”。OpenAI 总裁格雷格 · 布罗克曼随后在一场电话会议中表示：“欢迎来到 AGI 时代。”AI 研究院、批评学者加里 · 马库斯（Gary Marcus）认为，黄仁勋的判断为时过早。他称黄仁勋没有提供任何科学定义，也没有给出任何证据。在他看来，英伟达只是通过单方面宣布，接管原本属于科学范畴的问题。马库斯同时附上了自己的 10 项 AGI 定义标准，并指出 Astra 目前只能满足其中一到两项。另一",
+      "title": "科大讯飞星火 X2.5 模型正式发布：293B-A30B MoE，全国产平台训练",
+      "url": "https://www.ithome.com/0/999/204.htm",
+      "summary": "IT之家 9 月 7 日消息，科大讯飞 (iFlytek) 今日正式发布星火 Spark-X2.5 多语言文本生成模型。该模型基于全国产平台训练，采用 MoE 框架，模型参数 293B-A30B，支持 256K 上下文。星火 X2.5 全面提升代码和智能体能力，同时覆盖 200 余种语言，在语言理解、答题、推理等通用任务上保持优异的效果。这款模型目前已在讯飞星辰 MaaS 平台上线，定价如下：输入：1.6 元人民币 / 百万词元 (Token)；输入缓存命中：0.24 元人民币 / 百万词元；输出：6 元人民币 / 百万词元。",
+      "detail": "IT之家 9 月 7 日消息，科大讯飞 (iFlytek) 今日正式发布星火 Spark-X2.5 多语言文本生成模型。该模型基于全国产平台训练，采用 MoE 框架，模型参数 293B-A30B，支持 256K 上下文。星火 X2.5 全面提升代码和智能体能力，同时覆盖 200 余种语言，在语言理解、答题、推理等通用任务上保持优异的效果。这款模型目前已在讯飞星辰 MaaS 平台上线，定价如下：输入：1.6 元人民币 / 百万词元 (Token)；输入缓存命中：0.24 元人民币 / 百万词元；输出：6 元人民币 / 百万词元。",
       "source": "ITHome",
       "source_authority": 0.75,
       "date": "2026-09-07",
-      "score": 0.9125
+      "score": 0.765
+    },
+    {
+      "title": "荣耀 MagicPad4 国行版规格曝光：12.1 英寸 3K 165Hz LCD 面板、搭骁龙 8s Gen4 处理器",
+      "url": "https://www.ithome.com/0/999/158.htm",
+      "summary": "IT之家 9 月 7 日消息，博主 @睿哥玩数码 现已曝光了荣耀 MagicPad4 国行版规格信息，该机规格与国际版存在一定差异。具体来看，国行版机型搭载一块 12.1 英寸 3K 分辨率 165Hz LCD 面板（可选柔光屏，支持 MagicPencil 4S 触控笔），匹配高通骁龙 8s Gen4 处理器，内置 10100mAh 电池，同时平板拥有六扬声器空间音频，提供蓝牙键盘可选。而海外版本机型搭载 12.3 英寸 3K 分辨率 165Hz OLED 面板，匹配高通骁龙 8 Gen 5（第五代骁龙 8）移动平台，同样搭载 10100mAh 电池。目前，MagicPad4 国行机型已在荣耀商城开启预约（点此访问），预约提供荣耀生活礼包和爱奇艺黄金月卡权益。",
+      "detail": "IT之家 9 月 7 日消息，博主 @睿哥玩数码 现已曝光了荣耀 MagicPad4 国行版规格信息，该机规格与国际版存在一定差异。具体来看，国行版机型搭载一块 12.1 英寸 3K 分辨率 165Hz LCD 面板（可选柔光屏，支持 MagicPencil 4S 触控笔），匹配高通骁龙 8s Gen4 处理器，内置 10100mAh 电池，同时平板拥有六扬声器空间音频，提供蓝牙键盘可选。而海外版本机型搭载 12.3 英寸 3K 分辨率 165Hz OLED 面板，匹配高通骁龙 8 Gen 5（第五代骁龙 8）移动平台，同样搭载 10100mAh 电池。目前，MagicPad4 国行机型已在荣耀商城开启预约（点此访问），预约提供荣耀生活礼包和爱奇艺黄金月卡权益。",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-09-07",
+      "score": 0.71
     },
     {
       "title": "出版商和代理商就 Anthropic 和解提出索赔，作者予以反击",
       "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
-      "summary": "作者表示，出版商似乎要求支付超过其应得份额的和解金。",
+      "summary": "Authors say publishers seem to be claiming more than their fair share of settlement payments.",
       "detail": "作者表示，出版商似乎要求支付超过其应得份额的和解金。",
       "source": "TechCrunch",
       "source_authority": 0.95,
@@ -34,40 +44,60 @@
   ],
   "category2": [
     {
-      "title": "IT早报 0907：央视报道单台手机仅含 0.02—0.03 克黄金；比亚迪称闪充业务受电池产能制约；“国家反诈 AI”App 上线；AI 短剧制作价格大跳水...",
-      "url": "https://www.ithome.com/0/999/065.htm",
-      "summary": "“IT早报”时间，大家好，现在是 2026 年 9 月 7 日星期一，今天的重要科技资讯有：1. 央视解码手机回收：一台现代手机黄金含量仅 0.02—0.03 克专家澄清网传说法，200 克黄金对应拆解后纯主板而非整台手机，现代单台手机仅含 0.02-0.03 克黄金。目前我国工业回收金属综合回收率超 98%，>> 查看详情2. 比亚迪：今年受电池产能制约，闪充太受欢迎比亚迪于 9 月 4 日发布投资者关系活动记录表，其中指出，今年受电池产能制约，闪充太受欢迎。>> 查看详情3. “随时能问、随手可查”的反诈智能助手“国家反诈 AI”App 上线，微信、支付宝小程序也同步开放据介绍，“国家反诈 AI”App 融合了大语言、多模态模型和智能体技术，用户通过手机输入可疑场景，该 App 即可完成风险研判、识别诈骗套路、推送典型案例，从“文字 + 语音 + 视频”等多个维度拆解诈骗手法，提供识别防范对策。>> 查看详情4. AI 短剧制作价格大跳水：部分报价逼近成本线，行业竞争转向拼内容、拼市场今年以来，AI 短剧迎来一轮爆发：技术门槛下降，大量从业者涌入，产能快速扩张，制作价格随之“跳水”",
-      "detail": "“IT早报”时间，大家好，现在是 2026 年 9 月 7 日星期一，今天的重要科技资讯有：1. 央视解码手机回收：一台现代手机黄金含量仅 0.02—0.03 克专家澄清网传说法，200 克黄金对应拆解后纯主板而非整台手机，现代单台手机仅含 0.02-0.03 克黄金。目前我国工业回收金属综合回收率超 98%，>> 查看详情2. 比亚迪：今年受电池产能制约，闪充太受欢迎比亚迪于 9 月 4 日发布投资者关系活动记录表，其中指出，今年受电池产能制约，闪充太受欢迎。>> 查看详情3. “随时能问、随手可查”的反诈智能助手“国家反诈 AI”App 上线，微信、支付宝小程序也同步开放据介绍，“国家反诈 AI”App 融合了大语言、多模态模型和智能体技术，用户通过手机输入可疑场景，该 App 即可完成风险研判、识别诈骗套路、推送典型案例，从“文字 + 语音 + 视频”等多个维度拆解诈骗手法，提供识别防范对策。>> 查看详情4. AI 短剧制作价格大跳水：部分报价逼近成本线，行业竞争转向拼内容、拼市场今年以来，AI 短剧迎来一轮爆发：技术门槛下降，大量从业者涌入，产能快速扩张，制作价格随之“跳水”",
+      "title": "百度 2026 小度新品发布会定档 9 月 8 日，将发布智能屏、闺蜜机、音箱等新品",
+      "url": "https://www.ithome.com/0/999/197.htm",
+      "summary": "IT之家 9 月 7 日消息，小度今日官宣，百度 AI 开放日“2026 小度新品发布会”定档 9 月 8 日 14:00，将发布搭载超能小度智能体能力的小度添添闺蜜机、小度智能屏、小度智能摄像机等多款硬件新品。从邀请函可以看到，小度将发布小度智能屏、小度摄像机 AI 看护智能体 2.0、小度闺蜜机、小度智能音箱等产品。据IT之家去年 11 月报道，小度发布其全新升级的多模态 AI 智能助手 —— 超能小度，并宣布全系、全量、全生态上线。数千万台已售小度设备将免费升级超能小度，为所有小度用户带来人机交互的新体验。",
+      "detail": "IT之家 9 月 7 日消息，小度今日官宣，百度 AI 开放日“2026 小度新品发布会”定档 9 月 8 日 14:00，将发布搭载超能小度智能体能力的小度添添闺蜜机、小度智能屏、小度智能摄像机等多款硬件新品。从邀请函可以看到，小度将发布小度智能屏、小度摄像机 AI 看护智能体 2.0、小度闺蜜机、小度智能音箱等产品。据IT之家去年 11 月报道，小度发布其全新升级的多模态 AI 智能助手 —— 超能小度，并宣布全系、全量、全生态上线。数千万台已售小度设备将免费升级超能小度，为所有小度用户带来人机交互的新体验。",
       "source": "ITHome",
       "source_authority": 0.75,
       "date": "2026-09-07",
-      "score": 0.8225
+      "score": 0.765
     },
     {
-      "title": "技嘉推出“GO27Q32”27 英寸显示器：2K 320Hz QD-OLED，2999 元",
-      "url": "https://www.ithome.com/0/999/058.htm",
-      "summary": "IT之家 9 月 7 日消息，技嘉现已在京东上架一款型号为“GO27Q32”的 27 英寸显示器，该机主打 2K 320Hz QD-OLED，定价为 2999 元，提供 3 年质保。京东技嘉 GO27Q32 显示器 2999 元直达链接该机配备一块 2560x1440 分辨率 320Hz QD-OLED 三星面板，采用 5 层串联式发光结构，并装配全新 ObsidianShield 抗反射镀膜，显示器提供 0.03ms GTG 灰阶响应时间，1300 尼特峰值亮度，显示器支持 10-Bit 色彩，覆盖 99.5% DCI-P3 色域。该机支架支持升降 / 倾斜 / 旋转，显示器本体支持 VESA 壁挂，配备 48Gbps 满血 HDMI 2.1 接口及 DP 接口，完整支持 NVIDIA G-SYNC 与 AMD FreeSync Premium Pro 双平台防撕裂技术。",
-      "detail": "IT之家 9 月 7 日消息，技嘉现已在京东上架一款型号为“GO27Q32”的 27 英寸显示器，该机主打 2K 320Hz QD-OLED，定价为 2999 元，提供 3 年质保。京东技嘉 GO27Q32 显示器 2999 元直达链接该机配备一块 2560x1440 分辨率 320Hz QD-OLED 三星面板，采用 5 层串联式发光结构，并装配全新 ObsidianShield 抗反射镀膜，显示器提供 0.03ms GTG 灰阶响应时间，1300 尼特峰值亮度，显示器支持 10-Bit 色彩，覆盖 99.5% DCI-P3 色域。该机支架支持升降 / 倾斜 / 旋转，显示器本体支持 VESA 壁挂，配备 48Gbps 满血 HDMI 2.1 接口及 DP 接口，完整支持 NVIDIA G-SYNC 与 AMD FreeSync Premium Pro 双平台防撕裂技术。",
+      "title": "小米澎程 N90 Max 升顶帐篷款官宣亮相，有望今晚发布会上登场",
+      "url": "https://www.ithome.com/0/999/213.htm",
+      "summary": "IT之家 9 月 7 日消息，小米汽车官方刚刚发文预热今晚的发布会，宣布澎程新车 19 点见。IT之家注意到，在官方预热海报的右下角出现了澎程 N90 Max 升顶帐篷款的剪影。这也是小米官方首次公开升顶版的存在，此前在技术发布会上也未曾提及。根据规划，小米秋季旗舰新品发布会已官宣定档 9 月 7 日（周一）晚 7 点。届时将发布澎程 N70 Pro / N70 Max / N90 Max、小米 18 Fold 全新折叠屏旗舰手机、小米平板 9 Pro Max 等。",
+      "detail": "IT之家 9 月 7 日消息，小米汽车官方刚刚发文预热今晚的发布会，宣布澎程新车 19 点见。IT之家注意到，在官方预热海报的右下角出现了澎程 N90 Max 升顶帐篷款的剪影。这也是小米官方首次公开升顶版的存在，此前在技术发布会上也未曾提及。根据规划，小米秋季旗舰新品发布会已官宣定档 9 月 7 日（周一）晚 7 点。届时将发布澎程 N70 Pro / N70 Max / N90 Max、小米 18 Fold 全新折叠屏旗舰手机、小米平板 9 Pro Max 等。",
       "source": "ITHome",
       "source_authority": 0.75,
       "date": "2026-09-07",
-      "score": 0.7775
+      "score": 0.7125
     },
     {
-      "title": "在线博彩公司被指控使用 cookie 横幅侵犯英国隐私",
+      "title": "Online bookies accused of UK privacy breaches with use of cookie banners",
       "url": "https://www.theguardian.com/technology/2026/sep/06/online-bookies-privacy-breaches-cookies-tracking",
-      "summary": "研究显示，大多数赌博网站都会促使用户接受跟踪数据，并在获得同意之前收集这些数据，研究显示，在线博彩公司和赌场被指控普遍不遵守信息隐私要求，包括对客户的“数据监视”。 近十分之九 (86%) 获得许可的英国赌博网站似乎违反了通用数据保护条例 (GDPR)，该条例是管理组织如何收集、存储和获取数据的严格规则。",
-      "detail": "研究显示，大多数赌博网站都会促使用户接受跟踪数据，并在获得同意之前收集这些数据，研究显示，在线博彩公司和赌场被指控普遍不遵守信息隐私要求，包括对客户的“数据监视”。 近十分之九 (86%) 获得许可的英国赌博网站似乎违反了通用数据保护条例 (GDPR)，该条例是管理组织如何收集、存储和获取数据的严格规则。",
+      "summary": "Most gambling websites nudge users towards accepting tracking data and harvest it before consent is given, study showsOnline bookmakers and casinos have been accused of widespread non-compliance of information privacy requirements, including “data surveillance” of customers, according to a study.Nearly nine out of 10 (86%) licensed British gambling websites appear to be flouting the general data protection regulation (GDPR), the strict rules governing how organisations can collect, store and pro",
+      "detail": "Most gambling websites nudge users towards accepting tracking data and harvest it before consent is given, study showsOnline bookmakers and casinos have been accused of widespread non-compliance of information privacy requirements, including “data surveillance” of customers, according to a study.Nearly nine out of 10 (86%) licensed British gambling websites appear to be flouting the general data protection regulation (GDPR), the strict rules governing how organisations can collect, store and pro",
       "source": "The Guardian",
       "source_authority": 0.85,
       "date": "2026-09-06",
       "score": 0.6975
     },
     {
-      "title": "我与 Siri AI 的短暂夏日狂欢",
+      "title": "飞利浦首款定制屏显剃须刀发布：照片一键上屏，3099 元起",
+      "url": "https://www.ithome.com/0/999/215.htm",
+      "summary": "IT之家 9 月 7 日消息，飞利浦首款定制屏显剃须刀 —— 旋护新 9 系 Ultra 随心焕屏版今日正式发布，售价 3,099 元起。这款产品是飞利浦 2026 年推出的护肤级高端旗舰剃须刀，主打定制屏显功能，用户可将家人、宠物、爱好相关照片设置为开机画面，照片一键上屏，实现千人千屏，让所爱常在眼前。自定义照片上传步骤十分简单，只需连接男士理容 App，上传并编辑照片和文字，预览效果后一键发送到剃须刀即可完成设置，要求 App 更新至 9.6.0 或以上版本。剃须性能方面，这款剃须刀采用专研微提切旋护科技，可实现 -0.08mm 根源净剃，延缓胡须冒头，减少胡青胡渣，让肌肤保持 24 小时平滑清爽。刀头方面，它采用百万微珠涂层设计，每平方厘米包含 50 万颗微珠，相比非涂层材料可减少 50% 摩擦，减轻对肌肤的摩擦拉扯。刀头材质采用荷兰进口太空级钢材，包含 72 片欧洲进口特选太空级精钢双层自研磨刀片，可实现每分钟 800 万次高速切削，宣称长达 2 年无需频繁更换。智能体验方面，它搭载 SkinIQ Pro 技术，每分钟可 3,000 次感应剃须压力，并且通过双重引导光环以 4",
+      "detail": "IT之家 9 月 7 日消息，飞利浦首款定制屏显剃须刀 —— 旋护新 9 系 Ultra 随心焕屏版今日正式发布，售价 3,099 元起。这款产品是飞利浦 2026 年推出的护肤级高端旗舰剃须刀，主打定制屏显功能，用户可将家人、宠物、爱好相关照片设置为开机画面，照片一键上屏，实现千人千屏，让所爱常在眼前。自定义照片上传步骤十分简单，只需连接男士理容 App，上传并编辑照片和文字，预览效果后一键发送到剃须刀即可完成设置，要求 App 更新至 9.6.0 或以上版本。剃须性能方面，这款剃须刀采用专研微提切旋护科技，可实现 -0.08mm 根源净剃，延缓胡须冒头，减少胡青胡渣，让肌肤保持 24 小时平滑清爽。刀头方面，它采用百万微珠涂层设计，每平方厘米包含 50 万颗微珠，相比非涂层材料可减少 50% 摩擦，减轻对肌肤的摩擦拉扯。刀头材质采用荷兰进口太空级钢材，包含 72 片欧洲进口特选太空级精钢双层自研磨刀片，可实现每分钟 800 万次高速切削，宣称长达 2 年无需频繁更换。智能体验方面，它搭载 SkinIQ Pro 技术，每分钟可 3,000 次感应剃须压力，并且通过双重引导光环以 4",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-09-07",
+      "score": 0.695
+    },
+    {
+      "title": "Designers should not fear being replaced by AI, industry leaders say",
+      "url": "https://www.theguardian.com/uk-news/2026/sep/07/designers-should-not-fear-being-replaced-by-ai-industry-leaders-say",
+      "summary": "Firms are more likely to use technology as ‘the intern in the office’ than as a replacement for skilled staffProfessional designers should not feel “threatened” by the rapid growth of generative AI, according to business leaders, despite fears over job losses in the sector.With design and film production companies and manufacturers all adopting AI at an accelerating pace, industry bodies said the technology would be used to enhance the work of designers rather than replace them. Continue reading",
+      "detail": "Firms are more likely to use technology as ‘the intern in the office’ than as a replacement for skilled staffProfessional designers should not feel “threatened” by the rapid growth of generative AI, according to business leaders, despite fears over job losses in the sector.With design and film production companies and manufacturers all adopting AI at an accelerating pace, industry bodies said the technology would be used to enhance the work of designers rather than replace them. Continue reading",
+      "source": "The Guardian",
+      "source_authority": 0.85,
+      "date": "2026-09-07",
+      "score": 0.63
+    },
+    {
+      "title": "My Brief Summer Fling With Siri AI",
       "url": "https://www.wired.com/story/my-brief-summer-fling-with-siri-ai/",
-      "summary": "我最初很喜欢苹果改进后的智能手机助手的测试版。随着完整版本的临近，我什至忘记了 Siri AI 的存在。",
-      "detail": "我最初很喜欢苹果改进后的智能手机助手的测试版。随着完整版本的临近，我什至忘记了 Siri AI 的存在。",
+      "summary": "I was initially enamored with the beta version of Apple’s revamped smartphone assistant. As the full release approaches, I’ve forgotten Siri AI even exists.",
+      "detail": "I was initially enamored with the beta version of Apple’s revamped smartphone assistant. As the full release approaches, I’ve forgotten Siri AI even exists.",
       "source": "Wired",
       "source_authority": 0.85,
       "date": "2026-09-06",
@@ -76,82 +106,82 @@
   ],
   "category3": [
     {
-      "title": "曙光介绍全球首款 64 线程移动工作站 N50 Pro：CPU 频率可达 4.3GHz",
-      "url": "https://www.ithome.com/0/999/088.htm",
-      "summary": "IT之家 9 月 7 日消息，中科曙光 (Sugon) 曾在早些时候官宣了全球首款 64 线程移动工作站 (MWS) 产品。而在本月 2 日，曙光确认该产品名称为 N50 Pro，并对其具体规格进行了进一步的介绍。N50 Pro 的 CPU 单线程频率至高可达 4.3GHz、GPU 主频则达 3.3GHz，支持 128GB 内存、8TB 存储。其配备 \"4K\" 分辨率 120Hz 刷新率屏幕，色偏 ΔE＜1，屏占比达 93%；薄至 16.9mm、轻至 1.69kg。整机采用隐藏式接口设计，提供全套“大满贯”高速接口，支持多屏 4K 输出，数据传输速率可达“万兆”(10Gbps) 级别。另根据此前披露，N50 Pro 的独立 GPU 配备 16GB 显存；本地运行 35B MoE 模型可实现 50 Tokens/s 的输出速率，AI 推理速度最高可达业界主流产品 3~5 倍。",
-      "detail": "IT之家 9 月 7 日消息，中科曙光 (Sugon) 曾在早些时候官宣了全球首款 64 线程移动工作站 (MWS) 产品。而在本月 2 日，曙光确认该产品名称为 N50 Pro，并对其具体规格进行了进一步的介绍。N50 Pro 的 CPU 单线程频率至高可达 4.3GHz、GPU 主频则达 3.3GHz，支持 128GB 内存、8TB 存储。其配备 \"4K\" 分辨率 120Hz 刷新率屏幕，色偏 ΔE＜1，屏占比达 93%；薄至 16.9mm、轻至 1.69kg。整机采用隐藏式接口设计，提供全套“大满贯”高速接口，支持多屏 4K 输出，数据传输速率可达“万兆”(10Gbps) 级别。另根据此前披露，N50 Pro 的独立 GPU 配备 16GB 显存；本地运行 35B MoE 模型可实现 50 Tokens/s 的输出速率，AI 推理速度最高可达业界主流产品 3~5 倍。",
+      "title": "算力芯片龙头摩尔线程触及 20cm 跌停：股价创上市以来新低，市值跌破 2000 亿元",
+      "url": "https://www.ithome.com/0/999/151.htm",
+      "summary": "IT之家 9 月 7 日消息，算力芯片龙头摩尔线程今日早盘触及 20cm 跌停（股价跌 20%），股价创上市以来新低，总市值跌破 2,000 亿元。据财联社报道，消息面上，9 月 7 日，摩尔线程 2,577.45 万股首发、公开增发网下配售股份迎来解禁。摩尔线程于 2025 年 12 月 5 日在上海证券交易所科创板上市。该公司首次公开发行股票完成后，总股本为 470,028,217 股，其中有限售条件流通股 440,645,831 股，无限售条件流通股 29,382,386 股。本次上市流通的限售股为公司首次公开发行网下配售部分限售股，股份数量为 25,774,510 股，占公司股本总数的 5.48%。前述股份限售期为自公司首次公开发行股票并上市之日起 9 个月，该部分限售股锁定期届满，于 2026 年 9 月 7 日起上市流通（因 2026 年 9 月 5 日为非交易日，故顺延至下一交易日）。IT之家查询财报数据，摩尔线程 2026 年上半年营业总收入 17.36 亿元，同比增长 147.42%；归母净亏损 1,156.31 万元，同比亏损收窄 95.73%。摩尔线程 8 月 9",
+      "detail": "IT之家 9 月 7 日消息，算力芯片龙头摩尔线程今日早盘触及 20cm 跌停（股价跌 20%），股价创上市以来新低，总市值跌破 2,000 亿元。据财联社报道，消息面上，9 月 7 日，摩尔线程 2,577.45 万股首发、公开增发网下配售股份迎来解禁。摩尔线程于 2025 年 12 月 5 日在上海证券交易所科创板上市。该公司首次公开发行股票完成后，总股本为 470,028,217 股，其中有限售条件流通股 440,645,831 股，无限售条件流通股 29,382,386 股。本次上市流通的限售股为公司首次公开发行网下配售部分限售股，股份数量为 25,774,510 股，占公司股本总数的 5.48%。前述股份限售期为自公司首次公开发行股票并上市之日起 9 个月，该部分限售股锁定期届满，于 2026 年 9 月 7 日起上市流通（因 2026 年 9 月 5 日为非交易日，故顺延至下一交易日）。IT之家查询财报数据，摩尔线程 2026 年上半年营业总收入 17.36 亿元，同比增长 147.42%；归母净亏损 1,156.31 万元，同比亏损收窄 95.73%。摩尔线程 8 月 9",
       "source": "ITHome",
       "source_authority": 0.75,
       "date": "2026-09-07",
-      "score": 0.785
+      "score": 0.8475
     },
     {
-      "title": "Xplora Go Pad 平板曝光：HMD Global 代工、搭高通骁龙 685 处理器",
-      "url": "https://www.ithome.com/0/999/067.htm",
-      "summary": "IT之家 9 月 7 日消息，消息源 smashx_60 现已曝光了一款由 HMD Global 代工的 Xplora Go Pad 平板电脑，该机主要用于教育市场，在 2026 年今天仍采用高通骁龙 685 处理器。该机提供了 IP65 认证，可承受最高 100 厘米高度跌落，平板电脑正面搭载一块 8.7 英寸 IPS LCD 面板，软件方面提供了成人内容屏蔽、家在控制、教育 AI、联网控制等功能。平板电脑支持 18W 充电。▲ HMD 现款 T21 平板电脑该机搭载高通骁龙 685 处理器，这是一款采用台积电 6nm 工艺制造的老款芯片，由 4 颗 Cortex-A73 性能核心和 4 颗 Cortex-A53 能效核心组成，仅支持 4G LTE 网络。Xplora Go Pad 本质上也是 HMD Gloal 与挪威公司 Xplora 进一步合作的产物。双方此前已经在 Fusion X1 智能手机上展开合作，该设备针对儿童和家庭使用场景，允许家长管理互联网和社交媒体访问权限、设置允许联系的联系人、限制屏幕使用时间，并提供位置追踪功能。此次 Xplora Go Pad 则将类似的儿",
-      "detail": "IT之家 9 月 7 日消息，消息源 smashx_60 现已曝光了一款由 HMD Global 代工的 Xplora Go Pad 平板电脑，该机主要用于教育市场，在 2026 年今天仍采用高通骁龙 685 处理器。该机提供了 IP65 认证，可承受最高 100 厘米高度跌落，平板电脑正面搭载一块 8.7 英寸 IPS LCD 面板，软件方面提供了成人内容屏蔽、家在控制、教育 AI、联网控制等功能。平板电脑支持 18W 充电。▲ HMD 现款 T21 平板电脑该机搭载高通骁龙 685 处理器，这是一款采用台积电 6nm 工艺制造的老款芯片，由 4 颗 Cortex-A73 性能核心和 4 颗 Cortex-A53 能效核心组成，仅支持 4G LTE 网络。Xplora Go Pad 本质上也是 HMD Gloal 与挪威公司 Xplora 进一步合作的产物。双方此前已经在 Fusion X1 智能手机上展开合作，该设备针对儿童和家庭使用场景，允许家长管理互联网和社交媒体访问权限、设置允许联系的联系人、限制屏幕使用时间，并提供位置追踪功能。此次 Xplora Go Pad 则将类似的儿",
+      "title": "超频三公布英特尔酷睿 Ultra X7 处理器 358H 款融核模组化整机",
+      "url": "https://www.ithome.com/0/999/180.htm",
+      "summary": "IT之家 9 月 7 日消息，超频三 (CPS, Pccooler) 上月公布了融核 FC300-CS 模组化整机。这款“分体式一体机”由 PC 主机和显示单元组成，两部分均可独立更换。不过，FC300-CS 初期仅提供了英特尔酷睿 Ultra 5 处理器 125U，这一 \"Meteor Lake\" 配置在今天看来性能并不算领先。而在今日公布的白露节气图片中，超频三确认将推出英特尔酷睿 Ultra X7 处理器 358H 款融核模组化整机，带来更为强劲的 CPU、GPU、NPU 算力，同时从一个侧面佐证了该平台的可升级性。IT之家注意到，图片中 PC 主机左侧的 I/O 区域保持了与原版一致的接口布局。相关阅读：《今日白露：“露凝而白也”，一场秋雨一场凉》",
+      "detail": "IT之家 9 月 7 日消息，超频三 (CPS, Pccooler) 上月公布了融核 FC300-CS 模组化整机。这款“分体式一体机”由 PC 主机和显示单元组成，两部分均可独立更换。不过，FC300-CS 初期仅提供了英特尔酷睿 Ultra 5 处理器 125U，这一 \"Meteor Lake\" 配置在今天看来性能并不算领先。而在今日公布的白露节气图片中，超频三确认将推出英特尔酷睿 Ultra X7 处理器 358H 款融核模组化整机，带来更为强劲的 CPU、GPU、NPU 算力，同时从一个侧面佐证了该平台的可升级性。IT之家注意到，图片中 PC 主机左侧的 I/O 区域保持了与原版一致的接口布局。相关阅读：《今日白露：“露凝而白也”，一场秋雨一场凉》",
       "source": "ITHome",
       "source_authority": 0.75,
       "date": "2026-09-07",
-      "score": 0.7325
+      "score": 0.8
     },
     {
-      "title": "Eric Sivertson 讨论 FPGAs 和机器人安全",
+      "title": "小米智能摄像机视频通话版 2 发售：3.97 英寸彩屏、支持手势呼叫，499 元",
+      "url": "https://www.ithome.com/0/999/219.htm",
+      "summary": "IT之家 9 月 7 日消息，小米智能摄像机视频通话版 2 现已在京东发售，定价 499 元。京东小米智能摄像机 视频通话版 2499 元直达链接该机配备 3.97 英寸 480x800 分辨率彩屏。具备大按键面积，按压感清晰，反应更灵敏，方便老人小孩操作。摄像机与手机、摄像机与摄像机之间均可双向视频通话，操作简单的同时，使用场景更丰富。新品支持手势呼叫、一键呼叫、联动呼叫等 3 种呼叫方式，操作灵活且简单，便于家人使用与记忆，不同场景均可快速发起视频通话。新品在音质方面明显提升，内置双麦克风和大直径扬声器，智能降噪且传声响亮，老人易听清。该机新增水平电子云台，支持 360° 水平视角、0°~30° 手动俯仰调节，可远程查看家中广阔范围，灵活掌握更多家人动态。摄像机清晰度升级至 800 万像素，分辨率高达 3840x2160，可拍摄 4K 超高清视频。新品内置 1.5T 高算力芯片，运算能力较上一代提升 50%，能运行更复杂的 AI 算法，应对更准确、更智能和更丰富的场景检测。该产品还支持小米澎湃智联，可畅联海量智能设备。与他人视频通话时，可一键调用摄像机实拍画面至屏幕。支持家人共享与",
+      "detail": "IT之家 9 月 7 日消息，小米智能摄像机视频通话版 2 现已在京东发售，定价 499 元。京东小米智能摄像机 视频通话版 2499 元直达链接该机配备 3.97 英寸 480x800 分辨率彩屏。具备大按键面积，按压感清晰，反应更灵敏，方便老人小孩操作。摄像机与手机、摄像机与摄像机之间均可双向视频通话，操作简单的同时，使用场景更丰富。新品支持手势呼叫、一键呼叫、联动呼叫等 3 种呼叫方式，操作灵活且简单，便于家人使用与记忆，不同场景均可快速发起视频通话。新品在音质方面明显提升，内置双麦克风和大直径扬声器，智能降噪且传声响亮，老人易听清。该机新增水平电子云台，支持 360° 水平视角、0°~30° 手动俯仰调节，可远程查看家中广阔范围，灵活掌握更多家人动态。摄像机清晰度升级至 800 万像素，分辨率高达 3840x2160，可拍摄 4K 超高清视频。新品内置 1.5T 高算力芯片，运算能力较上一代提升 50%，能运行更复杂的 AI 算法，应对更准确、更智能和更丰富的场景检测。该产品还支持小米澎湃智联，可畅联海量智能设备。与他人视频通话时，可一键调用摄像机实拍画面至屏幕。支持家人共享与",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-09-07",
+      "score": 0.71
+    },
+    {
+      "title": "Eric Sivertson discusses FPGAs and robot security",
       "url": "https://www.therobotreport.com/eric-sivertson-discusses-fpgas-robot-security/",
-      "summary": "对 Lattice Semiconductor 的 Eric Sivertson 的采访，内容涉及 FPGA 以及它们如何提高机器人的安全性和安保性。\nEric Sivertson 讨论 FPGA 和机器人安全性的帖子首先出现在《机器人报告》上。",
-      "detail": "对 Lattice Semiconductor 的 Eric Sivertson 的采访，内容涉及 FPGA 以及它们如何提高机器人的安全性和安保性。\nEric Sivertson 讨论 FPGA 和机器人安全性的帖子首先出现在《机器人报告》上。",
+      "summary": "An interview with Eric Sivertson of Lattice Semiconductor about FPGAs and how they can improve robot safety and security.\nThe post Eric Sivertson discusses FPGAs and robot security appeared first on The Robot Report.",
+      "detail": "An interview with Eric Sivertson of Lattice Semiconductor about FPGAs and how they can improve robot safety and security.\nThe post Eric Sivertson discusses FPGAs and robot security appeared first on The Robot Report.",
       "source": "The Robot Report",
       "source_authority": 0.85,
       "date": "2026-09-06",
       "score": 0.685
     },
     {
-      "title": "一家被列入黑名单的中国科技巨头如何不断购买美国最好的人工智能薯片",
+      "title": "How a Blacklisted Chinese Tech Giant Kept Buying America’s Best A.I. Chips",
       "url": "https://www.nytimes.com/2026/09/06/technology/ai-chips-china-blacklist.html",
-      "summary": "华盛顿因其与中国军方的合作而对浪潮实施制裁。但该公司的子公司继续运送英伟达最好的芯片来满足中国领先的人工智能的需求。公司。",
-      "detail": "华盛顿因其与中国军方的合作而对浪潮实施制裁。但该公司的子公司继续运送英伟达最好的芯片来满足中国领先的人工智能的需求。公司。",
+      "summary": "Washington imposed sanctions on Inspur because of its work with the Chinese military. But the company’s subsidiary kept shipping Nvidia’s best chips to feed China’s leading A.I. firms.",
+      "detail": "Washington imposed sanctions on Inspur because of its work with the Chinese military. But the company’s subsidiary kept shipping Nvidia’s best chips to feed China’s leading A.I. firms.",
       "source": "NYT",
       "source_authority": 0.9,
       "date": "2026-09-06",
       "score": 0.67
-    },
-    {
-      "title": "曝英特尔 Nova Lake 12Xe 大核显移动处理器将官方支持 DDR5 内存",
-      "url": "https://www.ithome.com/0/999/082.htm",
-      "summary": "IT之家 9 月 7 日消息，消息人士 @金猪升级包 本月 3 日在微博表示，Intel（英特尔）将在下一代 \"Nova Lake\" 处理器 12Xe“大核显”变体的移动端版本上官方支持 DDR5 内存，模组规格可达 8000MT/s CSO-DIMM。英特尔没有在本代 \"Panther Lake 12Xe\" 移动处理器上官方提供 DDR5 支持，但这并非是硬件层面的问题。华擎 (ASrock) 旗下东擎 (ASRock Industrial) 就推出了搭载酷睿 Ultra X7 358H 的迷你主机领域产品。消息人士宣称，英特尔是特地未让 \"Panther Lake 12Xe\" 官方支持 DDR5。而对于 \"Nova Lake 12Xe\" 来说，由于该变体很可能会提供 FCLGA 的桌面端版本，因此硬件上兼容 DDR5 本就在预料之中。",
-      "detail": "IT之家 9 月 7 日消息，消息人士 @金猪升级包 本月 3 日在微博表示，Intel（英特尔）将在下一代 \"Nova Lake\" 处理器 12Xe“大核显”变体的移动端版本上官方支持 DDR5 内存，模组规格可达 8000MT/s CSO-DIMM。英特尔没有在本代 \"Panther Lake 12Xe\" 移动处理器上官方提供 DDR5 支持，但这并非是硬件层面的问题。华擎 (ASrock) 旗下东擎 (ASRock Industrial) 就推出了搭载酷睿 Ultra X7 358H 的迷你主机领域产品。消息人士宣称，英特尔是特地未让 \"Panther Lake 12Xe\" 官方支持 DDR5。而对于 \"Nova Lake 12Xe\" 来说，由于该变体很可能会提供 FCLGA 的桌面端版本，因此硬件上兼容 DDR5 本就在预料之中。",
-      "source": "ITHome",
-      "source_authority": 0.75,
-      "date": "2026-09-07",
-      "score": 0.62
     }
   ],
   "category4": [
     {
-      "title": "曝魅族 AI 小方块将量产上市，搭载紫光展讯 T8200 处理器 + 4 英寸小方屏",
-      "url": "https://www.ithome.com/0/999/061.htm",
-      "summary": "IT之家 9 月 7 日消息，据博主 @体验more 透露，魅族 AI 小方块将量产上市，搭载紫光展讯 T8200 处理器，配备 4 英寸小方屏。博主还晒出了魅族 AI 小方块的产品包装盒。参考IT之家此前报道，在 9 月 2 日的腾讯 WorkBuddy 生态发布会上，魅族 AI 小方块概念机亮相。据介绍，魅族 AI 小方块概念机搭载基于原生 AI 的 Flyme AIOS，通过深度融合智能交互与 WorkBuddy 云端 AI 工作台核心能力，带来全新 AI 协同办公体验。另外，魅族在今年 1 月的 2026 魅友新春会中公布了魅族 22 Next“AI 小方块”，使用聚碳酸酯亮面外壳，内置 Flyme AIOS。事实上，魅族已为该机规划了比较完善的 AI 智能体交互体验，其号称拥有数十个场景、超 100 个表情界面，可以放在吉利系汽车上作为“驾乘机器人”，不过后续就没了官方消息，只是在今年 6 月曝光了工程机。",
-      "detail": "IT之家 9 月 7 日消息，据博主 @体验more 透露，魅族 AI 小方块将量产上市，搭载紫光展讯 T8200 处理器，配备 4 英寸小方屏。博主还晒出了魅族 AI 小方块的产品包装盒。参考IT之家此前报道，在 9 月 2 日的腾讯 WorkBuddy 生态发布会上，魅族 AI 小方块概念机亮相。据介绍，魅族 AI 小方块概念机搭载基于原生 AI 的 Flyme AIOS，通过深度融合智能交互与 WorkBuddy 云端 AI 工作台核心能力，带来全新 AI 协同办公体验。另外，魅族在今年 1 月的 2026 魅友新春会中公布了魅族 22 Next“AI 小方块”，使用聚碳酸酯亮面外壳，内置 Flyme AIOS。事实上，魅族已为该机规划了比较完善的 AI 智能体交互体验，其号称拥有数十个场景、超 100 个表情界面，可以放在吉利系汽车上作为“驾乘机器人”，不过后续就没了官方消息，只是在今年 6 月曝光了工程机。",
+      "title": "曝 IFA 2026 中国企业占比近五成，IFA CEO 林德纳回应称不在乎创新来自哪里、只是反映市场现实",
+      "url": "https://www.ithome.com/0/999/154.htm",
+      "summary": "当地时间 9 月 4 日至 8 日，2026 年柏林国际消费电子展（IFA）在德国柏林举行。新浪科技《欧陆志》在展会现场对话 IFA 首席执行官莱夫 · 林德纳（Leif Lindner）。今年展会上，一个尤其明显的变化是：中国企业的存在感越来越强。有一种说法是，中国企业占所有参展企业比例近五成，在 IFA 中的权重越来越高。“IFA 是不是变得太中国化了？”面对这一颇具争议的问题，林德纳对新浪科技《欧陆志》回应说：“我们不在乎创新来自哪里，我们只是在反映市场现实。”创办于 1924 年的 IFA，作为全球规模最大的家用及消费科技展会之一，已成为观察全球消费电子产业趋势的重要窗口。本届展会汇聚了全球近 2,000 个品牌品牌，从人工智能、机器人、智能家居，到消费电子、家用电器乃至飞行汽车，预计将吸引 22 万参观人次。林德纳对新浪科技《欧陆志》强调说，“小米首次亮相 IFA，追觅进一步扩大参展规模，海信、TCL、安克等中国企业占据重要位置；与此同时，来自中国的人形机器人和具身智能企业也成为展会最受关注的焦点之一。他表示，IFA 的使命就是将全球市场上最好的创新带到柏林。“六年前，很多创",
+      "detail": "当地时间 9 月 4 日至 8 日，2026 年柏林国际消费电子展（IFA）在德国柏林举行。新浪科技《欧陆志》在展会现场对话 IFA 首席执行官莱夫 · 林德纳（Leif Lindner）。今年展会上，一个尤其明显的变化是：中国企业的存在感越来越强。有一种说法是，中国企业占所有参展企业比例近五成，在 IFA 中的权重越来越高。“IFA 是不是变得太中国化了？”面对这一颇具争议的问题，林德纳对新浪科技《欧陆志》回应说：“我们不在乎创新来自哪里，我们只是在反映市场现实。”创办于 1924 年的 IFA，作为全球规模最大的家用及消费科技展会之一，已成为观察全球消费电子产业趋势的重要窗口。本届展会汇聚了全球近 2,000 个品牌品牌，从人工智能、机器人、智能家居，到消费电子、家用电器乃至飞行汽车，预计将吸引 22 万参观人次。林德纳对新浪科技《欧陆志》强调说，“小米首次亮相 IFA，追觅进一步扩大参展规模，海信、TCL、安克等中国企业占据重要位置；与此同时，来自中国的人形机器人和具身智能企业也成为展会最受关注的焦点之一。他表示，IFA 的使命就是将全球市场上最好的创新带到柏林。“六年前，很多创",
       "source": "ITHome",
       "source_authority": 0.75,
       "date": "2026-09-07",
-      "score": 0.8225
+      "score": 0.875
     },
     {
-      "title": "压力传感器有助于提高机器人抓取精度",
+      "title": "Pressure sensors can help improve robotic gripping accuracy",
       "url": "https://www.therobotreport.com/pressure-sensors-can-help-improve-robotic-gripping-accuracy/",
-      "summary": "从第一次接触到表面变形、负载分布和最终稳定保持，压力传感器可以改善机器人箱拣选。\n后压力传感器可以帮助提高机器人抓取精度首先出现在《机器人报告》上。",
-      "detail": "从第一次接触到表面变形、负载分布和最终稳定保持，压力传感器可以改善机器人箱拣选。\n后压力传感器可以帮助提高机器人抓取精度首先出现在《机器人报告》上。",
+      "summary": "From first contact through surface deformation, load distribution, and final stable hold, pressure sensors can improve robotic bin picking.\nThe post Pressure sensors can help improve robotic gripping accuracy appeared first on The Robot Report.",
+      "detail": "From first contact through surface deformation, load distribution, and final stable hold, pressure sensors can improve robotic bin picking.\nThe post Pressure sensors can help improve robotic gripping accuracy appeared first on The Robot Report.",
       "source": "The Robot Report",
       "source_authority": 0.85,
       "date": "2026-09-06",
       "score": 0.73
     },
     {
-      "title": "Travis Kalanick 的 Atoms 可能会进军机器人出租车业务",
+      "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
       "url": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
-      "summary": "这位 Uber 创始人曾表示，Atoms 将让他完成“未竟的事业”。",
-      "detail": "这位 Uber 创始人曾表示，Atoms 将让他完成“未竟的事业”。",
+      "summary": "The Uber founder has said that Atoms will allow him to complete \"unfinished business.\"",
+      "detail": "The Uber founder has said that Atoms will allow him to complete \"unfinished business.\"",
       "source": "TechCrunch",
       "source_authority": 0.95,
       "date": "2026-09-07",
