@@ -2,62 +2,73 @@
   "date": "2026-09-09",
   "category1": [
     {
-      "title": "OpenAI 声称已经解决了困扰人类数十年的数学问题",
+      "title": "OpenAI claims to have solved maths problem that stumped humans for decades",
       "url": "https://www.theguardian.com/science/2026/sep/08/openai-claims-to-have-solved-maths-problem-that-stumped-humans-for-decades",
-      "summary": "ChatGPT 背后的公司表示，其 10,000 个人工智能系统在 88 小时内破解了纳维-斯托克斯问题OpenAI 声称在花费数百万美元进行人工智能主导的努力后，已经解决了困扰人类近一个世纪的重大数学问题。 ChatGPT 背后的公司表示，它已经解决了纳维-斯托克斯问题，这是克莱出版的七个千年奖问题之一数学研究所强调该领域一些最大的未解决难题。",
+      "summary": "Company behind ChatGPT says 10,000 of its AI systems cracked the Navier-Stokes problem in 88 hoursOpenAI claims to have solved a major mathematics problem that has stumped humans for nearly a century after spending millions of dollars on the artificial intelligence-led endeavour.The company behind ChatGPT said it had cracked the Navier-Stokes problem, one of seven Millennium Prize Problems published by the Clay Mathematics Institute to highlight some of the biggest unsolved puzzles in the field.",
       "short_summary": "Company behind ChatGPT says 10,000 of its AI systems cracked",
-      "detail": "ChatGPT 背后的公司表示，其 10,000 个人工智能系统在 88 小时内破解了纳维-斯托克斯问题OpenAI 声称在花费数百万美元进行人工智能主导的努力后，已经解决了困扰人类近一个世纪的重大数学问题。 ChatGPT 背后的公司表示，它已经解决了纳维-斯托克斯问题，这是克莱出版的七个千年奖问题之一数学研究所强调该领域一些最大的未解决难题。",
+      "detail": "Company behind ChatGPT says 10,000 of its AI systems cracked the Navier-Stokes problem in 88 hoursOpenAI claims to have solved a major mathematics problem that has stumped humans for nearly a century after spending millions of dollars on the artificial intelligence-led endeavour.The company behind ChatGPT said it had cracked the Navier-Stokes problem, one of seven Millennium Prize Problems published by the Clay Mathematics Institute to highlight some of the biggest unsolved puzzles in the field.",
       "source": "The Guardian",
       "source_authority": 0.85,
       "date": "2026-09-09",
       "score": 0.9075
     },
     {
-      "title": "安德鲁·加菲尔德 (Andrew Garfield) 在《人工》首部令人毛骨悚然的预告片中与山姆·奥尔特曼 (Sam Altman) 较量",
+      "title": "OpenAI AI 训练版权纠纷案新细节：GPT-5 可代笔乔治 ·R·R· 马丁撰写《冰与火之歌》",
+      "url": "https://www.ithome.com/1/000/106.htm",
+      "summary": "IT之家 9 月 9 日消息，科技媒体 torrentfreak 昨日（9 月 8 日）发布博文，报道称多名图书作者本周向纽约联邦法院提交简易判决动议，要求法官认定 OpenAI 未经许可复制作品，且相关行为不构成合理使用。这起诉讼可以追溯到美国作家协会于 2023 年对 OpenAI 和微软提起的集体诉讼，该协会主张认为在未经许可的情况下，OpenAI 擅自利用涉案作者的作品来训练 AI。根据披露的相关文件，动议涉及 194 部图书，当前寻求认定责任，并未要求裁定赔偿金额。作者指控 OpenAI 曾从 LibGen 获取图书，并在 GPT-3 论文中将“Libgen1”“Libgen 2”改称“Books1”“Books2”。原告认为，这一命名变化意在淡化训练数据与 LibGen 的关联。《冰与火之歌》作者乔治 ·R·R· 马丁（George R. R. Martin）是本案原告之一，该系列后来被 HBO 改编为电视剧《权力的游戏》。原告在动议中援引 OpenAI 员工 Tarun Gogineni 的公开帖文作为证据。OpenAI 于 2022 年聘请 Gogineni 负责提升模",
+      "short_summary": "IT之家 9 月 9 日消息，科技媒体 torrentfreak 昨日（9 月 8 日）发布博文，报道称多名图书作者本周",
+      "detail": "IT之家 9 月 9 日消息，科技媒体 torrentfreak 昨日（9 月 8 日）发布博文，报道称多名图书作者本周向纽约联邦法院提交简易判决动议，要求法官认定 OpenAI 未经许可复制作品，且相关行为不构成合理使用。这起诉讼可以追溯到美国作家协会于 2023 年对 OpenAI 和微软提起的集体诉讼，该协会主张认为在未经许可的情况下，OpenAI 擅自利用涉案作者的作品来训练 AI。根据披露的相关文件，动议涉及 194 部图书，当前寻求认定责任，并未要求裁定赔偿金额。作者指控 OpenAI 曾从 LibGen 获取图书，并在 GPT-3 论文中将“Libgen1”“Libgen 2”改称“Books1”“Books2”。原告认为，这一命名变化意在淡化训练数据与 LibGen 的关联。《冰与火之歌》作者乔治 ·R·R· 马丁（George R. R. Martin）是本案原告之一，该系列后来被 HBO 改编为电视剧《权力的游戏》。原告在动议中援引 OpenAI 员工 Tarun Gogineni 的公开帖文作为证据。OpenAI 于 2022 年聘请 Gogineni 负责提升模",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-09-09",
+      "score": 0.8975
+    },
+    {
+      "title": "Andrew Garfield takes on Sam Altman in creepy first teaser for Artificial",
       "url": "https://www.theguardian.com/film/2026/sep/08/andrew-garfield-sam-altman-artificial-movie-openai",
-      "summary": "卢卡·瓜达尼诺 (Luca Guadagnino) 执导的电影在与 OpenAI 合作期间被亚马逊放弃后，将由 Neon 发行。 大型科技进军好莱坞：硅谷准备好接受银幕清算了吗？卢卡·瓜达尼诺 (Luca Guadagnino) 的《人工》的第一部预告片已经发布。 继 6 月被亚马逊米高梅工作室放弃后，OpenAI 科技高管山姆·奥尔特曼 (Sam Altman) 的传记片将于 12 月 25 日由 Neon 在美国上映，首映于 12 月 25 日。今年十月的纽约电影节。继续阅读...",
+      "summary": "Luca Guadagnino-directed film will be released by Neon after being dropped by Amazon amid OpenAI partnershipBig tech goes to Hollywood: is Silicon Valley ready for a silver-screen reckoning?The first teaser trailer of Luca Guadagnino’s Artificial has been released.After being dropped by Amazon MGM Studios in June, the biopic of the OpenAI tech executive Sam Altman will be released in the US on 25 December by Neon after it premieres at the New York film festival this October. Continue reading...",
       "short_summary": "Luca Guadagnino-directed film will be released by Neon after",
-      "detail": "卢卡·瓜达尼诺 (Luca Guadagnino) 执导的电影在与 OpenAI 合作期间被亚马逊放弃后，将由 Neon 发行。 大型科技进军好莱坞：硅谷准备好接受银幕清算了吗？卢卡·瓜达尼诺 (Luca Guadagnino) 的《人工》的第一部预告片已经发布。 继 6 月被亚马逊米高梅工作室放弃后，OpenAI 科技高管山姆·奥尔特曼 (Sam Altman) 的传记片将于 12 月 25 日由 Neon 在美国上映，首映于 12 月 25 日。今年十月的纽约电影节。继续阅读...",
+      "detail": "Luca Guadagnino-directed film will be released by Neon after being dropped by Amazon amid OpenAI partnershipBig tech goes to Hollywood: is Silicon Valley ready for a silver-screen reckoning?The first teaser trailer of Luca Guadagnino’s Artificial has been released.After being dropped by Amazon MGM Studios in June, the biopic of the OpenAI tech executive Sam Altman will be released in the US on 25 December by Neon after it premieres at the New York film festival this October. Continue reading...",
       "source": "The Guardian",
       "source_authority": 0.85,
       "date": "2026-09-09",
       "score": 0.8825
     },
     {
-      "title": "ChatGPT Sketch 将你糟糕的绘图变成详细的 AI 图像",
+      "title": "已修复：OpenAI 的 ChatGPT 生图功能出现故障，持续约 7.5 小时",
+      "url": "https://www.ithome.com/1/000/135.htm",
+      "summary": "IT之家 9 月 9 日消息，OpenAI 官方状态页面显示，从北京时间 9 月 8 日 22:32 到 9 月 9 日 05:59，旗下 ChatGPT 和 Images API 的图像生成功能出现故障，持续约 7 小时 27 分钟。IT之家附上相关截图如下：本次故障主要涉及 ChatGPT 的图像生成功能，以及面向开发者的 Images API。OpenAI 称，用户提交图像生成请求时出现更高频率的错误。此外文件上传处理也受到影响，部分文件可能显示已完成上传，但仍停留在处理状态，暂时无法访问；另一些上传请求可能直接失败。用户在提交图像生成提示词后，也可能看到系统返回错误。OpenAI 尚未披露故障的具体技术原因、受影响用户数量和预计恢复时间。",
+      "short_summary": "IT之家 9 月 9 日消息，OpenAI 官方状态页面显示，从北京时间 9 月 8 日 22:32 到 9 月 9 日",
+      "detail": "IT之家 9 月 9 日消息，OpenAI 官方状态页面显示，从北京时间 9 月 8 日 22:32 到 9 月 9 日 05:59，旗下 ChatGPT 和 Images API 的图像生成功能出现故障，持续约 7 小时 27 分钟。IT之家附上相关截图如下：本次故障主要涉及 ChatGPT 的图像生成功能，以及面向开发者的 Images API。OpenAI 称，用户提交图像生成请求时出现更高频率的错误。此外文件上传处理也受到影响，部分文件可能显示已完成上传，但仍停留在处理状态，暂时无法访问；另一些上传请求可能直接失败。用户在提交图像生成提示词后，也可能看到系统返回错误。OpenAI 尚未披露故障的具体技术原因、受影响用户数量和预计恢复时间。",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-09-09",
+      "score": 0.86
+    },
+    {
+      "title": "京东云宣布与摩尔线程规划建设 10 万卡 AI 工厂",
+      "url": "https://www.ithome.com/1/000/095.htm",
+      "summary": "IT之家 9 月 9 日消息，综合新浪科技、第一财经报道，在今日的 2026 京东全球科技探索者大会上，京东集团技术委员会主席、京东云总裁曹鹏公布了京东在算力、数据和模型三大 AI 基建的最新进展。算力方面，京东云已与摩尔线程等合作伙伴打造国产万卡集群，并规划建设 10 万卡集群。数据方面，京东云 1,000 万小时人类最大规模数据采集行动顺利推进中。模型方面，京东已形成覆盖多模态模型、世界模型和具身模型的 JoyAI 基础模型矩阵。摩尔线程创始人、董事长兼首席执行官张建中表示：“这个 10 万卡 AI 工厂，不仅可以训练大模型，提供词元生产，训练好智能体，我们也希望这个 10 万卡 AI 工厂能够真正地为所有行业从业者服务，去打造具身智能的新变革，也能够帮助京东一起去打造世界上最大的物理世界运营中心。”",
+      "short_summary": "IT之家 9 月 9 日消息，综合新浪科技、第一财经报道，在今日的 2026 京东全球科技探索者大会上，京东集团技术委员",
+      "detail": "IT之家 9 月 9 日消息，综合新浪科技、第一财经报道，在今日的 2026 京东全球科技探索者大会上，京东集团技术委员会主席、京东云总裁曹鹏公布了京东在算力、数据和模型三大 AI 基建的最新进展。算力方面，京东云已与摩尔线程等合作伙伴打造国产万卡集群，并规划建设 10 万卡集群。数据方面，京东云 1,000 万小时人类最大规模数据采集行动顺利推进中。模型方面，京东已形成覆盖多模态模型、世界模型和具身模型的 JoyAI 基础模型矩阵。摩尔线程创始人、董事长兼首席执行官张建中表示：“这个 10 万卡 AI 工厂，不仅可以训练大模型，提供词元生产，训练好智能体，我们也希望这个 10 万卡 AI 工厂能够真正地为所有行业从业者服务，去打造具身智能的新变革，也能够帮助京东一起去打造世界上最大的物理世界运营中心。”",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-09-09",
+      "score": 0.86
+    },
+    {
+      "title": "ChatGPT Sketch turns your bad drawings into detailed AI images",
       "url": "https://www.theverge.com/ai-artificial-intelligence/991727/openai-chatgpt-images-2-5-sketch",
-      "summary": "OpenAI 于周二发布了 ChatGPT Images 2.5，并添加了一种新方法来告诉 ChatGPT 您希望它制作什么图像：通过绘制涂鸦。借助名为 Sketch 的新功能，您可以在 ChatGPT 中直接绘制一些内容，然后告诉 ChatGPT 您希望它如何制作图像 [...]",
+      "summary": "OpenAI announced ChatGPT Images 2.5 on Tuesday and is adding a new way to tell ChatGPT what you want it to make an image of: by drawing a doodle. With a new feature called Sketch, you can just draw something right inside ChatGPT and then tell ChatGPT how you want it to make an image […]",
       "short_summary": "OpenAI announced ChatGPT Images 2.5 on Tuesday and is adding",
-      "detail": "OpenAI 于周二发布了 ChatGPT Images 2.5，并添加了一种新方法来告诉 ChatGPT 您希望它制作什么图像：通过绘制涂鸦。借助名为 Sketch 的新功能，您可以在 ChatGPT 中直接绘制一些内容，然后告诉 ChatGPT 您希望它如何制作图像 [...]",
+      "detail": "OpenAI announced ChatGPT Images 2.5 on Tuesday and is adding a new way to tell ChatGPT what you want it to make an image of: by drawing a doodle. With a new feature called Sketch, you can just draw something right inside ChatGPT and then tell ChatGPT how you want it to make an image […]",
       "source": "The Verge",
       "source_authority": 0.9,
       "date": "2026-09-09",
       "score": 0.855
     },
     {
-      "title": "三星电子与 Mistral AI 达成战略合作，联手打造半导体专用人工智能模型",
-      "url": "https://www.ithome.com/0/999/987.htm",
-      "summary": "IT之家 9 月 9 日消息，三星电子 (Samsung Electronics) 与法国人工智能初创企业 Mistral AI 当地时间 8 日签署一份战略合作协议。三星电子也是 Mistral AI 的 30 亿欧元 D 轮融资的领投方之一。双方将结合三星电子设备解决方案部的半导体技术和制造数据、Mistral AI 的高效人工智能模型技术，共同开发一款用于三星电子半导体业务设计和制造的专有 AI 模型。三星电子计划本地部署该模型，逐步将这项技术应用于各半导体业务设计和制造现场的数据分析、缺陷预测、工艺优化，以缩短开发时间，提高制造效率和质量。此外，三星电子计划构建一个基于人工智能的半导体生态系统，不断寻找针对半导体行业优化的 AI 应用案例，以便在未来连接客户和合作伙伴。",
-      "short_summary": "IT之家 9 月 9 日消息，三星电子 (Samsung Electronics) 与法国人工智能初创企业 Mistra",
-      "detail": "IT之家 9 月 9 日消息，三星电子 (Samsung Electronics) 与法国人工智能初创企业 Mistral AI 当地时间 8 日签署一份战略合作协议。三星电子也是 Mistral AI 的 30 亿欧元 D 轮融资的领投方之一。双方将结合三星电子设备解决方案部的半导体技术和制造数据、Mistral AI 的高效人工智能模型技术，共同开发一款用于三星电子半导体业务设计和制造的专有 AI 模型。三星电子计划本地部署该模型，逐步将这项技术应用于各半导体业务设计和制造现场的数据分析、缺陷预测、工艺优化，以缩短开发时间，提高制造效率和质量。此外，三星电子计划构建一个基于人工智能的半导体生态系统，不断寻找针对半导体行业优化的 AI 应用案例，以便在未来连接客户和合作伙伴。",
-      "source": "ITHome",
-      "source_authority": 0.75,
-      "date": "2026-09-09",
-      "score": 0.8475
-    },
-    {
-      "title": "蚂蚁百灵系列首个原生多模态模型 Ling-3.0-flash-VL 发布开源，引入视觉反馈闭环机制",
-      "url": "https://www.ithome.com/0/999/997.htm",
-      "summary": "IT之家 9 月 9 日消息，蚂蚁集团今日宣布推出并开源百灵系列首个原生多模态大模型 Ling-3.0-flash-VL。该模型基于 Ling-3.0-flash 的 MoE（混合专家）架构拓展，总参数量为 124B，单次推理激活 5.5B 参数，原生支持图像、文本与视频输入，上下文窗口达到 256K Token。模型围绕“更可靠、更高效完成真实任务”的方向，引入了视觉反馈闭环机制。不同于一次性的“看图生成”，该机制将任务推进为“观察 → 行动 → 验证 → 修正”的持续闭环，使模型在医疗报告解读、前端代码生成及 GUI 自动化等场景中能够基于视觉反馈持续修正执行结果。在训练层面，蚂蚁集团表示，通过原生多模态联合训练，视觉信息的引入对模型的文本能力带来了正向提升。在 Artificial Analysis Intelligence Index v4.1.1 评估中，Ling-3.0-flash-VL 较纯文本版本（Ling-3.0-Flash）提升了 4 分。在实际应用测试中，该模型在图片转网页任务中可理解布局与组件关系并生成代码，且能通过渲染结果对比进行自我修正。在 Image-to",
-      "short_summary": "IT之家 9 月 9 日消息，蚂蚁集团今日宣布推出并开源百灵系列首个原生多模态大模型 Ling-3.0-flash-VL",
-      "detail": "IT之家 9 月 9 日消息，蚂蚁集团今日宣布推出并开源百灵系列首个原生多模态大模型 Ling-3.0-flash-VL。该模型基于 Ling-3.0-flash 的 MoE（混合专家）架构拓展，总参数量为 124B，单次推理激活 5.5B 参数，原生支持图像、文本与视频输入，上下文窗口达到 256K Token。模型围绕“更可靠、更高效完成真实任务”的方向，引入了视觉反馈闭环机制。不同于一次性的“看图生成”，该机制将任务推进为“观察 → 行动 → 验证 → 修正”的持续闭环，使模型在医疗报告解读、前端代码生成及 GUI 自动化等场景中能够基于视觉反馈持续修正执行结果。在训练层面，蚂蚁集团表示，通过原生多模态联合训练，视觉信息的引入对模型的文本能力带来了正向提升。在 Artificial Analysis Intelligence Index v4.1.1 评估中，Ling-3.0-flash-VL 较纯文本版本（Ling-3.0-Flash）提升了 4 分。在实际应用测试中，该模型在图片转网页任务中可理解布局与组件关系并生成代码，且能通过渲染结果对比进行自我修正。在 Image-to",
-      "source": "ITHome",
-      "source_authority": 0.75,
-      "date": "2026-09-09",
-      "score": 0.845
-    },
-    {
-      "title": "戏剧围绕 OpenAI 的传奇数学里程碑展开",
+      "title": "Drama swirls around OpenAI’s legendary mathematical milestone",
       "url": "https://www.theverge.com/ai-artificial-intelligence/991710/openai-navier-stokes-solution",
       "summary": "据《纽约时报》和《连线》早些时候报道，OpenAI 表示，它找到了一个大约 90 年来一直悬而未决的重大数学问题的解决方案。在周二的一篇博客文章中，OpenAI 宣布它发现了纳维-斯托克斯问题的解决方案 - 该问题与液体的流动和[...]",
       "short_summary": "OpenAI says it found a solution to a major math problem that",
@@ -68,29 +79,29 @@
       "score": 0.8375
     },
     {
-      "title": "AI 高级用户声称 Anthropic 通过订阅欺骗了他们，他们将其告上法庭",
+      "title": "AI power users claim Anthropic duped them with subscriptions, and they’re taking it to court",
       "url": "https://www.theverge.com/ai-artificial-intelligence/990313/anthropic-class-action-lawsuit-pricing-subscription-plans",
-      "summary": "Anthropic 表示高级用户是其业务的关键 - 即使这意味着切断 OpenClaw 等其他流行应用程序，它也会优先考虑他们。但其中一些客户表示，Anthropic 误导他们，让他们相信自己可以从顶级定价订阅中获得比实际更多的收益。在提起的扩大集体诉讼中[...]",
+      "summary": "Anthropic says power users are key to its business - it's prioritized them even when it means cutting off other popular applications, like OpenClaw. But some of these same customers say Anthropic misled them into believing they'd get more out of a top-tier pricing subscription than they did. In an expanded class action lawsuit filed […]",
       "short_summary": "Anthropic says power users are key to its business - it's pr",
-      "detail": "Anthropic 表示高级用户是其业务的关键 - 即使这意味着切断 OpenClaw 等其他流行应用程序，它也会优先考虑他们。但其中一些客户表示，Anthropic 误导他们，让他们相信自己可以从顶级定价订阅中获得比实际更多的收益。在提起的扩大集体诉讼中[...]",
+      "detail": "Anthropic says power users are key to its business - it's prioritized them even when it means cutting off other popular applications, like OpenClaw. But some of these same customers say Anthropic misled them into believing they'd get more out of a top-tier pricing subscription than they did. In an expanded class action lawsuit filed […]",
       "source": "The Verge",
       "source_authority": 0.9,
       "date": "2026-09-09",
       "score": 0.8375
     },
     {
-      "title": "荣耀 Magic 盛典暨荣耀 Magic9 系列新品发布会官宣定档 9 月 28 日",
-      "url": "https://www.ithome.com/0/999/995.htm",
-      "summary": "IT之家 9 月 9 日消息，荣耀手机官方今日宣布，荣耀 Magic 盛典暨荣耀 Magic9 系列新品发布会定档 9 月 28 日在北京举行。荣耀官方还公布了 Magic9 Pro Max 手机的外观。和网传图一样，新机换用全新设计方案，换用横向 Deco，内置“两小圆 + 一大圆”。预热海报显示，荣耀 Magic9 Pro Max 由阿莱联合研发，新机后置 200MP 1/1.4 英寸传感器潜望长焦，支持 OIS 防抖。据IT之家此前报道，消息称荣耀 Magic9 系列手机将首批搭载骁龙 2nm 旗舰芯片，并提供多款机型，其中“超能版”有望内置主动散热风扇。另外，系列新机将配备双 2 亿像素影像方案，其中主摄为 200MP 1/1.28 英寸传感器，潜望长焦为 200MP 1/1.4 英寸传感器。博主 @数码闲聊站 今早还曝光了荣耀 Magic9 Pro Max 新机“全身照”。",
-      "short_summary": "IT之家 9 月 9 日消息，荣耀手机官方今日宣布，荣耀 Magic 盛典暨荣耀 Magic9 系列新品发布会定档 9 ",
-      "detail": "IT之家 9 月 9 日消息，荣耀手机官方今日宣布，荣耀 Magic 盛典暨荣耀 Magic9 系列新品发布会定档 9 月 28 日在北京举行。荣耀官方还公布了 Magic9 Pro Max 手机的外观。和网传图一样，新机换用全新设计方案，换用横向 Deco，内置“两小圆 + 一大圆”。预热海报显示，荣耀 Magic9 Pro Max 由阿莱联合研发，新机后置 200MP 1/1.4 英寸传感器潜望长焦，支持 OIS 防抖。据IT之家此前报道，消息称荣耀 Magic9 系列手机将首批搭载骁龙 2nm 旗舰芯片，并提供多款机型，其中“超能版”有望内置主动散热风扇。另外，系列新机将配备双 2 亿像素影像方案，其中主摄为 200MP 1/1.28 英寸传感器，潜望长焦为 200MP 1/1.4 英寸传感器。博主 @数码闲聊站 今早还曝光了荣耀 Magic9 Pro Max 新机“全身照”。",
-      "source": "ITHome",
-      "source_authority": 0.75,
+      "title": "What OpenAI’s latest controversy tells us about the future of math",
+      "url": "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/",
+      "summary": "OpenAI’s latest mathematical milestone has quickly become mired in controversy. Today, the company announced that its agents have solved one of the Millennium Prize Problems, some of the most important open problems in mathematics. Under normal circumstances, that solution would be a huge feather in OpenAI’s cap. But the announcement has been overshadowed by accusations…",
+      "short_summary": "OpenAI’s latest mathematical milestone has quickly become mi",
+      "detail": "OpenAI’s latest mathematical milestone has quickly become mired in controversy. Today, the company announced that its agents have solved one of the Millennium Prize Problems, some of the most important open problems in mathematics. Under normal circumstances, that solution would be a huge feather in OpenAI’s cap. But the announcement has been overshadowed by accusations…",
+      "source": "MIT Tech Review",
+      "source_authority": 0.9,
       "date": "2026-09-09",
-      "score": 0.8225
+      "score": 0.8375
     },
     {
-      "title": "黑客正在从订阅者那里窃取 Claude token",
+      "title": "Hackers are stealing Claude tokens from subscribers",
       "url": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
       "summary": "上个月，一位 Claude 用户注意到他的帐户正在消耗token，即使他没有工作。此后，Anthropic 已向用户发出有关黑客的警告。",
       "short_summary": "Last month, a Claude user noticed his account was consuming ",
@@ -99,17 +110,6 @@
       "source_authority": 0.95,
       "date": "2026-09-09",
       "score": 0.82
-    },
-    {
-      "title": "纽约大学数学家表示，OpenAI 在影响职业生涯的数学问题上进行了肮脏的斗争",
-      "url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/",
-      "summary": "第一个提供纳维-斯托克斯存在性和平滑性问题解决方案的人将获得 100 万美元的奖金。",
-      "short_summary": "There is a $1 million bounty for the first person providing ",
-      "detail": "第一个提供纳维-斯托克斯存在性和平滑性问题解决方案的人将获得 100 万美元的奖金。",
-      "source": "TechCrunch",
-      "source_authority": 0.95,
-      "date": "2026-09-09",
-      "score": 0.8075
     }
   ],
   "category2": [
@@ -149,13 +149,24 @@
     {
       "title": "Meta 的新个人人工智能代理 Muse 需要您的信任",
       "url": "https://www.wired.com/story/meta-releases-muse-a-personal-ai-agent-with-privacy-built-into-it/",
-      "summary": "该公司旨在与 OpenClaw 和 Instinct 竞争，表示 Muse 可以做任何事情，从卖车到预订机票。",
+      "summary": "该公司旨在与 OpenClaw 和 Instinct 竞争，表示 Muse 可以做从卖车到预订机票等各种事情。",
       "short_summary": "Designed to compete with OpenClaw and Instinct, the company ",
-      "detail": "该公司旨在与 OpenClaw 和 Instinct 竞争，表示 Muse 可以做任何事情，从卖车到预订机票。",
+      "detail": "该公司旨在与 OpenClaw 和 Instinct 竞争，表示 Muse 可以做从卖车到预订机票等各种事情。",
       "source": "Wired",
       "source_authority": 0.85,
       "date": "2026-09-09",
       "score": 0.7725
+    },
+    {
+      "title": "古尔曼：苹果首款折叠屏手机名字敲定就叫 iPhone Duo，起价 2000 美元",
+      "url": "https://www.ithome.com/1/000/156.htm",
+      "summary": "IT之家 9 月 9 日消息，彭博社的马克 · 古尔曼（Mark Gurman）今日午间在 X 平台发帖，表示苹果首款折叠屏手机名字敲定为 iPhone Duo，并设定了 2,000 美元（IT之家注：现汇率约合 13,457 元人民币）的起售价，包含了额外内存成本。其爆料称，iPhone Duo 存储容量最高将达到 2TB，价格大约 3,000 美元（现汇率约合 20,185 元人民币）。它将于 10 月上市，支持 Apple Pencil，并提供深蓝色 + 白色两种颜色。古尔曼还爆料，Apple Watch Series 12 和 Ultra 4 将具备注重隐私的 AI 功能，用于分析你的日常，提供当天发生事件的摘要，包括对话内容。它无法显示对话记录，也不会录制或存储音频。Ultra 4 还将拥有更长的电池续航时间。此外，爆料称 iPhone 18 Pro / iPhone 18 Pro Max 的价格很可能只比上一代高出 100 美元（现汇率约合 672.8 元人民币），苹果显然承担了内存短缺导致的大部分成本上涨。谷歌和三星也将价格提高了 100 美元（现汇率约合 672.8 元",
+      "short_summary": "IT之家 9 月 9 日消息，彭博社的马克 · 古尔曼（Mark Gurman）今日午间在 X 平台发帖，表示苹果首款折",
+      "detail": "IT之家 9 月 9 日消息，彭博社的马克 · 古尔曼（Mark Gurman）今日午间在 X 平台发帖，表示苹果首款折叠屏手机名字敲定为 iPhone Duo，并设定了 2,000 美元（IT之家注：现汇率约合 13,457 元人民币）的起售价，包含了额外内存成本。其爆料称，iPhone Duo 存储容量最高将达到 2TB，价格大约 3,000 美元（现汇率约合 20,185 元人民币）。它将于 10 月上市，支持 Apple Pencil，并提供深蓝色 + 白色两种颜色。古尔曼还爆料，Apple Watch Series 12 和 Ultra 4 将具备注重隐私的 AI 功能，用于分析你的日常，提供当天发生事件的摘要，包括对话内容。它无法显示对话记录，也不会录制或存储音频。Ultra 4 还将拥有更长的电池续航时间。此外，爆料称 iPhone 18 Pro / iPhone 18 Pro Max 的价格很可能只比上一代高出 100 美元（现汇率约合 672.8 元人民币），苹果显然承担了内存短缺导致的大部分成本上涨。谷歌和三星也将价格提高了 100 美元（现汇率约合 672.8 元",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-09-09",
+      "score": 0.7575
     },
     {
       "title": "Cognition 估值达到 48B 美元，表明投资者相信人工智能编码远非赢家通吃的市场",
@@ -169,11 +180,11 @@
       "score": 0.75
     },
     {
-      "title": "SE 4 要登场？苹果美国官网 Apple Watch SE 3 智能手表显示售罄",
-      "url": "https://www.ithome.com/0/999/992.htm",
-      "summary": "IT之家 9 月 9 日消息，科技媒体 MacRumors 昨日（9 月 8 日）发布博文，报道称在美国等多个市场苹果官网，显示 Apple Watch SE 3 智能手表处于售罄状态。美国苹果官网显示 Apple Watch SE 3 已经售罄产品售罄通常意味着苹果可能会推出后续迭代机型，但根据 Apple Watch SE 系列的更迭周期来看，苹果公司在明日 iPhone 18 Pro 发布会上，推出 Apple Watch SE 4 的概念并不大。IT之家查询苹果中国官网（点此前往），显示 Apple Watch SE 3 依然在售，预估发货日期为 1 个工作日。苹果历年 Apple Watch SE 智能手表发布日期：初代 Apple Watch SE 于 2020 年 9 月发布Apple Watch SE 2 于 2022 年 9 月发布Apple Watch SE 3 则于 2025 年 9 月发布苹果公司通常会间隔 2 年 ~3 年更迭 Apple Watch SE 系列，鉴于 SE 3 于 2025 年更新，该媒体认为苹果今年更新推出 SE 4 的可能性并不大。",
-      "short_summary": "IT之家 9 月 9 日消息，科技媒体 MacRumors 昨日（9 月 8 日）发布博文，报道称在美国等多个市场苹果官",
-      "detail": "IT之家 9 月 9 日消息，科技媒体 MacRumors 昨日（9 月 8 日）发布博文，报道称在美国等多个市场苹果官网，显示 Apple Watch SE 3 智能手表处于售罄状态。美国苹果官网显示 Apple Watch SE 3 已经售罄产品售罄通常意味着苹果可能会推出后续迭代机型，但根据 Apple Watch SE 系列的更迭周期来看，苹果公司在明日 iPhone 18 Pro 发布会上，推出 Apple Watch SE 4 的概念并不大。IT之家查询苹果中国官网（点此前往），显示 Apple Watch SE 3 依然在售，预估发货日期为 1 个工作日。苹果历年 Apple Watch SE 智能手表发布日期：初代 Apple Watch SE 于 2020 年 9 月发布Apple Watch SE 2 于 2022 年 9 月发布Apple Watch SE 3 则于 2025 年 9 月发布苹果公司通常会间隔 2 年 ~3 年更迭 Apple Watch SE 系列，鉴于 SE 3 于 2025 年更新，该媒体认为苹果今年更新推出 SE 4 的可能性并不大。",
+      "title": "IDC：2026 年二季度全球腕戴设备市场同比下滑 4.3%，华为、小米、苹果份额前三",
+      "url": "https://www.ithome.com/1/000/153.htm",
+      "summary": "IT之家 9 月 9 日消息，国际数据公司（ IDC ）今日发布《全球可穿戴设备市场季度跟踪报告》，2026 年第二季度全球腕戴设备市场出货量为 4801 万台，同比下滑 4.3%。腕戴设备市场包含智能手表和手环产品。其中，全球智能手表市场出货量 3708 万台，同比下滑 4.2% 。手环市场出货量 1092 万台，同比下滑 4.7% 。IT之家附 2026 年第二季度全球可穿戴设备市场排名如下：1、华为2026 年二季度华为腕戴产品全球出货量持续领跑。华为持续迭代 Watch Fit 系列，Fit 5 系列聚焦轻量时尚与进阶运动健康，成为二季度增长的重要支撑。同时，HUAWEI WATCH Ultimate Design 星钻绽放款、儿童手表 X1/X1 Pro 等新品密集推出，覆盖多元细分市场，通过产品线扩张与人群细分进一步巩固腕戴市场竞争力。2、小米2026 年二季度小米加速腕戴产品结构向上升级，手环端小米手环 10 Pro 成为产品线升级的重要助力；手表端 REDMI Watch 稳住大众市场基本盘，Xiaomi Watch S5 系列出货持续攀升，全智能手表 5 则进一步补强",
+      "short_summary": "IT之家 9 月 9 日消息，国际数据公司（ IDC ）今日发布《全球可穿戴设备市场季度跟踪报告》，2026 年第二季度",
+      "detail": "IT之家 9 月 9 日消息，国际数据公司（ IDC ）今日发布《全球可穿戴设备市场季度跟踪报告》，2026 年第二季度全球腕戴设备市场出货量为 4801 万台，同比下滑 4.3%。腕戴设备市场包含智能手表和手环产品。其中，全球智能手表市场出货量 3708 万台，同比下滑 4.2% 。手环市场出货量 1092 万台，同比下滑 4.7% 。IT之家附 2026 年第二季度全球可穿戴设备市场排名如下：1、华为2026 年二季度华为腕戴产品全球出货量持续领跑。华为持续迭代 Watch Fit 系列，Fit 5 系列聚焦轻量时尚与进阶运动健康，成为二季度增长的重要支撑。同时，HUAWEI WATCH Ultimate Design 星钻绽放款、儿童手表 X1/X1 Pro 等新品密集推出，覆盖多元细分市场，通过产品线扩张与人群细分进一步巩固腕戴市场竞争力。2、小米2026 年二季度小米加速腕戴产品结构向上升级，手环端小米手环 10 Pro 成为产品线升级的重要助力；手表端 REDMI Watch 稳住大众市场基本盘，Xiaomi Watch S5 系列出货持续攀升，全智能手表 5 则进一步补强",
       "source": "ITHome",
       "source_authority": 0.75,
       "date": "2026-09-09",
@@ -191,11 +202,11 @@
       "score": 0.7025
     },
     {
-      "title": "华为自研 Wi-Fi 7+ 芯片级协同技术支持设备上新，Mate XT 2 非凡大师、Pura X View 手机确认在列",
-      "url": "https://www.ithome.com/1/000/002.htm",
-      "summary": "IT之家 9 月 9 日消息，华为官网更新了支持 Wi-Fi 7 / Wi-Fi 7+ 的华为手机 / 平板设备清单。可以确认的是，Mate XT 2 | ULTIMATE DESIGN 非凡大师、Pura X View 支持 Wi-Fi 7+ 技术。据介绍，Wi-Fi 7+ 是华为在 Wi-Fi 7 标准协议之上，自研的芯片级协同技术，能提升 Wi-Fi 信号较差场景下 Wi-Fi 性能和抗干扰能力，仅 HarmonyOS 6 及以上版本支持 Wi-Fi 7+。IT之家附支持 Wi-Fi 7 / Wi-Fi 7+ 的华为手机 / 平板设备清单如下：支持 Wi-Fi 7 的手机 / 平板HUAWEI Mate X7 系列HUAWEI Mate 80 系列HUAWEI Mate XT 2 | ULTIMATE DESIGNHUAWEI Mate XTs | ULTIMATE DESIGNHUAWEI Mate 70 RS | ULTIMATE DESIGNHUAWEI Mate 70 Pro+HUAWEI Mate 70 AirHUAWEI Pura 90 系列HUAWEI Pura 8",
-      "short_summary": "IT之家 9 月 9 日消息，华为官网更新了支持 Wi-Fi 7 / Wi-Fi 7+ 的华为手机 / 平板设备清单。可",
-      "detail": "IT之家 9 月 9 日消息，华为官网更新了支持 Wi-Fi 7 / Wi-Fi 7+ 的华为手机 / 平板设备清单。可以确认的是，Mate XT 2 | ULTIMATE DESIGN 非凡大师、Pura X View 支持 Wi-Fi 7+ 技术。据介绍，Wi-Fi 7+ 是华为在 Wi-Fi 7 标准协议之上，自研的芯片级协同技术，能提升 Wi-Fi 信号较差场景下 Wi-Fi 性能和抗干扰能力，仅 HarmonyOS 6 及以上版本支持 Wi-Fi 7+。IT之家附支持 Wi-Fi 7 / Wi-Fi 7+ 的华为手机 / 平板设备清单如下：支持 Wi-Fi 7 的手机 / 平板HUAWEI Mate X7 系列HUAWEI Mate 80 系列HUAWEI Mate XT 2 | ULTIMATE DESIGNHUAWEI Mate XTs | ULTIMATE DESIGNHUAWEI Mate 70 RS | ULTIMATE DESIGNHUAWEI Mate 70 Pro+HUAWEI Mate 70 AirHUAWEI Pura 90 系列HUAWEI Pura 8",
+      "title": "微软 Win10 推送 9 月 ESU 更新：扩大安全启动证书部署",
+      "url": "https://www.ithome.com/1/000/143.htm",
+      "summary": "IT之家 9 月 9 日消息，在本月（2026 年 9 月）补丁星期二活动日（9 月 8 日）中，微软通过扩展安全更新 (ESU) 计划，面向 Windows 10 系统推送 KB5122878 累积更新，22H2 安装后版本号升至 Build 19045.7725；21H2 安装后版本号升至 Build 19044.7725。IT之家附上本次更新内容如下：安全启动：本次更新增加了高置信度设备定位数据，以扩大自动接收新安全启动证书的设备范围。微软计划在未来数月内，继续通过 Windows 更新向受支持的个人电脑和未受管理的企业设备部署相关证书。日期和时间：本次更新调整摩洛哥标准时间，以反映摩洛哥自 2026 年 9 月 20 日起永久过渡到 UTC+00:00。此更改确保过渡后显示正确的本地时间。OMA DM 协议：此更新改进了 OMA DM 客户端 (omadmclient.exe) 组件的日志记录功能。Windows 代码完整性策略：系统将 Microsoft Windows Production PCA 2026 RSA2048-SHA256 识别为与 PCA 2011 等效，以",
+      "short_summary": "IT之家 9 月 9 日消息，在本月（2026 年 9 月）补丁星期二活动日（9 月 8 日）中，微软通过扩展安全更新 ",
+      "detail": "IT之家 9 月 9 日消息，在本月（2026 年 9 月）补丁星期二活动日（9 月 8 日）中，微软通过扩展安全更新 (ESU) 计划，面向 Windows 10 系统推送 KB5122878 累积更新，22H2 安装后版本号升至 Build 19045.7725；21H2 安装后版本号升至 Build 19044.7725。IT之家附上本次更新内容如下：安全启动：本次更新增加了高置信度设备定位数据，以扩大自动接收新安全启动证书的设备范围。微软计划在未来数月内，继续通过 Windows 更新向受支持的个人电脑和未受管理的企业设备部署相关证书。日期和时间：本次更新调整摩洛哥标准时间，以反映摩洛哥自 2026 年 9 月 20 日起永久过渡到 UTC+00:00。此更改确保过渡后显示正确的本地时间。OMA DM 协议：此更新改进了 OMA DM 客户端 (omadmclient.exe) 组件的日志记录功能。Windows 代码完整性策略：系统将 Microsoft Windows Production PCA 2026 RSA2048-SHA256 识别为与 PCA 2011 等效，以",
       "source": "ITHome",
       "source_authority": 0.75,
       "date": "2026-09-09",
@@ -211,42 +222,9 @@
       "source_authority": 0.9,
       "date": "2026-09-09",
       "score": 0.65
-    },
-    {
-      "title": "用人工智能构建的黑客工具无需点击即可侵入手机",
-      "url": "https://www.nytimes.com/2026/09/08/us/politics/calif-ai-worm-wechat-hack.html",
-      "summary": "A.I. 发现的攻击专家表示，研究人员可能会在数小时内破坏数亿台设备。",
-      "short_summary": "An attack discovered by A.I. researchers could have compromi",
-      "detail": "A.I. 发现的攻击专家表示，研究人员可能会在数小时内破坏数亿台设备。",
-      "source": "NYT",
-      "source_authority": 0.9,
-      "date": "2026-09-09",
-      "score": 0.65
     }
   ],
   "category3": [
-    {
-      "title": "腾讯《王者万象棋》开启预下载：四端互通，鸿蒙最低要求麒麟 9000S 处理器",
-      "url": "https://www.ithome.com/0/999/978.htm",
-      "summary": "IT之家 9 月 9 日消息，腾讯游戏新作《王者万象棋》 官方今日宣布启动预下载，支持移动、PC 多端游玩，全平台数据互通。游戏将在明天上午 7 点开服。腾讯《王者万象棋》还发布了设备推荐清单，安卓端最低要求骁龙 625 / 麒麟 655 /天玑 P35；鸿蒙端最低要求麒麟 9000S；iOS 端最低要求 A10（iPhone 7）；PC 端 CPU 最低要求 Intel i5-6500 / AMD Ryzen 3 2200G、GPU 最低要求 Intel UHD 620（集成显卡）。IT之家附详情如下：据介绍，《王者万象棋》由腾讯天美工作室群研发，是《王者荣耀》原班人马打造的英雄策略对战手游。游戏主打局内策略对战与公平竞技，每局比赛由 6 位玩家各自为战。根据官方最新公布的数据，该作全网预约人数已突破 7000 万。相关阅读：《腾讯〈王者荣耀〉IP 自走棋游戏〈王者万象棋〉定档今年 9 月，全网预约人数突破 5000 万》《腾讯〈王者荣耀〉IP 自走棋游戏〈王者万象棋〉开启冬季测试，支持数据互通》",
-      "short_summary": "IT之家 9 月 9 日消息，腾讯游戏新作《王者万象棋》 官方今日宣布启动预下载，支持移动、PC 多端游玩，全平台数据互",
-      "detail": "IT之家 9 月 9 日消息，腾讯游戏新作《王者万象棋》 官方今日宣布启动预下载，支持移动、PC 多端游玩，全平台数据互通。游戏将在明天上午 7 点开服。腾讯《王者万象棋》还发布了设备推荐清单，安卓端最低要求骁龙 625 / 麒麟 655 /天玑 P35；鸿蒙端最低要求麒麟 9000S；iOS 端最低要求 A10（iPhone 7）；PC 端 CPU 最低要求 Intel i5-6500 / AMD Ryzen 3 2200G、GPU 最低要求 Intel UHD 620（集成显卡）。IT之家附详情如下：据介绍，《王者万象棋》由腾讯天美工作室群研发，是《王者荣耀》原班人马打造的英雄策略对战手游。游戏主打局内策略对战与公平竞技，每局比赛由 6 位玩家各自为战。根据官方最新公布的数据，该作全网预约人数已突破 7000 万。相关阅读：《腾讯〈王者荣耀〉IP 自走棋游戏〈王者万象棋〉定档今年 9 月，全网预约人数突破 5000 万》《腾讯〈王者荣耀〉IP 自走棋游戏〈王者万象棋〉开启冬季测试，支持数据互通》",
-      "source": "ITHome",
-      "source_authority": 0.75,
-      "date": "2026-09-09",
-      "score": 0.9225
-    },
-    {
-      "title": "Amkor 宣布亚利桑那先进封测园区二期项目，两期累计投资 120 亿美元",
-      "url": "https://www.ithome.com/1/000/001.htm",
-      "summary": "IT之家 9 月 9 日消息，全球第二大 OSAT（半导体外包封测）企业 Amkor（安靠）美国当地时间昨日正式宣布了其亚利桑那州先进封装测试园区的二期项目。Amkor 表示，客户的需求已远超其亚利桑那先进封测园区一期 33000m² 洁净室的承受能力，而二期项目预计将新增 60000m² 的洁净室。两期总投资将达到约 120 亿美元（IT之家注：现汇率约合 807.39 亿元人民币），可创造 3500 多个岗位。Amkor 亚利桑那先进封测园区二期预计将于 2027 年底开工、2029 年底竣工。其占地 170 英亩的亚利桑那州园区可根据客户需求进行进一步扩建。相关阅读：《英伟达与 Amkor 达成 15 亿美元芯片封装协议，共拓美国先进 AI 封装产能》《台积电与 Amkor 围绕亚利桑那先进封装产能达成 10 年期合作》《Amkor 再度扩张亚利桑那 OSAT 园区规模，占地增至 171 英亩》《斥 70 亿美元重金，封测巨头 Amkor 亚利桑那皮奥里亚工厂动工》",
-      "short_summary": "IT之家 9 月 9 日消息，全球第二大 OSAT（半导体外包封测）企业 Amkor（安靠）美国当地时间昨日正式宣布了其",
-      "detail": "IT之家 9 月 9 日消息，全球第二大 OSAT（半导体外包封测）企业 Amkor（安靠）美国当地时间昨日正式宣布了其亚利桑那州先进封装测试园区的二期项目。Amkor 表示，客户的需求已远超其亚利桑那先进封测园区一期 33000m² 洁净室的承受能力，而二期项目预计将新增 60000m² 的洁净室。两期总投资将达到约 120 亿美元（IT之家注：现汇率约合 807.39 亿元人民币），可创造 3500 多个岗位。Amkor 亚利桑那先进封测园区二期预计将于 2027 年底开工、2029 年底竣工。其占地 170 英亩的亚利桑那州园区可根据客户需求进行进一步扩建。相关阅读：《英伟达与 Amkor 达成 15 亿美元芯片封装协议，共拓美国先进 AI 封装产能》《台积电与 Amkor 围绕亚利桑那先进封装产能达成 10 年期合作》《Amkor 再度扩张亚利桑那 OSAT 园区规模，占地增至 171 英亩》《斥 70 亿美元重金，封测巨头 Amkor 亚利桑那皮奥里亚工厂动工》",
-      "source": "ITHome",
-      "source_authority": 0.75,
-      "date": "2026-09-09",
-      "score": 0.8725
-    },
     {
       "title": "芯片行业技术论文综述：9 月 8 日",
       "url": "https://semiengineering.com/chip-industry-technical-paper-roundup-sept-8-2/",
@@ -294,9 +272,9 @@
     {
       "title": "研究部分：9 月 8 日",
       "url": "https://semiengineering.com/research-bits-sept-8-2/",
-      "summary": "用于互连的碳绝缘体；高温 SiC JFET； VCT 电介质。\n研究位：9 月 8 日的帖子首先出现在半导体工程上。",
+      "summary": "用于互连的碳绝缘体；高温 SiC JFET； VCT 电介质。\n《研究要点：9 月 8 日》首先出现在半导体工程上。",
       "short_summary": "Carbon insulator for interconnects; high-temperature SiC JFE",
-      "detail": "用于互连的碳绝缘体；高温 SiC JFET； VCT 电介质。\n研究位：9 月 8 日的帖子首先出现在半导体工程上。",
+      "detail": "用于互连的碳绝缘体；高温 SiC JFET； VCT 电介质。\n《研究要点：9 月 8 日》首先出现在半导体工程上。",
       "source": "SemiEngineering",
       "source_authority": 0.85,
       "date": "2026-09-08",
@@ -349,6 +327,28 @@
       "score": 0.84
     },
     {
+      "title": "京东物流宣布 5 年内采购 300 万台机器人，打造全球最大的机器人维修服务网络",
+      "url": "https://www.ithome.com/1/000/165.htm",
+      "summary": "IT之家 9 月 9 日消息，在今日的京东全球科技探索者大会上，京东物流宣布将在 5 年内采购 300 万台机器人、100 万台无人车及 10 万架无人机，进一步推进物流全流程无人化落地。此外，京东物流还将打造全球最大的机器人维修服务网络。未来 5 年，机器人售后服务能力计划覆盖全球 100 多个国家，创造超过 10 万个机器人售后服务工程师就业岗位。京东零售宣布将于 2028 年前投入百亿资源，助力 100 个品牌独立销售额破 10 亿元，推动机器人产业进入百万个终端场景、覆盖千万用户，成为全球最大的机器人零售渠道。据IT之家此前报道，在今年 6 月的 2026 年 APEC 工商领导人中国论坛上，京东集团创始人、董事局主席刘强东透露，京东内部提出了“涅槃计划”，希望把京东已有的 70 万快递员等蓝领工人，送到学校做技术培训，以应对 AI 和技术发展带来的冲击。将来都是机器人送货了，根本不需要快递员，一定是机器人送货，但是我并不需要我们 70 万兄弟没有饭吃、没有工作。刘强东表示，京东因此在全国签了 120 所学校，把他们送去学校做培训，以后可以给机器人做维修、做保养。机器都可能出故",
+      "short_summary": "IT之家 9 月 9 日消息，在今日的京东全球科技探索者大会上，京东物流宣布将在 5 年内采购 300 万台机器人、10",
+      "detail": "IT之家 9 月 9 日消息，在今日的京东全球科技探索者大会上，京东物流宣布将在 5 年内采购 300 万台机器人、100 万台无人车及 10 万架无人机，进一步推进物流全流程无人化落地。此外，京东物流还将打造全球最大的机器人维修服务网络。未来 5 年，机器人售后服务能力计划覆盖全球 100 多个国家，创造超过 10 万个机器人售后服务工程师就业岗位。京东零售宣布将于 2028 年前投入百亿资源，助力 100 个品牌独立销售额破 10 亿元，推动机器人产业进入百万个终端场景、覆盖千万用户，成为全球最大的机器人零售渠道。据IT之家此前报道，在今年 6 月的 2026 年 APEC 工商领导人中国论坛上，京东集团创始人、董事局主席刘强东透露，京东内部提出了“涅槃计划”，希望把京东已有的 70 万快递员等蓝领工人，送到学校做技术培训，以应对 AI 和技术发展带来的冲击。将来都是机器人送货了，根本不需要快递员，一定是机器人送货，但是我并不需要我们 70 万兄弟没有饭吃、没有工作。刘强东表示，京东因此在全国签了 120 所学校，把他们送去学校做培训，以后可以给机器人做维修、做保养。机器都可能出故",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-09-09",
+      "score": 0.785
+    },
+    {
+      "title": "京东启动“京东物理 AI 加速计划”，打造全球最大物理世界运营中心",
+      "url": "https://www.ithome.com/1/000/163.htm",
+      "summary": "9 月 9 日上午消息，今日，在京东全球科技探索者大会（JDD 大会）上，京东集团技术委员会主席、京东云总裁曹鹏表示，“物理 AI 迈向规模化落地，竞争焦点转向算力、数据和场景。物理 AI 正从模型和本体的单点竞争，走向体系化竞争。”在这样的背景下，京东要如何做 AI？他谈到，“其实，关于这个问题，我们内部讨论过很多次，也有很多人问我，我回答一定是说，京东做 AI 不是单纯地在论文里面，而是在生产线上、在仓库里、在配送站，在我们整个全供应链的全流程里面，一单一单磨出来的。”曹鹏谈到，围绕着超级供应链的建设，今天我们正式启动“京东物理 AI 加速计划”。他透露，“我们将聚焦具身机器人的六大方向 —— 数据、机器、制造、销售、物流、服务，持续投入，建立全球领先的规模化能力。”数据方面，京东目标打造“全球最大的具身数据训练中心”，计划两年内累计采集超过千万小时的人类真实场景数据，并融合海量网络数据、仿真数据和真实机器人数据，构建“理解 — 生成 — 行动”一体化的具身智能技术模型，实现具备全球竞争力的通用能力。基地建设方面，京东目标打造“全球最大的机器人产业基地”。未来五年，将在全国布局 8",
+      "short_summary": "9 月 9 日上午消息，今日，在京东全球科技探索者大会（JDD 大会）上，京东集团技术委员会主席、京东云总裁曹鹏表示，“",
+      "detail": "9 月 9 日上午消息，今日，在京东全球科技探索者大会（JDD 大会）上，京东集团技术委员会主席、京东云总裁曹鹏表示，“物理 AI 迈向规模化落地，竞争焦点转向算力、数据和场景。物理 AI 正从模型和本体的单点竞争，走向体系化竞争。”在这样的背景下，京东要如何做 AI？他谈到，“其实，关于这个问题，我们内部讨论过很多次，也有很多人问我，我回答一定是说，京东做 AI 不是单纯地在论文里面，而是在生产线上、在仓库里、在配送站，在我们整个全供应链的全流程里面，一单一单磨出来的。”曹鹏谈到，围绕着超级供应链的建设，今天我们正式启动“京东物理 AI 加速计划”。他透露，“我们将聚焦具身机器人的六大方向 —— 数据、机器、制造、销售、物流、服务，持续投入，建立全球领先的规模化能力。”数据方面，京东目标打造“全球最大的具身数据训练中心”，计划两年内累计采集超过千万小时的人类真实场景数据，并融合海量网络数据、仿真数据和真实机器人数据，构建“理解 — 生成 — 行动”一体化的具身智能技术模型，实现具备全球竞争力的通用能力。基地建设方面，京东目标打造“全球最大的机器人产业基地”。未来五年，将在全国布局 8",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-09-09",
+      "score": 0.785
+    },
+    {
       "title": "为什么视觉 AI 是自动化作业现场的安全支柱",
       "url": "https://www.therobotreport.com/why-vision-ai-is-safety-backbone-of-automated-job-site/",
       "summary": "视觉人工智能不会取代机器人或人类判断；它提供了持续的感知，使两者能够安全地一起运行。\n为什么视觉人工智能是自动化作业现场的安全支柱一文首先出现在《机器人报告》上。",
@@ -369,6 +369,28 @@
       "source_authority": 0.85,
       "date": "2026-09-08",
       "score": 0.75
+    },
+    {
+      "title": "用牛蛙骨骼肌实现“机械飞升”，中国科学院沈阳自动化所研制无线光控类生命蝠鲼机器人",
+      "url": "https://www.ithome.com/1/000/146.htm",
+      "summary": "IT之家 9 月 9 日消息，中国科学院沈阳自动化研究所机器人学研究室科研团队受蝠鲼游动机制启发，研制出一款基于牛蛙离体骨骼肌的无线近红外光控“类生命蝠鲼机器人”。该研究将生物组织直接用作执行器，属于类生命机器人领域的前沿探索。相关成果刊载于国际学术期刊《Advanced Functional Materials》。▲ 类生命蝠鲼模型区别于领域内主流的细胞工程骨骼肌组织，科研人员创新性地选用牛蛙股薄肌天然离体骨骼肌作为生物驱动核心，其天然肌纤维排布有序，收缩力学性能优于细胞再造肌肉。在优化电刺激条件下（1Hz、5V、每脉冲 10 毫秒），离体肌肉可稳定输出约 6.5 牛顿收缩力，收缩幅度约 25%；极限条件下峰值收缩力达 9.4 牛顿。体外培养测试证实，该离体骨骼肌可维持电响应收缩性能长达 11 天，稳定驱动机器人运行约 7 天。▲ 类生命蝠鲼机器人的仿生作用机理在无线驱动方面，团队构建了“近红外激光 — 光电转换 — 神经电刺激”一体化架构。机器人背部集成微型砷化镓（GaAs）光伏模块，通过分时、分区激光辐照左右光伏单元，可独立控制双侧肌肉收缩时序，无需外接线缆即可实现直行、左右转向",
+      "short_summary": "IT之家 9 月 9 日消息，中国科学院沈阳自动化研究所机器人学研究室科研团队受蝠鲼游动机制启发，研制出一款基于牛蛙离体",
+      "detail": "IT之家 9 月 9 日消息，中国科学院沈阳自动化研究所机器人学研究室科研团队受蝠鲼游动机制启发，研制出一款基于牛蛙离体骨骼肌的无线近红外光控“类生命蝠鲼机器人”。该研究将生物组织直接用作执行器，属于类生命机器人领域的前沿探索。相关成果刊载于国际学术期刊《Advanced Functional Materials》。▲ 类生命蝠鲼模型区别于领域内主流的细胞工程骨骼肌组织，科研人员创新性地选用牛蛙股薄肌天然离体骨骼肌作为生物驱动核心，其天然肌纤维排布有序，收缩力学性能优于细胞再造肌肉。在优化电刺激条件下（1Hz、5V、每脉冲 10 毫秒），离体肌肉可稳定输出约 6.5 牛顿收缩力，收缩幅度约 25%；极限条件下峰值收缩力达 9.4 牛顿。体外培养测试证实，该离体骨骼肌可维持电响应收缩性能长达 11 天，稳定驱动机器人运行约 7 天。▲ 类生命蝠鲼机器人的仿生作用机理在无线驱动方面，团队构建了“近红外激光 — 光电转换 — 神经电刺激”一体化架构。机器人背部集成微型砷化镓（GaAs）光伏模块，通过分时、分区激光辐照左右光伏单元，可独立控制双侧肌肉收缩时序，无需外接线缆即可实现直行、左右转向",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-09-09",
+      "score": 0.71
+    },
+    {
+      "title": "具身机器人能搞定超市盘点吗？全球七万门店正在给出答案",
+      "url": "https://www.qbitai.com/2026/09/486280.html",
+      "summary": "从Demo到货架，这两家公司要让具身智能算得过账",
+      "short_summary": "从Demo到货架，这两家公司要让具身智能算得过账",
+      "detail": "从Demo到货架，这两家公司要让具身智能算得过账",
+      "source": "量子位",
+      "source_authority": 0.85,
+      "date": "2026-09-09",
+      "score": 0.655
     }
   ]
 }
