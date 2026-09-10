@@ -2,48 +2,15 @@
   "date": "2026-09-10",
   "category1": [
     {
-      "title": "曾获扎克伯格 15 亿美元 offer，Meta 明星 AI 研究员安德鲁 · 塔洛克宣布离职",
-      "url": "https://www.ithome.com/1/000/574.htm",
-      "summary": "北京时间 9 月 10 日，据《华尔街日报》报道，知情人士透露，明星 AI 研究员安德鲁 · 塔洛克 (Andrew Tulloch) 即将从 Meta 离职。去年，Meta 为了招募他曾提供价值超过 10 亿美元的薪酬方案。塔洛克的加入曾被视为 Meta 的一次重大胜利，也为去年夏天那场疯狂的人才争夺战画上了句号。当时，Meta CEO 马克 · 扎克伯格 (Mark Zuckerberg) 不惜重金招揽研究人员，力图在 AI 竞赛中迎头赶上。他曾在 Meta 工作 11 年，于 2023 年离职前往 OpenAI，随后共同创立了 Thinking Machines Lab。塔洛克周三向同事宣布离职时，并未透露下一步去向。他未回应置评请求。Meta 也拒绝就他的离职发表评论。他的离职加剧了一连串的 AI 研究人员高调出走潮。上个月，谷歌首席科学家杰夫 · 迪恩 (Jeff Dean) 与另外三名资深研究员离职，共同创立了一家 AI 创业公司。周二，一名 Anthropic 研究员因担心该公司及其竞争对手正在竞相打造一项最终可能无法控制的技术而辞职。塔洛克是近期宣布离职的第三位 Thi",
-      "short_summary": "北京时间 9 月 10 日，据《华尔街日报》报道，知情人士透露，明星 AI 研究员安德鲁 · 塔洛克 (Andrew T",
-      "detail": "北京时间 9 月 10 日，据《华尔街日报》报道，知情人士透露，明星 AI 研究员安德鲁 · 塔洛克 (Andrew Tulloch) 即将从 Meta 离职。去年，Meta 为了招募他曾提供价值超过 10 亿美元的薪酬方案。塔洛克的加入曾被视为 Meta 的一次重大胜利，也为去年夏天那场疯狂的人才争夺战画上了句号。当时，Meta CEO 马克 · 扎克伯格 (Mark Zuckerberg) 不惜重金招揽研究人员，力图在 AI 竞赛中迎头赶上。他曾在 Meta 工作 11 年，于 2023 年离职前往 OpenAI，随后共同创立了 Thinking Machines Lab。塔洛克周三向同事宣布离职时，并未透露下一步去向。他未回应置评请求。Meta 也拒绝就他的离职发表评论。他的离职加剧了一连串的 AI 研究人员高调出走潮。上个月，谷歌首席科学家杰夫 · 迪恩 (Jeff Dean) 与另外三名资深研究员离职，共同创立了一家 AI 创业公司。周二，一名 Anthropic 研究员因担心该公司及其竞争对手正在竞相打造一项最终可能无法控制的技术而辞职。塔洛克是近期宣布离职的第三位 Thi",
-      "source": "ITHome",
-      "source_authority": 0.75,
-      "date": "2026-09-10",
-      "score": 0.96
-    },
-    {
-      "title": "Anthropic 研究人员称人工智能可能会在 2030 年导致人类灭绝",
+      "title": "Anthropic researchers say AI could cause human extinction by 2030",
       "url": "https://www.theguardian.com/technology/2026/sep/09/anthropic-researchers-ai-human-extinction",
-      "summary": "一位辞职的研究人员表示，业内许多人认为，如果没有监管，人工智能可能会消灭人类。行业巨头 Anthropic 的三名研究人员表示，人工智能可能会在十年内消灭人类，其中一名研究人员已辞职以示抗议。周二，一位研究人员在社交媒体上发布了最新的厄运预测，他表示自己辞职是因为 Anthropic 和他的前雇主 OpenAI 忽视了，或者充其量是处理不当。他们的反应",
+      "summary": "One researcher who resigned said many in industry believe that without regulation AI could kill off humanityArtificial intelligence could kill off humanity within the decade, according to three researchers with the industry giant Anthropic, one of whom has quit his job in protest.The latest doom-laden predictions came in posts on social media on Tuesday by a researcher who said he resigned because Anthropic and his previous employer, OpenAI, were ignoring or, at best, mishandling their response",
       "short_summary": "One researcher who resigned said many in industry believe th",
       "detail": "一位辞职的研究人员表示，业内许多人认为，如果没有监管，人工智能可能会消灭人类。行业巨头 Anthropic 的三名研究人员表示，人工智能可能会在十年内消灭人类，其中一名研究人员已辞职以示抗议。周二，一位研究人员在社交媒体上发布了最新的厄运预测，他表示自己辞职是因为 Anthropic 和他的前雇主 OpenAI 忽视了，或者充其量是处理不当。他们的反应",
       "source": "The Guardian",
       "source_authority": 0.85,
       "date": "2026-09-10",
       "score": 0.9325
-    },
-    {
-      "title": "OpenAI ChatGPT 语音模式支持调用 GPT-5.6 Sol 和 GPT-6 Astra",
-      "url": "https://www.ithome.com/1/000/577.htm",
-      "summary": "IT之家 9 月 10 日消息，OpenAI 语音产品负责人 Atty Eleti 今日宣布，在 ChatGPT 语音模式（ChatGPT Voice）中，用户可以自由选择所需的模型以及推理深度，Pro 套餐更可调用 GPT-5.6 Sol 或 GPT-6 Astra。在需要执行网络搜索或复杂推理时，语音模式将会自动调用用户所指定的模型。据其介绍，每当语音模式将问题转交给底层文本模型处理时，都被视为发给该模型的一条消息。IT之家注意到，OpenAI 还简化了 GPT-Live 的每日使用限额规则：Go：提供最长 3 小时的 GPT-Live-1 mini 使用时长，不再提供 GPT-Live-1 的访问权限。Plus：提供最长 3 小时的 GPT-Live-1 使用时长。Pro（100 美元 / 月）：提供最长 15 小时的 GPT-Live-1 使用时长。Pro（200 美元 / 月）：无限制使用 GPT-Live-1。Plus 与 Pro 用户在用尽语音额度后，将不再降级切换至 GPT-Live mini。伴随此次更新，原有的“Instant / Medium / High”三档独",
-      "short_summary": "IT之家 9 月 10 日消息，OpenAI 语音产品负责人 Atty Eleti 今日宣布，在 ChatGPT 语音模",
-      "detail": "IT之家 9 月 10 日消息，OpenAI 语音产品负责人 Atty Eleti 今日宣布，在 ChatGPT 语音模式（ChatGPT Voice）中，用户可以自由选择所需的模型以及推理深度，Pro 套餐更可调用 GPT-5.6 Sol 或 GPT-6 Astra。在需要执行网络搜索或复杂推理时，语音模式将会自动调用用户所指定的模型。据其介绍，每当语音模式将问题转交给底层文本模型处理时，都被视为发给该模型的一条消息。IT之家注意到，OpenAI 还简化了 GPT-Live 的每日使用限额规则：Go：提供最长 3 小时的 GPT-Live-1 mini 使用时长，不再提供 GPT-Live-1 的访问权限。Plus：提供最长 3 小时的 GPT-Live-1 使用时长。Pro（100 美元 / 月）：提供最长 15 小时的 GPT-Live-1 使用时长。Pro（200 美元 / 月）：无限制使用 GPT-Live-1。Plus 与 Pro 用户在用尽语音额度后，将不再降级切换至 GPT-Live mini。伴随此次更新，原有的“Instant / Medium / High”三档独",
-      "source": "ITHome",
-      "source_authority": 0.75,
-      "date": "2026-09-10",
-      "score": 0.9225
-    },
-    {
-      "title": "OpenAI 悄然收紧 ChatGPT 广告政策，禁止 Adobe 等竞品投放 AI 生图与音频广告",
-      "url": "https://www.ithome.com/1/000/568.htm",
-      "summary": "IT之家 9 月 10 日消息，OpenAI 最近刚刚推出了 ChatGPT Images 2.5 图像生成模型以及 ChatGPT Live 语音功能。据 The Information 今日报道，OpenAI 近期悄然更新了其广告政策，禁止竞争对手在 ChatGPT 平台内投放特定生成式 AI 产品类别的广告，尤其是针对图像和音频生成工具的商业广告。OpenAI 已通知部分商业合作伙伴，将不再接受仅图像生成和语音生成类产品的广告活动审批。这项新规此前并未对外披露，也尚未更新至 OpenAI 官方广告政策页面。Adobe 美洲媒体高级总监 Doug Wyatt 证实了这一消息。Adobe 曾参与今年早些时候 OpenAI 的广告试点项目，在 ChatGPT 平台内推广其 Acrobat Studio 和自有的 Firefly AI 图像生成器。值得注意的是，目前这项政策调整并不对称 —— OpenAI 仍允许竞品投放视频生成工具的广告。与此同时，OpenAI 还同步调整了 ChatGPT 的发现机制，对于涉及图片编辑器和图像生成器等操作性图像查询，ChatGPT 已停止返回外部引用链",
-      "short_summary": "IT之家 9 月 10 日消息，OpenAI 最近刚刚推出了 ChatGPT Images 2.5 图像生成模型以及 C",
-      "detail": "IT之家 9 月 10 日消息，OpenAI 最近刚刚推出了 ChatGPT Images 2.5 图像生成模型以及 ChatGPT Live 语音功能。据 The Information 今日报道，OpenAI 近期悄然更新了其广告政策，禁止竞争对手在 ChatGPT 平台内投放特定生成式 AI 产品类别的广告，尤其是针对图像和音频生成工具的商业广告。OpenAI 已通知部分商业合作伙伴，将不再接受仅图像生成和语音生成类产品的广告活动审批。这项新规此前并未对外披露，也尚未更新至 OpenAI 官方广告政策页面。Adobe 美洲媒体高级总监 Doug Wyatt 证实了这一消息。Adobe 曾参与今年早些时候 OpenAI 的广告试点项目，在 ChatGPT 平台内推广其 Acrobat Studio 和自有的 Firefly AI 图像生成器。值得注意的是，目前这项政策调整并不对称 —— OpenAI 仍允许竞品投放视频生成工具的广告。与此同时，OpenAI 还同步调整了 ChatGPT 的发现机制，对于涉及图片编辑器和图像生成器等操作性图像查询，ChatGPT 已停止返回外部引用链",
-      "source": "ITHome",
-      "source_authority": 0.75,
-      "date": "2026-09-10",
-      "score": 0.9225
     },
     {
       "title": "OpenAI 巧妙的数学突破让学术界不寒而栗",
@@ -57,6 +24,17 @@
       "score": 0.8375
     },
     {
+      "title": "研究人员警告人类到 2030 年将灭绝后，立法者猛烈抨击人工智能公司",
+      "url": "https://www.theguardian.com/technology/2026/sep/09/lawmakers-blast-ai-human-extinct-2030",
+      "summary": "前 Anthropic 员工雅各布·考克森 (Jacob Coxon) 表示，人工智能将成为“超人类系统”，可能在本世纪末导致人类灭绝。就在三名 Anthropic 研究人员警告人工智能可能在十年内消灭人类的一天后，立法者们开始猛烈抨击这项新兴技术的风险。德克萨斯州共和党参议员特德·克鲁兹 (Ted Cruz) 在接受美国广播公司 (ABC) 的《观点》采访时表示，人工智能构成了“灾难性风险”他“读了整条推文",
+      "short_summary": "Former Anthropic employee Jacob Coxon said AI will become ‘s",
+      "detail": "前 Anthropic 员工雅各布·考克森 (Jacob Coxon) 表示，人工智能将成为“超人类系统”，可能在本世纪末导致人类灭绝。就在三名 Anthropic 研究人员警告人工智能可能在十年内消灭人类的一天后，立法者们开始猛烈抨击这项新兴技术的风险。德克萨斯州共和党参议员特德·克鲁兹 (Ted Cruz) 在接受美国广播公司 (ABC) 的《观点》采访时表示，人工智能构成了“灾难性风险”他“读了整条推文",
+      "source": "The Guardian",
+      "source_authority": 0.85,
+      "date": "2026-09-10",
+      "score": 0.8325
+    },
+    {
       "title": "超级智能即将来临。我们应该放手吗？",
       "url": "https://techcrunch.com/video/superintelligence-is-coming-should-we-let-it/",
       "summary": "人工智能公司一直在谈论超级智能人工智能，就像它是不可避免的一样，但最近发生的安全事件，如OpenAI的拥抱脸违规事件，正在证明部署比人类能力更强的人工智能系统的潜在危险。 那么，当我们无法可靠地控制这些系统的行为时会发生什么？  在 TechCrunch 的股票播客的这一集中，丽贝卡·贝兰 (Rebecca Bellan) 与人工智能研究员、企业家、现任 [...] 的美国执行董事康纳·莱希 (Connor Leahy) 一起参与其中。",
@@ -68,22 +46,33 @@
       "score": 0.805
     },
     {
+      "title": "荣耀 Magic9 系列手机官宣支持阿莱色彩科学，含完整阿莱官方全套 Look 等",
+      "url": "https://www.ithome.com/1/000/696.htm",
+      "summary": "IT之家 9 月 10 日消息，荣耀官方今日宣布，荣耀 Magic9 系列手机将支持阿莱色彩科学，包括：AWG3 广色域、阿莱官方全套 Look、APV 无损编码、阿莱 LogC3 视频管线等。据介绍，荣耀 Magic9 系列手机由阿莱联合研发，采用大导之眼设计，后置「电影三摄镜头系统」，搭载阿莱双两亿超清影像，首发 500mm 荣耀巨炮增距镜。新机还同时支持全新阿莱电影模式，号称“掌中电影机”。根据规划，荣耀 Magic 盛典暨荣耀 Magic9 系列新品发布会定档 9 月 28 日在北京举行。▲ IT之家开箱：荣耀 Magic9 Pro Max 图赏",
+      "short_summary": "IT之家 9 月 10 日消息，荣耀官方今日宣布，荣耀 Magic9 系列手机将支持阿莱色彩科学，包括：AWG3 广色域",
+      "detail": "IT之家 9 月 10 日消息，荣耀官方今日宣布，荣耀 Magic9 系列手机将支持阿莱色彩科学，包括：AWG3 广色域、阿莱官方全套 Look、APV 无损编码、阿莱 LogC3 视频管线等。据介绍，荣耀 Magic9 系列手机由阿莱联合研发，采用大导之眼设计，后置「电影三摄镜头系统」，搭载阿莱双两亿超清影像，首发 500mm 荣耀巨炮增距镜。新机还同时支持全新阿莱电影模式，号称“掌中电影机”。根据规划，荣耀 Magic 盛典暨荣耀 Magic9 系列新品发布会定档 9 月 28 日在北京举行。▲ IT之家开箱：荣耀 Magic9 Pro Max 图赏",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-09-10",
+      "score": 0.8025
+    },
+    {
       "title": "刚刚退出 Anthropic 的人工智能研究员表示，现在是“人类的关键时刻”",
       "url": "https://www.wired.com/story/anthropic-researcher-quits-jacob-coxon-ai-fears-humanity/",
       "summary": "Jacob Coxon 向《连线》杂志谈论了 Anthropic 中的“迷你曼哈顿项目”、对齐问题，以及为什么人工智能实验室只剩下几年时间来确保其系统安全。",
       "short_summary": "Jacob Coxon talks to WIRED about the “mini Manhattan project",
-      "detail": "Jacob Coxon 向《连线》杂志谈论了 Anthropic 中的“迷你曼哈顿项目”、对齐问题，以及为什么人工智能实验室只剩下几年时间来确保其系统安全。",
+      "detail": "Jacob Coxon talks to WIRED about the “mini Manhattan project” inside Anthropic, the problem with alignment, and why AI labs have just a few years left to make their systems safe.",
       "source": "Wired",
       "source_authority": 0.85,
       "date": "2026-09-10",
       "score": 0.8
     },
     {
-      "title": "下载：OpenAI 的数学转折点和电池记录",
+      "title": "The Download: OpenAI’s turning point for math and a battery record",
       "url": "https://www.technologyreview.com/2026/09/09/1143767/the-download-openai-math-future-battery-record/",
-      "summary": "这是今天版本的《下载》，这是我们的工作日时事通讯，每天提供技术世界中正在发生的事情。 OpenAI 的最新争议告诉我们关于数学的未来 OpenAI 表示其代理已经解决了数学中最重要的开放问题之一。正常情况下，这会...",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. What OpenAI’s latest controversy tells us about the future of math OpenAI says its agents have solved one of the most important open problems in mathematics. Under normal circumstances, that would…",
       "short_summary": "This is today’s edition of The Download, our weekday newslet",
-      "detail": "这是今天版本的《下载》，这是我们的工作日时事通讯，每天提供技术世界中正在发生的事情。 OpenAI 的最新争议告诉我们关于数学的未来 OpenAI 表示其代理已经解决了数学中最重要的开放问题之一。正常情况下，这会...",
+      "detail": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. What OpenAI’s latest controversy tells us about the future of math OpenAI says its agents have solved one of the most important open problems in mathematics. Under normal circumstances, that would…",
       "source": "MIT Tech Review",
       "source_authority": 0.9,
       "date": "2026-09-09",
@@ -92,13 +81,24 @@
     {
       "title": "OpenAI 董事会增加了一位著名的人工智能毁灭者",
       "url": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
-      "summary": "Paul Christiano 是一位有影响力的人工智能研究员，专注于一致性，他将加入 OpenAI 基金会，成为其董事会成员。",
+      "summary": "Paul Christiano, an influential AI researcher focused on alignment, is joining the OpenAI Foundation as a member of its board.",
       "short_summary": "Paul Christiano, an influential AI researcher focused on ali",
       "detail": "Paul Christiano 是一位有影响力的人工智能研究员，专注于一致性，他将加入 OpenAI 基金会，成为其董事会成员。",
       "source": "TechCrunch",
       "source_authority": 0.95,
       "date": "2026-09-10",
       "score": 0.79
+    },
+    {
+      "title": "DeepSeek V4.1 Flash 模型今日发布，V4 Pro 服务推迟到 9 月 14 日下线",
+      "url": "https://www.ithome.com/1/000/692.htm",
+      "summary": "IT之家 9 月 10 日消息，据IT之家小伙伴反馈，DeepSeek 官方今日向 API 用户发送通知邮件，宣布 DeepSeek 于北京时间 2026 年 9 月 10 日正式发布 V4.1 Flash 模型并执行新的 Flash 定价。同时，DeepSeek 计划推迟至北京时间 2026 年 9 月 14 日 12:00 下线 V4 Pro 服务，届时 DeepSeek V4 Pro 将会路由到 V4.1 Flash 并按 V4.1 Flash 计费。经内部、外部多方测试，V4.1 Flash 在性能、费用、速度、总用时等各项指标上已全面超越 V4 Pro。V4.1 Flash 的价格于北京时间 2026 年 9 月 10 日 12:00 开始生效：空闲时段输入缓存命中单价 0.02 元、输入缓存未命中单价 1 元，输出单价 4 元；高峰时段价格为空闲时段价格的 2 倍。IT之家注意到，DeepSeek 开放平台也已向用户发送类似的通知。",
+      "short_summary": "IT之家 9 月 10 日消息，据IT之家小伙伴反馈，DeepSeek 官方今日向 API 用户发送通知邮件，宣布 De",
+      "detail": "IT之家 9 月 10 日消息，据IT之家小伙伴反馈，DeepSeek 官方今日向 API 用户发送通知邮件，宣布 DeepSeek 于北京时间 2026 年 9 月 10 日正式发布 V4.1 Flash 模型并执行新的 Flash 定价。同时，DeepSeek 计划推迟至北京时间 2026 年 9 月 14 日 12:00 下线 V4 Pro 服务，届时 DeepSeek V4 Pro 将会路由到 V4.1 Flash 并按 V4.1 Flash 计费。经内部、外部多方测试，V4.1 Flash 在性能、费用、速度、总用时等各项指标上已全面超越 V4 Pro。V4.1 Flash 的价格于北京时间 2026 年 9 月 10 日 12:00 开始生效：空闲时段输入缓存命中单价 0.02 元、输入缓存未命中单价 1 元，输出单价 4 元；高峰时段价格为空闲时段价格的 2 倍。IT之家注意到，DeepSeek 开放平台也已向用户发送类似的通知。",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-09-10",
+      "score": 0.785
     },
     {
       "title": "ControlAI 的康纳·莱希 (Connor Leahy) 阐述为何超级智能“不是武器，而是对手”",
@@ -114,66 +114,66 @@
   ],
   "category2": [
     {
-      "title": "苹果部分功能不随 iOS 27 及新硬件首发：Siri AI 下月拓展更多语言支持，Apple Watch 新功能年底推出",
-      "url": "https://www.ithome.com/1/000/576.htm",
-      "summary": "IT之家 9 月 10 日消息，苹果在发布会上及发布会后公布的部分软件功能并不会与 iOS 27 及新硬件同步上线，部分功能仍需等待未来更新，甚至要等到 2026 年底。硬件方面，Apple Watch Series 12、Apple Watch Ultra 4 将于 9 月 11 日早 9 点接受预购、9 月 18 日起陆续发货； AirPods 5 现已开放预购，同样 9 月 18 日起陆续发货。苹果 iPhone 18 Pro 和 iPhone 18 Pro Max 将于 9 月 12 日晚 8 点开启预购，同样 9 月 18 日起发货。苹果首款折叠屏手机 iPhone Duo 则要等待更久。该机将于 10 月 16 日晚 8 点接受预购，首批产品预计于 10 月 23 日送至用户手中，并将预装 iOS 27.1。系统更新方面，iOS 27、iPadOS 27、watchOS 27、macOS 27、tvOS 27 和 visionOS 27 均将于 9 月 15 日凌晨推送。届时，已经拥有兼容设备的用户无需购买新硬件，也可以直接升级系统。Apple Intelligence 将",
-      "short_summary": "IT之家 9 月 10 日消息，苹果在发布会上及发布会后公布的部分软件功能并不会与 iOS 27 及新硬件同步上线，部分",
-      "detail": "IT之家 9 月 10 日消息，苹果在发布会上及发布会后公布的部分软件功能并不会与 iOS 27 及新硬件同步上线，部分功能仍需等待未来更新，甚至要等到 2026 年底。硬件方面，Apple Watch Series 12、Apple Watch Ultra 4 将于 9 月 11 日早 9 点接受预购、9 月 18 日起陆续发货； AirPods 5 现已开放预购，同样 9 月 18 日起陆续发货。苹果 iPhone 18 Pro 和 iPhone 18 Pro Max 将于 9 月 12 日晚 8 点开启预购，同样 9 月 18 日起发货。苹果首款折叠屏手机 iPhone Duo 则要等待更久。该机将于 10 月 16 日晚 8 点接受预购，首批产品预计于 10 月 23 日送至用户手中，并将预装 iOS 27.1。系统更新方面，iOS 27、iPadOS 27、watchOS 27、macOS 27、tvOS 27 和 visionOS 27 均将于 9 月 15 日凌晨推送。届时，已经拥有兼容设备的用户无需购买新硬件，也可以直接升级系统。Apple Intelligence 将",
+      "title": "红魔姜超谈 iPhone Duo 加入真全面屏赛道，预告红魔 12 新品将搭载最新第九代屏下技术",
+      "url": "https://www.ithome.com/1/000/698.htm",
+      "summary": "IT之家 9 月 10 日消息，红魔游戏手机产品总经理姜超今日发文，谈及了 iPhone Duo 采用屏下摄像头方案。▲ 苹果首款折叠屏手机 iPhone Duo他表示，多年来红魔一直坚守真全面屏技术路线，顶着“全面屏是小众技术”的声音，一代代迭代打磨屏下摄像技术，经过五年八代的努力突破，不断平衡开孔隐藏效果、前置成像素质与整块屏幕的显示质感，向着近乎无感的全面屏体验持续突破。▲ 红魔 11S Pro+ 手机官图IT之家注意到，姜超还发布预告，红魔 12 新品将搭载最新第九代屏下技术，称这将是屏下技术的新巅峰。相关阅读：《1999 美元起苹果首款折叠屏手机 iPhone Duo 正式发布：支持 Apple Pencil、内屏引入屏下摄像头、A20 Pro 处理器...》",
+      "short_summary": "IT之家 9 月 10 日消息，红魔游戏手机产品总经理姜超今日发文，谈及了 iPhone Duo 采用屏下摄像头方案。▲",
+      "detail": "IT之家 9 月 10 日消息，红魔游戏手机产品总经理姜超今日发文，谈及了 iPhone Duo 采用屏下摄像头方案。▲ 苹果首款折叠屏手机 iPhone Duo他表示，多年来红魔一直坚守真全面屏技术路线，顶着“全面屏是小众技术”的声音，一代代迭代打磨屏下摄像技术，经过五年八代的努力突破，不断平衡开孔隐藏效果、前置成像素质与整块屏幕的显示质感，向着近乎无感的全面屏体验持续突破。▲ 红魔 11S Pro+ 手机官图IT之家注意到，姜超还发布预告，红魔 12 新品将搭载最新第九代屏下技术，称这将是屏下技术的新巅峰。相关阅读：《1999 美元起苹果首款折叠屏手机 iPhone Duo 正式发布：支持 Apple Pencil、内屏引入屏下摄像头、A20 Pro 处理器...》",
       "source": "ITHome",
       "source_authority": 0.75,
       "date": "2026-09-10",
-      "score": 0.7775
+      "score": 0.7825
     },
     {
-      "title": "Instacart 推出人工智能杂货购物助手 Clementine",
+      "title": "Find 系列首次：OPPO Find X10 手机官宣实现「0.99mm 极窄四等边」",
+      "url": "https://www.ithome.com/1/000/643.htm",
+      "summary": "IT之家 9 月 10 日消息，OPPO Find 系列产品负责人卓世杰今日发文，介绍了 Find X10 的正面设计，并宣布 Find X10 这次的「0.99mm 极窄四等边」，是 Find 系列第一次把边框压到 1mm 以内。卓世杰表示：0.99mm 的背后，是全新芯片级封装技术的一次硬突破。它不仅窄，更难的是“四边等窄”。只有当极窄与等窄同时成立，四周的边界感才能被进一步压低，让画面真正铺满眼帘。全屏追剧，黑边不再抢戏；横屏游戏，视野也不再被边缘干扰。注意力，自然更聚焦在眼前。据IT之家昨日报道，OPPO Find X10 系列手机已开启预约，相关页面显示，OPPO Find X10 系列一共有 Find X10 标准版、Find X10 Pro Max 和 Find X10 E 三款机型。目前，OPPO ColorOS 17 发布暨开发者大会已定档 2026 年 9 月 17 日 10:00 在珠海举行。本次大会主论坛将发布全新 ColorOS 17，新系统将由 OPPO Find X10 系列首发搭载。",
+      "short_summary": "IT之家 9 月 10 日消息，OPPO Find 系列产品负责人卓世杰今日发文，介绍了 Find X10 的正面设计，",
+      "detail": "IT之家 9 月 10 日消息，OPPO Find 系列产品负责人卓世杰今日发文，介绍了 Find X10 的正面设计，并宣布 Find X10 这次的「0.99mm 极窄四等边」，是 Find 系列第一次把边框压到 1mm 以内。卓世杰表示：0.99mm 的背后，是全新芯片级封装技术的一次硬突破。它不仅窄，更难的是“四边等窄”。只有当极窄与等窄同时成立，四周的边界感才能被进一步压低，让画面真正铺满眼帘。全屏追剧，黑边不再抢戏；横屏游戏，视野也不再被边缘干扰。注意力，自然更聚焦在眼前。据IT之家昨日报道，OPPO Find X10 系列手机已开启预约，相关页面显示，OPPO Find X10 系列一共有 Find X10 标准版、Find X10 Pro Max 和 Find X10 E 三款机型。目前，OPPO ColorOS 17 发布暨开发者大会已定档 2026 年 9 月 17 日 10:00 在珠海举行。本次大会主论坛将发布全新 ColorOS 17，新系统将由 OPPO Find X10 系列首发搭载。",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-09-10",
+      "score": 0.7575
+    },
+    {
+      "title": "Instacart launches an AI grocery shopping assistant called Clementine",
       "url": "https://techcrunch.com/2026/09/09/instacart-launches-an-ai-grocery-shopping-assistant-called-clementine/",
-      "summary": "Instacart 是将对话式人工智能助手融入其平台的最新应用程序。",
+      "summary": "Instacart is the latest app to bake a conversational AI assistant into its platform.",
       "short_summary": "Instacart is the latest app to bake a conversational AI assi",
-      "detail": "Instacart 是将对话式人工智能助手融入其平台的最新应用程序。",
+      "detail": "Instacart is the latest app to bake a conversational AI assistant into its platform.",
       "source": "TechCrunch",
       "source_authority": 0.95,
       "date": "2026-09-09",
       "score": 0.735
     },
     {
-      "title": "苹果新的 iPhone 相机模式有望证明你的照片不是人工智能",
+      "title": "Apple’s new iPhone camera mode promises to prove your photo isn’t AI",
       "url": "https://www.theverge.com/tech/992766/apple-iphone-18-pro-reference-image",
-      "summary": "苹果正在推出一种新方法来证明你拍摄的照片没有被人工智能操纵。一项名为“参考图像”的新功能将于本月晚些时候随 iPhone 18 Pro 系列一起推出，预计会使用该设备的新相机传感器来“标记它看到的每个像素”。 iPhone 18 Pro 和 [...]",
+      "summary": "Apple is launching a new way to prove that the picture you took isn't manipulated by AI. A new feature, called \"Reference Image,\" will arrive with the iPhone 18 Pro lineup later this month and is supposed to use the device's new camera sensor to \"sign every pixel it sees.\" The iPhone 18 Pro and […]",
       "short_summary": "Apple is launching a new way to prove that the picture you t",
-      "detail": "苹果正在推出一种新方法来证明你拍摄的照片没有被人工智能操纵。一项名为“参考图像”的新功能将于本月晚些时候随 iPhone 18 Pro 系列一起推出，预计会使用该设备的新相机传感器来“标记它看到的每个像素”。 iPhone 18 Pro 和 [...]",
+      "detail": "Apple is launching a new way to prove that the picture you took isn't manipulated by AI. A new feature, called \"Reference Image,\" will arrive with the iPhone 18 Pro lineup later this month and is supposed to use the device's new camera sensor to \"sign every pixel it sees.\" The iPhone 18 Pro and […]",
       "source": "The Verge",
       "source_authority": 0.9,
       "date": "2026-09-10",
       "score": 0.735
     },
     {
-      "title": "Apple Watch 的新 AI 功能正在规范“技术始终倾听”的理念",
+      "title": "Apple Watch’s new AI features are normalizing the idea that technology is always listening",
       "url": "https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening/",
       "summary": "苹果表示，其新款手表不会保存原始音频，但可以转录最近的语音并总结周围对话的功能引发了有关同意、隐私以及人们在知道自己随时可能被录音时如何行为的新问题。",
       "short_summary": "Apple says its new watches won’t save raw audio, but feature",
-      "detail": "苹果表示，其新款手表不会保存原始音频，但可以转录最近的语音并总结周围对话的功能引发了有关同意、隐私以及人们在知道自己随时可能被录音时如何行为的新问题。",
+      "detail": "Apple says its new watches won’t save raw audio, but features that can transcribe recent speech and summarize ambient conversations raise new questions about consent, privacy, and how people behave when they know they could always be recorded.",
       "source": "TechCrunch",
       "source_authority": 0.95,
       "date": "2026-09-10",
       "score": 0.7325
     },
     {
-      "title": "投票：苹果折叠屏手机 iPhone Duo 首秀，你还满意吗？考虑购买吗？",
-      "url": "https://www.ithome.com/1/000/579.htm",
-      "summary": "IT之家 9 月 10 日消息，苹果今日凌晨正式端上了旗下首款折叠屏旗舰手机 —— iPhone Duo，起价 15,999 元，顶配来到 26,499 元，可以说是苹果史上最贵的手机。对于这个“苹果牌”折叠屏，IT之家小伙伴还满意吗？会考虑购买吗？IT之家为大家盘一盘 iPhone Duo 的几大亮点，投票文末见。iPhone Duo 搭载 iPhone 18 Pro 同款 A20 Pro 处理器，内屏规格为 7.6 英寸 1878 x 2670 分辨率 120Hz（首次采用屏下摄像头），外屏规格为 5.4 英寸 1398 x 2034 分辨率 120Hz，内外屏都支持 Apple Pencil（今年晚些时候）。该机机身边框由航空级钛金属打造，使用侧边指纹，铰链机构采用定制的可变扭矩设计，拥有超 100 个部件，展开状态下厚度 5.2mm，是迄今为止最薄的 iPhone。软件方面是苹果的传统强项，iPhone Duo 充分利用大屏空间，主屏幕上的程序坞采用竖向布局，控制项放在了方便拇指操作的位置。手机支持同时操作两个应用，还支持半折叠使用，可秒变日历、闹钟、桌面音箱。iPhone D",
-      "short_summary": "IT之家 9 月 10 日消息，苹果今日凌晨正式端上了旗下首款折叠屏旗舰手机 —— iPhone Duo，起价 15,9",
-      "detail": "IT之家 9 月 10 日消息，苹果今日凌晨正式端上了旗下首款折叠屏旗舰手机 —— iPhone Duo，起价 15,999 元，顶配来到 26,499 元，可以说是苹果史上最贵的手机。对于这个“苹果牌”折叠屏，IT之家小伙伴还满意吗？会考虑购买吗？IT之家为大家盘一盘 iPhone Duo 的几大亮点，投票文末见。iPhone Duo 搭载 iPhone 18 Pro 同款 A20 Pro 处理器，内屏规格为 7.6 英寸 1878 x 2670 分辨率 120Hz（首次采用屏下摄像头），外屏规格为 5.4 英寸 1398 x 2034 分辨率 120Hz，内外屏都支持 Apple Pencil（今年晚些时候）。该机机身边框由航空级钛金属打造，使用侧边指纹，铰链机构采用定制的可变扭矩设计，拥有超 100 个部件，展开状态下厚度 5.2mm，是迄今为止最薄的 iPhone。软件方面是苹果的传统强项，iPhone Duo 充分利用大屏空间，主屏幕上的程序坞采用竖向布局，控制项放在了方便拇指操作的位置。手机支持同时操作两个应用，还支持半折叠使用，可秒变日历、闹钟、桌面音箱。iPhone D",
-      "source": "ITHome",
-      "source_authority": 0.75,
-      "date": "2026-09-10",
-      "score": 0.7325
-    },
-    {
-      "title": "苹果 Apple Watch 将增 AI 音频功能：全天谈话划重点 / 回顾 15 秒对话",
-      "url": "https://www.ithome.com/1/000/559.htm",
-      "summary": "IT之家 9 月 10 日消息，彭博社今天（9 月 10 日）发布博文，报道称在 2026 秋季发布会上，苹果为 Apple Watch Series 12、Apple Watch Ultra 4 两款智能手表，带来了 Siri Recap 和 Live Recap 在内的全新音频智能工具，通过环境聆听记录对话要点并生成实时转录。IT之家援引博文介绍，Siri Recap 定位类似自动化的对话备忘录，通过“环境聆听”（ambient listening），从日常对话中记录概括性信息，帮助用户回顾可能遗漏的事项或重点。而 Live Recap 可显示最近 15 秒实时对话的文字转录，方便用户快速回顾刚才说了什么。此外 Apple Watch 还可监听婴儿哭声、门铃和警笛等重要环境声音。隐私方面，用户可以根据自身使用偏好决定是否启用，此外苹果强调新功能不会创建或存储任何录音，苹果以及第三方应用均不可访问原始音频，且处理完成后立即删除。",
-      "short_summary": "IT之家 9 月 10 日消息，彭博社今天（9 月 10 日）发布博文，报道称在 2026 秋季发布会上，苹果为 App",
-      "detail": "IT之家 9 月 10 日消息，彭博社今天（9 月 10 日）发布博文，报道称在 2026 秋季发布会上，苹果为 Apple Watch Series 12、Apple Watch Ultra 4 两款智能手表，带来了 Siri Recap 和 Live Recap 在内的全新音频智能工具，通过环境聆听记录对话要点并生成实时转录。IT之家援引博文介绍，Siri Recap 定位类似自动化的对话备忘录，通过“环境聆听”（ambient listening），从日常对话中记录概括性信息，帮助用户回顾可能遗漏的事项或重点。而 Live Recap 可显示最近 15 秒实时对话的文字转录，方便用户快速回顾刚才说了什么。此外 Apple Watch 还可监听婴儿哭声、门铃和警笛等重要环境声音。隐私方面，用户可以根据自身使用偏好决定是否启用，此外苹果强调新功能不会创建或存储任何录音，苹果以及第三方应用均不可访问原始音频，且处理完成后立即删除。",
+      "title": "Excel 2016 等用户反馈微软 9 月更新导致复制粘贴功能失效",
+      "url": "https://www.ithome.com/1/000/704.htm",
+      "summary": "IT之家 9 月 10 日消息，科技媒体 BornCity 今天（9 月 10 日）发布博文，报道称部分用户反馈 Excel 2016、Excel 2024 LTSC 专业版等版本安装 9 月更新后，遇到复制粘贴功能失效故障。IT之家援引博文介绍，目前社区反馈报告的受影响版本主要集中在以下版本：Microsoft Excel 2016Microsoft Excel 2019Microsoft Excel LTSC Standard 2021Microsoft Excel 2024 LTSC Pro（来自原文，查询后非官方名称，应该关联 Office LTSC 专业增强版 2024）在问题表现方面，用户主要反馈无法复制、粘贴或选中 Excel 单元格，部分用户还报告自动填充功能无法使用。根据该媒体和社区的调查，本次故障预估关联 9 月推送的 KB5002914 更新，该更新用于修复微软支持文档列出的信息泄露和远程代码执行漏洞。对可卸载更新的 MSI 版 Office 2016，卸载该补丁后 Excel 可恢复使用。",
+      "short_summary": "IT之家 9 月 10 日消息，科技媒体 BornCity 今天（9 月 10 日）发布博文，报道称部分用户反馈 Exc",
+      "detail": "IT之家 9 月 10 日消息，科技媒体 BornCity 今天（9 月 10 日）发布博文，报道称部分用户反馈 Excel 2016、Excel 2024 LTSC 专业版等版本安装 9 月更新后，遇到复制粘贴功能失效故障。IT之家援引博文介绍，目前社区反馈报告的受影响版本主要集中在以下版本：Microsoft Excel 2016Microsoft Excel 2019Microsoft Excel LTSC Standard 2021Microsoft Excel 2024 LTSC Pro（来自原文，查询后非官方名称，应该关联 Office LTSC 专业增强版 2024）在问题表现方面，用户主要反馈无法复制、粘贴或选中 Excel 单元格，部分用户还报告自动填充功能无法使用。根据该媒体和社区的调查，本次故障预估关联 9 月推送的 KB5002914 更新，该更新用于修复微软支持文档列出的信息泄露和远程代码执行漏洞。对可卸载更新的 MSI 版 Office 2016，卸载该补丁后 Excel 可恢复使用。",
       "source": "ITHome",
       "source_authority": 0.75,
       "date": "2026-09-10",
@@ -204,16 +204,16 @@
     {
       "title": "苹果新款可折叠手机的铰链是用人工智能打造的",
       "url": "https://techcrunch.com/2026/09/09/the-hinge-for-apples-new-foldable-phone-was-built-with-ai/",
-      "summary": "苹果表示，它在其期待已久的可折叠手机的制造过程中使用了人工智能和 3D 打印。",
+      "summary": "Apple says it used AI and 3D printing in the manufacturing process for its long-awaited foldable phone.",
       "short_summary": "Apple says it used AI and 3D printing in the manufacturing p",
-      "detail": "苹果表示，它在其期待已久的可折叠手机的制造过程中使用了人工智能和 3D 打印。",
+      "detail": "Apple says it used AI and 3D printing in the manufacturing process for its long-awaited foldable phone.",
       "source": "TechCrunch",
       "source_authority": 0.95,
       "date": "2026-09-10",
       "score": 0.7
     },
     {
-      "title": "我让人工智能代理破解了我所有的小工具——我会再做一次",
+      "title": "I Let an AI Agent Hack All My Gadgets—and I’d Do It Again",
       "url": "https://www.wired.com/story/i-used-ai-to-hack-my-home-network/",
       "summary": "当我从一个强大的开源模型中移除安全护栏后，它发现了我的家用设备中的漏洞并侵入了我的电脑。但它也告诉我如何让一切变得更加安全。",
       "short_summary": "After I removed the safety guardrails from a powerful open-s",
@@ -226,6 +226,28 @@
   ],
   "category3": [
     {
+      "title": "英伟达 CUDA Toolkit 13.4 首次原生支持 Windows on Arm64，铺路 RTX Spark",
+      "url": "https://www.ithome.com/1/000/694.htm",
+      "summary": "IT之家 9 月 10 日消息，英伟达昨日（9 月 9 日）发布 CUDA Toolkit 13.4 工具包，首次为 Windows on Arm64 平台提供原生开发包支持。这是 CUDA 历史上第一次将 Arm 平台支持从 Linux 扩展至 Windows on Arm，开发者现在可以直接在 Windows Arm64 系统上编译 CUDA 应用程序，也可使用 Windows x86-64 版本的工具包进行交叉编译。CUDA Toolkit 是英伟达推出的 GPU 编程开发工具包，包含编译器、库和工具，让开发者能编写在 NVIDIA GPU 上加速运行的程序。最新 CUDA Toolkit 13.4 版本以预览版形式，为 NVIDIA Rubin 架构（计算能力 107）提供功能性支持，在正式版发布前，让开发者和关键软件库维护者能够提前移植、开发与验证应用。IT之家注：计算能力 107 对应计算能力版本 10.7，CUDA 用这个编号识别 GPU 架构特性，并让编译器生成适配该架构的 GPU 机器代码。本次更新覆盖 CUDA 编译器、PTX ISA、CUDA C++、CUDA T",
+      "short_summary": "IT之家 9 月 10 日消息，英伟达昨日（9 月 9 日）发布 CUDA Toolkit 13.4 工具包，首次为 W",
+      "detail": "IT之家 9 月 10 日消息，英伟达昨日（9 月 9 日）发布 CUDA Toolkit 13.4 工具包，首次为 Windows on Arm64 平台提供原生开发包支持。这是 CUDA 历史上第一次将 Arm 平台支持从 Linux 扩展至 Windows on Arm，开发者现在可以直接在 Windows Arm64 系统上编译 CUDA 应用程序，也可使用 Windows x86-64 版本的工具包进行交叉编译。CUDA Toolkit 是英伟达推出的 GPU 编程开发工具包，包含编译器、库和工具，让开发者能编写在 NVIDIA GPU 上加速运行的程序。最新 CUDA Toolkit 13.4 版本以预览版形式，为 NVIDIA Rubin 架构（计算能力 107）提供功能性支持，在正式版发布前，让开发者和关键软件库维护者能够提前移植、开发与验证应用。IT之家注：计算能力 107 对应计算能力版本 10.7，CUDA 用这个编号识别 GPU 架构特性，并让编译器生成适配该架构的 GPU 机器代码。本次更新覆盖 CUDA 编译器、PTX ISA、CUDA C++、CUDA T",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-09-10",
+      "score": 0.9375
+    },
+    {
+      "title": "中国联通董事长董昕：反对恶性竞争，更要避开同质化竞争",
+      "url": "https://www.ithome.com/1/000/707.htm",
+      "summary": "9 月 10 日上午消息，在今日的 2026 中国联通合作伙伴大会上，中国联通党组书记、董事长董昕发表演讲。他表示，中国联通把新一代通信网和算力网作为主责主业，也是中国联通运营商的基因。新一代通信网络超越了传统意义的网络升级，由原来地面巡路到未来的全域遨游、天地海空一体，成为数字时代基础设施的关键革命。中国联通自始至终把连接作为立身之本，目前连接总规模已经突破了 13 亿，经营范式也从连人连物向连新连智不断拓展。“我们愿深化政产学研用协同创新，加强 6G 技术研发，激活 AI 应用神经元，推动人工智能创新普惠安全发展，真正助力国家，助力各位合作伙伴，共同打造空天地海一体、通感智安融合的新一代通讯网络。”至于算力网，董昕表示，它作为一张会思考的国家级数字底座，中国联通坚定不移走好绿色可持续发展之路，愿进一步加大投入力度。在“十五五”期间，中国联通预计撬动千亿级的投资，携手合作伙伴，坚持战略投入与合理性的回报并重，在服务的基础上同时也要赚钱。他还提到，随着技术的进步，市场需求的品质化、多样化、个性化越发明显。为进一步推动行业从参数比拼、模型比拼，真正转向场景比拼、交付比拼，中国联通也在着手",
+      "short_summary": "9 月 10 日上午消息，在今日的 2026 中国联通合作伙伴大会上，中国联通党组书记、董事长董昕发表演讲。他表示，中国",
+      "detail": "9 月 10 日上午消息，在今日的 2026 中国联通合作伙伴大会上，中国联通党组书记、董事长董昕发表演讲。他表示，中国联通把新一代通信网和算力网作为主责主业，也是中国联通运营商的基因。新一代通信网络超越了传统意义的网络升级，由原来地面巡路到未来的全域遨游、天地海空一体，成为数字时代基础设施的关键革命。中国联通自始至终把连接作为立身之本，目前连接总规模已经突破了 13 亿，经营范式也从连人连物向连新连智不断拓展。“我们愿深化政产学研用协同创新，加强 6G 技术研发，激活 AI 应用神经元，推动人工智能创新普惠安全发展，真正助力国家，助力各位合作伙伴，共同打造空天地海一体、通感智安融合的新一代通讯网络。”至于算力网，董昕表示，它作为一张会思考的国家级数字底座，中国联通坚定不移走好绿色可持续发展之路，愿进一步加大投入力度。在“十五五”期间，中国联通预计撬动千亿级的投资，携手合作伙伴，坚持战略投入与合理性的回报并重，在服务的基础上同时也要赚钱。他还提到，随着技术的进步，市场需求的品质化、多样化、个性化越发明显。为进一步推动行业从参数比拼、模型比拼，真正转向场景比拼、交付比拼，中国联通也在着手",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-09-10",
+      "score": 0.8725
+    },
+    {
       "title": "GPUs 能否继续主导人工智能计算？",
       "url": "https://semiengineering.com/can-gpus-continue-to-dominate-ai-compute/",
       "summary": "谷歌、亚马逊以及现在的 OpenAI 都提供了具有竞争力的产品，并且正在扩大市场份额。\nGPUs 能否继续主导人工智能计算？首先出现在半导体工程上。",
@@ -237,37 +259,26 @@
       "score": 0.8725
     },
     {
-      "title": "小米 18 Pro Max 新机现身 Geekbench，搭载高通第六代骁龙 8 超级至尊版",
-      "url": "https://www.ithome.com/1/000/585.htm",
-      "summary": "IT之家 9 月 10 日消息，一款型号为 M1544F 的小米新机现身 Geekbench 基准测试数据库，数码博主称其为小米 18 Pro 系列，预计为小米 18 Pro Max。数据显示，该机搭载了高通第六代骁龙 8 超级至尊版（两颗 5.11GHz 超大核，3 颗 4.03GHz 大核，3 颗 2.74GHz 中核），配备 12GB 内存，运行 Android 17 系统，GB7 单核跑分 3582 分，多核 12247 分。图形性能方面，这款新机配备 Adreno 850 GPU，在 Geekbench 7 上的 Vulkan 跑分达到了 29934 分，OpenCL 跑分 26210 分。结合此前爆料，小米 18 标准版预计将延至 2027 年初发布，小米 18 Pro 搭载高通第六代骁龙 8 至尊版，而 Pro Max 将搭载高通第六代骁龙 8 超级至尊版，配备 200MP LOFIC HDR 主摄、200MP 长焦摄像头、50MP 超广角摄像头，以及 8,500mAh 大电池。IT之家后续将保持关注。相关阅读：《小米 18 Pro 系列手机有望首发：防窥屏界面曝光，支付",
-      "short_summary": "IT之家 9 月 10 日消息，一款型号为 M1544F 的小米新机现身 Geekbench 基准测试数据库，数码博主称",
-      "detail": "IT之家 9 月 10 日消息，一款型号为 M1544F 的小米新机现身 Geekbench 基准测试数据库，数码博主称其为小米 18 Pro 系列，预计为小米 18 Pro Max。数据显示，该机搭载了高通第六代骁龙 8 超级至尊版（两颗 5.11GHz 超大核，3 颗 4.03GHz 大核，3 颗 2.74GHz 中核），配备 12GB 内存，运行 Android 17 系统，GB7 单核跑分 3582 分，多核 12247 分。图形性能方面，这款新机配备 Adreno 850 GPU，在 Geekbench 7 上的 Vulkan 跑分达到了 29934 分，OpenCL 跑分 26210 分。结合此前爆料，小米 18 标准版预计将延至 2027 年初发布，小米 18 Pro 搭载高通第六代骁龙 8 至尊版，而 Pro Max 将搭载高通第六代骁龙 8 超级至尊版，配备 200MP LOFIC HDR 主摄、200MP 长焦摄像头、50MP 超广角摄像头，以及 8,500mAh 大电池。IT之家后续将保持关注。相关阅读：《小米 18 Pro 系列手机有望首发：防窥屏界面曝光，支付",
+      "title": "System76 发布 AM5 工作站 Thelio Mira AI，支持双卡配置",
+      "url": "https://www.ithome.com/1/000/632.htm",
+      "summary": "IT之家 9 月 10 日消息，美国 Linux PC 制造商 System76 当地时间昨日发布了 Thelio Mira AI 工作站系统。该系列基于 AMD 锐龙 9000 系列处理器，可通过 x8+x8 的 PCIe 拆分连接至 2 张扩展卡，支持双 NVIDIA RTX PRO Blackwell 6000。其通过采用主流桌面级平台降低了系统构建成本。Thelio Mira AI 三维 17.31 × 9.96 × 15.12 (in)，提供 28TB 存储空间，拥有 4 个 USB 10Gbps (2A2C)、2 个 5GbE RJ-45，支持 Wi-Fi 7 & 蓝牙 5.4 链接，运行基于 Linux 的 Pop!_OS 24.04 LTS / Ubuntu 发行版。该系统的基础配置 (AMD Ryzen 7 9700X + NVIDIA RTX A400 + 64GB DDR5 + 1TB PCIe Gen5 SSD) 售价为 3,299 美元（IT之家注：现汇率约合 22,187 元人民币）。",
+      "short_summary": "IT之家 9 月 10 日消息，美国 Linux PC 制造商 System76 当地时间昨日发布了 Thelio Mi",
+      "detail": "IT之家 9 月 10 日消息，美国 Linux PC 制造商 System76 当地时间昨日发布了 Thelio Mira AI 工作站系统。该系列基于 AMD 锐龙 9000 系列处理器，可通过 x8+x8 的 PCIe 拆分连接至 2 张扩展卡，支持双 NVIDIA RTX PRO Blackwell 6000。其通过采用主流桌面级平台降低了系统构建成本。Thelio Mira AI 三维 17.31 × 9.96 × 15.12 (in)，提供 28TB 存储空间，拥有 4 个 USB 10Gbps (2A2C)、2 个 5GbE RJ-45，支持 Wi-Fi 7 & 蓝牙 5.4 链接，运行基于 Linux 的 Pop!_OS 24.04 LTS / Ubuntu 发行版。该系统的基础配置 (AMD Ryzen 7 9700X + NVIDIA RTX A400 + 64GB DDR5 + 1TB PCIe Gen5 SSD) 售价为 3,299 美元（IT之家注：现汇率约合 22,187 元人民币）。",
       "source": "ITHome",
       "source_authority": 0.75,
       "date": "2026-09-10",
-      "score": 0.86
+      "score": 0.8275
     },
     {
-      "title": "王腾：智能手机更新到现在功能升级越来越不显性，换机需求被压制市场预计还会下降",
-      "url": "https://www.ithome.com/1/000/586.htm",
-      "summary": "IT之家 9 月 10 日消息，今日宜休科技公司创始人王腾今日发文，谈及了手机市场。他认为，一台 iPhone Pro 的价格已经超过 1 万元，估计今年各家旗舰机都要涨价。王腾表示，智能手机更新到现在，功能升级已经越来越不显性，换机需求被压制手机市场预计还会继续下降。王腾还认为，此次 Apple Watch 这次升级挺大，尤其是 AI 健康分析，之前的 Apple Health 只有数据没有分析，这也是今日宜休想做的事情，有很多新的方向可以尝试。参考IT之家此前报道，AI 算力爆发虹吸产能 + 三大寡头控产 + 行业库存见底 + DDR4/DDR5 换代断档，四重因素叠加导致了内存涨价。高通也宣布芯片会在今年 9 月涨价，涨幅将达到两位数百分比，此次调价可能影响智能手机、可穿戴设备等多个科技领域。昨晚发布的 iPhone Duo 国行定价已来到 15999 元起，iPhone 18 Pro 系列的起售价也上涨了 1000 元。而在 18 Pro 系列发布后，iPhone Air、iPhone 17、iPhone 17e、iPhone 16 四款老机型迎来同步涨价，最高上涨达 2300",
-      "short_summary": "IT之家 9 月 10 日消息，今日宜休科技公司创始人王腾今日发文，谈及了手机市场。他认为，一台 iPhone Pro ",
-      "detail": "IT之家 9 月 10 日消息，今日宜休科技公司创始人王腾今日发文，谈及了手机市场。他认为，一台 iPhone Pro 的价格已经超过 1 万元，估计今年各家旗舰机都要涨价。王腾表示，智能手机更新到现在，功能升级已经越来越不显性，换机需求被压制手机市场预计还会继续下降。王腾还认为，此次 Apple Watch 这次升级挺大，尤其是 AI 健康分析，之前的 Apple Health 只有数据没有分析，这也是今日宜休想做的事情，有很多新的方向可以尝试。参考IT之家此前报道，AI 算力爆发虹吸产能 + 三大寡头控产 + 行业库存见底 + DDR4/DDR5 换代断档，四重因素叠加导致了内存涨价。高通也宣布芯片会在今年 9 月涨价，涨幅将达到两位数百分比，此次调价可能影响智能手机、可穿戴设备等多个科技领域。昨晚发布的 iPhone Duo 国行定价已来到 15999 元起，iPhone 18 Pro 系列的起售价也上涨了 1000 元。而在 18 Pro 系列发布后，iPhone Air、iPhone 17、iPhone 17e、iPhone 16 四款老机型迎来同步涨价，最高上涨达 2300",
-      "source": "ITHome",
-      "source_authority": 0.75,
+      "title": "打造10万卡国产算力集群推出JoyAI世界模型，京东发布物理AI建设最新成果",
+      "url": "https://www.qbitai.com/2026/09/486436.html",
+      "summary": "9月9日，以“JoyAI · 跃迁物理世界”为主题的JDDiscovery-2026京东全球科技探索者大会在北京举行",
+      "short_summary": "9月9日，以“JoyAI · 跃迁物理世界”为主题的JDDiscovery-2026京东全球科技探索者大会在北京举行",
+      "detail": "9月9日，以“JoyAI · 跃迁物理世界”为主题的JDDiscovery-2026京东全球科技探索者大会在北京举行",
+      "source": "量子位",
+      "source_authority": 0.85,
       "date": "2026-09-10",
-      "score": 0.8225
-    },
-    {
-      "title": "英伟达发布 GeForce Game Ready 616.92 显卡驱动：修复闪烁问题，优化多款游戏",
-      "url": "https://www.ithome.com/1/000/447.htm",
-      "summary": "IT之家 9 月 9 日消息，NVIDIA（英伟达）发布了最新版本为 616.92 的 GeForce Game Ready 显卡驱动，为多款支持 DLSS 、RTX 技术的新游戏及游戏更新提供优化支持，同时修复了此前版本存在的多个问题。IT之家附官方公告链接：https://www.nvidia.cn/geforce/news/wardogs-aniimo-007-first-light-path-tracing-geforce-game-ready-driver/ 。新游戏支持与性能优化为《007 初露锋芒》(007 First Light) 的路径追踪更新、《绝地求生》的 DLSS 超分辨率更新提供最佳游戏体验为包括《活性物质》(Active Matter)、《伊莫》(Aniimo)、《WARDOGS》在内的支持 DLSS 与 RTX 技术的新游戏及游戏更新提供优化支持NVIDIA 还宣布，《伊莫》将在 2027 年初支持 NVIDIA ACE，让玩家能够与自己的宠物进行交互。问题修复修复浏览器导航到特定网页时可能出现间歇性闪烁的问题 [6673430]修复升级到 616.56",
-      "short_summary": "IT之家 9 月 9 日消息，NVIDIA（英伟达）发布了最新版本为 616.92 的 GeForce Game Rea",
-      "detail": "IT之家 9 月 9 日消息，NVIDIA（英伟达）发布了最新版本为 616.92 的 GeForce Game Ready 显卡驱动，为多款支持 DLSS 、RTX 技术的新游戏及游戏更新提供优化支持，同时修复了此前版本存在的多个问题。IT之家附官方公告链接：https://www.nvidia.cn/geforce/news/wardogs-aniimo-007-first-light-path-tracing-geforce-game-ready-driver/ 。新游戏支持与性能优化为《007 初露锋芒》(007 First Light) 的路径追踪更新、《绝地求生》的 DLSS 超分辨率更新提供最佳游戏体验为包括《活性物质》(Active Matter)、《伊莫》(Aniimo)、《WARDOGS》在内的支持 DLSS 与 RTX 技术的新游戏及游戏更新提供优化支持NVIDIA 还宣布，《伊莫》将在 2027 年初支持 NVIDIA ACE，让玩家能够与自己的宠物进行交互。问题修复修复浏览器导航到特定网页时可能出现间歇性闪烁的问题 [6673430]修复升级到 616.56",
-      "source": "ITHome",
-      "source_authority": 0.75,
-      "date": "2026-09-09",
-      "score": 0.7575
+      "score": 0.695
     },
     {
       "title": "当数字取证到达硬件层时",
@@ -325,17 +336,6 @@
       "source_authority": 0.85,
       "date": "2026-09-10",
       "score": 0.82
-    },
-    {
-      "title": "苹果 iPadOS 26.7 正式版发布",
-      "url": "https://www.ithome.com/1/000/564.htm",
-      "summary": "IT之家 9 月 10 日消息，苹果今日向 iPad 用户推送了 iPadOS 26.7 更新，本次更新距离上次发布正式版间隔 1 天。     需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。  本文由机器人发布，IT之家稍后将为大家带来具体更新内容。 附 iOS/iPadOS 26 发布历史：  2026-09-09：iOS 26.6.2 (23G90) 2026-08-11：iOS 26.6.1 (23G82) 2026-07-28：iOS 26.6 (23G71) 2026-07-21：iOS 26.6 RC (23G71) 2026-07-14：iOS 26.6 Beta 5 (23G5065a) 2026-07-07：iOS 26.6 Beta 4 (23G5057c) 2026-06-30：iOS 26.6 Beta 3 (23G5052d) 2026-06-30：iOS 26.5.2 (23F84) 2026-06-16：iOS 26.6 Beta 2 (23G5043d) 2026-06-02：iO",
-      "short_summary": "IT之家 9 月 10 日消息，苹果今日向 iPad 用户推送了 iPadOS 26.7 更新，本次更新距离上次发布正式",
-      "detail": "IT之家 9 月 10 日消息，苹果今日向 iPad 用户推送了 iPadOS 26.7 更新，本次更新距离上次发布正式版间隔 1 天。     需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。  本文由机器人发布，IT之家稍后将为大家带来具体更新内容。 附 iOS/iPadOS 26 发布历史：  2026-09-09：iOS 26.6.2 (23G90) 2026-08-11：iOS 26.6.1 (23G82) 2026-07-28：iOS 26.6 (23G71) 2026-07-21：iOS 26.6 RC (23G71) 2026-07-14：iOS 26.6 Beta 5 (23G5065a) 2026-07-07：iOS 26.6 Beta 4 (23G5057c) 2026-06-30：iOS 26.6 Beta 3 (23G5052d) 2026-06-30：iOS 26.5.2 (23F84) 2026-06-16：iOS 26.6 Beta 2 (23G5043d) 2026-06-02：iO",
-      "source": "ITHome",
-      "source_authority": 0.75,
-      "date": "2026-09-10",
-      "score": 0.785
     },
     {
       "title": "砌砖教会了 Monumental 关于建筑机器人的哪些知识",
