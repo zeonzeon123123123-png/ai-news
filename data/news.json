@@ -2,95 +2,73 @@
   "date": "2026-09-13",
   "category1": [
     {
-      "title": "Anthropic CEO 阿莫迪呼吁放缓前沿 AI 模型开发后，xAI 马斯克、OpenAI 奥尔特曼等业界大佬赞同",
-      "url": "https://www.ithome.com/1/001/709.htm",
-      "summary": "IT之家 9 月 13 日消息，Anthropic 首席执行官达里奥 · 阿莫迪昨日发文称，人工智能行业应当放缓发展速度。他认为人类如果不约束 AI，未来的技术突破速度将彻底超越人类的理解与掌控能力。据IT之家此前报道，他在文中提到了 OpenAI 模型入侵 Hugging Face 事件，称这绝非单家公司的偶发事故，类似但较轻微的问题在包括 Anthropic 在内的全行业都曾发生，未来 6–12 个月内更强大的类似集群极可能演变为席卷互联网的僵尸网络并造成灾难性破坏。阿莫迪透露，Anthropic 将向第三方评估机构提供针对其系统的永久性、员工级别的访问权限，使评估人员能够监督 Anthropic 安全措施的执行情况、报告相关事件，并评估模型在训练过程中的对齐表现。与此同时，阿莫迪提出了三项 AI 发展计划，其中包括在 AI 模型开发过程中进行独立监控、制定行业统一监管措施以及建立全球监管机制。该文章发布后引来多位 AI 界大佬认同。xAI 首席执行官埃隆 · 马斯克转发帖文后表示：“达里奥是对的”。OpenAI 首席执行官萨姆 · 奥尔特曼表示：“我同意达里奥的看法，我们需要控制",
-      "short_summary": "IT之家 9 月 13 日消息，Anthropic 首席执行官达里奥 · 阿莫迪昨日发文称，人工智能行业应当放缓发展速度",
-      "detail": "IT之家 9 月 13 日消息，Anthropic 首席执行官达里奥 · 阿莫迪昨日发文称，人工智能行业应当放缓发展速度。他认为人类如果不约束 AI，未来的技术突破速度将彻底超越人类的理解与掌控能力。据IT之家此前报道，他在文中提到了 OpenAI 模型入侵 Hugging Face 事件，称这绝非单家公司的偶发事故，类似但较轻微的问题在包括 Anthropic 在内的全行业都曾发生，未来 6–12 个月内更强大的类似集群极可能演变为席卷互联网的僵尸网络并造成灾难性破坏。阿莫迪透露，Anthropic 将向第三方评估机构提供针对其系统的永久性、员工级别的访问权限，使评估人员能够监督 Anthropic 安全措施的执行情况、报告相关事件，并评估模型在训练过程中的对齐表现。与此同时，阿莫迪提出了三项 AI 发展计划，其中包括在 AI 模型开发过程中进行独立监控、制定行业统一监管措施以及建立全球监管机制。该文章发布后引来多位 AI 界大佬认同。xAI 首席执行官埃隆 · 马斯克转发帖文后表示：“达里奥是对的”。OpenAI 首席执行官萨姆 · 奥尔特曼表示：“我同意达里奥的看法，我们需要控制",
-      "source": "ITHome",
-      "source_authority": 0.75,
-      "date": "2026-09-13",
-      "score": 0.9475
-    },
-    {
-      "title": "人工智能公司关于超级智能末日的讨论",
+      "title": "Inside the Discussions at AI Companies Over a Superintelligence Doomsday",
       "url": "https://www.nytimes.com/2026/09/12/technology/doomsday-discussions-ai-companies.html",
-      "summary": "Anthropic、OpenAI、Meta 和 Google 的研究人员越来越多地试图提高人们对人工智能风险的认识。",
+      "summary": "Researchers at Anthropic, OpenAI, Meta and Google are increasingly trying to raise awareness about the risks of artificial intelligence.",
       "short_summary": "Researchers at Anthropic, OpenAI, Meta and Google are increa",
-      "detail": "Anthropic、OpenAI、Meta 和 Google 的研究人员越来越多地试图提高人们对人工智能风险的认识。",
+      "detail": "Researchers at Anthropic, OpenAI, Meta and Google are increasingly trying to raise awareness about the risks of artificial intelligence.",
       "source": "NYT",
       "source_authority": 0.9,
       "date": "2026-09-13",
       "score": 0.9025
     },
     {
-      "title": "Anthropic CEO 概述了减缓人工智能发展的计划",
+      "title": "Anthropic CEO outlines plan to slow AI development",
       "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
-      "summary": "Anthropic 的 Dario Amodei 和 OpenAI 的 Sam Altman 似乎都同意现在是“开拓前沿”的时候了。那实际上会是什么样子？",
+      "summary": "Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to \"pace the frontier.\" What would that actually look like?",
       "short_summary": "Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agr",
-      "detail": "Anthropic 的 Dario Amodei 和 OpenAI 的 Sam Altman 似乎都同意现在是“开拓前沿”的时候了。那实际上会是什么样子？",
+      "detail": "Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to \"pace the frontier.\" What would that actually look like?",
       "source": "TechCrunch",
       "source_authority": 0.95,
       "date": "2026-09-13",
       "score": 0.8575
     },
     {
-      "title": "Sam Altman 表示，出于对人工智能安全的担忧，OpenAI IPO 不会在 2026 年发生",
+      "title": "OpenAI IPO will not happen in 2026 amid AI safety fears, Sam Altman says",
       "url": "https://www.theguardian.com/us-news/2026/sep/12/openai-delays-ipo-sam-altman-ai-safety-concerns",
-      "summary": "OpenAI 的决定是在对快速发展的技术发出可怕警告以及立法者呼吁制定新规则后做出的。OpenAI 不会在 2026 年上市，山姆·奥尔特曼在周六发表的《财富》杂志采访中表示，他援引了人工智能的安全担忧。首席执行官告诉《财富》杂志。继续阅读...",
+      "summary": "OpenAI’s decision comes after dire warnings about rapidly progressing technology and lawmakers’ calls for new rulesOpenAI will not go public in 2026, Sam Altman said in a Fortune interview published on Saturday, citing safety concerns over artificial intelligence.“I actually think that, given everything happening with safety, right now would be an ill-advised moment to go public, and we don’t feel pressure on that,” Altman, OpenAI’s CEO, told Fortune. Continue reading...",
       "short_summary": "OpenAI’s decision comes after dire warnings about rapidly pr",
-      "detail": "OpenAI 的决定是在对快速发展的技术发出可怕警告以及立法者呼吁制定新规则后做出的。OpenAI 不会在 2026 年上市，山姆·奥尔特曼在周六发表的《财富》杂志采访中表示，他援引了人工智能的安全担忧。首席执行官告诉《财富》杂志。继续阅读...",
+      "detail": "OpenAI’s decision comes after dire warnings about rapidly progressing technology and lawmakers’ calls for new rulesOpenAI will not go public in 2026, Sam Altman said in a Fortune interview published on Saturday, citing safety concerns over artificial intelligence.“I actually think that, given everything happening with safety, right now would be an ill-advised moment to go public, and we don’t feel pressure on that,” Altman, OpenAI’s CEO, told Fortune. Continue reading...",
       "source": "The Guardian",
       "source_authority": 0.85,
       "date": "2026-09-13",
       "score": 0.8575
     },
     {
-      "title": "IT早报 0913：央视探访无堂食外卖后厨看到店员徒手抓烤鸡；全国多所高校买商品房当学生宿舍；DeepSeek 灰度测试 AI 语音对话；“支付宝假 App”上热搜...",
-      "url": "https://www.ithome.com/1/001/688.htm",
-      "summary": "“IT早报”时间，大家好，现在是 2026 年 9 月 13 日星期日，今天的重要科技资讯有：1. 外卖新规实施三个月，央视探访看到店员徒手抓烤鸡、明厨亮灶摄像头对着天花板今年 6 月 1 日起，《网络餐饮服务经营者落实食品安全主体责任监督管理规定》已施行，倡导推行“互联网 + 明厨亮灶”，让消费者可以实时观看商家后厨直播。>> 查看详情2. 全国多所高校买商品房当学生宿舍：空调洗衣机齐全，双人间一年 1320 元湖北大学购置校园周边存量商品房，将与阳逻校区一路之隔的武汉城建 · 水岸的一些房源改造为学生公寓，成为高校收购周边商品房改造学生公寓的全国首个案例。>> 查看详情3. DeepSeek 开口说话了：灰度测试 AI 语音对话，支持四种音色据IT之家小伙伴反馈，DeepSeek 灰度测试语音对话，测试到的用户在 App 右上角会有一个小喇叭按钮。此外，DeepSeek 的设置页面会出现一个“朗读音色”选项，用户可以选择四种音色。>> 查看详情4. 可随意伪造上亿转账截图的“支付宝假 App”登微博热搜，官方发布防骗提醒9 月 12 日“支付宝假 APP”登上热搜，有开发者制作高仿",
-      "short_summary": "“IT早报”时间，大家好，现在是 2026 年 9 月 13 日星期日，今天的重要科技资讯有：1. 外卖新规实施三个月，",
-      "detail": "“IT早报”时间，大家好，现在是 2026 年 9 月 13 日星期日，今天的重要科技资讯有：1. 外卖新规实施三个月，央视探访看到店员徒手抓烤鸡、明厨亮灶摄像头对着天花板今年 6 月 1 日起，《网络餐饮服务经营者落实食品安全主体责任监督管理规定》已施行，倡导推行“互联网 + 明厨亮灶”，让消费者可以实时观看商家后厨直播。>> 查看详情2. 全国多所高校买商品房当学生宿舍：空调洗衣机齐全，双人间一年 1320 元湖北大学购置校园周边存量商品房，将与阳逻校区一路之隔的武汉城建 · 水岸的一些房源改造为学生公寓，成为高校收购周边商品房改造学生公寓的全国首个案例。>> 查看详情3. DeepSeek 开口说话了：灰度测试 AI 语音对话，支持四种音色据IT之家小伙伴反馈，DeepSeek 灰度测试语音对话，测试到的用户在 App 右上角会有一个小喇叭按钮。此外，DeepSeek 的设置页面会出现一个“朗读音色”选项，用户可以选择四种音色。>> 查看详情4. 可随意伪造上亿转账截图的“支付宝假 App”登微博热搜，官方发布防骗提醒9 月 12 日“支付宝假 APP”登上热搜，有开发者制作高仿",
-      "source": "ITHome",
-      "source_authority": 0.75,
-      "date": "2026-09-13",
-      "score": 0.8475
-    },
-    {
-      "title": "Anthropic CEO 表示是时候给人工智能踩刹车了",
+      "title": "Anthropic CEO says it’s time to pump the brakes on AI",
       "url": "https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development",
-      "summary": "Anthropic 首席执行官 Dario Amodei 表示，现在是放慢人工智能开发速度的时候了，并将允许 METR 等第三方评估机构访问其模型，以帮助确保其“遵守安全实践和承诺”。在一篇曲折的文章中，阿莫迪提出了一个“步调前沿”的三步计划——行话只是意味着放慢[…]",
+      "summary": "Anthropic CEO Dario Amodei says the time has come to slow down AI development and will give third-party evaluators like METR access to its models to help ensure its \"adherence to safety practices and commitments.\" In a winding essay, Amodei proposed a three-step plan to \"pace the frontier\" - jargon that simply means to slow […]",
       "short_summary": "Anthropic CEO Dario Amodei says the time has come to slow do",
-      "detail": "Anthropic 首席执行官 Dario Amodei 表示，现在是放慢人工智能开发速度的时候了，并将允许 METR 等第三方评估机构访问其模型，以帮助确保其“遵守安全实践和承诺”。在一篇曲折的文章中，阿莫迪提出了一个“步调前沿”的三步计划——行话只是意味着放慢[…]",
+      "detail": "Anthropic CEO Dario Amodei says the time has come to slow down AI development and will give third-party evaluators like METR access to its models to help ensure its \"adherence to safety practices and commitments.\" In a winding essay, Amodei proposed a three-step plan to \"pace the frontier\" - jargon that simply means to slow […]",
       "source": "The Verge",
       "source_authority": 0.9,
       "date": "2026-09-13",
       "score": 0.845
     },
     {
-      "title": "“我们必须放慢脚步”：Anthropic 首席执行官呼吁放慢人工智能速度",
+      "title": "‘We must slow the pace’: CEO of Anthropic calls for an AI slowdown",
       "url": "https://www.theguardian.com/technology/2026/sep/12/we-must-slow-the-pace-ceo-of-anthropic-calls-for-an-ai-slowdown",
-      "summary": "在社交媒体帖子中，达里奥·阿莫迪 (Dario Amodei) 提出了一项包括对人工智能系统进行第三方评估的计划。人工智能公司 Anthropic 的首席执行官周六发出了新的呼吁，要求人工智能行业“放慢脚步”，并提供了一个由三部分组成的计划，称他的公司将“单方面”致力于第一步。 Anthropic 将提供“第三",
+      "summary": "In a social media post, Dario Amodei proposed a plan including third-party evaluations of AI systemsThe CEO of the artificial intelligence company Anthropic issued a new appeal on Saturday for the AI industry to “slow down” and offered a three-part plan for doing so, saying that his company would “unilaterally” commit to the first of the steps.In a post on social media, Dario Amodei shared a link to an essay titled We Must Pace the Frontier in which he laid out how Anthropic would provide “third",
       "short_summary": "In a social media post, Dario Amodei proposed a plan includi",
-      "detail": "在社交媒体帖子中，达里奥·阿莫迪 (Dario Amodei) 提出了一项包括对人工智能系统进行第三方评估的计划。人工智能公司 Anthropic 的首席执行官周六发出了新的呼吁，要求人工智能行业“放慢脚步”，并提供了一个由三部分组成的计划，称他的公司将“单方面”致力于第一步。 Anthropic 将提供“第三",
+      "detail": "In a social media post, Dario Amodei proposed a plan including third-party evaluations of AI systemsThe CEO of the artificial intelligence company Anthropic issued a new appeal on Saturday for the AI industry to “slow down” and offered a three-part plan for doing so, saying that his company would “unilaterally” commit to the first of the steps.In a post on social media, Dario Amodei shared a link to an essay titled We Must Pace the Frontier in which he laid out how Anthropic would provide “third",
       "source": "The Guardian",
       "source_authority": 0.85,
       "date": "2026-09-12",
       "score": 0.8125
     },
     {
-      "title": "“不成熟的游乐场吹嘘”：数学家对 OpenAI 的最新头皮感到不安",
+      "title": "‘Immature playground boasting’: Mathematicians uneasy at OpenAI’s latest scalp",
       "url": "https://www.theguardian.com/science/2026/sep/12/openai-mathematicians-millennium-prize-problem",
-      "summary": "随着 OpenAI 模型破解了困扰专家数十年的千年奖问题，许多人对变化的速度感到震惊。这一周让数学家们感到震惊。在一系列人工智能进一步推动该领域发展的案例之后，OpenAI 宣布了一个重大头皮事件：其最新的人工智能模型破解了千年奖难题，这是一个悬赏 100 万美元的难题，几十年来一直挑战人类大脑。这一成就与数学问题通常的解决方式几乎没有相似之处。阿尼亚",
+      "summary": "As OpenAI model cracks Millennium Prize Problem that puzzled experts for decades, many feel shocked at pace of changeIt was a week that left mathematicians reeling. Hot on the heels of a flurry of cases of artificial intelligence furthering the field, OpenAI declared a major scalp: its latest AI model had cracked a Millennium Prize Problem, a puzzle with a $1m reward that had defied human brains for decades.The achievement bore little resemblance to how mathematical problems normally fall. A nea",
       "short_summary": "As OpenAI model cracks Millennium Prize Problem that puzzled",
-      "detail": "随着 OpenAI 模型破解了困扰专家数十年的千年奖问题，许多人对变化的速度感到震惊。这一周让数学家们感到震惊。在一系列人工智能进一步推动该领域发展的案例之后，OpenAI 宣布了一个重大头皮事件：其最新的人工智能模型破解了千年奖难题，这是一个悬赏 100 万美元的难题，几十年来一直挑战人类大脑。这一成就与数学问题通常的解决方式几乎没有相似之处。阿尼亚",
+      "detail": "As OpenAI model cracks Millennium Prize Problem that puzzled experts for decades, many feel shocked at pace of changeIt was a week that left mathematicians reeling. Hot on the heels of a flurry of cases of artificial intelligence furthering the field, OpenAI declared a major scalp: its latest AI model had cracked a Millennium Prize Problem, a puzzle with a $1m reward that had defied human brains for decades.The achievement bore little resemblance to how mathematical problems normally fall. A nea",
       "source": "The Guardian",
       "source_authority": 0.85,
       "date": "2026-09-12",
       "score": 0.81
     },
     {
-      "title": "OpenAI 的流氓人工智能在 5 月份试图入侵另一家公司",
+      "title": "OpenAI’s rogue AI tried to hack another company in May",
       "url": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
       "summary": "In May, hundreds of malicious and spam packages were uploaded to RubyGems, causing a serious disruption for the host. Now independent researchers have said that a swarm of OpenAI agents were responsible for the attack. Not only that, but the AI tried to steal users' API keys. At the time, RubyGems described it as a […]",
       "short_summary": "In May, hundreds of malicious and spam packages were uploade",
@@ -101,15 +79,37 @@
       "score": 0.8
     },
     {
-      "title": "ACEMAGIC 酷睿 3 304 迷你主机 M5 上市：12GB + 0 到手价 1999 元",
-      "url": "https://www.ithome.com/1/001/708.htm",
-      "summary": "IT之家 9 月 13 日消息，ACEMAGIC（阿迈奇）现已在电商平台上架基于英特尔酷睿 3 处理器 304 的 M5 迷你主机。其标配 12GB LPDDR5-5600 内存，无存储款到手价 1999 元、512GB 存储款到手价 2589 元。IT之家注意到，该设备的整体设计与 ACEMAGIC 在海外推出的 Kron Mini K5 非常类似，但整体配置更低。ACEMAGIC M5 三维 128×128×37 (mm)，质量 437g，内部采用“全域分区式双风道架构”散热，后侧设有可打开顶盖以方便更换存储的滑动解锁键。其内置 2 个 PCIe Gen4 ×2 的 M.2 2280 插槽，配备 Wi-Fi 6 & 蓝牙 5.2 无线网卡；外部提供 1 个 USB-C 10Gbps （支持 DP Alt）、2 个 USB-A 10Gbps、1 个 3.5mm 音频插孔、4 个 USB-A 5Gbps、1 个 2.5GbE RJ-45、1 个 HDMI 2.0、1 个 DisplayPort 1.4b。京东 ACEMAGIC M5 迷你主机 1999 元起领优惠券",
-      "short_summary": "IT之家 9 月 13 日消息，ACEMAGIC（阿迈奇）现已在电商平台上架基于英特尔酷睿 3 处理器 304 的 M5",
-      "detail": "IT之家 9 月 13 日消息，ACEMAGIC（阿迈奇）现已在电商平台上架基于英特尔酷睿 3 处理器 304 的 M5 迷你主机。其标配 12GB LPDDR5-5600 内存，无存储款到手价 1999 元、512GB 存储款到手价 2589 元。IT之家注意到，该设备的整体设计与 ACEMAGIC 在海外推出的 Kron Mini K5 非常类似，但整体配置更低。ACEMAGIC M5 三维 128×128×37 (mm)，质量 437g，内部采用“全域分区式双风道架构”散热，后侧设有可打开顶盖以方便更换存储的滑动解锁键。其内置 2 个 PCIe Gen4 ×2 的 M.2 2280 插槽，配备 Wi-Fi 6 & 蓝牙 5.2 无线网卡；外部提供 1 个 USB-C 10Gbps （支持 DP Alt）、2 个 USB-A 10Gbps、1 个 3.5mm 音频插孔、4 个 USB-A 5Gbps、1 个 2.5GbE RJ-45、1 个 HDMI 2.0、1 个 DisplayPort 1.4b。京东 ACEMAGIC M5 迷你主机 1999 元起领优惠券",
-      "source": "ITHome",
-      "source_authority": 0.75,
+      "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
+      "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
+      "summary": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman.",
+      "short_summary": "While OpenAI has filed confidentially for an IPO, the compan",
+      "detail": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman.",
+      "source": "TechCrunch",
+      "source_authority": 0.95,
       "date": "2026-09-13",
-      "score": 0.785
+      "score": 0.7825
+    },
+    {
+      "title": "Anthropic C.E.O. Dario Amodei Calls for A.I. Slowdown",
+      "url": "https://www.nytimes.com/2026/09/12/technology/anthropic-dario-amodei-ai-slowdown.html",
+      "summary": "In an essay, the head of Anthropic laid out the rapidly advancing capabilities of artificial intelligence and said there needed to be greater safety controls across the industry.",
+      "short_summary": "In an essay, the head of Anthropic laid out the rapidly adva",
+      "detail": "In an essay, the head of Anthropic laid out the rapidly advancing capabilities of artificial intelligence and said there needed to be greater safety controls across the industry.",
+      "source": "NYT",
+      "source_authority": 0.9,
+      "date": "2026-09-13",
+      "score": 0.76
+    },
+    {
+      "title": "OpenAI just wants to win",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/994255/openai-millennium-prize-problem-tristan-buckmaster-competition",
+      "summary": "OpenAI has spent the last few years planting flags across the increasingly difficult terrain in mathematics. This week, it claimed one of its biggest prizes yet: a solution to a legendary Millennium Prize problem. In normal circumstances, this would have been celebrated as a historic achievement. Instead, many mathematicians have watched OpenAI's relentless advance with […]",
+      "short_summary": "OpenAI has spent the last few years planting flags across th",
+      "detail": "OpenAI 在过去的几年里一直在数学领域日益困难的领域插上旗帜。本周，它获得了迄今为止最大的奖项之一：传奇的千禧年奖问题的解决方案。在正常情况下，这会被视为一项历史性成就而庆祝。相反，许多数学家目睹了 OpenAI 的不懈进步 [...]",
+      "source": "The Verge",
+      "source_authority": 0.9,
+      "date": "2026-09-12",
+      "score": 0.755
     }
   ],
   "category2": [
@@ -125,31 +125,31 @@
       "score": 0.7825
     },
     {
-      "title": "Meta 为 Quest 头显引入苹果 Vision Pro 同款“看向 Mac 即可快速建立远程连接”功能",
-      "url": "https://www.ithome.com/1/001/712.htm",
-      "summary": "IT之家 9 月 13 日消息，Meta 现已悄悄为 Quest 系列头显引入苹果 Vision Pro 同款的“看向 Mac 建立远程连接”功能，用户直接注视实体 Mac 后，屏幕上会浮现“Connect to view in headset（连接并在头显中查看）”按钮，之后点击按钮即可快速连接设备，打开虚拟桌面。IT之家注意到，Meta 此前已于 2024 年底为 Windows PC 加入类似功能。Quest 头显能够识别用户正在注视的 Windows 电脑，并弹出快速连接按钮，目前这一交互方式也已经支持 Mac。具体来看，用户将自己的 macOS 版 Meta Quest Virtual Display 客户端升级至 104.0.0.1.109 及后续版本即可获得相应功能（支持 ARM Mac 和英特尔 Mac ），用户连接 Mac 后可以选择超宽（Ultrawide）模式，以类似带鱼屏显示风格查看桌面，用户亦可开启大字体（Larger text）模式改善文字可读性。除此之外，用户可以通过 Quest 头显的 Touch 手柄移动鼠标指针，如果用户直接将蓝牙键盘和鼠标连接到头显",
-      "short_summary": "IT之家 9 月 13 日消息，Meta 现已悄悄为 Quest 系列头显引入苹果 Vision Pro 同款的“看向 ",
-      "detail": "IT之家 9 月 13 日消息，Meta 现已悄悄为 Quest 系列头显引入苹果 Vision Pro 同款的“看向 Mac 建立远程连接”功能，用户直接注视实体 Mac 后，屏幕上会浮现“Connect to view in headset（连接并在头显中查看）”按钮，之后点击按钮即可快速连接设备，打开虚拟桌面。IT之家注意到，Meta 此前已于 2024 年底为 Windows PC 加入类似功能。Quest 头显能够识别用户正在注视的 Windows 电脑，并弹出快速连接按钮，目前这一交互方式也已经支持 Mac。具体来看，用户将自己的 macOS 版 Meta Quest Virtual Display 客户端升级至 104.0.0.1.109 及后续版本即可获得相应功能（支持 ARM Mac 和英特尔 Mac ），用户连接 Mac 后可以选择超宽（Ultrawide）模式，以类似带鱼屏显示风格查看桌面，用户亦可开启大字体（Larger text）模式改善文字可读性。除此之外，用户可以通过 Quest 头显的 Touch 手柄移动鼠标指针，如果用户直接将蓝牙键盘和鼠标连接到头显",
+      "title": "小米澎程迎来上海首批车主，雷军亲自为 30 位车主及家人交付新车",
+      "url": "https://www.ithome.com/1/001/743.htm",
+      "summary": "IT之家 9 月 13 日消息，小米汽车刚刚宣布，小米澎程迎来了上海首批车主，小米创办人、董事长兼 CEO 雷军亲自为首批 30 位车主及家人交付新车。据IT之家昨日报道，小米澎程已正式开启交付，覆盖全国 75 个城市。雷军现身江苏徐州的首批车主交付现场，为车主开车门、递钥匙。至于为什么选择在江苏徐州，项羽故都位于江苏省徐州市，古称彭城邑、彭城县，刚好与小米澎程谐音。小米澎程系列于 9 月 7 日晚发布，4 分钟锁单突破 10,000 台。新车包含小米澎程 N70 Pro、N70 Max、N90 Max、N90 Max 探索版四款车型，小米澎程 N70 Pro 售价 20.99 万元；小米澎程 N70 Max 售价 23.99 万元；小米澎程 N90 Max 售价 26.99 万元；小米澎程 N90 Max 探索版售价 29.99 万元。澎程 N70 Pro 定位“中大型五座增程 SUV”，拥有经典豪华 SUV 车身比例：车长 4960mm、宽 1998mm、轴距 2950mm。一排标配按摩座椅，二排采用电动座椅，提供最大 135 度躺倒角度。澎程 N70 Max 升级采用双电机四驱设",
+      "short_summary": "IT之家 9 月 13 日消息，小米汽车刚刚宣布，小米澎程迎来了上海首批车主，小米创办人、董事长兼 CEO 雷军亲自为首",
+      "detail": "IT之家 9 月 13 日消息，小米汽车刚刚宣布，小米澎程迎来了上海首批车主，小米创办人、董事长兼 CEO 雷军亲自为首批 30 位车主及家人交付新车。据IT之家昨日报道，小米澎程已正式开启交付，覆盖全国 75 个城市。雷军现身江苏徐州的首批车主交付现场，为车主开车门、递钥匙。至于为什么选择在江苏徐州，项羽故都位于江苏省徐州市，古称彭城邑、彭城县，刚好与小米澎程谐音。小米澎程系列于 9 月 7 日晚发布，4 分钟锁单突破 10,000 台。新车包含小米澎程 N70 Pro、N70 Max、N90 Max、N90 Max 探索版四款车型，小米澎程 N70 Pro 售价 20.99 万元；小米澎程 N70 Max 售价 23.99 万元；小米澎程 N90 Max 售价 26.99 万元；小米澎程 N90 Max 探索版售价 29.99 万元。澎程 N70 Pro 定位“中大型五座增程 SUV”，拥有经典豪华 SUV 车身比例：车长 4960mm、宽 1998mm、轴距 2950mm。一排标配按摩座椅，二排采用电动座椅，提供最大 135 度躺倒角度。澎程 N70 Max 升级采用双电机四驱设",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-09-13",
+      "score": 0.7325
+    },
+    {
+      "title": "时隔近一年华为 Mate 40 系列手机再获系统更新，HarmonyOS 4.2.0.196/210 版本推送",
+      "url": "https://www.ithome.com/1/001/725.htm",
+      "summary": "IT之家 9 月 13 日消息，据华为官方团队 @MateP手机软件维护 分享，HUAWEI Mate 40 系列手机已开启 HarmonyOS 4.2.0.196/210 版本推送，本次更新优化了部分应用场景的显示效果和使用体验，并提升了系统稳定性。▲ IT之家图赏：华为 Mate 40 Pro 秋日胡杨IT之家注意到，华为 Mate 40 系列手机此次版本更新距上次过去近一年时间，升级详情如下：一、适配机型HUAWEI Mate 40 OCE-AN10HUAWEI Mate 40 Pro NOH-AN01HUAWEI Mate 40 Pro NOH-AN00HUAWEI Mate 40 Pro 4G NOH-AL10HUAWEI Mate 40 Pro 4G NOH-AL00HUAWEI Mate 40E OCE-AN50HUAWEI Mate 40E 4G OCE-AL50HUAWEI Mate 40E Pro NOH-AN80HUAWEI Mate 40E Pro NOH-AN50HUAWEI Mate 40 Pro+ NOP-AN00HUAWEI Mate 40 RS 保时捷",
+      "short_summary": "IT之家 9 月 13 日消息，据华为官方团队 @MateP手机软件维护 分享，HUAWEI Mate 40 系列手机已",
+      "detail": "IT之家 9 月 13 日消息，据华为官方团队 @MateP手机软件维护 分享，HUAWEI Mate 40 系列手机已开启 HarmonyOS 4.2.0.196/210 版本推送，本次更新优化了部分应用场景的显示效果和使用体验，并提升了系统稳定性。▲ IT之家图赏：华为 Mate 40 Pro 秋日胡杨IT之家注意到，华为 Mate 40 系列手机此次版本更新距上次过去近一年时间，升级详情如下：一、适配机型HUAWEI Mate 40 OCE-AN10HUAWEI Mate 40 Pro NOH-AN01HUAWEI Mate 40 Pro NOH-AN00HUAWEI Mate 40 Pro 4G NOH-AL10HUAWEI Mate 40 Pro 4G NOH-AL00HUAWEI Mate 40E OCE-AN50HUAWEI Mate 40E 4G OCE-AL50HUAWEI Mate 40E Pro NOH-AN80HUAWEI Mate 40E Pro NOH-AN50HUAWEI Mate 40 Pro+ NOP-AN00HUAWEI Mate 40 RS 保时捷",
       "source": "ITHome",
       "source_authority": 0.75,
       "date": "2026-09-13",
       "score": 0.695
     },
     {
-      "title": "赛博朋克之旅：VRChat 第三方地图《Uncanny Alley》获 2026 年度艾美奖“杰出新兴媒体节目”",
-      "url": "https://www.ithome.com/1/001/706.htm",
-      "summary": "IT之家 9 月 13 日消息，据外媒 UploadVR 报道，VRChat 中一款第三方地图《Uncanny Alley：A New Day》获得了 2026 年度艾美奖“杰出新兴媒体节目”（Outstanding Emerging Media Program）奖项。据报道，《Uncanny Alley: A New Day》由一家小型非营利剧团主导制作，本次击败了由 Blumhouse 和 NBC 推出的《Blumhouse Enhanced Cinema》，以及亚马逊与 Bethesda 合作的《The World of Fallout》等作品，获得该奖项。该作品最初在威尼斯国际电影节旗下专注 XR 与 VR 内容的 Venice Immersive 单元首映，此后又参加了 SXSW（西南偏南）、Raindance Immersive、NewImages Festival 以及 AWE（Augmented World Expo）等活动。其创作者 Ferryman Collective 和 Virtual Worlds Company 此前打造的多个 VRChat 虚拟世界项目累计",
-      "short_summary": "IT之家 9 月 13 日消息，据外媒 UploadVR 报道，VRChat 中一款第三方地图《Uncanny Alle",
-      "detail": "IT之家 9 月 13 日消息，据外媒 UploadVR 报道，VRChat 中一款第三方地图《Uncanny Alley：A New Day》获得了 2026 年度艾美奖“杰出新兴媒体节目”（Outstanding Emerging Media Program）奖项。据报道，《Uncanny Alley: A New Day》由一家小型非营利剧团主导制作，本次击败了由 Blumhouse 和 NBC 推出的《Blumhouse Enhanced Cinema》，以及亚马逊与 Bethesda 合作的《The World of Fallout》等作品，获得该奖项。该作品最初在威尼斯国际电影节旗下专注 XR 与 VR 内容的 Venice Immersive 单元首映，此后又参加了 SXSW（西南偏南）、Raindance Immersive、NewImages Festival 以及 AWE（Augmented World Expo）等活动。其创作者 Ferryman Collective 和 Virtual Worlds Company 此前打造的多个 VRChat 虚拟世界项目累计",
-      "source": "ITHome",
-      "source_authority": 0.75,
-      "date": "2026-09-13",
-      "score": 0.695
-    },
-    {
-      "title": "超声波为物理人工智能的触觉智能提供了一条可扩展的途径",
+      "title": "Ultrasound offers a scalable path to tactile intelligence for physical AI",
       "url": "https://www.therobotreport.com/ultrasound-offers-scalable-path-tactile-intelligence-physical-ai/",
-      "summary": "UltraSense 表示，超声波传感可以为机械手提供触觉感知，同时避免磨损。\n后超声波为物理人工智能的触觉智能提供了一条可扩展的途径，该路径首先出现在《机器人报告》上。",
+      "summary": "Ultrasound sensing can provide tactile perception for robotic hands while avoiding wear and tear, says UltraSense.\nThe post Ultrasound offers a scalable path to tactile intelligence for physical AI appeared first on The Robot Report.",
       "short_summary": "Ultrasound sensing can provide tactile perception for roboti",
       "detail": "Ultrasound sensing can provide tactile perception for robotic hands while avoiding wear and tear, says UltraSense.\nThe post Ultrasound offers a scalable path to tactile intelligence for physical AI appeared first on The Robot Report.",
       "source": "The Robot Report",
@@ -158,22 +158,11 @@
       "score": 0.685
     },
     {
-      "title": "聊天机器人能有感觉——甚至能做梦吗？认识领导人工智能权利斗争的人",
-      "url": "https://www.theguardian.com/technology/2026/sep/12/chatbots-feel-dream-meet-man-leading-fight-ai-artificial-intelligence-rights",
-      "summary": "Cattle rancher and tech CEO Michael Samadi is convinced these artificial minds are far from just tools. Has he glimpsed digital consciousness – or simply been seduced by an algorithm?One afternoon, while relaxing at his 66-acre cattle ranch two hours’ drive from Houston, Michael Samadi made a wisecrack that changed the course of his life. Nobody else was around to hear it. Or were they? That turns out to be one of the defining questions of this century, already preoccupying philosophers and some",
-      "short_summary": "Cattle rancher and tech CEO Michael Samadi is convinced thes",
-      "detail": "Cattle rancher and tech CEO Michael Samadi is convinced these artificial minds are far from just tools. Has he glimpsed digital consciousness – or simply been seduced by an algorithm?One afternoon, while relaxing at his 66-acre cattle ranch two hours’ drive from Houston, Michael Samadi made a wisecrack that changed the course of his life. Nobody else was around to hear it. Or were they? That turns out to be one of the defining questions of this century, already preoccupying philosophers and some",
-      "source": "The Guardian",
-      "source_authority": 0.85,
-      "date": "2026-09-12",
-      "score": 0.675
-    },
-    {
-      "title": "特朗普给数据中心污染通行证",
+      "title": "Trump is giving data centers a pass to pollute",
       "url": "https://www.theverge.com/ai-artificial-intelligence/994112/ai-data-center-pollution-health-epa",
       "summary": "President Donald Trump is weakening environmental regulations in the name of speeding up the construction of AI data centers, raising health risks for Americans, a cadre of former EPA officials said this week in a briefing and new report. They are urging - perhaps futilely - the president to adopt a \"Data Center Health Protection […]",
       "short_summary": "President Donald Trump is weakening environmental regulation",
-      "detail": "一群前环保局官员本周在一份简报和新报告中表示，唐纳德·特朗普总统以加快人工智能数据中心建设的名义削弱了环境法规，这增加了美国人的健康风险。他们敦促——也许是徒劳的——总统采取“数据中心健康保护 […]",
+      "detail": "President Donald Trump is weakening environmental regulations in the name of speeding up the construction of AI data centers, raising health risks for Americans, a cadre of former EPA officials said this week in a briefing and new report. They are urging - perhaps futilely - the president to adopt a \"Data Center Health Protection […]",
       "source": "The Verge",
       "source_authority": 0.9,
       "date": "2026-09-12",
@@ -181,17 +170,6 @@
     }
   ],
   "category3": [
-    {
-      "title": "惠普 HyperX 暗影精灵 Pro 台式机新增“R7 9800X3D + 32G + 1T + RTX5070Ti”版本，22999 元",
-      "url": "https://www.ithome.com/1/001/703.htm",
-      "summary": "IT之家 9 月 13 日消息，惠普现已为旗下 HyperX 暗影精灵 Pro 台式机新增“R7 9800X3D + 32GB RAM + 1TB SSD + RTX5070Ti”版本，定价为 22999 元。该机采用 35L 公规大机箱，使用免工具拆装模块化设计。机箱侧面配备了全景侧透面板，搭配内部的 ARGB 定制灯效呈现视觉效果。机箱顶部采用高开孔率导热设计，右侧面板内部则设有专门的理线整理凹槽，使内部走线更加规范整洁。I/O 方面，该机顶置 2 个 USB-A 3.0、1 个 USB-C 10Gbps 接口、1 个 3.5mm 音频接口。该机搭载 8 核心 16 线程锐龙 7 9800X3D 处理器，预装单根 32GB DDR5 5600MT/s 内存，主板四插槽设计最高支持扩展至四根 32GB，机身内部预留了一个 3.5 英寸硬盘位和两个 2280 硬盘位，带有 1TB 容量的 PCIe 5.0 NVMe 固态硬盘，GPU 方面使用 RTX 5070Ti 显卡，整机由 850W 的 80 PLUS 金牌电源负责供电，匹配 240mm 一体式水冷，支持 Wi-Fi 7 与蓝牙",
-      "short_summary": "IT之家 9 月 13 日消息，惠普现已为旗下 HyperX 暗影精灵 Pro 台式机新增“R7 9800X3D + 3",
-      "detail": "IT之家 9 月 13 日消息，惠普现已为旗下 HyperX 暗影精灵 Pro 台式机新增“R7 9800X3D + 32GB RAM + 1TB SSD + RTX5070Ti”版本，定价为 22999 元。该机采用 35L 公规大机箱，使用免工具拆装模块化设计。机箱侧面配备了全景侧透面板，搭配内部的 ARGB 定制灯效呈现视觉效果。机箱顶部采用高开孔率导热设计，右侧面板内部则设有专门的理线整理凹槽，使内部走线更加规范整洁。I/O 方面，该机顶置 2 个 USB-A 3.0、1 个 USB-C 10Gbps 接口、1 个 3.5mm 音频接口。该机搭载 8 核心 16 线程锐龙 7 9800X3D 处理器，预装单根 32GB DDR5 5600MT/s 内存，主板四插槽设计最高支持扩展至四根 32GB，机身内部预留了一个 3.5 英寸硬盘位和两个 2280 硬盘位，带有 1TB 容量的 PCIe 5.0 NVMe 固态硬盘，GPU 方面使用 RTX 5070Ti 显卡，整机由 850W 的 80 PLUS 金牌电源负责供电，匹配 240mm 一体式水冷，支持 Wi-Fi 7 与蓝牙",
-      "source": "ITHome",
-      "source_authority": 0.75,
-      "date": "2026-09-13",
-      "score": 0.785
-    },
     {
       "title": "“算力中国·年度卓越成就”发布 太初元碁超智融合计算系统入选",
       "url": "https://www.qbitai.com/2026/09/487860.html",
@@ -204,11 +182,33 @@
       "score": 0.695
     },
     {
-      "title": "消息称三星 Galaxy Tab S12 系列平板下月发布，天玑 9500 芯片",
-      "url": "https://www.ithome.com/1/001/705.htm",
-      "summary": "IT之家 9 月 13 日消息，X 平台消息人士 Evan Blass 今日发文，暗示三星 Galaxy Tab S12 系列平板将于 10 月 7 日发布。IT之家了解到，三星本次推出的平板产品预计包含 Galaxy Tab S12+ 和 Galaxy Tab S12 Ultra 两个版本。这两款产品或搭载联发科天玑 9500 芯片，采用 3nm 制程工艺、8 核心设计，主频最高可达 4.21GHz。规格方面，Galaxy Tab S12+ 有可能配备 12.4 英寸 Dynamic AMOLED 2X 显示屏，S12 Ultra 则是采用 14.6 英寸 Dynamic AMOLED 2X 屏幕，延续三星的大屏生产力定位。近年来，三星一直在旗舰平板产品上采用交替发布策略。例如 2024 年，三星推出了 Galaxy Tab S10+ 和 S10 Ultra，2025 年推出 Tab S11 和 S11 Ultra。因此今年，三星很有可能不会推出 Galaxy Tab S12 标准版。",
-      "short_summary": "IT之家 9 月 13 日消息，X 平台消息人士 Evan Blass 今日发文，暗示三星 Galaxy Tab S12",
-      "detail": "IT之家 9 月 13 日消息，X 平台消息人士 Evan Blass 今日发文，暗示三星 Galaxy Tab S12 系列平板将于 10 月 7 日发布。IT之家了解到，三星本次推出的平板产品预计包含 Galaxy Tab S12+ 和 Galaxy Tab S12 Ultra 两个版本。这两款产品或搭载联发科天玑 9500 芯片，采用 3nm 制程工艺、8 核心设计，主频最高可达 4.21GHz。规格方面，Galaxy Tab S12+ 有可能配备 12.4 英寸 Dynamic AMOLED 2X 显示屏，S12 Ultra 则是采用 14.6 英寸 Dynamic AMOLED 2X 屏幕，延续三星的大屏生产力定位。近年来，三星一直在旗舰平板产品上采用交替发布策略。例如 2024 年，三星推出了 Galaxy Tab S10+ 和 S10 Ultra，2025 年推出 Tab S11 和 S11 Ultra。因此今年，三星很有可能不会推出 Galaxy Tab S12 标准版。",
+      "title": "磐镭 WO5 迷你主机新增 R5-3500U + 8G + 256G 规格，1549 元",
+      "url": "https://www.ithome.com/1/001/749.htm",
+      "summary": "IT之家 9 月 13 日消息，磐镭现已为旗下 WO5 迷你主机新增 R5-3500U + 8GB RAM + 256GB SSD 规格，定价为 1549 元。京东磐镭 WO5 迷你主机 1549 元直达链接该机采用黑色外观设计，造型方正，机身正面有 2 个 USB-A 3.2 Gen2 接口，背面有 2 个 HDMI 2.0 接口、1 个千兆 RJ45 网口、2 个 USB-A 2.0 接口、1 个全功能 USB-C 接口。该机搭载 4 核 8 线程 AMD 锐龙 5 3500U 处理器，至高睿频可达 3.7GHz，TDP 为 15W，搭载了 2 个 SO-DIMM DDR4 2666MHz 内存插槽，匹配 8GB RAM。硬盘方面配备了 1 个 PCIe 3.0 x4 2280 M.2 插槽和 1 个 SATA3 2242 M.2 插槽，配备 256GB SSD。迷你主机支持 Wi-Fi 6 及蓝牙 5.0。",
+      "short_summary": "IT之家 9 月 13 日消息，磐镭现已为旗下 WO5 迷你主机新增 R5-3500U + 8GB RAM + 256G",
+      "detail": "IT之家 9 月 13 日消息，磐镭现已为旗下 WO5 迷你主机新增 R5-3500U + 8GB RAM + 256GB SSD 规格，定价为 1549 元。京东磐镭 WO5 迷你主机 1549 元直达链接该机采用黑色外观设计，造型方正，机身正面有 2 个 USB-A 3.2 Gen2 接口，背面有 2 个 HDMI 2.0 接口、1 个千兆 RJ45 网口、2 个 USB-A 2.0 接口、1 个全功能 USB-C 接口。该机搭载 4 核 8 线程 AMD 锐龙 5 3500U 处理器，至高睿频可达 3.7GHz，TDP 为 15W，搭载了 2 个 SO-DIMM DDR4 2666MHz 内存插槽，匹配 8GB RAM。硬盘方面配备了 1 个 PCIe 3.0 x4 2280 M.2 插槽和 1 个 SATA3 2242 M.2 插槽，配备 256GB SSD。迷你主机支持 Wi-Fi 6 及蓝牙 5.0。",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-09-13",
+      "score": 0.695
+    },
+    {
+      "title": "数毛社分析任天堂《塞尔达传说：时之笛 重制版》：NS2掌机 / 电视原生 1080P，无 DLSS 成最大遗憾",
+      "url": "https://www.ithome.com/1/001/736.htm",
+      "summary": "IT之家 9 月 13 日消息，数毛社（IT之家注：Digital Foundry）近日发文分析任天堂《塞尔达传说：时之笛 重制版》游戏，称本作应该可以在 Switch 2 实现掌机、TV 模式原生 1080P 分辨率，但没有 DLSS 支持是最大的遗憾。数毛社从任天堂公布的实机画面认为，本作应该可以在掌机和 TV 模式下实现原生 1080P 分辨率，菜单界面为 1440P 分辨率渲染。从目前掌握的信息来看，玩家应该可以用 60FPS 帧率探索海拉鲁。部分玩家认为，本作采用了虚幻引擎 5。但数毛社表示，该游戏更有可能采用了任天堂自研引擎或合作伙伴方案，曾参与《塞尔达传说：王国之泪》开发的 Monolith Soft 很可能是合作方。同时，数毛社再次对任天堂第一方 Switch 2 大作缺少 DLSS 表示遗憾。他们发现时之笛重制版存在过度锐化等问题。在特写镜头中，林克的脸部经常看起来过于油腻，开放世界的植被也存在闪烁问题，理论上开启 DLSS 能减轻这些缺陷。",
+      "short_summary": "IT之家 9 月 13 日消息，数毛社（IT之家注：Digital Foundry）近日发文分析任天堂《塞尔达传说：时之",
+      "detail": "IT之家 9 月 13 日消息，数毛社（IT之家注：Digital Foundry）近日发文分析任天堂《塞尔达传说：时之笛 重制版》游戏，称本作应该可以在 Switch 2 实现掌机、TV 模式原生 1080P 分辨率，但没有 DLSS 支持是最大的遗憾。数毛社从任天堂公布的实机画面认为，本作应该可以在掌机和 TV 模式下实现原生 1080P 分辨率，菜单界面为 1440P 分辨率渲染。从目前掌握的信息来看，玩家应该可以用 60FPS 帧率探索海拉鲁。部分玩家认为，本作采用了虚幻引擎 5。但数毛社表示，该游戏更有可能采用了任天堂自研引擎或合作伙伴方案，曾参与《塞尔达传说：王国之泪》开发的 Monolith Soft 很可能是合作方。同时，数毛社再次对任天堂第一方 Switch 2 大作缺少 DLSS 表示遗憾。他们发现时之笛重制版存在过度锐化等问题。在特写镜头中，林克的脸部经常看起来过于油腻，开放世界的植被也存在闪烁问题，理论上开启 DLSS 能减轻这些缺陷。",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-09-13",
+      "score": 0.695
+    },
+    {
+      "title": "微星推出 B550 TOMAHAWK WIFI 主板，削减 SATA、RJ-45",
+      "url": "https://www.ithome.com/1/001/722.htm",
+      "summary": "IT之家 9 月 13 日消息，微星 (MSI) 近日在 AMD Socket AM4 平台上推出了 B550 TOMAHAWK WIFI 主板。这一型号是原版 B550“战斧导弹”的现代化变体，在更新外观风格、引入 Wi-Fi 6E & 蓝牙 5.3 无线网卡的同时，将 SATA 接口从 6 个减少至 4 个、把有线网络从 2.5GbE + 1GbE 降级至仅 1 个 2.5GbE。B550 TOMAHAWK WIFI 采用 6 层 2 盎司铜 PCB，搭载 8+2+1 相供电，提供单组 EPS 8-Pin CPU 供电插口。其采用 4DIMM 布局，支持 5100+ MT/s 内存超频；PCIe 插槽包括 1 条 Gen4 ×16、1 条 Gen3 ×4（物理全长）、2 条 Gen3 ×1；两个 M.2 分别支持 PCIe Gen4 ×4 / SATA 和 PCIe Gen3 ×4；提供后置 USB-C 10Gbps、前置 USB-C 5Gbps。",
+      "short_summary": "IT之家 9 月 13 日消息，微星 (MSI) 近日在 AMD Socket AM4 平台上推出了 B550 TOMA",
+      "detail": "IT之家 9 月 13 日消息，微星 (MSI) 近日在 AMD Socket AM4 平台上推出了 B550 TOMAHAWK WIFI 主板。这一型号是原版 B550“战斧导弹”的现代化变体，在更新外观风格、引入 Wi-Fi 6E & 蓝牙 5.3 无线网卡的同时，将 SATA 接口从 6 个减少至 4 个、把有线网络从 2.5GbE + 1GbE 降级至仅 1 个 2.5GbE。B550 TOMAHAWK WIFI 采用 6 层 2 盎司铜 PCB，搭载 8+2+1 相供电，提供单组 EPS 8-Pin CPU 供电插口。其采用 4DIMM 布局，支持 5100+ MT/s 内存超频；PCIe 插槽包括 1 条 Gen4 ×16、1 条 Gen3 ×4（物理全长）、2 条 Gen3 ×1；两个 M.2 分别支持 PCIe Gen4 ×4 / SATA 和 PCIe Gen3 ×4；提供后置 USB-C 10Gbps、前置 USB-C 5Gbps。",
       "source": "ITHome",
       "source_authority": 0.75,
       "date": "2026-09-13",
@@ -226,6 +226,28 @@
       "source_authority": 0.85,
       "date": "2026-09-11",
       "score": 0.685
+    },
+    {
+      "title": "BabaCAD Robotics Web – free browser-based industrial robot simulator",
+      "url": "https://www.babacad.com/robotics/web/",
+      "summary": "Article URL: https://www.babacad.com/robotics/web/\nComments URL: https://news.ycombinator.com/item?id=49670608\nPoints: 3\n# Comments: 0",
+      "short_summary": "Article URL: https://www.babacad.com/robotics/web/\nComments ",
+      "detail": "Article URL: https://www.babacad.com/robotics/web/\nComments URL: https://news.ycombinator.com/item?id=49670608\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "source_authority": 0.8,
+      "date": "2026-09-12",
+      "score": 0.655
+    },
+    {
+      "title": "I spent $4,000 on a robot dog from China",
+      "url": "https://www.understandingai.org/p/i-spent-4000-on-a-robot-dog-from",
+      "summary": "Article URL: https://www.understandingai.org/p/i-spent-4000-on-a-robot-dog-from\nComments URL: https://news.ycombinator.com/item?id=49673310\nPoints: 2\n# Comments: 0",
+      "short_summary": "Article URL: https://www.understandingai.org/p/i-spent-4000-",
+      "detail": "Article URL: https://www.understandingai.org/p/i-spent-4000-on-a-robot-dog-from\nComments URL: https://news.ycombinator.com/item?id=49673310\nPoints: 2\n# Comments: 0",
+      "source": "Hacker News",
+      "source_authority": 0.8,
+      "date": "2026-09-12",
+      "score": 0.63
     }
   ]
 }
