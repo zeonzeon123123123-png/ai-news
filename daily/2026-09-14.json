@@ -22,16 +22,6 @@
       "score": 0.9075
     },
     {
-      "title": "谷歌云：两年即可回收 AI 服务器投资，自研芯片回收期仅为 GPU 一半",
-      "url": "https://www.ithome.com/1/001/923.htm",
-      "summary": "IT之家 9 月 14 日消息，Google Cloud 首席执行官 Thomas Kurian 本月早些时候在高盛通信 + 技术大会上表示，谷歌云的平均 AI 服务器投资回收用时不到 2 年，而自研芯片的投资回收期更是仅有 GPU 方案的一半。Thomas Kurian 表示，其自研 AI 加速器业务规模是第二大超大规模数据中心运营商的 2 倍以上。谷歌云的大部分基础设施合同都是为期五年的长期合同。而对从芯片到模型的全链路控制让谷歌能仅以友商一半乃至更低的价格提供 Gemini Flash 3.8 这样的产品。这位主管宣称谷歌云在 AI 训练、AI 推理、CPU 三个细分领域分别能提供 2.7 倍、80%、30% 的性价比优势。谷歌的企业级 AI 平台 Gemini Enterprise 的机器学习模型运行开销仅有友商的 40%，同时能提供更高的准确度。这两者都是九成以上《财富》100 强企业选择使用该平台的原因之一。",
-      "detail": "IT之家 9 月 14 日消息，Google Cloud 首席执行官 Thomas Kurian 本月早些时候在高盛通信 + 技术大会上表示，谷歌云的平均 AI 服务器投资回收用时不到 2 年，而自研芯片的投资回收期更是仅有 GPU 方案的一半。Thomas Kurian 表示，其自研 AI 加速器业务规模是第二大超大规模数据中心运营商的 2 倍以上。谷歌云的大部分基础设施合同都是为期五年的长期合同。而对从芯片到模型的全链路控制让谷歌能仅以友商一半乃至更低的价格提供 Gemini Flash 3.8 这样的产品。这位主管宣称谷歌云在 AI 训练、AI 推理、CPU 三个细分领域分别能提供 2.7 倍、80%、30% 的性价比优势。谷歌的企业级 AI 平台 Gemini Enterprise 的机器学习模型运行开销仅有友商的 40%，同时能提供更高的准确度。这两者都是九成以上《财富》100 强企业选择使用该平台的原因之一。",
-      "source": "ITHome",
-      "source_authority": 0.75,
-      "date": "2026-09-14",
-      "score": 0.8825
-    },
-    {
       "title": "OpenAI boss and Elon Musk back calls to put brakes on ‘reckless’ AI development",
       "url": "https://www.theguardian.com/technology/2026/sep/13/openai-sam-altman-elon-musk-back-anthropic-calls-brakes-ai-development",
       "summary": "Rare show of unity from rival developers after safety warnings from Anthropic boss and AI researchersAnalysis: critics perplexed and suspicious of call for a slowdownThe Guardian view: humanity cannot outsource its survivalSam Altman and Elon Musk have backed a call from the head of Anthropic, Dario Amodei, to “slow the pace” of AI development after he warned that an AI swarm could otherwise become capable of “taking over the entire internet” within a year.In a rare show of unity, the rival tech",
@@ -42,14 +32,44 @@
       "score": 0.8625
     },
     {
-      "title": "马斯克：Grok 4.8 模型本周完成训练，参数量 2.5 万亿",
-      "url": "https://www.ithome.com/1/001/947.htm",
-      "summary": "IT之家 9 月 14 日消息，xAI 首席执行官埃隆 · 马斯克今天在 X 平台透露，Grok 4.8 将是一款参数量达 2.5 万亿的 AI 模型，使用全新 C++ 软件栈训练。马斯克表示，Grok 4.8 将在本周完成训练、启动强化学习（RL）。IT之家了解到，马斯克曾在此前表示，Grok 4.7 模型将于 9 月 12 日发布。但他随后表示，Grok 4.7 可能需要过几天才能正式推出。延期原因可能是强化学习的回复长度惩罚过重，导致模型会过早放弃困难任务，而且不能严谨检查自己的工作。",
-      "detail": "IT之家 9 月 14 日消息，xAI 首席执行官埃隆 · 马斯克今天在 X 平台透露，Grok 4.8 将是一款参数量达 2.5 万亿的 AI 模型，使用全新 C++ 软件栈训练。马斯克表示，Grok 4.8 将在本周完成训练、启动强化学习（RL）。IT之家了解到，马斯克曾在此前表示，Grok 4.7 模型将于 9 月 12 日发布。但他随后表示，Grok 4.7 可能需要过几天才能正式推出。延期原因可能是强化学习的回复长度惩罚过重，导致模型会过早放弃困难任务，而且不能严谨检查自己的工作。",
+      "title": "美国新提案遏制前沿 AI 发展，违规实体 / 开发者最高监禁 20 年",
+      "url": "https://www.ithome.com/1/002/028.htm",
+      "summary": "IT之家 9 月 14 日消息，科技媒体 Tom's Hardware 昨日（9 月 13 日）发布博文，报道称美国参议员伯尼 · 桑德斯（Bernie Sanders）与格雷格 · 卡萨尔（Greg Cezar）提出《禁止人工超级智能法案》，对违反禁令的实体或者开发者，最高可判 20 年监禁。该法案是目标是遏制并暂停前沿先进 AI 开发，并强制禁止 AI 超级智能（superintelligence），法案还建议美国政府设立一个新的内阁级联邦机构，职责是保护公众降低 AI 对其风险，并执行对 AI 超级智能的禁令，对于违反暂停或禁止条款的实体和开发者，最高可判 20 年监禁。对任何试图违反或规避本法案所规定的暂停措施与禁令的个人或实体设定处罚。实体将适用“公司死刑”（即吊销 / 终止其法人资格），个人则可处以不超过 20 年监禁，这与现行针对非法开发核武器的处罚相当。在适用范围上，该法案不只涉及美国境内的监管安排，还希望通过国际协议、盟国协调等方式，在全球范围内禁止超级智能。IT之家此前报道，在 Anthropic 两名研究人员警告称，快速发展的 AI 可能在不久的将来导致人类灭绝后",
+      "detail": "IT之家 9 月 14 日消息，科技媒体 Tom's Hardware 昨日（9 月 13 日）发布博文，报道称美国参议员伯尼 · 桑德斯（Bernie Sanders）与格雷格 · 卡萨尔（Greg Cezar）提出《禁止人工超级智能法案》，对违反禁令的实体或者开发者，最高可判 20 年监禁。该法案是目标是遏制并暂停前沿先进 AI 开发，并强制禁止 AI 超级智能（superintelligence），法案还建议美国政府设立一个新的内阁级联邦机构，职责是保护公众降低 AI 对其风险，并执行对 AI 超级智能的禁令，对于违反暂停或禁止条款的实体和开发者，最高可判 20 年监禁。对任何试图违反或规避本法案所规定的暂停措施与禁令的个人或实体设定处罚。实体将适用“公司死刑”（即吊销 / 终止其法人资格），个人则可处以不超过 20 年监禁，这与现行针对非法开发核武器的处罚相当。在适用范围上，该法案不只涉及美国境内的监管安排，还希望通过国际协议、盟国协调等方式，在全球范围内禁止超级智能。IT之家此前报道，在 Anthropic 两名研究人员警告称，快速发展的 AI 可能在不久的将来导致人类灭绝后",
       "source": "ITHome",
       "source_authority": 0.75,
       "date": "2026-09-14",
-      "score": 0.7575
+      "score": 0.8475
+    },
+    {
+      "title": "AI CEOs say they need to slow the pace of development. But will they?",
+      "url": "https://www.theguardian.com/technology/2026/sep/14/ai-ceo-safety-slowdown",
+      "summary": "After apocalyptic warnings about the threats posed by AI, leaders like Sam Altman and Elon Musk backed Anthropic CEO Dario Amodei’s calls to ‘slow the pace’Facing a public uproar over Anthropic researchers’ repeated warnings that artificial intelligence could kill all of humanity by 2030, the AI company’s CEO Dario Amodei issued a proposal at the weekend to slow down the technology’s advancement to ensure public safety.In a rare display of unity, the heads of the largest US artificial intelligen",
+      "detail": "After apocalyptic warnings about the threats posed by AI, leaders like Sam Altman and Elon Musk backed Anthropic CEO Dario Amodei’s calls to ‘slow the pace’Facing a public uproar over Anthropic researchers’ repeated warnings that artificial intelligence could kill all of humanity by 2030, the AI company’s CEO Dario Amodei issued a proposal at the weekend to slow down the technology’s advancement to ensure public safety.In a rare display of unity, the heads of the largest US artificial intelligen",
+      "source": "The Guardian",
+      "source_authority": 0.85,
+      "date": "2026-09-14",
+      "score": 0.795
+    },
+    {
+      "title": "荣耀 Magic9/Pro Max 手机规格曝光：大 R 角极窄四等边设计、至高搭载第六代骁龙 8 超级至尊版处理器",
+      "url": "https://www.ithome.com/1/002/027.htm",
+      "summary": "IT之家 9 月 14 日消息，荣耀 Magic 盛典暨荣耀 Magic9 系列新品发布会将于 9 月 28 日在北京举行，目前博主 @数码闲聊站 已曝光荣耀 Magic9 和 Magic9 Pro Max 两款手机规格信息，IT之家整理如下：Magic9该机提供 IP68/69/69K 认证，采用大 R 角极窄四等边设计，正面配备一块 6.37 英寸 2664x1236 分辨率（1.5K）120Hz LTPS 面板，匹配 55Mp F2.0 1:1 方形前摄。手机带有 AI 键 + 拍照键，手机背面使用横向大矩阵冷雕相机模组设计，采用 200Mp 1/1.4 英寸 F1.9 主摄 + 50Mp F2.0 超广角 + 200Mp 1/1.56 英寸 3.5 倍 F2.6 潜望长焦。该机搭载高通骁龙 8E5（第五代骁龙 8 至尊版）处理器，匹配 8000mAh 电池，支持 80W 有线充电和 50W 无线充电。同时手机具备 3D 超声波指纹技术。Magic9 Pro Max该机同样提供 IP68/69/69K 认证及大 R 角极窄四等边设计，正面配备一块 6.8 英寸 2868x1320",
+      "detail": "IT之家 9 月 14 日消息，荣耀 Magic 盛典暨荣耀 Magic9 系列新品发布会将于 9 月 28 日在北京举行，目前博主 @数码闲聊站 已曝光荣耀 Magic9 和 Magic9 Pro Max 两款手机规格信息，IT之家整理如下：Magic9该机提供 IP68/69/69K 认证，采用大 R 角极窄四等边设计，正面配备一块 6.37 英寸 2664x1236 分辨率（1.5K）120Hz LTPS 面板，匹配 55Mp F2.0 1:1 方形前摄。手机带有 AI 键 + 拍照键，手机背面使用横向大矩阵冷雕相机模组设计，采用 200Mp 1/1.4 英寸 F1.9 主摄 + 50Mp F2.0 超广角 + 200Mp 1/1.56 英寸 3.5 倍 F2.6 潜望长焦。该机搭载高通骁龙 8E5（第五代骁龙 8 至尊版）处理器，匹配 8000mAh 电池，支持 80W 有线充电和 50W 无线充电。同时手机具备 3D 超声波指纹技术。Magic9 Pro Max该机同样提供 IP68/69/69K 认证及大 R 角极窄四等边设计，正面配备一块 6.8 英寸 2868x1320",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-09-14",
+      "score": 0.785
+    },
+    {
+      "title": "肖战官宣出任荣耀旗舰手机全球代言人，Magic9 系列新机官图发布",
+      "url": "https://www.ithome.com/1/001/992.htm",
+      "summary": "IT之家 9 月 14 日消息，荣耀手机官方今日宣布，肖战将出任荣耀旗舰手机全球代言人。荣耀官方还放出了 Magic9 超能版的四色官图，新机提供幕布黑、开场白、橄榄青、银盐等配色。另外，荣耀 Magic9 系列手机还将推出一款全新配色 —— 爆米黄。根据规划，荣耀 Magic 盛典暨荣耀 Magic9 系列新品发布会已定档 9 月 28 日在北京举行。▲ IT之家开箱：荣耀 Magic9 Pro Max 图赏",
+      "detail": "IT之家 9 月 14 日消息，荣耀手机官方今日宣布，肖战将出任荣耀旗舰手机全球代言人。荣耀官方还放出了 Magic9 超能版的四色官图，新机提供幕布黑、开场白、橄榄青、银盐等配色。另外，荣耀 Magic9 系列手机还将推出一款全新配色 —— 爆米黄。根据规划，荣耀 Magic 盛典暨荣耀 Magic9 系列新品发布会已定档 9 月 28 日在北京举行。▲ IT之家开箱：荣耀 Magic9 Pro Max 图赏",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-09-14",
+      "score": 0.765
     },
     {
       "title": "What Anthropic CEO Dario Amodei Argued in His Call for AI Slowdown",
@@ -64,26 +84,6 @@
   ],
   "category2": [
     {
-      "title": "苹果 iOS 27 正式版前瞻：升级 Siri AI、优化液态玻璃设计、隔空投送提速 80%",
-      "url": "https://www.ithome.com/1/001/921.htm",
-      "summary": "IT之家 9 月 14 日消息，苹果公司官网显示，将于北京时间 9 月 15 日周二凌晨 1 点推送 iOS 27、iPadOS 27、macOS 27 和 watchOS 27 等正式版，用户届时可在“设置”应用中的“通用” → “软件更新”下查看。IT之家援引科技媒体 MacRumors 报道，汇总梳理下 iOS 27 将会带来的 8 项主要改进：一、Siri AI本次更新的核心是“智能 Siri”（Siri AI），类似 ChatGPT ，可通过独立应用或长按侧边按钮调用。该功能可调用手机内的个人信息，识别屏幕内容，并在更多兼容应用内执行操作，但仅支持 iPhone 15 Pro 及更新机型。苹果公司表示，Siri AI 初期仅支持英语，且每日使用次数有限制，未来将以付费方式提供更多功能。二、更多 Apple Intelligence 功能在此基础上，苹果智能（Apple Intelligence）新增多项内容生成工具：照片应用加入“扩展”和“重新构图”；图乐园（Image Playground）可生成“照片级真实感”图像；快捷指令（Shortcuts）可通过文字描述创建新流程；",
-      "detail": "IT之家 9 月 14 日消息，苹果公司官网显示，将于北京时间 9 月 15 日周二凌晨 1 点推送 iOS 27、iPadOS 27、macOS 27 和 watchOS 27 等正式版，用户届时可在“设置”应用中的“通用” → “软件更新”下查看。IT之家援引科技媒体 MacRumors 报道，汇总梳理下 iOS 27 将会带来的 8 项主要改进：一、Siri AI本次更新的核心是“智能 Siri”（Siri AI），类似 ChatGPT ，可通过独立应用或长按侧边按钮调用。该功能可调用手机内的个人信息，识别屏幕内容，并在更多兼容应用内执行操作，但仅支持 iPhone 15 Pro 及更新机型。苹果公司表示，Siri AI 初期仅支持英语，且每日使用次数有限制，未来将以付费方式提供更多功能。二、更多 Apple Intelligence 功能在此基础上，苹果智能（Apple Intelligence）新增多项内容生成工具：照片应用加入“扩展”和“重新构图”；图乐园（Image Playground）可生成“照片级真实感”图像；快捷指令（Shortcuts）可通过文字描述创建新流程；",
-      "source": "ITHome",
-      "source_authority": 0.75,
-      "date": "2026-09-14",
-      "score": 0.8675
-    },
-    {
-      "title": "刘作虎官宣 OPPO Find X10 系列手机：三杯齐发，追求真实影像最彻底的一代",
-      "url": "https://www.ithome.com/1/001/913.htm",
-      "summary": "IT之家 9 月 14 日消息，OPPO 首席产品官、一加创始人刘作虎今日在微博发布长文，正式官宣 Find X10 系列新机。据介绍，Find X10 系列将有三款新品，包括：OPPO Find X10 Pro Max，搭载三 2 亿镜头群的 Pro Max，让照片视频双满配；OPPO Find X10，搭载双 2 亿镜头群的旗舰标准版，也是一步到位的影像旗舰；OPPO Find X10 E，一台恰到好处的入门影像旗舰，哈苏超清影像系统、Find 旗舰设计、全新 ColorOS 17 和旗舰实力。刘作虎表示，Find X10 系列是 OPPO 追求真实影像最彻底的一代。同时，系列新机还将首发 ColorOS 17 系统。此外，OPPO 还将发布全新 Watch S2，支持独有的 FATMAX 超燃脂模式，可提供最佳燃脂心率区间，支持和 Find X10 的联动 —— 运动时不用抬手看表，心率会主动出现在手机的流体云和悬浮窗上。新一代 Enco X4，支持无损丹拿音质、降噪，还有 AI 实时翻译等功能。据IT之家今日早些时候报道，OPPO Find X10 系列新机定档 9 月 22",
-      "detail": "IT之家 9 月 14 日消息，OPPO 首席产品官、一加创始人刘作虎今日在微博发布长文，正式官宣 Find X10 系列新机。据介绍，Find X10 系列将有三款新品，包括：OPPO Find X10 Pro Max，搭载三 2 亿镜头群的 Pro Max，让照片视频双满配；OPPO Find X10，搭载双 2 亿镜头群的旗舰标准版，也是一步到位的影像旗舰；OPPO Find X10 E，一台恰到好处的入门影像旗舰，哈苏超清影像系统、Find 旗舰设计、全新 ColorOS 17 和旗舰实力。刘作虎表示，Find X10 系列是 OPPO 追求真实影像最彻底的一代。同时，系列新机还将首发 ColorOS 17 系统。此外，OPPO 还将发布全新 Watch S2，支持独有的 FATMAX 超燃脂模式，可提供最佳燃脂心率区间，支持和 Find X10 的联动 —— 运动时不用抬手看表，心率会主动出现在手机的流体云和悬浮窗上。新一代 Enco X4，支持无损丹拿音质、降噪，还有 AI 实时翻译等功能。据IT之家今日早些时候报道，OPPO Find X10 系列新机定档 9 月 22",
-      "source": "ITHome",
-      "source_authority": 0.75,
-      "date": "2026-09-14",
-      "score": 0.7325
-    },
-    {
       "title": "AI Agents Are Thirsty for Power",
       "url": "https://www.wired.com/story/ai-agents-are-thirsty-for-power/",
       "summary": "Silicon Valley is shifting away from chatbot queries toward a future filled with resource-intensive agentic AI—and it's driving the data center buildout.",
@@ -94,20 +94,40 @@
       "score": 0.71
     },
     {
-      "title": "‘Cheap iPhone deal’: warning over scam sites selling latest Apple mobiles",
-      "url": "https://www.theguardian.com/money/2026/sep/13/cheap-iphone-18-pro-duo-deal-price-scam-sites-apple-mobiles",
-      "summary": "Criminals exploit demand for iPhone 18 Pro and foldable Duo to trick people eager to get their hands on oneApple has just launched a range of new iPhones, including a foldable handset, just as you decide it is time to replace your own ageing mobile. But you balk at the £1,199 price tag for the cheapest of the new options.Searching online for a better price with the words “cheap”, “iPhone” and “deal”, you come across a website which offers an iPhone 18 Pro for a couple of hundred pounds less than",
-      "detail": "Criminals exploit demand for iPhone 18 Pro and foldable Duo to trick people eager to get their hands on oneApple has just launched a range of new iPhones, including a foldable handset, just as you decide it is time to replace your own ageing mobile. But you balk at the £1,199 price tag for the cheapest of the new options.Searching online for a better price with the words “cheap”, “iPhone” and “deal”, you come across a website which offers an iPhone 18 Pro for a couple of hundred pounds less than",
-      "source": "The Guardian",
-      "source_authority": 0.85,
-      "date": "2026-09-13",
-      "score": 0.6975
+      "title": "网友反馈其 1650W 华擎电源出现 16 针接口熔化，105°C 温控未触发",
+      "url": "https://www.ithome.com/1/002/032.htm",
+      "summary": "IT之家 9 月 14 日消息，科技媒体 Wccftech 昨日（9 月 13 日）发布博文，报道称针对 16 针（12V‑2×6）供电接口的“过热保护”设计，每家厂商都有不同的解决方案，但多数方案都以“失败”告终。该媒体报告最新的案例是华擎 Taichi TC-1650T 电源，该电源是一款面向高端平台（尤其是 RTX 5090 / RTX PRO 6000 这类 600W 级显卡）的 1650W 钛金电源，其最大卖点之一就是配备 TempGuard 方案，提供线材过温保护。该产品在 12V‑2×6 连接显卡那一端的接头内，嵌入一颗 105°C NTC 热敏电阻。这颗传感器通过额外引脚连回电源，实时把接头温度信号送回 PSU 控制电路。当传感器检测到接头温度接近或达到约 105°C 后，电源会触发保护并直接切断输出、关闭系统，以避免塑料外壳熔化、引脚烧蚀进一步扩大。根据网友 u/ScientiaEtRatio91 发帖表示，在使用过程中两端插头都已完全插到底、温度探头也已接上，故障发生在电源端，而其所宣传的温度探头又没有有效监测到异常升温。IT之家附上相关图片如下：对于问题根源，该网",
+      "detail": "IT之家 9 月 14 日消息，科技媒体 Wccftech 昨日（9 月 13 日）发布博文，报道称针对 16 针（12V‑2×6）供电接口的“过热保护”设计，每家厂商都有不同的解决方案，但多数方案都以“失败”告终。该媒体报告最新的案例是华擎 Taichi TC-1650T 电源，该电源是一款面向高端平台（尤其是 RTX 5090 / RTX PRO 6000 这类 600W 级显卡）的 1650W 钛金电源，其最大卖点之一就是配备 TempGuard 方案，提供线材过温保护。该产品在 12V‑2×6 连接显卡那一端的接头内，嵌入一颗 105°C NTC 热敏电阻。这颗传感器通过额外引脚连回电源，实时把接头温度信号送回 PSU 控制电路。当传感器检测到接头温度接近或达到约 105°C 后，电源会触发保护并直接切断输出、关闭系统，以避免塑料外壳熔化、引脚烧蚀进一步扩大。根据网友 u/ScientiaEtRatio91 发帖表示，在使用过程中两端插头都已完全插到底、温度探头也已接上，故障发生在电源端，而其所宣传的温度探头又没有有效监测到异常升温。IT之家附上相关图片如下：对于问题根源，该网",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-09-14",
+      "score": 0.695
     },
     {
-      "title": "酷比魔方酷玩 Pad Pro 2 平板首销：12.1 英寸 2.5K 90Hz 面板，Helio G100 + 8G + 128G 首发价 1219 元",
-      "url": "https://www.ithome.com/1/001/933.htm",
-      "summary": "IT之家 9 月 14 日消息，酷比魔方旗下酷玩 Pad Pro 2 平板电脑现已在京东开启首销，8GB RAM + 128GB 存储空间版定价为 1299 元，首发价 1219 元。京东酷比魔方酷玩 Pad Pro 2 券后 1219 元领 80 元券酷玩 Pad Pro 2 厚度 7.54mm，正面采用了一块 12.1 英寸 2.5K 分辨率 90Hz 刷新率的 IPS 屏，前置 800 万像素摄像头，后置 1600 万像素自动对焦摄像头。该机搭载联发科 Helio G100 八核处理器，匹配 8GB RAM 和 128GB 存储空间，内置 10000mAh 电池，支持 33W PD (PPS 协议) 快充，但充电头需自行购买。平板支持 4G 全网通双卡双待，支持国内主流运营商的通话、短信收发及移动数据上网。其他方面，这款平板配备 BOX 音腔四扬声器，搭配数字功放芯片，还支持最高 1TB 容量 TF 卡扩展存储，整机厚度 7.45mm，搭载基于安卓 16 定制的 ALLDOCUBE OS。",
-      "detail": "IT之家 9 月 14 日消息，酷比魔方旗下酷玩 Pad Pro 2 平板电脑现已在京东开启首销，8GB RAM + 128GB 存储空间版定价为 1299 元，首发价 1219 元。京东酷比魔方酷玩 Pad Pro 2 券后 1219 元领 80 元券酷玩 Pad Pro 2 厚度 7.54mm，正面采用了一块 12.1 英寸 2.5K 分辨率 90Hz 刷新率的 IPS 屏，前置 800 万像素摄像头，后置 1600 万像素自动对焦摄像头。该机搭载联发科 Helio G100 八核处理器，匹配 8GB RAM 和 128GB 存储空间，内置 10000mAh 电池，支持 33W PD (PPS 协议) 快充，但充电头需自行购买。平板支持 4G 全网通双卡双待，支持国内主流运营商的通话、短信收发及移动数据上网。其他方面，这款平板配备 BOX 音腔四扬声器，搭配数字功放芯片，还支持最高 1TB 容量 TF 卡扩展存储，整机厚度 7.45mm，搭载基于安卓 16 定制的 ALLDOCUBE OS。",
+      "title": "哈利 · 波特版 realme 真我 16 Pro 手机预热：天玑 7300 Max 芯片，7000mAh 电池",
+      "url": "https://www.ithome.com/1/002/015.htm",
+      "summary": "IT之家 9 月 14 日消息，科技媒体 gsmarena 昨日（9 月 13 日）发布博文，报道称 realme 真我已公开哈利 · 波特（Harry Potter）版 16 Pro 手机主要规格，沿用标准版配置，主要升级外观和包装方面。哈利 · 波特版 realme 真我 16 Pro 手机搭载天玑 7300 Max，配备 144Hz AMOLED 屏幕，峰值亮度为 6500 尼特。续航部分采用 7000mAh 电池，支持 80W 有线充电。根据官方公示信息，这款手机支持旁路充电与反向有线充电功能。旁路充电可在外接电源时，绕开电池供电路径，反向有线充电则可通过线缆向其他设备供电。IT之家附上相关图片如下：",
+      "detail": "IT之家 9 月 14 日消息，科技媒体 gsmarena 昨日（9 月 13 日）发布博文，报道称 realme 真我已公开哈利 · 波特（Harry Potter）版 16 Pro 手机主要规格，沿用标准版配置，主要升级外观和包装方面。哈利 · 波特版 realme 真我 16 Pro 手机搭载天玑 7300 Max，配备 144Hz AMOLED 屏幕，峰值亮度为 6500 尼特。续航部分采用 7000mAh 电池，支持 80W 有线充电。根据官方公示信息，这款手机支持旁路充电与反向有线充电功能。旁路充电可在外接电源时，绕开电池供电路径，反向有线充电则可通过线缆向其他设备供电。IT之家附上相关图片如下：",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-09-14",
+      "score": 0.695
+    },
+    {
+      "title": "Can you futureproof your career by choosing an AI-resistant degree?",
+      "url": "https://www.theguardian.com/education/2026/sep/14/futureproof-your-career-by-choosing-an-ai-resistant-degree",
+      "summary": "Humans will have to compete with AI-powered virtual employees in the near future. Here are our tips for the last human holdoutsFutureproofing your career with an AI-resistant degree is a tough ask, says Charlie Ball, an expert on graduate employment for Jisc, the UK’s higher education digital, data and technology agency.“What you’re trying to do is futureproof a 45-year career in a time of rapid technological change – and that’s really quite hard to do. What’s likely is that jobs that hinge a lo",
+      "detail": "Humans will have to compete with AI-powered virtual employees in the near future. Here are our tips for the last human holdoutsFutureproofing your career with an AI-resistant degree is a tough ask, says Charlie Ball, an expert on graduate employment for Jisc, the UK’s higher education digital, data and technology agency.“What you’re trying to do is futureproof a 45-year career in a time of rapid technological change – and that’s really quite hard to do. What’s likely is that jobs that hinge a lo",
+      "source": "The Guardian",
+      "source_authority": 0.85,
+      "date": "2026-09-14",
+      "score": 0.675
+    },
+    {
+      "title": "国产捉宠 RPG《伊莫》开启预载，PC 端 9 月 16 日开启公测",
+      "url": "https://www.ithome.com/1/001/995.htm",
+      "summary": "IT之家 9 月 14 日消息，国产多人在线大世界捉宠 RPG《伊莫》（Aniimo）今日开启预下载，PC 端将在 9 月 16 日正式开启公测，移动端则是 9 月 23 日。IT之家了解到，《伊莫》由杭州爪印工作室（Pawprint Studio）研发、FunPlus 旗下上海趣乐糖网络科技有限公司发行。本作是一款免费游玩的多人线上游戏，支持 PlayStation、Xbox 等主机平台以及 PC（Steam、Epic 等）与移动端，主打跨平台数据互通。游戏设定在广袤的艾德尔大陆，玩家将扮演“连结者”邂逅各种名为“伊莫”的神奇生物。本作主打独创的“联结”机制，玩家可与伊莫合体，继承其飞行、潜水或遁地等能力，以生物视角展开探索、解谜与即时战斗。此外，游戏还包含多人协作、随昼夜天气变化的伊莫生态与进化分支，以及“露营地房车”家园系统。",
+      "detail": "IT之家 9 月 14 日消息，国产多人在线大世界捉宠 RPG《伊莫》（Aniimo）今日开启预下载，PC 端将在 9 月 16 日正式开启公测，移动端则是 9 月 23 日。IT之家了解到，《伊莫》由杭州爪印工作室（Pawprint Studio）研发、FunPlus 旗下上海趣乐糖网络科技有限公司发行。本作是一款免费游玩的多人线上游戏，支持 PlayStation、Xbox 等主机平台以及 PC（Steam、Epic 等）与移动端，主打跨平台数据互通。游戏设定在广袤的艾德尔大陆，玩家将扮演“连结者”邂逅各种名为“伊莫”的神奇生物。本作主打独创的“联结”机制，玩家可与伊莫合体，继承其飞行、潜水或遁地等能力，以生物视角展开探索、解谜与即时战斗。此外，游戏还包含多人协作、随昼夜天气变化的伊莫生态与进化分支，以及“露营地房车”家园系统。",
       "source": "ITHome",
       "source_authority": 0.75,
       "date": "2026-09-14",
@@ -116,34 +136,34 @@
   ],
   "category3": [
     {
-      "title": "绿联首款雷电 5 显卡坞上市，3489 元",
-      "url": "https://www.ithome.com/1/001/922.htm",
-      "summary": "IT之家 9 月 14 日消息，绿联首款雷电 5 显卡扩展坞今天上市，新品拥有 Thunderbolt 5 & OCuLink 双接口，配备 850W 金牌电源，售价 3489 元。据介绍，这款显卡坞的雷电 5 接口传输速率可达 80Gbps，显卡直连带宽 64Gbps，兼容 USB4 和雷电 4/3。可插入英伟达、AMD 和英特尔主流显卡，支持联动绿联 NAS 硬件加速，为 Docker 容器算力赋能。规格方面，该显卡坞带有 3 个雷电 5 接口，支持菊花链串联，内置 850W 金牌电源，符合 ATX 3.1 标准，提供 12V-2*6 连接器，可连接 RTX 40/50 系显卡。支持 PD 3.1 协议，可为笔记本提供 140W 输入。此外，该显卡坞支持 Windows 和 Linux 系统，默认状态下支持 370mm 长度显卡，采用全铝机身设计。IT之家附该显卡坞详细参数如下：目前该产品已在京东开售，定价为 3489 元。京东绿联雷电 5 显卡拓展坞 3489 元直达链接",
-      "detail": "IT之家 9 月 14 日消息，绿联首款雷电 5 显卡扩展坞今天上市，新品拥有 Thunderbolt 5 & OCuLink 双接口，配备 850W 金牌电源，售价 3489 元。据介绍，这款显卡坞的雷电 5 接口传输速率可达 80Gbps，显卡直连带宽 64Gbps，兼容 USB4 和雷电 4/3。可插入英伟达、AMD 和英特尔主流显卡，支持联动绿联 NAS 硬件加速，为 Docker 容器算力赋能。规格方面，该显卡坞带有 3 个雷电 5 接口，支持菊花链串联，内置 850W 金牌电源，符合 ATX 3.1 标准，提供 12V-2*6 连接器，可连接 RTX 40/50 系显卡。支持 PD 3.1 协议，可为笔记本提供 140W 输入。此外，该显卡坞支持 Windows 和 Linux 系统，默认状态下支持 370mm 长度显卡，采用全铝机身设计。IT之家附该显卡坞详细参数如下：目前该产品已在京东开售，定价为 3489 元。京东绿联雷电 5 显卡拓展坞 3489 元直达链接",
+      "title": "摩托罗拉 Edge 70 Neo 手机跑分曝光：骁龙 7s Gen 3 芯片、6GB 内存",
+      "url": "https://www.ithome.com/1/002/008.htm",
+      "summary": "IT之家 9 月 14 日消息，科技媒体 NotebookCheck 昨日（9 月 13 日）发布博文，报道称摩托罗拉 Edge 70 Neo 手机现身 GeekBench 平台，7.0.0 版本单核成绩为 723 分，多核成绩为 2,943 分。根据跑分页面信息，摩托罗拉 Edge 70 Neo 手机配备高通骁龙 7s Gen 3 芯片。该芯片型号为 SM7635，采用 4nm 工艺。参数制程4nmCPU8 核：1×2.5GHz + 3×2.4GHz + 4×1.8GHzGPUAdreno 系列 GPU5G支持 5G 网络，具体频段取决于手机厂商影像支持最高 2 亿像素照片、12-bit 三 ISP、4K HDR 视频AI支持部分端侧生成式 AI 模型定位中端，低于骁龙 7+ 系列页面信息还显示该机运行安卓 16 系统，配备 6GB 内存。颜色方面，IT之家此前报道，该机预估会提供粉色、深绿色、浅绿色与浅蓝色四种颜色。在设计细节上，4 款不同配色机型均采用哑光中框处理，粉色版本背面带有特定图案，此外屏幕两侧是曲面的。",
+      "detail": "IT之家 9 月 14 日消息，科技媒体 NotebookCheck 昨日（9 月 13 日）发布博文，报道称摩托罗拉 Edge 70 Neo 手机现身 GeekBench 平台，7.0.0 版本单核成绩为 723 分，多核成绩为 2,943 分。根据跑分页面信息，摩托罗拉 Edge 70 Neo 手机配备高通骁龙 7s Gen 3 芯片。该芯片型号为 SM7635，采用 4nm 工艺。参数制程4nmCPU8 核：1×2.5GHz + 3×2.4GHz + 4×1.8GHzGPUAdreno 系列 GPU5G支持 5G 网络，具体频段取决于手机厂商影像支持最高 2 亿像素照片、12-bit 三 ISP、4K HDR 视频AI支持部分端侧生成式 AI 模型定位中端，低于骁龙 7+ 系列页面信息还显示该机运行安卓 16 系统，配备 6GB 内存。颜色方面，IT之家此前报道，该机预估会提供粉色、深绿色、浅绿色与浅蓝色四种颜色。在设计细节上，4 款不同配色机型均采用哑光中框处理，粉色版本背面带有特定图案，此外屏幕两侧是曲面的。",
       "source": "ITHome",
       "source_authority": 0.75,
       "date": "2026-09-14",
-      "score": 0.8825
+      "score": 0.8975
     },
     {
-      "title": "奇瑞汽车 Apple Watch 车控功能上线：首批支持风云 T9L，支持查看续航、开空调等",
-      "url": "https://www.ithome.com/1/001/932.htm",
-      "summary": "IT之家 9 月 14 日消息，奇瑞汽车今天宣布旗下车型 Apple Watch 车控功能上线，首批支持风云 T9L。据介绍，该功能可将车辆状态同步至 Apple Watch 手表，抬腕即可查看续航、空调与充电状态，支持腕上操作解锁、寻车、开空调、操作电动尾门等。IT之家了解到，奇瑞风云 T9L 发布于今年 4 月，该车定位大五座 SUV，配备猎鹰 700+ 智能辅助驾驶系统、地平线征程 6P 芯片等，官方指导价区间 12.99-18.69 万元；抢先置换价区间 12.59-18.29 万元。外观方面，该车采用“东方美学”设计，提供山烟紫、沁湖蓝、丹霞黑、雪岭白、石林灰、鸣沙翠等配色可选，车头匹配“点墨大灯”，车身使用传统造型门把手，匹配银钩腰线，车尾搭载“水墨长虹尾灯”。座舱方面，该车提供 15.6 英寸 2.5K 中控和 17.3 英寸 3K 后排娱乐屏，搭载猎鹰 700 高阶驾驶辅助系统，拥有 560TOPS 算力。车内拥有 1037mm 二排腿部空间、同级唯一前排双零重力座椅。此外，该车还配备流萤氛围灯、抚琴立式高音、23 扬声器伯牙之音等。规格方面，该车尺寸为 4870×19",
-      "detail": "IT之家 9 月 14 日消息，奇瑞汽车今天宣布旗下车型 Apple Watch 车控功能上线，首批支持风云 T9L。据介绍，该功能可将车辆状态同步至 Apple Watch 手表，抬腕即可查看续航、空调与充电状态，支持腕上操作解锁、寻车、开空调、操作电动尾门等。IT之家了解到，奇瑞风云 T9L 发布于今年 4 月，该车定位大五座 SUV，配备猎鹰 700+ 智能辅助驾驶系统、地平线征程 6P 芯片等，官方指导价区间 12.99-18.69 万元；抢先置换价区间 12.59-18.29 万元。外观方面，该车采用“东方美学”设计，提供山烟紫、沁湖蓝、丹霞黑、雪岭白、石林灰、鸣沙翠等配色可选，车头匹配“点墨大灯”，车身使用传统造型门把手，匹配银钩腰线，车尾搭载“水墨长虹尾灯”。座舱方面，该车提供 15.6 英寸 2.5K 中控和 17.3 英寸 3K 后排娱乐屏，搭载猎鹰 700 高阶驾驶辅助系统，拥有 560TOPS 算力。车内拥有 1037mm 二排腿部空间、同级唯一前排双零重力座椅。此外，该车还配备流萤氛围灯、抚琴立式高音、23 扬声器伯牙之音等。规格方面，该车尺寸为 4870×19",
+      "title": "苹果优质售后新案例：“免费”为 6 年旧款 MacBook Air 升级 M5 新款",
+      "url": "https://www.ithome.com/1/002/005.htm",
+      "summary": "IT之家 9 月 14 日消息，科技媒体 Wccftech 今天（9 月 14 日）发布博文，报道称苹果的售后服务有口皆碑，最新案例是为 6 年老笔记本电脑（仍在 AppleCare 保修期内）免费升级到 M5 MacBook Air。网友 u/simalary44 昨日（9 月 13 日）在 Reddit 社区发帖，称其主力使用 2023 款 M3 MacBook Pro，并闲置了一台 2020 款 13 英寸 Retina MacBook Air。在送修 MacBook Pro 屏幕后，该网友临时使用 MacBook Air 备用机，于是致电苹果客服，询问是否可以为 MacBook Air 提供更换电池和屏幕维修服务。根据苹果官网显示，2020 款 MacBook Air 属于“过时”状态（指停止发售之日起已超过 5 年但未满 7 年的产品），这类产品可能仍可获得硬件维修，但零部件是否可用取决于库存。苹果客服人员在随后的回复中，表示可以免费更换升级到 M5 款 MacBook Air。新机配备 16GB 统一内存、512GB SSD、10 核 CPU 和 10 核 GPU。同配置基",
+      "detail": "IT之家 9 月 14 日消息，科技媒体 Wccftech 今天（9 月 14 日）发布博文，报道称苹果的售后服务有口皆碑，最新案例是为 6 年老笔记本电脑（仍在 AppleCare 保修期内）免费升级到 M5 MacBook Air。网友 u/simalary44 昨日（9 月 13 日）在 Reddit 社区发帖，称其主力使用 2023 款 M3 MacBook Pro，并闲置了一台 2020 款 13 英寸 Retina MacBook Air。在送修 MacBook Pro 屏幕后，该网友临时使用 MacBook Air 备用机，于是致电苹果客服，询问是否可以为 MacBook Air 提供更换电池和屏幕维修服务。根据苹果官网显示，2020 款 MacBook Air 属于“过时”状态（指停止发售之日起已超过 5 年但未满 7 年的产品），这类产品可能仍可获得硬件维修，但零部件是否可用取决于库存。苹果客服人员在随后的回复中，表示可以免费更换升级到 M5 款 MacBook Air。新机配备 16GB 统一内存、512GB SSD、10 核 CPU 和 10 核 GPU。同配置基",
       "source": "ITHome",
       "source_authority": 0.75,
       "date": "2026-09-14",
-      "score": 0.8225
+      "score": 0.8975
     },
     {
-      "title": "三星、SK 海力士拒绝韩国电力 25 万亿韩元提前付款计划：原因为半导体未必能持续繁荣 5 年",
-      "url": "https://www.ithome.com/1/001/914.htm",
-      "summary": "IT之家 9 月 14 日消息，据韩媒 SBS 报道，韩国电力公社（KEPCO）曾计划让三星电子、SK 海力士预支付未来 5 年电费，共计 25 万亿韩元（IT之家注：现汇率约合 1,246.25 亿元人民币）。据报道，三星和 SK 海力士决定不接受提前付款方案。两家公司给出的理由是，提前支付巨额资金负担过大，且半导体行业未必能持续繁荣 5 年。韩电对此回应称，公司已收到两家企业的回应，此后并没有向其他企业提出类似预付费方案。韩电曾在此前表示，如果三星、SK 海力士能提前支付未来 5 年的电费，那么公司将能够优先建设韩国基础设施，为半导体产业园区提供电力。这其中的 25 万亿韩元，三星约占 20 万亿韩元、SK 海力士占 5 万亿韩元。按照原计划，两家公司将在一年内分期预付 25 万亿韩元，韩电则会为预付款提供利息。三星电子和 SK 海力士此前曾积极考虑该方案，毕竟提前付费能为龙仁（Yongin）、湖南（Honam）半导体产业园获得提前供电的可能性。",
-      "detail": "IT之家 9 月 14 日消息，据韩媒 SBS 报道，韩国电力公社（KEPCO）曾计划让三星电子、SK 海力士预支付未来 5 年电费，共计 25 万亿韩元（IT之家注：现汇率约合 1,246.25 亿元人民币）。据报道，三星和 SK 海力士决定不接受提前付款方案。两家公司给出的理由是，提前支付巨额资金负担过大，且半导体行业未必能持续繁荣 5 年。韩电对此回应称，公司已收到两家企业的回应，此后并没有向其他企业提出类似预付费方案。韩电曾在此前表示，如果三星、SK 海力士能提前支付未来 5 年的电费，那么公司将能够优先建设韩国基础设施，为半导体产业园区提供电力。这其中的 25 万亿韩元，三星约占 20 万亿韩元、SK 海力士占 5 万亿韩元。按照原计划，两家公司将在一年内分期预付 25 万亿韩元，韩电则会为预付款提供利息。三星电子和 SK 海力士此前曾积极考虑该方案，毕竟提前付费能为龙仁（Yongin）、湖南（Honam）半导体产业园获得提前供电的可能性。",
+      "title": "号称“行业最高”，曝一加 16 手机多指采样率 520Hz、陀螺仪采样率首次达到 800Hz",
+      "url": "https://www.ithome.com/1/002/017.htm",
+      "summary": "IT之家 9 月 14 日消息，据微博博主 @数码闲聊站 今日透露，加加 16（一加 16）手机的操控“又是往前卷了一大步”：落地新一代自研灵犀触控芯片，多指采样率做到了 520Hz，行业最高首发新一代高精度大师陀螺仪，采样率首次干到了 800Hz，行业最高 * 2博主表示，这种规格比 PS5 手柄（IT之家注：DualSense）规格“还要猛”。该机还将与 FPS 射击手游工作室、专业赛事选手联合调校，号称是“整个行业独一档的存在”。后续有用户在评论区询问：“充电呢”，博主回复道：“比较快的那种百瓦”；另一名用户则询问道：“看来真是全能水桶机了，价格估计也是突破天际”，博主则回复道：“没关系，大家都贵…… 毕竟 2nm 芯片 + 内存大涨。”据该博主此前爆料，一加 16 手机电池定版或为 9000mAh，是新一波旗舰手机的最大容量。该机还用了 OPPO 聚能芯片，支持低压放电，不用担心锁容问题。除此之外，该机预计还将拥有骁龙 8 Elite Extreme Gen6 芯片、2 亿像素大底影像、185Hz 超高刷游戏、独一档硬件级全局 165Hz 高刷体验、9K 大电池等，主打“全能旗",
+      "detail": "IT之家 9 月 14 日消息，据微博博主 @数码闲聊站 今日透露，加加 16（一加 16）手机的操控“又是往前卷了一大步”：落地新一代自研灵犀触控芯片，多指采样率做到了 520Hz，行业最高首发新一代高精度大师陀螺仪，采样率首次干到了 800Hz，行业最高 * 2博主表示，这种规格比 PS5 手柄（IT之家注：DualSense）规格“还要猛”。该机还将与 FPS 射击手游工作室、专业赛事选手联合调校，号称是“整个行业独一档的存在”。后续有用户在评论区询问：“充电呢”，博主回复道：“比较快的那种百瓦”；另一名用户则询问道：“看来真是全能水桶机了，价格估计也是突破天际”，博主则回复道：“没关系，大家都贵…… 毕竟 2nm 芯片 + 内存大涨。”据该博主此前爆料，一加 16 手机电池定版或为 9000mAh，是新一波旗舰手机的最大容量。该机还用了 OPPO 聚能芯片，支持低压放电，不用担心锁容问题。除此之外，该机预计还将拥有骁龙 8 Elite Extreme Gen6 芯片、2 亿像素大底影像、185Hz 超高刷游戏、独一档硬件级全局 165Hz 高刷体验、9K 大电池等，主打“全能旗",
       "source": "ITHome",
       "source_authority": 0.75,
       "date": "2026-09-14",
-      "score": 0.695
+      "score": 0.7575
     },
     {
       "title": "Some in Silicon Valley Are Questioning the Calls for an A.I. Slowdown",
@@ -168,14 +188,14 @@
   ],
   "category4": [
     {
-      "title": "法拉第未来预告北京时间 9 月 20 日举办 EAI 机器人“四核全智”新品发布会，将打造“美国最全机器人矩阵”",
-      "url": "https://www.ithome.com/1/001/904.htm",
-      "summary": "IT之家 9 月 14 日消息，法拉第未来发文，宣布将于美西时间 9 月 19 日下午 5 点（北京时间 9 月 20 日早上 8 点）举办 EAI 机器人“四核全智”新品发布会，官方称将在发布会中推出“9 款机器人本体新品”，相应产品将在发布后直接上市。法拉第未来表示，全部新品落地之后，FF 会成为美国本土机器人本体型号最全的企业，完成“一脑多形、多形多能 FF EAI 机器人世界”2.0 版本搭建，为不同行业场景提供硬件支撑。除了 9 款本体，法拉第未来还将同步推出 4 套完整行业解决方案，分别面向 K12 教育、科研、安防、巡检场景。不再只卖机器人硬件，直接打包整套落地服务，降低客户上手部署的门槛。发布会结束之后，官方还将于 9 月 28 日还会举办招商大会下半场，重点对接上游供应链伙伴，推进美国本土制造合作。",
-      "detail": "IT之家 9 月 14 日消息，法拉第未来发文，宣布将于美西时间 9 月 19 日下午 5 点（北京时间 9 月 20 日早上 8 点）举办 EAI 机器人“四核全智”新品发布会，官方称将在发布会中推出“9 款机器人本体新品”，相应产品将在发布后直接上市。法拉第未来表示，全部新品落地之后，FF 会成为美国本土机器人本体型号最全的企业，完成“一脑多形、多形多能 FF EAI 机器人世界”2.0 版本搭建，为不同行业场景提供硬件支撑。除了 9 款本体，法拉第未来还将同步推出 4 套完整行业解决方案，分别面向 K12 教育、科研、安防、巡检场景。不再只卖机器人硬件，直接打包整套落地服务，降低客户上手部署的门槛。发布会结束之后，官方还将于 9 月 28 日还会举办招商大会下半场，重点对接上游供应链伙伴，推进美国本土制造合作。",
+      "title": "近距离看赛博无人驾驶电动车，特斯拉 Cybercab 官宣入华展览",
+      "url": "https://www.ithome.com/1/002/018.htm",
+      "summary": "IT之家 9 月 14 日消息，特斯拉官方今日宣布 Cybercab 将入华展览，游客可以近距离看赛博无人驾驶电动车。9 月 17 日-27 日：北京 · 华贸特斯拉体验店9 月 17 日-21 日：上海 · 兴业太古汇 LG1 层北厅该车型最初于 2024 年 10 月在特斯拉“We, Robot”活动中首次以概念车身份亮相，2026 年 2 月首台量产车在得州超级工厂下线，4 月启动正式量产，从概念发布到量产落地历时约 18 个月。其采用的拆箱式制造工艺通过子组件并行生产、再进行总装的方式，提升了生产效率并优化了制造成本。据IT之家此前报道，特斯拉专为自动驾驶打造的双座车型 Cybercab 已经开始在美国得克萨斯州搭载付费乘客，而埃隆 · 马斯克近日释放了一个信号：欧洲城市或许不必再等待太久，就有机会体验 Cybercab 无人驾驶出行服务。",
+      "detail": "IT之家 9 月 14 日消息，特斯拉官方今日宣布 Cybercab 将入华展览，游客可以近距离看赛博无人驾驶电动车。9 月 17 日-27 日：北京 · 华贸特斯拉体验店9 月 17 日-21 日：上海 · 兴业太古汇 LG1 层北厅该车型最初于 2024 年 10 月在特斯拉“We, Robot”活动中首次以概念车身份亮相，2026 年 2 月首台量产车在得州超级工厂下线，4 月启动正式量产，从概念发布到量产落地历时约 18 个月。其采用的拆箱式制造工艺通过子组件并行生产、再进行总装的方式，提升了生产效率并优化了制造成本。据IT之家此前报道，特斯拉专为自动驾驶打造的双座车型 Cybercab 已经开始在美国得克萨斯州搭载付费乘客，而埃隆 · 马斯克近日释放了一个信号：欧洲城市或许不必再等待太久，就有机会体验 Cybercab 无人驾驶出行服务。",
       "source": "ITHome",
       "source_authority": 0.75,
       "date": "2026-09-14",
-      "score": 0.8475
+      "score": 0.9125
     },
     {
       "title": "How autonomous fleets are changing what’s possible in American agriculture",
@@ -186,6 +206,26 @@
       "source_authority": 0.85,
       "date": "2026-09-13",
       "score": 0.775
+    },
+    {
+      "title": "成交均价过百万！消息称鸿蒙智行尊界周度交付重新回到 700 台",
+      "url": "https://www.ithome.com/1/002/020.htm",
+      "summary": "IT之家 9 月 14 日消息，博主 @孙少军09 今日发文透露，尊界周度交付重新回到 700 台，同时成交均价过 100 万元。有网友询问：“S800 现在每周有多少订单，是不是已经没有什么人买了？”博主回复称：“上周开始涨回来了。”据IT之家此前报道，江汽集团本月初发文宣布，从 2025 年规模交付以来，鸿蒙智行尊界 S800 连续 10 个月稳居百万豪车销冠，累计交付新车将在 9 月突破 20,000 台。尊界是华为与江淮汽车采用鸿蒙智行模式合作推出的豪华汽车品牌，旗下首款车型为尊界 S800 轿车，发布于去年 5 月，当时售价区间 70.8 万-101.8 万元。该车拥有 4 个激光雷达、前向 13 个传感器，后向 11 个传感器，侧向 8 个传感器。今年 8 月底，尊界 V800 / V680 旗舰 MPV、尊界 S800 Grand Design 典藏大观宣布开启交付，前者指导价 64.8 万元起，后者指导价 138.8 万元起。",
+      "detail": "IT之家 9 月 14 日消息，博主 @孙少军09 今日发文透露，尊界周度交付重新回到 700 台，同时成交均价过 100 万元。有网友询问：“S800 现在每周有多少订单，是不是已经没有什么人买了？”博主回复称：“上周开始涨回来了。”据IT之家此前报道，江汽集团本月初发文宣布，从 2025 年规模交付以来，鸿蒙智行尊界 S800 连续 10 个月稳居百万豪车销冠，累计交付新车将在 9 月突破 20,000 台。尊界是华为与江淮汽车采用鸿蒙智行模式合作推出的豪华汽车品牌，旗下首款车型为尊界 S800 轿车，发布于去年 5 月，当时售价区间 70.8 万-101.8 万元。该车拥有 4 个激光雷达、前向 13 个传感器，后向 11 个传感器，侧向 8 个传感器。今年 8 月底，尊界 V800 / V680 旗舰 MPV、尊界 S800 Grand Design 典藏大观宣布开启交付，前者指导价 64.8 万元起，后者指导价 138.8 万元起。",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-09-14",
+      "score": 0.7575
+    },
+    {
+      "title": "鸿蒙智行智界 R7 焕新款「星玫粉」官图发布：柔润粉调融合细腻珠光，新车本月开启预订",
+      "url": "https://www.ithome.com/1/002/021.htm",
+      "summary": "IT之家 9 月 14 日消息，智界汽车执行董事及执行副总裁赵长江今日发布了鸿蒙智行智界 R7 焕新款的「星玫粉」官图。赵长江介绍称，智界 R7 焕新款「星玫粉」主打“柔润的粉调融合细腻珠光，温柔又自带独特气质”。值得一提的是，赵长江此次发布的图片显示，新车顶部缺少激光雷达。由此来看，图中的车型就是此前曝光的舱内共光路激光雷达版本。这意味着，焕新款智界 R7 的售价将更加友好，同时消费者后续选购华为乾崑智驾的成本也会进一步降低。据IT之家了解，智界 R7 焕新款采用流光环抱式座舱设计，配备全新 D 型运动方向盘，并换用双联屏方案。同时车机系统也升级了全新一代问界 M9 同款的鸿蒙智行专属 HarmonyOS。新车重新调整了尾门设计，并在 B 柱位置新增了侧向高位摄像头，外观更运动。同时，新车还换用了半隐藏式门把手，车标也改为了镂空式设计，质感有所提升。",
+      "detail": "IT之家 9 月 14 日消息，智界汽车执行董事及执行副总裁赵长江今日发布了鸿蒙智行智界 R7 焕新款的「星玫粉」官图。赵长江介绍称，智界 R7 焕新款「星玫粉」主打“柔润的粉调融合细腻珠光，温柔又自带独特气质”。值得一提的是，赵长江此次发布的图片显示，新车顶部缺少激光雷达。由此来看，图中的车型就是此前曝光的舱内共光路激光雷达版本。这意味着，焕新款智界 R7 的售价将更加友好，同时消费者后续选购华为乾崑智驾的成本也会进一步降低。据IT之家了解，智界 R7 焕新款采用流光环抱式座舱设计，配备全新 D 型运动方向盘，并换用双联屏方案。同时车机系统也升级了全新一代问界 M9 同款的鸿蒙智行专属 HarmonyOS。新车重新调整了尾门设计，并在 B 柱位置新增了侧向高位摄像头，外观更运动。同时，新车还换用了半隐藏式门把手，车标也改为了镂空式设计，质感有所提升。",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-09-14",
+      "score": 0.695
     },
     {
       "title": "10-Year-Old Children Predict the Future",
