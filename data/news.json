@@ -13,17 +13,6 @@
       "score": 0.9775
     },
     {
-      "title": "谷歌调整内部政策，允许全体工程师使用 Anthropic Claude",
-      "url": "https://www.ithome.com/1/002/405.htm",
-      "summary": "IT之家 9 月 15 日消息，据 Business Insider 今日报道，谷歌已向全公司工程师开放 Anthropic Claude 模型的使用权限。在此之前，谷歌通常要求员工使用自家 Gemini。知情人士称，谷歌通过内部开发平台 Antigravity（与外部企业版 Antigravity 功能一致）为员工提供 Anthropic Opus 5 模型。谷歌发言人表示，工程师可在 Antigravity 中访问精选第三方模型，Gemini 仍是内部开发的主要基础模型，第三方模型按配额提供以支持专门用例。Claude 按每用户配额提供，定位为 Gemini 的补充。在此之前，谷歌内部 DeepMind 团队已被允许使用 Claude，部分员工也在高优先级项目中获得授权。谷歌今年早些时候还宣布计划向 Anthropic 投资最高 400 亿美元（IT之家注：现汇率约合 2,690.08 亿元人民币）。尽管谷歌近期推出 Flash 3.8 模型，其在编码能力上仍落后于 Anthropic 和 OpenAI，部分员工对 Gemini 的局限感到沮丧。此前 Claude 仅限特定团队使用",
-      "short_summary": "IT之家 9 月 15 日消息，据 Business Insider 今日报道，谷歌已向全公司工程师开放 Anthrop",
-      "detail": "IT之家 9 月 15 日消息，据 Business Insider 今日报道，谷歌已向全公司工程师开放 Anthropic Claude 模型的使用权限。在此之前，谷歌通常要求员工使用自家 Gemini。知情人士称，谷歌通过内部开发平台 Antigravity（与外部企业版 Antigravity 功能一致）为员工提供 Anthropic Opus 5 模型。谷歌发言人表示，工程师可在 Antigravity 中访问精选第三方模型，Gemini 仍是内部开发的主要基础模型，第三方模型按配额提供以支持专门用例。Claude 按每用户配额提供，定位为 Gemini 的补充。在此之前，谷歌内部 DeepMind 团队已被允许使用 Claude，部分员工也在高优先级项目中获得授权。谷歌今年早些时候还宣布计划向 Anthropic 投资最高 400 亿美元（IT之家注：现汇率约合 2,690.08 亿元人民币）。尽管谷歌近期推出 Flash 3.8 模型，其在编码能力上仍落后于 Anthropic 和 OpenAI，部分员工对 Gemini 的局限感到沮丧。此前 Claude 仅限特定团队使用",
-      "source": "ITHome",
-      "source_authority": 0.75,
-      "date": "2026-09-15",
-      "score": 0.975
-    },
-    {
       "title": "AI-linked stocks slide after tech bosses call for slowdown in ‘reckless’ development",
       "url": "https://www.theguardian.com/business/2026/sep/14/ai-linked-stocks-fall-tech-bosses-call-slowdown-anthropic-openai",
       "summary": "Donald Trump dismisses attempts to increase controls on artificial intelligence as ‘sick conspiracy’  AI-linked stocks tumbled on Monday after the bosses of Anthropic, OpenAI and SpaceX called for a slowdown in AI “reckless” development, citing fears the technology could soon run out of control.Shares in the semiconductor designer Nvidia – the world’s most valuable company – were down 3.3% by market closing in New York City, while Advanced Micro Devices (AMD) slid 4% and Micron Technology and Sa",
@@ -33,6 +22,17 @@
       "source_authority": 0.85,
       "date": "2026-09-15",
       "score": 0.9575
+    },
+    {
+      "title": "微软 CEO 纳德拉发布警告：AI 必须处于人类控制之下，支持更广泛的第三方测试",
+      "url": "https://www.ithome.com/1/002/526.htm",
+      "summary": "IT之家 9 月 15 日消息，当地时间 9 月 14 日晚，微软 CEO 萨提亚 · 纳德拉在公司留言板发布内部备忘录，就 AI 行业是否发展过快发表看法。他表示，AI 应保持在人类控制之下，支持更广泛的第三方测试，并警告公司必须花时间确保技术安全。“随着风险升高，人们应该需要多少时间就花多少时间。”“否则，你无论如何都会失去运营许可。”此前，一些 AI 研究人员上周警告称，AI 技术可能杀死所有人。周末，Anthropic CEO 达里奥 · 阿莫代伊提议放缓 AI 开发，并表示公司会允许外部监控其模型进展。OpenAI CEO 萨姆 · 奥尔特曼同意第三方监控，并支持在必要时放缓部署，以确保对齐和安全。微软周一还发布了 37 页的“人文主义”AI 模型行为准则草案。微软 AI 负责人穆斯塔法 · 苏莱曼写道：“我们长期在理论上担心的事情，已经变得非常真实。”纳德拉在备忘录中提出三个重点领域。第一，明确设计目标：AI 必须处于人类控制之下，并广泛惠益社会。这意味着要打造一个能让开源和闭源模型都能繁荣的前沿生态，并在调整方向时谨慎把握节奏。纳德拉将这种节奏类比为发布前的研发和测试。他",
+      "short_summary": "IT之家 9 月 15 日消息，当地时间 9 月 14 日晚，微软 CEO 萨提亚 · 纳德拉在公司留言板发布内部备忘录",
+      "detail": "IT之家 9 月 15 日消息，当地时间 9 月 14 日晚，微软 CEO 萨提亚 · 纳德拉在公司留言板发布内部备忘录，就 AI 行业是否发展过快发表看法。他表示，AI 应保持在人类控制之下，支持更广泛的第三方测试，并警告公司必须花时间确保技术安全。“随着风险升高，人们应该需要多少时间就花多少时间。”“否则，你无论如何都会失去运营许可。”此前，一些 AI 研究人员上周警告称，AI 技术可能杀死所有人。周末，Anthropic CEO 达里奥 · 阿莫代伊提议放缓 AI 开发，并表示公司会允许外部监控其模型进展。OpenAI CEO 萨姆 · 奥尔特曼同意第三方监控，并支持在必要时放缓部署，以确保对齐和安全。微软周一还发布了 37 页的“人文主义”AI 模型行为准则草案。微软 AI 负责人穆斯塔法 · 苏莱曼写道：“我们长期在理论上担心的事情，已经变得非常真实。”纳德拉在备忘录中提出三个重点领域。第一，明确设计目标：AI 必须处于人类控制之下，并广泛惠益社会。这意味着要打造一个能让开源和闭源模型都能繁荣的前沿生态，并在调整方向时谨慎把握节奏。纳德拉将这种节奏类比为发布前的研发和测试。他",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-09-15",
+      "score": 0.9225
     },
     {
       "title": "The AI industry has taken a doomer turn. What now?",
@@ -68,17 +68,6 @@
       "score": 0.9075
     },
     {
-      "title": "白宫科技顾问抨击 Anthropic 和 OpenAI：你们要自己制造安全产品，别老想着靠政府干预",
-      "url": "https://www.ithome.com/1/002/409.htm",
-      "summary": "IT之家 9 月 15 日消息，据彭博社今日报道，美国总统科学与技术顾问委员会联合主席戴维 · 萨克斯（David Sack）当地时间周一在接受采访时表示，顶级人工智能公司 Anthropic 和 OpenAI 应当制造安全产品 —— 并在必要时按自己的进度推进，无需政府干预。萨克斯表示，他同意前联邦贸易委员会主席莉娜 · 可汗（Lina Khan）周日在社交媒体上的一篇帖子中表示，大型人工智能公司因其模型面临产品责任，如果制造不安全的技术，可能面临民事甚至刑事诉讼。萨克斯还抨击了 Anthropic CEO 达里奥 · 阿莫迪（Dario Amodei）上周末发表的一篇文章。阿莫迪在文中呼吁企业放缓 AI 发展步伐，并建议美国政府给予 Anthropic 及其竞争对手反垄断豁免，以便它们就协调放缓发展所需的“安全对话”进行沟通。据IT之家 9 月 14 日报道，萨克斯还曾在自己的社交账号炮轰 OpenAI、Anthropic：别再假装你们放缓发展的动机完全出于“对别人好”。如果你们的产品导致真正具有破坏性的网络攻击，你们将面临巨大责任风险。市场本身已经在惩罚那些行为不可预测或未经授权",
-      "short_summary": "IT之家 9 月 15 日消息，据彭博社今日报道，美国总统科学与技术顾问委员会联合主席戴维 · 萨克斯（David Sa",
-      "detail": "IT之家 9 月 15 日消息，据彭博社今日报道，美国总统科学与技术顾问委员会联合主席戴维 · 萨克斯（David Sack）当地时间周一在接受采访时表示，顶级人工智能公司 Anthropic 和 OpenAI 应当制造安全产品 —— 并在必要时按自己的进度推进，无需政府干预。萨克斯表示，他同意前联邦贸易委员会主席莉娜 · 可汗（Lina Khan）周日在社交媒体上的一篇帖子中表示，大型人工智能公司因其模型面临产品责任，如果制造不安全的技术，可能面临民事甚至刑事诉讼。萨克斯还抨击了 Anthropic CEO 达里奥 · 阿莫迪（Dario Amodei）上周末发表的一篇文章。阿莫迪在文中呼吁企业放缓 AI 发展步伐，并建议美国政府给予 Anthropic 及其竞争对手反垄断豁免，以便它们就协调放缓发展所需的“安全对话”进行沟通。据IT之家 9 月 14 日报道，萨克斯还曾在自己的社交账号炮轰 OpenAI、Anthropic：别再假装你们放缓发展的动机完全出于“对别人好”。如果你们的产品导致真正具有破坏性的网络攻击，你们将面临巨大责任风险。市场本身已经在惩罚那些行为不可预测或未经授权",
-      "source": "ITHome",
-      "source_authority": 0.75,
-      "date": "2026-09-15",
-      "score": 0.8975
-    },
-    {
       "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
       "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
       "summary": "Glass Imaging was founded by a pair of former Apple engineers who previously led the team that developed Apple's Portrait Mode.",
@@ -101,57 +90,68 @@
       "score": 0.8525
     },
     {
-      "title": "Australia’s outdated technology is vulnerable to AI hacking attacks, signals chief says",
-      "url": "https://www.theguardian.com/australia-news/2026/sep/15/australias-outdated-technology-is-vulnerable-to-ai-hacking-attacks-signals-chief-says",
-      "summary": "Abigail Bradshaw says ‘enormous’ amounts of money required to update systems that people now expect to be constantly availableFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastOne of Australia’s top intelligence agencies has warned that AI attacks could exploit the country’s old technology, as the government negotiates its guardrails on artificial intelligence’s rapid development.The chief of Anthropic, developer of Claude, has warne",
-      "short_summary": "Abigail Bradshaw says ‘enormous’ amounts of money required t",
-      "detail": "Abigail Bradshaw says ‘enormous’ amounts of money required to update systems that people now expect to be constantly availableFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastOne of Australia’s top intelligence agencies has warned that AI attacks could exploit the country’s old technology, as the government negotiates its guardrails on artificial intelligence’s rapid development.The chief of Anthropic, developer of Claude, has warne",
+      "title": "Only at TechCrunch Disrupt 2026: What happens when OpenAI ships your roadmap?",
+      "url": "https://techcrunch.com/2026/09/14/only-at-techcrunch-disrupt-2026-what-happens-when-openai-ships-your-roadmap/",
+      "summary": "If you're building an AI company, the question isn't whether foundation models will continue to evolve. It's whether your company will continue creating value as they do. Don't miss this interactive session on the Builders Stage at TechCrunch Disrupt 2026.",
+      "short_summary": "If you're building an AI company, the question isn't whether",
+      "detail": "If you're building an AI company, the question isn't whether foundation models will continue to evolve. It's whether your company will continue creating value as they do. Don't miss this interactive session on the Builders Stage at TechCrunch Disrupt 2026.",
+      "source": "TechCrunch",
+      "source_authority": 0.95,
+      "date": "2026-09-14",
+      "score": 0.815
+    },
+    {
+      "title": "China dismisses AI ‘fearmongering’ as spy chief warns of threat to Communist party rule",
+      "url": "https://www.theguardian.com/world/2026/sep/14/china-dismisses-ai-fearmongering-as-spy-chief-warns-of-threat-to-communist-party-rule",
+      "summary": "Beijing hits back after Anthropic CEO calls for US to impede China’s progress in AIChina has dismissed what it said were “fearmongering” calls for the US to block Beijing’s AI industry, even as the top Chinese spy chief warned the evolving technology could threaten Communist party rule.The US tech entrepreneur and Anthropic chief executive, Dario Amodei, wrote an essay published over the weekend that called for a global slowdown in AI capabilities, but also said Washington should actively impede",
+      "short_summary": "Beijing hits back after Anthropic CEO calls for US to impede",
+      "detail": "Beijing hits back after Anthropic CEO calls for US to impede China’s progress in AIChina has dismissed what it said were “fearmongering” calls for the US to block Beijing’s AI industry, even as the top Chinese spy chief warned the evolving technology could threaten Communist party rule.The US tech entrepreneur and Anthropic chief executive, Dario Amodei, wrote an essay published over the weekend that called for a global slowdown in AI capabilities, but also said Washington should actively impede",
       "source": "The Guardian",
       "source_authority": 0.85,
-      "date": "2026-09-14",
-      "score": 0.825
+      "date": "2026-09-15",
+      "score": 0.795
     }
   ],
   "category2": [
     {
-      "title": "小米澎程车主画像曝光：30~45 岁，男性比例 80%，增换购 80%",
-      "url": "https://www.ithome.com/1/002/385.htm",
-      "summary": "IT之家 9 月 15 日消息，小米澎程系列 SUV 于 9 月 7 日晚发布，4 分钟锁单突破 1 万台。9 月 12 日，小米澎程 SUV 开启首批交付。博主 @孙少军09 今日发文，曝光了小米澎程汽车的车主画像，年龄段为 30~45 岁，男性比例 80%，增换购比例 80%。博主称，小米澎程车主以家庭客户为主，油车考虑增购比例较高，看重空间和续航，与 SU7、YU7 客户基本不重叠，不少客户长期观望澎程系列，上市试驾后才陆续锁单。此外，小米澎程 N90 Max 探索版传播破圈，吸引大量之前不了解小米澎程的客户到店，包括自由职业者和考虑长途旅游的用户，带动部分片区订单明显上涨。博主还称，北方地区订单比例较高，浙江全国销量最高，山东地区单店订单第一，四川周度单店第一。展车预售就已到店，上市后试驾车带动周末进店试驾量突破 YU7 历史纪录，热度持续稳定。配置选择方面：N70：25%N90：60%N90 探索版：15%外观主销颜色：火山灰，曜石黑内饰主销颜色：砂陶米综合IT之家此前报道，小米澎程系列包含小米澎程 N70 Pro、N70 Max、N90 Max、N90 Max 探索版四款车",
-      "short_summary": "IT之家 9 月 15 日消息，小米澎程系列 SUV 于 9 月 7 日晚发布，4 分钟锁单突破 1 万台。9 月 12",
-      "detail": "IT之家 9 月 15 日消息，小米澎程系列 SUV 于 9 月 7 日晚发布，4 分钟锁单突破 1 万台。9 月 12 日，小米澎程 SUV 开启首批交付。博主 @孙少军09 今日发文，曝光了小米澎程汽车的车主画像，年龄段为 30~45 岁，男性比例 80%，增换购比例 80%。博主称，小米澎程车主以家庭客户为主，油车考虑增购比例较高，看重空间和续航，与 SU7、YU7 客户基本不重叠，不少客户长期观望澎程系列，上市试驾后才陆续锁单。此外，小米澎程 N90 Max 探索版传播破圈，吸引大量之前不了解小米澎程的客户到店，包括自由职业者和考虑长途旅游的用户，带动部分片区订单明显上涨。博主还称，北方地区订单比例较高，浙江全国销量最高，山东地区单店订单第一，四川周度单店第一。展车预售就已到店，上市后试驾车带动周末进店试驾量突破 YU7 历史纪录，热度持续稳定。配置选择方面：N70：25%N90：60%N90 探索版：15%外观主销颜色：火山灰，曜石黑内饰主销颜色：砂陶米综合IT之家此前报道，小米澎程系列包含小米澎程 N70 Pro、N70 Max、N90 Max、N90 Max 探索版四款车",
+      "title": "谷歌拟精细化安卓高级保护功能，拆分 USB 保护、入侵检测等",
+      "url": "https://www.ithome.com/1/002/527.htm",
+      "summary": "IT之家 9 月 15 日消息，科技媒体 Android Authority 昨日（9 月 14 日）发布博文，报道称谷歌计划为安卓“高级保护”（Advanced Protection）引入更精细化的控制选项，支持单独启用 USB 保护、入侵检测等。IT之家注：在安卓 16 设备上，用户启用该功能之后，设备会启用防盗措施、应用限制、网络防护和网页安全等一系列设备级安全功能。谷歌强调，该功能可以帮助用户轻松提升安全水平，避免常见威胁或疏忽导致的数据泄露。不过在安卓 16 系统中，除了入侵日志记录功能外，高级保护功能采用“要么全开要么全关”模式。该媒体通过挖掘 Google Play Service 版本 26.36.30，发现谷歌正准备在高级保护设置页面中添加“专家功能”部分。根据该媒体分享的截图，谷歌不再强制关联高级保护功能，用户可以在“专家功能”中单独启用 / 禁用入侵检测、USB 保护和不安全的 Wi-Fi 网络。根据字符串，谷歌表示：“专家功能提供更高级别的保护，但可能会有一些额外的限制。”<string name=\"aapm_expert_mode_opt_in_dialog_",
+      "short_summary": "IT之家 9 月 15 日消息，科技媒体 Android Authority 昨日（9 月 14 日）发布博文，报道称谷",
+      "detail": "IT之家 9 月 15 日消息，科技媒体 Android Authority 昨日（9 月 14 日）发布博文，报道称谷歌计划为安卓“高级保护”（Advanced Protection）引入更精细化的控制选项，支持单独启用 USB 保护、入侵检测等。IT之家注：在安卓 16 设备上，用户启用该功能之后，设备会启用防盗措施、应用限制、网络防护和网页安全等一系列设备级安全功能。谷歌强调，该功能可以帮助用户轻松提升安全水平，避免常见威胁或疏忽导致的数据泄露。不过在安卓 16 系统中，除了入侵日志记录功能外，高级保护功能采用“要么全开要么全关”模式。该媒体通过挖掘 Google Play Service 版本 26.36.30，发现谷歌正准备在高级保护设置页面中添加“专家功能”部分。根据该媒体分享的截图，谷歌不再强制关联高级保护功能，用户可以在“专家功能”中单独启用 / 禁用入侵检测、USB 保护和不安全的 Wi-Fi 网络。根据字符串，谷歌表示：“专家功能提供更高级别的保护，但可能会有一些额外的限制。”<string name=\"aapm_expert_mode_opt_in_dialog_",
       "source": "ITHome",
       "source_authority": 0.75,
       "date": "2026-09-15",
       "score": 0.7575
     },
     {
-      "title": "28 天倒计时：微软提醒 Office 2021 LTSC 于 10 月 13 日结束支持",
-      "url": "https://www.ithome.com/1/002/406.htm",
-      "summary": "IT之家 9 月 15 日消息，科技媒体 NeoWin 昨日（9 月 14 日）发布博文，报道称微软已提醒仍在使用 Office LTSC 2021 的用户，该生产力套件将于 2026 年 10 月 13 日（倒计时 28 天）结束支持。在影响产品方面，IT之家援引博文介绍，在结束支持后将影响 10 款 Office LTSC 2021 产品：Access LTSC 2021Excel LTSC 2021OneNote LTSC 2021Outlook LTSC 2021PowerPoint LTSC 2021Project LTSC 2021Publisher LTSC 2021Skype for Business LTSC 2021Visio LTSC 2021Word LTSC 2021微软提示继续使用该版本可能面临安全漏洞风险，在结束支持后，微软不会再为新发现的问题提供官方修复。对于仍需离线部署或不适合云端版本的用户，结束支持后该版本依然能正常运行，但不再享有官方功能与安全保障。对于规模不超过 300 个席位的小型组织，微软建议迁移至 Microsoft 365 Busines",
-      "short_summary": "IT之家 9 月 15 日消息，科技媒体 NeoWin 昨日（9 月 14 日）发布博文，报道称微软已提醒仍在使用 Of",
-      "detail": "IT之家 9 月 15 日消息，科技媒体 NeoWin 昨日（9 月 14 日）发布博文，报道称微软已提醒仍在使用 Office LTSC 2021 的用户，该生产力套件将于 2026 年 10 月 13 日（倒计时 28 天）结束支持。在影响产品方面，IT之家援引博文介绍，在结束支持后将影响 10 款 Office LTSC 2021 产品：Access LTSC 2021Excel LTSC 2021OneNote LTSC 2021Outlook LTSC 2021PowerPoint LTSC 2021Project LTSC 2021Publisher LTSC 2021Skype for Business LTSC 2021Visio LTSC 2021Word LTSC 2021微软提示继续使用该版本可能面临安全漏洞风险，在结束支持后，微软不会再为新发现的问题提供官方修复。对于仍需离线部署或不适合云端版本的用户，结束支持后该版本依然能正常运行，但不再享有官方功能与安全保障。对于规模不超过 300 个席位的小型组织，微软建议迁移至 Microsoft 365 Busines",
+      "title": "惠普战 X Pro 锐龙版上市：锐龙 AI 9 HX Pro 470、64GB + 2TB 存储，29999 元",
+      "url": "https://www.ithome.com/1/002/515.htm",
+      "summary": "IT之家 9 月 15 日消息，惠普战 X Pro 14 2026 锐龙版现已在京东上架开售，采用高雅尊爵蓝配色，搭载 AMD 锐龙 AI 9 HX Pro 470 处理器，配备 64GB 内存、2TB 固态硬盘，定价 29999 元。京东惠普（HP）战 X Pro 14 英寸 2026 轻薄办公笔记本电脑全新 AMD 锐龙 AI 9HX Pro 470 64G 2T OLED 2.8K 意外险蓝色 29999 元直达链接2026 年数码家电政府补贴持续进行中，IT 之家为大家汇总国补领券地址，买数码家电之前记得领取。数码补贴：点此领券手机 / 平板 / 3C 数码支持 8.5 折政府补贴，不超过 6000 元的产品至高立减 500 元。家电补贴：点此领券多类家电支持 8.5 折政府补贴，单品至高补贴 1500 元。欢迎下载最会买 App - 好货好价，高额返利，1 毛钱也能提现！扫描二维码或点击此处下载最新版（自动识别平台）。这款产品定位高性能 AI 旗舰商务本，采用镁合金锻造机身，整机重约 1.119kg 起。该机配备 14 英寸防眩光 OLED 屏，支持 2880×1800 分辨",
+      "short_summary": "IT之家 9 月 15 日消息，惠普战 X Pro 14 2026 锐龙版现已在京东上架开售，采用高雅尊爵蓝配色，搭载 ",
+      "detail": "IT之家 9 月 15 日消息，惠普战 X Pro 14 2026 锐龙版现已在京东上架开售，采用高雅尊爵蓝配色，搭载 AMD 锐龙 AI 9 HX Pro 470 处理器，配备 64GB 内存、2TB 固态硬盘，定价 29999 元。京东惠普（HP）战 X Pro 14 英寸 2026 轻薄办公笔记本电脑全新 AMD 锐龙 AI 9HX Pro 470 64G 2T OLED 2.8K 意外险蓝色 29999 元直达链接2026 年数码家电政府补贴持续进行中，IT 之家为大家汇总国补领券地址，买数码家电之前记得领取。数码补贴：点此领券手机 / 平板 / 3C 数码支持 8.5 折政府补贴，不超过 6000 元的产品至高立减 500 元。家电补贴：点此领券多类家电支持 8.5 折政府补贴，单品至高补贴 1500 元。欢迎下载最会买 App - 好货好价，高额返利，1 毛钱也能提现！扫描二维码或点击此处下载最新版（自动识别平台）。这款产品定位高性能 AI 旗舰商务本，采用镁合金锻造机身，整机重约 1.119kg 起。该机配备 14 英寸防眩光 OLED 屏，支持 2880×1800 分辨",
       "source": "ITHome",
       "source_authority": 0.75,
       "date": "2026-09-15",
       "score": 0.7325
     },
     {
-      "title": "Texas governor threatens to penalize datacenters not obeying water laws",
-      "url": "https://www.theguardian.com/us-news/2026/sep/14/greg-abbott-texas-datacenter-water-laws",
-      "summary": "Republican Greg Abbott says datacenters must help ‘protect’ drought-prone state and disclose water useGreg Abbott, the Texas governor, has directed state regulators to penalize datacenters that fail to comply with state laws requiring them to disclose their water use.“Data centers must share the duty to protect Texas water,” the Republican governor said on Monday. “The Texas Water Code requires a complete and accurate water use survey. I direct the Texas Water Development Board to use its enforc",
-      "short_summary": "Republican Greg Abbott says datacenters must help ‘protect’ ",
-      "detail": "Republican Greg Abbott says datacenters must help ‘protect’ drought-prone state and disclose water useGreg Abbott, the Texas governor, has directed state regulators to penalize datacenters that fail to comply with state laws requiring them to disclose their water use.“Data centers must share the duty to protect Texas water,” the Republican governor said on Monday. “The Texas Water Code requires a complete and accurate water use survey. I direct the Texas Water Development Board to use its enforc",
+      "title": "Digital ID comes of age as pubs and bars get go-ahead for biometric scan tech",
+      "url": "https://www.theguardian.com/business/2026/sep/15/pubs-and-bars-get-go-ahead-digital-id-biometric-scan-tech",
+      "summary": "New laws coming into force this week aim to streamline age checks although old-style plastic IDs will still be allowedYounger drinkers in England and Wales will be able to prove their age with a digital ID starting this week as new laws give pubs, off-licences, nightclubs and restaurants the right to use biometric scanning technology to check customers are over 18.Customers will be able to download software that scans their faces into their own phone to generate a QR code proving their age based",
+      "short_summary": "New laws coming into force this week aim to streamline age c",
+      "detail": "New laws coming into force this week aim to streamline age checks although old-style plastic IDs will still be allowedYounger drinkers in England and Wales will be able to prove their age with a digital ID starting this week as new laws give pubs, off-licences, nightclubs and restaurants the right to use biometric scanning technology to check customers are over 18.Customers will be able to download software that scans their faces into their own phone to generate a QR code proving their age based",
       "source": "The Guardian",
       "source_authority": 0.85,
       "date": "2026-09-15",
       "score": 0.705
     },
     {
-      "title": "小米 18 Pro 系列手机官宣搭载全新百变背屏",
-      "url": "https://www.ithome.com/1/002/418.htm",
-      "summary": "IT之家 9 月 15 日消息，小米 18 Pro 系列手机今日官宣将于本月发布，这是小米数字系列有史以来升级最大的一次，在性能、影像、续航、AI 能力等方面均有显著提升。小米手机官方预热，小米 18 Pro 系列迎来全新百变背屏，还称“明日敬请期待”。IT之家注意到，小米官方晒出一段预热视频，背屏显示彩色呼吸灯，中心显示“生成中”三个字，预计是和 AI 生成内容相关。据小米官方介绍，去年发布的妙享背屏受到欢迎。用户每日在背屏上使用各类应用卡片的次数超过 400 万次，背屏壁纸单日添加量超过 350 万次。▲ 小米 17 Pro 图赏小米集团合伙人 & 总裁、手机部总裁、小米品牌总经理卢伟冰表示，用户对背屏的需求非常多样化。今年小米将采用更先进的方案，让背屏体验“爆发式”丰富起来。",
-      "short_summary": "IT之家 9 月 15 日消息，小米 18 Pro 系列手机今日官宣将于本月发布，这是小米数字系列有史以来升级最大的一次",
-      "detail": "IT之家 9 月 15 日消息，小米 18 Pro 系列手机今日官宣将于本月发布，这是小米数字系列有史以来升级最大的一次，在性能、影像、续航、AI 能力等方面均有显著提升。小米手机官方预热，小米 18 Pro 系列迎来全新百变背屏，还称“明日敬请期待”。IT之家注意到，小米官方晒出一段预热视频，背屏显示彩色呼吸灯，中心显示“生成中”三个字，预计是和 AI 生成内容相关。据小米官方介绍，去年发布的妙享背屏受到欢迎。用户每日在背屏上使用各类应用卡片的次数超过 400 万次，背屏壁纸单日添加量超过 350 万次。▲ 小米 17 Pro 图赏小米集团合伙人 & 总裁、手机部总裁、小米品牌总经理卢伟冰表示，用户对背屏的需求非常多样化。今年小米将采用更先进的方案，让背屏体验“爆发式”丰富起来。",
+      "title": "苹果 54 项 iOS / iPadOS 27 隐藏新功能 / 新特性汇总：打磨细节、聚焦 AI",
+      "url": "https://www.ithome.com/1/002/524.htm",
+      "summary": "IT之家 9 月 15 日消息，MacStories 主编费德里科 · 维蒂奇（Federico Viticci）今天（9 月 15 日）发布博文，梳理汇总了 54 条苹果 iOS / iPadOS 27 系统的隐藏新功能 / 新特性。整体体验方面，维蒂奇认为 iOS 27 不像 iOS 26 更新那样强调视觉变化，以提升性能表现和可靠性，以及打磨细节为主，并聚焦 AI 功能，在照片、Siri AI、备忘录、Safari 等方面，部分新功能 / 新特性可能会改变用户日常交互流程。IT之家翻译相关内容如下：一、Photos1、“相机胶卷”以筛选形式回归照片 App 的图库（Library）新增“Captured by Me（我拍摄的）”筛选：开启后，只展示由本机拍摄的照片和视频，不混入截图、网页保存图片或其他来源的媒体。它本质上是给用户重新提供一个更接近旧版“相机胶卷”的干净视图，不过它不能设成默认视图；每次退出并重新打开照片 App 后，需要重新开启筛选。2、从视频保存单帧照片播放视频时暂停，点击右上角“…”并选择“Save Video Frame as Photos”（将视频帧存为照",
+      "short_summary": "IT之家 9 月 15 日消息，MacStories 主编费德里科 · 维蒂奇（Federico Viticci）今天（",
+      "detail": "IT之家 9 月 15 日消息，MacStories 主编费德里科 · 维蒂奇（Federico Viticci）今天（9 月 15 日）发布博文，梳理汇总了 54 条苹果 iOS / iPadOS 27 系统的隐藏新功能 / 新特性。整体体验方面，维蒂奇认为 iOS 27 不像 iOS 26 更新那样强调视觉变化，以提升性能表现和可靠性，以及打磨细节为主，并聚焦 AI 功能，在照片、Siri AI、备忘录、Safari 等方面，部分新功能 / 新特性可能会改变用户日常交互流程。IT之家翻译相关内容如下：一、Photos1、“相机胶卷”以筛选形式回归照片 App 的图库（Library）新增“Captured by Me（我拍摄的）”筛选：开启后，只展示由本机拍摄的照片和视频，不混入截图、网页保存图片或其他来源的媒体。它本质上是给用户重新提供一个更接近旧版“相机胶卷”的干净视图，不过它不能设成默认视图；每次退出并重新打开照片 App 后，需要重新开启筛选。2、从视频保存单帧照片播放视频时暂停，点击右上角“…”并选择“Save Video Frame as Photos”（将视频帧存为照",
       "source": "ITHome",
       "source_authority": 0.75,
       "date": "2026-09-15",
@@ -226,6 +226,17 @@
   ],
   "category3": [
     {
+      "title": "国家统计局：截至 6 月末我国已建成 70 余条算力大通道",
+      "url": "https://www.ithome.com/1/002/511.htm",
+      "summary": "IT之家 9 月 15 日消息，国务院新闻办公室今日上午召开新闻发布会，国家统计局相关负责人介绍 8 月份国民经济运行情况，并答记者问。据央视新闻报道，发布会上介绍，今年是“十五五”开局之年，包括“六张网”在内的一批重大工程项目陆续开工建设，跨区域交通干线、能源水利重大工程、新型基础设施、城市更新等项目有序推进，对高质量发展的支撑作用有望进一步凸显。前八个月，与“六张网”相关的互联网和相关服务业投资同比增长 42%，航空运输业、水上运输业投资分别增长 16.7% 和 14.7%，电力供应业投资增长 12.7%，数据显示，截至 6 月末，我国已经围绕算力枢纽建成 70 余条算力大通道。IT之家注：“六张网”是 2026 年 4 月中央政治局会议提出的建设方向，包括水网、新型电网、算力网、新一代通信网、城市地下管网、物流网等，是“十五五”规划提出的重大工程。",
+      "short_summary": "IT之家 9 月 15 日消息，国务院新闻办公室今日上午召开新闻发布会，国家统计局相关负责人介绍 8 月份国民经济运行情",
+      "detail": "IT之家 9 月 15 日消息，国务院新闻办公室今日上午召开新闻发布会，国家统计局相关负责人介绍 8 月份国民经济运行情况，并答记者问。据央视新闻报道，发布会上介绍，今年是“十五五”开局之年，包括“六张网”在内的一批重大工程项目陆续开工建设，跨区域交通干线、能源水利重大工程、新型基础设施、城市更新等项目有序推进，对高质量发展的支撑作用有望进一步凸显。前八个月，与“六张网”相关的互联网和相关服务业投资同比增长 42%，航空运输业、水上运输业投资分别增长 16.7% 和 14.7%，电力供应业投资增长 12.7%，数据显示，截至 6 月末，我国已经围绕算力枢纽建成 70 余条算力大通道。IT之家注：“六张网”是 2026 年 4 月中央政治局会议提出的建设方向，包括水网、新型电网、算力网、新一代通信网、城市地下管网、物流网等，是“十五五”规划提出的重大工程。",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-09-15",
+      "score": 0.8225
+    },
+    {
       "title": "Voting rights advocates welcome supreme court decision to stop Trump administration from restricting mail ballots– as it happened",
       "url": "https://www.theguardian.com/us-news/live/2026/sep/14/donald-trump-mail-in-voting-supreme-court-blocked-ukraine-oil-diplomat-latest-news-updates",
       "summary": "This live blog is now closed.Supreme court rejects Trump’s mail ballot restrictions for midterm electionsSign up for the Breaking News US emailDonald Trump has claimed there is a “SICK conspiracy” against artificial intelligence and data centers in response to the growing calls for greater checks on AI development.“The only control or ‘guardrails’ that AI needs is a STRONG AND SMART (High IQ!) PRESIDENT, and the U.S.A. has that, in spades!” Trump wrote on Truth Social, insisting that the adminis",
@@ -235,6 +246,28 @@
       "source_authority": 0.85,
       "date": "2026-09-15",
       "score": 0.705
+    },
+    {
+      "title": "Slimbook 推出 CUBE 多功能 NAS，提供桌面与机架形态",
+      "url": "https://www.ithome.com/1/002/497.htm",
+      "summary": "IT之家 9 月 15 日消息，西班牙 Linux 兼容硬件制造商 Slimbook 当地时间 14 日宣布推出多功能电脑 CUBE。其支持存储、备份、私有云、媒体中心、个人服务器、家庭实验室等应用场景，面向家庭用户、开发者、Linux 爱好者、小型企业。CUBE 基于 AMD 锐龙 7 8845HS 处理器，提供桌面形态的 NAS CUBE 和 2U 机架形态的 RACK CUBE 两种形态，均提供 1 个 USB-C 40Gbps、3 个 USB-A 5Gbps、4 个 2.5GbE RJ-45，支持 Linux、Windows 和 TrueNAS。两种版本的 CUBE AMD 8845HS 均具备 2 个 PCIe Gen4 的 M.2 盘位，NAS CUBE 拥有 8 个 3.5\" 盘位、RACK CUBE 拥有 4 个 3.5\" 盘位，标配 16GB DDR5 内存、500GB SSD 存储，税后到手价 1,222 欧元（IT之家注：现汇率约合 9,487 元人民币）。",
+      "short_summary": "IT之家 9 月 15 日消息，西班牙 Linux 兼容硬件制造商 Slimbook 当地时间 14 日宣布推出多功能电",
+      "detail": "IT之家 9 月 15 日消息，西班牙 Linux 兼容硬件制造商 Slimbook 当地时间 14 日宣布推出多功能电脑 CUBE。其支持存储、备份、私有云、媒体中心、个人服务器、家庭实验室等应用场景，面向家庭用户、开发者、Linux 爱好者、小型企业。CUBE 基于 AMD 锐龙 7 8845HS 处理器，提供桌面形态的 NAS CUBE 和 2U 机架形态的 RACK CUBE 两种形态，均提供 1 个 USB-C 40Gbps、3 个 USB-A 5Gbps、4 个 2.5GbE RJ-45，支持 Linux、Windows 和 TrueNAS。两种版本的 CUBE AMD 8845HS 均具备 2 个 PCIe Gen4 的 M.2 盘位，NAS CUBE 拥有 8 个 3.5\" 盘位、RACK CUBE 拥有 4 个 3.5\" 盘位，标配 16GB DDR5 内存、500GB SSD 存储，税后到手价 1,222 欧元（IT之家注：现汇率约合 9,487 元人民币）。",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-09-15",
+      "score": 0.695
+    },
+    {
+      "title": "国补后 38499 元七彩虹灵创 K16 顶配版开售：AMD 锐龙 AI Max+ 395，128GB 内存 + 4TB 存储",
+      "url": "https://www.ithome.com/1/002/482.htm",
+      "summary": "IT之家 9 月 15 日消息，七彩虹旗下灵创 K16 游戏本新推出的 128GB RAM + 4TB SSD 版本现已开售。该机搭载 AMD 锐龙 AI Max+ 395 处理器，定价为 39999 元，叠加国补后 38499 元。京东七彩虹灵创 K16 笔记本 128GB RAM + 4TB SSD 版本 39999 元直达链接2026 年数码家电政府补贴持续进行中，IT 之家为大家汇总国补领券地址，买数码家电之前记得领取。数码补贴：点此领券手机 / 平板 / 3C 数码支持 8.5 折政府补贴，不超过 6000 元的产品至高立减 500 元。家电补贴：点此领券多类家电支持 8.5 折政府补贴，单品至高补贴 1500 元。欢迎下载最会买 App - 好货好价，高额返利，1 毛钱也能提现！扫描二维码或点击此处下载最新版（自动识别平台）。该机 B 面配备一块 2560x1600 分辨率 165Hz IPS 面板（覆盖 100% sRGB 色域，亮度 500 尼特），C 面采用 4 区 RGB 背光数字小键盘和机械师玻璃触控板。笔记本同时带有 2W 立体扬声器。该机采用 16 核心 32",
+      "short_summary": "IT之家 9 月 15 日消息，七彩虹旗下灵创 K16 游戏本新推出的 128GB RAM + 4TB SSD 版本现已",
+      "detail": "IT之家 9 月 15 日消息，七彩虹旗下灵创 K16 游戏本新推出的 128GB RAM + 4TB SSD 版本现已开售。该机搭载 AMD 锐龙 AI Max+ 395 处理器，定价为 39999 元，叠加国补后 38499 元。京东七彩虹灵创 K16 笔记本 128GB RAM + 4TB SSD 版本 39999 元直达链接2026 年数码家电政府补贴持续进行中，IT 之家为大家汇总国补领券地址，买数码家电之前记得领取。数码补贴：点此领券手机 / 平板 / 3C 数码支持 8.5 折政府补贴，不超过 6000 元的产品至高立减 500 元。家电补贴：点此领券多类家电支持 8.5 折政府补贴，单品至高补贴 1500 元。欢迎下载最会买 App - 好货好价，高额返利，1 毛钱也能提现！扫描二维码或点击此处下载最新版（自动识别平台）。该机 B 面配备一块 2560x1600 分辨率 165Hz IPS 面板（覆盖 100% sRGB 色域，亮度 500 尼特），C 面采用 4 区 RGB 背光数字小键盘和机械师玻璃触控板。笔记本同时带有 2W 立体扬声器。该机采用 16 核心 32",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-09-15",
+      "score": 0.695
     },
     {
       "title": "Nvidia’s Jensen Huang Gets Onstage Call From Trump, Who Dismissed A.I. Safety Concerns",
@@ -272,15 +305,26 @@
   ],
   "category4": [
     {
-      "title": "Waymo 扩大美国无人驾驶网约车服务版图，将拉斯维加斯纳入运营范围",
-      "url": "https://www.ithome.com/1/002/400.htm",
-      "summary": "IT之家 9 月 15 日消息，Waymo 正在加速扩大无人驾驶网约车服务的覆盖范围。继近期宣布进入美国田纳西州纳什维尔后，该公司宣布将拉斯维加斯纳入运营版图。目前 Waymo 的服务已覆盖包括丹佛、圣迭戈和纳什维尔在内的多个美国城市。Waymo 表示，当地无人驾驶网约车服务使用由极氪（Zeekr）代工生产的 Waymo Ojai 车型，该车可容纳 4 名乘客，用户可以乘车前往赌场、Sphere 球形场馆、Allegiant Stadium 体育场等热门地点。目前 Waymo 尚未公布拉斯维加斯具体的运营范围和道路限制，预计初期仍会受到地理围栏等条件限制，部分车辆也可能暂时无法直接驶入高速公路。不过考虑到拉斯维加斯当地市政府相当支持无人驾驶网约车服务，后续 Waymo 有望快速在当地扩大相应服务运营能力。",
-      "short_summary": "IT之家 9 月 15 日消息，Waymo 正在加速扩大无人驾驶网约车服务的覆盖范围。继近期宣布进入美国田纳西州纳什维尔",
-      "detail": "IT之家 9 月 15 日消息，Waymo 正在加速扩大无人驾驶网约车服务的覆盖范围。继近期宣布进入美国田纳西州纳什维尔后，该公司宣布将拉斯维加斯纳入运营版图。目前 Waymo 的服务已覆盖包括丹佛、圣迭戈和纳什维尔在内的多个美国城市。Waymo 表示，当地无人驾驶网约车服务使用由极氪（Zeekr）代工生产的 Waymo Ojai 车型，该车可容纳 4 名乘客，用户可以乘车前往赌场、Sphere 球形场馆、Allegiant Stadium 体育场等热门地点。目前 Waymo 尚未公布拉斯维加斯具体的运营范围和道路限制，预计初期仍会受到地理围栏等条件限制，部分车辆也可能暂时无法直接驶入高速公路。不过考虑到拉斯维加斯当地市政府相当支持无人驾驶网约车服务，后续 Waymo 有望快速在当地扩大相应服务运营能力。",
+      "title": "比尔 · 盖茨：中美大模型各有 4 家能够保持最先进水平，中国人形机器人运动会非常有意思",
+      "url": "https://www.ithome.com/1/002/520.htm",
+      "summary": "今日，盖茨基金会掏出 10 亿美元“砸”向人工智能，宣布将在未来两年花费重金，推动这项前沿技术不只为富人服务，也能帮最贫困的人改变命运。在发布前夕，新浪科技与盖茨基金会主席比尔 · 盖茨展开了一场小范围对话。在交流中，盖茨不仅高度评价“中国大模型表现非常出色”，剖析开源技术对于全球贫困地区的重要意义，还就外界关心的“数据中心耗电与环保焦虑”“AI 对就业市场的冲击”以及“中国人形机器人发展”等热点话题分享了观点。他曾直言，商业资本容易忽略市场失灵与社会隐患，“AI 要么成为人类有史以来最厉害的平等促进工具，要么就会变成加剧不公的最大根源”。他同时呼吁，需建立全球管理框架，重新平衡劳动与资本的关系，AI 红利应惠及所有人，而不只流向少数富人。本次对话他还多次提到了中国。例如评价了中国刚刚举办的人形机器人运动会，他对赛事的成功表示惊叹，“我觉得非常有意思，而且办得非常好，仅仅是这场赛事本身，就令人难以置信”。同时还提及了中国的人工智能，认为其“表现非常出色”，预计中美前沿大模型的能力在六个月后会达到“今天的两倍以上”。当新浪科技追问对中国开源大模型的具体评估时，他表示，“根据不同的衡量方式",
+      "short_summary": "今日，盖茨基金会掏出 10 亿美元“砸”向人工智能，宣布将在未来两年花费重金，推动这项前沿技术不只为富人服务，也能帮最贫",
+      "detail": "今日，盖茨基金会掏出 10 亿美元“砸”向人工智能，宣布将在未来两年花费重金，推动这项前沿技术不只为富人服务，也能帮最贫困的人改变命运。在发布前夕，新浪科技与盖茨基金会主席比尔 · 盖茨展开了一场小范围对话。在交流中，盖茨不仅高度评价“中国大模型表现非常出色”，剖析开源技术对于全球贫困地区的重要意义，还就外界关心的“数据中心耗电与环保焦虑”“AI 对就业市场的冲击”以及“中国人形机器人发展”等热点话题分享了观点。他曾直言，商业资本容易忽略市场失灵与社会隐患，“AI 要么成为人类有史以来最厉害的平等促进工具，要么就会变成加剧不公的最大根源”。他同时呼吁，需建立全球管理框架，重新平衡劳动与资本的关系，AI 红利应惠及所有人，而不只流向少数富人。本次对话他还多次提到了中国。例如评价了中国刚刚举办的人形机器人运动会，他对赛事的成功表示惊叹，“我觉得非常有意思，而且办得非常好，仅仅是这场赛事本身，就令人难以置信”。同时还提及了中国的人工智能，认为其“表现非常出色”，预计中美前沿大模型的能力在六个月后会达到“今天的两倍以上”。当新浪科技追问对中国开源大模型的具体评估时，他表示，“根据不同的衡量方式",
       "source": "ITHome",
       "source_authority": 0.75,
       "date": "2026-09-15",
-      "score": 0.86
+      "score": 0.9225
+    },
+    {
+      "title": "Waymo 自动驾驶出租车商业服务目标 2027 年正式登陆日本东京市场",
+      "url": "https://www.ithome.com/1/002/484.htm",
+      "summary": "IT之家 9 月 15 日消息，Alphabet 旗下自动驾驶企业 Waymo 当地时间 14 日宣布，其 Robotaxi 商业服务目标于 2027 年正式在日本东京市场全面推出，具体时间表取决于日本国家与地方政府的监管批准。Waymo 早在 2024 年 12 月就宣布了进军日本的计划，并从 2025 年开始与出租车企业日本交通、出行平台 GO 合作进行有监督的自动驾驶实地测试训练。该服务将进一步完善东京交通网络，助力日本应对交通行业的人口老龄化和未来劳动力短缺问题。Waymo 在东京的 Robotaxi 商业部署将从少量车辆开始，随后逐步扩展至约 100 辆，覆盖东京的主要街区。",
+      "short_summary": "IT之家 9 月 15 日消息，Alphabet 旗下自动驾驶企业 Waymo 当地时间 14 日宣布，其 Robota",
+      "detail": "IT之家 9 月 15 日消息，Alphabet 旗下自动驾驶企业 Waymo 当地时间 14 日宣布，其 Robotaxi 商业服务目标于 2027 年正式在日本东京市场全面推出，具体时间表取决于日本国家与地方政府的监管批准。Waymo 早在 2024 年 12 月就宣布了进军日本的计划，并从 2025 年开始与出租车企业日本交通、出行平台 GO 合作进行有监督的自动驾驶实地测试训练。该服务将进一步完善东京交通网络，助力日本应对交通行业的人口老龄化和未来劳动力短缺问题。Waymo 在东京的 Robotaxi 商业部署将从少量车辆开始，随后逐步扩展至约 100 辆，覆盖东京的主要街区。",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-09-15",
+      "score": 0.855
     },
     {
       "title": "Report covers advances in surgical robots, deploying warehouse automation in the real world",
