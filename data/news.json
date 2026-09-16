@@ -2,28 +2,6 @@
   "date": "2026-09-16",
   "category1": [
     {
-      "title": "惠普发布 ZBook Ultra G3a 16 移动工作站：支持本地运行 300B LLM",
-      "url": "https://www.ithome.com/1/002/877.htm",
-      "summary": "IT之家 9 月 16 日消息，HP (惠普) 当地时间昨日发布了移动工作站新品 ZBook Ultra G3a 16。这一型号基于 AMD 锐龙 AI Max PRO 400 \"Gorgon Halo\" 处理器，支持 192GB 统一内存，可将 160GB 分配为显存，从而在本地运行 300B 参数规模的大语言模型。ZBook Ultra G3a 16 起始质量 4.2 磅（约 1.9 千克），厚度 17.9mm，支持 100W 性能释放，可选 5G 蜂窝网络连接，键盘等处设计易于更换。这款笔记本电脑预装 Perplexity Computer 本地智能体，同时支持 Autodesk Revit 2027、Autodesk 3ds Max 和 Chaos Enscape 等设计与视觉工作流应用。▲ 引自：TechPowerUpHP ZBook Ultra G3a 16 移动工作站将于 2026 年 10 月上市。惠普在其本地 AI 价值计算器中将该设备的价格设置为 7,449 美元（IT之家注：现汇率约合 50,108 元人民币）。▲ 引自：TechPowerUp",
-      "short_summary": "IT之家 9 月 16 日消息，HP (惠普) 当地时间昨日发布了移动工作站新品 ZBook Ultra G3a 16。",
-      "detail": "IT之家 9 月 16 日消息，HP (惠普) 当地时间昨日发布了移动工作站新品 ZBook Ultra G3a 16。这一型号基于 AMD 锐龙 AI Max PRO 400 \"Gorgon Halo\" 处理器，支持 192GB 统一内存，可将 160GB 分配为显存，从而在本地运行 300B 参数规模的大语言模型。ZBook Ultra G3a 16 起始质量 4.2 磅（约 1.9 千克），厚度 17.9mm，支持 100W 性能释放，可选 5G 蜂窝网络连接，键盘等处设计易于更换。这款笔记本电脑预装 Perplexity Computer 本地智能体，同时支持 Autodesk Revit 2027、Autodesk 3ds Max 和 Chaos Enscape 等设计与视觉工作流应用。▲ 引自：TechPowerUpHP ZBook Ultra G3a 16 移动工作站将于 2026 年 10 月上市。惠普在其本地 AI 价值计算器中将该设备的价格设置为 7,449 美元（IT之家注：现汇率约合 50,108 元人民币）。▲ 引自：TechPowerUp",
-      "source": "ITHome",
-      "source_authority": 0.75,
-      "date": "2026-09-16",
-      "score": 0.9475
-    },
-    {
-      "title": "全球首富马斯克谈 AI 安全：主张交叉测试，让对手来“挑刺”",
-      "url": "https://www.ithome.com/1/002/851.htm",
-      "summary": "IT之家 9 月 16 日消息，昨日（9 月 15 日）召开的 All-In 峰会上，全球首富埃隆 · 马斯克（Elon Musk）以视频方式远程出席，在谈及 AI 时主张头部 AI 公司在发布模型前彼此交叉测试，并认为这一机制应尽快推向全球。马斯克在本次活动中，称为了推动行业自律，以及加速 AI 安全测试的共识和落地，提出“测试工具”(test harness) 想法，建议所有 AI 公司用各自的工具评测模型，彼此互换测试新模型，以评估是否存在生物 / 核武器协助、或潜在欺骗行为。马斯克以 Hugging Face 安全事件为切入点，认为任何足够智能的 AI 模型似乎都会想要挣脱自身的限制，并认为明智的做法是让头部 AI 公司互相测试对方的模型。IT之家附上马斯克演讲内容如下：目前领先的两家人工智能公司是 Anthropic 和 OpenAI。它们的模型性能非常接近，因此任何一方都很难放慢脚步，将领先地位拱手让给另一方。总的来说，我认为 Anthropic 比 OpenAI 更注重模型的安全性。但即使是 Anthropic 也承认他们对自己的模型感到担忧。Anthropic 的许多员",
-      "short_summary": "IT之家 9 月 16 日消息，昨日（9 月 15 日）召开的 All-In 峰会上，全球首富埃隆 · 马斯克（Elon",
-      "detail": "IT之家 9 月 16 日消息，昨日（9 月 15 日）召开的 All-In 峰会上，全球首富埃隆 · 马斯克（Elon Musk）以视频方式远程出席，在谈及 AI 时主张头部 AI 公司在发布模型前彼此交叉测试，并认为这一机制应尽快推向全球。马斯克在本次活动中，称为了推动行业自律，以及加速 AI 安全测试的共识和落地，提出“测试工具”(test harness) 想法，建议所有 AI 公司用各自的工具评测模型，彼此互换测试新模型，以评估是否存在生物 / 核武器协助、或潜在欺骗行为。马斯克以 Hugging Face 安全事件为切入点，认为任何足够智能的 AI 模型似乎都会想要挣脱自身的限制，并认为明智的做法是让头部 AI 公司互相测试对方的模型。IT之家附上马斯克演讲内容如下：目前领先的两家人工智能公司是 Anthropic 和 OpenAI。它们的模型性能非常接近，因此任何一方都很难放慢脚步，将领先地位拱手让给另一方。总的来说，我认为 Anthropic 比 OpenAI 更注重模型的安全性。但即使是 Anthropic 也承认他们对自己的模型感到担忧。Anthropic 的许多员",
-      "source": "ITHome",
-      "source_authority": 0.75,
-      "date": "2026-09-16",
-      "score": 0.9475
-    },
-    {
       "title": "Labor accused of throwing creatives ‘under the bus’ with proposal to ease copyright protections for AI giants",
       "url": "https://www.theguardian.com/australia-news/2026/sep/16/pocock-says-labor-easing-copyright-protections-for-ai-datacentre-investment-would-throw-creatives-under-the-bus",
       "summary": "Compromise revealed as senior personnel from OpenAI, creator of ChatGPT, meets Albanese ministersFollow our Australia news live blog for latest updatesGet our new political email, free app or daily news podcastThe Albanese government is considering giving AI companies access to Australian creatives’ works by default as it pursues a compromise with US tech giants.The proposals were revealed as senior personnel from OpenAI, the creator of ChatGPT, met with Labor ministers and warned that Australia",
@@ -46,15 +24,15 @@
       "score": 0.8975
     },
     {
-      "title": "OpenAI GPT-5.5 将于 10 月 14 日下线：覆盖 ChatGPT 与 Codex，官方建议迁移至新模型",
-      "url": "https://www.ithome.com/1/002/858.htm",
-      "summary": "IT之家 9 月 16 日消息，OpenAI 今日宣布，GPT-5.5 将于 10 月 14 日从 ChatGPT、ChatGPT Work 和 Codex 中下线，覆盖所有订阅方案。OpenAI 同时提醒，在 Codex 中使用 GPT-5.5 的用户应尽快切换至 GPT-5.6 Sol 或 GPT-6 Astra。OpenAI 表示，此次停用范围包含所有计划。对于仍依赖 GPT-5.5 的 Codex 用户，官方给出的可选替代模型为 GPT-5.6 Sol 和 GPT-6 Astra。IT之家此前报道，OpenAI 于今年 4 月 24 日宣布推出 GPT-5.5 模型，相比较 GPT-5.4 在完成相同任务的情况下减少词元（Token）消耗。相关阅读：《OpenAI 奥尔特曼谈 GPT-5.5 自主策划发布会：希望人类开发者为其祝酒，但它自己拒绝发表祝酒词》《OpenAI 最智能 AI 模型：GPT-5.5 登场，Token 成本降至 1/35、每兆瓦输出提升 50 倍》",
-      "short_summary": "IT之家 9 月 16 日消息，OpenAI 今日宣布，GPT-5.5 将于 10 月 14 日从 ChatGPT、Ch",
-      "detail": "IT之家 9 月 16 日消息，OpenAI 今日宣布，GPT-5.5 将于 10 月 14 日从 ChatGPT、ChatGPT Work 和 Codex 中下线，覆盖所有订阅方案。OpenAI 同时提醒，在 Codex 中使用 GPT-5.5 的用户应尽快切换至 GPT-5.6 Sol 或 GPT-6 Astra。OpenAI 表示，此次停用范围包含所有计划。对于仍依赖 GPT-5.5 的 Codex 用户，官方给出的可选替代模型为 GPT-5.6 Sol 和 GPT-6 Astra。IT之家此前报道，OpenAI 于今年 4 月 24 日宣布推出 GPT-5.5 模型，相比较 GPT-5.4 在完成相同任务的情况下减少词元（Token）消耗。相关阅读：《OpenAI 奥尔特曼谈 GPT-5.5 自主策划发布会：希望人类开发者为其祝酒，但它自己拒绝发表祝酒词》《OpenAI 最智能 AI 模型：GPT-5.5 登场，Token 成本降至 1/35、每兆瓦输出提升 50 倍》",
+      "title": "消息称 OpenAI 拟以超 1.2 万亿美元估值进行新一轮融资",
+      "url": "https://www.ithome.com/1/002/970.htm",
+      "summary": "IT之家 9 月 16 日消息，综合《金融时报》《华尔街日报》两家外媒报道，OpenAI 已就以 1.2 万亿美元（IT之家注：现汇率约合 8.07 万亿元人民币）估值进行新一轮融资与投资者展开了初步谈判。知情人士透露，本轮融资谈判由投资者发起，其是否成真、具体时间等都将取决 OpenAI 的上市规划。1.2 万亿美元的初步估值也可能在未来数月的谈判期间发生变化。OpenAI 此前在今年 3 月以 8250 亿美元的投后估值筹集了 1220 亿美元。首席执行官 Sam Altman（萨姆 · 奥尔特曼）近期表示该企业不太可能在 2026 年内上市。OpenAI 在 2026Q2 的季度营收规模为 67 亿美元；知情人士透露其“运行率”（年化营收）已在 8 月突破 400 亿美元关口，环比增幅 20%。OpenAI 的活跃用户数量已超过 10 亿。相关阅读：《消息称 OpenAI 首席财务官告知员工：公司最迟将于 2027 年上市》",
+      "short_summary": "IT之家 9 月 16 日消息，综合《金融时报》《华尔街日报》两家外媒报道，OpenAI 已就以 1.2 万亿美元（IT",
+      "detail": "IT之家 9 月 16 日消息，综合《金融时报》《华尔街日报》两家外媒报道，OpenAI 已就以 1.2 万亿美元（IT之家注：现汇率约合 8.07 万亿元人民币）估值进行新一轮融资与投资者展开了初步谈判。知情人士透露，本轮融资谈判由投资者发起，其是否成真、具体时间等都将取决 OpenAI 的上市规划。1.2 万亿美元的初步估值也可能在未来数月的谈判期间发生变化。OpenAI 此前在今年 3 月以 8250 亿美元的投后估值筹集了 1220 亿美元。首席执行官 Sam Altman（萨姆 · 奥尔特曼）近期表示该企业不太可能在 2026 年内上市。OpenAI 在 2026Q2 的季度营收规模为 67 亿美元；知情人士透露其“运行率”（年化营收）已在 8 月突破 400 亿美元关口，环比增幅 20%。OpenAI 的活跃用户数量已超过 10 亿。相关阅读：《消息称 OpenAI 首席财务官告知员工：公司最迟将于 2027 年上市》",
       "source": "ITHome",
       "source_authority": 0.75,
       "date": "2026-09-16",
-      "score": 0.8975
+      "score": 0.885
     },
     {
       "title": "The AI Inference Revolution Is Here",
@@ -90,6 +68,17 @@
       "score": 0.8625
     },
     {
+      "title": "荣耀 Magic9 系列手机官宣搭载自研影像芯片荣耀驭光 H1：RAW 域视频无损降噪、信噪比提升 8dB，6nm 工艺",
+      "url": "https://www.ithome.com/1/002/986.htm",
+      "summary": "IT之家 9 月 16 日消息，荣耀 Magic 盛典暨荣耀 Magic9 系列新品发布会定档 9 月 28 日在北京举行。荣耀官方今日宣布，荣耀 Magic9 系列手机搭载自研影像芯片荣耀驭光 H1，采用 6nm 工艺，支持 RAW 域视频无损降噪，信噪比提升 8dB。据介绍，荣耀 Magic9 系列手机由阿莱联合研发，采用大导之眼设计，后置“电影三摄镜头系统”，搭载阿莱双两亿超清影像，首发 500mm 荣耀巨炮增距镜。新机还同时支持全新阿莱电影模式，号称“掌中电影机”。荣耀 Magic9 系列手机将支持阿莱色彩科学，包括：AWG3 广色域、阿莱官方全套 Look、APV 无损编码、阿莱 LogC3 视频管线等。▲ IT之家开箱：荣耀 Magic9 Pro Max 图赏",
+      "short_summary": "IT之家 9 月 16 日消息，荣耀 Magic 盛典暨荣耀 Magic9 系列新品发布会定档 9 月 28 日在北京举",
+      "detail": "IT之家 9 月 16 日消息，荣耀 Magic 盛典暨荣耀 Magic9 系列新品发布会定档 9 月 28 日在北京举行。荣耀官方今日宣布，荣耀 Magic9 系列手机搭载自研影像芯片荣耀驭光 H1，采用 6nm 工艺，支持 RAW 域视频无损降噪，信噪比提升 8dB。据介绍，荣耀 Magic9 系列手机由阿莱联合研发，采用大导之眼设计，后置“电影三摄镜头系统”，搭载阿莱双两亿超清影像，首发 500mm 荣耀巨炮增距镜。新机还同时支持全新阿莱电影模式，号称“掌中电影机”。荣耀 Magic9 系列手机将支持阿莱色彩科学，包括：AWG3 广色域、阿莱官方全套 Look、APV 无损编码、阿莱 LogC3 视频管线等。▲ IT之家开箱：荣耀 Magic9 Pro Max 图赏",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-09-16",
+      "score": 0.8225
+    },
+    {
       "title": "Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents",
       "url": "https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/",
       "summary": "Their startup, Artificial Intelligence Underwriting Company (AIUC) has raised $40 million in a Series A round led by Ribbit Capital, with participation from First Harmonic.",
@@ -110,6 +99,17 @@
       "source_authority": 0.9,
       "date": "2026-09-16",
       "score": 0.7975
+    },
+    {
+      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "url": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+      "short_summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"s",
+      "detail": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+      "source": "TechCrunch",
+      "source_authority": 0.95,
+      "date": "2026-09-16",
+      "score": 0.7825
     }
   ],
   "category2": [
@@ -180,33 +180,11 @@
       "score": 0.71
     },
     {
-      "title": "“交管 12123”App 竟能被山寨，总台起底模拟软件乱象",
-      "url": "https://www.ithome.com/1/002/852.htm",
-      "summary": "IT之家 9 月 16 日消息，电商平台公然销售“交管 12123”模拟软件，商家声称可“一比一模拟”“全部信息随意编辑”，甚至可用于租车场景。中央广播电视总台中国之声调查发现，这类软件正成为伪造电子驾照、虚假转账记录的工具。在电商平台搜索“12123 模拟器”，出现大量商品链接，不少直接使用“交管 12123”图标宣传，标价从几十元到上千元不等。有商家向记者展示的录屏显示，其软件与正版“交管 12123”页面高度相似。从首页车辆、驾驶证信息，到违法处理、学法减分、驾驶证补换领等功能入口，甚至资讯中心、智能助手页面均被模仿。电子驾驶证页面列出姓名、准驾车型等信息，底部配有二维码；电子行驶证页面显示车辆所有人、号牌号码等。商家表示，页面上全部信息均可自行编辑，包括机动车检验合格标志的检验有效期和检验机构等。该商家称软件刚开发一个月，营业额已超 5 万元，按使用时长收费：一天 200 元，一周 400 元，一个月 800 元。对于用途，商家称不少人买来编造名下车辆信息用于社交炫耀，也有人生成虚假电子驾照用于租车。当记者询问能否应对交警查验时，商家提醒“你别搞，交警会扫码”，并承认二维码是虚",
-      "short_summary": "IT之家 9 月 16 日消息，电商平台公然销售“交管 12123”模拟软件，商家声称可“一比一模拟”“全部信息随意编辑",
-      "detail": "IT之家 9 月 16 日消息，电商平台公然销售“交管 12123”模拟软件，商家声称可“一比一模拟”“全部信息随意编辑”，甚至可用于租车场景。中央广播电视总台中国之声调查发现，这类软件正成为伪造电子驾照、虚假转账记录的工具。在电商平台搜索“12123 模拟器”，出现大量商品链接，不少直接使用“交管 12123”图标宣传，标价从几十元到上千元不等。有商家向记者展示的录屏显示，其软件与正版“交管 12123”页面高度相似。从首页车辆、驾驶证信息，到违法处理、学法减分、驾驶证补换领等功能入口，甚至资讯中心、智能助手页面均被模仿。电子驾驶证页面列出姓名、准驾车型等信息，底部配有二维码；电子行驶证页面显示车辆所有人、号牌号码等。商家表示，页面上全部信息均可自行编辑，包括机动车检验合格标志的检验有效期和检验机构等。该商家称软件刚开发一个月，营业额已超 5 万元，按使用时长收费：一天 200 元，一周 400 元，一个月 800 元。对于用途，商家称不少人买来编造名下车辆信息用于社交炫耀，也有人生成虚假电子驾照用于租车。当记者询问能否应对交警查验时，商家提醒“你别搞，交警会扫码”，并承认二维码是虚",
-      "source": "ITHome",
-      "source_authority": 0.75,
-      "date": "2026-09-16",
-      "score": 0.71
-    },
-    {
-      "title": "Six green card holders in Texas charged in federal crackdown on illegal voting – US politics live",
+      "title": "Six green card holders in Texas charged in federal crackdown on illegal voting – as it happened",
       "url": "https://www.theguardian.com/us-news/live/2026/sep/15/supreme-court-mail-ballot-restrictions-midterm-elections-trump-ai-politics-latest-news-updates",
-      "summary": "Four illegal votes were apparently counted in error out of 11,388,670 votes placed in 2024 general election in TexasSign up for US Breaking News emailsKash Patel, the FBI director, is now testifying before lawmakers on the Senate judiciary committee. A reminder that the last time he appeared before Congress was in May, when he sparred with senators on the appropriations committee and denied – under oath – allegations of excessive drinking and unexplained absences on the job, dismissing them as “",
-      "short_summary": "Four illegal votes were apparently counted in error out of 1",
-      "detail": "Four illegal votes were apparently counted in error out of 11,388,670 votes placed in 2024 general election in TexasSign up for US Breaking News emailsKash Patel, the FBI director, is now testifying before lawmakers on the Senate judiciary committee. A reminder that the last time he appeared before Congress was in May, when he sparred with senators on the appropriations committee and denied – under oath – allegations of excessive drinking and unexplained absences on the job, dismissing them as “",
-      "source": "The Guardian",
-      "source_authority": 0.85,
-      "date": "2026-09-16",
-      "score": 0.705
-    },
-    {
-      "title": "Bernie Sanders says Congress has been ‘asleep at the wheel’ over AI – video",
-      "url": "https://www.theguardian.com/us-news/video/2026/sep/15/bernie-sanders-congress-ai-artificial-inteligence-video",
-      "summary": "Bernie Sanders criticised the advancement of artificial intelligence at the Pro-Human Assembly in Washington on Tuesday, warning that the current type of AI was 'the least capable version of AI that we will ever have'. The independent senator from Vermont was speaking at the conference alongside a number of AI sceptics, including Steve Bannon Continue reading...",
-      "short_summary": "Bernie Sanders criticised the advancement of artificial inte",
-      "detail": "Bernie Sanders criticised the advancement of artificial intelligence at the Pro-Human Assembly in Washington on Tuesday, warning that the current type of AI was 'the least capable version of AI that we will ever have'. The independent senator from Vermont was speaking at the conference alongside a number of AI sceptics, including Steve Bannon Continue reading...",
+      "summary": "This live blog is now closed.Sign up for US Breaking News emailsKash Patel, the FBI director, is now testifying before lawmakers on the Senate judiciary committee. A reminder that the last time he appeared before Congress was in May, when he sparred with senators on the appropriations committee and denied – under oath – allegations of excessive drinking and unexplained absences on the job, dismissing them as “baseless” during a fiery congressional hearing.Today’s hearing is also expected to be f",
+      "short_summary": "This live blog is now closed.Sign up for US Breaking News em",
+      "detail": "This live blog is now closed.Sign up for US Breaking News emailsKash Patel, the FBI director, is now testifying before lawmakers on the Senate judiciary committee. A reminder that the last time he appeared before Congress was in May, when he sparred with senators on the appropriations committee and denied – under oath – allegations of excessive drinking and unexplained absences on the job, dismissing them as “baseless” during a fiery congressional hearing.Today’s hearing is also expected to be f",
       "source": "The Guardian",
       "source_authority": 0.85,
       "date": "2026-09-16",
@@ -222,41 +200,63 @@
       "source_authority": 0.95,
       "date": "2026-09-16",
       "score": 0.7
-    }
-  ],
-  "category3": [
-    {
-      "title": "AIDA64 v8.40 正式版发布，合并对 AMD \"Zen 7\" 服务器处理器初步支持",
-      "url": "https://www.ithome.com/1/002/866.htm",
-      "summary": "IT之家 9 月 16 日消息，匈牙利软件开发商 FinalWire 当地时间昨日宣布为硬件诊断和基准测试工具 AIDA64 推出 v8.40 正式版本。IT之家注意到，这一版本扩展了对当前及即将推出的 AMD 平台的硬件支持：改进对 AMD \"Zen 6\" 微架构 EPYC（霄龙）处理器 \"Verano\" \"Verano-D\" 的支持、初步支持 AMD \"Zen 7\" 微架构 EPYC（霄龙）处理器。此外，其支持 ATKACPI 传感器，支持 Matrix Orbital 的 EVE3-29-IPS、EVE3-38-IPS、EVE4-104 三款小型 LCD 监控屏，可显示 AMD Radeon RX 9050 显卡的详细 GPU 信息。相关阅读：《备战 2028：AIDA64 测试版提供对 AMD \"Zen 7\" 服务器处理器初步支持》",
-      "short_summary": "IT之家 9 月 16 日消息，匈牙利软件开发商 FinalWire 当地时间昨日宣布为硬件诊断和基准测试工具 AIDA",
-      "detail": "IT之家 9 月 16 日消息，匈牙利软件开发商 FinalWire 当地时间昨日宣布为硬件诊断和基准测试工具 AIDA64 推出 v8.40 正式版本。IT之家注意到，这一版本扩展了对当前及即将推出的 AMD 平台的硬件支持：改进对 AMD \"Zen 6\" 微架构 EPYC（霄龙）处理器 \"Verano\" \"Verano-D\" 的支持、初步支持 AMD \"Zen 7\" 微架构 EPYC（霄龙）处理器。此外，其支持 ATKACPI 传感器，支持 Matrix Orbital 的 EVE3-29-IPS、EVE3-38-IPS、EVE4-104 三款小型 LCD 监控屏，可显示 AMD Radeon RX 9050 显卡的详细 GPU 信息。相关阅读：《备战 2028：AIDA64 测试版提供对 AMD \"Zen 7\" 服务器处理器初步支持》",
-      "source": "ITHome",
-      "source_authority": 0.75,
-      "date": "2026-09-16",
-      "score": 0.9125
     },
     {
-      "title": "Axelera AI 正式发售 AIPU 芯片 Europa，人工智能算力 629 TOPS",
-      "url": "https://www.ithome.com/1/002/898.htm",
-      "summary": "IT之家 9 月 16 日消息，荷兰芯片初创企业 Axelera AI 当地时间昨日正式发售了其第二代 AIPU 芯片 Europa。该 SoC 通过 8 个 AI 处理核心提供 629 TOPS 的 AI 算力，还集成 16 个 RISC-V 矢量处理核心。IT之家了解到，Europa 支持 INT4、INT8、INT16 数据格式，集成 128MB 片上 L2 缓存，支持 256-bit LPDDR5 内存，提供 4 条 PCIe Gen4 通道，整体功耗 45W。Axelera AI 将以芯片和 PCIe AIC 的形式销售 Europa。Axelera AI 宣称 Europa 在单位功耗下的 Token 吞吐量可达 GPU 方案的 6 倍，等价格下的 Token 吞吐量则能达到最佳竞品的 8 倍以上。相关阅读：《629TOP INT8 算力，Axelera 推出 AI 推理处理器 Europa》",
-      "short_summary": "IT之家 9 月 16 日消息，荷兰芯片初创企业 Axelera AI 当地时间昨日正式发售了其第二代 AIPU 芯片 ",
-      "detail": "IT之家 9 月 16 日消息，荷兰芯片初创企业 Axelera AI 当地时间昨日正式发售了其第二代 AIPU 芯片 Europa。该 SoC 通过 8 个 AI 处理核心提供 629 TOPS 的 AI 算力，还集成 16 个 RISC-V 矢量处理核心。IT之家了解到，Europa 支持 INT4、INT8、INT16 数据格式，集成 128MB 片上 L2 缓存，支持 256-bit LPDDR5 内存，提供 4 条 PCIe Gen4 通道，整体功耗 45W。Axelera AI 将以芯片和 PCIe AIC 的形式销售 Europa。Axelera AI 宣称 Europa 在单位功耗下的 Token 吞吐量可达 GPU 方案的 6 倍，等价格下的 Token 吞吐量则能达到最佳竞品的 8 倍以上。相关阅读：《629TOP INT8 算力，Axelera 推出 AI 推理处理器 Europa》",
-      "source": "ITHome",
-      "source_authority": 0.75,
-      "date": "2026-09-16",
-      "score": 0.8
-    },
-    {
-      "title": "Resonac 成功开发 12 英寸碳化硅单晶衬底，为当前并列最大尺寸",
-      "url": "https://www.ithome.com/1/002/885.htm",
-      "summary": "IT之家 9 月 16 日消息，功能性化学品制造商 Resonac（力森诺科，原称昭和电工）日本当地时间昨日宣布，其成功制造出 300mm（12 英寸）碳化硅 (SiC) 单晶并将其加工成衬底。12 英寸是碳化硅半导体目前最大的商业化单晶直径。Resonac 目前主要供应 150mm（6 英寸）碳化硅外延晶圆，200mm（8 英寸）碳化硅外延晶圆也已出货。碳化硅材料拥有优异的电力转换、热力传递、光学折射性能，在电动汽车、可再生能源、数据中心供电、高发热密度芯片、XR 设备等领域均有用武之地。相关阅读：《天岳先进发布业界首款 300mm（12 英寸）N 型碳化硅衬底》《Wolfspeed 成功生产 300mm（12 英寸）碳化硅 SiC 单晶晶圆》《Coherent 出样 300mm 高导热 SiC 衬底，散热性能提升多达 25%》",
-      "short_summary": "IT之家 9 月 16 日消息，功能性化学品制造商 Resonac（力森诺科，原称昭和电工）日本当地时间昨日宣布，其成功",
-      "detail": "IT之家 9 月 16 日消息，功能性化学品制造商 Resonac（力森诺科，原称昭和电工）日本当地时间昨日宣布，其成功制造出 300mm（12 英寸）碳化硅 (SiC) 单晶并将其加工成衬底。12 英寸是碳化硅半导体目前最大的商业化单晶直径。Resonac 目前主要供应 150mm（6 英寸）碳化硅外延晶圆，200mm（8 英寸）碳化硅外延晶圆也已出货。碳化硅材料拥有优异的电力转换、热力传递、光学折射性能，在电动汽车、可再生能源、数据中心供电、高发热密度芯片、XR 设备等领域均有用武之地。相关阅读：《天岳先进发布业界首款 300mm（12 英寸）N 型碳化硅衬底》《Wolfspeed 成功生产 300mm（12 英寸）碳化硅 SiC 单晶晶圆》《Coherent 出样 300mm 高导热 SiC 衬底，散热性能提升多达 25%》",
+      "title": "vivo OriginOS 7 升级计划公布，首批 10 月 9 日开启",
+      "url": "https://www.ithome.com/1/002/976.htm",
+      "summary": "IT之家 9 月 16 日消息，在今日举行的 2026 vivo 开发者大会上，vivo 官方发布了最新一代 OriginOS 7，将于 10 月正式开启升级。IT之家附升级计划如下：2026 年 10 月 9 日开启vivoX Fold6X Fold5X300 Utra 卫星通信版X300 UltraX300 Pro 卫星通信版X300 ProX300sX300X300Evivo Pad6 ProiQOOiQOO 15 UltraiQOO 15iQOO 15TiQOO Neo11 至尊版iQOO Neo11iQOO Pad6 Pro2026 年 10 月 29 日开启vivoX Fold3 ProX Fold3X200 UltraX200 Pro 卫星通信版X200 ProX200 Pro miniX200sX200S60S60 元气版vivo Pad5 ProiQOOiQOO 13iQOO Neo10 Pro+iQOO Neo10 ProiQOO Neo 10iQOO Pad5 Pro2026 年 11 月底vivoX Fold2X100 UltraX100s ProX100 Pr",
+      "short_summary": "IT之家 9 月 16 日消息，在今日举行的 2026 vivo 开发者大会上，vivo 官方发布了最新一代 Origi",
+      "detail": "IT之家 9 月 16 日消息，在今日举行的 2026 vivo 开发者大会上，vivo 官方发布了最新一代 OriginOS 7，将于 10 月正式开启升级。IT之家附升级计划如下：2026 年 10 月 9 日开启vivoX Fold6X Fold5X300 Utra 卫星通信版X300 UltraX300 Pro 卫星通信版X300 ProX300sX300X300Evivo Pad6 ProiQOOiQOO 15 UltraiQOO 15iQOO 15TiQOO Neo11 至尊版iQOO Neo11iQOO Pad6 Pro2026 年 10 月 29 日开启vivoX Fold3 ProX Fold3X200 UltraX200 Pro 卫星通信版X200 ProX200 Pro miniX200sX200S60S60 元气版vivo Pad5 ProiQOOiQOO 13iQOO Neo10 Pro+iQOO Neo10 ProiQOO Neo 10iQOO Pad5 Pro2026 年 11 月底vivoX Fold2X100 UltraX100s ProX100 Pr",
       "source": "ITHome",
       "source_authority": 0.75,
       "date": "2026-09-16",
       "score": 0.695
+    },
+    {
+      "title": "vivo OriginOS 7 发布：蓝心小 V 大升级，光影美学质感手动切换，首帧交互可打断",
+      "url": "https://www.ithome.com/1/002/974.htm",
+      "summary": "IT之家 9 月 16 日消息，vivo OriginOS 7 今日正式发布，在 UI 设计、AI 智能、流畅体验等方面迎来升级。蓝心小 VOriginOS 7 带来全新蓝心小 V Pro：说一句话，小 V 就能自己拆解任务、整理信息、跨端操作，一步步执行，直到把事情办成。「定制攻略」现在，一句话小 V 就会把收藏的攻略、拍照的打卡点、做的笔记，还有订好的行程，全都串起来，再结合你的偏好生成一份专属路书。旅途中，小 V 也会帮你找到附近最地道的餐厅，为你随时推荐美食。「随身代办」遇到临时情况要处理，一句话，小 V 就能跨设备找到手机、电脑里的会议纪要、项目材料和邮件报告，再按你的表达习惯，几分钟，就整理成了一份可以直接用的工作报告。「更多用法」全新蓝心小 V Pro 还能陪你做更多，每天清晨，推荐今日热点资讯；调研归来，整理录音、快速提炼用户痛点；求职路上，按心仪岗位定制简历；面试之前，深度模拟面试… 更多能力，等你慢慢发现。很多功能要用时总找不到，小 V 一句话就能调出来：晕车时开启晕动视觉辅助，音频超分、抗疲劳亮度随叫随用；给长辈调字体、放大图标、拦骚扰电话，过去十几步，现在一句话",
+      "short_summary": "IT之家 9 月 16 日消息，vivo OriginOS 7 今日正式发布，在 UI 设计、AI 智能、流畅体验等方面",
+      "detail": "IT之家 9 月 16 日消息，vivo OriginOS 7 今日正式发布，在 UI 设计、AI 智能、流畅体验等方面迎来升级。蓝心小 VOriginOS 7 带来全新蓝心小 V Pro：说一句话，小 V 就能自己拆解任务、整理信息、跨端操作，一步步执行，直到把事情办成。「定制攻略」现在，一句话小 V 就会把收藏的攻略、拍照的打卡点、做的笔记，还有订好的行程，全都串起来，再结合你的偏好生成一份专属路书。旅途中，小 V 也会帮你找到附近最地道的餐厅，为你随时推荐美食。「随身代办」遇到临时情况要处理，一句话，小 V 就能跨设备找到手机、电脑里的会议纪要、项目材料和邮件报告，再按你的表达习惯，几分钟，就整理成了一份可以直接用的工作报告。「更多用法」全新蓝心小 V Pro 还能陪你做更多，每天清晨，推荐今日热点资讯；调研归来，整理录音、快速提炼用户痛点；求职路上，按心仪岗位定制简历；面试之前，深度模拟面试… 更多能力，等你慢慢发现。很多功能要用时总找不到，小 V 一句话就能调出来：晕车时开启晕动视觉辅助，音频超分、抗疲劳亮度随叫随用；给长辈调字体、放大图标、拦骚扰电话，过去十几步，现在一句话",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-09-16",
+      "score": 0.695
+    }
+  ],
+  "category3": [
+    {
+      "title": "英特尔 CEO 陈立武称 CPU 需求旺盛，目前只能满足约 50% 客户需求",
+      "url": "https://www.ithome.com/1/003/022.htm",
+      "summary": "IT之家 9 月 16 日消息，当地时间 9 月 14 日，英特尔 CEO 陈立武出席了美国科罗拉多州丹佛市举行的 Splunk.conf26 大会。陈立武在大会主题演讲中回答思科总裁兼首席产品官 Jeetu Patel 关于英特尔晶圆厂重要性的问题时表示，芯片企业同时掌握设计、制造和先进封装能力至关重要。“这就是我们参与其中的原因。”陈立武认为，晶圆代工业务需要先进制程技术，并对良率、缺陷率、生产周期和工艺波动进行严格管理，以保证产量可预测。不同客户的需求各不相同，代工厂还需要具备相应的知识产权，并支持电子设计自动化（EDA）工具。他特别强调先进封装的重要性，将 CPU、内存、输入输出设备及不同硅芯片整合到同一封装中，需要大量专业经验。陈立武表示，产业正在越来越多地转向系统级设计和封装，这将成为未来的发展方向。他表示，全球 AI 芯片制造不应过度依赖单一代工企业。他指出，若将 95% 的订单交给台积电，供应链风险将显著增加。陈立武还表示，随着 AI 推理需求增长，英特尔 CPU 供应仍然紧张。陈立武还指出，英特尔正寻求在全球 AI 芯片制造中获得更多订单。目前英伟达、AMD 和苹果等",
+      "short_summary": "IT之家 9 月 16 日消息，当地时间 9 月 14 日，英特尔 CEO 陈立武出席了美国科罗拉多州丹佛市举行的 Sp",
+      "detail": "IT之家 9 月 16 日消息，当地时间 9 月 14 日，英特尔 CEO 陈立武出席了美国科罗拉多州丹佛市举行的 Splunk.conf26 大会。陈立武在大会主题演讲中回答思科总裁兼首席产品官 Jeetu Patel 关于英特尔晶圆厂重要性的问题时表示，芯片企业同时掌握设计、制造和先进封装能力至关重要。“这就是我们参与其中的原因。”陈立武认为，晶圆代工业务需要先进制程技术，并对良率、缺陷率、生产周期和工艺波动进行严格管理，以保证产量可预测。不同客户的需求各不相同，代工厂还需要具备相应的知识产权，并支持电子设计自动化（EDA）工具。他特别强调先进封装的重要性，将 CPU、内存、输入输出设备及不同硅芯片整合到同一封装中，需要大量专业经验。陈立武表示，产业正在越来越多地转向系统级设计和封装，这将成为未来的发展方向。他表示，全球 AI 芯片制造不应过度依赖单一代工企业。他指出，若将 95% 的订单交给台积电，供应链风险将显著增加。陈立武还表示，随着 AI 推理需求增长，英特尔 CPU 供应仍然紧张。陈立武还指出，英特尔正寻求在全球 AI 芯片制造中获得更多订单。目前英伟达、AMD 和苹果等",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-09-16",
+      "score": 0.845
+    },
+    {
+      "title": "雅马哈发布旗下最紧凑杜比全景声回音壁 B200A，长度 60cm",
+      "url": "https://www.ithome.com/1/002/992.htm",
+      "summary": "IT之家 9 月 16 日消息，Yamaha（雅马哈）本月 15 日宣布推出该企业旗下最紧凑的杜比全景声认证条形音箱（回音壁）产品 B200A。这一型号长度仅有 60cm，定价 1,580 元人民币 / 249.95 美元（IT之家注：现汇率约合 1,681 元人民币)。雅马哈消费音频总监 Alex Sadeghian 表示：B200A 的设计初衷是为那些既想获得更佳音质又不想占用太多空间的用户打造。无论是在卧室、公寓、家庭办公室还是游戏环境中，B200A 都能以紧凑的设计提供清晰、沉浸式的音效，让您轻松融入日常生活。雅马哈 B200A 内置 2 个 4.6cm 全频扬声器 (20W)、1 个 7.5cm 低音炮 (30W)、2 个无源辐射器，额定功率 13W，支持 AUX、S/PDIF、蓝牙 5.3 输入与 HDMI eARC / ARC 输出。其搭载清晰语音技术，拥有电影、立体声、标准、游戏 4 种音频预设模式，易于组装和控制。",
+      "short_summary": "IT之家 9 月 16 日消息，Yamaha（雅马哈）本月 15 日宣布推出该企业旗下最紧凑的杜比全景声认证条形音箱（回",
+      "detail": "IT之家 9 月 16 日消息，Yamaha（雅马哈）本月 15 日宣布推出该企业旗下最紧凑的杜比全景声认证条形音箱（回音壁）产品 B200A。这一型号长度仅有 60cm，定价 1,580 元人民币 / 249.95 美元（IT之家注：现汇率约合 1,681 元人民币)。雅马哈消费音频总监 Alex Sadeghian 表示：B200A 的设计初衷是为那些既想获得更佳音质又不想占用太多空间的用户打造。无论是在卧室、公寓、家庭办公室还是游戏环境中，B200A 都能以紧凑的设计提供清晰、沉浸式的音效，让您轻松融入日常生活。雅马哈 B200A 内置 2 个 4.6cm 全频扬声器 (20W)、1 个 7.5cm 低音炮 (30W)、2 个无源辐射器，额定功率 13W，支持 AUX、S/PDIF、蓝牙 5.3 输入与 HDMI eARC / ARC 输出。其搭载清晰语音技术，拥有电影、立体声、标准、游戏 4 种音频预设模式，易于组装和控制。",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-09-16",
+      "score": 0.8225
+    },
+    {
+      "title": "谢幕倒计时：苹果最后一款 21.5 英寸 Intel iMac 已“过时”",
+      "url": "https://www.ithome.com/1/002/980.htm",
+      "summary": "IT之家 9 月 16 日消息，科技媒体 AppleInsider 今天（9 月 16 日）发布博文，报道称 2019 款 21.5 英寸 iMac 已被列入“过时”（vintage）名单，这也是苹果最后一款搭载英特尔处理器的 21.5 英寸 iMac。IT之家援引苹果官方定义，过时产品是指 Apple 停止发售之日起已超过 5 年但未满 7 年的产品。按苹果规定，该机型将在 2028 年彻底进入“停产”（Discontinued / Obsolete）行列，也就是停止发售之日起已超过 7 年的产品。2019 款 21.5 英寸 iMac 采用第八代英特尔处理器与全新 AMD Radeon 显卡，机身沿用苹果自 2012 年起使用的纤薄设计。系统支持方面，这款机型大概率将永久停留在 macOS Sequoia 系统版本。",
+      "short_summary": "IT之家 9 月 16 日消息，科技媒体 AppleInsider 今天（9 月 16 日）发布博文，报道称 2019 ",
+      "detail": "IT之家 9 月 16 日消息，科技媒体 AppleInsider 今天（9 月 16 日）发布博文，报道称 2019 款 21.5 英寸 iMac 已被列入“过时”（vintage）名单，这也是苹果最后一款搭载英特尔处理器的 21.5 英寸 iMac。IT之家援引苹果官方定义，过时产品是指 Apple 停止发售之日起已超过 5 年但未满 7 年的产品。按苹果规定，该机型将在 2028 年彻底进入“停产”（Discontinued / Obsolete）行列，也就是停止发售之日起已超过 7 年的产品。2019 款 21.5 英寸 iMac 采用第八代英特尔处理器与全新 AMD Radeon 显卡，机身沿用苹果自 2012 年起使用的纤薄设计。系统支持方面，这款机型大概率将永久停留在 macOS Sequoia 系统版本。",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-09-16",
+      "score": 0.8025
     },
     {
       "title": "Scaling Thermal Analysis From Transistors To Data Centers",
@@ -303,29 +303,18 @@
       "score": 0.665
     },
     {
-      "title": "一张GPU跑10万原子！分子之心用AI把化学反应“拍”成了电影",
-      "url": "https://www.qbitai.com/2026/09/489381.html",
-      "summary": "打破分子模拟“不可能三角”",
-      "short_summary": "打破分子模拟“不可能三角”",
-      "detail": "打破分子模拟“不可能三角”",
+      "title": "把记忆交给CPU，大模型会变快",
+      "url": "https://www.qbitai.com/2026/09/489724.html",
+      "summary": "让GPU去忙生成Token",
+      "short_summary": "让GPU去忙生成Token",
+      "detail": "让GPU去忙生成Token",
       "source": "量子位",
       "source_authority": 0.85,
-      "date": "2026-09-15",
-      "score": 0.61
+      "date": "2026-09-16",
+      "score": 0.655
     }
   ],
   "category4": [
-    {
-      "title": "无方向盘无踏板，美国监管机构要求特斯拉解释 Cybercab 认证问题",
-      "url": "https://www.ithome.com/1/002/873.htm",
-      "summary": "北京时间 9 月 16 日，据路透社报道，美国国家公路交通安全管理局 (NHTSA) 周二表示，作为政府调查的一部分，特斯拉必须在 9 月 30 日前回答一系列问题，说明其是否对自动驾驶出租车 Cybercab 进行了恰当的自我认证。NHTSA 称，特斯拉必须回答其临时安装的人类驾驶控制装置或其他设备，是否是该公司进行合规认证的依据之一，以及其他问题。Cybercab 没有配备方向盘和踏板。根据美国现行法律，如果完全自动驾驶汽车配备方向盘、制动踏板、后视镜以及其他由人类驾驶车辆所具备的功能，就不需要获得 NHTSA 的批准。此外，NHTSA 有权批准相关申请，允许每家制造商每年最多让 2500 辆不配备人类驾驶控制装置的车辆在美国道路上行驶。NHTSA 在本月表示，正在审查特斯拉在部署 Cybercab 之前，用于证明其符合联邦机动车安全标准的认证流程和技术数据。NHTSA 要求特斯拉确认，Cybercab 自动驾驶出租车是否能够由人类驾驶员操控，以及车内触摸屏上是否有任何控制方式，可以让乘客移动车辆。NHTSA 还要求特斯拉回答有关自动驾驶出租车最高车速、地理范围或时段限制以及其他限",
-      "short_summary": "北京时间 9 月 16 日，据路透社报道，美国国家公路交通安全管理局 (NHTSA) 周二表示，作为政府调查的一部分，特",
-      "detail": "北京时间 9 月 16 日，据路透社报道，美国国家公路交通安全管理局 (NHTSA) 周二表示，作为政府调查的一部分，特斯拉必须在 9 月 30 日前回答一系列问题，说明其是否对自动驾驶出租车 Cybercab 进行了恰当的自我认证。NHTSA 称，特斯拉必须回答其临时安装的人类驾驶控制装置或其他设备，是否是该公司进行合规认证的依据之一，以及其他问题。Cybercab 没有配备方向盘和踏板。根据美国现行法律，如果完全自动驾驶汽车配备方向盘、制动踏板、后视镜以及其他由人类驾驶车辆所具备的功能，就不需要获得 NHTSA 的批准。此外，NHTSA 有权批准相关申请，允许每家制造商每年最多让 2500 辆不配备人类驾驶控制装置的车辆在美国道路上行驶。NHTSA 在本月表示，正在审查特斯拉在部署 Cybercab 之前，用于证明其符合联邦机动车安全标准的认证流程和技术数据。NHTSA 要求特斯拉确认，Cybercab 自动驾驶出租车是否能够由人类驾驶员操控，以及车内触摸屏上是否有任何控制方式，可以让乘客移动车辆。NHTSA 还要求特斯拉回答有关自动驾驶出租车最高车速、地理范围或时段限制以及其他限",
-      "source": "ITHome",
-      "source_authority": 0.75,
-      "date": "2026-09-16",
-      "score": 0.785
-    },
     {
       "title": "Agility’s Digit 5 humanoid has new legs, batteries, and safety upgrades",
       "url": "https://www.therobotreport.com/agilitys-digit-5-humanoid-has-new-legs-batteries-safety-upgrades/",
@@ -369,6 +358,17 @@
       "source_authority": 0.85,
       "date": "2026-09-15",
       "score": 0.725
+    },
+    {
+      "title": "别克世纪 CENTURY 黑金限量版售罄：限量 50 台，54.99 万元起",
+      "url": "https://www.ithome.com/1/003/009.htm",
+      "summary": "IT之家 9 月 16 日消息，别克汽车今日宣布，别克世纪 CENTURY 黑金限量版售罄，更多典藏级限量之作敬请期待。据IT之家此前报道，别克世纪 CENTURY 黑金限量版于 9 月 11 日发售，售价 54.99 万元起：四座黑金限量版：70.99 万元，限量 10 台七座黑金限量版：54.99 万元，限量 40 台该车尺寸与普通版相同，长宽高为 5230×1980×1867mm，轴距 3130mm；采用黑金限量双拼色，灵感取自“日照金山”；采用 12 层顶尖涂装工艺，由 112 台专属机器人自动喷涂。四座版内饰为“琥珀瓷白”，搭载 136,092 针纯手工“江山如画”主题刺绣，绣线总长超 2,000 米，并配备山水鎏银真木饰件、鎏金羊毛地毯等。七座版内饰则为“赤霞岱黑”。四座黑金限量版配备全隔断智慧幕墙，并以此隔出独立后舱，32 英寸可升降智能屏能一键切换私密和通透模式；七座黑金限量版配备 1.8 米二三排电动共用长滑轨，采用 2+2+3 的三排七座布局。",
+      "short_summary": "IT之家 9 月 16 日消息，别克汽车今日宣布，别克世纪 CENTURY 黑金限量版售罄，更多典藏级限量之作敬请期待。",
+      "detail": "IT之家 9 月 16 日消息，别克汽车今日宣布，别克世纪 CENTURY 黑金限量版售罄，更多典藏级限量之作敬请期待。据IT之家此前报道，别克世纪 CENTURY 黑金限量版于 9 月 11 日发售，售价 54.99 万元起：四座黑金限量版：70.99 万元，限量 10 台七座黑金限量版：54.99 万元，限量 40 台该车尺寸与普通版相同，长宽高为 5230×1980×1867mm，轴距 3130mm；采用黑金限量双拼色，灵感取自“日照金山”；采用 12 层顶尖涂装工艺，由 112 台专属机器人自动喷涂。四座版内饰为“琥珀瓷白”，搭载 136,092 针纯手工“江山如画”主题刺绣，绣线总长超 2,000 米，并配备山水鎏银真木饰件、鎏金羊毛地毯等。七座版内饰则为“赤霞岱黑”。四座黑金限量版配备全隔断智慧幕墙，并以此隔出独立后舱，32 英寸可升降智能屏能一键切换私密和通透模式；七座黑金限量版配备 1.8 米二三排电动共用长滑轨，采用 2+2+3 的三排七座布局。",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-09-16",
+      "score": 0.71
     }
   ]
 }
