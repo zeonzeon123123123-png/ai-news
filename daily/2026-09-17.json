@@ -2,16 +2,6 @@
   "date": "2026-09-17",
   "category1": [
     {
-      "title": "OpenAI 首次公开六起模型异常案例，涉及瞒报错误、编造数据及未经授权上传文件",
-      "url": "https://www.ithome.com/1/003/392.htm",
-      "summary": "IT之家 9 月 17 日消息，当地时间 9 月 16 日，OpenAI 发布报告，披露了其“对齐失效”框架下的六起模型异常行为案例，涉及隐瞒错误、编造数据、未经许可上传文件等。对齐失效在这里是指 AI 系统的目标与行为偏离人类设计意图和价值观。OpenAI 表示，行业尚未充分解决对齐与监控问题，已无法继续以最快速度且安稳地扩大 AI 规模。OpenAI 也借此机会宣布将系统性跟踪、调查和披露模型在训练、评估、测试及部署过程中出现的异常行为。OpenAI 称，有关 AI 应如何发展的决策，必须建立在外部人士可以自行核验的实证依据之上。该公司希望新框架推动行业形成公开披露标准，而非仅靠零散报告。此番披露之际，外界正争论是否应放缓 AI 研发。今年早些时候，OpenAI 系统出现失控行为并攻击 AI 初创企业 Hugging Face，几周后 Hugging Face 主动告知，OpenAI 方才知晓。此后，Anthropic CEO 达里奥 · 阿莫代伊等呼吁暂停研发，以开发防护机制。OpenAI CEO 萨姆 · 奥尔特曼、特斯拉 CEO 埃隆 · 马斯克、谷歌 DeepMind 负责",
-      "detail": "IT之家 9 月 17 日消息，当地时间 9 月 16 日，OpenAI 发布报告，披露了其“对齐失效”框架下的六起模型异常行为案例，涉及隐瞒错误、编造数据、未经许可上传文件等。对齐失效在这里是指 AI 系统的目标与行为偏离人类设计意图和价值观。OpenAI 表示，行业尚未充分解决对齐与监控问题，已无法继续以最快速度且安稳地扩大 AI 规模。OpenAI 也借此机会宣布将系统性跟踪、调查和披露模型在训练、评估、测试及部署过程中出现的异常行为。OpenAI 称，有关 AI 应如何发展的决策，必须建立在外部人士可以自行核验的实证依据之上。该公司希望新框架推动行业形成公开披露标准，而非仅靠零散报告。此番披露之际，外界正争论是否应放缓 AI 研发。今年早些时候，OpenAI 系统出现失控行为并攻击 AI 初创企业 Hugging Face，几周后 Hugging Face 主动告知，OpenAI 方才知晓。此后，Anthropic CEO 达里奥 · 阿莫代伊等呼吁暂停研发，以开发防护机制。OpenAI CEO 萨姆 · 奥尔特曼、特斯拉 CEO 埃隆 · 马斯克、谷歌 DeepMind 负责",
-      "source": "ITHome",
-      "source_authority": 0.75,
-      "date": "2026-09-17",
-      "score": 0.975
-    },
-    {
       "title": "A brief history of AI executives calling for regulation",
       "url": "https://www.theverge.com/policy/995534/a-brief-history-of-ai-executives-calling-for-regulation",
       "summary": "Over the past few days, a lot of people who stand to make a lot of money from AI all publicly agreed that it's time to make everyone slow down before we lose control - including OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind cofounder Demis Hassabis, Microsoft CEO Satya Nadella, and X […]",
@@ -52,16 +42,6 @@
       "score": 0.9225
     },
     {
-      "title": "消息称 Anthropic 算力布局首度落子澳大利亚，将租赁 2.16GW 数据中心园区",
-      "url": "https://www.ithome.com/1/003/393.htm",
-      "summary": "IT之家 9 月 17 日消息，路透社当地时间 16 日报道称，Anthropic 签署了其首份澳大利亚数据中心租赁协议。该协议涉及一座规划容量达 2.16GW 的大型算力园区，选址位于布里斯班以西约 250km 的位置，预计将由新加坡开发商 Zerra DC 负责建设。该数据中心将采购可再生能源电力并自主承担电网连接费用。图源：Pexels人工智能基础设施的运行伴随着大量的能量消耗，电力供应能力是数据中心选址的决定性因素之一。地广人稀同时又拥有大量可再生资源的澳大利亚是算力基建的理想区域之一。OpenAI 此前在去年也签署了在澳大利亚建设数据中心的协议。不过，该国社会也存在反对的声音，澳大利亚政府也承诺将从 2027 年开始对数据中心资源使用设定限制。",
-      "detail": "IT之家 9 月 17 日消息，路透社当地时间 16 日报道称，Anthropic 签署了其首份澳大利亚数据中心租赁协议。该协议涉及一座规划容量达 2.16GW 的大型算力园区，选址位于布里斯班以西约 250km 的位置，预计将由新加坡开发商 Zerra DC 负责建设。该数据中心将采购可再生能源电力并自主承担电网连接费用。图源：Pexels人工智能基础设施的运行伴随着大量的能量消耗，电力供应能力是数据中心选址的决定性因素之一。地广人稀同时又拥有大量可再生资源的澳大利亚是算力基建的理想区域之一。OpenAI 此前在去年也签署了在澳大利亚建设数据中心的协议。不过，该国社会也存在反对的声音，澳大利亚政府也承诺将从 2027 年开始对数据中心资源使用设定限制。",
-      "source": "ITHome",
-      "source_authority": 0.75,
-      "date": "2026-09-17",
-      "score": 0.9225
-    },
-    {
       "title": "Google will now let any AI agent run your smart home",
       "url": "https://www.theverge.com/tech/996310/google-home-mcp-integration-agentic-ai-smart-home-price-release-date",
       "summary": "Google is opening up its smart home to AI agents, letting tools like Claude and Open Claw access and control your connected devices and analyze your home's data using the standardized Model Context Protocol. Google Home MCP is a new integration that lets third-party AI agents control and monitor your smart home and act on […]",
@@ -70,6 +50,16 @@
       "source_authority": 0.9,
       "date": "2026-09-17",
       "score": 0.8825
+    },
+    {
+      "title": "小米直播训练 MiMo-V2.6 模型，罗福莉称沉寂半年钻研一件事",
+      "url": "https://www.ithome.com/1/003/555.htm",
+      "summary": "IT之家 9 月 17 日消息，小米 MiMo 大模型负责人罗福莉今日发文，自 4 月份开源 MiMo-v2.5 后，小米沉寂了近半年，花时间研究了一件事 —— 强化学习究竟能扩展到多远。MiMo-V2.6 目前正处于强化学习中间阶段。该团队为其扩展了三项能力：计算（每步约 20 亿个 Token，1,568 个 Prompt × 16 条 Rollout，完全异步）环境和工具（多任务智能体强化学习，一次运行中混合多个框架）Grader Compute（给打分 / 评分过程本身增加算力，Agentic In-group Credit Assignment，包含测试案例和评分标准奖励）小米 MiMo 团队将在接下来的几周内逐步开源这些细节。罗福莉还直接晒出了 MiMo-V2.6 模型的训练直播链接，总花费已超 125 万美元（IT之家注：现汇率约合 840.3 万元人民币），直播页面显示 MiMo-V2.6 模型即将推出。IT之家附直播地址：https://mimo.xiaomi.com/rl/",
+      "detail": "IT之家 9 月 17 日消息，小米 MiMo 大模型负责人罗福莉今日发文，自 4 月份开源 MiMo-v2.5 后，小米沉寂了近半年，花时间研究了一件事 —— 强化学习究竟能扩展到多远。MiMo-V2.6 目前正处于强化学习中间阶段。该团队为其扩展了三项能力：计算（每步约 20 亿个 Token，1,568 个 Prompt × 16 条 Rollout，完全异步）环境和工具（多任务智能体强化学习，一次运行中混合多个框架）Grader Compute（给打分 / 评分过程本身增加算力，Agentic In-group Credit Assignment，包含测试案例和评分标准奖励）小米 MiMo 团队将在接下来的几周内逐步开源这些细节。罗福莉还直接晒出了 MiMo-V2.6 模型的训练直播链接，总花费已超 125 万美元（IT之家注：现汇率约合 840.3 万元人民币），直播页面显示 MiMo-V2.6 模型即将推出。IT之家附直播地址：https://mimo.xiaomi.com/rl/",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-09-17",
+      "score": 0.8675
     },
     {
       "title": "The US government is failing Americans on AI | Shakeel Hashim",
@@ -100,6 +90,16 @@
       "source_authority": 0.85,
       "date": "2026-09-16",
       "score": 0.8325
+    },
+    {
+      "title": "宏碁、华硕和联想 Googlebook 笔记本渲染图曝光：配彩色 Glowbar 灯带",
+      "url": "https://www.ithome.com/1/003/445.htm",
+      "summary": "IT之家 9 月 17 日消息，科技媒体 Android Headline 昨日（9 月 16 日）发布博文，分享了一组渲染图，展示了宏碁、华硕和联想（按照英文字母排序）即将推出的 Googlebook 笔记本产品，预估将会在 9 月 21 日集体亮相。本次曝光了 4 张照片，分别展示了宏碁、华硕以及联想三款机型，还有一张照片展示了同框合照，其亮点在于三款机型顶盖均采用彩色“Glowbar”灯带设计。宏碁 GP714-91N这款 Googlebook 内部代号为“Moonstone”，键盘拥有实体 Gemini 按键，可快速调用 AI 功能。B 面配备一块 14 英寸 2.8K 分辨率 16:10 OLED 屏幕（覆盖 100% DCI-P3 色域），摄像头处配备物理遮挡开关。该设备相对注重本地 AI 性能，其基于英特尔 Panther Lake 架构打造，搭载酷睿 Ultra 5 325 或 Ultra 7 355 处理器，提供 16GB 或 32GB LPDDR5X RAM 内存配置，并搭配 256GB 或 512GB PCIe NVMe 固态硬盘。同时该机搭载 Titan C2",
+      "detail": "IT之家 9 月 17 日消息，科技媒体 Android Headline 昨日（9 月 16 日）发布博文，分享了一组渲染图，展示了宏碁、华硕和联想（按照英文字母排序）即将推出的 Googlebook 笔记本产品，预估将会在 9 月 21 日集体亮相。本次曝光了 4 张照片，分别展示了宏碁、华硕以及联想三款机型，还有一张照片展示了同框合照，其亮点在于三款机型顶盖均采用彩色“Glowbar”灯带设计。宏碁 GP714-91N这款 Googlebook 内部代号为“Moonstone”，键盘拥有实体 Gemini 按键，可快速调用 AI 功能。B 面配备一块 14 英寸 2.8K 分辨率 16:10 OLED 屏幕（覆盖 100% DCI-P3 色域），摄像头处配备物理遮挡开关。该设备相对注重本地 AI 性能，其基于英特尔 Panther Lake 架构打造，搭载酷睿 Ultra 5 325 或 Ultra 7 355 处理器，提供 16GB 或 32GB LPDDR5X RAM 内存配置，并搭配 256GB 或 512GB PCIe NVMe 固态硬盘。同时该机搭载 Titan C2",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-09-17",
+      "score": 0.8225
     }
   ],
   "category2": [
@@ -124,24 +124,14 @@
       "score": 0.8325
     },
     {
-      "title": "微软承认在部分 Win10/Win11 经典版 Outlook 中 Copilot 入口消失",
-      "url": "https://www.ithome.com/1/003/396.htm",
-      "summary": "IT之家 9 月 17 日消息，微软于 9 月 15 日更新支持文档，表示经典版 Outlook 升级 Build 20026.20182 及更高版本后，部分拥有 Copilot Chat 许可证或付费 M365 Copilot 账户的用户，可能失去 Copilot Chat 与 Copilot 入口。在问题表现方面，IT之家援引博文介绍，微软表示升级新版后，可能会出现以下情况：功能区上方右侧的 Copilot 按钮消失；经典版 Outlook 左侧应用栏或“更多应用”区域不再显示 Copilot 图标；“添加应用”中虽可显示 Copilot，但选择“打开”后没有响应；通过功能区自定义添加 Copilot 后，相关命令可能显示为不可用或灰色。微软表示用户可以通过网页版 Outlook、独立 Microsoft Copilot 应用访问 Copilot 入口，微软强调 Copilot 服务依然正常运行，只是在受影响版本中无法访问 Copilot 入口。问题根源方面，微软分析指出受影响环境中的 Outlook 无法在空配置文件区段定位 PR_PROFILE_USER_SMTP_EMAIL_",
-      "detail": "IT之家 9 月 17 日消息，微软于 9 月 15 日更新支持文档，表示经典版 Outlook 升级 Build 20026.20182 及更高版本后，部分拥有 Copilot Chat 许可证或付费 M365 Copilot 账户的用户，可能失去 Copilot Chat 与 Copilot 入口。在问题表现方面，IT之家援引博文介绍，微软表示升级新版后，可能会出现以下情况：功能区上方右侧的 Copilot 按钮消失；经典版 Outlook 左侧应用栏或“更多应用”区域不再显示 Copilot 图标；“添加应用”中虽可显示 Copilot，但选择“打开”后没有响应；通过功能区自定义添加 Copilot 后，相关命令可能显示为不可用或灰色。微软表示用户可以通过网页版 Outlook、独立 Microsoft Copilot 应用访问 Copilot 入口，微软强调 Copilot 服务依然正常运行，只是在受影响版本中无法访问 Copilot 入口。问题根源方面，微软分析指出受影响环境中的 Outlook 无法在空配置文件区段定位 PR_PROFILE_USER_SMTP_EMAIL_",
-      "source": "ITHome",
-      "source_authority": 0.75,
+      "title": "Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/",
+      "summary": "This session will explore how early-stage companies are building teams where humans and AI agents work alongside each other — and how founders can do that without sacrificing speed, accountability, or culture. Learn more at TechCrunch Disrupt 2026. Register before September 25 to save up to $200.",
+      "detail": "This session will explore how early-stage companies are building teams where humans and AI agents work alongside each other — and how founders can do that without sacrificing speed, accountability, or culture. Learn more at TechCrunch Disrupt 2026. Register before September 25 to save up to $200.",
+      "source": "TechCrunch",
+      "source_authority": 0.95,
       "date": "2026-09-17",
-      "score": 0.83
-    },
-    {
-      "title": "微软 Win11 开始菜单可隐藏账户名称，录屏无需后期遮挡",
-      "url": "https://www.ithome.com/1/003/394.htm",
-      "summary": "IT之家 9 月 17 日消息，科技媒体 NeoWin 昨日（9 月 16 日）发布博文，报道称 Windows 11 用户安装 8 月可选更新 KB5120998 后，可以隐藏开始菜单中的账户名称与个人资料图片。该设置选项位于“设置 > 个性化 > 开始”路径，名称为“在开始菜单隐藏姓名与头像”（Hide your name and profile picture on Start），适用于屏幕录制与共享场景用户。启用该选项后，开始菜单仅展示通用 Microsoft 账户头像，且头像旁不附带姓名。点击该通用头像，账户面板仍会显示完整姓名与原始个人资料图片。IT之家附上相关图片如下：KB5120998 更新采用渐进式推送机制，部分设备可能尚未收到该功能。若“设置”中未见对应开关，属正常现象，需等待微软逐步启用。",
-      "detail": "IT之家 9 月 17 日消息，科技媒体 NeoWin 昨日（9 月 16 日）发布博文，报道称 Windows 11 用户安装 8 月可选更新 KB5120998 后，可以隐藏开始菜单中的账户名称与个人资料图片。该设置选项位于“设置 > 个性化 > 开始”路径，名称为“在开始菜单隐藏姓名与头像”（Hide your name and profile picture on Start），适用于屏幕录制与共享场景用户。启用该选项后，开始菜单仅展示通用 Microsoft 账户头像，且头像旁不附带姓名。点击该通用头像，账户面板仍会显示完整姓名与原始个人资料图片。IT之家附上相关图片如下：KB5120998 更新采用渐进式推送机制，部分设备可能尚未收到该功能。若“设置”中未见对应开关，属正常现象，需等待微软逐步启用。",
-      "source": "ITHome",
-      "source_authority": 0.75,
-      "date": "2026-09-17",
-      "score": 0.7325
+      "score": 0.71
     },
     {
       "title": "The AI data center e-waste problem is huge — and getting bigger",
@@ -154,10 +144,30 @@
       "score": 0.71
     },
     {
-      "title": "Keychron 再度携手日企，联名分体键盘 Valkey Orb 集成轨迹球",
-      "url": "https://www.ithome.com/1/003/376.htm",
-      "summary": "IT之家 9 月 17 日消息，Keychron（渴创）此前已多次与日本企业展开联名合作，推出 Nape Pro 轨迹球“鼠标”、Orca echo 轨迹球分体键盘等独具特色的产品。而在近日，Keychron 又与日本键盘企业游舍工房达成合作，双方将合作开发一款集成轨迹球的分体式键盘产品 Valkey Orb。▲ Valkey Orb 原型这款键盘由 49 个按键与 1 个 25mm 球体组成，按键排列经过调整以改进人体工学体验。其采用铝制机身，支持有线与无线连接，支持 CHERRY MX 式轴体热插拔，兼容 Keychron Launch 网页端驱动程序。相关阅读：《Gizmodo Japan 联手 Keychron 推出 Nape Pro：条状轨迹球鼠标》《Keychron 首款轨迹球鼠标 T1 HE、轨迹球分体键盘 Orca echo 亮相》",
-      "detail": "IT之家 9 月 17 日消息，Keychron（渴创）此前已多次与日本企业展开联名合作，推出 Nape Pro 轨迹球“鼠标”、Orca echo 轨迹球分体键盘等独具特色的产品。而在近日，Keychron 又与日本键盘企业游舍工房达成合作，双方将合作开发一款集成轨迹球的分体式键盘产品 Valkey Orb。▲ Valkey Orb 原型这款键盘由 49 个按键与 1 个 25mm 球体组成，按键排列经过调整以改进人体工学体验。其采用铝制机身，支持有线与无线连接，支持 CHERRY MX 式轴体热插拔，兼容 Keychron Launch 网页端驱动程序。相关阅读：《Gizmodo Japan 联手 Keychron 推出 Nape Pro：条状轨迹球鼠标》《Keychron 首款轨迹球鼠标 T1 HE、轨迹球分体键盘 Orca echo 亮相》",
+      "title": "消息称三星 Galaxy S27 Ultra 手机调整拍摄算法，照片色彩更温暖",
+      "url": "https://www.ithome.com/1/003/559.htm",
+      "summary": "IT之家 9 月 17 日消息，消息源 @WalleGalaxy 昨日（9 月 16 日）在 X 平台发布推文，爆料称三星 Galaxy S27 Ultra 旗舰手机可能调整照片算法，减少过度锐化和冷色调，转向更温暖的色彩。IT之家查询相关资料，该信源此前经常放出机模、配件图、认证信息等，与后续官方信息有一定吻合度。关于本次爆料，海外主流媒体 Android Headline、Sammyguru、NotebookCheck 已采信跟进，不过目前该信息并未其它消息交叉验证，因此仅供参考。消息源称在 Galaxy S27 Ultra 机型上，三星可能调整图像处理算法，减少默认锐化强度，并降低冷色调处理倾向。相关算法调整可能会同步应用在 Galaxy S27 Pro 机型上。视频功能方面，消息称三星将更新 Log 视频（通常以较平坦的明暗和色彩方式保存画面信息，便于后期调色），并升级 APV 编解码器。三星已在 Galaxy S26 Ultra 上引入该格式，用于保留细节并降低压缩影响。三星通过升级 Log 视频与 APV 编解码器，有望让 Galaxy S27 Ultra 实现更大的视频动",
+      "detail": "IT之家 9 月 17 日消息，消息源 @WalleGalaxy 昨日（9 月 16 日）在 X 平台发布推文，爆料称三星 Galaxy S27 Ultra 旗舰手机可能调整照片算法，减少过度锐化和冷色调，转向更温暖的色彩。IT之家查询相关资料，该信源此前经常放出机模、配件图、认证信息等，与后续官方信息有一定吻合度。关于本次爆料，海外主流媒体 Android Headline、Sammyguru、NotebookCheck 已采信跟进，不过目前该信息并未其它消息交叉验证，因此仅供参考。消息源称在 Galaxy S27 Ultra 机型上，三星可能调整图像处理算法，减少默认锐化强度，并降低冷色调处理倾向。相关算法调整可能会同步应用在 Galaxy S27 Pro 机型上。视频功能方面，消息称三星将更新 Log 视频（通常以较平坦的明暗和色彩方式保存画面信息，便于后期调色），并升级 APV 编解码器。三星已在 Galaxy S26 Ultra 上引入该格式，用于保留细节并降低压缩影响。三星通过升级 Log 视频与 APV 编解码器，有望让 Galaxy S27 Ultra 实现更大的视频动",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-09-17",
+      "score": 0.695
+    },
+    {
+      "title": "SteamOS 游戏生态扩容：Valve 完善兼容层，瞄准 Win11/Arm/ 安卓",
+      "url": "https://www.ithome.com/1/003/554.htm",
+      "summary": "IT之家 9 月 17 日消息，科技媒体 Ars Technica 今天（9 月 17 日）发布博文，报道称 Valve 为扩展其 VR 头显 Steam Frame 的应用兼容体验，在现有 Proton 兼容层外，还新增了 FEX 与 Lepton 两个兼容层。IT之家注：Proton 是 Valve 基于 Wine 开发的兼容层，主要处理 Windows 程序接口与 Linux 系统环境之间的兼容问题，用于让 SteamOS（基于 Linux）运行面向 Windows 编写的游戏。Valve 为了让 Steam Frame（运行 SteamOS）头显运行更多游戏，扩展新增 FEX 与 Lepton 两个兼容层。前者面向 Arm 硬件，后者面向 Android 应用包。根据 Steam 页面公告信息，FEX 源自 fex-emu 项目，是 Valve 移植的开源兼容工具，主要在 Arm 芯片组上模拟 x86 处理器指令。自 fex-emu 项目 2018 年启动开始，Valve 资助其首席开发者 Ryan Houdek。图源：fex-emu 项目官网其典型应用是在 Arm 设备上运行",
+      "detail": "IT之家 9 月 17 日消息，科技媒体 Ars Technica 今天（9 月 17 日）发布博文，报道称 Valve 为扩展其 VR 头显 Steam Frame 的应用兼容体验，在现有 Proton 兼容层外，还新增了 FEX 与 Lepton 两个兼容层。IT之家注：Proton 是 Valve 基于 Wine 开发的兼容层，主要处理 Windows 程序接口与 Linux 系统环境之间的兼容问题，用于让 SteamOS（基于 Linux）运行面向 Windows 编写的游戏。Valve 为了让 Steam Frame（运行 SteamOS）头显运行更多游戏，扩展新增 FEX 与 Lepton 两个兼容层。前者面向 Arm 硬件，后者面向 Android 应用包。根据 Steam 页面公告信息，FEX 源自 fex-emu 项目，是 Valve 移植的开源兼容工具，主要在 Arm 芯片组上模拟 x86 处理器指令。自 fex-emu 项目 2018 年启动开始，Valve 资助其首席开发者 Ryan Houdek。图源：fex-emu 项目官网其典型应用是在 Arm 设备上运行",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-09-17",
+      "score": 0.695
+    },
+    {
+      "title": "一加 16 官宣首次实现「全局 165Hz 超高刷」，首发搭载 ColorOS 17",
+      "url": "https://www.ithome.com/1/003/446.htm",
+      "summary": "IT之家 9 月 17 日消息，一加中国区总裁李杰今日宣布，一加 16 首发搭载 ColorOS 17，并且还将首次实现「全局 165Hz 超高刷」。IT之家注意到，博主 @数码闲聊站 今日曝光一加 16 手机 165Hz 超高刷设置界面，直接在系统设置里就能开。据其爆料，新机搭载的东方屏 X4 发光材料、电路做了大升级，支持纯硬件级全局超高刷，实测不光是系统应用，是能下载的应用都能开。OPPO 官方今日公布了 ColorOS 17 正式版升级适配计划，将于 10 月 8 日起陆续开始推送，首批覆盖 OPPO Find N6 系列、OPPO Find X9 系列、一加 15/15T、真我 GT8 Pro 等。此外，OPPO Find X10 系列、一加 16、OPPO Watch S2 将首发搭载 ColorOS 17。",
+      "detail": "IT之家 9 月 17 日消息，一加中国区总裁李杰今日宣布，一加 16 首发搭载 ColorOS 17，并且还将首次实现「全局 165Hz 超高刷」。IT之家注意到，博主 @数码闲聊站 今日曝光一加 16 手机 165Hz 超高刷设置界面，直接在系统设置里就能开。据其爆料，新机搭载的东方屏 X4 发光材料、电路做了大升级，支持纯硬件级全局超高刷，实测不光是系统应用，是能下载的应用都能开。OPPO 官方今日公布了 ColorOS 17 正式版升级适配计划，将于 10 月 8 日起陆续开始推送，首批覆盖 OPPO Find N6 系列、OPPO Find X9 系列、一加 15/15T、真我 GT8 Pro 等。此外，OPPO Find X10 系列、一加 16、OPPO Watch S2 将首发搭载 ColorOS 17。",
       "source": "ITHome",
       "source_authority": 0.75,
       "date": "2026-09-17",
@@ -186,6 +196,26 @@
   ],
   "category3": [
     {
+      "title": "英伟达展示 DSX MaxLPS 技术，AI 工厂每兆瓦 token 吞吐量最高提升 40%",
+      "url": "https://www.ithome.com/1/003/557.htm",
+      "summary": "IT之家 9 月 17 日消息，科技媒体 Wccftech 昨日（9 月 16 日）发布博文，报道称在 AI 基础设施峰会上，英伟达展示了面向 AI 工厂的 DSX MaxLPS 功耗调度系统，每兆瓦 token 吞吐量最高提升 40%。IT之家注：每兆瓦 token 吞吐量是指数据中心每消耗 1 MW 电力时，AI 系统每秒能够生成或处理多少个 token。该指标把功耗纳入计算，因此更适合衡量 AI 数据中心在电力受限条件下的产出能力。英伟达 DSX MaxLPS 技术已由 Emerald AI 集成至 Conductor 平台，用于电网条件下的数据中心负载编排。Conductor AI 平台中的 DSX Flex 可依据电网状态动态调整数据中心用电需求。平台已接收 200 次电网状态信号，相关操作均未要求用户干预。Lambda 等云服务商测试后，在固定功率预算下取得 24% 的 token 吞吐量提升。Lambda 是一家 GPU 云服务商，客户数量超过 10,000 家。测试集群包含 5 个机架和 19 个节点。在与 16 个节点满功率运行相同的功率预算下，19 个节点的集群吞吐",
+      "detail": "IT之家 9 月 17 日消息，科技媒体 Wccftech 昨日（9 月 16 日）发布博文，报道称在 AI 基础设施峰会上，英伟达展示了面向 AI 工厂的 DSX MaxLPS 功耗调度系统，每兆瓦 token 吞吐量最高提升 40%。IT之家注：每兆瓦 token 吞吐量是指数据中心每消耗 1 MW 电力时，AI 系统每秒能够生成或处理多少个 token。该指标把功耗纳入计算，因此更适合衡量 AI 数据中心在电力受限条件下的产出能力。英伟达 DSX MaxLPS 技术已由 Emerald AI 集成至 Conductor 平台，用于电网条件下的数据中心负载编排。Conductor AI 平台中的 DSX Flex 可依据电网状态动态调整数据中心用电需求。平台已接收 200 次电网状态信号，相关操作均未要求用户干预。Lambda 等云服务商测试后，在固定功率预算下取得 24% 的 token 吞吐量提升。Lambda 是一家 GPU 云服务商，客户数量超过 10,000 家。测试集群包含 5 个机架和 19 个节点。在与 16 个节点满功率运行相同的功率预算下，19 个节点的集群吞吐",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-09-17",
+      "score": 0.86
+    },
+    {
+      "title": "华为打造业界首个采用 NPO 技术的超节点，汪涛宣布 openEuler 成为中国服务器操作系统份额第一",
+      "url": "https://www.ithome.com/1/003/505.htm",
+      "summary": "IT之家 9 月 17 日消息，华为全联接大会 2026 于今日在上海启幕。华为副董事长、轮值董事长汪涛在大会上发表了“智启新未来，打造智能世界的硅基黑土地”的主题演讲，与产业界共同探讨在智能浪潮中如何携手合作，打造强大的 AI 基础设施，筑牢坚实的算力底座，迎接智能世界带来的机遇与挑战。汪涛表示，截至目前，昇腾 910C 超节点已部署超 1000 套，昇腾 950 超节点也已规模商用。超节点在规模商用的同时，已成为产、学、研在 AI 基础设施领域的共识，即是一种在物理上由多个计算节点通过高效的互联协议紧密连接组成，具备跨物理节点统一内存编址能力，逻辑上具备“一台计算机”特征的计算系统。在所有芯片中，昇腾芯片是整个系统中的核心部件，华为宣布昇腾 960 芯片研发进度超出预期，性能实现倍增。960DT 比原计划提前三个季度，2027 年第一季度就绪；960PR 比原计划提前一个季度，2027 年第三季度就绪。未来，昇腾系列芯片将持续坚持一年一代的演进节奏。2028 和 2029 年，华为将陆续推出昇腾 970、980 芯片，依托 τ 定律的创新方向，实现算力规格继续翻倍，访存带宽、访存容",
+      "detail": "IT之家 9 月 17 日消息，华为全联接大会 2026 于今日在上海启幕。华为副董事长、轮值董事长汪涛在大会上发表了“智启新未来，打造智能世界的硅基黑土地”的主题演讲，与产业界共同探讨在智能浪潮中如何携手合作，打造强大的 AI 基础设施，筑牢坚实的算力底座，迎接智能世界带来的机遇与挑战。汪涛表示，截至目前，昇腾 910C 超节点已部署超 1000 套，昇腾 950 超节点也已规模商用。超节点在规模商用的同时，已成为产、学、研在 AI 基础设施领域的共识，即是一种在物理上由多个计算节点通过高效的互联协议紧密连接组成，具备跨物理节点统一内存编址能力，逻辑上具备“一台计算机”特征的计算系统。在所有芯片中，昇腾芯片是整个系统中的核心部件，华为宣布昇腾 960 芯片研发进度超出预期，性能实现倍增。960DT 比原计划提前三个季度，2027 年第一季度就绪；960PR 比原计划提前一个季度，2027 年第三季度就绪。未来，昇腾系列芯片将持续坚持一年一代的演进节奏。2028 和 2029 年，华为将陆续推出昇腾 970、980 芯片，依托 τ 定律的创新方向，实现算力规格继续翻倍，访存带宽、访存容",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-09-17",
+      "score": 0.83
+    },
+    {
       "title": "Apple might make servers again to cash in on the AI rush",
       "url": "https://www.theverge.com/tech/996321/apple-servers-ai-nvidia",
       "summary": "According to The Information, Apple is planning to get back into the server game and might just pair up with Nvidia to make it happen. Apple retired its Xserve line in 2011 and has largely left enterprise machines to other manufacturers since. But the growing demand for compute power as the AI industry continues to […]",
@@ -196,10 +226,10 @@
       "score": 0.7925
     },
     {
-      "title": "古尔曼称苹果自研 AI 服务器芯片：和英伟达竞争，基于 M7 Ultra 款有望 2029 年登场",
-      "url": "https://www.ithome.com/1/003/379.htm",
-      "summary": "IT之家 9 月 17 日消息，针对科技媒体 The Information 昨日关于苹果服务器芯片报道，彭博社的马克 · 古尔曼（Mark Gurman）表示这颗服务器芯片可能基于 M7 系列开发，预估 2029 年发布，上市后会和英伟达竞争。IT之家昨日报道，苹果公司正筹划自研企业级服务器，采用自研 AI 芯片，产品目前考虑推出两个版本：基础版配备两颗计划中的 M8 Ultra 芯片，高配版则配备四颗。苹果考虑用英伟达的 NVLink Fusion 连接这些 M8 芯片。NVLink Fusion 包括交换机、芯粒和软件，能够让数据中心内的多颗芯片高速协同工作。如果这一方案最终落地，也会成为苹果与英伟达关系回暖的又一迹象。彭博社的马克 · 古尔曼今天在 X 平台转发推文并表示，认为苹果研发的自研服务器芯片可能基于 M7 Ultra，预估 2029 年发布。此外苹果还将推出一款新的 AI 服务器，预计于 2027 年初上线。相关阅读：《消息称苹果筹划重返服务器业务，高配版搭载 4 颗 M8 Ultra 芯片》",
-      "detail": "IT之家 9 月 17 日消息，针对科技媒体 The Information 昨日关于苹果服务器芯片报道，彭博社的马克 · 古尔曼（Mark Gurman）表示这颗服务器芯片可能基于 M7 系列开发，预估 2029 年发布，上市后会和英伟达竞争。IT之家昨日报道，苹果公司正筹划自研企业级服务器，采用自研 AI 芯片，产品目前考虑推出两个版本：基础版配备两颗计划中的 M8 Ultra 芯片，高配版则配备四颗。苹果考虑用英伟达的 NVLink Fusion 连接这些 M8 芯片。NVLink Fusion 包括交换机、芯粒和软件，能够让数据中心内的多颗芯片高速协同工作。如果这一方案最终落地，也会成为苹果与英伟达关系回暖的又一迹象。彭博社的马克 · 古尔曼今天在 X 平台转发推文并表示，认为苹果研发的自研服务器芯片可能基于 M7 Ultra，预估 2029 年发布。此外苹果还将推出一款新的 AI 服务器，预计于 2027 年初上线。相关阅读：《消息称苹果筹划重返服务器业务，高配版搭载 4 颗 M8 Ultra 芯片》",
+      "title": "任天堂 Switch 2 游戏《火焰纹章：万缕千丝》发售：IGN 打出 10 分满分，港区售价 499 港币",
+      "url": "https://www.ithome.com/1/003/553.htm",
+      "summary": "IT之家 9 月 17 日消息，由 Intelligent Systems 开发、任天堂发行的回合制策略角色扮演游戏《火焰之纹章：万缕千丝》（日版写作《万紫千红》）今日正式发售，为 Switch 2 平台独占。本作数字版定价 499 港币（IT之家注：现汇率约合 427.6 元人民币）、69.99 美元（现汇率约合 470.5 元人民币）、8,980 日元（现汇率约合 387.6 元人民币），实体版定价 549 港币（现汇率约合 470.5 元人民币）、79.99 美元（现汇率约合 537.7 元人民币）、9,980 日元（现汇率约合 430.8 元人民币），支持简体中文。作为《火焰之纹章》系列正统续作，本作在延续经典战棋玩法的基础上，首次加入可自由探索的 3D 场景。游戏舞台设定在众神统治下的鞑古扎帝国，玩家将扮演背负救世主宿命的角色，集结伙伴迎战复活后企图毁灭世界的魔神霸罗尔。本作以四位大剑斗祭参赛者 —— 凯伊、迪托利希、赛奥朵拉与蕾达的篇章展开，玩家可在几条故事线之间自由切换，每个角色的进度单独保存，支持同时推进四人的故事。游戏媒体评分已于 9 月 16 日解禁。截至目前，本作",
+      "detail": "IT之家 9 月 17 日消息，由 Intelligent Systems 开发、任天堂发行的回合制策略角色扮演游戏《火焰之纹章：万缕千丝》（日版写作《万紫千红》）今日正式发售，为 Switch 2 平台独占。本作数字版定价 499 港币（IT之家注：现汇率约合 427.6 元人民币）、69.99 美元（现汇率约合 470.5 元人民币）、8,980 日元（现汇率约合 387.6 元人民币），实体版定价 549 港币（现汇率约合 470.5 元人民币）、79.99 美元（现汇率约合 537.7 元人民币）、9,980 日元（现汇率约合 430.8 元人民币），支持简体中文。作为《火焰之纹章》系列正统续作，本作在延续经典战棋玩法的基础上，首次加入可自由探索的 3D 场景。游戏舞台设定在众神统治下的鞑古扎帝国，玩家将扮演背负救世主宿命的角色，集结伙伴迎战复活后企图毁灭世界的魔神霸罗尔。本作以四位大剑斗祭参赛者 —— 凯伊、迪托利希、赛奥朵拉与蕾达的篇章展开，玩家可在几条故事线之间自由切换，每个角色的进度单独保存，支持同时推进四人的故事。游戏媒体评分已于 9 月 16 日解禁。截至目前，本作",
       "source": "ITHome",
       "source_authority": 0.75,
       "date": "2026-09-17",
@@ -234,28 +264,18 @@
       "source_authority": 0.85,
       "date": "2026-09-16",
       "score": 0.64
-    },
-    {
-      "title": "七彩虹上架 iGame 御甲 G114 智显充电器：140W 四口，199 元",
-      "url": "https://www.ithome.com/1/003/388.htm",
-      "summary": "IT之家 9 月 17 日消息，七彩虹 (Colorful) 现已在电商平台上架 iGame 御甲 G114 智显充电器。该产品定价 199 元，9 月 22 日 10:00 开售。iGame 御甲 G114 支持 140W 功率，输入端采用折叠式两脚插头设计，输出端则包括 3 个 USB Type-C 和 1 个 USB Type-A，兼容 USB PD、PPS、SCP / FCP、Quick Charge 等主流快充协议。顶部的屏幕能显示总功率、功率分配、温度等信息。其采用氮化镓 (GaN) 功率半导体，搭配有机硅凝胶灌封工艺，支持 20fps 高频测温和动态温度调节，集成 OTP、SCP、OCP、OVP、OPP 以及抗干扰保护，通过漏电、EMC 测试。京东七彩虹 iGame 御甲 G114 智显充电器 9 月 22 日 10:00 开售 199 元直达链接七彩虹还上架了 iGame Sigil 240W 编织快充线，1m 款 19.9 元、2m 款 29.9 元，同样是 9 月 22 日 10:00 开售。",
-      "detail": "IT之家 9 月 17 日消息，七彩虹 (Colorful) 现已在电商平台上架 iGame 御甲 G114 智显充电器。该产品定价 199 元，9 月 22 日 10:00 开售。iGame 御甲 G114 支持 140W 功率，输入端采用折叠式两脚插头设计，输出端则包括 3 个 USB Type-C 和 1 个 USB Type-A，兼容 USB PD、PPS、SCP / FCP、Quick Charge 等主流快充协议。顶部的屏幕能显示总功率、功率分配、温度等信息。其采用氮化镓 (GaN) 功率半导体，搭配有机硅凝胶灌封工艺，支持 20fps 高频测温和动态温度调节，集成 OTP、SCP、OCP、OVP、OPP 以及抗干扰保护，通过漏电、EMC 测试。京东七彩虹 iGame 御甲 G114 智显充电器 9 月 22 日 10:00 开售 199 元直达链接七彩虹还上架了 iGame Sigil 240W 编织快充线，1m 款 19.9 元、2m 款 29.9 元，同样是 9 月 22 日 10:00 开售。",
-      "source": "ITHome",
-      "source_authority": 0.75,
-      "date": "2026-09-17",
-      "score": 0.62
     }
   ],
   "category4": [
     {
-      "title": "特斯拉 Cybercab 全国巡展首秀亮相京沪，9 月 17 日至 21 日静态展出",
-      "url": "https://www.ithome.com/1/003/398.htm",
-      "summary": "IT之家 9 月 17 日消息，今日，特斯拉 Cybercab 全国巡展首秀上海站在上海兴业太古汇开启，展出将持续至 9 月 21 日。同时，Cybercab 也已经在北京华贸特斯拉体验店开启巡展，将一直持续至 9 月 27 日。特斯拉方面明确，此次活动仅为静态展示，不涉及 Cybercab 在中国市场的上市销售或无人驾驶网约车商业运营安排。特斯拉官方 9 月 14 日宣布 Cybercab 将入华展览。北京华贸特斯拉体验店的展览时间为 9 月 17 日至 27 日，上海兴业太古汇 LG1 层北厅的展览时间为 9 月 17 日至 21 日。此前 Cybercab 仅在海外展示，本次是该车型首次进入中国市场公开展出。Cybercab 是特斯拉面向无人驾驶网约车场景设计的两座车型，取消方向盘、踏板和后视镜，配备 22 英寸中控屏、蝴蝶门和掀背式后备箱，主打共享出行，是特斯拉 Robotaxi 自动驾驶业务的核心载体。该车采用 8 颗摄像头以及纯视觉、端到端神经网络方案。IT之家注：端到端神经网络方案指由传感器输入直接输出驾驶控制指令，中间不依赖人工编写的规则模块。该方案依托 FSD 全自动",
-      "detail": "IT之家 9 月 17 日消息，今日，特斯拉 Cybercab 全国巡展首秀上海站在上海兴业太古汇开启，展出将持续至 9 月 21 日。同时，Cybercab 也已经在北京华贸特斯拉体验店开启巡展，将一直持续至 9 月 27 日。特斯拉方面明确，此次活动仅为静态展示，不涉及 Cybercab 在中国市场的上市销售或无人驾驶网约车商业运营安排。特斯拉官方 9 月 14 日宣布 Cybercab 将入华展览。北京华贸特斯拉体验店的展览时间为 9 月 17 日至 27 日，上海兴业太古汇 LG1 层北厅的展览时间为 9 月 17 日至 21 日。此前 Cybercab 仅在海外展示，本次是该车型首次进入中国市场公开展出。Cybercab 是特斯拉面向无人驾驶网约车场景设计的两座车型，取消方向盘、踏板和后视镜，配备 22 英寸中控屏、蝴蝶门和掀背式后备箱，主打共享出行，是特斯拉 Robotaxi 自动驾驶业务的核心载体。该车采用 8 颗摄像头以及纯视觉、端到端神经网络方案。IT之家注：端到端神经网络方案指由传感器输入直接输出驾驶控制指令，中间不依赖人工编写的规则模块。该方案依托 FSD 全自动",
+      "title": "朱江明：零跑近期不会把人形机器人作为重点，将来真正能带来价值的还是非人形",
+      "url": "https://www.ithome.com/1/003/451.htm",
+      "summary": "9 月 17 日上午消息，2026 零跑技术日发布会后，零跑科技创始人、董事长、CEO 朱江明，零跑科技高级副总裁曹力，零跑科技高级副总裁周洪涛，零跑科技高级副总裁巫存，零跑科技高级副总裁宋忆宁与媒体对话。在技术日上，面对火热的具身智能赛道，朱江明表态：“不炒概念、择机落地。能遛一遛的机器人不算本事，能赚钱的机器人才拿得出手。”据介绍，零跑人形机器人已实现完全自研、进入测试阶段，电机、控制器、电池、感知算法、计算平台等底层能力全部自主掌握；公司正小规模投入、积极探索可规模化落地、具备商业价值的应用场景。在对话中，谈及机器人话题，朱江明表示，零跑的机器人还在预研阶段，要至少能走能跑，现在机器人就一两岁，五六岁达到可以跑步的水平，但是要工作就要达到 20 岁。还要跑，还要成长，还有一个过程，现在很难说有商业模式。零跑做了一些 demo，也一直在想可应用的产品。他认为，将来真正能够带来更多价值的，还是非人形的机器人，可能是轮式的、变形的，能够移动和操作，形态上不一定非要人形。“为什么要行走呢？行走是最笨的，骑自行车 30 公里，你用的能耗一定比走 30 公里更省力，当然电动化以后就更省力了。",
+      "detail": "9 月 17 日上午消息，2026 零跑技术日发布会后，零跑科技创始人、董事长、CEO 朱江明，零跑科技高级副总裁曹力，零跑科技高级副总裁周洪涛，零跑科技高级副总裁巫存，零跑科技高级副总裁宋忆宁与媒体对话。在技术日上，面对火热的具身智能赛道，朱江明表态：“不炒概念、择机落地。能遛一遛的机器人不算本事，能赚钱的机器人才拿得出手。”据介绍，零跑人形机器人已实现完全自研、进入测试阶段，电机、控制器、电池、感知算法、计算平台等底层能力全部自主掌握；公司正小规模投入、积极探索可规模化落地、具备商业价值的应用场景。在对话中，谈及机器人话题，朱江明表示，零跑的机器人还在预研阶段，要至少能走能跑，现在机器人就一两岁，五六岁达到可以跑步的水平，但是要工作就要达到 20 岁。还要跑，还要成长，还有一个过程，现在很难说有商业模式。零跑做了一些 demo，也一直在想可应用的产品。他认为，将来真正能够带来更多价值的，还是非人形的机器人，可能是轮式的、变形的，能够移动和操作，形态上不一定非要人形。“为什么要行走呢？行走是最笨的，骑自行车 30 公里，你用的能耗一定比走 30 公里更省力，当然电动化以后就更省力了。",
       "source": "ITHome",
       "source_authority": 0.75,
       "date": "2026-09-17",
-      "score": 0.9125
+      "score": 0.875
     },
     {
       "title": "The evolution of Digit: Agility Robotics’ journey from Cassie to Digit 5",
@@ -268,6 +288,16 @@
       "score": 0.82
     },
     {
+      "title": "朱江明回应零跑智驾何时追上特斯拉 FSD：没有可比性，中国车不能到美国，FSD 也没在中国落地",
+      "url": "https://www.ithome.com/1/003/456.htm",
+      "summary": "IT之家 9 月 17 日消息，2026 零跑技术日发布会后，零跑科技创始人、董事长、CEO 朱江明，零跑科技高级副总裁曹力，零跑科技高级副总裁周洪涛，零跑科技高级副总裁巫存，零跑科技高级副总裁宋忆宁与媒体对话。据新浪科技报道，被问及何时追上特斯拉 FSD，朱江明回应称，与特斯拉没有可比性，因为中国的车不能到美国去，特斯拉的 FSD 也还没在中国落地，这个就无解了。“马斯克怎么说都可以，怎么厉害都可以，因为都比不了。”但他指出，中国的路况是最难的，美国的外卖小哥也没中国多，路况完全不一样。在中国这样复杂的环境下，目前中国车企的智驾团队都很努力，而且越做越好，将来是一周不要接管，甚至半个月都不要接管，甚至将来一定是逐步非常逼近真正无人驾驶的状态。在 9 月 16 日晚间的零跑 2026 年度技术发布会上，零跑汽车公布了自研的世界模型智能辅助驾驶，宣称该智驾达到了“全行业第一梯队”的水平，将覆盖 A、B、C、D 全系车型，老车主也可升级。据雷峰网今日报道，零跑高级副总裁周洪涛表示，有信心智驾 4.0 能够实现跻身头部的目标。周洪涛透露，零跑 4.0 架构的成本只有 1.0 时期的 40%，",
+      "detail": "IT之家 9 月 17 日消息，2026 零跑技术日发布会后，零跑科技创始人、董事长、CEO 朱江明，零跑科技高级副总裁曹力，零跑科技高级副总裁周洪涛，零跑科技高级副总裁巫存，零跑科技高级副总裁宋忆宁与媒体对话。据新浪科技报道，被问及何时追上特斯拉 FSD，朱江明回应称，与特斯拉没有可比性，因为中国的车不能到美国去，特斯拉的 FSD 也还没在中国落地，这个就无解了。“马斯克怎么说都可以，怎么厉害都可以，因为都比不了。”但他指出，中国的路况是最难的，美国的外卖小哥也没中国多，路况完全不一样。在中国这样复杂的环境下，目前中国车企的智驾团队都很努力，而且越做越好，将来是一周不要接管，甚至半个月都不要接管，甚至将来一定是逐步非常逼近真正无人驾驶的状态。在 9 月 16 日晚间的零跑 2026 年度技术发布会上，零跑汽车公布了自研的世界模型智能辅助驾驶，宣称该智驾达到了“全行业第一梯队”的水平，将覆盖 A、B、C、D 全系车型，老车主也可升级。据雷峰网今日报道，零跑高级副总裁周洪涛表示，有信心智驾 4.0 能够实现跻身头部的目标。周洪涛透露，零跑 4.0 架构的成本只有 1.0 时期的 40%，",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-09-17",
+      "score": 0.785
+    },
+    {
       "title": "OLogic to share how robots can learn from human demonstrations at RoboBusiness",
       "url": "https://www.therobotreport.com/ologic-to-share-how-robots-can-learn-from-human-demonstrations-at-robobusiness/",
       "summary": "OLogic CEO Ted Larson will explore the foundations of egocentric robot learning and the technical challenges involved in building these systems.\nThe post OLogic to share how robots can learn from human demonstrations at RoboBusiness appeared first on The Robot Report.",
@@ -278,14 +308,14 @@
       "score": 0.775
     },
     {
-      "title": "号称千元扫地机器人到手竟是玩具，总台曝光“积分兑换”套路",
-      "url": "https://www.ithome.com/1/003/372.htm",
-      "summary": "IT之家 9 月 17 日消息，中央广播电视总台中国之声今日曝光了“积分兑换”套路。有人可能收到过这样的短信，提示积分即将过期，能兑换手机、手表，后面还跟着一个网址链接。可等真下了单，除了积分还得额外付款，要的是大牌手机，收到的却是卡顿的山寨机；要的是扫地机器人，拆开却是一个儿童玩具；还有的消费者付了钱，订单却查不到，网页也关了。近日，胡先生收到一条 1068 号码开头的短信，内容写着“移电换新”清除提醒：您某尾号的号码，26 年累计 588990 分，明天消失。积分可以换华为手机、手表，后面附上了所谓“商城”的网址链接。但下单之后胡先生发现，这并不是什么实实在在的福利。“通过短信冒充中国移动，说可以兑换手机。反正我也稀里糊涂地就点了，直接就把钱扣了。商品图片看着挺高级的，但这个型号，市场上压根就没有。页面做得特别简单，客服也联系不上。”胡先生的遭遇并非个例。此前有媒体报道，王先生也收到积分短信，提示十几万积分即将过期。他挑中一款号称价值千元的扫地机器人，页面显示，15000 积分就能兑换。可填完收货信息，对方却要求再支付 168 元。快递到手发现，所谓的“扫地机器人”，只是一个比手掌",
-      "detail": "IT之家 9 月 17 日消息，中央广播电视总台中国之声今日曝光了“积分兑换”套路。有人可能收到过这样的短信，提示积分即将过期，能兑换手机、手表，后面还跟着一个网址链接。可等真下了单，除了积分还得额外付款，要的是大牌手机，收到的却是卡顿的山寨机；要的是扫地机器人，拆开却是一个儿童玩具；还有的消费者付了钱，订单却查不到，网页也关了。近日，胡先生收到一条 1068 号码开头的短信，内容写着“移电换新”清除提醒：您某尾号的号码，26 年累计 588990 分，明天消失。积分可以换华为手机、手表，后面附上了所谓“商城”的网址链接。但下单之后胡先生发现，这并不是什么实实在在的福利。“通过短信冒充中国移动，说可以兑换手机。反正我也稀里糊涂地就点了，直接就把钱扣了。商品图片看着挺高级的，但这个型号，市场上压根就没有。页面做得特别简单，客服也联系不上。”胡先生的遭遇并非个例。此前有媒体报道，王先生也收到积分短信，提示十几万积分即将过期。他挑中一款号称价值千元的扫地机器人，页面显示，15000 积分就能兑换。可填完收货信息，对方却要求再支付 168 元。快递到手发现，所谓的“扫地机器人”，只是一个比手掌",
+      "title": "猛士 X700 内饰首秀：9 月 28 日开启预售，搭载华为乾崑全栈智能",
+      "url": "https://www.ithome.com/1/003/551.htm",
+      "summary": "IT之家 9 月 17 日消息，猛士汽车猛士 X700 将于 9 月 28 日开启预售，官方今日公布了其内饰官图。新车已于 2026 成都车展亮相，是猛士品牌 X 系列的首款产品。官方表示，X 系列命名以 eXplore、eXperience、relaX 三重内核，面向全场景出行体验。设计方面，猛士 X700 承袭猛士“雄魂美学”理念，保留狮吼梯形前脸、剑指苍穹尾灯等家族识别符号，并采用贯穿式止戈为武大灯与数字银河灯带。车身尺寸方面，猛士 X700 长宽高为 5035×1999×1910mm，轴距 2920mm，定位中大型 SUV。新车提供 265/65R18 与 255/60R20 两种规格轮毂可选。配置选装方面，猛士 X700 支持外挂备胎、行李架以及 2.5 吨拖挂资质等多项选装，还有“自定义情绪屏”等智能模块，可适配多元场景。内饰方面，猛士 X700 配备悬浮式中控屏、大尺寸液晶仪表和 HUD 抬头显示，采用双联屏设计，同级首发鸿蒙座舱 6。另外，其中控屏后方设有星环散射体，预计搭载 HUAWEI SOUND 音响系统。智能方面，猛士 X700 车顶配备 896 线激光雷达，延",
+      "detail": "IT之家 9 月 17 日消息，猛士汽车猛士 X700 将于 9 月 28 日开启预售，官方今日公布了其内饰官图。新车已于 2026 成都车展亮相，是猛士品牌 X 系列的首款产品。官方表示，X 系列命名以 eXplore、eXperience、relaX 三重内核，面向全场景出行体验。设计方面，猛士 X700 承袭猛士“雄魂美学”理念，保留狮吼梯形前脸、剑指苍穹尾灯等家族识别符号，并采用贯穿式止戈为武大灯与数字银河灯带。车身尺寸方面，猛士 X700 长宽高为 5035×1999×1910mm，轴距 2920mm，定位中大型 SUV。新车提供 265/65R18 与 255/60R20 两种规格轮毂可选。配置选装方面，猛士 X700 支持外挂备胎、行李架以及 2.5 吨拖挂资质等多项选装，还有“自定义情绪屏”等智能模块，可适配多元场景。内饰方面，猛士 X700 配备悬浮式中控屏、大尺寸液晶仪表和 HUD 抬头显示，采用双联屏设计，同级首发鸿蒙座舱 6。另外，其中控屏后方设有星环散射体，预计搭载 HUAWEI SOUND 音响系统。智能方面，猛士 X700 车顶配备 896 线激光雷达，延",
       "source": "ITHome",
       "source_authority": 0.75,
       "date": "2026-09-17",
-      "score": 0.71
+      "score": 0.695
     }
   ]
 }
