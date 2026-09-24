@@ -2,16 +2,6 @@
   "date": "2026-09-24",
   "category1": [
     {
-      "title": "双方关系何时破裂？OpenAI 称与苹果的 ChatGPT 合作远不及预期",
-      "url": "https://www.ithome.com/1/006/548.htm",
-      "summary": "北京时间 9 月 24 日，据《金融时报》报道，最新法庭文件揭示了 OpenAI 与苹果的关系是如何逐渐破裂的。OpenAI 周三称，公司与苹果合作，通过 ChatGPT 为 iPhone 添加 AI 功能的业务在 2024 年推出后，“表现远低于预期”。OpenAI 在法律文件中表示，两家公司在 2024 年达成协议，由 ChatGPT 为“Apple Intelligence”提供支持。然而，苹果未能激发 iPhone 用户对于这一 AI 功能的兴趣，令 OpenAI 感到失望。苹果将自身定位为 AI 开发者争夺更多消费者之战中的潜在“造王者”。但 OpenAI 在首次公开评论这一合作时称，ChatGPT 被整合到数以百万计的苹果设备几乎没有带来什么实际好处。此后，这两家硅谷最知名公司之间的关系急转直下，最终演变成了苹果提起的一宗充满敌意的商业机密诉讼。在经历了尴尬的两年延期后，苹果在今年 1 月与谷歌合作，使用其 Gemini 模型来支持完全重建的“Siri AI”。周三公布的法庭文件称，2024 年协议达成时，OpenAI 原本期待借助与苹果的推广和品牌关联产生“光环效应”，并",
-      "detail": "北京时间 9 月 24 日，据《金融时报》报道，最新法庭文件揭示了 OpenAI 与苹果的关系是如何逐渐破裂的。OpenAI 周三称，公司与苹果合作，通过 ChatGPT 为 iPhone 添加 AI 功能的业务在 2024 年推出后，“表现远低于预期”。OpenAI 在法律文件中表示，两家公司在 2024 年达成协议，由 ChatGPT 为“Apple Intelligence”提供支持。然而，苹果未能激发 iPhone 用户对于这一 AI 功能的兴趣，令 OpenAI 感到失望。苹果将自身定位为 AI 开发者争夺更多消费者之战中的潜在“造王者”。但 OpenAI 在首次公开评论这一合作时称，ChatGPT 被整合到数以百万计的苹果设备几乎没有带来什么实际好处。此后，这两家硅谷最知名公司之间的关系急转直下，最终演变成了苹果提起的一宗充满敌意的商业机密诉讼。在经历了尴尬的两年延期后，苹果在今年 1 月与谷歌合作，使用其 Gemini 模型来支持完全重建的“Siri AI”。周三公布的法庭文件称，2024 年协议达成时，OpenAI 原本期待借助与苹果的推广和品牌关联产生“光环效应”，并",
-      "source": "ITHome",
-      "source_authority": 0.75,
-      "date": "2026-09-24",
-      "score": 0.9625
-    },
-    {
       "title": "Anthropic&#8217;s biolab made a discovery it&#8217;s comparing to Crispr",
       "url": "https://www.theverge.com/ai-artificial-intelligence/999470/anthropic-biolab-claude-crispr",
       "summary": "Anthropic says its AI Claude has \"autonomously discovered\" a new enzyme system similar to machinery behind the powerful gene-editing tool Crispr. It's the first result from Anthropic's newly-launched wet lab and an early test of Claude's usefulness for science as the company prepares to go public. The company says Claude found the enzyme system after […]",
@@ -20,6 +10,16 @@
       "source_authority": 0.9,
       "date": "2026-09-24",
       "score": 0.9125
+    },
+    {
+      "title": "Anthropic Claude Code 云会话正式上线，Pro / Max 用户可领 100~250 美元额度",
+      "url": "https://www.ithome.com/1/006/704.htm",
+      "summary": "IT之家 9 月 24 日消息，Anthropic 今日宣布 Claude Code 云会话功能结束预览、正式上线。该功能让用户在关闭电脑后，让任务在云端继续运行，并可从浏览器、手机、桌面应用或终端查看和接管。云会话面向 Pro、Max、Team 及 Enterprise 用户开放。现有订阅用户可领取一次性体验额度：Pro 用户 100 美元（IT之家注：现汇率约合 672.3 元人民币），Max 用户 250 美元（现汇率约合 1,681 元人民币）。用户可通过官方领取页登录领取，也可在 Claude Code 中执行 /claim-credit。领取截止时间为太平洋时间 10 月 7 日 23:59（北京时间 10 月 8 日 14:59），额度有效至 11 月 4 日 23:59。根据官方文档，云会话可运行在 Anthropic 管理的云基础设施，也可路由至组织的自托管环境。用户可从 claude.ai/code、Claude 手机应用 Code 标签、桌面应用 Cloud 选项或终端启动。在终端中，用户可运行 claude --cloud 创建新云会话；使用 claude --",
+      "detail": "IT之家 9 月 24 日消息，Anthropic 今日宣布 Claude Code 云会话功能结束预览、正式上线。该功能让用户在关闭电脑后，让任务在云端继续运行，并可从浏览器、手机、桌面应用或终端查看和接管。云会话面向 Pro、Max、Team 及 Enterprise 用户开放。现有订阅用户可领取一次性体验额度：Pro 用户 100 美元（IT之家注：现汇率约合 672.3 元人民币），Max 用户 250 美元（现汇率约合 1,681 元人民币）。用户可通过官方领取页登录领取，也可在 Claude Code 中执行 /claim-credit。领取截止时间为太平洋时间 10 月 7 日 23:59（北京时间 10 月 8 日 14:59），额度有效至 11 月 4 日 23:59。根据官方文档，云会话可运行在 Anthropic 管理的云基础设施，也可路由至组织的自托管环境。用户可从 claude.ai/code、Claude 手机应用 Code 标签、桌面应用 Cloud 选项或终端启动。在终端中，用户可运行 claude --cloud 创建新云会话；使用 claude --",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-09-24",
+      "score": 0.8975
     },
     {
       "title": "America’s A.I. Leaders Warn U.N. of Possible Peril Absent a Global Response",
@@ -82,14 +82,14 @@
       "score": 0.82
     },
     {
-      "title": "苹果 256GB M6 版 Mac mini SSD 性能测试：较 M4 版顺序写入快 48.9%、读取快 15%",
-      "url": "https://www.ithome.com/1/006/536.htm",
-      "summary": "IT之家 9 月 24 日消息，科技媒体 AAPL Ch 昨日（9 月 23 日）发布博文，测试指出 256GB 版苹果 M6 Mac mini 采用单颗 NAND 板载 SSD，实测顺序写入 3000.2MB/s、顺序读取 3216.8MB/s。顺序读取 3216.8MB/s顺序写入 3000.2MB/s该媒体测试聚焦 256GB 版本，使用 Blackmagic Disk Speed Test 软件测试，测试文件容量为 1GB。Mac mini (M6) 256GB SSD 型号读写性能结果显示，256GB 版顺序写入速度为 3000.2MB/s，顺序读取速度为 3216.8MB/s。而 512GB 版本在同项测试中录得 6577.4MB/s 顺序写入速度，以及 6371.5MB/s 顺序读取速度。与 256GB 的 Mac mini M4 相比，M6 256GB 版的顺序写入速度由 2014.5MB/s 升至 3000.2MB/s，约增长 48.9%；顺序读取速度由 2792.5MB/s 升至 3216.8MB/s，约增长 15%。IT之家注：在 Mac mini 产品线中，苹果",
-      "detail": "IT之家 9 月 24 日消息，科技媒体 AAPL Ch 昨日（9 月 23 日）发布博文，测试指出 256GB 版苹果 M6 Mac mini 采用单颗 NAND 板载 SSD，实测顺序写入 3000.2MB/s、顺序读取 3216.8MB/s。顺序读取 3216.8MB/s顺序写入 3000.2MB/s该媒体测试聚焦 256GB 版本，使用 Blackmagic Disk Speed Test 软件测试，测试文件容量为 1GB。Mac mini (M6) 256GB SSD 型号读写性能结果显示，256GB 版顺序写入速度为 3000.2MB/s，顺序读取速度为 3216.8MB/s。而 512GB 版本在同项测试中录得 6577.4MB/s 顺序写入速度，以及 6371.5MB/s 顺序读取速度。与 256GB 的 Mac mini M4 相比，M6 256GB 版的顺序写入速度由 2014.5MB/s 升至 3000.2MB/s，约增长 48.9%；顺序读取速度由 2792.5MB/s 升至 3216.8MB/s，约增长 15%。IT之家注：在 Mac mini 产品线中，苹果",
+      "title": "月之暗面最强 AI：消息称 Kimi K3.1 下月登场",
+      "url": "https://www.ithome.com/1/006/719.htm",
+      "summary": "IT之家 9 月 24 日消息，科技媒体 Wccftech 昨日（9 月 23 日）发布博文，报道称月之暗面（Moonshot）正酝酿推出 Kimi K3.1 模型，并将提供 Low、High、Max 共 3 档推理强度，预估会在下月（2026 年 10 月）登场。消息源 @MaxForAI 昨日在 X 平台发布推文，发现月之暗面内部 JSON / API 响应中，出现 Kimi K3.1 相关标识，其中包括“k3d1-agent”等模型名称，片段还出现 Agent 模式、应用场景及多项配置开关。根据相关配置文件，K3.1 可能支持：Low、High、Max 等多档推理强度；“Extra Long”等超长上下文选项，最高支持 100 万 Token；Agent 智能体模式；Swarm 多智能体协作；搜索、批处理等任务模式。Kimi K3 于 2026 年 7 月发布，是月之暗面目前公开推出的旗舰模型。官方资料显示，K3 拥有 2.8 万亿参数、原生视觉能力和 100 万 Token 上下文窗口，并采用 Kimi Delta Attention、Attention Residuals 和",
+      "detail": "IT之家 9 月 24 日消息，科技媒体 Wccftech 昨日（9 月 23 日）发布博文，报道称月之暗面（Moonshot）正酝酿推出 Kimi K3.1 模型，并将提供 Low、High、Max 共 3 档推理强度，预估会在下月（2026 年 10 月）登场。消息源 @MaxForAI 昨日在 X 平台发布推文，发现月之暗面内部 JSON / API 响应中，出现 Kimi K3.1 相关标识，其中包括“k3d1-agent”等模型名称，片段还出现 Agent 模式、应用场景及多项配置开关。根据相关配置文件，K3.1 可能支持：Low、High、Max 等多档推理强度；“Extra Long”等超长上下文选项，最高支持 100 万 Token；Agent 智能体模式；Swarm 多智能体协作；搜索、批处理等任务模式。Kimi K3 于 2026 年 7 月发布，是月之暗面目前公开推出的旗舰模型。官方资料显示，K3 拥有 2.8 万亿参数、原生视觉能力和 100 万 Token 上下文窗口，并采用 Kimi Delta Attention、Attention Residuals 和",
       "source": "ITHome",
       "source_authority": 0.75,
       "date": "2026-09-24",
-      "score": 0.785
+      "score": 0.7775
     },
     {
       "title": "OpenAI agent 'infiltrated' Australian government website, PM says",
@@ -144,16 +144,6 @@
       "score": 0.785
     },
     {
-      "title": "微软时隔 10 年更新 Surface Mouse 鼠标：支持触觉反馈、配可编程按键",
-      "url": "https://www.ithome.com/1/006/562.htm",
-      "summary": "IT之家 9 月 24 日消息，科技媒体 Windows Central 今天（9 月 24 日）发布博文，报道称在 2026 骁龙峰会上，微软宣布推出新一代 Surface Mouse，距首款产品亮相已过去 10 年。该媒体指出微软初代 Surface Mouse 于 2016 年随 Surface Studio 一同发布，本次产品更迭相隔 10 年时间。微软后续于 2018 年推出 Surface Precision 鼠标、于 2025 年推出 Surface Arc 鼠标，但严格来讲并非继任者。外观方面，新款 Surface Mouse 采用简约设计，左右按键之间未设置明显分隔，仅保留滚轮和内置操作键。功能方面，新款鼠标主要升级触觉反馈，鼠标内置小型振动马达，用户在 Windows 中贴靠应用窗口，或在两个窗口之间拖动文件后，设备会发出振动反馈。按键方面，鼠标顶部配有专用操作键，可用于打开指定应用。微软重点展示了该按键启动 Copilot 应用，不过支持用户将其分配给其他常用快捷方式。若用户将鼠标连接至非 Surface 设备，需单独安装 Surface 应用，才能修改操作键设置",
-      "detail": "IT之家 9 月 24 日消息，科技媒体 Windows Central 今天（9 月 24 日）发布博文，报道称在 2026 骁龙峰会上，微软宣布推出新一代 Surface Mouse，距首款产品亮相已过去 10 年。该媒体指出微软初代 Surface Mouse 于 2016 年随 Surface Studio 一同发布，本次产品更迭相隔 10 年时间。微软后续于 2018 年推出 Surface Precision 鼠标、于 2025 年推出 Surface Arc 鼠标，但严格来讲并非继任者。外观方面，新款 Surface Mouse 采用简约设计，左右按键之间未设置明显分隔，仅保留滚轮和内置操作键。功能方面，新款鼠标主要升级触觉反馈，鼠标内置小型振动马达，用户在 Windows 中贴靠应用窗口，或在两个窗口之间拖动文件后，设备会发出振动反馈。按键方面，鼠标顶部配有专用操作键，可用于打开指定应用。微软重点展示了该按键启动 Copilot 应用，不过支持用户将其分配给其他常用快捷方式。若用户将鼠标连接至非 Surface 设备，需单独安装 Surface 应用，才能修改操作键设置",
-      "source": "ITHome",
-      "source_authority": 0.75,
-      "date": "2026-09-24",
-      "score": 0.785
-    },
-    {
       "title": "Meta’s AI agent is a cute little guy who’s great at spending my money",
       "url": "https://www.theverge.com/ai-artificial-intelligence/999526/meta-muse-ai-agent-hands-on-shopping",
       "summary": "Modern life comes with an unending, auto-populating to-do list. It never ceases to amaze me how I can be doing nothing at all, minding my own business, and suddenly something needs to be taken care of. You're telling me a tree branch fell in the backyard and now I have to figure out what to […]",
@@ -162,26 +152,6 @@
       "source_authority": 0.9,
       "date": "2026-09-24",
       "score": 0.78
-    },
-    {
-      "title": "罗技 G 推出迈凯伦联名 RS50 McLAREN RACING BUNDLE 驾驶模拟套件",
-      "url": "https://www.ithome.com/1/006/554.htm",
-      "summary": "IT之家 9 月 24 日消息，Logitech G（罗技 G）在当地时间 23 日启动的 PLAY 2026 趣玩日活动上发布了一系列外设产品，本篇聚焦于其中的驾驶模拟产品线。作为 McLaren（迈凯伦）在驾驶模拟领域的合作伙伴，罗技 G 此次带来了 RS50 McLAREN RACING BUNDLE 联名款竞速套装，定价 899.99 美元（IT之家注：现汇率约合 6,050 元人民币）。该套装包括搭载具备 TRUEFORCE HD 力反馈的 8N·m 直驱底座 RS50、快拆式方向盘、RS Pedals 踏板（负载传感器刹车 + 霍尔效应传感器油门），以及一系列安装套件。这套设备以黑色为基调，部分位置点缀以迈凯伦标志性的“木瓜橙”。罗技 G 此次还推出了单独销售 G923 方向盘、RS50 直驱系统，以及新的 RS Pedals SE 双霍尔效应踏板。相关阅读：《经典“木瓜橙”配色，罗技 G 推出三款迈凯伦联名模拟赛车外设》《罗技 G 首款碳纤维鼠标 PRO X: Victory Edition 发布：迈凯伦联名，限量 25 件》",
-      "detail": "IT之家 9 月 24 日消息，Logitech G（罗技 G）在当地时间 23 日启动的 PLAY 2026 趣玩日活动上发布了一系列外设产品，本篇聚焦于其中的驾驶模拟产品线。作为 McLaren（迈凯伦）在驾驶模拟领域的合作伙伴，罗技 G 此次带来了 RS50 McLAREN RACING BUNDLE 联名款竞速套装，定价 899.99 美元（IT之家注：现汇率约合 6,050 元人民币）。该套装包括搭载具备 TRUEFORCE HD 力反馈的 8N·m 直驱底座 RS50、快拆式方向盘、RS Pedals 踏板（负载传感器刹车 + 霍尔效应传感器油门），以及一系列安装套件。这套设备以黑色为基调，部分位置点缀以迈凯伦标志性的“木瓜橙”。罗技 G 此次还推出了单独销售 G923 方向盘、RS50 直驱系统，以及新的 RS Pedals SE 双霍尔效应踏板。相关阅读：《经典“木瓜橙”配色，罗技 G 推出三款迈凯伦联名模拟赛车外设》《罗技 G 首款碳纤维鼠标 PRO X: Victory Edition 发布：迈凯伦联名，限量 25 件》",
-      "source": "ITHome",
-      "source_authority": 0.75,
-      "date": "2026-09-24",
-      "score": 0.7575
-    },
-    {
-      "title": "Meta 首款轻量化 VR 眼镜发布：约 100g 重、同类首款 IMAX Enhanced 认证，售 1299.99 美元",
-      "url": "https://www.ithome.com/1/006/537.htm",
-      "summary": "IT之家 9 月 24 日消息，Meta 今日在 Connect 大会上发布了旗下首款轻量化 VR 眼镜，类似于古尔曼曾经描述的那款轻量化的 Vision Pro（疑似被砍），名字就叫 Meta VR Glasses。这款 VR 眼镜重约 100 克（约为 Meta Quest 3 的五分之一），支持 3D 电影、沉浸式体育赛事、游戏和多屏办公，并集成了 Meta AI 智能体。Meta VR Glasses 由眼镜本体和独立计算盒组成。眼镜负责显示和传感器，而计算、存储及电池等部件集中在通过光学线缆连接的计算盒中，计算盒可夹在口袋或包里。这款眼镜配备 5K Infinite Display Micro-OLED 显示屏，像素密度达 37 PPD（每度像素数），并采用专门设计的超紧凑型 Pancake 镜片，支持杜比视界和杜比全景声空间音频。性能方面，Meta VR Glasses 搭载高通新款骁龙 Reality Elite 处理器。计算盒内置电池，可连续播放高分辨率媒体内容最长 3 小时，并支持 45W 快充。交互方面，Meta 将 AI 智能体直接集成到操作系统中。用户可以通过语",
-      "detail": "IT之家 9 月 24 日消息，Meta 今日在 Connect 大会上发布了旗下首款轻量化 VR 眼镜，类似于古尔曼曾经描述的那款轻量化的 Vision Pro（疑似被砍），名字就叫 Meta VR Glasses。这款 VR 眼镜重约 100 克（约为 Meta Quest 3 的五分之一），支持 3D 电影、沉浸式体育赛事、游戏和多屏办公，并集成了 Meta AI 智能体。Meta VR Glasses 由眼镜本体和独立计算盒组成。眼镜负责显示和传感器，而计算、存储及电池等部件集中在通过光学线缆连接的计算盒中，计算盒可夹在口袋或包里。这款眼镜配备 5K Infinite Display Micro-OLED 显示屏，像素密度达 37 PPD（每度像素数），并采用专门设计的超紧凑型 Pancake 镜片，支持杜比视界和杜比全景声空间音频。性能方面，Meta VR Glasses 搭载高通新款骁龙 Reality Elite 处理器。计算盒内置电池，可连续播放高分辨率媒体内容最长 3 小时，并支持 45W 快充。交互方面，Meta 将 AI 智能体直接集成到操作系统中。用户可以通过语",
-      "source": "ITHome",
-      "source_authority": 0.75,
-      "date": "2026-09-24",
-      "score": 0.7575
     },
     {
       "title": "Meta’s Muse AI Assistant Rolled Out With a Serious Security Flaw",
@@ -202,18 +172,68 @@
       "source_authority": 0.9,
       "date": "2026-09-24",
       "score": 0.71
+    },
+    {
+      "title": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
+      "url": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/",
+      "summary": "The tiny hardware device creates  another mobile home for its AI agent Muse.",
+      "detail": "The tiny hardware device creates  another mobile home for its AI agent Muse.",
+      "source": "TechCrunch",
+      "source_authority": 0.95,
+      "date": "2026-09-24",
+      "score": 0.705
+    },
+    {
+      "title": "暴力熊推出不锈钢版 Mycro Pro 处理器分体冷头，英特尔款支持 LGA1954",
+      "url": "https://www.ithome.com/1/006/700.htm",
+      "summary": "IT之家 9 月 24 日消息，Thermal Grizzly（暴力熊）当地时间本月 23 日宣布为 CPU 处理器推出 Mycro Pro Stainless Steel 分体式液冷冷头，提供英特尔、AMD 双平台款式。Mycro Pro Stainless Steel 由未镀镍铜底、304 不锈钢外壳、阳极氧化铝安装支架构成，配备 2 个 G1/4\" 螺纹进出水口和 EPDM 密封圈，微水道的鳍片厚度与间距均为 0.2mm。该冷头英特尔版本针对 FCLGA1851 插槽优化，兼容 FCLGA1700、FCLGA1954；AMD 版本针对 AM5 插槽优化，兼容 AM4。双版本含税定价均为 99.99 欧元（IT之家注：现汇率约合 765.7 元人民币）。",
+      "detail": "IT之家 9 月 24 日消息，Thermal Grizzly（暴力熊）当地时间本月 23 日宣布为 CPU 处理器推出 Mycro Pro Stainless Steel 分体式液冷冷头，提供英特尔、AMD 双平台款式。Mycro Pro Stainless Steel 由未镀镍铜底、304 不锈钢外壳、阳极氧化铝安装支架构成，配备 2 个 G1/4\" 螺纹进出水口和 EPDM 密封圈，微水道的鳍片厚度与间距均为 0.2mm。该冷头英特尔版本针对 FCLGA1851 插槽优化，兼容 FCLGA1700、FCLGA1954；AMD 版本针对 AM5 插槽优化，兼容 AM4。双版本含税定价均为 99.99 欧元（IT之家注：现汇率约合 765.7 元人民币）。",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-09-24",
+      "score": 0.695
+    },
+    {
+      "title": "ChatGPT mobile app gets voice-based agentic features",
+      "url": "https://techcrunch.com/2026/09/23/chatgpt-mobile-app-gets-voice-based-agentic-features/",
+      "summary": "Pro and Plus users will be able to use the Work tab on their phones to complete agentic tasks.",
+      "detail": "Pro and Plus users will be able to use the Work tab on their phones to complete agentic tasks.",
+      "source": "TechCrunch",
+      "source_authority": 0.95,
+      "date": "2026-09-24",
+      "score": 0.69
     }
   ],
   "category3": [
     {
-      "title": "罗永浩评小米 18 Fold “如果能接受 D 型屏，确实做得非常漂亮”，强调无商业利益合作",
-      "url": "https://www.ithome.com/1/006/533.htm",
-      "summary": "IT之家 9 月 24 日消息，罗永浩昨晚发文评小米 18 Fold：“如果能接受 D 型屏，小米 18 Fold 确实做得非常漂亮，尤其是酒红色的版本，细节没得挑，让人爱不释手。”他谈到，酒红色做阳极氧化有一个其他颜色没有的特点，就是拿在手里旋转时，色温色相会有细微的波动变化。比如在一个特定角度下，边框呈现暖的酒红，与之衔接的 C 角或 R 角则呈现冷的酒红，这时候看上去就会很不和谐，像是颜色做错了。他透露，自己当年做酒红色机型的时候，这个问题就没有得到百分之百的完美解决。而手里的这款，他以找茬的方式 360 度看了好几遍，控制得非常完美。最后，他强调该帖无商业利益合作。IT之家注意到，小米 18 Fold 中折叠手机发布于 9 月 7 日，并于 9 月 10 日 10:00 正式开售，售价 10999 元起，主打配色便是“西野红”。小米 18 Fold 配备 5.38″ 外屏 + 7.58″ 内屏，内外屏采用约√2:1 标准纸张比例，支持 LTPO 1-120Hz 刷新率。新机首发搭载玄戒 O3 小米 AI 旗舰 SoC，CPU 采用十核全大核设计、GPU 首发 16 核 G2-U",
-      "detail": "IT之家 9 月 24 日消息，罗永浩昨晚发文评小米 18 Fold：“如果能接受 D 型屏，小米 18 Fold 确实做得非常漂亮，尤其是酒红色的版本，细节没得挑，让人爱不释手。”他谈到，酒红色做阳极氧化有一个其他颜色没有的特点，就是拿在手里旋转时，色温色相会有细微的波动变化。比如在一个特定角度下，边框呈现暖的酒红，与之衔接的 C 角或 R 角则呈现冷的酒红，这时候看上去就会很不和谐，像是颜色做错了。他透露，自己当年做酒红色机型的时候，这个问题就没有得到百分之百的完美解决。而手里的这款，他以找茬的方式 360 度看了好几遍，控制得非常完美。最后，他强调该帖无商业利益合作。IT之家注意到，小米 18 Fold 中折叠手机发布于 9 月 7 日，并于 9 月 10 日 10:00 正式开售，售价 10999 元起，主打配色便是“西野红”。小米 18 Fold 配备 5.38″ 外屏 + 7.58″ 内屏，内外屏采用约√2:1 标准纸张比例，支持 LTPO 1-120Hz 刷新率。新机首发搭载玄戒 O3 小米 AI 旗舰 SoC，CPU 采用十核全大核设计、GPU 首发 16 核 G2-U",
+      "title": "2026 骁龙峰会高通高管群访：双旗舰策略、行业首超 5GHz、和小米合作关系、AI 手机未来...",
+      "url": "https://www.ithome.com/1/006/706.htm",
+      "summary": "IT之家 9 月 24 日消息，夏威夷时间 9 月 22 日 9 点（北京时间 9 月 23 日 3 点）召开的 2026 骁龙峰会主题演讲结束后，高通公司高级副总裁兼手机业务总经理克里斯 · 帕特里克（Chris Patrick）在内的诸多高通高管接受了IT之家等媒体采访。在本次媒体群访中，出席的高通高管有以下几位：高通技术公司高级副总裁兼手机业务总经理 Chris Patrick高通技术公司产品管理副总裁 Judd Heape高通技术公司产品管理副总裁 Vinesh Sukumar高通技术公司产品管理总监 Amandeep Dhaliwa高通技术公司 CPU 产品管理高级总监 Manju Varma高通技术公司高级副总裁兼旗舰移动平台总经理 Dino Bekis问：第一个问题，第六代骁龙 8 至尊版和超级至尊版的 GPU，在硬件上有什么具体区别？能详细讲讲吗？另外，频率是否一致？第二个问题，这一代 8 Elite 有两款，还会有非 Elite 的第六代骁龙 8 吗？还是以后都会走双 Elite 路线？是否依旧会有非 Elite 的 8 系列？答：今年，我们首次对骁龙 8 至尊版产品",
+      "detail": "IT之家 9 月 24 日消息，夏威夷时间 9 月 22 日 9 点（北京时间 9 月 23 日 3 点）召开的 2026 骁龙峰会主题演讲结束后，高通公司高级副总裁兼手机业务总经理克里斯 · 帕特里克（Chris Patrick）在内的诸多高通高管接受了IT之家等媒体采访。在本次媒体群访中，出席的高通高管有以下几位：高通技术公司高级副总裁兼手机业务总经理 Chris Patrick高通技术公司产品管理副总裁 Judd Heape高通技术公司产品管理副总裁 Vinesh Sukumar高通技术公司产品管理总监 Amandeep Dhaliwa高通技术公司 CPU 产品管理高级总监 Manju Varma高通技术公司高级副总裁兼旗舰移动平台总经理 Dino Bekis问：第一个问题，第六代骁龙 8 至尊版和超级至尊版的 GPU，在硬件上有什么具体区别？能详细讲讲吗？另外，频率是否一致？第二个问题，这一代 8 Elite 有两款，还会有非 Elite 的第六代骁龙 8 吗？还是以后都会走双 Elite 路线？是否依旧会有非 Elite 的 8 系列？答：今年，我们首次对骁龙 8 至尊版产品",
       "source": "ITHome",
       "source_authority": 0.75,
       "date": "2026-09-24",
       "score": 0.8975
+    },
+    {
+      "title": "AMD RDNA 5 新品曝光：代号“AT2”，微软“Project Helix”芯片同源",
+      "url": "https://www.ithome.com/1/006/714.htm",
+      "summary": "IT之家 9 月 24 日消息，爆料者 Kepler_L2 在 AnandTech 论坛上透露称，AMD 下一代 RDNA 5 架构 GPU“AT2”将配备 70 个计算单元（CU），目标频率为 3.1GHz 至 3.4GHz。按照爆料信息，AT2 拥有 70 个 CU，而 Radeon RX 9070 XT 配备 64 个 CU，计算单元数量增加约 9.4%。同时，其目标频率为 3.1GHz 至 3.4GHz，相比 RX 9070 XT 的频率范围最高可提升约 14.4%。如果仅按照计算单元数量和频率进行估算，AT2 的理论性能可能较 Radeon RX 9070 XT 提升约 14% 至 25.1%。IT之家注意到，Kepler_L2 此前还透露，AMD 可能仅在 2027 年推出一款新 GPU，其他 \"RDNA 5\" 产品以及英伟达 RTX 60 系列则推迟至 2028 年。他表示，微软传闻中的下一代“Project Helix”主机将采用“AT2”，并启用 70 个 CU 中的 68 个。这意味着该 GPU 可能同时服务于下一代 Xbox 主机和 AMD PC 显卡产品线。另有",
+      "detail": "IT之家 9 月 24 日消息，爆料者 Kepler_L2 在 AnandTech 论坛上透露称，AMD 下一代 RDNA 5 架构 GPU“AT2”将配备 70 个计算单元（CU），目标频率为 3.1GHz 至 3.4GHz。按照爆料信息，AT2 拥有 70 个 CU，而 Radeon RX 9070 XT 配备 64 个 CU，计算单元数量增加约 9.4%。同时，其目标频率为 3.1GHz 至 3.4GHz，相比 RX 9070 XT 的频率范围最高可提升约 14.4%。如果仅按照计算单元数量和频率进行估算，AT2 的理论性能可能较 Radeon RX 9070 XT 提升约 14% 至 25.1%。IT之家注意到，Kepler_L2 此前还透露，AMD 可能仅在 2027 年推出一款新 GPU，其他 \"RDNA 5\" 产品以及英伟达 RTX 60 系列则推迟至 2028 年。他表示，微软传闻中的下一代“Project Helix”主机将采用“AT2”，并启用 70 个 CU 中的 68 个。这意味着该 GPU 可能同时服务于下一代 Xbox 主机和 AMD PC 显卡产品线。另有",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-09-24",
+      "score": 0.86
+    },
+    {
+      "title": "谷歌 Chrome 154 浏览器发布：默认警告 HTTP 网站、修复 108 个漏洞",
+      "url": "https://www.ithome.com/1/006/679.htm",
+      "summary": "IT之家 9 月 24 日消息，谷歌于 9 月 22 日发布公告，宣布正式推出 Chrome 浏览器 154 稳定版，会默认警告 HTTP 网站，并修复 108 项安全漏洞。安全修复方面，本次更新共计修复 108 项漏洞，公告中列出了多项“严重（Critical）”级别漏洞，涉及 ANGLE 图形层、GPU、WebGL、Service Worker、全屏功能及窗口对话框等组件。在功能方面，IT之家此前报道，用户访问不安全的 HTTP 网站后，Chrome 154 会默认警告提示，可能影响老旧网站、直接输入 IP 地址的管理页面、家庭路由器或某些本地设备后台。Chrome 154 引入了名为 Private Verification Tokens 的试验功能，在保护无痕浏览隐私的同时，让网站能利用用户在普通浏览模式中已建立的一部分“可信信号”，从而减少无痕模式里频繁出现的 CAPTCHA、人机验证或其他拦截。Chrome 154 还支持让网页中的嵌入式内容（iframe）按内部内容自适应尺寸。以后，采用该能力的网站在嵌入表单、支付组件、在线文档、客服窗口或第三方工具时，可减少 ifram",
+      "detail": "IT之家 9 月 24 日消息，谷歌于 9 月 22 日发布公告，宣布正式推出 Chrome 浏览器 154 稳定版，会默认警告 HTTP 网站，并修复 108 项安全漏洞。安全修复方面，本次更新共计修复 108 项漏洞，公告中列出了多项“严重（Critical）”级别漏洞，涉及 ANGLE 图形层、GPU、WebGL、Service Worker、全屏功能及窗口对话框等组件。在功能方面，IT之家此前报道，用户访问不安全的 HTTP 网站后，Chrome 154 会默认警告提示，可能影响老旧网站、直接输入 IP 地址的管理页面、家庭路由器或某些本地设备后台。Chrome 154 引入了名为 Private Verification Tokens 的试验功能，在保护无痕浏览隐私的同时，让网站能利用用户在普通浏览模式中已建立的一部分“可信信号”，从而减少无痕模式里频繁出现的 CAPTCHA、人机验证或其他拦截。Chrome 154 还支持让网页中的嵌入式内容（iframe）按内部内容自适应尺寸。以后，采用该能力的网站在嵌入表单、支付组件、在线文档、客服窗口或第三方工具时，可减少 ifram",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-09-24",
+      "score": 0.86
     },
     {
       "title": "Building A Connected, Contextual Data Backbone For AI-Driven Semiconductor Design",
@@ -254,19 +274,29 @@
       "source_authority": 0.85,
       "date": "2026-09-23",
       "score": 0.64
-    },
-    {
-      "title": "OPPO Enco X4 耳机开售：首款无损丹拿音质，首销价 1099 元",
-      "url": "https://www.ithome.com/1/006/569.htm",
-      "summary": "IT之家 9 月 24 日消息，OPPO Enco X4 耳机今日开售，建议零售价 1199 元，首销优惠价 1099 元。IT之家注意到，OPPO 携手北欧丹拿调音大师联合调音，带来首款「无损丹拿音质」耳机，支持至高 2.3Mbps 高保真无损传输，支持 48kHz/24bit 无损音源规格。OPPO Enco X4 采用第四代同轴双单元结构，双 DAC 分频驱动，音乐层次更分明，超瞬态高分子振膜，鼓点有力不拖沓，同心圆对称磁路，弦乐清透又细腻，全频段低失真，全链路真无损。OPPO Enco X4 芯片制程由上代 12nm 提升至 6nm，全频段降噪及人声降噪能力相较上代全面提升，并采用全新发泡硅胶耳帽，支持自适应智能降噪算法、降噪又舒适。OPPO Enco X4 带来全新 AI 实时翻译，覆盖 24 种常用语言，无需手机中转，一人查看屏幕、一人佩戴耳机即可完成无障碍流畅交流。此外，OPPO Enco X4 还搭载全场景空间音频，支持快捷语音指令、头部操控、立体声录音等全新交互功能，可实现 53 小时超长续航。京东 OPPO Enco X4 1099 元直达链接",
-      "detail": "IT之家 9 月 24 日消息，OPPO Enco X4 耳机今日开售，建议零售价 1199 元，首销优惠价 1099 元。IT之家注意到，OPPO 携手北欧丹拿调音大师联合调音，带来首款「无损丹拿音质」耳机，支持至高 2.3Mbps 高保真无损传输，支持 48kHz/24bit 无损音源规格。OPPO Enco X4 采用第四代同轴双单元结构，双 DAC 分频驱动，音乐层次更分明，超瞬态高分子振膜，鼓点有力不拖沓，同心圆对称磁路，弦乐清透又细腻，全频段低失真，全链路真无损。OPPO Enco X4 芯片制程由上代 12nm 提升至 6nm，全频段降噪及人声降噪能力相较上代全面提升，并采用全新发泡硅胶耳帽，支持自适应智能降噪算法、降噪又舒适。OPPO Enco X4 带来全新 AI 实时翻译，覆盖 24 种常用语言，无需手机中转，一人查看屏幕、一人佩戴耳机即可完成无障碍流畅交流。此外，OPPO Enco X4 还搭载全场景空间音频，支持快捷语音指令、头部操控、立体声录音等全新交互功能，可实现 53 小时超长续航。京东 OPPO Enco X4 1099 元直达链接",
-      "source": "ITHome",
-      "source_authority": 0.75,
-      "date": "2026-09-24",
-      "score": 0.62
     }
   ],
   "category4": [
+    {
+      "title": "刷新全球量产纪录：智元第 20000 台具身智能机器人今日下线",
+      "url": "https://www.ithome.com/1/006/710.htm",
+      "summary": "IT之家 9 月 24 日消息，智元第 20000 台通用具身智能机器人远征 A3 Ultra 在横琴长隆飞船乐园正式下线，并交付长隆集团。同日，由智元与长隆集团联手打造的全球首个大规模具身智能主题乐园在横琴长隆飞船乐园启幕，超过 300 台智元全系机器人在园区常态化上岗，服务游客互动、导览、演艺及科普研学等场景。智元方面表示，第 20000 台机器人量产下线并交付，标志着智元具身智能产品从研发验证和单点展示，进一步迈向批量生产、规模交付和常态化运营。此次交付也意味着通用具身智能机器人从工业、商演等相对结构化场景，进入高客流、高互动和高开放度的文旅公共场景。远征 A3 Ultra 搭载 360° 全域感知系统、UWB 与 RTK 融合定位系统及 700 TOPS 算力平台，机身高度 174 厘米，采用镁合金与碳纤尼龙混合机身，搭载 20 个自由度的全向触觉灵巧手（IT之家注：自由度指机器人关节可独立运动的维度数量），可完成递送、搬运、整理、补货等作业。量产节奏方面，智元 2023 年仅 6 台原型样机，2024 年 8 月启动规模化量产，2025 年 1 月突破 1000 台，同年年底",
+      "detail": "IT之家 9 月 24 日消息，智元第 20000 台通用具身智能机器人远征 A3 Ultra 在横琴长隆飞船乐园正式下线，并交付长隆集团。同日，由智元与长隆集团联手打造的全球首个大规模具身智能主题乐园在横琴长隆飞船乐园启幕，超过 300 台智元全系机器人在园区常态化上岗，服务游客互动、导览、演艺及科普研学等场景。智元方面表示，第 20000 台机器人量产下线并交付，标志着智元具身智能产品从研发验证和单点展示，进一步迈向批量生产、规模交付和常态化运营。此次交付也意味着通用具身智能机器人从工业、商演等相对结构化场景，进入高客流、高互动和高开放度的文旅公共场景。远征 A3 Ultra 搭载 360° 全域感知系统、UWB 与 RTK 融合定位系统及 700 TOPS 算力平台，机身高度 174 厘米，采用镁合金与碳纤尼龙混合机身，搭载 20 个自由度的全向触觉灵巧手（IT之家注：自由度指机器人关节可独立运动的维度数量），可完成递送、搬运、整理、补货等作业。量产节奏方面，智元 2023 年仅 6 台原型样机，2024 年 8 月启动规模化量产，2025 年 1 月突破 1000 台，同年年底",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-09-24",
+      "score": 0.86
+    },
+    {
+      "title": "京东七鲜大厨专业版首发价 19888 元：含智能烹饪机器人及 15000 元膳食权益",
+      "url": "https://www.ithome.com/1/006/724.htm",
+      "summary": "IT之家 9 月 24 日消息，据界面新闻，京东全新业务七鲜大厨公布了旗下“七鲜大厨专业版”服务的价格，整套服务首发价为 19888 元。该价格包含价值 16000 元的智能烹饪机器人、价值 10800 元的 Health Brain 家庭健康膳食管理系统，以及价值 15000 元的家庭膳食权益，整体参考价值超过 4 万元。据介绍，大厨币是七鲜大厨体系内的消费权益单位，1 元可兑换 1 个大厨币，15000 大厨币约可兑换 74 天净菜配送服务。IT之家此前报道，七鲜大厨于 9 月 16 日正式发布，定位“家庭健康膳食执行官”。其服务由 Health Brain 膳食 AI 模型、品质净菜供应链和智能炒菜机器人三大模块协同运转。用户在小程序上传体检报告和饮食偏好后，AI 生成阶段性膳食方案和每日菜单，品质净菜按计划冷链配送到家，再由智能炒菜机器人自动完成烹制。首批预售覆盖北京、上海、广州、深圳等城市，用户在七鲜大厨小程序购买后按照预订顺序陆续交付。七鲜大厨发布首日已有千人购买。除面向家庭用户的专业版外，七鲜大厨还推出面向高端服务渠道的“传世版”，售价 29888 元，增加国宴大师菜、家",
+      "detail": "IT之家 9 月 24 日消息，据界面新闻，京东全新业务七鲜大厨公布了旗下“七鲜大厨专业版”服务的价格，整套服务首发价为 19888 元。该价格包含价值 16000 元的智能烹饪机器人、价值 10800 元的 Health Brain 家庭健康膳食管理系统，以及价值 15000 元的家庭膳食权益，整体参考价值超过 4 万元。据介绍，大厨币是七鲜大厨体系内的消费权益单位，1 元可兑换 1 个大厨币，15000 大厨币约可兑换 74 天净菜配送服务。IT之家此前报道，七鲜大厨于 9 月 16 日正式发布，定位“家庭健康膳食执行官”。其服务由 Health Brain 膳食 AI 模型、品质净菜供应链和智能炒菜机器人三大模块协同运转。用户在小程序上传体检报告和饮食偏好后，AI 生成阶段性膳食方案和每日菜单，品质净菜按计划冷链配送到家，再由智能炒菜机器人自动完成烹制。首批预售覆盖北京、上海、广州、深圳等城市，用户在七鲜大厨小程序购买后按照预订顺序陆续交付。七鲜大厨发布首日已有千人购买。除面向家庭用户的专业版外，七鲜大厨还推出面向高端服务渠道的“传世版”，售价 29888 元，增加国宴大师菜、家",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-09-24",
+      "score": 0.785
+    },
     {
       "title": "With the new VENTUNO Q board, Arduino hopes to make robotics development easier",
       "url": "https://www.therobotreport.com/new-ventuno-q-board-arduino-hopes-make-robotics-development-easier/",
@@ -296,6 +326,16 @@
       "source_authority": 0.85,
       "date": "2026-09-23",
       "score": 0.775
+    },
+    {
+      "title": "鸿蒙智行尚界 Z7 / Z7T 专属肖战泊车语音包官宣即将上线",
+      "url": "https://www.ithome.com/1/006/647.htm",
+      "summary": "IT之家 9 月 24 日消息，鸿蒙智行尚界汽车官方今日宣布，尚界 Z7 / Z7T 专属肖战泊车语音包即将上线（具体上线时间暂未公布）。官方预热视频显示，肖战泊车语音包将使用肖战专属语音播报泊车场景相关提示，覆盖代客泊车、离车泊入等。作为参考，此前智界汽车也上线了刘亦菲语音包，在离车泊入等辅助泊车场景下，刘亦菲原音将向车外播报自车泊车意图。IT之家附泊车语音包使用方法如下：点击设置-辅助驾驶-其他设置-更多设置-开启专属泊车语音今年 7 月，鸿蒙智行尚界汽车宣布，尚界 Z7｜Z7T 累计交付突破 20000 台。系列车型于 4 月 22 日正式发布，全系标配 5 大华为黑科技底座，包括华为乾崑智驾、巨鲸 800V 高压电池平台、896 线双光路图像级激光雷达、鸿蒙座舱和途灵平台。尚界是上汽集团与华为在 2025 年 4 月 16 日联合发布的全新品牌，采用华为智选车模式，属于鸿蒙智行生态联盟下的“第五界”。目前，尚界已推出 Z7、Z7T、H5 三大车型。消息称尚界 Z7 Allroad 预计下半年亮相，同时下一款新品瞄准中大型家用 SUV 市场。",
+      "detail": "IT之家 9 月 24 日消息，鸿蒙智行尚界汽车官方今日宣布，尚界 Z7 / Z7T 专属肖战泊车语音包即将上线（具体上线时间暂未公布）。官方预热视频显示，肖战泊车语音包将使用肖战专属语音播报泊车场景相关提示，覆盖代客泊车、离车泊入等。作为参考，此前智界汽车也上线了刘亦菲语音包，在离车泊入等辅助泊车场景下，刘亦菲原音将向车外播报自车泊车意图。IT之家附泊车语音包使用方法如下：点击设置-辅助驾驶-其他设置-更多设置-开启专属泊车语音今年 7 月，鸿蒙智行尚界汽车宣布，尚界 Z7｜Z7T 累计交付突破 20000 台。系列车型于 4 月 22 日正式发布，全系标配 5 大华为黑科技底座，包括华为乾崑智驾、巨鲸 800V 高压电池平台、896 线双光路图像级激光雷达、鸿蒙座舱和途灵平台。尚界是上汽集团与华为在 2025 年 4 月 16 日联合发布的全新品牌，采用华为智选车模式，属于鸿蒙智行生态联盟下的“第五界”。目前，尚界已推出 Z7、Z7T、H5 三大车型。消息称尚界 Z7 Allroad 预计下半年亮相，同时下一款新品瞄准中大型家用 SUV 市场。",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-09-24",
+      "score": 0.7325
     },
     {
       "title": "Self-Driving Cars Are Getting Better. The Risks Are Getting Bigger.",
