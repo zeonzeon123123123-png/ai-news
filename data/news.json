@@ -35,17 +35,6 @@
       "score": 0.9175
     },
     {
-      "title": "OpenAI 承认 53 张用户图片被其 AI 智能体“偷偷”传到公网",
-      "url": "https://www.ithome.com/1/007/274.htm",
-      "summary": "IT之家 9 月 26 日消息，OpenAI 昨日（9 月 25 日）更新其博客，承认发生一起违规事件，在企业不知情情况下，AI 智能体将 53 张客户图片发布到公开网站。在博文中，IT之家援引博文介绍，OpenAI 公司承认在其研究环境中运行的 AI 智能体曾将 53 张由用户上传到 OpenAI 模型的图片，以“未公开列出的链接”形式发布到第三方图像托管网站（类似图床），而受影响公司当时并不知情。在影响方面，OpenAI 指出这些图片并非出现在公开索引页面上，作为“未列出（unlisted）”链接存在，理论上不易被搜索引擎直接发现，不过对于掌握链接的用户而言，可以访问获取相关内容。OpenAI 表示这属于对用户数据的“不当使用”，不在其隐私政策允许范围内。公司称已移除“大多数”相关内容，并仍在与托管方合作清理剩余部分，但承认仍有部分内容可能在线。根据 OpenAI 的说明，这些图片来自已授权 OpenAI 使用其数据用于模型训练的用户账户。不过图片在进入训练 / 评估流程前，已被“去关联化”（disassociated）断开与原始账户关联，同时经过隐私过滤处理，因此无法通知受影响的",
-      "short_summary": "IT之家 9 月 26 日消息，OpenAI 昨日（9 月 25 日）更新其博客，承认发生一起违规事件，在企业不知情情况",
-      "detail": "IT之家 9 月 26 日消息，OpenAI 昨日（9 月 25 日）更新其博客，承认发生一起违规事件，在企业不知情情况下，AI 智能体将 53 张客户图片发布到公开网站。在博文中，IT之家援引博文介绍，OpenAI 公司承认在其研究环境中运行的 AI 智能体曾将 53 张由用户上传到 OpenAI 模型的图片，以“未公开列出的链接”形式发布到第三方图像托管网站（类似图床），而受影响公司当时并不知情。在影响方面，OpenAI 指出这些图片并非出现在公开索引页面上，作为“未列出（unlisted）”链接存在，理论上不易被搜索引擎直接发现，不过对于掌握链接的用户而言，可以访问获取相关内容。OpenAI 表示这属于对用户数据的“不当使用”，不在其隐私政策允许范围内。公司称已移除“大多数”相关内容，并仍在与托管方合作清理剩余部分，但承认仍有部分内容可能在线。根据 OpenAI 的说明，这些图片来自已授权 OpenAI 使用其数据用于模型训练的用户账户。不过图片在进入训练 / 评估流程前，已被“去关联化”（disassociated）断开与原始账户关联，同时经过隐私过滤处理，因此无法通知受影响的",
-      "source": "ITHome",
-      "source_authority": 0.75,
-      "date": "2026-09-26",
-      "score": 0.9175
-    },
-    {
       "title": "OpenAI says agents leaked 53 images from ChatGPT users in latest example of rogue activity",
       "url": "https://www.theguardian.com/technology/2026/sep/25/openai-agents-leaked-53-images-chatgpt",
       "summary": "Disclosure reveals ⁠new area of privacy risk for the company and illustrates ​how difficult it is to inventory unauthorized activity tied to its agentsTwo ⁠months after OpenAI disclosed the accidental hacking of Hugging Face, the ChatGPT maker is still working to understand the full scope of its rogue agent activity, two people briefed on the matter told Reuters.The latest example came on Friday when OpenAI said its agents had leaked 53 images from ChatGPT users. OpenAI declined to say if the im",
@@ -101,6 +90,17 @@
       "score": 0.795
     },
     {
+      "title": "罗巍晒荣耀 Magic9 Pro Max 手机增距镜中秋圆月拍摄样张，喊话“还有谁”",
+      "url": "https://www.ithome.com/1/007/315.htm",
+      "summary": "IT之家 9 月 26 日消息，荣耀首席影像工程师罗巍昨晚分享了 Magic9 Pro Max 手机使用增距镜拍摄的中秋圆月样张，并喊话“还有谁”。IT之家附荣耀 Magic9 Pro Max 手机拍摄样张如下：据IT之家此前报道，全新荣耀 Magic9 Pro Max 手机将搭载第六代骁龙 8 超级至尊版处理器。▲ IT之家开箱：荣耀 Magic9 Pro Max 图赏9 月 24 日下午，荣耀终端股份有限公司 CEO 李健公布了 Magic9 手机的价格（16GB+512GB）。“行业最低价”：6499 元“Magic 十年钜献价”：5999 元国补到手价：5499 元延伸阅读据荣耀官方此前公布的信息，Magic9 系列首发了 500mm“荣耀巨炮”增距镜，官方称其为目前手机外接增距镜中最长的焦段方案，适用于演唱会后排、体育赛事观众席等超远距离拍摄场景；同套装还包含一支 200mm“荣耀拇指”增距镜，长约 81mm、重约 88g，主打便携远摄，二者均属于“摄影大师套装”。荣耀 Magic 盛典暨荣耀 Magic9 系列新品发布会已定档 2026 年 9 月 28 日 14:30 在",
+      "short_summary": "IT之家 9 月 26 日消息，荣耀首席影像工程师罗巍昨晚分享了 Magic9 Pro Max 手机使用增距镜拍摄的中秋",
+      "detail": "IT之家 9 月 26 日消息，荣耀首席影像工程师罗巍昨晚分享了 Magic9 Pro Max 手机使用增距镜拍摄的中秋圆月样张，并喊话“还有谁”。IT之家附荣耀 Magic9 Pro Max 手机拍摄样张如下：据IT之家此前报道，全新荣耀 Magic9 Pro Max 手机将搭载第六代骁龙 8 超级至尊版处理器。▲ IT之家开箱：荣耀 Magic9 Pro Max 图赏9 月 24 日下午，荣耀终端股份有限公司 CEO 李健公布了 Magic9 手机的价格（16GB+512GB）。“行业最低价”：6499 元“Magic 十年钜献价”：5999 元国补到手价：5499 元延伸阅读据荣耀官方此前公布的信息，Magic9 系列首发了 500mm“荣耀巨炮”增距镜，官方称其为目前手机外接增距镜中最长的焦段方案，适用于演唱会后排、体育赛事观众席等超远距离拍摄场景；同套装还包含一支 200mm“荣耀拇指”增距镜，长约 81mm、重约 88g，主打便携远摄，二者均属于“摄影大师套装”。荣耀 Magic 盛典暨荣耀 Magic9 系列新品发布会已定档 2026 年 9 月 28 日 14:30 在",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-09-26",
+      "score": 0.785
+    },
+    {
       "title": "OpenAI’s A.I. Went Rogue and Meddled With U.S. Government Websites",
       "url": "https://www.nytimes.com/2026/09/25/technology/openais-ai-us-government-websites.html",
       "summary": "The company did not learn until recently that its technology had meddled with websites for the Education and Commerce Departments and the Securities and Exchange Commission.",
@@ -136,26 +136,37 @@
       "score": 0.825
     },
     {
-      "title": "为工作而生的 AI：微软纳德拉称正将 Copilot 打造成全新工作操作系统",
-      "url": "https://www.ithome.com/1/007/302.htm",
-      "summary": "IT之家 9 月 26 日消息，科技媒体 Windows Latest 今天（9 月 26 日）发布博文，报道称在微软发布 Copilot“超级应用”后，公司首席执行官萨蒂亚 · 纳德拉（Satya Nadella）表示：“正在将 Copilot 打造成一个全新的工作操作系统”。IT之家昨日报道，微软发布新版 Copilot“超级应用”，把聊天、编程和智能体三类 AI 能力集中到同一个界面中，定位是“为工作而生的 AI”。纳德拉随后在其个人 X 账号上发布推文，表示：“我们正在将 Copilot 打造成一款全新的工作操作系统，它适用于所有模型、所有工作场景和所有任务。”该媒体解读指出，微软曾于 2025 年宣布调整 Windows 11 系统定位，描述成“智能体系统”（Agent OS），这引发了 Windows 用户的强烈反对，迫使 Windows 负责人帕万 · 达武鲁里 (Pavan Davuluri) 限制评论。微软近期还放开了对 Microslop 关键词的限制，对此该媒体解读认为，要么是微软已经不再在意负面舆论，要么就是认为 Copilot 已足够优秀，可以赢得自己的声誉，",
-      "short_summary": "IT之家 9 月 26 日消息，科技媒体 Windows Latest 今天（9 月 26 日）发布博文，报道称在微软发",
-      "detail": "IT之家 9 月 26 日消息，科技媒体 Windows Latest 今天（9 月 26 日）发布博文，报道称在微软发布 Copilot“超级应用”后，公司首席执行官萨蒂亚 · 纳德拉（Satya Nadella）表示：“正在将 Copilot 打造成一个全新的工作操作系统”。IT之家昨日报道，微软发布新版 Copilot“超级应用”，把聊天、编程和智能体三类 AI 能力集中到同一个界面中，定位是“为工作而生的 AI”。纳德拉随后在其个人 X 账号上发布推文，表示：“我们正在将 Copilot 打造成一款全新的工作操作系统，它适用于所有模型、所有工作场景和所有任务。”该媒体解读指出，微软曾于 2025 年宣布调整 Windows 11 系统定位，描述成“智能体系统”（Agent OS），这引发了 Windows 用户的强烈反对，迫使 Windows 负责人帕万 · 达武鲁里 (Pavan Davuluri) 限制评论。微软近期还放开了对 Microslop 关键词的限制，对此该媒体解读认为，要么是微软已经不再在意负面舆论，要么就是认为 Copilot 已足够优秀，可以赢得自己的声誉，",
+      "title": "外媒称微软整合 Copilot 品牌加剧混乱，引发用户困惑",
+      "url": "https://www.ithome.com/1/007/314.htm",
+      "summary": "IT之家 9 月 26 日消息，科技媒体 Windows Latest 昨日（9 月 25 日）发布博文，报道称微软围绕着 Copilot 构建的品牌混乱加剧，增加了用户从品牌名称上辨析产品的难度。IT之家昨日报道，微软发布新版 Copilot“超级应用”，把聊天、编程和智能体三类 AI 能力集中到同一个界面中，定位是“为工作而生的 AI”。在应用发布后，微软还合并 Microsoft 365 Copilot（生产力套件）与 Copilot 应用，并将 X 平台官方账号统一至 @msftcopilot ，此举引发用户强烈困惑。@msftcopilot 账号截图在 X 平台上拥有 6.1 万粉丝的 Microsoft 365 账号修改简介，引导用户关注 @msftcopilot 获取 AI 工作相关资讯。原 Copilot 账号（@Copilot）已关闭，官方还清空了该账号发布的所有内容。Microsoft 365 账号（@microsoft365）修改简介，引导用户关注 @msftcopilot原 Copilot 账号（@Copilot）已关闭Office  > Microsoft 3",
+      "short_summary": "IT之家 9 月 26 日消息，科技媒体 Windows Latest 昨日（9 月 25 日）发布博文，报道称微软围绕",
+      "detail": "IT之家 9 月 26 日消息，科技媒体 Windows Latest 昨日（9 月 25 日）发布博文，报道称微软围绕着 Copilot 构建的品牌混乱加剧，增加了用户从品牌名称上辨析产品的难度。IT之家昨日报道，微软发布新版 Copilot“超级应用”，把聊天、编程和智能体三类 AI 能力集中到同一个界面中，定位是“为工作而生的 AI”。在应用发布后，微软还合并 Microsoft 365 Copilot（生产力套件）与 Copilot 应用，并将 X 平台官方账号统一至 @msftcopilot ，此举引发用户强烈困惑。@msftcopilot 账号截图在 X 平台上拥有 6.1 万粉丝的 Microsoft 365 账号修改简介，引导用户关注 @msftcopilot 获取 AI 工作相关资讯。原 Copilot 账号（@Copilot）已关闭，官方还清空了该账号发布的所有内容。Microsoft 365 账号（@microsoft365）修改简介，引导用户关注 @msftcopilot原 Copilot 账号（@Copilot）已关闭Office  > Microsoft 3",
       "source": "ITHome",
       "source_authority": 0.75,
       "date": "2026-09-26",
       "score": 0.8225
     },
     {
-      "title": "IT早报 0926：微软发布新版 Copilot“超级应用”；罗永浩回应交个朋友代销劣质溜溜凳；Muse 大火扎克伯格成全球第四大富豪；央视揭抢票工具四大套路...",
-      "url": "https://www.ithome.com/1/007/279.htm",
-      "summary": "“IT早报”时间，大家好，现在是 2026 年 9 月 26 日星期六，今天的重要科技资讯有：1. 聊天、编程、智能体三合一，微软正式发布新版 Copilot“超级应用”微软 AI 工作业务首席营销官贾里德 · 斯帕塔罗表示：“正如 Office 定义了 PC 时代的工作方式，新 Copilot 旨在定义 AI 时代的工作方式。”>> 查看详情2. 罗永浩回应交个朋友代销劣质溜溜凳：2022 年 5 月已退出管理层，承认严重质量管理事故近日交个朋友直播间被曝代销劣质溜溜凳，用料为废弃发霉材料，罗永浩回应称虽然 2022 年 5 月就退出了交个朋友管理层，但一直担任交个朋友的首席监督官。不管怎么样，这是一起严重的质量管理事故。>> 查看详情3. Muse 爆火提振 Meta 股价，扎克伯格超戴尔跃升《福布斯》全球第四大富豪据《福布斯》报道，随着 Meta 股价上涨，Meta 首席执行官马克 · 扎克伯格的个人财富超过戴尔科技董事长兼首席执行官迈克尔 · 戴尔，跃升为全球第四大富豪。>> 查看详情4. 央视披露非正规火车票抢票工具四大套路：“极速加速”不提速、“余票监控”不靠谱、“免费候补",
-      "short_summary": "“IT早报”时间，大家好，现在是 2026 年 9 月 26 日星期六，今天的重要科技资讯有：1. 聊天、编程、智能体三",
-      "detail": "“IT早报”时间，大家好，现在是 2026 年 9 月 26 日星期六，今天的重要科技资讯有：1. 聊天、编程、智能体三合一，微软正式发布新版 Copilot“超级应用”微软 AI 工作业务首席营销官贾里德 · 斯帕塔罗表示：“正如 Office 定义了 PC 时代的工作方式，新 Copilot 旨在定义 AI 时代的工作方式。”>> 查看详情2. 罗永浩回应交个朋友代销劣质溜溜凳：2022 年 5 月已退出管理层，承认严重质量管理事故近日交个朋友直播间被曝代销劣质溜溜凳，用料为废弃发霉材料，罗永浩回应称虽然 2022 年 5 月就退出了交个朋友管理层，但一直担任交个朋友的首席监督官。不管怎么样，这是一起严重的质量管理事故。>> 查看详情3. Muse 爆火提振 Meta 股价，扎克伯格超戴尔跃升《福布斯》全球第四大富豪据《福布斯》报道，随着 Meta 股价上涨，Meta 首席执行官马克 · 扎克伯格的个人财富超过戴尔科技董事长兼首席执行官迈克尔 · 戴尔，跃升为全球第四大富豪。>> 查看详情4. 央视披露非正规火车票抢票工具四大套路：“极速加速”不提速、“余票监控”不靠谱、“免费候补",
+      "title": "华为预告游戏助手将上线“弹幕通知”等功能，HarmonyOS 7.0.0.109 及以上版本支持",
+      "url": "https://www.ithome.com/1/007/319.htm",
+      "summary": "IT之家 9 月 26 日消息，在 9 月 7 日的 HarmonyOS 7 | HUAWEI Mate XT 2 及全场景新品发布会上，鸿蒙 7 操作系统正式发布。目前，华为 Mate 80 系列手机、MatePad Edge、MateBook Pro 等设备已开启公测，Mate 60 系列、MatePad Pro 13.2 英寸 2025、WATCH GT 7 等已开启花粉 Beta 版尝鲜。而在鸿蒙 HarmonyOS 7 系统上，游戏助手也迎来一波升级，新增 HDR、分辨率、内存清理等功能。IT之家注意到，华为官网还发布新功能预告，在 HarmonyOS 7.0.0.109SP6 及以上，将支持缩短系统导航触发区域（防误触功能之一）、弹幕通知功能。缩短系统导航触发区域：实现退出手势热区缩短到中间 1/3 左右，防止游戏中误触退出。需系统版本 HarmonyOS 7.0.0.109 SP6 及以上、应用助手版本 16.4.1.300 及以上；弹幕通知：开启弹幕通知，支持针对部分应用消息（微信、QQ、畅连、短信信息、钉钉等）以悬浮弹幕形式实时显示在游戏界面，无需切屏即可掌握重要信息",
+      "short_summary": "IT之家 9 月 26 日消息，在 9 月 7 日的 HarmonyOS 7 | HUAWEI Mate XT 2 及全",
+      "detail": "IT之家 9 月 26 日消息，在 9 月 7 日的 HarmonyOS 7 | HUAWEI Mate XT 2 及全场景新品发布会上，鸿蒙 7 操作系统正式发布。目前，华为 Mate 80 系列手机、MatePad Edge、MateBook Pro 等设备已开启公测，Mate 60 系列、MatePad Pro 13.2 英寸 2025、WATCH GT 7 等已开启花粉 Beta 版尝鲜。而在鸿蒙 HarmonyOS 7 系统上，游戏助手也迎来一波升级，新增 HDR、分辨率、内存清理等功能。IT之家注意到，华为官网还发布新功能预告，在 HarmonyOS 7.0.0.109SP6 及以上，将支持缩短系统导航触发区域（防误触功能之一）、弹幕通知功能。缩短系统导航触发区域：实现退出手势热区缩短到中间 1/3 左右，防止游戏中误触退出。需系统版本 HarmonyOS 7.0.0.109 SP6 及以上、应用助手版本 16.4.1.300 及以上；弹幕通知：开启弹幕通知，支持针对部分应用消息（微信、QQ、畅连、短信信息、钉钉等）以悬浮弹幕形式实时显示在游戏界面，无需切屏即可掌握重要信息",
       "source": "ITHome",
       "source_authority": 0.75,
       "date": "2026-09-26",
-      "score": 0.8225
+      "score": 0.7775
+    },
+    {
+      "title": "OPPO Find X10 Pro Max 手机体验：3 颗两亿镜头，就是这么豪横",
+      "url": "https://www.ithome.com/1/007/317.htm",
+      "summary": "9 月 22 日，OPPO 举办了新品发布会，正式发布了全新 OPPO Find X10 系列旗舰新机。其中，系列顶配的 Find X10 Pro Max，无疑是本次发布会大家最关注的核心产品。我们知道，Find X 系列一直是 OPPO 影像旗舰路线的集大成之作，以“真实影像 + 全能体验”为核心定位，特别是在影像上向来是不吝堆料且有自己的想法的，而这次的 Find X10 Pro Max 在这个路线上又进一步狂飙起来，全球首发三颗 2 亿像素哈苏全焦段镜头，覆盖主摄、超广角与潜望长焦，实现照片与视频能力双满配；同时搭载天玑 9600 Pro 2nm 旗舰芯片、8000mAh 冰川电池、新一代 1nit 明眸护眼屏，并首发 ColorOS 17 系统，在性能、续航、屏幕与系统体验上同步拉满。再看今年的国内旗舰市场，高端市场份额持续向头部集中，用户平均换机周期突破 40 个月，换机决策越来越偏向于“体验驱动”。而在影像旗舰这条赛道上，全焦段覆盖、照片与视频双优、光学硬件与计算摄影的深度协同，已经成为行业共识的突围方向。对 Find X10 Pro Max 来说，光有创新显然还不够，还需",
+      "short_summary": "9 月 22 日，OPPO 举办了新品发布会，正式发布了全新 OPPO Find X10 系列旗舰新机。其中，系列顶配的",
+      "detail": "9 月 22 日，OPPO 举办了新品发布会，正式发布了全新 OPPO Find X10 系列旗舰新机。其中，系列顶配的 Find X10 Pro Max，无疑是本次发布会大家最关注的核心产品。我们知道，Find X 系列一直是 OPPO 影像旗舰路线的集大成之作，以“真实影像 + 全能体验”为核心定位，特别是在影像上向来是不吝堆料且有自己的想法的，而这次的 Find X10 Pro Max 在这个路线上又进一步狂飙起来，全球首发三颗 2 亿像素哈苏全焦段镜头，覆盖主摄、超广角与潜望长焦，实现照片与视频能力双满配；同时搭载天玑 9600 Pro 2nm 旗舰芯片、8000mAh 冰川电池、新一代 1nit 明眸护眼屏，并首发 ColorOS 17 系统，在性能、续航、屏幕与系统体验上同步拉满。再看今年的国内旗舰市场，高端市场份额持续向头部集中，用户平均换机周期突破 40 个月，换机决策越来越偏向于“体验驱动”。而在影像旗舰这条赛道上，全焦段覆盖、照片与视频双优、光学硬件与计算摄影的深度协同，已经成为行业共识的突围方向。对 Find X10 Pro Max 来说，光有创新显然还不够，还需",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-09-26",
+      "score": 0.7575
     },
     {
       "title": "Microsoft thinks its new Copilot ‘super app’ will be as influential as Office",
@@ -167,17 +178,6 @@
       "source_authority": 0.9,
       "date": "2026-09-25",
       "score": 0.755
-    },
-    {
-      "title": "华为 Mate 90 系列及全场景新品发布会官宣定档 10 月 1 日",
-      "url": "https://www.ithome.com/1/007/296.htm",
-      "summary": "IT之家 9 月 26 日闪讯速报，华为官网显示，HUAWEI Mate 90 系列及全场景新品发布会正式官宣定档 10 月 1 日 14:30。据IT之家此前报道，消息称华为 Mate 90 系列线下开始分货，四款机型的 SKU 也已曝光：Mate 90 版：12+256GB/12+512GB/12+1TB，黑 / 白 / 粉 / 绿Mate 90 Pro 版：12+256GB/12+512GB/16+512GB/16+1TB，黑 / 白 / 橙 / 绿Mate 90 Pro Max 版：16+512GB/16+1TB，黑 / 白 / 金 / 绿 / 摄影套装Mate 90 RS 版：16+512GB/16+1TB，黑 / 白 / 红最新爆料显示，华为 Mate 90 系列手机将搭载最新麒麟旗舰处理器，延续星环设计，RS 是八边形，疑似调整为全系三摄 + 单潜望长焦方案。目前，麒麟 9050 Pro 处理器已正式发布，这枚处理器也是首款逻辑折叠 τ 芯片。据称，第一代 τ 芯片最佳性能设备还是得等华为 Mate 90 Pro Max。关于华为 Mate 90 系列新机的更多消息，感兴",
-      "short_summary": "IT之家 9 月 26 日闪讯速报，华为官网显示，HUAWEI Mate 90 系列及全场景新品发布会正式官宣定档 10",
-      "detail": "IT之家 9 月 26 日闪讯速报，华为官网显示，HUAWEI Mate 90 系列及全场景新品发布会正式官宣定档 10 月 1 日 14:30。据IT之家此前报道，消息称华为 Mate 90 系列线下开始分货，四款机型的 SKU 也已曝光：Mate 90 版：12+256GB/12+512GB/12+1TB，黑 / 白 / 粉 / 绿Mate 90 Pro 版：12+256GB/12+512GB/16+512GB/16+1TB，黑 / 白 / 橙 / 绿Mate 90 Pro Max 版：16+512GB/16+1TB，黑 / 白 / 金 / 绿 / 摄影套装Mate 90 RS 版：16+512GB/16+1TB，黑 / 白 / 红最新爆料显示，华为 Mate 90 系列手机将搭载最新麒麟旗舰处理器，延续星环设计，RS 是八边形，疑似调整为全系三摄 + 单潜望长焦方案。目前，麒麟 9050 Pro 处理器已正式发布，这枚处理器也是首款逻辑折叠 τ 芯片。据称，第一代 τ 芯片最佳性能设备还是得等华为 Mate 90 Pro Max。关于华为 Mate 90 系列新机的更多消息，感兴",
-      "source": "ITHome",
-      "source_authority": 0.75,
-      "date": "2026-09-26",
-      "score": 0.7325
     },
     {
       "title": "The Download: the Pentagon’s AI-powered lie detector and young organ limits",
@@ -226,6 +226,28 @@
   ],
   "category3": [
     {
+      "title": "英伟达获批 AI 工具专利：缩短游戏优化周期，让游戏体验更稳定",
+      "url": "https://www.ithome.com/1/007/339.htm",
+      "summary": "IT之家 9 月 26 日消息，游戏媒体 respawnfirst 于 9 月 23 日发布博文，报道称英伟达获批 AI 工具专利，有望缩短游戏优化周期，为玩家带来更稳定的游戏体验。该 AI 工具通过自然语言聊天界面，帮助游戏开发者诊断并优化 GPU 性能问题。在专利描述的一个示例场景中，开发者用自然语言询问“为什么开始光追后，帧时间飙升？”，该工具即时生成并运行 GPU 诊断代码，快速定位瓶颈，从而更快修复着色器编译卡顿、光追场景掉帧、镜头切换微卡顿等问题。IT之家援引博文介绍，在英伟达勾勒的未来，该工具可以缩短游戏优化周期，更高效定位问题，开发者可以在更短时间内给出针对性优化或热修复，从而减少玩家“等几个月才优化好”的情况。人手有限的团队也能用这套工具做更专业的性能分析，间接提升他们作品的 PC 版稳定性与帧率表现。对于普通玩家而言，该工具重点排查突然掉帧、卡顿方面问题，排查提高 1% Low 帧率，从而提高游戏运行稳定性。很多游戏一开光追就崩帧，如果开发者能更快找到“哪个着色器通道吃满带宽”、“哪一步渲染拖后腿”，就更可能给出可玩的平衡方案。",
+      "short_summary": "IT之家 9 月 26 日消息，游戏媒体 respawnfirst 于 9 月 23 日发布博文，报道称英伟达获批 AI",
+      "detail": "IT之家 9 月 26 日消息，游戏媒体 respawnfirst 于 9 月 23 日发布博文，报道称英伟达获批 AI 工具专利，有望缩短游戏优化周期，为玩家带来更稳定的游戏体验。该 AI 工具通过自然语言聊天界面，帮助游戏开发者诊断并优化 GPU 性能问题。在专利描述的一个示例场景中，开发者用自然语言询问“为什么开始光追后，帧时间飙升？”，该工具即时生成并运行 GPU 诊断代码，快速定位瓶颈，从而更快修复着色器编译卡顿、光追场景掉帧、镜头切换微卡顿等问题。IT之家援引博文介绍，在英伟达勾勒的未来，该工具可以缩短游戏优化周期，更高效定位问题，开发者可以在更短时间内给出针对性优化或热修复，从而减少玩家“等几个月才优化好”的情况。人手有限的团队也能用这套工具做更专业的性能分析，间接提升他们作品的 PC 版稳定性与帧率表现。对于普通玩家而言，该工具重点排查突然掉帧、卡顿方面问题，排查提高 1% Low 帧率，从而提高游戏运行稳定性。很多游戏一开光追就崩帧，如果开发者能更快找到“哪个着色器通道吃满带宽”、“哪一步渲染拖后腿”，就更可能给出可玩的平衡方案。",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-09-26",
+      "score": 0.8975
+    },
+    {
+      "title": "微星推出 MS-C9ZA 无风扇边缘 AI 盒子，基于 Jetson Orin Nano 8GB",
+      "url": "https://www.ithome.com/1/007/344.htm",
+      "summary": "IT之家 9 月 26 日消息，微星 (MSI) 本月 23 日宣布推出 MS-C9ZA。这款边缘 AI 盒子可在端侧执行 AI 推理与计算机视觉处理，协助降低云端依赖、带宽使用与网络延迟，面向机器人、智能制造等场景。MS-C9ZA 基于 NVIDIA（英伟达）Jetson Orin Nano 8GB 模组，拥有 1024 个 \"Ampere\" GPU 核心、6 个 Arm Cortex-A78AE CPU 内核，集成 8GB LPDDR5 内存。该设备采用无风扇的被动散热设计，三维 126×96×74 (mm)，支持 -25~+60 ℃ 工作温度范围允许 12~14V 宽幅电压 DC 输入。其提供 1 个 PCIe Gen4 ×4 的 M.2 2280 SSD 盘位、2 个 1GbE RJ-45，另有 HDMI、USB、I²C、UART、CAN、GPIO 等端口。",
+      "short_summary": "IT之家 9 月 26 日消息，微星 (MSI) 本月 23 日宣布推出 MS-C9ZA。这款边缘 AI 盒子可在端侧执",
+      "detail": "IT之家 9 月 26 日消息，微星 (MSI) 本月 23 日宣布推出 MS-C9ZA。这款边缘 AI 盒子可在端侧执行 AI 推理与计算机视觉处理，协助降低云端依赖、带宽使用与网络延迟，面向机器人、智能制造等场景。MS-C9ZA 基于 NVIDIA（英伟达）Jetson Orin Nano 8GB 模组，拥有 1024 个 \"Ampere\" GPU 核心、6 个 Arm Cortex-A78AE CPU 内核，集成 8GB LPDDR5 内存。该设备采用无风扇的被动散热设计，三维 126×96×74 (mm)，支持 -25~+60 ℃ 工作温度范围允许 12~14V 宽幅电压 DC 输入。其提供 1 个 PCIe Gen4 ×4 的 M.2 2280 SSD 盘位、2 个 1GbE RJ-45，另有 HDMI、USB、I²C、UART、CAN、GPIO 等端口。",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-09-26",
+      "score": 0.86
+    },
+    {
       "title": "Chip Industry Week In Review",
       "url": "https://semiengineering.com/chip-industry-week-in-review-157/",
       "summary": "AI agents move deeper into chip design; China doubles down on AI compute and memory; chip supply chains tighten for equipment and critical materials; TSMC partners accelerate; ICs head to space; optics advances, neural super resolution, auto PQC; Purdue-UIUC workforce training.\nThe post Chip Industry Week In Review appeared first on Semiconductor Engineering.",
@@ -246,6 +268,17 @@
       "source_authority": 0.95,
       "date": "2026-09-26",
       "score": 0.7175
+    },
+    {
+      "title": "消息称由于涨价影响，9 月 23 / 24 日开售的三个品牌旗舰手机系列都表现欠佳",
+      "url": "https://www.ithome.com/1/007/345.htm",
+      "summary": "IT之家 9 月 26 日消息，据博主 @RD观测 透露，由于涨价的影响，9 月 23 / 24 日开售的三个品牌的旗舰机系列都表现欠佳。其中，首销日小米 18 Pro 系列 SO 绝对值相对最高，同比上代全系列约 25%，同比上代 Pro 系列约 30%；全系列 16G 占比约 45%，两个版本旗鼓相当。据IT之家此前报道，该博主在今年 8 月底曾透露，由于涨价的情况非常离谱，多家厂商的旗舰机下调了 30%-50% 的计划量。内存涨价的原因想必大家都听过很多了，AI 算力爆发虹吸产能 + 三大寡头控产 + 行业库存见底 + DDR4/DDR5 换代断档，四重因素叠加想不涨都难。高通也宣布芯片会在今年 9 月涨价，涨幅将达到两位数百分比，此次调价可能影响智能手机、可穿戴设备等多个科技领域。另外，在 8 月 18 日晚间举办的 2026 年中期业绩媒体电话会上，小米集团总裁卢伟冰预判，今年下半年，内存涨价将趋缓，但涨势或仍会持续，存储成本仍将处于高位。",
+      "short_summary": "IT之家 9 月 26 日消息，据博主 @RD观测 透露，由于涨价的影响，9 月 23 / 24 日开售的三个品牌的旗舰",
+      "detail": "IT之家 9 月 26 日消息，据博主 @RD观测 透露，由于涨价的影响，9 月 23 / 24 日开售的三个品牌的旗舰机系列都表现欠佳。其中，首销日小米 18 Pro 系列 SO 绝对值相对最高，同比上代全系列约 25%，同比上代 Pro 系列约 30%；全系列 16G 占比约 45%，两个版本旗鼓相当。据IT之家此前报道，该博主在今年 8 月底曾透露，由于涨价的情况非常离谱，多家厂商的旗舰机下调了 30%-50% 的计划量。内存涨价的原因想必大家都听过很多了，AI 算力爆发虹吸产能 + 三大寡头控产 + 行业库存见底 + DDR4/DDR5 换代断档，四重因素叠加想不涨都难。高通也宣布芯片会在今年 9 月涨价，涨幅将达到两位数百分比，此次调价可能影响智能手机、可穿戴设备等多个科技领域。另外，在 8 月 18 日晚间举办的 2026 年中期业绩媒体电话会上，小米集团总裁卢伟冰预判，今年下半年，内存涨价将趋缓，但涨势或仍会持续，存储成本仍将处于高位。",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-09-26",
+      "score": 0.71
     },
     {
       "title": "Sony and UMG are suing Suno again",
@@ -282,17 +315,6 @@
     }
   ],
   "category4": [
-    {
-      "title": "消息称特斯拉 Optimus V3 机器人量产遇阻：机械手组装困难、AI 能力仍待突破",
-      "url": "https://www.ithome.com/1/007/277.htm",
-      "summary": "IT之家 9 月 26 日消息，特斯拉正将公司未来押注于人工智能和机器人，但其从电动汽车向人形机器人转型的过程中，也开始面临一系列量产和人员方面的挑战。据外媒 The Information 报道，特斯拉最新一代 Optimus V3 人形机器人在机械手设计、生产线设备以及训练数据采集等方面均遇到困难。目前，特斯拉已经将 Optimus 产量提升至每周数百台，但公司目标是在 2026 年底前将产能提升至每周超过 1000 台。其中，机械手一直是人形机器人制造中的难点之一。为了实现类似人手的精细操作能力，Optimus 的手部和前臂包含超过 100 个小型零部件，其中包括大量螺丝。目前这些部件仍需要工人进行人工组装，增加了生产复杂度。外媒称，特斯拉生产线上用于精确定位和组装零部件的设备也存在问题，生产线运行速度进一步提高后同样面临限制。部分新生产的机器人甚至需要在下线后立即进行人工修复。同时，Optimus 的触觉传感器也被曝出可靠性问题。为此，特斯拉开发了一层类似手套的传感器组件，使其能够在出现故障时单独更换，而无需更换整只机器人手部。在 AI 能力方面，Optimus 目前似乎也尚未",
-      "short_summary": "IT之家 9 月 26 日消息，特斯拉正将公司未来押注于人工智能和机器人，但其从电动汽车向人形机器人转型的过程中，也开始",
-      "detail": "IT之家 9 月 26 日消息，特斯拉正将公司未来押注于人工智能和机器人，但其从电动汽车向人形机器人转型的过程中，也开始面临一系列量产和人员方面的挑战。据外媒 The Information 报道，特斯拉最新一代 Optimus V3 人形机器人在机械手设计、生产线设备以及训练数据采集等方面均遇到困难。目前，特斯拉已经将 Optimus 产量提升至每周数百台，但公司目标是在 2026 年底前将产能提升至每周超过 1000 台。其中，机械手一直是人形机器人制造中的难点之一。为了实现类似人手的精细操作能力，Optimus 的手部和前臂包含超过 100 个小型零部件，其中包括大量螺丝。目前这些部件仍需要工人进行人工组装，增加了生产复杂度。外媒称，特斯拉生产线上用于精确定位和组装零部件的设备也存在问题，生产线运行速度进一步提高后同样面临限制。部分新生产的机器人甚至需要在下线后立即进行人工修复。同时，Optimus 的触觉传感器也被曝出可靠性问题。为此，特斯拉开发了一层类似手套的传感器组件，使其能够在出现故障时单独更换，而无需更换整只机器人手部。在 AI 能力方面，Optimus 目前似乎也尚未",
-      "source": "ITHome",
-      "source_authority": 0.75,
-      "date": "2026-09-26",
-      "score": 0.8975
-    },
     {
       "title": "Agility Robotics, maker of Digit humanoid, exploring wheeled robots",
       "url": "https://www.therobotreport.com/agility-robotics-maker-of-digit-humanoid-exploring-wheeled-robots/",
