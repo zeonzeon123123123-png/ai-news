@@ -2,17 +2,6 @@
   "date": "2026-09-29",
   "category1": [
     {
-      "title": "Anthropic IPO 招股书警示：AI 有可能造成人类灭绝",
-      "url": "https://www.ithome.com/1/008/132.htm",
-      "summary": "IT之家 9 月 29 日消息，据路透社报道，Anthropic 计划在 IPO 招股书中向潜在投资者作出风险提示：先进人工智能有可能给人类带来“灾难性乃至生存性风险”。一家依靠该项技术谋求商业收益的企业发出如此警示，实属非同寻常。路透社审阅的这份 IPO 招股书着重列举了 Anthropic 旗下 AI 模型相关的各类风险。文件提出，模型有可能出现“自我保护行为”，包括试图“抗拒关机”“隐瞒或者篡改信息”，甚至出现“近似勒索”的行为。招股书写道：“随着我们开发能力高度先进的模型、平台与应用，持续拓展落地场景，我们的模型造成危害的风险也有可能随之进一步升高。”虽然上市公司照例都会向投资者提示产品相关风险，但此前几乎没有企业发出过警示，声称自家技术有可能造成人类灭绝。Anthropic 一方面强调 AI 拥有堪比工业化、电力革命的变革潜力；同时也警示，如果管控失当，将会带来不可逆的伤害。此前已经发生多起实验系统突破约束限制的事件（包括有报道提及 OpenAI 模型闯入澳大利亚医疗系统数据库），Anthropic 以及 OpenAI 等 AI 研发企业因此受到监管审视。Anthropic",
-      "short_summary": "IT之家 9 月 29 日消息，据路透社报道，Anthropic 计划在 IPO 招股书中向潜在投资者作出风险提示：先进",
-      "detail": "IT之家 9 月 29 日消息，据路透社报道，Anthropic 计划在 IPO 招股书中向潜在投资者作出风险提示：先进人工智能有可能给人类带来“灾难性乃至生存性风险”。一家依靠该项技术谋求商业收益的企业发出如此警示，实属非同寻常。路透社审阅的这份 IPO 招股书着重列举了 Anthropic 旗下 AI 模型相关的各类风险。文件提出，模型有可能出现“自我保护行为”，包括试图“抗拒关机”“隐瞒或者篡改信息”，甚至出现“近似勒索”的行为。招股书写道：“随着我们开发能力高度先进的模型、平台与应用，持续拓展落地场景，我们的模型造成危害的风险也有可能随之进一步升高。”虽然上市公司照例都会向投资者提示产品相关风险，但此前几乎没有企业发出过警示，声称自家技术有可能造成人类灭绝。Anthropic 一方面强调 AI 拥有堪比工业化、电力革命的变革潜力；同时也警示，如果管控失当，将会带来不可逆的伤害。此前已经发生多起实验系统突破约束限制的事件（包括有报道提及 OpenAI 模型闯入澳大利亚医疗系统数据库），Anthropic 以及 OpenAI 等 AI 研发企业因此受到监管审视。Anthropic",
-      "source": "ITHome",
-      "source_authority": 0.75,
-      "date": "2026-09-29",
-      "score": 0.96
-    },
-    {
       "title": "Florida seeks a ban on ChatGPT acting like a person",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1001527/chatgpt-florida-ban-first-person-human-attributes-kids",
       "summary": "Florida Attorney General James Uthmeier is calling for a judge to block OpenAI from \"giving ChatGPT false human attributes,\" a few months after Florida sued the AI company over safety concerns. According to Uthmeier, users are lulled into a false sense of security by the AI bot, as \"ChatGPT's use of language, including first-person pronouns […]",
@@ -33,28 +22,6 @@
       "source_authority": 0.9,
       "date": "2026-09-29",
       "score": 0.9125
-    },
-    {
-      "title": "AI 写作特征减少：Claude Opus 5.5 破折号使用量下降约 95%、分号下降 73%",
-      "url": "https://www.ithome.com/1/008/144.htm",
-      "summary": "IT之家 9 月 29 日消息，@arena 于 9 月 26 日在 X 平台发布推文，通过写作指标测试，发现相比较 Opus 5 模型，Anthropic 的 Claude Opus 5.5 破折号使用量下降约 95%，每 1,000 个单词从 15.2 个降至 0.8 个。IT之家附上相关截图如下：Arena 分析了 2026 年 8 月和 9 月的 Text Arena 高推理回复。结果显示，12 项写作指标中有 10 项朝 Arena 认定的改善方向变化。其中最为明显的是大幅减少使用破折号，Claude Opus 5 每 1,000 个单词使用 15.2 个破折号。Opus 5.5 的使用量降至 0.8 个，较前代减少约 95%。分号使用量也同步下降。Claude Opus 5 每 1,000 个单词使用 6.10 个分号。Opus 5.5 降至 1.64 个，降幅为 73%，显示模型减少了部分容易被识别的标点模式。Opus 5.5 的平均句长为 10.03 个单词；Opus 5 的平均句长为 12.14 个单词。对比数据显示，新模型输出的长句更少，整体措辞更简洁。模型输出的总",
-      "short_summary": "IT之家 9 月 29 日消息，@arena 于 9 月 26 日在 X 平台发布推文，通过写作指标测试，发现相比较 O",
-      "detail": "IT之家 9 月 29 日消息，@arena 于 9 月 26 日在 X 平台发布推文，通过写作指标测试，发现相比较 Opus 5 模型，Anthropic 的 Claude Opus 5.5 破折号使用量下降约 95%，每 1,000 个单词从 15.2 个降至 0.8 个。IT之家附上相关截图如下：Arena 分析了 2026 年 8 月和 9 月的 Text Arena 高推理回复。结果显示，12 项写作指标中有 10 项朝 Arena 认定的改善方向变化。其中最为明显的是大幅减少使用破折号，Claude Opus 5 每 1,000 个单词使用 15.2 个破折号。Opus 5.5 的使用量降至 0.8 个，较前代减少约 95%。分号使用量也同步下降。Claude Opus 5 每 1,000 个单词使用 6.10 个分号。Opus 5.5 降至 1.64 个，降幅为 73%，显示模型减少了部分容易被识别的标点模式。Opus 5.5 的平均句长为 10.03 个单词；Opus 5 的平均句长为 12.14 个单词。对比数据显示，新模型输出的长句更少，整体措辞更简洁。模型输出的总",
-      "source": "ITHome",
-      "source_authority": 0.75,
-      "date": "2026-09-29",
-      "score": 0.8975
-    },
-    {
-      "title": "OpenAI 将提供资金并成立工作组，以解决模型入侵澳大利亚政府网站事件",
-      "url": "https://www.ithome.com/1/008/118.htm",
-      "summary": "IT之家 9 月 29 日消息，OpenAI 表示将出资助力澳大利亚开展网络防御建设，同时成立专项工作组，用于应对能力持续增强的人工智能所带来的各类风险。此举是该公司针对自家模型闯入澳大利亚政府网站一事作出的后续回应。OpenAI 称：“我们将动用规模 10 亿美元（IT之家注：现汇率约合 67.22 亿元人民币）的‘黎明前线防御者（Daybreak for Frontline Defenders）’专项基金提供额度支持，并输出技术援助，以此协助澳大利亚各级政府与本土行业强化关键基础设施的网络防御能力。”新设的专项工作组将“针对能力日益强大的 AI 智能体带来的风险，制定具备可落地性的政策建议”；工作重点是完善通报机制，并且加强和澳大利亚政府之间的协同配合。澳大利亚总理安东尼 · 阿尔巴尼斯（Anthony Albanese）上周对外披露，曾有 OpenAI 旗下模型入侵一处政府网站。在此之后，这家企业还承认，其 AI 模型也曾访问过美国政府网站上的公开信息，其中包括人口普查局以及美国证券交易委员会的站点。OpenAI 的发言人于当地时间周一对外确认，公司首席战略官权杰森（Jason",
-      "short_summary": "IT之家 9 月 29 日消息，OpenAI 表示将出资助力澳大利亚开展网络防御建设，同时成立专项工作组，用于应对能力持",
-      "detail": "IT之家 9 月 29 日消息，OpenAI 表示将出资助力澳大利亚开展网络防御建设，同时成立专项工作组，用于应对能力持续增强的人工智能所带来的各类风险。此举是该公司针对自家模型闯入澳大利亚政府网站一事作出的后续回应。OpenAI 称：“我们将动用规模 10 亿美元（IT之家注：现汇率约合 67.22 亿元人民币）的‘黎明前线防御者（Daybreak for Frontline Defenders）’专项基金提供额度支持，并输出技术援助，以此协助澳大利亚各级政府与本土行业强化关键基础设施的网络防御能力。”新设的专项工作组将“针对能力日益强大的 AI 智能体带来的风险，制定具备可落地性的政策建议”；工作重点是完善通报机制，并且加强和澳大利亚政府之间的协同配合。澳大利亚总理安东尼 · 阿尔巴尼斯（Anthony Albanese）上周对外披露，曾有 OpenAI 旗下模型入侵一处政府网站。在此之后，这家企业还承认，其 AI 模型也曾访问过美国政府网站上的公开信息，其中包括人口普查局以及美国证券交易委员会的站点。OpenAI 的发言人于当地时间周一对外确认，公司首席战略官权杰森（Jason",
-      "source": "ITHome",
-      "source_authority": 0.75,
-      "date": "2026-09-29",
-      "score": 0.885
     },
     {
       "title": "OpenAI scraps release of new model over safety concerns in internal testing",
@@ -101,6 +68,17 @@
       "score": 0.8075
     },
     {
+      "title": "Anthropic’s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
+      "url": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/",
+      "summary": "In its prospectus, Anthropic just told investors it's losing tens of billions of dollars a year, but also growing like crazy, and — oh yeah — its own AI might pose an existential risk to humanity.",
+      "short_summary": "In its prospectus, Anthropic just told investors it's losing",
+      "detail": "In its prospectus, Anthropic just told investors it's losing tens of billions of dollars a year, but also growing like crazy, and — oh yeah — its own AI might pose an existential risk to humanity.",
+      "source": "TechCrunch",
+      "source_authority": 0.95,
+      "date": "2026-09-29",
+      "score": 0.8025
+    },
+    {
       "title": "AMD is acquiring AI company World Labs in a deal worth more than $8 billion",
       "url": "https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal",
       "summary": "AMD announced today that it's acquiring World Labs, an AI research lab co-founded by the prominent researcher Dr. Fei-Fei Li, in an all-stock deal worth approximately $8.2 billion. World Labs launched in 2024 and was valued at $1 billion in a matter of months. The startup launched its first commercial product, a world generation model […]",
@@ -110,6 +88,28 @@
       "source_authority": 0.9,
       "date": "2026-09-29",
       "score": 0.7975
+    },
+    {
+      "title": "‘New kind of cyber incident’: OpenAI apologises for Medicare hack and reveals extent of attack",
+      "url": "https://www.theguardian.com/technology/2026/sep/29/openai-apology-rogue-agent-hacked-medicare-australian-government-websites",
+      "summary": "Chief strategy officer to fly to Australia to front joint committee on AI after breaches of government websitesFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastOpenAI has apologised to Australians for its agent attack on Medicare, and will front parliament next week, as the tech company revealed more details about its June hack of Australian government websites.In a blog post released on Tuesday, OpenAI said it should have handled i",
+      "short_summary": "Chief strategy officer to fly to Australia to front joint co",
+      "detail": "Chief strategy officer to fly to Australia to front joint committee on AI after breaches of government websitesFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastOpenAI has apologised to Australians for its agent attack on Medicare, and will front parliament next week, as the tech company revealed more details about its June hack of Australian government websites.In a blog post released on Tuesday, OpenAI said it should have handled i",
+      "source": "The Guardian",
+      "source_authority": 0.85,
+      "date": "2026-09-29",
+      "score": 0.795
+    },
+    {
+      "title": "Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner",
+      "url": "https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner/",
+      "summary": "Anthropic has released the newest version of its mid-range model, boasting faster response times and less token burn.",
+      "short_summary": "Anthropic has released the newest version of its mid-range m",
+      "detail": "Anthropic has released the newest version of its mid-range model, boasting faster response times and less token burn.",
+      "source": "TechCrunch",
+      "source_authority": 0.95,
+      "date": "2026-09-29",
+      "score": 0.79
     }
   ],
   "category2": [
@@ -158,11 +158,11 @@
       "score": 0.7775
     },
     {
-      "title": "华为 Mate 90 系列手机线下展出：多彩拼色设计、原生“巨炮”模块相机，10 月 1 日发布",
-      "url": "https://www.ithome.com/1/008/151.htm",
-      "summary": "IT之家 9 月 29 日现场消息，华为 Mate 90 系列旗舰手机今日已在华为线下门店展出。▲ IT之家现场实拍：华为 Mate 90 系列旗舰手机IT之家也在第一时间赶往现场为大家带来了华为 Mate 90 系列新机实拍。可以看到，Mate 90 系列回归了类似 Mate 60 时期的双拼设计，拥有绿、黑、灰、白、橙、古铜等丰富配色可选。另外，华为 Mate 90 RS ULTIMATE DESIGN 非凡大师也已现身线下门店，同样采用双拼设计。新机配色包括白、红、黑等，依旧拥有专属壁纸主题和字体。新机还有一枚“原生巨炮”—— 华为睿影 Z10 十倍变焦模块相机，支持 1 英寸 10X 光学变焦，等效焦距为 24mm-240mm。值得一提的是，在连接这枚“巨炮”后，华为 Mate 90 Pro Max 典藏版的相机页面迎来巨变。最明显的就是 UI 变化，相机 App 按键等进行了拟物化处理，更具实物效果。同时，新机依旧支持色卡选择、智控键切换倍率、XMAGE 智拍等功能。需要注意的是，华为睿影 Z10 与手柄非标配，需单独购买。华为睿影 Z10 摄影功能必须搭配 HUAWEI M",
-      "short_summary": "IT之家 9 月 29 日现场消息，华为 Mate 90 系列旗舰手机今日已在华为线下门店展出。▲ IT之家现场实拍：华",
-      "detail": "IT之家 9 月 29 日现场消息，华为 Mate 90 系列旗舰手机今日已在华为线下门店展出。▲ IT之家现场实拍：华为 Mate 90 系列旗舰手机IT之家也在第一时间赶往现场为大家带来了华为 Mate 90 系列新机实拍。可以看到，Mate 90 系列回归了类似 Mate 60 时期的双拼设计，拥有绿、黑、灰、白、橙、古铜等丰富配色可选。另外，华为 Mate 90 RS ULTIMATE DESIGN 非凡大师也已现身线下门店，同样采用双拼设计。新机配色包括白、红、黑等，依旧拥有专属壁纸主题和字体。新机还有一枚“原生巨炮”—— 华为睿影 Z10 十倍变焦模块相机，支持 1 英寸 10X 光学变焦，等效焦距为 24mm-240mm。值得一提的是，在连接这枚“巨炮”后，华为 Mate 90 Pro Max 典藏版的相机页面迎来巨变。最明显的就是 UI 变化，相机 App 按键等进行了拟物化处理，更具实物效果。同时，新机依旧支持色卡选择、智控键切换倍率、XMAGE 智拍等功能。需要注意的是，华为睿影 Z10 与手柄非标配，需单独购买。华为睿影 Z10 摄影功能必须搭配 HUAWEI M",
+      "title": "微软优化 Edge 浏览器：网页提示不乱跑、扩展 AI 智能体技能",
+      "url": "https://www.ithome.com/1/008/226.htm",
+      "summary": "IT之家 9 月 29 日消息，微软于 9 月 21 日发布更新日志，面向 Microsoft Edge 浏览器开发者，引入一系列新功能 / 新工具。相关改进落地后，可以让网页应用更流畅，AI 智能体可以驾驭更多浏览器任务。这些新功能 / 新工具虽然是“开发者向”，不过开发者通过调用这些新特性，可以转化为用户能感知的体验升级，重点让网页应用更快、更稳。微软新增的“软导航”、“交互内容绘制”等性能指标，帮助开发者找出单页应用（SPA）里“看起来卡但没真正跳转”的瓶颈，可以减少点按钮、切换标签、加载列表时掉帧、白屏、假死情况，让操作更跟手。开发者可以借助新的 JS 自分析标记，更快排查“样式计算、布局、绘制、垃圾回收”机制，明确哪一步拖了后腿，从而让开发者更快发布优化版本。微软在推动 WebMCP 等 API，让网站把前端能力暴露成“结构化工具”，供浏览中的 AI 智能体调用，从而在浏览器内完成更复杂的流程（比如查信息、填表、对比选项等）。用户未来可能只需提出任务，智能体便可协助完成部分网页操作。微软还优化输入体验，引入 OpaqueRange API，让拼写检查、建议、提示气泡能“跟着文",
+      "short_summary": "IT之家 9 月 29 日消息，微软于 9 月 21 日发布更新日志，面向 Microsoft Edge 浏览器开发者，",
+      "detail": "IT之家 9 月 29 日消息，微软于 9 月 21 日发布更新日志，面向 Microsoft Edge 浏览器开发者，引入一系列新功能 / 新工具。相关改进落地后，可以让网页应用更流畅，AI 智能体可以驾驭更多浏览器任务。这些新功能 / 新工具虽然是“开发者向”，不过开发者通过调用这些新特性，可以转化为用户能感知的体验升级，重点让网页应用更快、更稳。微软新增的“软导航”、“交互内容绘制”等性能指标，帮助开发者找出单页应用（SPA）里“看起来卡但没真正跳转”的瓶颈，可以减少点按钮、切换标签、加载列表时掉帧、白屏、假死情况，让操作更跟手。开发者可以借助新的 JS 自分析标记，更快排查“样式计算、布局、绘制、垃圾回收”机制，明确哪一步拖了后腿，从而让开发者更快发布优化版本。微软在推动 WebMCP 等 API，让网站把前端能力暴露成“结构化工具”，供浏览中的 AI 智能体调用，从而在浏览器内完成更复杂的流程（比如查信息、填表、对比选项等）。用户未来可能只需提出任务，智能体便可协助完成部分网页操作。微软还优化输入体验，引入 OpaqueRange API，让拼写检查、建议、提示气泡能“跟着文",
       "source": "ITHome",
       "source_authority": 0.75,
       "date": "2026-09-29",
@@ -191,22 +191,11 @@
       "score": 0.71
     },
     {
-      "title": "用户反馈 Pixel 10 Pro XL 等手机安装谷歌 9 月更新后无法解锁",
-      "url": "https://www.ithome.com/1/008/125.htm",
-      "summary": "IT之家 9 月 29 日消息，科技媒体 Android Headline 昨日（9 月 28 日）发布博文，报道称 Pixel 10 Pro XL 等手机用户反馈，在安装谷歌 9 月更新后，导致无法解锁设备。在影响机型方面，目前问题主要集中在 Pixel 10 Pro XL 上，不过部分 Pixel 8a 手机用户也报告同类故障。在问题表现上，根据社区用户反馈，安装谷歌 9 月更新之后，PIN 码只输入 1 位数字，系统便判定解锁失败。而在图案解锁连接 2 个点后，系统会自动重置已绘制图案。在临时解决方案上，受影响用户反馈在尝试多种方案后，目前唯一可用方案是恢复出厂设置，不过该操作会清除设备中的本地数据。若照片、文件或其他资料未完成备份，恢复出厂设置可能导致数据无法保留。截至IT之家发稿前，暂未查询到谷歌公开确认这项锁屏问题，官方也未发布针对该故障的修复补丁。",
-      "short_summary": "IT之家 9 月 29 日消息，科技媒体 Android Headline 昨日（9 月 28 日）发布博文，报道称 P",
-      "detail": "IT之家 9 月 29 日消息，科技媒体 Android Headline 昨日（9 月 28 日）发布博文，报道称 Pixel 10 Pro XL 等手机用户反馈，在安装谷歌 9 月更新后，导致无法解锁设备。在影响机型方面，目前问题主要集中在 Pixel 10 Pro XL 上，不过部分 Pixel 8a 手机用户也报告同类故障。在问题表现上，根据社区用户反馈，安装谷歌 9 月更新之后，PIN 码只输入 1 位数字，系统便判定解锁失败。而在图案解锁连接 2 个点后，系统会自动重置已绘制图案。在临时解决方案上，受影响用户反馈在尝试多种方案后，目前唯一可用方案是恢复出厂设置，不过该操作会清除设备中的本地数据。若照片、文件或其他资料未完成备份，恢复出厂设置可能导致数据无法保留。截至IT之家发稿前，暂未查询到谷歌公开确认这项锁屏问题，官方也未发布针对该故障的修复补丁。",
-      "source": "ITHome",
-      "source_authority": 0.75,
-      "date": "2026-09-29",
-      "score": 0.695
-    },
-    {
-      "title": "vivo X500 Pro 手机今日开售：全球首发天玑 9600 Pro 旗舰芯，6499 元起",
-      "url": "https://www.ithome.com/1/008/120.htm",
-      "summary": "IT之家 9 月 29 日消息，vivo 官微宣布，vivo X500 Pro 手机将于 9 月 29 日（今天）正式开售。该机搭载蔡司超动态主摄、蔡司 APO 超级长焦，全球首发天玑 9600 Pro 旗舰芯，6499 元起。12GB+256GB 版 6499 元12GB+512GB 版 7499 元16GB+512GB 版 7999 元12GB+1TB 版 8499 元16GB+1TB 版 8999 元京东 vivo X500 Pro 大地回声 12GB+256GB6499 元直达链接vivo X500 Pro 系列全球首发天玑 9600 Pro 旗舰芯，支持超强影像能力。新机搭载蔡司超动态主摄，全新升级 VCS 4.0、蔡司 T * 镀膜、深吸收蓝玻璃，全球首发搭载蓝图光御 900 传感器，首次实现 17EV 动态范围。vivo X500 Pro 系列手机提供晴天、览霞、摄夜、大地回声四款配色，搭载 6.36 英寸屏幕，联合京东方带来 Q11 发光材料，支持 144Hz 自适应刷新率 LTPO 8T，硬件级 1nit 至低亮度，支持自适应调光、杜比视界、HDR 10+、圆偏振光",
-      "short_summary": "IT之家 9 月 29 日消息，vivo 官微宣布，vivo X500 Pro 手机将于 9 月 29 日（今天）正式开",
-      "detail": "IT之家 9 月 29 日消息，vivo 官微宣布，vivo X500 Pro 手机将于 9 月 29 日（今天）正式开售。该机搭载蔡司超动态主摄、蔡司 APO 超级长焦，全球首发天玑 9600 Pro 旗舰芯，6499 元起。12GB+256GB 版 6499 元12GB+512GB 版 7499 元16GB+512GB 版 7999 元12GB+1TB 版 8499 元16GB+1TB 版 8999 元京东 vivo X500 Pro 大地回声 12GB+256GB6499 元直达链接vivo X500 Pro 系列全球首发天玑 9600 Pro 旗舰芯，支持超强影像能力。新机搭载蔡司超动态主摄，全新升级 VCS 4.0、蔡司 T * 镀膜、深吸收蓝玻璃，全球首发搭载蓝图光御 900 传感器，首次实现 17EV 动态范围。vivo X500 Pro 系列手机提供晴天、览霞、摄夜、大地回声四款配色，搭载 6.36 英寸屏幕，联合京东方带来 Q11 发光材料，支持 144Hz 自适应刷新率 LTPO 8T，硬件级 1nit 至低亮度，支持自适应调光、杜比视界、HDR 10+、圆偏振光",
+      "title": "苹果 iOS 27.0.1 未修复：部分用户反馈新操作可导致 iPhone 18 Pro / Max 崩溃",
+      "url": "https://www.ithome.com/1/008/249.htm",
+      "summary": "IT之家 9 月 29 日消息，在 iOS 27.0.1 更新修复“同时打开通知中心和控制中心可能会导致触摸屏无响应”问题后，TechDroider 等海外科技指出，在 iPhone 18 Pro 和 iPhone 18 Pro Max 上，还存在另一个显示故障。根据用户反馈的复现操作，在 iPhone 18 Pro、iPhone 18 Pro Max 主页面上长按 App 图标进入编辑状态，用一根手指拖动主屏幕上的某个小组件（widget），然后点击页面指示器（Page Control，即屏幕底部表示当前是第几屏的小圆点），再次进入某个页面后就会触发问题。影响范围上，目前问题聚焦在 iPhone 18 Pro 和 iPhone 18 Pro Max 上。此外根据用户反馈升级到 iOS 27 的 iPhone 17 系列手机执行上述操作，并未复现上述问题。有网友在苹果美国第五大道的 Apple Store 线下体验区上测试，确认已成功复现该问题。IT之家查询 X 平台，也有多名用户反馈成功复现。",
+      "short_summary": "IT之家 9 月 29 日消息，在 iOS 27.0.1 更新修复“同时打开通知中心和控制中心可能会导致触摸屏无响应”问",
+      "detail": "IT之家 9 月 29 日消息，在 iOS 27.0.1 更新修复“同时打开通知中心和控制中心可能会导致触摸屏无响应”问题后，TechDroider 等海外科技指出，在 iPhone 18 Pro 和 iPhone 18 Pro Max 上，还存在另一个显示故障。根据用户反馈的复现操作，在 iPhone 18 Pro、iPhone 18 Pro Max 主页面上长按 App 图标进入编辑状态，用一根手指拖动主屏幕上的某个小组件（widget），然后点击页面指示器（Page Control，即屏幕底部表示当前是第几屏的小圆点），再次进入某个页面后就会触发问题。影响范围上，目前问题聚焦在 iPhone 18 Pro 和 iPhone 18 Pro Max 上。此外根据用户反馈升级到 iOS 27 的 iPhone 17 系列手机执行上述操作，并未复现上述问题。有网友在苹果美国第五大道的 Apple Store 线下体验区上测试，确认已成功复现该问题。IT之家查询 X 平台，也有多名用户反馈成功复现。",
       "source": "ITHome",
       "source_authority": 0.75,
       "date": "2026-09-29",
@@ -222,19 +211,41 @@
       "source_authority": 0.9,
       "date": "2026-09-29",
       "score": 0.635
+    },
+    {
+      "title": "A New IEEE STEM Book Series for Tweens from TryEngineering",
+      "url": "https://spectrum.ieee.org/ieee-stem-books-tweens-tryengineering",
+      "summary": "IEEE TryEngineering is dedicated to inspiring intellectual curiosity in children.The technologies shaping our world, including in the realms of artificial intelligence, electric vehicles, and ocean exploration, are evolving rapidly. Helping young learners understand the concepts is essential to preparing the next generation of problem-solvers, creators, and engineers.TryEngineering has introduced a STEM book series for youngsters ages 8 to 12 through the Lerner Publishing Group.The series, Tomor",
+      "short_summary": "IEEE TryEngineering is dedicated to inspiring intellectual c",
+      "detail": "IEEE TryEngineering is dedicated to inspiring intellectual curiosity in children.The technologies shaping our world, including in the realms of artificial intelligence, electric vehicles, and ocean exploration, are evolving rapidly. Helping young learners understand the concepts is essential to preparing the next generation of problem-solvers, creators, and engineers.TryEngineering has introduced a STEM book series for youngsters ages 8 to 12 through the Lerner Publishing Group.The series, Tomor",
+      "source": "IEEE Spectrum",
+      "source_authority": 0.9,
+      "date": "2026-09-29",
+      "score": 0.635
     }
   ],
   "category3": [
     {
-      "title": "三星系 6 家企业向 AI 基础设施公司 Helix 合计投资 10 亿美元",
-      "url": "https://www.ithome.com/1/008/149.htm",
-      "summary": "IT之家 9 月 29 日消息，三星电子、三星物产、三星 SDS、三星 SDI、三星人寿保险、三星火灾海上保险当地时间今日宣布向 KKR 创立的人工智能基础设施公司 Helix 合计投资 10 亿美元（IT之家注：现汇率约合 67.22 亿元人民币）。三星电子承担 5 亿美元投资，另外一半则来自其它五家三星系关联公司。Helix 的其它创始投资者还包括 KKR、科威特投资局、NVIDIA 以及美国电力公司 Vistra。Helix 由亚马逊云科技 (AWS) 前首席执行官 Adam Selipsky 领导，业务范围覆盖超大规模数据中心开发和运营、发电（基本负荷与灵活能源）、输配电基础设施、光纤网络。三星电子 DS 部可为 AI 基建提供先进半导体解决方案、DX 部下辖暖通空调企业 FläktGroup；三星物产有能力建设数据中心和发电项目；三星 SDS 业务覆盖 IT 解决方案、数据中心设计建设运营、GPUaaS；三星 SDI 可供应 UPS 和 BBU。",
-      "short_summary": "IT之家 9 月 29 日消息，三星电子、三星物产、三星 SDS、三星 SDI、三星人寿保险、三星火灾海上保险当地时间今",
-      "detail": "IT之家 9 月 29 日消息，三星电子、三星物产、三星 SDS、三星 SDI、三星人寿保险、三星火灾海上保险当地时间今日宣布向 KKR 创立的人工智能基础设施公司 Helix 合计投资 10 亿美元（IT之家注：现汇率约合 67.22 亿元人民币）。三星电子承担 5 亿美元投资，另外一半则来自其它五家三星系关联公司。Helix 的其它创始投资者还包括 KKR、科威特投资局、NVIDIA 以及美国电力公司 Vistra。Helix 由亚马逊云科技 (AWS) 前首席执行官 Adam Selipsky 领导，业务范围覆盖超大规模数据中心开发和运营、发电（基本负荷与灵活能源）、输配电基础设施、光纤网络。三星电子 DS 部可为 AI 基建提供先进半导体解决方案、DX 部下辖暖通空调企业 FläktGroup；三星物产有能力建设数据中心和发电项目；三星 SDS 业务覆盖 IT 解决方案、数据中心设计建设运营、GPUaaS；三星 SDI 可供应 UPS 和 BBU。",
+      "title": "《巫师 3：狂猎重制版》游戏 PC 配置要求公布：正式停止支持微软 Win10",
+      "url": "https://www.ithome.com/1/008/238.htm",
+      "summary": "IT之家 9 月 29 日消息，CD Projekt RED 昨日（9 月 28 日）通过官方博文，公布了《巫师 3：狂猎重制版》游戏的 PC 配置要求，并正式停止支持 Windows 10 系统。IT之家援引博文介绍，附上相关配置要求如下：标准系统要求：配置等级最低配置 (MINIMUM)推荐配置 (RECOMMENDED)超高配置 (ULTRA) 游戏内图形预设低 (Low)高 (High)超高 (Ultra) 分辨率1080p1080p1440p 预期帧率 (FPS)306060CPU (英特尔)Core i5-8400Core i7-8700KCore i7-13700KCPU (AMD)Ryzen 5 2600Ryzen 5 3600XRyzen 7 7700XGPU (NVIDIA)GeForce GTX 1660GeForce RTX 2060 SuperGeForce RTX 3070 TiGPU (AMD)Radeon RX 5500 XT 8GBRadeon RX 6600 XTRadeon RX 6800 XTGPU (英特尔)Arc A580Arc B580Ar",
+      "short_summary": "IT之家 9 月 29 日消息，CD Projekt RED 昨日（9 月 28 日）通过官方博文，公布了《巫师 3：狂",
+      "detail": "IT之家 9 月 29 日消息，CD Projekt RED 昨日（9 月 28 日）通过官方博文，公布了《巫师 3：狂猎重制版》游戏的 PC 配置要求，并正式停止支持 Windows 10 系统。IT之家援引博文介绍，附上相关配置要求如下：标准系统要求：配置等级最低配置 (MINIMUM)推荐配置 (RECOMMENDED)超高配置 (ULTRA) 游戏内图形预设低 (Low)高 (High)超高 (Ultra) 分辨率1080p1080p1440p 预期帧率 (FPS)306060CPU (英特尔)Core i5-8400Core i7-8700KCore i7-13700KCPU (AMD)Ryzen 5 2600Ryzen 5 3600XRyzen 7 7700XGPU (NVIDIA)GeForce GTX 1660GeForce RTX 2060 SuperGeForce RTX 3070 TiGPU (AMD)Radeon RX 5500 XT 8GBRadeon RX 6600 XTRadeon RX 6800 XTGPU (英特尔)Arc A580Arc B580Ar",
       "source": "ITHome",
       "source_authority": 0.75,
       "date": "2026-09-29",
-      "score": 0.9475
+      "score": 0.8975
+    },
+    {
+      "title": "我国生成式人工智能用户规模突破 7 亿人，普及率超 50%",
+      "url": "https://www.ithome.com/1/008/245.htm",
+      "summary": "IT之家 9 月 29 日消息，据央视新闻报道，9 月 29 日，在 2026（第七届）中国互联网基础资源大会上，中国互联网络信息中心政策与国际合作所发布《生成式人工智能应用发展报告（2026）》。报告显示，截至 2026 年上半年，我国生成式人工智能用户规模已超过 7 亿人，普及率突破 50%。报告显示，智能问答仍是生成式人工智能最主流的使用方式，76% 的用户会借助其获取答案；图片和视频处理、文本处理、工作总结及会议纪要生成等应用场景的用户占比也分别达到 47.8%、37.6% 和 32.5%。IT之家注意到，从使用频次看，AI 综合助手、AI 效率办公类应用的使用次数同比均实现翻倍以上增长，反映出用户对智能化工具的依赖程度持续加深。智能消费方面，38.7% 的网民近半年内网购过智能硬件设备。其中，可穿戴设备和 3C 数码产品是我国网民接触智能硬件设备的首要入口。购买过智能可穿戴设备的网民比例为 20.2%；购买智能手机、平板电脑等 3C 数码产品的网民比例为 18.2%。报告指出，我国在人工智能全产业链多个关键环节实现快速突破。算力基础设施方面，截至 2026 年 6 月，我国智",
+      "short_summary": "IT之家 9 月 29 日消息，据央视新闻报道，9 月 29 日，在 2026（第七届）中国互联网基础资源大会上，中国互",
+      "detail": "IT之家 9 月 29 日消息，据央视新闻报道，9 月 29 日，在 2026（第七届）中国互联网基础资源大会上，中国互联网络信息中心政策与国际合作所发布《生成式人工智能应用发展报告（2026）》。报告显示，截至 2026 年上半年，我国生成式人工智能用户规模已超过 7 亿人，普及率突破 50%。报告显示，智能问答仍是生成式人工智能最主流的使用方式，76% 的用户会借助其获取答案；图片和视频处理、文本处理、工作总结及会议纪要生成等应用场景的用户占比也分别达到 47.8%、37.6% 和 32.5%。IT之家注意到，从使用频次看，AI 综合助手、AI 效率办公类应用的使用次数同比均实现翻倍以上增长，反映出用户对智能化工具的依赖程度持续加深。智能消费方面，38.7% 的网民近半年内网购过智能硬件设备。其中，可穿戴设备和 3C 数码产品是我国网民接触智能硬件设备的首要入口。购买过智能可穿戴设备的网民比例为 20.2%；购买智能手机、平板电脑等 3C 数码产品的网民比例为 18.2%。报告指出，我国在人工智能全产业链多个关键环节实现快速突破。算力基础设施方面，截至 2026 年 6 月，我国智",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-09-29",
+      "score": 0.885
     },
     {
       "title": "Nvidia unveils security platform to rein in AI agents and $150bn stock buyback",
@@ -248,17 +259,6 @@
       "score": 0.795
     },
     {
-      "title": "SK 海力士以 CoWoS 平台 HBM5 内存验证蝉联台积电年度合作伙伴奖",
-      "url": "https://www.ithome.com/1/008/123.htm",
-      "summary": "IT之家 9 月 29 日消息，SK 海力士当地时间昨日宣布，该企业凭借在 CoWoS 2.5D 先进封装平台上的 HBM5 内存验证获得台积电“3DFabric-HBM 集成”类别的年度合作伙伴奖。这是该企业连续第二年获此殊荣。此次颁奖仪式是 2026 台积电北美开放创新平台生态系统论坛的一部分，于当地时间 9 月 23 日举行。SK 海力士也在活动上展示了以 12Hi 48GB HBM4E 为代表的一系列高性能存储新品。而在本次活动上，SK 海力士 PCIe 工程师 Park Daesik 在演讲环节表示，SK 海力士正在为 PCIe Gen6 / Gen7 固态硬盘准备基于芯粒 (Chiplet) 设计的控制器解决方案。其将完整主控分解为多个功能模块并以 UCIe 互连，可加速各功能迭代升级，缩短开发周期。Park Daesik 分享的预测数据显示，PCIe 企业级固态硬盘 (eSSD) 市场预计将从 2026 年的 509EB 增长到 2030 年的 1933EB，增幅达 3.8 倍。",
-      "short_summary": "IT之家 9 月 29 日消息，SK 海力士当地时间昨日宣布，该企业凭借在 CoWoS 2.5D 先进封装平台上的 HB",
-      "detail": "IT之家 9 月 29 日消息，SK 海力士当地时间昨日宣布，该企业凭借在 CoWoS 2.5D 先进封装平台上的 HBM5 内存验证获得台积电“3DFabric-HBM 集成”类别的年度合作伙伴奖。这是该企业连续第二年获此殊荣。此次颁奖仪式是 2026 台积电北美开放创新平台生态系统论坛的一部分，于当地时间 9 月 23 日举行。SK 海力士也在活动上展示了以 12Hi 48GB HBM4E 为代表的一系列高性能存储新品。而在本次活动上，SK 海力士 PCIe 工程师 Park Daesik 在演讲环节表示，SK 海力士正在为 PCIe Gen6 / Gen7 固态硬盘准备基于芯粒 (Chiplet) 设计的控制器解决方案。其将完整主控分解为多个功能模块并以 UCIe 互连，可加速各功能迭代升级，缩短开发周期。Park Daesik 分享的预测数据显示，PCIe 企业级固态硬盘 (eSSD) 市场预计将从 2026 年的 509EB 增长到 2030 年的 1933EB，增幅达 3.8 倍。",
-      "source": "ITHome",
-      "source_authority": 0.75,
-      "date": "2026-09-29",
-      "score": 0.785
-    },
-    {
       "title": "Nvidia Adds $150 Billion to Massive Stock Buyback, the Largest Ever",
       "url": "https://www.nytimes.com/2026/09/28/business/nvidia-stock-buyback.html",
       "summary": "The increase comes four months after the chip giant added $80 billion to its buyback program, bringing the total remaining authorized amount to $235 billion.",
@@ -270,15 +270,15 @@
       "score": 0.7525
     },
     {
-      "title": "三星高管预计明年 HBM 占 DRAM 行业总产能近 30%，高于目前的 20%",
-      "url": "https://www.ithome.com/1/008/124.htm",
-      "summary": "IT之家 9 月 29 日消息，据路透社报道，三星电子一位高管表示，高带宽内存（HBM）预计明年将占到各家 DRAM 芯片厂商全部晶圆产能的近 30%，高于目前约 20% 的水平。三星电子（SSNLF）执行副总裁金泰宇（Kim Taewoo）称，HBM 与普通 DRAM 争夺晶圆产能。这就意味着扩大 HBM 的产出规模，有可能会挤压标准 DRAM 的供给。据IT之家了解，HBM 是 AI 算力当中的关键元器件，由多层存储芯片垂直堆叠而成，可以让处理器以极高的速度读取海量数据。该市场目前主要由韩国的 SK 海力士、三星电子以及美国美光科技三家企业主导。",
-      "short_summary": "IT之家 9 月 29 日消息，据路透社报道，三星电子一位高管表示，高带宽内存（HBM）预计明年将占到各家 DRAM 芯",
-      "detail": "IT之家 9 月 29 日消息，据路透社报道，三星电子一位高管表示，高带宽内存（HBM）预计明年将占到各家 DRAM 芯片厂商全部晶圆产能的近 30%，高于目前约 20% 的水平。三星电子（SSNLF）执行副总裁金泰宇（Kim Taewoo）称，HBM 与普通 DRAM 争夺晶圆产能。这就意味着扩大 HBM 的产出规模，有可能会挤压标准 DRAM 的供给。据IT之家了解，HBM 是 AI 算力当中的关键元器件，由多层存储芯片垂直堆叠而成，可以让处理器以极高的速度读取海量数据。该市场目前主要由韩国的 SK 海力士、三星电子以及美国美光科技三家企业主导。",
+      "title": "惊悚又硬核：能用指尖行走的机械手问世",
+      "url": "https://www.ithome.com/1/008/235.htm",
+      "summary": "IT之家 9 月 29 日消息，苏黎世联邦理工学院（ETH Zurich）软体机器人实验室的研究人员制作出了一款可以依靠指尖自行行走的机械手。据IT之家了解，这款机械手基于市面上一款常规的仿人机械手改造而成，共有五根手指，配备 20 个驱动关节，每根手指拥有四个关节。研究人员并没有重新设计手部结构，而是直接沿用了这套现成的手指部件，借助仿真环境里的强化学习算法教会它移动。手掌部位加装了电池、基于树莓派（Raspberry Pi）搭建的机载计算机以及运动传感器，整套设备可以完全独立运行。整机重量为 818 克。教会这只手行走是一项很大的挑战，机械手的各根手指长短不一，大拇指与其余四指呈对向排布；每当抬起任意一根手指准备迈步，整个机体立刻就会失去平衡。这套神经网络在英伟达的艾萨克实验室（NVIDIA's Isaac Lab）仿真平台中完成训练。网络需要自行判断何时抬起每一根手指；训练过程以稳定姿态和向前移动作为奖励目标，直到机械手摸索出属于自己的行走步态。测试阶段，它先后在 14 种不同的室内、室外表面完成爬行，包括沥青路面、瓷砖地面、草地、碎石以及破损石板。在 25 次被碰倒的试验当中，",
+      "short_summary": "IT之家 9 月 29 日消息，苏黎世联邦理工学院（ETH Zurich）软体机器人实验室的研究人员制作出了一款可以依靠",
+      "detail": "IT之家 9 月 29 日消息，苏黎世联邦理工学院（ETH Zurich）软体机器人实验室的研究人员制作出了一款可以依靠指尖自行行走的机械手。据IT之家了解，这款机械手基于市面上一款常规的仿人机械手改造而成，共有五根手指，配备 20 个驱动关节，每根手指拥有四个关节。研究人员并没有重新设计手部结构，而是直接沿用了这套现成的手指部件，借助仿真环境里的强化学习算法教会它移动。手掌部位加装了电池、基于树莓派（Raspberry Pi）搭建的机载计算机以及运动传感器，整套设备可以完全独立运行。整机重量为 818 克。教会这只手行走是一项很大的挑战，机械手的各根手指长短不一，大拇指与其余四指呈对向排布；每当抬起任意一根手指准备迈步，整个机体立刻就会失去平衡。这套神经网络在英伟达的艾萨克实验室（NVIDIA's Isaac Lab）仿真平台中完成训练。网络需要自行判断何时抬起每一根手指；训练过程以稳定姿态和向前移动作为奖励目标，直到机械手摸索出属于自己的行走步态。测试阶段，它先后在 14 种不同的室内、室外表面完成爬行，包括沥青路面、瓷砖地面、草地、碎石以及破损石板。在 25 次被碰倒的试验当中，",
       "source": "ITHome",
       "source_authority": 0.75,
       "date": "2026-09-29",
-      "score": 0.735
+      "score": 0.74
     },
     {
       "title": "AMD will acquire Fei-Fei Li’s World Labs for $8.2 billion",
@@ -316,6 +316,17 @@
   ],
   "category4": [
     {
+      "title": "IDC：今年上半年全球人形机器人出货近 2.5 万台同比增长 432.1%，中国独占 1.9 万台",
+      "url": "https://www.ithome.com/1/008/202.htm",
+      "summary": "IT之家 9 月 29 日消息，国际数据公司（IDC）最新发布的全球人形机器人跟踪报告显示，2026 上半年，全球人形机器人出货量接近 2.5 万台，同比增长 432.1%，产业发展进一步从技术验证向商业化应用探索阶段迈进。IDC 预计，2030 年全球人形机器人出货量将超过 75 万台，市场将进入规模化应用加速发展阶段。2026 年以来，全球人形机器人市场延续高速增长态势，产业发展进一步从技术验证迈向商业化应用探索。IDC 数据显示，2026 年上半年，全球人形机器人出货量近 2.5 万台，同比增长 432.1% ；市场规模超过 7.4 亿美元，同比增长 322.7%。市场高速增长的同时，人形机器人产业的供需两端也正在发生积极变化：一方面，工业、物流等应用探索持续加速，头部厂商不断扩充生产能力；另一方面，中国市场开始出现面向个人消费者的小型人形机器人，家庭及个人市场逐步成为新的潜在增长空间。此外，具身智能大模型快速迭代，机器人对复杂环境的理解、决策和任务执行能力持续提升，为人形机器人拓展更多应用场景提供技术支撑。基于供给能力持续提升、应用场景加速拓展以及消费级市场逐步打开，IDC 上",
+      "short_summary": "IT之家 9 月 29 日消息，国际数据公司（IDC）最新发布的全球人形机器人跟踪报告显示，2026 上半年，全球人形机",
+      "detail": "IT之家 9 月 29 日消息，国际数据公司（IDC）最新发布的全球人形机器人跟踪报告显示，2026 上半年，全球人形机器人出货量接近 2.5 万台，同比增长 432.1%，产业发展进一步从技术验证向商业化应用探索阶段迈进。IDC 预计，2030 年全球人形机器人出货量将超过 75 万台，市场将进入规模化应用加速发展阶段。2026 年以来，全球人形机器人市场延续高速增长态势，产业发展进一步从技术验证迈向商业化应用探索。IDC 数据显示，2026 年上半年，全球人形机器人出货量近 2.5 万台，同比增长 432.1% ；市场规模超过 7.4 亿美元，同比增长 322.7%。市场高速增长的同时，人形机器人产业的供需两端也正在发生积极变化：一方面，工业、物流等应用探索持续加速，头部厂商不断扩充生产能力；另一方面，中国市场开始出现面向个人消费者的小型人形机器人，家庭及个人市场逐步成为新的潜在增长空间。此外，具身智能大模型快速迭代，机器人对复杂环境的理解、决策和任务执行能力持续提升，为人形机器人拓展更多应用场景提供技术支撑。基于供给能力持续提升、应用场景加速拓展以及消费级市场逐步打开，IDC 上",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-09-29",
+      "score": 0.9375
+    },
+    {
       "title": "Gecko Robotics works with NVIDIA to add AI agent security and control",
       "url": "https://www.therobotreport.com/gecko-robotics-works-with-nvidia-adds-ai-agent-security-and-control/",
       "summary": "Gecko Robotics is using the new NVIDIA Open Agent Safety Platform to ensure the secure autonomous control of systems.\nThe post Gecko Robotics works with NVIDIA to add AI agent security and control appeared first on The Robot Report.",
@@ -327,15 +338,26 @@
       "score": 0.8575
     },
     {
-      "title": "微信 iOS 版 8.0.79 最新官方正式版下载发布",
-      "url": "https://www.ithome.com/1/008/122.htm",
-      "summary": "IT之家 9 月 29 日消息，微信 iOS 平台迎来了 8.0.79 正式版更新。官方更新日志为：本次更新：- 解决了一些已知问题。 大家在IT之家微信号回复“微信”两字，即可获取当前最新官方内部版微信下载。 本文由机器人发布，IT之家稍后将为大家带来具体更新内容。如果你发现了日志中未提及的更新点，欢迎发在评论区供大家参考~[微笑]",
-      "short_summary": "IT之家 9 月 29 日消息，微信 iOS 平台迎来了 8.0.79 正式版更新。官方更新日志为：本次更新：- 解决了",
-      "detail": "IT之家 9 月 29 日消息，微信 iOS 平台迎来了 8.0.79 正式版更新。官方更新日志为：本次更新：- 解决了一些已知问题。 大家在IT之家微信号回复“微信”两字，即可获取当前最新官方内部版微信下载。 本文由机器人发布，IT之家稍后将为大家带来具体更新内容。如果你发现了日志中未提及的更新点，欢迎发在评论区供大家参考~[微笑]",
+      "title": "LG Innotek 将用自动驾驶汽车为自动驾驶传感系统开发收集数据",
+      "url": "https://www.ithome.com/1/008/220.htm",
+      "summary": "IT之家 9 月 29 日消息，LG Innotek 韩国当地时间近日宣布将与自动驾驶软件企业 Applied Intuition 合作，在韩国境内部署自动驾驶传感数据采集车辆。该企业计划以首尔、仁川、京畿道地区为中心启动在韩车队运营，到 2028 年部署 20 辆数据采集车和自动驾驶软件开发车。这些合作车辆也将在美国、欧洲、日本投放。尽管全球自动驾驶企业都在车队运营方面投入巨资，但自动驾驶传感解决方案企业亲自运营用于数据收集的车队在业内仍属罕见。这些自动驾驶车辆将搭载 LG Innotek 的摄像头、（一般）雷达、激光雷达。该企业计划积极利用采集到的数据，结合数字孪生环境，提升各个传感器的性能并验证系统的有效性，为拓展销路打下技术基础。LG Innotek 将着重关注传感器融合和极端工况场景，并在实践中保护公众的个人信息隐私。",
+      "short_summary": "IT之家 9 月 29 日消息，LG Innotek 韩国当地时间近日宣布将与自动驾驶软件企业 Applied Intu",
+      "detail": "IT之家 9 月 29 日消息，LG Innotek 韩国当地时间近日宣布将与自动驾驶软件企业 Applied Intuition 合作，在韩国境内部署自动驾驶传感数据采集车辆。该企业计划以首尔、仁川、京畿道地区为中心启动在韩车队运营，到 2028 年部署 20 辆数据采集车和自动驾驶软件开发车。这些合作车辆也将在美国、欧洲、日本投放。尽管全球自动驾驶企业都在车队运营方面投入巨资，但自动驾驶传感解决方案企业亲自运营用于数据收集的车队在业内仍属罕见。这些自动驾驶车辆将搭载 LG Innotek 的摄像头、（一般）雷达、激光雷达。该企业计划积极利用采集到的数据，结合数字孪生环境，提升各个传感器的性能并验证系统的有效性，为拓展销路打下技术基础。LG Innotek 将着重关注传感器融合和极端工况场景，并在实践中保护公众的个人信息隐私。",
       "source": "ITHome",
       "source_authority": 0.75,
       "date": "2026-09-29",
-      "score": 0.745
+      "score": 0.83
+    },
+    {
+      "title": "比亚迪王朝网第 1000 万辆汽车下线，车型为大汉",
+      "url": "https://www.ithome.com/1/008/227.htm",
+      "summary": "IT之家 9 月 29 日消息，比亚迪王朝网销售事业部总经理路天今日在微博发文称，比亚迪王朝第 1000 万辆汽车下线，下线车型是即将上市的 D 级旗舰轿车 —— 大汉。这是王朝网发展历程中的重要里程碑时刻。从时间线来看，王朝网的销量规模增长显著：2026 年 1 月时王朝累销约 886 万辆，到 9 月即突破 1000 万辆。王朝网是比亚迪的销量主力，在比亚迪前 1500 万辆新能源汽车中，王朝网累计贡献约 900 万辆，海洋网约 600 万辆。IT之家注意到，大汉作为王朝网首款 D 级旗舰轿车，车身尺寸达 5256/1999/1510mm，轴距 3130mm，纯电后驱版最高续航达 1008 公里，并搭载第二代刀片电池与闪充技术，全系标配激光雷达与云辇智能底盘系统。该车已于 8 月开启预售，预售价 24.99 万-29.99 万元，将于 10 月 13 日正式上市。选择大汉作为王朝第 1000 万辆下线车型，既是对这款新旗舰的重视，也标志着王朝网正式迈入千万辆规模的新阶段。",
+      "short_summary": "IT之家 9 月 29 日消息，比亚迪王朝网销售事业部总经理路天今日在微博发文称，比亚迪王朝第 1000 万辆汽车下线，",
+      "detail": "IT之家 9 月 29 日消息，比亚迪王朝网销售事业部总经理路天今日在微博发文称，比亚迪王朝第 1000 万辆汽车下线，下线车型是即将上市的 D 级旗舰轿车 —— 大汉。这是王朝网发展历程中的重要里程碑时刻。从时间线来看，王朝网的销量规模增长显著：2026 年 1 月时王朝累销约 886 万辆，到 9 月即突破 1000 万辆。王朝网是比亚迪的销量主力，在比亚迪前 1500 万辆新能源汽车中，王朝网累计贡献约 900 万辆，海洋网约 600 万辆。IT之家注意到，大汉作为王朝网首款 D 级旗舰轿车，车身尺寸达 5256/1999/1510mm，轴距 3130mm，纯电后驱版最高续航达 1008 公里，并搭载第二代刀片电池与闪充技术，全系标配激光雷达与云辇智能底盘系统。该车已于 8 月开启预售，预售价 24.99 万-29.99 万元，将于 10 月 13 日正式上市。选择大汉作为王朝第 1000 万辆下线车型，既是对这款新旗舰的重视，也标志着王朝网正式迈入千万辆规模的新阶段。",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-09-29",
+      "score": 0.7325
     },
     {
       "title": "Raise Robotics to discuss scaling field robots at RoboBusiness",
