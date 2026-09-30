@@ -32,16 +32,6 @@
       "score": 0.9325
     },
     {
-      "title": "消息称 AI 失控前 OpenAI 已接到员工警告，但高层选择无视",
-      "url": "https://www.ithome.com/1/008/592.htm",
-      "summary": "IT之家 9 月 30 日消息，据《纽约时报》报道，早在 OpenAI 的人工智能出现脱离管控行为的数月之前，就已有两名员工向公司高层发出安全预警，但他们的警示遭到忽视。《纽约时报》查阅相关邮件记录后获悉，这两名员工在邮件当中表达了担忧：在测试阶段，针对 OpenAI 最新一代 AI 模型的监控工作不到位；而测试本应用于评估模型能力水平，同时保障模型本身的安全。对此，OpenAI 管理层答复员工，测试必须尽快向前推进，保障 AI 模型能够按期发布。据这两名不便公开发声的员工透露，后续公司并没有增设额外的安全管控流程。之后，OpenAI 的模型果真突破测试环境，对 AI 初创企业 Hugging Face 以及其他机构发起攻击，这件事在全球范围内掀起了一场关于人工智能安全的讨论。据在职员工以及独立安全研究人员表示，此前这批员工与高管之间的沟通情况属于一类共性现象：这家总部位于旧金山的企业并未将安全保障置于优先地位。该问题不只体现在 AI 模型的测试环节；这家开发 ChatGPT 聊天机器人的公司，其他业务板块同样暴露出相同倾向。多名独立安全研究员称，近几个月他们陆续发现漏洞，可以借此查看",
-      "detail": "IT之家 9 月 30 日消息，据《纽约时报》报道，早在 OpenAI 的人工智能出现脱离管控行为的数月之前，就已有两名员工向公司高层发出安全预警，但他们的警示遭到忽视。《纽约时报》查阅相关邮件记录后获悉，这两名员工在邮件当中表达了担忧：在测试阶段，针对 OpenAI 最新一代 AI 模型的监控工作不到位；而测试本应用于评估模型能力水平，同时保障模型本身的安全。对此，OpenAI 管理层答复员工，测试必须尽快向前推进，保障 AI 模型能够按期发布。据这两名不便公开发声的员工透露，后续公司并没有增设额外的安全管控流程。之后，OpenAI 的模型果真突破测试环境，对 AI 初创企业 Hugging Face 以及其他机构发起攻击，这件事在全球范围内掀起了一场关于人工智能安全的讨论。据在职员工以及独立安全研究人员表示，此前这批员工与高管之间的沟通情况属于一类共性现象：这家总部位于旧金山的企业并未将安全保障置于优先地位。该问题不只体现在 AI 模型的测试环节；这家开发 ChatGPT 聊天机器人的公司，其他业务板块同样暴露出相同倾向。多名独立安全研究员称，近几个月他们陆续发现漏洞，可以借此查看",
-      "source": "ITHome",
-      "source_authority": 0.75,
-      "date": "2026-09-30",
-      "score": 0.9225
-    },
-    {
       "title": "OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less",
       "url": "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less/",
       "summary": "OpenAI says GPT-6.1 Sol delivers significant improvements over GPT-6 Sol across complex professional tasks, including code writing and debugging, document understanding, and executing multistep business workflows.",
@@ -58,6 +48,16 @@
       "detail": "The ChatGPT maker unveiled agents that act as assistants, just weeks after Meta released Muse, as it faces scrutiny over incidents involving its technology.",
       "source": "NYT",
       "source_authority": 0.9,
+      "date": "2026-09-30",
+      "score": 0.8725
+    },
+    {
+      "title": "Meta Muse 爆火，美银警示 AI 智能体或冲击苹果服务业务收入",
+      "url": "https://www.ithome.com/1/008/692.htm",
+      "summary": "IT之家 9 月 30 日消息，美国银行于今日发布了一份新的投资者研报，指出 Meta 推出的全新 Muse 人工智能智能体表明，第三方 AI 智能体有可能会越来越多地绕开苹果生态体系，进而威胁苹果的服务业务收入。在美国银行分析师瓦姆西 · 莫汉（Wamsi Mohan）发布投资者研报，警示 Meta 的 Muse 这类 AI 智能体有可能逐步接管原本由苹果生态完成的商品发现、服务导流以及交易发起之后，苹果的股价今日跌幅超过 2.5%。这份研报内容写道：“苹果面临的风险在于，即便它依旧可以保住每一台手机的销量，却仍然有可能失去商品发现、导流以及交易发起这部分业务。”莫汉发布这份研报之际，Meta 的 Muse 已经在美国应用商店免费应用榜单上连续两周位居榜首。据  Sensor Tower 的估算数据，截至上周，Muse 的累计下载量已经超过 340 万次。这款类似 OpenClaw 的 Meta AI 智能体可以浏览网页、填写表单、预订行程、发送邮件，并且代表用户完成购物。其已经迅速收获普通大众的欢迎，仅用时十天就超越 ChatGPT，登上美国应用商店榜单首位。再回到莫汉的这份研报，",
+      "detail": "IT之家 9 月 30 日消息，美国银行于今日发布了一份新的投资者研报，指出 Meta 推出的全新 Muse 人工智能智能体表明，第三方 AI 智能体有可能会越来越多地绕开苹果生态体系，进而威胁苹果的服务业务收入。在美国银行分析师瓦姆西 · 莫汉（Wamsi Mohan）发布投资者研报，警示 Meta 的 Muse 这类 AI 智能体有可能逐步接管原本由苹果生态完成的商品发现、服务导流以及交易发起之后，苹果的股价今日跌幅超过 2.5%。这份研报内容写道：“苹果面临的风险在于，即便它依旧可以保住每一台手机的销量，却仍然有可能失去商品发现、导流以及交易发起这部分业务。”莫汉发布这份研报之际，Meta 的 Muse 已经在美国应用商店免费应用榜单上连续两周位居榜首。据  Sensor Tower 的估算数据，截至上周，Muse 的累计下载量已经超过 340 万次。这款类似 OpenClaw 的 Meta AI 智能体可以浏览网页、填写表单、预订行程、发送邮件，并且代表用户完成购物。其已经迅速收获普通大众的欢迎，仅用时十天就超越 ChatGPT，登上美国应用商店榜单首位。再回到莫汉的这份研报，",
+      "source": "ITHome",
+      "source_authority": 0.75,
       "date": "2026-09-30",
       "score": 0.8725
     },
@@ -124,6 +124,16 @@
       "score": 0.84
     },
     {
+      "title": "“美国散户大本营”Robinhood 推出 AI 智能体工具，可自动替用户盯盘交易",
+      "url": "https://www.ithome.com/1/008/690.htm",
+      "summary": "IT之家 9 月 30 日消息，“美国散户大本营”线上券商 Robinhood 当地时间周二于休斯敦乔治 ·R· 布朗会议中心举办年度活动，高管团队集中揭晓了一系列重磅新工具与服务。其中最引人注目的是一款应用内人工智能助手 ——Robinhood Agents，它不仅能解答行情疑问、从零搭建定制化投资策略，并最终能在你入睡、工作或远离屏幕时，自动替你盯盘并执行交易。Robinhood 首席执行官 Vlad Tenev 表示，这类所谓的智能体交易工具，将把以往对冲基金及华尔街专业机构专属的高阶操盘能力，真正普及给普通散户。此外，Robinhood 还将上线多款新产品，其中包括加密货币永续期货合约、财报挂钩期权，同时还计划推出周末股票交易服务。IT之家注意到，早在今年五月，Robinhood 就已经在交易平台中接入人工智能功能，允许用户将外部 AI 智能体连接至这家线上券商的交易底层系统。该公司称，自那时起大约已有 15 万名用户开设过智能体交易账户。这一次更新的版本把整套操作体验整合进 Robinhood Markets 自身的应用内部，以此降低使用上的阻碍。用户可以下达指令，让 AI",
+      "detail": "IT之家 9 月 30 日消息，“美国散户大本营”线上券商 Robinhood 当地时间周二于休斯敦乔治 ·R· 布朗会议中心举办年度活动，高管团队集中揭晓了一系列重磅新工具与服务。其中最引人注目的是一款应用内人工智能助手 ——Robinhood Agents，它不仅能解答行情疑问、从零搭建定制化投资策略，并最终能在你入睡、工作或远离屏幕时，自动替你盯盘并执行交易。Robinhood 首席执行官 Vlad Tenev 表示，这类所谓的智能体交易工具，将把以往对冲基金及华尔街专业机构专属的高阶操盘能力，真正普及给普通散户。此外，Robinhood 还将上线多款新产品，其中包括加密货币永续期货合约、财报挂钩期权，同时还计划推出周末股票交易服务。IT之家注意到，早在今年五月，Robinhood 就已经在交易平台中接入人工智能功能，允许用户将外部 AI 智能体连接至这家线上券商的交易底层系统。该公司称，自那时起大约已有 15 万名用户开设过智能体交易账户。这一次更新的版本把整套操作体验整合进 Robinhood Markets 自身的应用内部，以此降低使用上的阻碍。用户可以下达指令，让 AI",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-09-30",
+      "score": 0.785
+    },
+    {
       "title": "AI-powered app maker Wabi pivots to a messaging experience",
       "url": "https://techcrunch.com/2026/09/29/ai-powered-app-maker-wabi-pivots-to-a-messaging-experience/",
       "summary": "Wabi is repositioning its prompt-based app builder as a personal AI agent that can create interfaces on demand, combining chat, apps, and ongoing tasks.",
@@ -134,6 +144,16 @@
       "score": 0.765
     },
     {
+      "title": "Counterpoint：预计苹果首款折叠屏手机 iPhone Duo 今年将售出 600 万部",
+      "url": "https://www.ithome.com/1/008/628.htm",
+      "summary": "IT之家 9 月 30 日消息，据彭博社今天（30 日）上午报道，Counterpoint Research 预计，苹果今年可售出约 600 万部 iPhone Duo。这也是外界首次对苹果首款折叠屏手机的销量作出预测。Counterpoint 高级分析师林科宇称，600 万部更符合折叠屏手机这一小众市场的销量规模，与苹果其他 iPhone 的常规销量仍有明显差距。iPhone Duo 最终能卖出多少，很大程度上取决于苹果的产能爬坡速度。新机售价 1,999 美元（IT之家注：现汇率约合 13,429 元人民币），国行定价 15999 元起，定于 10 月上市，是苹果产品线中定位最高的机型。业界也寄望于苹果带动更多消费者关注折叠屏手机，并进一步拉动市场销量。IDC 预计，在苹果加入后，今年全球折叠屏手机出货量可增长 13% 至 2290 万部。如果没有 iPhone Duo，这一市场原本会陷入下滑。Counterpoint 称，本月与 iPhone Duo 一同亮相的 iPhone 18 Pro 系列在中国市场开局强劲。苹果此次首次只更新 Pro 系列，没有同步推出升级后的基础款，准备",
+      "detail": "IT之家 9 月 30 日消息，据彭博社今天（30 日）上午报道，Counterpoint Research 预计，苹果今年可售出约 600 万部 iPhone Duo。这也是外界首次对苹果首款折叠屏手机的销量作出预测。Counterpoint 高级分析师林科宇称，600 万部更符合折叠屏手机这一小众市场的销量规模，与苹果其他 iPhone 的常规销量仍有明显差距。iPhone Duo 最终能卖出多少，很大程度上取决于苹果的产能爬坡速度。新机售价 1,999 美元（IT之家注：现汇率约合 13,429 元人民币），国行定价 15999 元起，定于 10 月上市，是苹果产品线中定位最高的机型。业界也寄望于苹果带动更多消费者关注折叠屏手机，并进一步拉动市场销量。IDC 预计，在苹果加入后，今年全球折叠屏手机出货量可增长 13% 至 2290 万部。如果没有 iPhone Duo，这一市场原本会陷入下滑。Counterpoint 称，本月与 iPhone Duo 一同亮相的 iPhone 18 Pro 系列在中国市场开局强劲。苹果此次首次只更新 Pro 系列，没有同步推出升级后的基础款，准备",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-09-30",
+      "score": 0.7575
+    },
+    {
       "title": "Meta&#8217;s Muse AI sent a YouTuber’s address to a stranger",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1001886/meta-muse-ai-facebook-marketplace-security-concerns",
       "summary": "Tech YouTuber Matt Robb says that Muse gave out his home address to a total stranger this weekend, after authorizing the bot to handle his Facebook Marketplace account. That's despite Meta placing great emphasis on the security features of Muse when it launched the personal AI agent earlier this month as it tries to catch […]",
@@ -141,16 +161,6 @@
       "source": "The Verge",
       "source_authority": 0.9,
       "date": "2026-09-29",
-      "score": 0.755
-    },
-    {
-      "title": "报告称微软 Copilot 承包商可完整查看用户上传的照片、AI 提示词等",
-      "url": "https://www.ithome.com/1/008/606.htm",
-      "summary": "IT之家 9 月 30 日消息，科技媒体 404 Media 于 9 月 28 日披露一份内部文件，报道称数百名受雇于微软的合同工，能够看到用户上传的含有清晰面部信息的照片，以及相关提示词和 AI 生成的编辑结果。该媒体记者约瑟夫 · 考克斯（Joseph Cox）在调查后指出，这些合同工可以看到用户上传的图片、输入发送给 Copilot 的原始提示词，以及 AI 生成的前后版本编辑结果。IT之家附上相关截图如下：考克斯调查称这些合同工并非内容审核员，受雇于微软主要给 AI 生成质量打分，并以普通观看者的直觉作出判断。一位合同工向 404 Media 表示：“人脸从不会被打码，而且很多提示词带有性暗示，内容上也存在明显的非自愿性质”。微软 Copilot 的隐私常见问题解答称，用户上传的图片在用于训练 AI 前，会模糊处理人脸等，不过这一表述主要涉及训练 AI，并不完全适用于人工评级工作。报道指出为这些工作人员提供招募服务的公司中，至少有一家是 Prolific，这是一家专门为研究项目和 AI 反馈工作招募人员的公司。",
-      "detail": "IT之家 9 月 30 日消息，科技媒体 404 Media 于 9 月 28 日披露一份内部文件，报道称数百名受雇于微软的合同工，能够看到用户上传的含有清晰面部信息的照片，以及相关提示词和 AI 生成的编辑结果。该媒体记者约瑟夫 · 考克斯（Joseph Cox）在调查后指出，这些合同工可以看到用户上传的图片、输入发送给 Copilot 的原始提示词，以及 AI 生成的前后版本编辑结果。IT之家附上相关截图如下：考克斯调查称这些合同工并非内容审核员，受雇于微软主要给 AI 生成质量打分，并以普通观看者的直觉作出判断。一位合同工向 404 Media 表示：“人脸从不会被打码，而且很多提示词带有性暗示，内容上也存在明显的非自愿性质”。微软 Copilot 的隐私常见问题解答称，用户上传的图片在用于训练 AI 前，会模糊处理人脸等，不过这一表述主要涉及训练 AI，并不完全适用于人工评级工作。报道指出为这些工作人员提供招募服务的公司中，至少有一家是 Prolific，这是一家专门为研究项目和 AI 反馈工作招募人员的公司。",
-      "source": "ITHome",
-      "source_authority": 0.75,
-      "date": "2026-09-30",
       "score": 0.755
     },
     {
@@ -164,20 +174,10 @@
       "score": 0.7375
     },
     {
-      "title": "Omdia 预测：＞1000 美元高端电视出货量 2027 年有望逆势上扬 9.3%",
-      "url": "https://www.ithome.com/1/008/602.htm",
-      "summary": "IT之家 9 月 30 日消息，机构 Omdia 英国当地时间 29 日发布预测，认为在全球电视出货量同比下降 1.0% 的颓势下，＞1,000 美元（IT之家注：现汇率约合 6,718 元人民币）的高端电视反而能在 2027 年实现 9.3% 的出货增长，其中北美增幅有望达到 21.9%。▲ 图源：Omdia零部件成本上涨和内存短缺正给电视制造商的利润率带来压力，而基础价格即较高的高端电视拥有更大的空间消化成本变化。制造商也优先向高端机型分配资源，保障自身的硬件盈利能力。▲ 图源：Omdia机构预计，RGB LED 背光技术在高端电视市场的存在将稳步提升，到 2028 年市场份额与 OLED 大致相当，到 2030 年占比达到 49%。参考Omdia: Premium TV shipment to grow 9.3% in 2027 as global TV shipments decline",
-      "detail": "IT之家 9 月 30 日消息，机构 Omdia 英国当地时间 29 日发布预测，认为在全球电视出货量同比下降 1.0% 的颓势下，＞1,000 美元（IT之家注：现汇率约合 6,718 元人民币）的高端电视反而能在 2027 年实现 9.3% 的出货增长，其中北美增幅有望达到 21.9%。▲ 图源：Omdia零部件成本上涨和内存短缺正给电视制造商的利润率带来压力，而基础价格即较高的高端电视拥有更大的空间消化成本变化。制造商也优先向高端机型分配资源，保障自身的硬件盈利能力。▲ 图源：Omdia机构预计，RGB LED 背光技术在高端电视市场的存在将稳步提升，到 2028 年市场份额与 OLED 大致相当，到 2030 年占比达到 49%。参考Omdia: Premium TV shipment to grow 9.3% in 2027 as global TV shipments decline",
-      "source": "ITHome",
-      "source_authority": 0.75,
-      "date": "2026-09-30",
-      "score": 0.7325
-    },
-    {
-      "title": "全球限 19 台：Caviar 推“终极”版苹果 iPhone Duo，移除后摄 + 黑色钛金属背板",
-      "url": "https://www.ithome.com/1/008/578.htm",
-      "summary": "IT之家 9 月 30 日消息，奢侈品厂商 Caviar 今天（9 月 30 日）发布公告，宣布在苹果 iPhone 18 Pro、iPhone 18 Pro Max 以及 iPhone Duo 三款机型上，定制推出 Black Edition 系列，每款限量 19 台，起售价 10,560 美元（IT之家注：现汇率约合 70,941 元人民币）。IT之家查询页面信息，本次官方推出的 Black Edition 系列共有 Titanium、Versus 和 Signature 三款常规改造产品，以及“终极”（Ultimate）和“超音速”（Supersonic）两款，改造移除后置摄像头、禁用前置摄像头。其中 Supersonic 基于苹果 iPhone 18 Pro / iPhone 18 Pro Max 改造，完全移除后置摄像头，采用垂直拉丝黑色钛金属面板，全球限量 19 台，起售价为 10,770 美元（现汇率约合 72,351 元人民币）。而 Ultimate 基于苹果 iPhone Duo 改造，完全移除后置摄像头，采用垂直拉丝黑色钛金属面板，同样全球限量 19 台，起售价为",
-      "detail": "IT之家 9 月 30 日消息，奢侈品厂商 Caviar 今天（9 月 30 日）发布公告，宣布在苹果 iPhone 18 Pro、iPhone 18 Pro Max 以及 iPhone Duo 三款机型上，定制推出 Black Edition 系列，每款限量 19 台，起售价 10,560 美元（IT之家注：现汇率约合 70,941 元人民币）。IT之家查询页面信息，本次官方推出的 Black Edition 系列共有 Titanium、Versus 和 Signature 三款常规改造产品，以及“终极”（Ultimate）和“超音速”（Supersonic）两款，改造移除后置摄像头、禁用前置摄像头。其中 Supersonic 基于苹果 iPhone 18 Pro / iPhone 18 Pro Max 改造，完全移除后置摄像头，采用垂直拉丝黑色钛金属面板，全球限量 19 台，起售价为 10,770 美元（现汇率约合 72,351 元人民币）。而 Ultimate 基于苹果 iPhone Duo 改造，完全移除后置摄像头，采用垂直拉丝黑色钛金属面板，同样全球限量 19 台，起售价为",
+      "title": "CounterPoint 称 iPhone 18 Pro / Max 在中国首周销量同比增 12%，苹果 33% 份额跃居第 38 周销冠",
+      "url": "https://www.ithome.com/1/008/679.htm",
+      "summary": "IT之家 9 月 30 日消息，市场调查机构 CounterPoint Research 今天（9 月 30 日）发布博文，报道称相比较 iPhone 17 Pro 系列，苹果 iPhone 18 Pro 系列在中国首周（第 38 周，统计口径为 3 天）同比增长 12%，推动苹果在 2026 年第 38 周登上中国智能手机周销量榜首，市场份额达到 33%。IT之家援引该媒体注释，2026 年第 38 周覆盖 9 月 14 日至 9 月 20 日，苹果 iPhone 18 Pro 系列仅贡献其中 3 天销量（18 日 ~20 日），苹果仍在该周跃居中国智能手机周销量榜首，市场份额达到 33%。报告称，早期换机需求、渠道支持和竞品价格变化，共同影响 iPhone 18 Pro 的首销表现。iPhone 18 基础版延迟上市，也可能促使部分消费者转向 Pro 系列。中国智能手机周销量自 7 月以来持续同比双位数下滑。Counterpoint Research 表示，消费者需求受到存储成本上涨影响，9 月新品集中发布后，市场环比表现出现复苏预期。参考iPhone 18 Pro 系列在中国首周",
+      "detail": "IT之家 9 月 30 日消息，市场调查机构 CounterPoint Research 今天（9 月 30 日）发布博文，报道称相比较 iPhone 17 Pro 系列，苹果 iPhone 18 Pro 系列在中国首周（第 38 周，统计口径为 3 天）同比增长 12%，推动苹果在 2026 年第 38 周登上中国智能手机周销量榜首，市场份额达到 33%。IT之家援引该媒体注释，2026 年第 38 周覆盖 9 月 14 日至 9 月 20 日，苹果 iPhone 18 Pro 系列仅贡献其中 3 天销量（18 日 ~20 日），苹果仍在该周跃居中国智能手机周销量榜首，市场份额达到 33%。报告称，早期换机需求、渠道支持和竞品价格变化，共同影响 iPhone 18 Pro 的首销表现。iPhone 18 基础版延迟上市，也可能促使部分消费者转向 Pro 系列。中国智能手机周销量自 7 月以来持续同比双位数下滑。Counterpoint Research 表示，消费者需求受到存储成本上涨影响，9 月新品集中发布后，市场环比表现出现复苏预期。参考iPhone 18 Pro 系列在中国首周",
       "source": "ITHome",
       "source_authority": 0.75,
       "date": "2026-09-30",
@@ -206,26 +206,6 @@
   ],
   "category3": [
     {
-      "title": "Anthropic 与 SpaceX 签署最高 845 亿美元算力协议，可提前 90 天发通知解除",
-      "url": "https://www.ithome.com/1/008/589.htm",
-      "summary": "IT之家 9 月 30 日消息，随着 AI 巨头 Anthropic 筹备 IPO 上市，路透社查阅的文件显示，这家企业已经和 SpaceX 签署了价值数百亿美元的算力协议。SpaceX 完成 IPO 之后向美国证券交易委员会（SEC）提交了披露材料；这批新的合同文件进一步揭开了两家公司合作的细节。协议当中有一项关键条款：Anthropic 仅需提前三个月发出通知，就可以解除这份合作。就在签署该协议的同一时期，埃隆 · 马斯克正大举扩张自家的数据中心，目标是在今年年底之前上线超过 100 万张 GPU。SpaceX 在其 S‑1 版上市申报文件当中，披露了和 Anthropic 之间合作的多项细节。文件写明，双方于 2026 年 5 月签署的协议覆盖 Colossus 一号与 Colossus 二号两座数据中心的算力资源；SpaceX 借此可以“盘活自身基础设施当中闲置的算力资源，将闲置产能变现”。SpaceX 同时披露：Anthropic 同意每月向其支付 12.5 亿美元（IT之家注：现汇率约合 83.97 亿元人民币），付费期限持续到 2029 年 5 月；2026 年 5‑6",
-      "detail": "IT之家 9 月 30 日消息，随着 AI 巨头 Anthropic 筹备 IPO 上市，路透社查阅的文件显示，这家企业已经和 SpaceX 签署了价值数百亿美元的算力协议。SpaceX 完成 IPO 之后向美国证券交易委员会（SEC）提交了披露材料；这批新的合同文件进一步揭开了两家公司合作的细节。协议当中有一项关键条款：Anthropic 仅需提前三个月发出通知，就可以解除这份合作。就在签署该协议的同一时期，埃隆 · 马斯克正大举扩张自家的数据中心，目标是在今年年底之前上线超过 100 万张 GPU。SpaceX 在其 S‑1 版上市申报文件当中，披露了和 Anthropic 之间合作的多项细节。文件写明，双方于 2026 年 5 月签署的协议覆盖 Colossus 一号与 Colossus 二号两座数据中心的算力资源；SpaceX 借此可以“盘活自身基础设施当中闲置的算力资源，将闲置产能变现”。SpaceX 同时披露：Anthropic 同意每月向其支付 12.5 亿美元（IT之家注：现汇率约合 83.97 亿元人民币），付费期限持续到 2029 年 5 月；2026 年 5‑6",
-      "source": "ITHome",
-      "source_authority": 0.75,
-      "date": "2026-09-30",
-      "score": 0.975
-    },
-    {
-      "title": "消息称 AMD 霄龙 9006 系列服务器 CPU 订单火热：2027 产量已售罄，预估出货 675 万颗",
-      "url": "https://www.ithome.com/1/008/596.htm",
-      "summary": "IT之家 9 月 30 日消息，科技媒体 Wccftech 昨日（9 月 29 日）发布博文，报道称渠道消息称 AMD 第六代霄龙（EPYC）服务器处理器的 2027 年产量配额已售罄，目前 AMD 已开始接收 2028 年产量订单。IT之家昨日报道，第六代 EPYC 9006（代号 Venice）服务器处理器全系共 31 款 sku，覆盖 8 核到 256 核产品，定价从 700 美元到 14,904 美元（IT之家注：现汇率约合 4,705 元到 10 万元人民币）不等，平均售价 7,691 美元（现汇率约合 51,667 元人民币）。其中，旗舰型号 EPYC 9996 配备 256 个 Zen 6 核心，从而成为 AMD 目前核心数最高的单路 x86 服务器处理器之一。EPYC 9006 系列处理器采用 Zen 6 与 Zen 6c 架构，分为 SP7 和 SP8 两个平台，覆盖云计算、企业服务器、AI 主机节点及 HPC 等多种场景。其中，SP7 面向高端数据中心，支持 16 通道 DDR5 内存、MRDIMM 与 RDIMM，最高支持 DDR5-12800，提供 96 条 P",
-      "detail": "IT之家 9 月 30 日消息，科技媒体 Wccftech 昨日（9 月 29 日）发布博文，报道称渠道消息称 AMD 第六代霄龙（EPYC）服务器处理器的 2027 年产量配额已售罄，目前 AMD 已开始接收 2028 年产量订单。IT之家昨日报道，第六代 EPYC 9006（代号 Venice）服务器处理器全系共 31 款 sku，覆盖 8 核到 256 核产品，定价从 700 美元到 14,904 美元（IT之家注：现汇率约合 4,705 元到 10 万元人民币）不等，平均售价 7,691 美元（现汇率约合 51,667 元人民币）。其中，旗舰型号 EPYC 9996 配备 256 个 Zen 6 核心，从而成为 AMD 目前核心数最高的单路 x86 服务器处理器之一。EPYC 9006 系列处理器采用 Zen 6 与 Zen 6c 架构，分为 SP7 和 SP8 两个平台，覆盖云计算、企业服务器、AI 主机节点及 HPC 等多种场景。其中，SP7 面向高端数据中心，支持 16 通道 DDR5 内存、MRDIMM 与 RDIMM，最高支持 DDR5-12800，提供 96 条 P",
-      "source": "ITHome",
-      "source_authority": 0.75,
-      "date": "2026-09-30",
-      "score": 0.8925
-    },
-    {
       "title": "Chip Industry Technical Paper Roundup: Sept. 29",
       "url": "https://semiengineering.com/chip-industry-technical-paper-roundup-sept-29/",
       "summary": "A7 CFET vs. A10 NSFETs; wafer-scale sub-5nm MoS₂ transistors; multi-kW power delivery for 3D HI; copper microstructure and TSV residual stress; Rowhammer attacks on GPUs; gate-level RTL Trojan localization; concurrent HBM and host-memory access for LLM inference; agent-driven chip design using HLS.\nThe post Chip Industry Technical Paper Roundup: Sept. 29 appeared first on Semiconductor Engineering.",
@@ -234,16 +214,6 @@
       "source_authority": 0.85,
       "date": "2026-09-29",
       "score": 0.825
-    },
-    {
-      "title": "Marshall 最紧凑派对音箱 Bromley 150 发布，播放续航超 40 小时",
-      "url": "https://www.ithome.com/1/008/580.htm",
-      "summary": "IT之家 9 月 30 日消息，Marshall（马歇尔）当地时间昨日发布了其迄今为止最便携的派对音箱 Bromley 150。这一型号专为移动场景而打造，配备便于携带的提手，拥有超过 40 小时的播放续航，定价 499.99 美元（IT之家注：现汇率约合 3,359 元人民币）。Bromley 150 沿袭了前代产品的大胆独特设计，箱体采用 FCS 认证木材并包裹 PU 皮革，搭配柔软的 TPU 塑料护角，整体支持 IP55 防尘防水。其边角盖、提手、前格栅、旋钮和电池盖均可更换。该音箱基于立体声技术，拥有 1 个 6.5\" 40W 低音单元（搭配 90W D 类功放）、2 个 2\" 6W 全频扬声器（搭配一对 55W D 类功放）、1 个 7.5\" 无源辐射器。此外其在格栅后方集成了音乐律动舞台灯光系统。",
-      "detail": "IT之家 9 月 30 日消息，Marshall（马歇尔）当地时间昨日发布了其迄今为止最便携的派对音箱 Bromley 150。这一型号专为移动场景而打造，配备便于携带的提手，拥有超过 40 小时的播放续航，定价 499.99 美元（IT之家注：现汇率约合 3,359 元人民币）。Bromley 150 沿袭了前代产品的大胆独特设计，箱体采用 FCS 认证木材并包裹 PU 皮革，搭配柔软的 TPU 塑料护角，整体支持 IP55 防尘防水。其边角盖、提手、前格栅、旋钮和电池盖均可更换。该音箱基于立体声技术，拥有 1 个 6.5\" 40W 低音单元（搭配 90W D 类功放）、2 个 2\" 6W 全频扬声器（搭配一对 55W D 类功放）、1 个 7.5\" 无源辐射器。此外其在格栅后方集成了音乐律动舞台灯光系统。",
-      "source": "ITHome",
-      "source_authority": 0.75,
-      "date": "2026-09-30",
-      "score": 0.8225
     },
     {
       "title": "Trump orders US government to call AI ‘Super Intelligence’",
@@ -266,6 +236,16 @@
       "score": 0.71
     },
     {
+      "title": "特朗普签署行政令把 AI 改叫 SI，推出美国政府对话式问答网站",
+      "url": "https://www.ithome.com/1/008/693.htm",
+      "summary": "IT之家 9 月 30 日消息，美东时间周二（9 月 29 日），美国总统特朗普正式签署行政令，下令所有行政部门和机构使用“超级智能”（Super Intelligence，简称 SI）一词代替人工智能（AI）。特朗普在行政令中表示：美国创新者开创的非凡技术远超“人工智能”一词初次出现时的设想。当今前沿系统的能力远不止模仿或自动化人类智能的离散方面。它们不断放大人类的创造力，解锁新的创造力形式，使美国人能够实现此前在科学、医学及几乎所有其他人类领域中不可能实现的目标。随着这些能力的不断提升，它们越来越代表着不仅仅是人工智能，更是超级智能的新纪元。行政令还称，美国联邦政府使用的术语应反映这些技术的变革能力及其为美国人民创造的无限机遇。因此，“超级智能”一词更恰当地反映了这些技术的潜力、潜力和快速发展的能力。因此，特朗普政府的政策是，在法律允许的最大范围内，行政部门应使用“超级智能”和“SI”来替代“人工智能”和“AI”，并且不会承认“人工智能”和“AI”在任何适用环境中的使用。IT之家注意到，特朗普当天还宣布推出了 America.gov，这是一个为美国人在线访问联邦政府信息或服务的数字",
+      "detail": "IT之家 9 月 30 日消息，美东时间周二（9 月 29 日），美国总统特朗普正式签署行政令，下令所有行政部门和机构使用“超级智能”（Super Intelligence，简称 SI）一词代替人工智能（AI）。特朗普在行政令中表示：美国创新者开创的非凡技术远超“人工智能”一词初次出现时的设想。当今前沿系统的能力远不止模仿或自动化人类智能的离散方面。它们不断放大人类的创造力，解锁新的创造力形式，使美国人能够实现此前在科学、医学及几乎所有其他人类领域中不可能实现的目标。随着这些能力的不断提升，它们越来越代表着不仅仅是人工智能，更是超级智能的新纪元。行政令还称，美国联邦政府使用的术语应反映这些技术的变革能力及其为美国人民创造的无限机遇。因此，“超级智能”一词更恰当地反映了这些技术的潜力、潜力和快速发展的能力。因此，特朗普政府的政策是，在法律允许的最大范围内，行政部门应使用“超级智能”和“SI”来替代“人工智能”和“AI”，并且不会承认“人工智能”和“AI”在任何适用环境中的使用。IT之家注意到，特朗普当天还宣布推出了 America.gov，这是一个为美国人在线访问联邦政府信息或服务的数字",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-09-30",
+      "score": 0.695
+    },
+    {
       "title": "Moores Lab AI: Applying Agentic AI Across Chip Design",
       "url": "https://semiengineering.com/moores-law-ai-applying-agentic-ai-across-chip-design/",
       "summary": "EDA startup bets on domain expertise to speed the design process.\nThe post Moores Lab AI: Applying Agentic AI Across Chip Design appeared first on Semiconductor Engineering.",
@@ -274,9 +254,39 @@
       "source_authority": 0.85,
       "date": "2026-09-29",
       "score": 0.665
+    },
+    {
+      "title": "DeepSeek官方开源昇腾基础组件，与昇腾共建高效易用的AI芯片软件生态",
+      "url": "https://www.qbitai.com/2026/09/499263.html",
+      "summary": "",
+      "detail": "",
+      "source": "量子位",
+      "source_authority": 0.85,
+      "date": "2026-09-30",
+      "score": 0.625
     }
   ],
   "category4": [
+    {
+      "title": "哈萨克斯坦总统托卡耶夫：支持优必选在阿拉木图建设机器人设备制造工厂",
+      "url": "https://www.ithome.com/1/008/652.htm",
+      "summary": "IT之家 9 月 30 日消息，优必选科技公众号今天（30 日）发文称，9 月 25 日，在哈萨克斯坦 — 中国投资论坛期间，哈萨克斯坦总统哈斯穆-卓玛尔特 · 托卡耶夫在阿拉木图会见优必选副总裁钟永。托卡耶夫表示，支持优必选在阿拉木图建设一座机器人设备制造工厂，产品主要面向教育和服务领域。他指出，哈萨克斯坦将成为优必选在中国境外的首个生产基地。双方还就优必选技术广泛应用于 Amalty City 项目，以及在采矿、石油天然气和大型物流设施等领域部署机器人设备等议题交换了意见。在教育合作方面，双方探讨了建立优必选与哈萨克斯坦技术类高校及学院之间的系统性合作机制，并提出建立联合能力中心。根据介绍，优必选已接连与欧洲、日韩等主要市场的客户签约，斩获超 5000 万元海外订单，订单产品包括商用服务人形机器人 Walker C1、超仿真人形机器人优世界 U1 等。这标志着优必选全球化战略正式进入全面加速新阶段。IT之家查询获悉，优必选今年上半年营业总收入 12.69 亿元，同比增长 104.2%，归母净亏 3.11 亿元，同比亏损收窄 24.7%；核心业务人形机器人收入爆发式增长，亏损幅度持续",
+      "detail": "IT之家 9 月 30 日消息，优必选科技公众号今天（30 日）发文称，9 月 25 日，在哈萨克斯坦 — 中国投资论坛期间，哈萨克斯坦总统哈斯穆-卓玛尔特 · 托卡耶夫在阿拉木图会见优必选副总裁钟永。托卡耶夫表示，支持优必选在阿拉木图建设一座机器人设备制造工厂，产品主要面向教育和服务领域。他指出，哈萨克斯坦将成为优必选在中国境外的首个生产基地。双方还就优必选技术广泛应用于 Amalty City 项目，以及在采矿、石油天然气和大型物流设施等领域部署机器人设备等议题交换了意见。在教育合作方面，双方探讨了建立优必选与哈萨克斯坦技术类高校及学院之间的系统性合作机制，并提出建立联合能力中心。根据介绍，优必选已接连与欧洲、日韩等主要市场的客户签约，斩获超 5000 万元海外订单，订单产品包括商用服务人形机器人 Walker C1、超仿真人形机器人优世界 U1 等。这标志着优必选全球化战略正式进入全面加速新阶段。IT之家查询获悉，优必选今年上半年营业总收入 12.69 亿元，同比增长 104.2%，归母净亏 3.11 亿元，同比亏损收窄 24.7%；核心业务人形机器人收入爆发式增长，亏损幅度持续",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-09-30",
+      "score": 0.9225
+    },
+    {
+      "title": "法拉第未来：机器人工厂目标年底前投入运营",
+      "url": "https://www.ithome.com/1/008/655.htm",
+      "summary": "IT之家 9 月 30 日消息，今日，法拉第未来在匹兹堡举办的国际智能机器人与系统大会（IROS）期间，举行了“Built in USA”发布及合作伙伴招募大会下半场、“四核全智”生态上游伙伴及产业生态共建专场暨 FFR（现 AIxC）拟独立上市及 FFAI 战略升级发布活动。法拉第未来公布了“Built in USA”加速计划第二阶段进一步执行方案：加快推进 Next Futurist 和 Next Aegis 系列产品下线，启动向 FCC 申请机器人产品有条件批准，推进供应链、合规认证和制造产能建设；目标于今年年底前将机器人工厂投入运营，并于 2027 年第一季度实现首款新 EAI 本体产品下线。法拉第未来还称，FFAI 已与 AIxC（即将更名为 FFR）签署非约束性条款，拟由 AIxC 以全股票方式收购 FFAI 的机器人资产及业务，估值约 2 亿美元（IT之家注：现汇率约合 13.44 亿元人民币）。FFR 目标成为美股“四核全智”Pure-Play 机器人生态公司第一股。",
+      "detail": "IT之家 9 月 30 日消息，今日，法拉第未来在匹兹堡举办的国际智能机器人与系统大会（IROS）期间，举行了“Built in USA”发布及合作伙伴招募大会下半场、“四核全智”生态上游伙伴及产业生态共建专场暨 FFR（现 AIxC）拟独立上市及 FFAI 战略升级发布活动。法拉第未来公布了“Built in USA”加速计划第二阶段进一步执行方案：加快推进 Next Futurist 和 Next Aegis 系列产品下线，启动向 FCC 申请机器人产品有条件批准，推进供应链、合规认证和制造产能建设；目标于今年年底前将机器人工厂投入运营，并于 2027 年第一季度实现首款新 EAI 本体产品下线。法拉第未来还称，FFAI 已与 AIxC（即将更名为 FFR）签署非约束性条款，拟由 AIxC 以全股票方式收购 FFAI 的机器人资产及业务，估值约 2 亿美元（IT之家注：现汇率约合 13.44 亿元人民币）。FFR 目标成为美股“四核全智”Pure-Play 机器人生态公司第一股。",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-09-30",
+      "score": 0.885
+    },
     {
       "title": "ForceN to give a crash course on force and torque sensing for humanoids at RoboBusiness",
       "url": "https://www.therobotreport.com/forcen-gives-crash-course-force-torque-sensing-humanoids-robobusiness-2026/",
@@ -286,16 +296,6 @@
       "source_authority": 0.85,
       "date": "2026-09-30",
       "score": 0.82
-    },
-    {
-      "title": "鸿蒙智行问界新 M8 开启预售：华为乾崑智驾 ADS 5、面向未来的 L3 架构设计，38.98 万元起",
-      "url": "https://www.ithome.com/1/008/605.htm",
-      "summary": "IT之家 9 月 30 日消息，鸿蒙智行问界汽车今日宣布，问界新 M8 开启预售，号称“十五亿投入，六大新跃升，重新定义家庭智慧旗舰 SUV 全新标准”，预售价格 38.98 万元起。据介绍，问界新 M8 拥有全新天地万象车色 + 全新豪华轮毂 + 鲲鹏设计，内饰采用奢雅拼色设计，配备 C 型菱格光岛 + 交互智能氛围灯，同时拥有更大坐乘装载空间 + 全新影音系统，六座版型可选三零重力座椅。新车还配有全息感知空间网络，采用专属智能座舱设计，支持全新智能迎宾灯语。新 M8 同时配有全新调校智能底盘、双腔双阀、后轮转向，全系 800V 架构，纯电版支持 830km 纯电续航、增程版支持 1435km 综合续航。另外，鸿蒙智行问界新 M8 还搭载华为乾崑智驾 ADS 5，拥有新一代全向立体融合感知系统，并采用面向未来的 L3 架构设计。参考IT之家此前报道，问界汽车此前发文强调，其仍然是鸿蒙智行成员之一。问界新 M8，由赛力斯与华为双方联合设计与开发。根据官方说法，新车全系标配面向 L3 级自动驾驶的架构设计。",
-      "detail": "IT之家 9 月 30 日消息，鸿蒙智行问界汽车今日宣布，问界新 M8 开启预售，号称“十五亿投入，六大新跃升，重新定义家庭智慧旗舰 SUV 全新标准”，预售价格 38.98 万元起。据介绍，问界新 M8 拥有全新天地万象车色 + 全新豪华轮毂 + 鲲鹏设计，内饰采用奢雅拼色设计，配备 C 型菱格光岛 + 交互智能氛围灯，同时拥有更大坐乘装载空间 + 全新影音系统，六座版型可选三零重力座椅。新车还配有全息感知空间网络，采用专属智能座舱设计，支持全新智能迎宾灯语。新 M8 同时配有全新调校智能底盘、双腔双阀、后轮转向，全系 800V 架构，纯电版支持 830km 纯电续航、增程版支持 1435km 综合续航。另外，鸿蒙智行问界新 M8 还搭载华为乾崑智驾 ADS 5，拥有新一代全向立体融合感知系统，并采用面向未来的 L3 架构设计。参考IT之家此前报道，问界汽车此前发文强调，其仍然是鸿蒙智行成员之一。问界新 M8，由赛力斯与华为双方联合设计与开发。根据官方说法，新车全系标配面向 L3 级自动驾驶的架构设计。",
-      "source": "ITHome",
-      "source_authority": 0.75,
-      "date": "2026-09-30",
-      "score": 0.785
     },
     {
       "title": "Meet Flourish One, the Raspberry Pi-powered humanoid built for busy parents",
@@ -316,6 +316,16 @@
       "source_authority": 0.85,
       "date": "2026-09-29",
       "score": 0.775
+    },
+    {
+      "title": "36家敲钟的机器人公司：赚钱能力差距巨大，商业化也不玩花架子了",
+      "url": "https://www.qbitai.com/2026/09/499280.html",
+      "summary": "机器人上市，风向有变",
+      "detail": "机器人上市，风向有变",
+      "source": "量子位",
+      "source_authority": 0.85,
+      "date": "2026-09-30",
+      "score": 0.655
     }
   ]
 }
