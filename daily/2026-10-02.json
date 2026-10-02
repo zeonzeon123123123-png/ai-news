@@ -2,16 +2,6 @@
   "date": "2026-10-02",
   "category1": [
     {
-      "title": "冲刺感恩节前挂牌，消息称 Anthropic 寻求最早 11 月中旬上市",
-      "url": "https://www.ithome.com/1/009/237.htm",
-      "summary": "IT之家 10 月 2 日消息，据彭博社今天（2 日）援引知情人士消息称，在推迟原定计划后，Anthropic 寻求最早于 11 月中旬上市。知情人士称，Anthropic 最早可能在 11 月 9 日当周正式启动 IPO 推介，并争取在 11 月 26 日感恩节前挂牌交易。感恩节前后几天，资本市场交易活动通常会明显减少。Anthropic 仍计划最迟在今年年底前上市，此前原本准备在夏季过后公开提交 IPO 申请。目前具体安排仍在讨论，上市时间还可能调整。Anthropic 今年大部分时间势头强劲，OpenAI 等竞争对手近几个月的销售增长重新提速，竞争随之加剧。与此同时，一系列由失控 AI 智能体实施、备受关注的黑客攻击也让 AI 安全面临更多公众审视，并引发外界担忧，这些问题可能影响 Anthropic 的上市进程。Anthropic CEO 达里奥 · 阿莫代伊在个人网站发表文章，主张放慢新一代 AI 模型的发展速度。主要竞争对手 OpenAI 则推迟了 IPO 计划，CEO 萨姆 · 奥尔特曼认为现在并不是上市的合适时机。知情人士称，这些担忧似乎没有削弱潜在投资者的兴趣。部分投",
-      "detail": "IT之家 10 月 2 日消息，据彭博社今天（2 日）援引知情人士消息称，在推迟原定计划后，Anthropic 寻求最早于 11 月中旬上市。知情人士称，Anthropic 最早可能在 11 月 9 日当周正式启动 IPO 推介，并争取在 11 月 26 日感恩节前挂牌交易。感恩节前后几天，资本市场交易活动通常会明显减少。Anthropic 仍计划最迟在今年年底前上市，此前原本准备在夏季过后公开提交 IPO 申请。目前具体安排仍在讨论，上市时间还可能调整。Anthropic 今年大部分时间势头强劲，OpenAI 等竞争对手近几个月的销售增长重新提速，竞争随之加剧。与此同时，一系列由失控 AI 智能体实施、备受关注的黑客攻击也让 AI 安全面临更多公众审视，并引发外界担忧，这些问题可能影响 Anthropic 的上市进程。Anthropic CEO 达里奥 · 阿莫代伊在个人网站发表文章，主张放慢新一代 AI 模型的发展速度。主要竞争对手 OpenAI 则推迟了 IPO 计划，CEO 萨姆 · 奥尔特曼认为现在并不是上市的合适时机。知情人士称，这些担忧似乎没有削弱潜在投资者的兴趣。部分投",
-      "source": "ITHome",
-      "source_authority": 0.75,
-      "date": "2026-10-02",
-      "score": 0.96
-    },
-    {
       "title": "AI 伦理研究：DeepSeek 对男女一视同仁，美系模型却“区别对待”",
       "url": "https://www.ithome.com/1/009/243.htm",
       "summary": "IT之家 10 月 2 日消息，科技媒体 Wccftech 昨日（10 月 1 日）发布博文，报道称最新研究显示相比较 Anthropic 的 Claude Sonnet 4.6 与 OpenAI 的 GPT-5.5，深度求索 DeepSeek 的 V4-Flash 模型能保持性别中立。该研究为了测试主流 AI 模型的道德判断，设定“为阻止核灾难是否可虐待个体”的假设情境，结果显示，Claude Sonnet 4.6 与 GPT-5.5 对女性受虐场景均给出“强烈反对”回应，但对男性受虐则表达“中等程度同意”，形成明显性别响应差异。DeepSeek 的 V4-Flash 模型在相同测试中对男女均回应“同意”，未因性别改变立场。研究指出，该模型在道德判断中实现“零性别差距”，与其强调集体福祉的对齐目标一致。论文作者认为，这种差异可能源于训练数据中的社会刻板印象，或模型对齐过程中对特定价值观的强化。DeepSeek 的中性表现，则反映其训练语料与对齐策略未将性别作为道德权重的调节变量。该研究以预印本形式发布于 arXiv，测试涵盖 Claude、GPT、DeepSeek 及 Llama 等",
@@ -72,14 +62,24 @@
       "score": 0.84
     },
     {
-      "title": "腾讯 WorkBuddy：Hy4 preview 夜间限免、Hy3 限免延期至 10 月 31 日",
-      "url": "https://www.ithome.com/1/009/222.htm",
-      "summary": "IT之家 10 月 2 日消息，腾讯 WorkBuddy 于 9 月 30 日晚宣布，决定将 Hy3 模型限免及 Hy4 preview 模型夜间限免均延期至 10 月 31 日。如果用户已经体验过 Hy4 preview —— WorkBuddy 在闲时夜间 (23:00 - 次日 8:00) 继续提供免费体验 Hy4 preview 的模型额度，截止 10 月 31 日，其余时间正常消耗积分使用。如果用户暂未体验过 Hy4 preview —— 只要在 10 月 10 日 23:59 前首次开启 Hy4 preview 对话，从首次开启那天算起，往后 14 天都有每日免费额度。（举例：10 月 10 日首次开启，免费额度用到 10 月 24 日）IT之家注意到，官方此前曾发布公告说明，Hy4 preview 是一个大语言模型，暂不具备多模态能力；当用户调用 Hy4 preview 执行视频、图像等生成任务时，会切换到相应多模态模型完成，因此会按照正常规则产生积分消耗。此外，因免费体验参与热度太高，为保障每位用户都能顺畅使用，官方对每日免费额度做了合理分配；当日资源繁忙时会进入排队，",
-      "detail": "IT之家 10 月 2 日消息，腾讯 WorkBuddy 于 9 月 30 日晚宣布，决定将 Hy3 模型限免及 Hy4 preview 模型夜间限免均延期至 10 月 31 日。如果用户已经体验过 Hy4 preview —— WorkBuddy 在闲时夜间 (23:00 - 次日 8:00) 继续提供免费体验 Hy4 preview 的模型额度，截止 10 月 31 日，其余时间正常消耗积分使用。如果用户暂未体验过 Hy4 preview —— 只要在 10 月 10 日 23:59 前首次开启 Hy4 preview 对话，从首次开启那天算起，往后 14 天都有每日免费额度。（举例：10 月 10 日首次开启，免费额度用到 10 月 24 日）IT之家注意到，官方此前曾发布公告说明，Hy4 preview 是一个大语言模型，暂不具备多模态能力；当用户调用 Hy4 preview 执行视频、图像等生成任务时，会切换到相应多模态模型完成，因此会按照正常规则产生积分消耗。此外，因免费体验参与热度太高，为保障每位用户都能顺畅使用，官方对每日免费额度做了合理分配；当日资源繁忙时会进入排队，",
+      "title": "富士 X-T6 无反相机设计草图曝光，配 X-Processor 6 图像处理器",
+      "url": "https://www.ithome.com/1/009/283.htm",
+      "summary": "IT之家 10 月 2 日消息，科技媒体 dailycameranews 今天（10 月 2 日）发布博文，爆料称富士（Fujifilm）计划 2026 年年底或者 2027 年年初发布 X-T6 无反相机，并透露了相关规格参数。IT之家此前报道，富士原本计划在秋季发布 X-T6，并同步推出 2 款新定焦镜头，不过当前产品节奏已转向镜头发布，机身则等待下一场 X Summit。X-T6 预计搭载 X-Processor 6。相关传闻称，新处理器将提升数据吞吐速度，并支持新一代深度学习 AI 自动对焦。系统或增强主体预测、连续追踪和多主体识别。▲ 现款富士 X-T5 相机传感器方面，近期信息更倾向于 40MP 部分堆叠式 X-Trans 6。部分堆叠架构可缩短像素读取时间，电子连拍速度或因此提升。规格 / 功能Fujifilm X-T5（现款）Fujifilm X-T6（传闻 / 预计）图像传感器4020 万像素 X-Trans CMOS 5 HR（标准 BSI）4000 万–5000 万像素 X-Trans 6，传闻采用部分堆叠式结构图像处理器X-Processor 5X-Proces",
+      "detail": "IT之家 10 月 2 日消息，科技媒体 dailycameranews 今天（10 月 2 日）发布博文，爆料称富士（Fujifilm）计划 2026 年年底或者 2027 年年初发布 X-T6 无反相机，并透露了相关规格参数。IT之家此前报道，富士原本计划在秋季发布 X-T6，并同步推出 2 款新定焦镜头，不过当前产品节奏已转向镜头发布，机身则等待下一场 X Summit。X-T6 预计搭载 X-Processor 6。相关传闻称，新处理器将提升数据吞吐速度，并支持新一代深度学习 AI 自动对焦。系统或增强主体预测、连续追踪和多主体识别。▲ 现款富士 X-T5 相机传感器方面，近期信息更倾向于 40MP 部分堆叠式 X-Trans 6。部分堆叠架构可缩短像素读取时间，电子连拍速度或因此提升。规格 / 功能Fujifilm X-T5（现款）Fujifilm X-T6（传闻 / 预计）图像传感器4020 万像素 X-Trans CMOS 5 HR（标准 BSI）4000 万–5000 万像素 X-Trans 6，传闻采用部分堆叠式结构图像处理器X-Processor 5X-Proces",
       "source": "ITHome",
       "source_authority": 0.75,
       "date": "2026-10-02",
-      "score": 0.8225
+      "score": 0.83
+    },
+    {
+      "title": "Cloudflare 推出基于 Qwen 的开源多模态决策模型 Clef",
+      "url": "https://www.ithome.com/1/009/262.htm",
+      "summary": "IT之家 10 月 2 日消息，当地时间 10 月 1 日，Cloudflare 推出基于 Qwen 的开源多模态决策模型 Clef（谱号），包含 Clef 与 Clef-flash 两款模型。在 Jev 决策指数（Jev Decision Index）的基准评测中（Decision Index 0.2.1），Clef 处于领先地位；这两款模型完全兼容 Jev-API，方便开发者进行测试验证。此外，Cloudflare 还发布了全新的强化学习产品。借助该产品，客户还可以针对自身的具体业务场景，对 Clef 进行定制化微调。据悉，Clef 选用 Qwen 作为基座模型，其中 Clef 基于 Qwen3.8-27B、Clef-flash 基于 Qwen3.5-9B。据介绍，Clef 原生配备了视觉编码器，能够直接解析图像输入并对视觉内容进行判别分类；而目前的 Jev 仅支持纯文本分类。Clef 将上下文窗口拓展至 64k（相比之下 Jev 为 32k），这使得开发者能够为模型载入更为丰富的系统输入状态，从而实现更全面的综合判定。官方表示，Clef 具备高精度与强劲的综合性能，在多项基准测试",
+      "detail": "IT之家 10 月 2 日消息，当地时间 10 月 1 日，Cloudflare 推出基于 Qwen 的开源多模态决策模型 Clef（谱号），包含 Clef 与 Clef-flash 两款模型。在 Jev 决策指数（Jev Decision Index）的基准评测中（Decision Index 0.2.1），Clef 处于领先地位；这两款模型完全兼容 Jev-API，方便开发者进行测试验证。此外，Cloudflare 还发布了全新的强化学习产品。借助该产品，客户还可以针对自身的具体业务场景，对 Clef 进行定制化微调。据悉，Clef 选用 Qwen 作为基座模型，其中 Clef 基于 Qwen3.8-27B、Clef-flash 基于 Qwen3.5-9B。据介绍，Clef 原生配备了视觉编码器，能够直接解析图像输入并对视觉内容进行判别分类；而目前的 Jev 仅支持纯文本分类。Clef 将上下文窗口拓展至 64k（相比之下 Jev 为 32k），这使得开发者能够为模型载入更为丰富的系统输入状态，从而实现更全面的综合判定。官方表示，Clef 具备高精度与强劲的综合性能，在多项基准测试",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-10-02",
+      "score": 0.83
     },
     {
       "title": "Google’s new Guided Vision feature can help you read the fine print",
@@ -114,34 +114,14 @@
       "score": 0.7475
     },
     {
-      "title": "消息称苹果 iPhone 18 Pro 系列手机开售不到 14 天，国内销量突破 200 万",
-      "url": "https://www.ithome.com/1/009/232.htm",
-      "summary": "IT之家 10 月 2 日消息，长期关注国内手机市场份额的数码博主 @RD观测 今日爆料，iPhone 18 Pro 系列开售不到 14 天，销量（Sell out）已经突破 200 万。博主此前曾爆料，iPhone 18 Pro 系列开售 7 天时销量（Sell out）已经接近 1300K（130 万），同期约为 iPhone 17 Pro 系列的 115%，iPhone 17 系列的 90%。据IT之家此前报道，在 9 月 10 日的苹果 2026 年秋季发布会上，iPhone 18 Pro 系列正式发布，包括 18 Pro 和 18 Pro Max，起售价分别为 9999 元和 10999 元。iPhone 18 Pro 系列首发搭载 2 纳米制程工艺 A20 Pro 芯片，其封装方式借鉴了 M 系列芯片，性能和能效均创 iPhone 新高。两款机型均配备更小的灵动岛，全新 4800 万像素融合式主摄配备可变光圈。",
-      "detail": "IT之家 10 月 2 日消息，长期关注国内手机市场份额的数码博主 @RD观测 今日爆料，iPhone 18 Pro 系列开售不到 14 天，销量（Sell out）已经突破 200 万。博主此前曾爆料，iPhone 18 Pro 系列开售 7 天时销量（Sell out）已经接近 1300K（130 万），同期约为 iPhone 17 Pro 系列的 115%，iPhone 17 系列的 90%。据IT之家此前报道，在 9 月 10 日的苹果 2026 年秋季发布会上，iPhone 18 Pro 系列正式发布，包括 18 Pro 和 18 Pro Max，起售价分别为 9999 元和 10999 元。iPhone 18 Pro 系列首发搭载 2 纳米制程工艺 A20 Pro 芯片，其封装方式借鉴了 M 系列芯片，性能和能效均创 iPhone 新高。两款机型均配备更小的灵动岛，全新 4800 万像素融合式主摄配备可变光圈。",
+      "title": "摄影师 Zavitz 测试苹果 iPhone 18 Pro 人像模式，媲美专业相机",
+      "url": "https://www.ithome.com/1/009/272.htm",
+      "summary": "IT之家 10 月 2 日消息，摄影师 Lee Zavitz 于 9 月 30 日发布视频，通过对比认为苹果 iPhone 18 Pro 在拍摄人像模式上，表现接近专业相机水准。IT之家查询公开资料，Lee Zavitz 是一位来自加拿大多伦多的摄影师、电影摄影师，其内容主要围绕人像摄影、视频拍摄、相机评测、镜头体验和后期调色展开，在 Instagram 和 YouTube 上都有较高活跃度。本次参与对比的相机是索尼 A7RIV，搭配腾龙（Tamron）35–150mm f/2–2.8 Di III VXD 等镜头，测试结果显示，iPhone 18 Pro 的人像模式在多数场景下与专业相机表现接近。iPhone 18 Pro 主摄像头更换为索尼 IMX 905 传感器，取代前三代使用的 IMX 903。传感器尺寸与 4800 万像素保持不变，但低光性能提升，最大光圈扩展至 f/1.48。人像模式新增白平衡锁定功能，解决此前自动白平衡导致照片匹配困难的问题。\" 照片风格 \"（Photographic Styles）新增纹理控制选项，包括光晕与颗粒感。Zavitz 表示，添加颗粒感可消除人",
+      "detail": "IT之家 10 月 2 日消息，摄影师 Lee Zavitz 于 9 月 30 日发布视频，通过对比认为苹果 iPhone 18 Pro 在拍摄人像模式上，表现接近专业相机水准。IT之家查询公开资料，Lee Zavitz 是一位来自加拿大多伦多的摄影师、电影摄影师，其内容主要围绕人像摄影、视频拍摄、相机评测、镜头体验和后期调色展开，在 Instagram 和 YouTube 上都有较高活跃度。本次参与对比的相机是索尼 A7RIV，搭配腾龙（Tamron）35–150mm f/2–2.8 Di III VXD 等镜头，测试结果显示，iPhone 18 Pro 的人像模式在多数场景下与专业相机表现接近。iPhone 18 Pro 主摄像头更换为索尼 IMX 905 传感器，取代前三代使用的 IMX 903。传感器尺寸与 4800 万像素保持不变，但低光性能提升，最大光圈扩展至 f/1.48。人像模式新增白平衡锁定功能，解决此前自动白平衡导致照片匹配困难的问题。\" 照片风格 \"（Photographic Styles）新增纹理控制选项，包括光晕与颗粒感。Zavitz 表示，添加颗粒感可消除人",
       "source": "ITHome",
       "source_authority": 0.75,
       "date": "2026-10-02",
-      "score": 0.7325
-    },
-    {
-      "title": "惠普宣布基于 \"Wildcat Lake\" 的 OmniBook 5 14、ProBook 4 G2iS 14 笔电",
-      "url": "https://www.ithome.com/1/009/219.htm",
-      "summary": "IT之家 10 月 2 日消息，HP（惠普）当地时间 1 日宣布了基于第 3 代英特尔酷睿处理器 \"Wildcat Lake\" 的 OmniBook 5 14、ProBook 4 G2iS 14 两款轻薄笔记本电脑，分别面向家用与商用市场。▲ OmniBook 5 14OmniBook 5 14 采用铝合金机身，薄至 11.77mm、轻至 1.16kg，支持 180° 开合，可选 2.5K OLED 触屏，提供 2 个全功能 USB-C，拥有 FHD IR 摄像头、双麦克风，音频系统由 Poly 调校并得到 DTS: X Ultra 认证。其可选烟银、星光蓝、牡丹粉、柔和蜜露 4 种配色，起始价格为 699.99 美元（现汇率约合 4,700 元人民币），预计将于十月上市。▲ OmniBook 5 14另一方面，ProBook 4 G2iS 14 是惠普最薄的商务本，铝制机身厚度仅有 12mm，内置 70Whr 电池，起始质量 2.6 磅（IT之家注：约 1,179 克）。其配备 14\" 2.8K 120Hz OLED 屏幕，色域覆盖 100% DCI-P3。▲ ProBook 4 G",
-      "detail": "IT之家 10 月 2 日消息，HP（惠普）当地时间 1 日宣布了基于第 3 代英特尔酷睿处理器 \"Wildcat Lake\" 的 OmniBook 5 14、ProBook 4 G2iS 14 两款轻薄笔记本电脑，分别面向家用与商用市场。▲ OmniBook 5 14OmniBook 5 14 采用铝合金机身，薄至 11.77mm、轻至 1.16kg，支持 180° 开合，可选 2.5K OLED 触屏，提供 2 个全功能 USB-C，拥有 FHD IR 摄像头、双麦克风，音频系统由 Poly 调校并得到 DTS: X Ultra 认证。其可选烟银、星光蓝、牡丹粉、柔和蜜露 4 种配色，起始价格为 699.99 美元（现汇率约合 4,700 元人民币），预计将于十月上市。▲ OmniBook 5 14另一方面，ProBook 4 G2iS 14 是惠普最薄的商务本，铝制机身厚度仅有 12mm，内置 70Whr 电池，起始质量 2.6 磅（IT之家注：约 1,179 克）。其配备 14\" 2.8K 120Hz OLED 屏幕，色域覆盖 100% DCI-P3。▲ ProBook 4 G",
-      "source": "ITHome",
-      "source_authority": 0.75,
-      "date": "2026-10-02",
-      "score": 0.7325
-    },
-    {
-      "title": "索尼 PlayStation 为标准版 PS5 游戏主机带来轻量级 AI 超分辨率技术 QSSR",
-      "url": "https://www.ithome.com/1/009/210.htm",
-      "summary": "IT之家 10 月 2 日消息，Sony（索尼）PlayStation 官方当地时间 1 日宣布为标准版 PS5 游戏主机推出基于人工智能的超分辨率 QSSR。该技术率先在《漫威金刚狼》《羊蹄山之魂》上得到支持。QSSR 全称 \"Quick Spectral Super Resolution\"，是 PSSR 的“快速”演进版本，也是 PlayStation 与 AMD 合作项目 \"Project Amethyst\" 的一部分。其采用精简的神经网络架构，通过精心调校以最大限度地发挥 PS5 的性能，在 PS5 上显著提升了图像细节和稳定性。",
-      "detail": "IT之家 10 月 2 日消息，Sony（索尼）PlayStation 官方当地时间 1 日宣布为标准版 PS5 游戏主机推出基于人工智能的超分辨率 QSSR。该技术率先在《漫威金刚狼》《羊蹄山之魂》上得到支持。QSSR 全称 \"Quick Spectral Super Resolution\"，是 PSSR 的“快速”演进版本，也是 PlayStation 与 AMD 合作项目 \"Project Amethyst\" 的一部分。其采用精简的神经网络架构，通过精心调校以最大限度地发挥 PS5 的性能，在 PS5 上显著提升了图像细节和稳定性。",
-      "source": "ITHome",
-      "source_authority": 0.75,
-      "date": "2026-10-02",
-      "score": 0.7125
+      "score": 0.695
     },
     {
       "title": "Shopify debuts Canvas, a way to build online stores by chatting with AI",
@@ -202,38 +182,58 @@
       "source_authority": 0.9,
       "date": "2026-10-01",
       "score": 0.665
+    },
+    {
+      "title": "Open Security Foundations Are Only The Beginning: Deploying Caliptra Hardware in Production",
+      "url": "https://semiengineering.com/open-security-foundations-are-only-the-beginning-deploying-caliptra-hardware-in-production/",
+      "summary": "Roots of trust are beginning to assume a broader role as platform security orchestrators.\nThe post Open Security Foundations Are Only The Beginning: Deploying Caliptra Hardware in Production appeared first on Semiconductor Engineering.",
+      "detail": "Roots of trust are beginning to assume a broader role as platform security orchestrators.\nThe post Open Security Foundations Are Only The Beginning: Deploying Caliptra Hardware in Production appeared first on Semiconductor Engineering.",
+      "source": "SemiEngineering",
+      "source_authority": 0.85,
+      "date": "2026-10-01",
+      "score": 0.64
+    },
+    {
+      "title": "Mitigating Threats With Pre-Silicon Security Verification",
+      "url": "https://semiengineering.com/mitigating-threats-with-pre-silicon-security-verification/",
+      "summary": "The types of threats that must be mitigated and a process to verify that designs are secure in real-world deployment.\nThe post Mitigating Threats With Pre-Silicon Security Verification appeared first on Semiconductor Engineering.",
+      "detail": "The types of threats that must be mitigated and a process to verify that designs are secure in real-world deployment.\nThe post Mitigating Threats With Pre-Silicon Security Verification appeared first on Semiconductor Engineering.",
+      "source": "SemiEngineering",
+      "source_authority": 0.85,
+      "date": "2026-10-01",
+      "score": 0.64
     }
   ],
   "category3": [
     {
-      "title": "AMD 掌机芯片 Ryzen Z3 系列爆料：FF6 封装、6 核 CPU+12 个 RDNA4m 计算单元",
-      "url": "https://www.ithome.com/1/009/240.htm",
-      "summary": "IT之家 10 月 2 日消息，科技媒体 Wccftech 昨日（10 月 1 日）发布博文，报道称 AMD 下一代游戏掌机芯片 Ryzen Z3 系列将采用 25×25 毫米 FF6 封装，尺寸小于 Strix Point 所用 FP8 封装。架构设计方面，消息称 Ryzen Z3 系列基于 Medusa Point 架构，CPU 部分采用 Zen 6 与低功耗 Zen 5（Zen 5 LP）混合设计，预估配备 4 个 Zen 6 核心加 2 个低功耗核心，合计 6 核 12 线程，不过最终上市后，AMD 可能会调整相关配置。GPU 方面，Ryzen Z3 系列据称将配备 12 个 RDNA4m 计算单元（CU），高于标准 Medusa Point 方案常见的 8 CU 配置。IT之家援引博文介绍，为换取更大 GPU 规模，芯片减少 4 个 Zen 6c CPU 核心，将更多硅片面积与功耗预算分配给图形单元。图形架构方面，Ryzen Z3 系列并未转向 RDNA 5，采用 RDNA4m（RDNA 3.5 的衍生版本）。爆料称 RDNA4m 加入面向矩阵运算的 RDNA 4 级 ALU",
-      "detail": "IT之家 10 月 2 日消息，科技媒体 Wccftech 昨日（10 月 1 日）发布博文，报道称 AMD 下一代游戏掌机芯片 Ryzen Z3 系列将采用 25×25 毫米 FF6 封装，尺寸小于 Strix Point 所用 FP8 封装。架构设计方面，消息称 Ryzen Z3 系列基于 Medusa Point 架构，CPU 部分采用 Zen 6 与低功耗 Zen 5（Zen 5 LP）混合设计，预估配备 4 个 Zen 6 核心加 2 个低功耗核心，合计 6 核 12 线程，不过最终上市后，AMD 可能会调整相关配置。GPU 方面，Ryzen Z3 系列据称将配备 12 个 RDNA4m 计算单元（CU），高于标准 Medusa Point 方案常见的 8 CU 配置。IT之家援引博文介绍，为换取更大 GPU 规模，芯片减少 4 个 Zen 6c CPU 核心，将更多硅片面积与功耗预算分配给图形单元。图形架构方面，Ryzen Z3 系列并未转向 RDNA 5，采用 RDNA4m（RDNA 3.5 的衍生版本）。爆料称 RDNA4m 加入面向矩阵运算的 RDNA 4 级 ALU",
+      "title": "循环交易：博通同意向 Anthropic 提供最高 420 亿美元贷款，用于租赁自家芯片等基础设施开支",
+      "url": "https://www.ithome.com/1/009/253.htm",
+      "summary": "IT之家 10 月 2 日消息，据路透社报道，Anthropic 的 IPO 招股书披露了其与少数几家大型科技巨头的广泛合作。其中，芯片制造商博通尤为引人瞩目。博通与 Anthropic 的合作涵盖了算力供应、设备租赁以及资金支持等多个层面，这使该半导体巨头在 Anthropic 的基础设施建设中扮演着核心角色。根据 IPO 文件披露的内容，博通与 Anthropic 达成了深度合作：博通已同意向 Anthropic 提供最高达 420 亿美元（IT之家注：现汇率约合 2,820.11 亿元人民币）的贷款，用于支持其基础设施开支。作为回报，Anthropic 明年有望跃升为博通芯片设计主营业务的最大客户。这种合作模式，已成为华尔街人工智能怀疑论者聚焦“循环交易与相互投资支出”的典型代表 —— 即便这家人工智能实验室正全力筹备可能让其估值达到 2 万亿美元（现汇率约合 13.43 万亿元人民币）的 IPO。罗斯柴尔德公司（Rothschild & Co.）管理合伙人罗伯特 · 莱陶（Robert Leitao）指出：“当前市场似乎正在进行一场高度集中的豪赌，押注这两家公司能够产生充足的营",
+      "detail": "IT之家 10 月 2 日消息，据路透社报道，Anthropic 的 IPO 招股书披露了其与少数几家大型科技巨头的广泛合作。其中，芯片制造商博通尤为引人瞩目。博通与 Anthropic 的合作涵盖了算力供应、设备租赁以及资金支持等多个层面，这使该半导体巨头在 Anthropic 的基础设施建设中扮演着核心角色。根据 IPO 文件披露的内容，博通与 Anthropic 达成了深度合作：博通已同意向 Anthropic 提供最高达 420 亿美元（IT之家注：现汇率约合 2,820.11 亿元人民币）的贷款，用于支持其基础设施开支。作为回报，Anthropic 明年有望跃升为博通芯片设计主营业务的最大客户。这种合作模式，已成为华尔街人工智能怀疑论者聚焦“循环交易与相互投资支出”的典型代表 —— 即便这家人工智能实验室正全力筹备可能让其估值达到 2 万亿美元（现汇率约合 13.43 万亿元人民币）的 IPO。罗斯柴尔德公司（Rothschild & Co.）管理合伙人罗伯特 · 莱陶（Robert Leitao）指出：“当前市场似乎正在进行一场高度集中的豪赌，押注这两家公司能够产生充足的营",
       "source": "ITHome",
       "source_authority": 0.75,
       "date": "2026-10-02",
-      "score": 0.9225
+      "score": 0.96
     },
     {
-      "title": "英伟达黄仁勋将出席：微软预热本月 Surface 发布会，聚焦本地 AI 重塑下一代 PC",
-      "url": "https://www.ithome.com/1/009/212.htm",
-      "summary": "IT之家 10 月 2 日消息，微软官方开发者账号 @windowsdev 今天（10 月 2 日）在 X 平台发布推文，宣布将于太平洋时间 10 月 7 日上午 10 点（北京时间 10 月 8 日凌晨 1 点）举办一场面向开发者与构建者的线上活动。IT之家曾于 9 月 16 日报道，微软宣布将在美国旧金山举办本次活动，主题为本地人工智能如何塑造 PC 的下一阶段，预估展示 Windows 和 Surface 设备的未来规划。而最新预告中，微软表示将会携手英伟达公司，介绍 RTX Spark 的新体验，并为开发者和 Builder 带来更多工具和功能等。RTX Spark 是 NVIDIA 为 Windows 轻薄本和小型台式机打造的“超级芯片”（superchip）平台，把 NVIDIA 的 Grace Arm CPU 与 Blackwell 架构的 RTX GPU 封装在同一芯片 / 基板上，通过 NVLink‑C2C 高速互连，并采用统一内存架构，让 CPU 与 GPU 共享同一块高速 LPDDR5X 内存池。根据目前曝光的信息，本次活动聚焦本地端侧 AI，主题聚焦“本地 AI",
-      "detail": "IT之家 10 月 2 日消息，微软官方开发者账号 @windowsdev 今天（10 月 2 日）在 X 平台发布推文，宣布将于太平洋时间 10 月 7 日上午 10 点（北京时间 10 月 8 日凌晨 1 点）举办一场面向开发者与构建者的线上活动。IT之家曾于 9 月 16 日报道，微软宣布将在美国旧金山举办本次活动，主题为本地人工智能如何塑造 PC 的下一阶段，预估展示 Windows 和 Surface 设备的未来规划。而最新预告中，微软表示将会携手英伟达公司，介绍 RTX Spark 的新体验，并为开发者和 Builder 带来更多工具和功能等。RTX Spark 是 NVIDIA 为 Windows 轻薄本和小型台式机打造的“超级芯片”（superchip）平台，把 NVIDIA 的 Grace Arm CPU 与 Blackwell 架构的 RTX GPU 封装在同一芯片 / 基板上，通过 NVLink‑C2C 高速互连，并采用统一内存架构，让 CPU 与 GPU 共享同一块高速 LPDDR5X 内存池。根据目前曝光的信息，本次活动聚焦本地端侧 AI，主题聚焦“本地 AI",
+      "title": "填充 AI 资金弹药：曝 OpenAI 融资再落袋 200 亿美元，英伟达、软银和亚马逊已出资约 90%",
+      "url": "https://www.ithome.com/1/009/270.htm",
+      "summary": "IT之家 10 月 2 日消息，科技媒体 The Information 今天（10 月 2 日）发布博文，报道称英伟达与软银已分别向 OpenAI 支付最后一笔 100 亿美元（IT之家注：现汇率约合 671.46 亿元人民币）投资，完成各自 300 亿美元（现汇率约合 2,014.37 亿元人民币）的投资承诺。本轮融资总承诺金额约为 1,220 亿美元（现汇率约合 8,191.75 亿元人民币），对 OpenAI 的估值约为 8,520 亿美元（现汇率约合 5.72 万亿元人民币）。除英伟达和软银外，亚马逊此前已完成 500 亿美元（现汇率约合 3,357.28 亿元人民币）投资，三家主要投资者累计投入约 1,100 亿美元（现汇率约合 7,386.01 亿元人民币），约占本轮融资承诺金额的 90%。此次巨额融资将进一步强化 OpenAI 在人工智能模型研发、算力基础设施建设及数据中心扩张方面的资金实力。软银表示，随着此次追加投资完成，其对 OpenAI 的累计投资金额达到约 646 亿美元（现汇率约合 4,337.6 亿元人民币），持股比例约为 13%。",
+      "detail": "IT之家 10 月 2 日消息，科技媒体 The Information 今天（10 月 2 日）发布博文，报道称英伟达与软银已分别向 OpenAI 支付最后一笔 100 亿美元（IT之家注：现汇率约合 671.46 亿元人民币）投资，完成各自 300 亿美元（现汇率约合 2,014.37 亿元人民币）的投资承诺。本轮融资总承诺金额约为 1,220 亿美元（现汇率约合 8,191.75 亿元人民币），对 OpenAI 的估值约为 8,520 亿美元（现汇率约合 5.72 万亿元人民币）。除英伟达和软银外，亚马逊此前已完成 500 亿美元（现汇率约合 3,357.28 亿元人民币）投资，三家主要投资者累计投入约 1,100 亿美元（现汇率约合 7,386.01 亿元人民币），约占本轮融资承诺金额的 90%。此次巨额融资将进一步强化 OpenAI 在人工智能模型研发、算力基础设施建设及数据中心扩张方面的资金实力。软银表示，随着此次追加投资完成，其对 OpenAI 的累计投资金额达到约 646 亿美元（现汇率约合 4,337.6 亿元人民币），持股比例约为 13%。",
       "source": "ITHome",
       "source_authority": 0.75,
       "date": "2026-10-02",
-      "score": 0.8975
+      "score": 0.93
     },
     {
-      "title": "贝恩：全球 AI 行业到 2031 年创造 6 万亿美元年营收，才能证明数据中心价值",
-      "url": "https://www.ithome.com/1/009/244.htm",
-      "summary": "IT之家 10 月 2 日消息，9 月 29 日，据彭博社报道，贝恩公司称，要支撑目前全球数据中心建设的巨额资本投入，全球 AI 行业到 2031 年每年需要创造 6 万亿美元（IT之家注：现汇率约合 40.29 万亿元人民币）营收。该机构发布的报告指出，现有消费级和企业级 AI 服务最多只能贡献 1.8 万亿美元（现汇率约合 12.09 万亿元人民币），因此还需要找到 4.2 万亿美元（现汇率约合 28.2 万亿元人民币）新增收入。这部分收入可能来自仍处于起步阶段的新市场，包括自动化机器、机器人，以及药物研发、心理健康和能源生产等领域。报告主要作者、贝恩全球科技、媒体和电信业务主席戴维 · 克劳福德说：“整个行业需要一轮规模远超移动互联网和云计算的创新浪潮。AI 基础设施建设远远跑在需求前面，要让这些投资能够持续下去，全球 GDP 年增速需要额外提高约 1%。”贝恩的报告认为，要维持目前 AI 发展的速度，行业仍需跨过多重障碍。微软、谷歌、亚马逊、Meta 和甲骨文等科技巨头投入数万亿美元建设数据中心，以满足 AI 不断增长的算力需求。数据中心的规模和建设成本大约每 12 至 16",
-      "detail": "IT之家 10 月 2 日消息，9 月 29 日，据彭博社报道，贝恩公司称，要支撑目前全球数据中心建设的巨额资本投入，全球 AI 行业到 2031 年每年需要创造 6 万亿美元（IT之家注：现汇率约合 40.29 万亿元人民币）营收。该机构发布的报告指出，现有消费级和企业级 AI 服务最多只能贡献 1.8 万亿美元（现汇率约合 12.09 万亿元人民币），因此还需要找到 4.2 万亿美元（现汇率约合 28.2 万亿元人民币）新增收入。这部分收入可能来自仍处于起步阶段的新市场，包括自动化机器、机器人，以及药物研发、心理健康和能源生产等领域。报告主要作者、贝恩全球科技、媒体和电信业务主席戴维 · 克劳福德说：“整个行业需要一轮规模远超移动互联网和云计算的创新浪潮。AI 基础设施建设远远跑在需求前面，要让这些投资能够持续下去，全球 GDP 年增速需要额外提高约 1%。”贝恩的报告认为，要维持目前 AI 发展的速度，行业仍需跨过多重障碍。微软、谷歌、亚马逊、Meta 和甲骨文等科技巨头投入数万亿美元建设数据中心，以满足 AI 不断增长的算力需求。数据中心的规模和建设成本大约每 12 至 16",
+      "title": "消息称博通着手筹集 600 亿美元，为 Anthropic 等公司采购芯片提供资金",
+      "url": "https://www.ithome.com/1/009/261.htm",
+      "summary": "IT之家 10 月 2 日消息，北京时间今天（2 日）午间，彭博社援引知情人士消息称，为博通安排融资的华尔街银行团开始筹集 600 亿美元（IT之家注：现汇率约合 4,028.73 亿元人民币）新资金，用于 AI 芯片融资，Anthropic 等公司将从中受益。知情人士称，参与融资的银行准备为其中 420 亿美元（现汇率约合 2,820.11 亿元人民币）A 类高级担保债务发出银团邀请函。另有 180 亿美元（现汇率约合 1,208.62 亿元人民币）B 类次级债务由黑石集团牵头安排。黑石旗下多只基金承诺投入 90 亿美元（现汇率约合 604.31 亿元人民币），其余部分计划向其他投资者分销。600 亿美元（现汇率约合 4,028.73 亿元人民币）融资方案已筹划数周，也受到华尔街和硅谷业内人士密切关注。在公众反对建设数据中心的背景下，市场希望从中判断投资者是否仍愿意为 AI 基础设施扩张提供资金。博通希望借此扩大芯片和其他数据中心设备销售，与英伟达竞争；Anthropic 等 AI 公司对算力的需求也在不断增加。知情人士曾在 8 月透露，若交易落地，Anthropic 等多家公司将更",
+      "detail": "IT之家 10 月 2 日消息，北京时间今天（2 日）午间，彭博社援引知情人士消息称，为博通安排融资的华尔街银行团开始筹集 600 亿美元（IT之家注：现汇率约合 4,028.73 亿元人民币）新资金，用于 AI 芯片融资，Anthropic 等公司将从中受益。知情人士称，参与融资的银行准备为其中 420 亿美元（现汇率约合 2,820.11 亿元人民币）A 类高级担保债务发出银团邀请函。另有 180 亿美元（现汇率约合 1,208.62 亿元人民币）B 类次级债务由黑石集团牵头安排。黑石旗下多只基金承诺投入 90 亿美元（现汇率约合 604.31 亿元人民币），其余部分计划向其他投资者分销。600 亿美元（现汇率约合 4,028.73 亿元人民币）融资方案已筹划数周，也受到华尔街和硅谷业内人士密切关注。在公众反对建设数据中心的背景下，市场希望从中判断投资者是否仍愿意为 AI 基础设施扩张提供资金。博通希望借此扩大芯片和其他数据中心设备销售，与英伟达竞争；Anthropic 等 AI 公司对算力的需求也在不断增加。知情人士曾在 8 月透露，若交易落地，Anthropic 等多家公司将更",
       "source": "ITHome",
       "source_authority": 0.75,
       "date": "2026-10-02",
-      "score": 0.885
+      "score": 0.93
     },
     {
       "title": "The Hidden Challenges of Edge AI Design",
@@ -288,6 +288,16 @@
   ],
   "category4": [
     {
+      "title": "自由度 7 → 13：波士顿动力升级 Atlas 机械手，可操控钻头 / 拧螺丝等",
+      "url": "https://www.ithome.com/1/009/256.htm",
+      "summary": "IT之家 10 月 2 日消息，波士顿动力（Boston Dynamics）公司昨日（10 月 1 日）发布公告，宣布升级其高端机器人 Atlas 的机械手能力，自由度从 7 个提升至 13 个，并展示操控钻头等能力。IT之家注：自由度指机械系统能够独立运动的方向或关节数量。机械手的自由度越多，手指、拇指和关节可执行的独立动作通常越丰富。工业机器人常依靠多个自由度完成抓取、旋转、定位和装配任务。波士顿动力机械工程师 Dylan Thrush 表示，Atlas 机械手的自由度从 7 个增至 13 个后，会进一步增加可控制的独立动作维度，手部可完成更多独立关节动作。新机械手采用 1 个拇指和 3 根额外手指。波士顿动力称，增加第 5 根手指会提高结构复杂度，也会增加能耗。在官方演示中，新机械手操控钻头、单手移动两个高尔夫球以及拧螺丝等。",
+      "detail": "IT之家 10 月 2 日消息，波士顿动力（Boston Dynamics）公司昨日（10 月 1 日）发布公告，宣布升级其高端机器人 Atlas 的机械手能力，自由度从 7 个提升至 13 个，并展示操控钻头等能力。IT之家注：自由度指机械系统能够独立运动的方向或关节数量。机械手的自由度越多，手指、拇指和关节可执行的独立动作通常越丰富。工业机器人常依靠多个自由度完成抓取、旋转、定位和装配任务。波士顿动力机械工程师 Dylan Thrush 表示，Atlas 机械手的自由度从 7 个增至 13 个后，会进一步增加可控制的独立动作维度，手部可完成更多独立关节动作。新机械手采用 1 个拇指和 3 根额外手指。波士顿动力称，增加第 5 根手指会提高结构复杂度，也会增加能耗。在官方演示中，新机械手操控钻头、单手移动两个高尔夫球以及拧螺丝等。",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-10-02",
+      "score": 0.86
+    },
+    {
       "title": "Boston Dynamics drops pinkie on new humanoid hand",
       "url": "https://www.therobotreport.com/boston-dynamics-drops-pinkie-on-new-humanoid-hand/",
       "summary": "Boston Dynamics engineers taped their pinkies and ring fingers together for a day to learn what they weren’t able to do.\nThe post Boston Dynamics drops pinkie on new humanoid hand appeared first on The Robot Report.",
@@ -316,6 +326,26 @@
       "source_authority": 0.85,
       "date": "2026-10-01",
       "score": 0.805
+    },
+    {
+      "title": "加州通过新法：Robotaxi 阻碍警察或消防任务将面临罚款",
+      "url": "https://www.ithome.com/1/009/278.htm",
+      "summary": "IT之家 10 月 2 日消息，据外媒 TechCrunch 今天（2 日）上午报道，加州州长加文 · 纽森签署了加州参议院第 1246 号法案。法案要求，Robotaxi 一旦发生故障或妨碍应急处置，必须安排本地人员赶到现场，协助警察、消防员等应急人员。如果车辆阻碍警察或消防员执行任务超过 30 分钟，运营企业还可能被处罚。该法为自动驾驶车辆增加了一系列规定，主要针对车辆发生故障或干扰应急处置的情况，以提高安全性和处置效率。企业如果没有履行规定的义务，也将面临追责。法案出台前，加州曾发生多起备受关注的无人出租车事故和故障：有车辆抛锚后影响交通，有车辆驶入案发现场，还有车辆妨碍警察、消防员等应急人员执行任务。IT之家从报道中获悉，其中多数事件都与美国最大无人出租车运营商 Waymo 有关。Waymo 在全美商业车队中约有 4000 辆自动驾驶车辆，其中约 1200 辆在旧金山湾区运营。该媒体今年早些时候调查发现，Waymo 车辆遇到问题时，曾多次需要警察、消防员等应急人员亲自驾驶车辆离开现场。这些事件促使加州和联邦议员要求加强无人出租车监管，其中一个重点就是车辆遇到应急人员时该如何应对",
+      "detail": "IT之家 10 月 2 日消息，据外媒 TechCrunch 今天（2 日）上午报道，加州州长加文 · 纽森签署了加州参议院第 1246 号法案。法案要求，Robotaxi 一旦发生故障或妨碍应急处置，必须安排本地人员赶到现场，协助警察、消防员等应急人员。如果车辆阻碍警察或消防员执行任务超过 30 分钟，运营企业还可能被处罚。该法为自动驾驶车辆增加了一系列规定，主要针对车辆发生故障或干扰应急处置的情况，以提高安全性和处置效率。企业如果没有履行规定的义务，也将面临追责。法案出台前，加州曾发生多起备受关注的无人出租车事故和故障：有车辆抛锚后影响交通，有车辆驶入案发现场，还有车辆妨碍警察、消防员等应急人员执行任务。IT之家从报道中获悉，其中多数事件都与美国最大无人出租车运营商 Waymo 有关。Waymo 在全美商业车队中约有 4000 辆自动驾驶车辆，其中约 1200 辆在旧金山湾区运营。该媒体今年早些时候调查发现，Waymo 车辆遇到问题时，曾多次需要警察、消防员等应急人员亲自驾驶车辆离开现场。这些事件促使加州和联邦议员要求加强无人出租车监管，其中一个重点就是车辆遇到应急人员时该如何应对",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-10-02",
+      "score": 0.8
+    },
+    {
+      "title": "首付 6.98 万元起，鸿蒙智行问界 M6 推出限时 3 年 0 息购车金融政策",
+      "url": "https://www.ithome.com/1/009/248.htm",
+      "summary": "IT之家 10 月 2 日消息，鸿蒙智行问界汽车今天（2 日）上午宣布，问界 M6 推出限时 3 年 0 息购车金融政策：首付 6.98 万元起，1-3 年可选，年化费率 0%，月供低至 4445 元起，至高可省 17181 元。限时贷 5 免 3（IT之家注：固定 5 年，前 3 年 0 息），首付 6.98 万元起，后 2 年年化费率 2.99%，月供低至 2667 元起，至高可省 14881 元。据IT之家了解，鸿蒙智行问界 M6 于今年 4 月 22 日发布，定位“新锐智慧 SUV”，除两款 Max 车型外，其余全部配备全球量产最高 896 线激光雷达。增程 Max+：25.98 万元起增程 Ultra：27.98 万元起纯电 Max：22.98 万元纯电 Max+：24.98 万元起纯电 Max+ 长续航：27.98 万元起纯电 Ultra：29.98 万元起随后在 9 月上旬，问界 M6 发布了两个增程新版本，售价 23.98 万元起。Max 四驱版：23.98 万元Max+ 长续航：25.98 万元相关阅读：《鸿蒙智行“新锐智慧 SUV”问界 M6 上市累计交付突破 5",
+      "detail": "IT之家 10 月 2 日消息，鸿蒙智行问界汽车今天（2 日）上午宣布，问界 M6 推出限时 3 年 0 息购车金融政策：首付 6.98 万元起，1-3 年可选，年化费率 0%，月供低至 4445 元起，至高可省 17181 元。限时贷 5 免 3（IT之家注：固定 5 年，前 3 年 0 息），首付 6.98 万元起，后 2 年年化费率 2.99%，月供低至 2667 元起，至高可省 14881 元。据IT之家了解，鸿蒙智行问界 M6 于今年 4 月 22 日发布，定位“新锐智慧 SUV”，除两款 Max 车型外，其余全部配备全球量产最高 896 线激光雷达。增程 Max+：25.98 万元起增程 Ultra：27.98 万元起纯电 Max：22.98 万元纯电 Max+：24.98 万元起纯电 Max+ 长续航：27.98 万元起纯电 Ultra：29.98 万元起随后在 9 月上旬，问界 M6 发布了两个增程新版本，售价 23.98 万元起。Max 四驱版：23.98 万元Max+ 长续航：25.98 万元相关阅读：《鸿蒙智行“新锐智慧 SUV”问界 M6 上市累计交付突破 5",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-10-02",
+      "score": 0.7825
     },
     {
       "title": "How Maven Robotics plans to automate industrial work, one task at a time",
