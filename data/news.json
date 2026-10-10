@@ -2,6 +2,39 @@
   "date": "2026-10-10",
   "category1": [
     {
+      "title": "Claude 管理智能体新增动态工作流，单次最多并行调度 1000 个 AI Agents",
+      "url": "https://www.ithome.com/1/011/329.htm",
+      "summary": "IT之家 10 月 10 日消息，Anthropic 昨日（10 月 9 日）发布公告，宣布为 Claude 管理智能体（Claude Managed Agents）引入动态工作流，单次执行最多可并行协调 1,000 个 AI 智能体。IT之家注：动态工作流是由主智能体规划任务、分派子任务，并在子智能体完成后汇总结果的执行方式。典型场景包括把代码检查等大型任务拆分成多个部分并行处理；在 Claude 管理智能体中，该模式每次执行最多可并行运行 1,000 个智能体。为了展示动态工作流能力，Anthropic 模拟检测代码漏洞场景，在一个 11.6 万行代码库中隐藏 70 个 Bug，并比较单智能体与动态工作流的检出数量。测试结果显示，在单智能体每次运行检出 14 至 27 个漏洞；而动态工作流则稳定检出 66 个。",
+      "short_summary": "IT之家 10 月 10 日消息，Anthropic 昨日（10 月 9 日）发布公告，宣布为 Claude 管理智能体",
+      "detail": "IT之家 10 月 10 日消息，Anthropic 昨日（10 月 9 日）发布公告，宣布为 Claude 管理智能体（Claude Managed Agents）引入动态工作流，单次执行最多可并行协调 1,000 个 AI 智能体。IT之家注：动态工作流是由主智能体规划任务、分派子任务，并在子智能体完成后汇总结果的执行方式。典型场景包括把代码检查等大型任务拆分成多个部分并行处理；在 Claude 管理智能体中，该模式每次执行最多可并行运行 1,000 个智能体。为了展示动态工作流能力，Anthropic 模拟检测代码漏洞场景，在一个 11.6 万行代码库中隐藏 70 个 Bug，并比较单智能体与动态工作流的检出数量。测试结果显示，在单智能体每次运行检出 14 至 27 个漏洞；而动态工作流则稳定检出 66 个。",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-10-10",
+      "score": 0.8975
+    },
+    {
+      "title": "首张全天紫外线地图问世：Claude Science AI 协助绘制约 1/3 区域",
+      "url": "https://www.ithome.com/1/011/326.htm",
+      "summary": "IT之家 10 月 10 日消息，Anthropic 于 10 月 8 日发布博文，宣布旗下 Claude Science 协助绘制首张完整的全天紫外线地图，约三分之一地图区域由模型估算。IT之家注：完整全天紫外线地图是把整片天空的紫外线观测拼合成一张图，图中以银河系中心为中央，合并了远紫外线（154 纳米）与近紫外线（232 纳米）数据。由于地球臭氧层会吸收紫外线，因此天文学家必须使用太空望远镜观测。其中最大的数据集来自 NASA 的 GALEX 任务，在 2003 至 2013 年间拍摄约 3.8 万次，覆盖约三分之二天空。而为了保护探测器，避开部分明亮恒星密集区域，剩余三分之一天空此前没有紫外线观测。研究团队整合 GALEX、NASA Swift、韩国 FIMS / SPEAR 等任务的数据，并校准不同仪器的观测、统一分辨率与坐标。对于没有紫外线观测的区域，Claude Science 根据已有区域中紫外线亮度与可见光、红外线、射电数据的关系，估算缺失部分。天空的三种视角：可见光、红外线和射电波段。图片来源：ESA Gaia DR3、NASA WISE、HI4PI。因此，这张图并",
+      "short_summary": "IT之家 10 月 10 日消息，Anthropic 于 10 月 8 日发布博文，宣布旗下 Claude Scienc",
+      "detail": "IT之家 10 月 10 日消息，Anthropic 于 10 月 8 日发布博文，宣布旗下 Claude Science 协助绘制首张完整的全天紫外线地图，约三分之一地图区域由模型估算。IT之家注：完整全天紫外线地图是把整片天空的紫外线观测拼合成一张图，图中以银河系中心为中央，合并了远紫外线（154 纳米）与近紫外线（232 纳米）数据。由于地球臭氧层会吸收紫外线，因此天文学家必须使用太空望远镜观测。其中最大的数据集来自 NASA 的 GALEX 任务，在 2003 至 2013 年间拍摄约 3.8 万次，覆盖约三分之二天空。而为了保护探测器，避开部分明亮恒星密集区域，剩余三分之一天空此前没有紫外线观测。研究团队整合 GALEX、NASA Swift、韩国 FIMS / SPEAR 等任务的数据，并校准不同仪器的观测、统一分辨率与坐标。对于没有紫外线观测的区域，Claude Science 根据已有区域中紫外线亮度与可见光、红外线、射电数据的关系，估算缺失部分。天空的三种视角：可见光、红外线和射电波段。图片来源：ESA Gaia DR3、NASA WISE、HI4PI。因此，这张图并",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-10-10",
+      "score": 0.8975
+    },
+    {
+      "title": "16 岁少年用 Claude 规划登山路线被困悬崖，事后表示不责怪 AI",
+      "url": "https://www.ithome.com/1/011/325.htm",
+      "summary": "IT之家 10 月 10 日消息，纽约时报于 10 月 8 日发布博文，报道称加拿大 16 岁徒步者借助 Claude 规划皇冠山（Crown Mountain）路线后，误入需要攀岩装备的“寡妇制造者山脊”（Widowmaker Arete），最终被直升机成功解救下来。16 岁少年布莱斯 · 文森特 · 戈瑞卢克（Bryce Vincent Gowryluk）于当地时间 10 月 3 日周六早上 7 点 30 分从温哥华市中心的家中出发，原计划从格劳斯山顶前往皇冠山再返回，全程预计约 8 小时。由于他此前登顶过皇冠山，因此借助 Anthropic 的聊天机器人 Claude，尝试规划新的徒步路线，不过徒步者误把“寡妇制造者山脊”当作“皇冠冰槽”（Crown Couloir）。前者位于皇冠山山体，坡面陡峭且暴露，通常需要绳索及其他攀岩装备；后者则是他原本打算攀登的路线。布莱斯徒手攀爬一段距离后，发现地形越来越难，无法安全原路返回，被困在一处约 5 英尺宽的岩架上。他联系母亲后拨打加拿大皇家骑警电话，骑警通知温哥华志愿搜救队 North Shore Rescue。救援队随后派出直升机将其成",
+      "short_summary": "IT之家 10 月 10 日消息，纽约时报于 10 月 8 日发布博文，报道称加拿大 16 岁徒步者借助 Claude ",
+      "detail": "IT之家 10 月 10 日消息，纽约时报于 10 月 8 日发布博文，报道称加拿大 16 岁徒步者借助 Claude 规划皇冠山（Crown Mountain）路线后，误入需要攀岩装备的“寡妇制造者山脊”（Widowmaker Arete），最终被直升机成功解救下来。16 岁少年布莱斯 · 文森特 · 戈瑞卢克（Bryce Vincent Gowryluk）于当地时间 10 月 3 日周六早上 7 点 30 分从温哥华市中心的家中出发，原计划从格劳斯山顶前往皇冠山再返回，全程预计约 8 小时。由于他此前登顶过皇冠山，因此借助 Anthropic 的聊天机器人 Claude，尝试规划新的徒步路线，不过徒步者误把“寡妇制造者山脊”当作“皇冠冰槽”（Crown Couloir）。前者位于皇冠山山体，坡面陡峭且暴露，通常需要绳索及其他攀岩装备；后者则是他原本打算攀登的路线。布莱斯徒手攀爬一段距离后，发现地形越来越难，无法安全原路返回，被困在一处约 5 英尺宽的岩架上。他联系母亲后拨打加拿大皇家骑警电话，骑警通知温哥华志愿搜救队 North Shore Rescue。救援队随后派出直升机将其成",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-10-10",
+      "score": 0.8975
+    },
+    {
       "title": "Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip",
       "summary": "An Anthropic AI model provided false information about an unsolved homicide to a Philadelphia Police Department (PPD) tipline, according to a report from 6abc. In a statement released on Friday, the PPD said the AI model sent the tip through PhillyUnsolvedMurders.com on July 18th, but the investigators never reviewed it because it was marked as […]",
@@ -13,28 +46,6 @@
       "score": 0.86
     },
     {
-      "title": "Underdog AI 发布 Saluki 27B 模型：2-bit 量化 Qwen3.8-27B，7.89GB 大小",
-      "url": "https://www.ithome.com/1/011/219.htm",
-      "summary": "IT之家 10 月 10 日消息，人工智能实验室 Underdog AI 本月发布了 Saluki 27B 模型。该模型是 Qwen3.8-27B 的 2-bit 量化调优版本，仅保留文字 I/O 能力，文件大小则仅有 7.89 GB。Underdog 表示，Saluki 针对智能体应用设计，长于日常推理和工具使用，数学表现则相对逊色。其工具选择和多工具并行调用表现甚至优于全尺寸的 Qwen3.8-27B。Saluki 模型使用标准的 llama.cpp 格式，可在标准的 llama.cpp 以及基于它构建的应用程序中加载，无需任何自定义编译。参考https://underdog.ai/underdog-27bhttps://underdog.ai/salukihttps://huggingface.co/ConwayResearch/Underdog-Saluki-27B-1.0",
-      "short_summary": "IT之家 10 月 10 日消息，人工智能实验室 Underdog AI 本月发布了 Saluki 27B 模型。该模型",
-      "detail": "IT之家 10 月 10 日消息，人工智能实验室 Underdog AI 本月发布了 Saluki 27B 模型。该模型是 Qwen3.8-27B 的 2-bit 量化调优版本，仅保留文字 I/O 能力，文件大小则仅有 7.89 GB。Underdog 表示，Saluki 针对智能体应用设计，长于日常推理和工具使用，数学表现则相对逊色。其工具选择和多工具并行调用表现甚至优于全尺寸的 Qwen3.8-27B。Saluki 模型使用标准的 llama.cpp 格式，可在标准的 llama.cpp 以及基于它构建的应用程序中加载，无需任何自定义编译。参考https://underdog.ai/underdog-27bhttps://underdog.ai/salukihttps://huggingface.co/ConwayResearch/Underdog-Saluki-27B-1.0",
-      "source": "ITHome",
-      "source_authority": 0.75,
-      "date": "2026-10-10",
-      "score": 0.86
-    },
-    {
-      "title": "OpenAI 公布大批数学研究成果引发学界巨震，学者担忧破坏学术合作传统",
-      "url": "https://www.ithome.com/1/011/285.htm",
-      "summary": "IT之家 10 月 10 日消息，据《商业内幕》今天（10 日）上午报道，OpenAI 最新公布的大批数学研究成果在学术界引发了不同反应。一些学者为数学研究取得的突破感到振奋，另一些人则开始担忧仍在努力攻克同样难题的研究人员。纽约大学数学教授特里斯坦 · 巴克马斯特接受 CNBC《Squawk Box》节目采访时称，OpenAI 公布的成果让一些青年数学家的研究工作受到严重冲击：“他们一下子放出这么多成果，我们整个研究计划都被毁了。”巴克马斯特还提出了另一项担忧：研究人员曾向 AI 工具提交尚未发表的研究材料，这些内容是否帮助 OpenAI 取得了此次公布的数学成果？“你得明白，他们能接触到我们所有的科研项目申请书。申请书提交后，评审专家需要审阅并写出摘要。而在撰写摘要时，他们往往会把申请书内容输入到模型中。”当地时间 6 日，OpenAI 在 GitHub 上公开了 700 多份数学研究文稿。公告称，这批成果出自公司内部的一款前沿 AI 模型。许多数学证明还附有可供计算机验证的版本。对一些数学家来说，问题不仅是自己苦苦钻研的难题被抢先攻克。西北大学数学教授布莱娜 · 克拉指出，AI",
-      "short_summary": "IT之家 10 月 10 日消息，据《商业内幕》今天（10 日）上午报道，OpenAI 最新公布的大批数学研究成果在学术",
-      "detail": "IT之家 10 月 10 日消息，据《商业内幕》今天（10 日）上午报道，OpenAI 最新公布的大批数学研究成果在学术界引发了不同反应。一些学者为数学研究取得的突破感到振奋，另一些人则开始担忧仍在努力攻克同样难题的研究人员。纽约大学数学教授特里斯坦 · 巴克马斯特接受 CNBC《Squawk Box》节目采访时称，OpenAI 公布的成果让一些青年数学家的研究工作受到严重冲击：“他们一下子放出这么多成果，我们整个研究计划都被毁了。”巴克马斯特还提出了另一项担忧：研究人员曾向 AI 工具提交尚未发表的研究材料，这些内容是否帮助 OpenAI 取得了此次公布的数学成果？“你得明白，他们能接触到我们所有的科研项目申请书。申请书提交后，评审专家需要审阅并写出摘要。而在撰写摘要时，他们往往会把申请书内容输入到模型中。”当地时间 6 日，OpenAI 在 GitHub 上公开了 700 多份数学研究文稿。公告称，这批成果出自公司内部的一款前沿 AI 模型。许多数学证明还附有可供计算机验证的版本。对一些数学家来说，问题不仅是自己苦苦钻研的难题被抢先攻克。西北大学数学教授布莱娜 · 克拉指出，AI",
-      "source": "ITHome",
-      "source_authority": 0.75,
-      "date": "2026-10-10",
-      "score": 0.8475
-    },
-    {
       "title": "&#8216;Pure insanity&#8217;: Mathematicians will need years to make sense of OpenAI&#8217;s latest drop",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
       "summary": "\"Staggering.\" \"Overwhelming.\" \"Unprecedented.\" \"Surreal.\" \"Pure insanity.\" Those were among the descriptions more than three dozen mathematicians reached for in conversations with The Verge as they tried to make sense of the flood of mathematical results OpenAI abruptly dropped on the field this week. Amid the awe, excitement, and uncertainty over the sheer scale of the […]",
@@ -44,17 +55,6 @@
       "source_authority": 0.9,
       "date": "2026-10-10",
       "score": 0.8
-    },
-    {
-      "title": "奇瑞捷途全新旅行者 7 官宣 10 月 14 日上市，预售价 14.99 万元起",
-      "url": "https://www.ithome.com/1/011/288.htm",
-      "summary": "IT之家 10 月 10 日消息，奇瑞汽车执行副总裁李学用今日宣布，捷途全新旅行者 7 将于 10 月 14 日在北京全球上市。据IT之家此前报道，捷途全新旅行者 7 已于 9 月 23 日开启预售，共提供 7 款车型，预售价 14.99-17.99 万元。动力方面，该车提供 1.5T 汽油、2.0T 汽油以及 1.5T 插混三种可选。新车的长宽高分别为 4827mm、2006mm 和 1875mm，轴距 2800mm。捷途全新旅行者 7 保留了外挂式储物箱（俗称“小书包”），并采用侧开式尾门。尾灯组内部经过熏黑处理。新车提供搭载猎鹰 500 高阶智能辅助驾驶系统，基于地平线征程 6M 芯片，算力 128TOPS，采用端到端大模型。座舱方面，芯片升级为 8255。越野能力方面，捷途旅行者 7 全系标配 XWD 全自动智能四驱系统，并提供 7+X 一键越野模式。该系统可自动完成扭矩分配与限滑脱困，7 种固定驾驶模式可覆盖城市与户外多元出行场景。动力部分，1.5T 汽油版搭载 7 速双离合变速箱；2.0T 汽油版搭载 8AT 变速箱；1.5T 插电混动版匹配 3 挡 DHT 变速箱，匹配",
-      "short_summary": "IT之家 10 月 10 日消息，奇瑞汽车执行副总裁李学用今日宣布，捷途全新旅行者 7 将于 10 月 14 日在北京全",
-      "detail": "IT之家 10 月 10 日消息，奇瑞汽车执行副总裁李学用今日宣布，捷途全新旅行者 7 将于 10 月 14 日在北京全球上市。据IT之家此前报道，捷途全新旅行者 7 已于 9 月 23 日开启预售，共提供 7 款车型，预售价 14.99-17.99 万元。动力方面，该车提供 1.5T 汽油、2.0T 汽油以及 1.5T 插混三种可选。新车的长宽高分别为 4827mm、2006mm 和 1875mm，轴距 2800mm。捷途全新旅行者 7 保留了外挂式储物箱（俗称“小书包”），并采用侧开式尾门。尾灯组内部经过熏黑处理。新车提供搭载猎鹰 500 高阶智能辅助驾驶系统，基于地平线征程 6M 芯片，算力 128TOPS，采用端到端大模型。座舱方面，芯片升级为 8255。越野能力方面，捷途旅行者 7 全系标配 XWD 全自动智能四驱系统，并提供 7+X 一键越野模式。该系统可自动完成扭矩分配与限滑脱困，7 种固定驾驶模式可覆盖城市与户外多元出行场景。动力部分，1.5T 汽油版搭载 7 速双离合变速箱；2.0T 汽油版搭载 8AT 变速箱；1.5T 插电混动版匹配 3 挡 DHT 变速箱，匹配",
-      "source": "ITHome",
-      "source_authority": 0.75,
-      "date": "2026-10-10",
-      "score": 0.785
     },
     {
       "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
@@ -136,17 +136,6 @@
       "score": 0.9125
     },
     {
-      "title": "数毛社：索尼 PS5 超分技术 QSSR 存适配挑战，旧作游戏支持范围仍待确认",
-      "url": "https://www.ithome.com/1/011/287.htm",
-      "summary": "IT之家 10 月 10 日消息，数毛社（Digital Foundry）昨日（10 月 9 日）发布视频，指出适用于 PlayStation 5 标准版的 AI 超分技术 QSSR 能否适配已发售游戏，仍受 SDK 版本限制。IT之家曾于 10 月 2 日报道，索尼面向标准版 PlayStation 5 游戏主机，推出快速光谱超分辨率（Quick Spectral Super Resolution，QSSR），和索尼 PlayStation 5 Pro 上使用的 PSSR 类似，可以提升输出画面的清晰度。索尼互动娱乐（SIE）图形研发首席工程师 Daniel Craig 此前称，只需少量调整，旧游戏就能适配 QSSR。不过数毛社的 Richard Leadbetter 随后提出，目前 QSSR 的适配挑战主要在于旧游戏是否必须升级 SDK，以及它能否像 PSSR 一样通过统一机制启用。Leadbetter 认为如果 QSSR 不支持旧版 SDK，开发商就可能需要把已发售游戏迁移到较新的 SDK，再为 QSSR 做适配。如果需要移植和质量保证，开发商可能投入数周处理。对已发售数年、商业",
-      "short_summary": "IT之家 10 月 10 日消息，数毛社（Digital Foundry）昨日（10 月 9 日）发布视频，指出适用于 ",
-      "detail": "IT之家 10 月 10 日消息，数毛社（Digital Foundry）昨日（10 月 9 日）发布视频，指出适用于 PlayStation 5 标准版的 AI 超分技术 QSSR 能否适配已发售游戏，仍受 SDK 版本限制。IT之家曾于 10 月 2 日报道，索尼面向标准版 PlayStation 5 游戏主机，推出快速光谱超分辨率（Quick Spectral Super Resolution，QSSR），和索尼 PlayStation 5 Pro 上使用的 PSSR 类似，可以提升输出画面的清晰度。索尼互动娱乐（SIE）图形研发首席工程师 Daniel Craig 此前称，只需少量调整，旧游戏就能适配 QSSR。不过数毛社的 Richard Leadbetter 随后提出，目前 QSSR 的适配挑战主要在于旧游戏是否必须升级 SDK，以及它能否像 PSSR 一样通过统一机制启用。Leadbetter 认为如果 QSSR 不支持旧版 SDK，开发商就可能需要把已发售游戏迁移到较新的 SDK，再为 QSSR 做适配。如果需要移植和质量保证，开发商可能投入数周处理。对已发售数年、商业",
-      "source": "ITHome",
-      "source_authority": 0.75,
-      "date": "2026-10-10",
-      "score": 0.7325
-    },
-    {
       "title": "The Download: AI’s refusal problem and weight-loss drug side effects",
       "url": "https://www.technologyreview.com/2026/10/09/1146250/the-download-ai-refusal-problem-weight-loss-drug-side-effects/",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. We’re putting too much faith in AI’s ability to say no Today’s AI models are trained to refuse a vast number of prompts. If you ask your chatbot how to poison…",
@@ -158,22 +147,33 @@
       "score": 0.705
     },
     {
-      "title": "iQOO Pad Pro 8.8 英寸小平板开启预约：搭载第五代骁龙 8 至尊版、自研电竞芯片 Q3",
-      "url": "https://www.ithome.com/1/011/260.htm",
-      "summary": "IT之家 10 月 10 日消息，iQOO 手机官方今日宣布，8.8 英寸新成员 iQOO Pad Pro 小平板全渠道开启预约。IT之家注意到，维沃移动通信有限公司 iQOO Neo 产品经理 @iQOO慧慧子 此前透露，iQOO Pad Pro 小平板采用骁龙 8E5 处理器（第五代骁龙 8 至尊版）和自研电竞芯片 Q3，性能定位会和 Ultra 形成梯度。目前官方暂未公布有关这款小平板的更多信息，作为参考，iQOO Pad Ultra 小平板于 9 月 29 日正式发布，10 月 5 日全渠道正式开售，搭载第六代骁龙 8 超级至尊版和自研电竞芯片 Q4，首销价 5999 元起：12GB+256GB：6499 元，首销优惠价 5999 元，国补后 5499 元16GB+256GB：7199 元16GB+512GB：7999 元16GB+1TB：8999 元京东 iQOO Pad Pro 8.8 英寸 新品福袋（此商品非平板，可退）1 元直达链接",
-      "short_summary": "IT之家 10 月 10 日消息，iQOO 手机官方今日宣布，8.8 英寸新成员 iQOO Pad Pro 小平板全渠道",
-      "detail": "IT之家 10 月 10 日消息，iQOO 手机官方今日宣布，8.8 英寸新成员 iQOO Pad Pro 小平板全渠道开启预约。IT之家注意到，维沃移动通信有限公司 iQOO Neo 产品经理 @iQOO慧慧子 此前透露，iQOO Pad Pro 小平板采用骁龙 8E5 处理器（第五代骁龙 8 至尊版）和自研电竞芯片 Q3，性能定位会和 Ultra 形成梯度。目前官方暂未公布有关这款小平板的更多信息，作为参考，iQOO Pad Ultra 小平板于 9 月 29 日正式发布，10 月 5 日全渠道正式开售，搭载第六代骁龙 8 超级至尊版和自研电竞芯片 Q4，首销价 5999 元起：12GB+256GB：6499 元，首销优惠价 5999 元，国补后 5499 元16GB+256GB：7199 元16GB+512GB：7999 元16GB+1TB：8999 元京东 iQOO Pad Pro 8.8 英寸 新品福袋（此商品非平板，可退）1 元直达链接",
+      "title": "消息称苹果 iPhone Duo 折叠屏手机加单 30%，iPhone 18 Pro 系列总订单量未变",
+      "url": "https://www.ithome.com/1/011/346.htm",
+      "summary": "IT之家 10 月 10 日消息，据证券时报记者从苹果供应链方面获悉，苹果公司结构性调整 2026 年秋季手机新品订单量。IT之家附相关调整如下：对 iPhone Duo 加单 30%，但总量仍未超过 1000 万台。对 iPhone 18 Pro 砍单 10%—15%，同时对 iPhone 18 Pro Max 加单 10%—15%，iPhone 18 Pro 系列总订单量未变。苹果供应链人士表示，“这意味着销量在往更高价值产品倾斜，所以整体利好苹果供应链公司业绩。”延伸阅读iPhone Duo 是苹果首款折叠屏手机，于北京时间 2026 年 9 月 10 日凌晨举行的苹果秋季特别活动上发布，采用横向书本式内折设计，配备 5.4 英寸外屏和 7.6 英寸内屏（苹果迄今最大的 iPhone 显示屏），机身采用钛金属材质，支持 IP68 防尘防水。该机搭载 A20 Pro 芯片与苹果自研 C2 基带，全系仅支持 eSIM；256GB 版本售价 15999 元，顶配 2TB 版本售价 26499 元，于 10 月 16 日晚 8 点开启预购、10 月 23 日正式发售。与 iPhone D",
+      "short_summary": "IT之家 10 月 10 日消息，据证券时报记者从苹果供应链方面获悉，苹果公司结构性调整 2026 年秋季手机新品订单量",
+      "detail": "IT之家 10 月 10 日消息，据证券时报记者从苹果供应链方面获悉，苹果公司结构性调整 2026 年秋季手机新品订单量。IT之家附相关调整如下：对 iPhone Duo 加单 30%，但总量仍未超过 1000 万台。对 iPhone 18 Pro 砍单 10%—15%，同时对 iPhone 18 Pro Max 加单 10%—15%，iPhone 18 Pro 系列总订单量未变。苹果供应链人士表示，“这意味着销量在往更高价值产品倾斜，所以整体利好苹果供应链公司业绩。”延伸阅读iPhone Duo 是苹果首款折叠屏手机，于北京时间 2026 年 9 月 10 日凌晨举行的苹果秋季特别活动上发布，采用横向书本式内折设计，配备 5.4 英寸外屏和 7.6 英寸内屏（苹果迄今最大的 iPhone 显示屏），机身采用钛金属材质，支持 IP68 防尘防水。该机搭载 A20 Pro 芯片与苹果自研 C2 基带，全系仅支持 eSIM；256GB 版本售价 15999 元，顶配 2TB 版本售价 26499 元，于 10 月 16 日晚 8 点开启预购、10 月 23 日正式发售。与 iPhone D",
       "source": "ITHome",
       "source_authority": 0.75,
       "date": "2026-10-10",
       "score": 0.695
     },
     {
-      "title": "红魔 12 Pro+ 手机散热结构公布：搭载行业首款超薄航天钢石墨烯、嵌入式复合液态金属 4.0",
-      "url": "https://www.ithome.com/1/011/227.htm",
-      "summary": "IT之家 10 月 10 日消息，红魔 12 Pro+ 手机将于 10 月 15 日发布，官方今日公布了新机的散热结构。据介绍，这款新机搭载行业首款 RGB 水冷散热技术，支持自定义 RGB 灯效；采用全新双环流道设计，水冷面积覆盖风道、芯片、电池等核心部件；采用 AI 服务器同款氟化液，全新双晶水冷微泵功耗 20mW，压力 130kPa。风冷方面，这款新机采用驭风 5.0 新一代散热风扇，首创迷宫防尘结构，支持 IPX8 防水；搭载行业最快转速风扇（25500 r/min），采用贯穿式风道设计，覆盖热源。这款新机搭载全新升级的 ICE 魔冷散热系统，包含行业首款嵌入式复合液态金属 4.0、超薄航天钢石墨烯等；搭载 4D 冰阶 VC，双面凸台设计覆盖热源。综合IT之家此前报道，红魔 12 Pro+ 手机延续屏下前摄设计，搭载高通第六代骁龙 8 超级至尊版芯片，号称“迄今为止手感最好的红魔旗舰”，主打“更轻、更薄、更窄、更圆润”。",
-      "short_summary": "IT之家 10 月 10 日消息，红魔 12 Pro+ 手机将于 10 月 15 日发布，官方今日公布了新机的散热结构。",
-      "detail": "IT之家 10 月 10 日消息，红魔 12 Pro+ 手机将于 10 月 15 日发布，官方今日公布了新机的散热结构。据介绍，这款新机搭载行业首款 RGB 水冷散热技术，支持自定义 RGB 灯效；采用全新双环流道设计，水冷面积覆盖风道、芯片、电池等核心部件；采用 AI 服务器同款氟化液，全新双晶水冷微泵功耗 20mW，压力 130kPa。风冷方面，这款新机采用驭风 5.0 新一代散热风扇，首创迷宫防尘结构，支持 IPX8 防水；搭载行业最快转速风扇（25500 r/min），采用贯穿式风道设计，覆盖热源。这款新机搭载全新升级的 ICE 魔冷散热系统，包含行业首款嵌入式复合液态金属 4.0、超薄航天钢石墨烯等；搭载 4D 冰阶 VC，双面凸台设计覆盖热源。综合IT之家此前报道，红魔 12 Pro+ 手机延续屏下前摄设计，搭载高通第六代骁龙 8 超级至尊版芯片，号称“迄今为止手感最好的红魔旗舰”，主打“更轻、更薄、更窄、更圆润”。",
+      "title": "减轻用眼疲劳：曝三星 Galaxy S27 Pro / Ultra 手机支持 DC 调光",
+      "url": "https://www.ithome.com/1/011/320.htm",
+      "summary": "IT之家 10 月 10 日消息，消息源 @WalleGalaxy 昨日（10 月 9 日）在 X 平台发布推文，爆料称三星 Galaxy S27 Pro 和 Galaxy S27 Ultra 两款旗舰手机将支持 DC 调光，有助于减少眼睛疲劳。三星手机此前主要通过脉冲宽度调制（PWM）调节屏幕亮度，Galaxy S26 Ultra 也采用该方式。PWM 通过高频开关屏幕发光来改变亮度，部分对闪烁敏感的用户可能出现眼疲劳、疲倦或头痛。而 DC 调光（DC dimming）通过降低流向像素的电流来调暗屏幕，这种方式可平滑降低亮度，并减少传统 PWM 调光带来的快速闪烁。数码博主 @i冰宇宙 今天（10 月 10 日）发布微博，也认可该条爆料信息，表示：“太阳从西边出来了三星计划在 Galaxy S27 Pro 和 Galaxy S27 Ultra 上引入 DC 调光技术。”IT之家附上相关截图如下：",
+      "short_summary": "IT之家 10 月 10 日消息，消息源 @WalleGalaxy 昨日（10 月 9 日）在 X 平台发布推文，爆料称",
+      "detail": "IT之家 10 月 10 日消息，消息源 @WalleGalaxy 昨日（10 月 9 日）在 X 平台发布推文，爆料称三星 Galaxy S27 Pro 和 Galaxy S27 Ultra 两款旗舰手机将支持 DC 调光，有助于减少眼睛疲劳。三星手机此前主要通过脉冲宽度调制（PWM）调节屏幕亮度，Galaxy S26 Ultra 也采用该方式。PWM 通过高频开关屏幕发光来改变亮度，部分对闪烁敏感的用户可能出现眼疲劳、疲倦或头痛。而 DC 调光（DC dimming）通过降低流向像素的电流来调暗屏幕，这种方式可平滑降低亮度，并减少传统 PWM 调光带来的快速闪烁。数码博主 @i冰宇宙 今天（10 月 10 日）发布微博，也认可该条爆料信息，表示：“太阳从西边出来了三星计划在 Galaxy S27 Pro 和 Galaxy S27 Ultra 上引入 DC 调光技术。”IT之家附上相关截图如下：",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-10-10",
+      "score": 0.695
+    },
+    {
+      "title": "雷蛇猎魂光蛛 V3 专业迷你版 8KHZ 光轴键盘上市，1499 元",
+      "url": "https://www.ithome.com/1/011/313.htm",
+      "summary": "IT之家 10 月 10 日消息，Razer（雷蛇）现已开始在电商平台销售猎魂光蛛 V3 专业迷你版 8KHZ (Huntsman V3 Pro Mini 8KHz) 键盘。这一型号搭载第二代雷蛇模拟光轴，采用紧凑的 60% 配列，支持 8000Hz 轮询率，延迟短至 0.48ms，售价 1499 元。京东雷蛇 猎魂光蛛 V3 专业迷你版 8KHZ 键盘 1499 元直达链接猎魂光蛛 V3 专业迷你版 8KHZ 在 2.0mm 默认触发点下的轴体触发压力约为 40gf，支持快速触发、瞬时触发、可调节触发、快速敲击。该键盘拥有 5052 铝合金上盖，内部采用厚泡沫消音棉，轴体得到润滑，搭配 PBT 材质双色注塑工艺键帽，可以存储 6 个配置文件。此外，其右下角的修饰键在轻按时可兼作箭头（方向）键。",
+      "short_summary": "IT之家 10 月 10 日消息，Razer（雷蛇）现已开始在电商平台销售猎魂光蛛 V3 专业迷你版 8KHZ (Hun",
+      "detail": "IT之家 10 月 10 日消息，Razer（雷蛇）现已开始在电商平台销售猎魂光蛛 V3 专业迷你版 8KHZ (Huntsman V3 Pro Mini 8KHz) 键盘。这一型号搭载第二代雷蛇模拟光轴，采用紧凑的 60% 配列，支持 8000Hz 轮询率，延迟短至 0.48ms，售价 1499 元。京东雷蛇 猎魂光蛛 V3 专业迷你版 8KHZ 键盘 1499 元直达链接猎魂光蛛 V3 专业迷你版 8KHZ 在 2.0mm 默认触发点下的轴体触发压力约为 40gf，支持快速触发、瞬时触发、可调节触发、快速敲击。该键盘拥有 5052 铝合金上盖，内部采用厚泡沫消音棉，轴体得到润滑，搭配 PBT 材质双色注塑工艺键帽，可以存储 6 个配置文件。此外，其右下角的修饰键在轻按时可兼作箭头（方向）键。",
       "source": "ITHome",
       "source_authority": 0.75,
       "date": "2026-10-10",
@@ -215,17 +215,6 @@
   ],
   "category3": [
     {
-      "title": "相关人士谈马斯克想通过 Terafab 自产芯片：可能比送星舰上火星还难",
-      "url": "https://www.ithome.com/1/011/201.htm",
-      "summary": "IT之家 10 月 10 日消息，据《韩国经济日报》援引一名熟悉台积电内部情况的人士称，埃隆 · 马斯克计划通过 Terafab 项目自主生产芯片，但要实现这一目标，难度可能比把星舰送上火星还大。报道还采访了三星电子一名管理人员及韩华投资证券一名分析师。受访人士指出，只要资金充足，建设芯片工厂相对容易，真正困难的是如何实现高良率量产。马斯克对 Terafab 抱有宏大目标，希望最终通过旗下工厂实现 1TW 的算力规模。英特尔是项目的重要合作伙伴，Terafab 预计将采用英特尔下一代 14A 制程工艺生产芯片。《韩国经济日报》采访的多名专家认为，Terafab 计划实施起来困难重重，甚至可能无法实现。韩华投资证券分析师朴俊英指出，Terafab 的意义在于建立一套完整的芯片供应链，满足航天、自动驾驶汽车和机器人等不同领域的需求。朴俊英还认为，英特尔积累的芯片制造经验将发挥关键作用，帮助特斯拉和 SpaceX 迅速建立生产体系，省去从零开始研发技术所需的大量时间。三星一名管理人员对马斯克的计划提出了更严厉的质疑。他指出，芯片制造能力依赖长期积累的技术经验，尤其是不断提高良率的能力。就连三",
-      "short_summary": "IT之家 10 月 10 日消息，据《韩国经济日报》援引一名熟悉台积电内部情况的人士称，埃隆 · 马斯克计划通过 Ter",
-      "detail": "IT之家 10 月 10 日消息，据《韩国经济日报》援引一名熟悉台积电内部情况的人士称，埃隆 · 马斯克计划通过 Terafab 项目自主生产芯片，但要实现这一目标，难度可能比把星舰送上火星还大。报道还采访了三星电子一名管理人员及韩华投资证券一名分析师。受访人士指出，只要资金充足，建设芯片工厂相对容易，真正困难的是如何实现高良率量产。马斯克对 Terafab 抱有宏大目标，希望最终通过旗下工厂实现 1TW 的算力规模。英特尔是项目的重要合作伙伴，Terafab 预计将采用英特尔下一代 14A 制程工艺生产芯片。《韩国经济日报》采访的多名专家认为，Terafab 计划实施起来困难重重，甚至可能无法实现。韩华投资证券分析师朴俊英指出，Terafab 的意义在于建立一套完整的芯片供应链，满足航天、自动驾驶汽车和机器人等不同领域的需求。朴俊英还认为，英特尔积累的芯片制造经验将发挥关键作用，帮助特斯拉和 SpaceX 迅速建立生产体系，省去从零开始研发技术所需的大量时间。三星一名管理人员对马斯克的计划提出了更严厉的质疑。他指出，芯片制造能力依赖长期积累的技术经验，尤其是不断提高良率的能力。就连三",
-      "source": "ITHome",
-      "source_authority": 0.75,
-      "date": "2026-10-10",
-      "score": 0.8975
-    },
-    {
       "title": "Chip Industry Week In Review",
       "url": "https://semiengineering.com/chip-industry-week-in-review-159/",
       "summary": "$2B foundry pact; hyper-NA EUV; TSMC, Samsung financials; Canon readies nanoimprint; AI chips under scrutiny; $10T data center buildout; $1.5B SiC boost; chip smuggling; 800V power gains traction; quantum HW scales up; wireless EV road charging; sub-nm gate dielectrics; mobile fab.\nThe post Chip Industry Week In Review appeared first on Semiconductor Engineering.",
@@ -235,6 +224,17 @@
       "source_authority": 0.85,
       "date": "2026-10-09",
       "score": 0.81
+    },
+    {
+      "title": "威刚 XPG 龙耀 D600G 内存模组上市：无限镜光效，16GB×2 套条 5499 元",
+      "url": "https://www.ithome.com/1/011/311.htm",
+      "summary": "IT之家 10 月 10 日消息，威刚 (ADATA) 现已在中国大陆市场销售旗下电竞品牌 XPG 的龙耀 D600G 内存模组。这一产品在全球市场的称呼是 NOVAKEY RGB DDR5，拥有独特的无限镜面光学效果。龙耀 D600G 当前市售型号为采用 SK 海力士 \"A Die\" DRAM 的 32GB (16GB×2) 套条，传输速率 6000MT/s，时序 CL26，价格方面则是 5,499 元。京东 XPG D600G 内存 16GB×2 6000CL265499 元直达链接龙耀 D600G 采用 10 层 PCB，搭配未锁定电压上限的 PMIC 芯片，支持 Intel XMP 3.0 & AMD EXPO 内存超频规范。其支持 ARGB 灯控，合金散热马甲下部为哑光黑色。IT之家了解到，该内存模组外壳采用了 85% 回收塑料和 50% 回收铝材，在性能表现优异的同时也兼顾环保。",
+      "short_summary": "IT之家 10 月 10 日消息，威刚 (ADATA) 现已在中国大陆市场销售旗下电竞品牌 XPG 的龙耀 D600G ",
+      "detail": "IT之家 10 月 10 日消息，威刚 (ADATA) 现已在中国大陆市场销售旗下电竞品牌 XPG 的龙耀 D600G 内存模组。这一产品在全球市场的称呼是 NOVAKEY RGB DDR5，拥有独特的无限镜面光学效果。龙耀 D600G 当前市售型号为采用 SK 海力士 \"A Die\" DRAM 的 32GB (16GB×2) 套条，传输速率 6000MT/s，时序 CL26，价格方面则是 5,499 元。京东 XPG D600G 内存 16GB×2 6000CL265499 元直达链接龙耀 D600G 采用 10 层 PCB，搭配未锁定电压上限的 PMIC 芯片，支持 Intel XMP 3.0 & AMD EXPO 内存超频规范。其支持 ARGB 灯控，合金散热马甲下部为哑光黑色。IT之家了解到，该内存模组外壳采用了 85% 回收塑料和 50% 回收铝材，在性能表现优异的同时也兼顾环保。",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-10-10",
+      "score": 0.7775
     },
     {
       "title": "Master AI Chip Principles With New IEEE Design Program",
@@ -248,11 +248,22 @@
       "score": 0.77
     },
     {
-      "title": "雅达利时隔 43 年公布 800XL 电脑复刻版，2027 年发货",
-      "url": "https://www.ithome.com/1/011/270.htm",
-      "summary": "IT之家 10 月 10 日消息，Atari（雅达利）近日宣布推出 1983 年原版 800XL 电脑的现代化复刻版本。这一机型由 Retro Games 设计，由 PLAION REPLAI 制造和分销，2027 年 4 月 23 日开始发货。800XL 复刻版集成全尺寸机械键盘，随附 THECXSTICK 摇杆控制器；内置 Atari BASIC 语言，用户可在该平台上进行复古编程。其兼容雅达利 8-bit PC 软件，内置 25 款游戏，支持卡带、磁盘、磁带镜像，用户还可通过 USB 闪存盘加载自有软件，支持游戏存档与回档。IT之家获悉，雅达利 800XL 电脑复刻版定价 219.99 美元 / 199.99 英镑 / 219.99 欧元 / 349.99 澳元（IT之家注：现汇率约合 1,475 / 1,774 / 1,652 / 1,636 元人民币）",
-      "short_summary": "IT之家 10 月 10 日消息，Atari（雅达利）近日宣布推出 1983 年原版 800XL 电脑的现代化复刻版本。",
-      "detail": "IT之家 10 月 10 日消息，Atari（雅达利）近日宣布推出 1983 年原版 800XL 电脑的现代化复刻版本。这一机型由 Retro Games 设计，由 PLAION REPLAI 制造和分销，2027 年 4 月 23 日开始发货。800XL 复刻版集成全尺寸机械键盘，随附 THECXSTICK 摇杆控制器；内置 Atari BASIC 语言，用户可在该平台上进行复古编程。其兼容雅达利 8-bit PC 软件，内置 25 款游戏，支持卡带、磁盘、磁带镜像，用户还可通过 USB 闪存盘加载自有软件，支持游戏存档与回档。IT之家获悉，雅达利 800XL 电脑复刻版定价 219.99 美元 / 199.99 英镑 / 219.99 欧元 / 349.99 澳元（IT之家注：现汇率约合 1,475 / 1,774 / 1,652 / 1,636 元人民币）",
+      "title": "利民推出 GPU BRACKET LCD 4.58：显卡支架集成 LCD 副屏",
+      "url": "https://www.ithome.com/1/011/349.htm",
+      "summary": "IT之家 10 月 10 日消息，Thermalright（利民 / 索摩乐）近日在电商平台上架了 PC 配件 GPU BRACKET LCD 4.58。这一产品整合了显卡支架与 LCD 副屏，适用于侧透机箱环境。GPU BRACKET LCD 4.58 主体为铝合金材质，底部采用磁吸固定；支撑高度可在 20~160mm 区间内调节，并以手拧螺丝固定；采用 4.56\" 320×960 500nits 液晶面板，覆盖 2.5D 弧面玻璃。IT之家了解到，这款产品售价 249 元，享受 1 年质保。",
+      "short_summary": "IT之家 10 月 10 日消息，Thermalright（利民 / 索摩乐）近日在电商平台上架了 PC 配件 GPU ",
+      "detail": "IT之家 10 月 10 日消息，Thermalright（利民 / 索摩乐）近日在电商平台上架了 PC 配件 GPU BRACKET LCD 4.58。这一产品整合了显卡支架与 LCD 副屏，适用于侧透机箱环境。GPU BRACKET LCD 4.58 主体为铝合金材质，底部采用磁吸固定；支撑高度可在 20~160mm 区间内调节，并以手拧螺丝固定；采用 4.56\" 320×960 500nits 液晶面板，覆盖 2.5D 弧面玻璃。IT之家了解到，这款产品售价 249 元，享受 1 年质保。",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-10-10",
+      "score": 0.765
+    },
+    {
+      "title": "曝 ASML 光刻机配件韩国市场将统一涨价 10%，三星、SK 海力士已接受",
+      "url": "https://www.ithome.com/1/011/312.htm",
+      "summary": "IT之家 10 月 10 日消息，据韩媒 The Elec 报道，全球最大半导体设备制造商 ASML（阿斯麦）决定，将供应韩国市场的光刻机替换设备部件价格统一提高 10%。此次涨价涉及极紫外光刻机和深紫外光刻机的全部备件，从 2027 年 1 月供货的产品开始执行新价格。业内人士消息称，ASML 总部 9 月初就已通过韩国分公司向三星电子和 SK 海力士提出涨价方案，经过与两家公司采购部门协商，最终敲定涨价事宜。涨价不仅涉及定期采购的耗材，还包括因故障或性能下降而需要更换的重要部件。光刻机内部装有大量精密零部件，包括负责光线传输的透镜、反射镜等光学部件，以及光源、精密驱动装置等。备件涨价意味着设备的日常运行成本也将增加。ASML 过去通常只在原材料大幅涨价或个别材料采购困难时，调整对应零部件的价格。此次对所有备件统一提价 10%，并不常见。一名半导体业内人士说：“零部件所用材料普遍涨价确实是一个原因，但客户赚了钱，ASML 也想多拿一些利润。”ASML 将面向客户已安装设备的售后服务、备件和升级业务收入单独统计。2025 年，这部分业务营收达到 81.93 亿欧元（IT之家注：现汇率约",
+      "short_summary": "IT之家 10 月 10 日消息，据韩媒 The Elec 报道，全球最大半导体设备制造商 ASML（阿斯麦）决定，将供",
+      "detail": "IT之家 10 月 10 日消息，据韩媒 The Elec 报道，全球最大半导体设备制造商 ASML（阿斯麦）决定，将供应韩国市场的光刻机替换设备部件价格统一提高 10%。此次涨价涉及极紫外光刻机和深紫外光刻机的全部备件，从 2027 年 1 月供货的产品开始执行新价格。业内人士消息称，ASML 总部 9 月初就已通过韩国分公司向三星电子和 SK 海力士提出涨价方案，经过与两家公司采购部门协商，最终敲定涨价事宜。涨价不仅涉及定期采购的耗材，还包括因故障或性能下降而需要更换的重要部件。光刻机内部装有大量精密零部件，包括负责光线传输的透镜、反射镜等光学部件，以及光源、精密驱动装置等。备件涨价意味着设备的日常运行成本也将增加。ASML 过去通常只在原材料大幅涨价或个别材料采购困难时，调整对应零部件的价格。此次对所有备件统一提价 10%，并不常见。一名半导体业内人士说：“零部件所用材料普遍涨价确实是一个原因，但客户赚了钱，ASML 也想多拿一些利润。”ASML 将面向客户已安装设备的售后服务、备件和升级业务收入单独统计。2025 年，这部分业务营收达到 81.93 亿欧元（IT之家注：现汇率约",
       "source": "ITHome",
       "source_authority": 0.75,
       "date": "2026-10-10",
@@ -282,6 +293,17 @@
     }
   ],
   "category4": [
+    {
+      "title": "知名分析师丹 · 艾夫斯力挺特斯拉：布局物理 AI 最直接的投资标的",
+      "url": "https://www.ithome.com/1/011/345.htm",
+      "summary": "IT之家 10 月 10 日消息，综合雅虎财经及 Benzinga 报道，特斯拉的估值能否经受住下一轮考验，关键或许不再是能卖出多少辆汽车，而是已经售出的汽车还能带来多少收入。Yorkville Ives 分析师丹 · 艾夫斯认为，自动驾驶和机器人业务有望改变特斯拉的未来，但要让 500 美元（IT之家注：现汇率约合 3,353 元人民币）的目标股价有足够支撑，特斯拉还得证明这些业务能够带来持续收入。艾夫斯在最新研报中维持特斯拉“跑赢大盘”的评级和 500 美元的目标股价。他认为，特斯拉正从汽车制造商转型为涵盖汽车、自动驾驶、人形机器人和储能业务的“物理 AI”平台。如果投资者仍主要按照汽车制造商的标准评估特斯拉，就可能低估软件和服务业务未来在汽车销售之外创造收入的潜力。“我们认为，特斯拉是公众市场上最直接布局物理 AI 的标的之一。”艾夫斯认为，无人驾驶出租车业务将成为特斯拉从汽车制造走向自动驾驶服务的重要一步。特斯拉在最新季度报告中披露，无人驾驶出租车服务的累计付费运营里程约为 402 万公里。公司还在扩大服务范围，并准备投放专为无人驾驶运营设计的 Cybercab。专为无人驾驶服",
+      "short_summary": "IT之家 10 月 10 日消息，综合雅虎财经及 Benzinga 报道，特斯拉的估值能否经受住下一轮考验，关键或许不再",
+      "detail": "IT之家 10 月 10 日消息，综合雅虎财经及 Benzinga 报道，特斯拉的估值能否经受住下一轮考验，关键或许不再是能卖出多少辆汽车，而是已经售出的汽车还能带来多少收入。Yorkville Ives 分析师丹 · 艾夫斯认为，自动驾驶和机器人业务有望改变特斯拉的未来，但要让 500 美元（IT之家注：现汇率约合 3,353 元人民币）的目标股价有足够支撑，特斯拉还得证明这些业务能够带来持续收入。艾夫斯在最新研报中维持特斯拉“跑赢大盘”的评级和 500 美元的目标股价。他认为，特斯拉正从汽车制造商转型为涵盖汽车、自动驾驶、人形机器人和储能业务的“物理 AI”平台。如果投资者仍主要按照汽车制造商的标准评估特斯拉，就可能低估软件和服务业务未来在汽车销售之外创造收入的潜力。“我们认为，特斯拉是公众市场上最直接布局物理 AI 的标的之一。”艾夫斯认为，无人驾驶出租车业务将成为特斯拉从汽车制造走向自动驾驶服务的重要一步。特斯拉在最新季度报告中披露，无人驾驶出租车服务的累计付费运营里程约为 402 万公里。公司还在扩大服务范围，并准备投放专为无人驾驶运营设计的 Cybercab。专为无人驾驶服",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-10-10",
+      "score": 0.9125
+    },
     {
       "title": "Why humanoid robot demos still fail the generalization test",
       "url": "https://www.therobotreport.com/why-humanoid-robot-demos-still-fail-the-generalization-test/",
