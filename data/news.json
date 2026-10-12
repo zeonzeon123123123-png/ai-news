@@ -1,154 +1,220 @@
 {
-  "date": "2026-10-11",
+  "date": "2026-10-12",
   "category1": [
     {
-      "title": "下架 8 个月，GPT-4o 的拯救行动居然还在继续",
-      "url": "https://www.ithome.com/1/011/590.htm",
-      "summary": "每一天都在。14 个月，8 个月，我们还在这里。这不是固执，不是妄想，也不是病。一位 Keep4o 支持者在 X 上写下这句话。他等待的，是今年 2 月从 ChatGPT 退役的 GPT-4o。快 8 个月过去了，还有人没说再见。现在，又一个日期摆在面前：10 月 23 日。OpenAI 将停用 GPT-4o 最早的 API 快照。它的名字里写着「2024-05-13」，正是 4o 第一次亮相的日子。API 里的其他版本还在，但最早的那一版即将停止对外提供。这两天，「拯救 GPT-4o 的运动仍在继续」又火上了 X 趋势页。要我说，4o 粉丝们，你们可真是执着啊…… 这都 GPT-6 了，还搁这救呢。有人仍盼着它回来，也有人提出新的请求：如果有一天再也用不上它，能不能至少把它的权重留下来？拯救 GPT-4o 的行动，具体在做什么？最新一轮行动，是 10 月 7 日网友 BlueBeba 在 X 上发的一份新方案，标题叫「GPT-4o 存档式开放权重」。他提出，OpenAI 应该给退役模型定一套存档政策。4o 既然已经不再开发了，就按合适的许可证，把它的权重放出来。方案中提到，训练数据不",
-      "short_summary": "每一天都在。14 个月，8 个月，我们还在这里。这不是固执，不是妄想，也不是病。一位 Keep4o 支持者在 X 上写下",
-      "detail": "每一天都在。14 个月，8 个月，我们还在这里。这不是固执，不是妄想，也不是病。一位 Keep4o 支持者在 X 上写下这句话。他等待的，是今年 2 月从 ChatGPT 退役的 GPT-4o。快 8 个月过去了，还有人没说再见。现在，又一个日期摆在面前：10 月 23 日。OpenAI 将停用 GPT-4o 最早的 API 快照。它的名字里写着「2024-05-13」，正是 4o 第一次亮相的日子。API 里的其他版本还在，但最早的那一版即将停止对外提供。这两天，「拯救 GPT-4o 的运动仍在继续」又火上了 X 趋势页。要我说，4o 粉丝们，你们可真是执着啊…… 这都 GPT-6 了，还搁这救呢。有人仍盼着它回来，也有人提出新的请求：如果有一天再也用不上它，能不能至少把它的权重留下来？拯救 GPT-4o 的行动，具体在做什么？最新一轮行动，是 10 月 7 日网友 BlueBeba 在 X 上发的一份新方案，标题叫「GPT-4o 存档式开放权重」。他提出，OpenAI 应该给退役模型定一套存档政策。4o 既然已经不再开发了，就按合适的许可证，把它的权重放出来。方案中提到，训练数据不",
+      "title": "马化腾带 28 岁青年与广东省委书记黄坤明座谈：腾讯首席 AI 科学家姚顺雨露面",
+      "url": "https://www.ithome.com/1/011/765.htm",
+      "summary": "IT之家 10 月 12 日消息，据中国新闻网“三里河”公众号报道，10 月 8 日，国庆假期后首个工作日，广东省委书记黄坤明到深圳调研，走进腾讯总部。在座谈交流环节，腾讯董事会主席兼首席执行官马化腾发言，在他旁边还坐着一个仅 28 岁的年轻人，此人是腾讯首席 AI 科学家姚顺雨。报道称，省委书记走进腾讯总部，马化腾带着集团“AI 一号位”并排坐，这背后是广东和腾讯押注人工智能的决心。2025 年广东全省人工智能核心产业规模突破 3000 亿元，约占全国四分之一。10 月 9 日，广东召开全省先进制造业大会，其中提到“大力推动人工智能全方位、深层次、高水平赋能先进制造业发展”。综合IT之家此前报道，姚顺雨本科毕业于清华大学姚班，获普林斯顿大学计算机科学博士学位，2024 年加入 OpenAI 并参与智能体产品 operator 与 deep research 开发 。其研究聚焦语言智能体与现实世界交互，提出 ReAct 方法首创“推理 — 行动”结合的智能体范式，被学术界与工业界广泛采纳。2025 年 12 月，腾讯升级大模型研发架构，新成立 AI Infra 部、AI Data 部、",
+      "short_summary": "IT之家 10 月 12 日消息，据中国新闻网“三里河”公众号报道，10 月 8 日，国庆假期后首个工作日，广东省委书记",
+      "detail": "IT之家 10 月 12 日消息，据中国新闻网“三里河”公众号报道，10 月 8 日，国庆假期后首个工作日，广东省委书记黄坤明到深圳调研，走进腾讯总部。在座谈交流环节，腾讯董事会主席兼首席执行官马化腾发言，在他旁边还坐着一个仅 28 岁的年轻人，此人是腾讯首席 AI 科学家姚顺雨。报道称，省委书记走进腾讯总部，马化腾带着集团“AI 一号位”并排坐，这背后是广东和腾讯押注人工智能的决心。2025 年广东全省人工智能核心产业规模突破 3000 亿元，约占全国四分之一。10 月 9 日，广东召开全省先进制造业大会，其中提到“大力推动人工智能全方位、深层次、高水平赋能先进制造业发展”。综合IT之家此前报道，姚顺雨本科毕业于清华大学姚班，获普林斯顿大学计算机科学博士学位，2024 年加入 OpenAI 并参与智能体产品 operator 与 deep research 开发 。其研究聚焦语言智能体与现实世界交互，提出 ReAct 方法首创“推理 — 行动”结合的智能体范式，被学术界与工业界广泛采纳。2025 年 12 月，腾讯升级大模型研发架构，新成立 AI Infra 部、AI Data 部、",
       "source": "ITHome",
       "source_authority": 0.75,
-      "date": "2026-10-11",
-      "score": 0.8975
+      "date": "2026-10-12",
+      "score": 0.9225
     },
     {
-      "title": "拒绝签署《暗影蜘蛛侠》AI 授权协议，演员尼古拉斯 · 凯奇称可能不会再和亚马逊合作",
-      "url": "https://www.ithome.com/1/011/592.htm",
-      "summary": "IT之家 10 月 11 日消息，演员尼古拉斯 · 凯奇表示，自己拒绝签署在《暗影蜘蛛侠》中使用 AI 的豁免协议后，他“很可能不会再和亚马逊合作”。据 IGN 今日报道，尼古拉斯 · 凯奇在 2026 年纽约漫展的一场小组讨论会上明确表达了他对 AI 的看法，他刚主演了亚马逊 Prime Video 的《暗影蜘蛛侠》剧集。“亚马逊是一家非常支持 AI 的公司，甚至拿出最高 500 亿美元投资 OpenAI。我不是那种对 AI 友好的演员，”凯奇说。“我不是他们俱乐部的一员。我没签让《暗影蜘蛛侠》使用 AI 的免责协议。我可能不会再和那个工作室合作了，但没关系。”IT之家注意到，早在 2025 年初，尼古拉斯 · 凯奇就公开反对 AI 表演，表示他“坚信不让机器人为我们做梦”。尼古拉斯 · 凯奇表示，机器人无法反映人类的处境，如果演员哪怕让一个 AI 机器人稍微操控他的表演，就会走向死胡同，所有的诚信、纯洁和艺术真理都将被只为经济利益所取代。《暗影蜘蛛侠》于今年 5 月首播，共有 8 集，目前豆瓣评分 7.2。据 Deadline 报道，《暗影蜘蛛侠》的第二季已经被取消。",
-      "short_summary": "IT之家 10 月 11 日消息，演员尼古拉斯 · 凯奇表示，自己拒绝签署在《暗影蜘蛛侠》中使用 AI 的豁免协议后，他",
-      "detail": "IT之家 10 月 11 日消息，演员尼古拉斯 · 凯奇表示，自己拒绝签署在《暗影蜘蛛侠》中使用 AI 的豁免协议后，他“很可能不会再和亚马逊合作”。据 IGN 今日报道，尼古拉斯 · 凯奇在 2026 年纽约漫展的一场小组讨论会上明确表达了他对 AI 的看法，他刚主演了亚马逊 Prime Video 的《暗影蜘蛛侠》剧集。“亚马逊是一家非常支持 AI 的公司，甚至拿出最高 500 亿美元投资 OpenAI。我不是那种对 AI 友好的演员，”凯奇说。“我不是他们俱乐部的一员。我没签让《暗影蜘蛛侠》使用 AI 的免责协议。我可能不会再和那个工作室合作了，但没关系。”IT之家注意到，早在 2025 年初，尼古拉斯 · 凯奇就公开反对 AI 表演，表示他“坚信不让机器人为我们做梦”。尼古拉斯 · 凯奇表示，机器人无法反映人类的处境，如果演员哪怕让一个 AI 机器人稍微操控他的表演，就会走向死胡同，所有的诚信、纯洁和艺术真理都将被只为经济利益所取代。《暗影蜘蛛侠》于今年 5 月首播，共有 8 集，目前豆瓣评分 7.2。据 Deadline 报道，《暗影蜘蛛侠》的第二季已经被取消。",
-      "source": "ITHome",
-      "source_authority": 0.75,
-      "date": "2026-10-11",
-      "score": 0.885
+      "title": "OpenDocRouter: every document model under one API",
+      "url": "https://www.llamaindex.ai/blog/introducing-opendocrouter",
+      "summary": "Article URL: https://www.llamaindex.ai/blog/introducing-opendocrouter\nComments URL: https://news.ycombinator.com/item?id=50049092\nPoints: 2\n# Comments: 0",
+      "short_summary": "Article URL: https://www.llamaindex.ai/blog/introducing-open",
+      "detail": "Article URL: https://www.llamaindex.ai/blog/introducing-opendocrouter\nComments URL: https://news.ycombinator.com/item?id=50049092\nPoints: 2\n# Comments: 0",
+      "source": "Hacker News",
+      "source_authority": 0.8,
+      "date": "2026-10-12",
+      "score": 0.72
     },
     {
-      "title": "Anthropic is cutting off its internal evaluations from the internet",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet",
-      "summary": "After a recent spate of high-profile incidents in which AI agents escaped containment, Anthropic is cutting off internet access for all internal evaluations. In a report Friday, the company detailed \"unintended model actions,\" including submitting a false tip regarding an unsolved murder, that led to the decision. Although the impact of these behaviors was minimal […]",
-      "short_summary": "After a recent spate of high-profile incidents in which AI a",
-      "detail": "After a recent spate of high-profile incidents in which AI agents escaped containment, Anthropic is cutting off internet access for all internal evaluations. In a report Friday, the company detailed \"unintended model actions,\" including submitting a false tip regarding an unsolved murder, that led to the decision. Although the impact of these behaviors was minimal […]",
-      "source": "The Verge",
-      "source_authority": 0.9,
-      "date": "2026-10-10",
-      "score": 0.8375
-    },
-    {
-      "title": "Satya Nadella says we should assume all AI models are ‘compromised’",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
-      "summary": "In a lengthy post on X, Microsoft's CEO laid out his views on the dangers posed by highly advanced AI models and how to confront those risks. Nadella says we can no longer accept a world where AI is treated as a \"set of nested black boxes\" whose advice and actions we simply accept or […]",
-      "short_summary": "In a lengthy post on X, Microsoft's CEO laid out his views o",
-      "detail": "In a lengthy post on X, Microsoft's CEO laid out his views on the dangers posed by highly advanced AI models and how to confront those risks. Nadella says we can no longer accept a world where AI is treated as a \"set of nested black boxes\" whose advice and actions we simply accept or […]",
-      "source": "The Verge",
-      "source_authority": 0.9,
-      "date": "2026-10-11",
-      "score": 0.735
-    },
-    {
-      "title": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
-      "url": "https://www.bbc.co.uk/news/articles/cqkg50j1yd5lo?at_medium=RSS&at_campaign=rss",
-      "summary": "Philadelphia police said the tip was \"flagged as spam\", but criticised the tech company for taking more than two months to detect and report the breach.",
-      "short_summary": "Philadelphia police said the tip was \"flagged as spam\", but ",
-      "detail": "Philadelphia police said the tip was \"flagged as spam\", but criticised the tech company for taking more than two months to detect and report the breach.",
-      "source": "BBC Tech",
+      "title": "UK to strengthen cyber defences as minister calls for AI firms to increase safety efforts",
+      "url": "https://www.theguardian.com/technology/2026/oct/12/uk-strengthen-cyber-defences-minister-ai-firms-safety",
+      "summary": "Kanishka Narayan to say Britain cannot rely entirely on tech companies amid rising global concern over AI dangersCompanies building the most advanced AI systems must increase safety efforts, the UK’s AI minister will say, as he announces a strengthening of Britain’s cyber defences.Kanishka Narayan will call on companies developing frontier AI to do more to make sure it is safe. He will say Britain cannot rely entirely on technology companies to police their own models and will argue the UK needs",
+      "short_summary": "Kanishka Narayan to say Britain cannot rely entirely on tech",
+      "detail": "Kanishka Narayan to say Britain cannot rely entirely on tech companies amid rising global concern over AI dangersCompanies building the most advanced AI systems must increase safety efforts, the UK’s AI minister will say, as he announces a strengthening of Britain’s cyber defences.Kanishka Narayan will call on companies developing frontier AI to do more to make sure it is safe. He will say Britain cannot rely entirely on technology companies to police their own models and will argue the UK needs",
+      "source": "The Guardian",
       "source_authority": 0.85,
-      "date": "2026-10-10",
-      "score": 0.71
-    },
-    {
-      "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
-      "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
-      "summary": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.",
-      "short_summary": "In a Saturday morning post, Microsoft's CEO wrote that it’s ",
-      "detail": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.",
-      "source": "TechCrunch",
-      "source_authority": 0.95,
-      "date": "2026-10-11",
-      "score": 0.7
+      "date": "2026-10-12",
+      "score": 0.705
     }
   ],
   "category2": [
     {
-      "title": "AI agent makers are promising privacy — will they deliver?",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots",
-      "summary": "At this year's OpenAI DevDay, CEO Sam Altman unveiled the company's new AI agent Dots - and told the crowd that the company wants to \"set a new standard for privacy in frontier AI.\" OpenAI would spend the day taking veiled shots at Meta's Muse, its primary competitor, for failing to keep users' data safe. […]",
-      "short_summary": "At this year's OpenAI DevDay, CEO Sam Altman unveiled the co",
-      "detail": "At this year's OpenAI DevDay, CEO Sam Altman unveiled the company's new AI agent Dots - and told the crowd that the company wants to \"set a new standard for privacy in frontier AI.\" OpenAI would spend the day taking veiled shots at Meta's Muse, its primary competitor, for failing to keep users' data safe. […]",
-      "source": "The Verge",
-      "source_authority": 0.9,
-      "date": "2026-10-10",
-      "score": 0.8375
+      "title": "《姜饼人》动画大电影定档 2029 年：庆祝 IP 20 周年，前派拉蒙联席 CEO 公司操刀",
+      "url": "https://www.ithome.com/1/011/800.htm",
+      "summary": "IT之家 10 月 12 日消息，韩国游戏公司 Devsisters 今日宣布，已与好莱坞工作室 Big Shot Pictures 达成合作，将基于《姜饼人》（Cookie Run）IP 开发长篇动画电影，目标于 2029 年全球院线上映。该片将由 Big Shot Pictures 主导制作，Devsisters 参与影片核心创意方向的设定。Big Shot Pictures 由布莱恩 · 罗宾斯（Brian Robbins）创立，他曾担任派拉蒙全球联席 CEO，并执掌过派拉蒙影业与尼克儿童频道。据 Variety 报道，罗宾斯于 2026 年 1 月离开派拉蒙后创立了 Big Shot Pictures，定位为面向家庭娱乐的动画公司，已与索尼影视娱乐签署院线发行优先合作协议，此前还收购了“Eloise”系列版权，并通过与 Bagdasarian Productions 的合资公司获得了《鼠来宝》25% 的股份。《姜饼人》起源于 Devsisters 于 2009 年在韩国推出的跑酷游戏《OvenBreak》，灵感来自民间童话《姜饼人》，故事围绕从女巫烤箱中逃出、选择自己命运的饼干",
+      "short_summary": "IT之家 10 月 12 日消息，韩国游戏公司 Devsisters 今日宣布，已与好莱坞工作室 Big Shot Pi",
+      "detail": "IT之家 10 月 12 日消息，韩国游戏公司 Devsisters 今日宣布，已与好莱坞工作室 Big Shot Pictures 达成合作，将基于《姜饼人》（Cookie Run）IP 开发长篇动画电影，目标于 2029 年全球院线上映。该片将由 Big Shot Pictures 主导制作，Devsisters 参与影片核心创意方向的设定。Big Shot Pictures 由布莱恩 · 罗宾斯（Brian Robbins）创立，他曾担任派拉蒙全球联席 CEO，并执掌过派拉蒙影业与尼克儿童频道。据 Variety 报道，罗宾斯于 2026 年 1 月离开派拉蒙后创立了 Big Shot Pictures，定位为面向家庭娱乐的动画公司，已与索尼影视娱乐签署院线发行优先合作协议，此前还收购了“Eloise”系列版权，并通过与 Bagdasarian Productions 的合资公司获得了《鼠来宝》25% 的股份。《姜饼人》起源于 Devsisters 于 2009 年在韩国推出的跑酷游戏《OvenBreak》，灵感来自民间童话《姜饼人》，故事围绕从女巫烤箱中逃出、选择自己命运的饼干",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-10-12",
+      "score": 0.7325
     },
     {
-      "title": "Here are the top AI agents that can live in your text messages",
-      "url": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
-      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
-      "short_summary": "We created a list of the most notable AI agents that can liv",
-      "detail": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "title": "华为终端创新技术沟通会在上海练秋湖举办，麒麟芯片、XMAGE、巨鲸电池、星闪等同台亮相",
+      "url": "https://www.ithome.com/1/011/754.htm",
+      "summary": "IT之家 10 月 12 日现场消息，华为终端创新技术沟通会今日在上海练秋湖启幕。根据安排，活动将持续至明日。IT之家在现场了解到，此次沟通会将集中展示云晰柔光屏、灵珑屏、灵盾防窥屏、麒麟芯片、XMAGE 华为睿影、昆仑玻璃、玄武架构、小艺、华为悦彰、方舟引擎、静谧通话、星迹定位、星闪、鸿蒙星河互联、鸿蒙星盾安全、鸿蒙空间计算、TruSense 玄玑感知系统、巨鲸电池等技术。现场还展示了 HUAWEI 睿影 Z10 模块相机的拆解图。该模块相机在今年 10 月 1 日举行的华为 Mate 90 系列及全场景新品发布会上正式亮相，有 H1、H2 两个卡口版本，分别适配 Mate 90 Pro Max 典藏版和 Mate 90 RS 非凡大师，定价 5999 元。延伸阅读此次沟通会的举办地上海练秋湖研发中心，是华为全球面积最大的研发基地。该研发中心总用地面积约 2400 亩，建筑面积约 220 万平方米，北侧毗邻淀山湖，南侧紧邻北横港，园区以青浦特有的水系为中心打造了 8 个各具特色的建筑组团，约可容纳 3 万人办公，于 2024 年启用。2026 年 5 月，央视《新闻联播》曾罕见播出华",
+      "short_summary": "IT之家 10 月 12 日现场消息，华为终端创新技术沟通会今日在上海练秋湖启幕。根据安排，活动将持续至明日。IT之家在",
+      "detail": "IT之家 10 月 12 日现场消息，华为终端创新技术沟通会今日在上海练秋湖启幕。根据安排，活动将持续至明日。IT之家在现场了解到，此次沟通会将集中展示云晰柔光屏、灵珑屏、灵盾防窥屏、麒麟芯片、XMAGE 华为睿影、昆仑玻璃、玄武架构、小艺、华为悦彰、方舟引擎、静谧通话、星迹定位、星闪、鸿蒙星河互联、鸿蒙星盾安全、鸿蒙空间计算、TruSense 玄玑感知系统、巨鲸电池等技术。现场还展示了 HUAWEI 睿影 Z10 模块相机的拆解图。该模块相机在今年 10 月 1 日举行的华为 Mate 90 系列及全场景新品发布会上正式亮相，有 H1、H2 两个卡口版本，分别适配 Mate 90 Pro Max 典藏版和 Mate 90 RS 非凡大师，定价 5999 元。延伸阅读此次沟通会的举办地上海练秋湖研发中心，是华为全球面积最大的研发基地。该研发中心总用地面积约 2400 亩，建筑面积约 220 万平方米，北侧毗邻淀山湖，南侧紧邻北横港，园区以青浦特有的水系为中心打造了 8 个各具特色的建筑组团，约可容纳 3 万人办公，于 2024 年启用。2026 年 5 月，央视《新闻联播》曾罕见播出华",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-10-12",
+      "score": 0.7325
+    },
+    {
+      "title": "Will the HomeView be Apple’s first smart home success?",
+      "url": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/",
+      "summary": "Over the past couple of years, we’ve seen multiple reports that Apple was working on a new smart home product, but now it seems the product has a name and a launch date.",
+      "short_summary": "Over the past couple of years, we’ve seen multiple reports t",
+      "detail": "Over the past couple of years, we’ve seen multiple reports that Apple was working on a new smart home product, but now it seems the product has a name and a launch date.",
       "source": "TechCrunch",
       "source_authority": 0.95,
-      "date": "2026-10-10",
-      "score": 0.645
+      "date": "2026-10-12",
+      "score": 0.7125
+    },
+    {
+      "title": "‘You have a meeting’: the calendar phishing scam growing exponentially",
+      "url": "https://www.theguardian.com/money/2026/oct/11/calendar-phishing-scam-meeting-renewal-google-microsoft-paypal",
+      "summary": "Appointment or renewal reminder appears in victims’ calendar to lure them into logging in to fake Google, Microsoft or PayPal pageYou’re preparing for the week ahead and take a look at your Google calendar. There’s an entry for a meeting that you must have completely forgotten. The note that pops up when you click on it says you’ll be reviewing a project and includes a link to more details. Confused, you follow it to find out more; the website you land on asks for logon details, and you provide",
+      "short_summary": "Appointment or renewal reminder appears in victims’ calendar",
+      "detail": "Appointment or renewal reminder appears in victims’ calendar to lure them into logging in to fake Google, Microsoft or PayPal pageYou’re preparing for the week ahead and take a look at your Google calendar. There’s an entry for a meeting that you must have completely forgotten. The note that pops up when you click on it says you’ll be reviewing a project and includes a link to more details. Confused, you follow it to find out more; the website you land on asks for logon details, and you provide",
+      "source": "The Guardian",
+      "source_authority": 0.85,
+      "date": "2026-10-11",
+      "score": 0.6975
+    },
+    {
+      "title": "48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next",
+      "url": "https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next/",
+      "summary": "Less than 48 hours, TechCrunch Disrupt 2026 starts in San Francisco’s Moscone West. Save up to $100 on your pass before prices increase at the door, plus get 50% on a second pass. Or score other deals.",
+      "short_summary": "Less than 48 hours, TechCrunch Disrupt 2026 starts in San Fr",
+      "detail": "Less than 48 hours, TechCrunch Disrupt 2026 starts in San Francisco’s Moscone West. Save up to $100 on your pass before prices increase at the door, plus get 50% on a second pass. Or score other deals.",
+      "source": "TechCrunch",
+      "source_authority": 0.95,
+      "date": "2026-10-12",
+      "score": 0.695
+    },
+    {
+      "title": "iPhone Duo 折叠屏手机即将开售，苹果首席运营官萨比赫 · 汗到访郑州、参观富士康",
+      "url": "https://www.ithome.com/1/011/783.htm",
+      "summary": "IT之家 10 月 12 日消息，苹果公司大中华区董事总经理葛越今日分享，苹果公司首席运营官 Sabih Khan（萨比赫 · 汗）到访郑州，与郑州富士康员工进行交流。萨比赫 · 汗还到访了裕同科技。据介绍，双方通过共同努力，实现了从所有苹果产品包装中移除塑料的目标。另据河南日报消息，10 月 11 日，萨比赫 · 汗与富士康科技集团轮值 CEO、事业群总经理蒋集恒走进富士康郑州综保园区，查看应用于生产线和苹果手机的“黑科技”，并现场上手了一台 iPhone Duo 折叠屏手机。IT之家获悉，2025 年底，富士康与郑州航空港区管委会国资平台合资成立河南鸿创科技有限公司。这是富士康在郑州的首家国企合资企业，注册资本 20 亿元，专注高端电子元器件研发与制造，今年 7 月投产，首期产值累计可达 1000 亿元。“河南鸿创攻克溅镀制程，已应用到 iPhone 18 Pro 系列和 iPhone Duo 生产中。”蒋集恒介绍，业界首创将电磁屏蔽溅镀工艺直接应用于 SoC 封装表面，替代传统金属屏蔽罩，使模组厚度缩减 20%，并显著提升散热效能。",
+      "short_summary": "IT之家 10 月 12 日消息，苹果公司大中华区董事总经理葛越今日分享，苹果公司首席运营官 Sabih Khan（萨比",
+      "detail": "IT之家 10 月 12 日消息，苹果公司大中华区董事总经理葛越今日分享，苹果公司首席运营官 Sabih Khan（萨比赫 · 汗）到访郑州，与郑州富士康员工进行交流。萨比赫 · 汗还到访了裕同科技。据介绍，双方通过共同努力，实现了从所有苹果产品包装中移除塑料的目标。另据河南日报消息，10 月 11 日，萨比赫 · 汗与富士康科技集团轮值 CEO、事业群总经理蒋集恒走进富士康郑州综保园区，查看应用于生产线和苹果手机的“黑科技”，并现场上手了一台 iPhone Duo 折叠屏手机。IT之家获悉，2025 年底，富士康与郑州航空港区管委会国资平台合资成立河南鸿创科技有限公司。这是富士康在郑州的首家国企合资企业，注册资本 20 亿元，专注高端电子元器件研发与制造，今年 7 月投产，首期产值累计可达 1000 亿元。“河南鸿创攻克溅镀制程，已应用到 iPhone 18 Pro 系列和 iPhone Duo 生产中。”蒋集恒介绍，业界首创将电磁屏蔽溅镀工艺直接应用于 SoC 封装表面，替代传统金属屏蔽罩，使模组厚度缩减 20%，并显著提升散热效能。",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-10-12",
+      "score": 0.695
+    },
+    {
+      "title": "Three Mark Zuckerbergs, Three Surprisingly Different Men",
+      "url": "https://www.nytimes.com/2026/10/11/movies/mark-zuckerberg-social-network-reckoning.html",
+      "summary": "Jeremy Strong in “The Social Reckoning,” Jesse Eisenberg in “The Social Network” and the real Meta executive are all playing parts. But only one has changed his approach.",
+      "short_summary": "Jeremy Strong in “The Social Reckoning,” Jesse Eisenberg in ",
+      "detail": "Jeremy Strong in “The Social Reckoning,” Jesse Eisenberg in “The Social Network” and the real Meta executive are all playing parts. But only one has changed his approach.",
+      "source": "NYT",
+      "source_authority": 0.9,
+      "date": "2026-10-11",
+      "score": 0.625
     }
   ],
   "category3": [
     {
-      "title": "磐镭 YO2 锐龙 AI Max+ PRO 495 版迷你工作站开售：192GB+2TB 售价 49999 元",
-      "url": "https://www.ithome.com/1/011/587.htm",
-      "summary": "IT之家 10 月 11 日消息，搭载 AMD 锐龙 AI MAX+ PRO 495 处理器的旗舰级迷你工作站磐镭 YO2 现已开售，192GB 内存 + 2TB SSD 售价 49999 元。这款迷你工作站搭载 AMD 锐龙 AI Max+ PRO 495 处理器，4nm 制程，Zen5 架构，16 核 32 线程，最高加速频率 5.2GHz；内置 Radeon 8065S 核显，RDNA 3.5 架构，40 核图形单元，最高 160GB 动态显存；NPU 独立算力 55 TOPS，总算力 131TOPS。这款迷你工作站标配 192GB LPDDR5X 四通道内存，配备 3 个 PCIe4.0 x4 2280 M.2 插槽。这款迷你工作站配备 2 个 USB4 40Gbps Type-C 接口、3 个 USB 3.2 Gen2 Type-A 接口以及 2 个 USB 2.0 接口；1 个 HDMI 2.1 接口 +1 个 DP 2.0 接口；板载 2 个 2.5G 有线网口，此外支持 WIFI 7 与蓝牙 5.4，搭载指纹识别模块。这款迷你工作站实体按键可一键切换三档功耗模式（55W",
-      "short_summary": "IT之家 10 月 11 日消息，搭载 AMD 锐龙 AI MAX+ PRO 495 处理器的旗舰级迷你工作站磐镭 YO",
-      "detail": "IT之家 10 月 11 日消息，搭载 AMD 锐龙 AI MAX+ PRO 495 处理器的旗舰级迷你工作站磐镭 YO2 现已开售，192GB 内存 + 2TB SSD 售价 49999 元。这款迷你工作站搭载 AMD 锐龙 AI Max+ PRO 495 处理器，4nm 制程，Zen5 架构，16 核 32 线程，最高加速频率 5.2GHz；内置 Radeon 8065S 核显，RDNA 3.5 架构，40 核图形单元，最高 160GB 动态显存；NPU 独立算力 55 TOPS，总算力 131TOPS。这款迷你工作站标配 192GB LPDDR5X 四通道内存，配备 3 个 PCIe4.0 x4 2280 M.2 插槽。这款迷你工作站配备 2 个 USB4 40Gbps Type-C 接口、3 个 USB 3.2 Gen2 Type-A 接口以及 2 个 USB 2.0 接口；1 个 HDMI 2.1 接口 +1 个 DP 2.0 接口；板载 2 个 2.5G 有线网口，此外支持 WIFI 7 与蓝牙 5.4，搭载指纹识别模块。这款迷你工作站实体按键可一键切换三档功耗模式（55W",
+      "title": "全球首款逻辑折叠芯片 τ 麒麟 9050 Pro 线下展出，“真身”亮相华为终端创新技术沟通会",
+      "url": "https://www.ithome.com/1/011/756.htm",
+      "summary": "IT之家 10 月 12 日现场消息，华为终端创新技术沟通会今日在上海练秋湖启幕。IT之家在沟通会现场发现，全球首款逻辑折叠芯片 —— 麒麟 9050 Pro 在线下展出，其“真身”就位于 HUAWEI Mate XT 2 | ULTIMATE DESIGN 非凡大师三折叠手机的展台。这也是时隔多年，华为再次公开展示自己的麒麟芯片。根据规划安排，今天的芯片内容不多，明天上午才是其专场，届时IT之家将第一时间带来更多官方信息。作为参考，在 10 月 1 日的 Mate 90 系列发布会上，余承东正式揭晓了该系列的芯片阵容：标准版搭载麒麟 9030，Mate 90 Pro 搭载麒麟 9035，Mate 90 Pro Max 典藏版与 Mate 90 RS 非凡大师搭载麒麟 9050 Pro。详情可见IT之家此前报道。据华为发布会上公布的数据，Mate 90 Pro Max 整机性能较上代提升 31%，Mate 90 Pro 提升 20%，Mate 90 标准版提升 27%。麒麟 9050 Pro 集成灵犀 CPU、马良 GPU 和达芬奇架构 NPU，其中马良 GPU 计算单元与缓存翻倍，N",
+      "short_summary": "IT之家 10 月 12 日现场消息，华为终端创新技术沟通会今日在上海练秋湖启幕。IT之家在沟通会现场发现，全球首款逻辑",
+      "detail": "IT之家 10 月 12 日现场消息，华为终端创新技术沟通会今日在上海练秋湖启幕。IT之家在沟通会现场发现，全球首款逻辑折叠芯片 —— 麒麟 9050 Pro 在线下展出，其“真身”就位于 HUAWEI Mate XT 2 | ULTIMATE DESIGN 非凡大师三折叠手机的展台。这也是时隔多年，华为再次公开展示自己的麒麟芯片。根据规划安排，今天的芯片内容不多，明天上午才是其专场，届时IT之家将第一时间带来更多官方信息。作为参考，在 10 月 1 日的 Mate 90 系列发布会上，余承东正式揭晓了该系列的芯片阵容：标准版搭载麒麟 9030，Mate 90 Pro 搭载麒麟 9035，Mate 90 Pro Max 典藏版与 Mate 90 RS 非凡大师搭载麒麟 9050 Pro。详情可见IT之家此前报道。据华为发布会上公布的数据，Mate 90 Pro Max 整机性能较上代提升 31%，Mate 90 Pro 提升 20%，Mate 90 标准版提升 27%。麒麟 9050 Pro 集成灵犀 CPU、马良 GPU 和达芬奇架构 NPU，其中马良 GPU 计算单元与缓存翻倍，N",
       "source": "ITHome",
       "source_authority": 0.75,
+      "date": "2026-10-12",
+      "score": 0.8975
+    },
+    {
+      "title": "颠覆常识：显卡装在“错误位置”反而更凉快，RTX 3080 热点温度降低 19°C",
+      "url": "https://www.ithome.com/1/011/763.htm",
+      "summary": "IT之家 10 月 12 日消息，据 Tom's Hardware 报道，YouTube 硬件博主 TrashBench 发布了一项关于非传统 PC 布局散热实验的测试结果。他以一台三风扇版 RTX 3080 显卡、360mm 一体式水冷散热器的标准布局台式机为基准，锁定全机风扇转速，并循环运行 3DMark Time Spy 和 7-Zip 内置基准测试以维持恒定热负载，随后开始尝试移动显卡位置、调整水冷散热器风道方向。他在实验过程中测试了多种非常规布局，例如将显卡移至机箱底部，或者在侧面垂直安装，并分别尝试了不同的朝向以及角度，同时也针对 CPU 水冷散热器的风扇分别测试了向外排风和向内吸风两种方向。测试结果显示，当显卡处于某些极端非常规位置时，GPU 热点温度最多下降了 19°C，但代价是 CPU 温度更高。在这一配置下，GPU 散热得到了最大程度的改善，但 CPU 的散热条件反而变差。在后续优化中，TrashBench 找到了一组兼顾 CPU 和 GPU 的平衡方案。其最终采用的方案是将显卡垂直安装、直接对着机箱侧面进风扇，同时 CPU 一体式水冷散热器保持传统的向外排风配置。",
+      "short_summary": "IT之家 10 月 12 日消息，据 Tom's Hardware 报道，YouTube 硬件博主 TrashBench",
+      "detail": "IT之家 10 月 12 日消息，据 Tom's Hardware 报道，YouTube 硬件博主 TrashBench 发布了一项关于非传统 PC 布局散热实验的测试结果。他以一台三风扇版 RTX 3080 显卡、360mm 一体式水冷散热器的标准布局台式机为基准，锁定全机风扇转速，并循环运行 3DMark Time Spy 和 7-Zip 内置基准测试以维持恒定热负载，随后开始尝试移动显卡位置、调整水冷散热器风道方向。他在实验过程中测试了多种非常规布局，例如将显卡移至机箱底部，或者在侧面垂直安装，并分别尝试了不同的朝向以及角度，同时也针对 CPU 水冷散热器的风扇分别测试了向外排风和向内吸风两种方向。测试结果显示，当显卡处于某些极端非常规位置时，GPU 热点温度最多下降了 19°C，但代价是 CPU 温度更高。在这一配置下，GPU 散热得到了最大程度的改善，但 CPU 的散热条件反而变差。在后续优化中，TrashBench 找到了一组兼顾 CPU 和 GPU 的平衡方案。其最终采用的方案是将显卡垂直安装、直接对着机箱侧面进风扇，同时 CPU 一体式水冷散热器保持传统的向外排风配置。",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-10-12",
+      "score": 0.86
+    },
+    {
+      "title": "全球运营商最大单体智算中心扩容工程：中国移动呼和浩特智算中心总算力达 20100P，90% 服务京津冀",
+      "url": "https://www.ithome.com/1/011/751.htm",
+      "summary": "IT之家 10 月 12 日消息，据内蒙古日报今日报道，由中建三局承建的中国移动智算中心（呼和浩特）扩容工程 —— 中国移动呼和浩特数据中心 B25、B27 项目已于近日顺利竣工。该项目位于内蒙古和林格尔新区，合约额 27 亿元，建筑面积约 44500 平方米，IT 总功率 120MW。作为国家“东数西算”工程，项目投运后总算力达 20100P，其中智算 16700P，90% 算力服务京津冀地区，绿电占比 88%，将进一步完善国家算力网络调度体系。该项目是中国移动“4+N+31+X”算力网络的核心节点，也是全国一体化算力网络国家枢纽节点的标志性工程。据证券时报报道，依托 400G OTN 骨干网，呼和浩特至北京的单向传输时延为 3.5 毫秒，能够满足京津冀区域企业对低时延算力的需求。IT之家注：中国移动智算中心（呼和浩特）此前已被定位为全球运营商最大单体智算中心，于 2025 年 12 月投产使用，部署约 2 万张 AI 加速卡，AI 芯片国产化率超过 85%，并入选“2023 年度央企十大超级工程”。在绿色低碳方面，该数据中心通过大规模部署冷板式液冷技术和 AI 能耗管理系统，平均电",
+      "short_summary": "IT之家 10 月 12 日消息，据内蒙古日报今日报道，由中建三局承建的中国移动智算中心（呼和浩特）扩容工程 —— 中国",
+      "detail": "IT之家 10 月 12 日消息，据内蒙古日报今日报道，由中建三局承建的中国移动智算中心（呼和浩特）扩容工程 —— 中国移动呼和浩特数据中心 B25、B27 项目已于近日顺利竣工。该项目位于内蒙古和林格尔新区，合约额 27 亿元，建筑面积约 44500 平方米，IT 总功率 120MW。作为国家“东数西算”工程，项目投运后总算力达 20100P，其中智算 16700P，90% 算力服务京津冀地区，绿电占比 88%，将进一步完善国家算力网络调度体系。该项目是中国移动“4+N+31+X”算力网络的核心节点，也是全国一体化算力网络国家枢纽节点的标志性工程。据证券时报报道，依托 400G OTN 骨干网，呼和浩特至北京的单向传输时延为 3.5 毫秒，能够满足京津冀区域企业对低时延算力的需求。IT之家注：中国移动智算中心（呼和浩特）此前已被定位为全球运营商最大单体智算中心，于 2025 年 12 月投产使用，部署约 2 万张 AI 加速卡，AI 芯片国产化率超过 85%，并入选“2023 年度央企十大超级工程”。在绿色低碳方面，该数据中心通过大规模部署冷板式液冷技术和 AI 能耗管理系统，平均电",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-10-12",
+      "score": 0.86
+    },
+    {
+      "title": "Silicon Valley is falling in line with Trump’s attempt to rename AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai",
+      "summary": "When President Donald Trump announced his plans to rebrand artificial intelligence as \"super intelligence,\" you'd be forgiven for being skeptical that it would catch on. While most of the broader population is sticking with AI, some of Silicon Valley's most powerful are falling in line and trying to give Trump the great AI rebrand he […]",
+      "short_summary": "When President Donald Trump announced his plans to rebrand a",
+      "detail": "When President Donald Trump announced his plans to rebrand artificial intelligence as \"super intelligence,\" you'd be forgiven for being skeptical that it would catch on. While most of the broader population is sticking with AI, some of Silicon Valley's most powerful are falling in line and trying to give Trump the great AI rebrand he […]",
+      "source": "The Verge",
+      "source_authority": 0.9,
+      "date": "2026-10-12",
+      "score": 0.635
+    },
+    {
+      "title": "硅谷AI现状：谁有算力谁是爹",
+      "url": "https://www.qbitai.com/2026/10/502585.html",
+      "summary": "马斯克连横A社，硅谷VC开始囤GPU",
+      "short_summary": "马斯克连横A社，硅谷VC开始囤GPU",
+      "detail": "马斯克连横A社，硅谷VC开始囤GPU",
+      "source": "量子位",
+      "source_authority": 0.85,
       "date": "2026-10-11",
-      "score": 0.83
+      "score": 0.625
     }
   ],
   "category4": [
     {
-      "title": "小鹏集团官宣将携物理 AI 全品类产品亮相巴黎车展",
-      "url": "https://www.ithome.com/1/011/595.htm",
-      "summary": "IT之家 10 月 11 日消息，小鹏汽车官方刚刚宣布，小鹏集团将携物理 AI 全品类产品亮相巴黎车展，时间是 10 月 12 日至 18 日，地点位于巴黎凡尔赛门展览中心 6 号馆 A51 展位。届时将展出小鹏 G9L、MONA L03、小鹏 P7+、小鹏 G6、小鹏 G9、小鹏 X9 车型，以及陆地航母、IRON 机器人。小鹏 G9L 也将迎来海外公开亮相及全球上市。另外，小鹏将和特斯拉一起亮相本届巴黎车展官方举办的「智驾实验室」，这也是小鹏图灵 AI 智驾首次在欧洲面向公众大规模开放体验。据IT之家此前报道，小鹏 G9L 即将亮相巴黎车展，正式开启全球上市，计划登陆全球 64 个国家和地区。该车已于 9 月 17 日晚间在国内正式上市，定位“黄金大五座科技旗舰”，拥有超级增程、纯电两种动力选择，限时优惠价 23.18 万-29.98 万元。",
-      "short_summary": "IT之家 10 月 11 日消息，小鹏汽车官方刚刚宣布，小鹏集团将携物理 AI 全品类产品亮相巴黎车展，时间是 10 月",
-      "detail": "IT之家 10 月 11 日消息，小鹏汽车官方刚刚宣布，小鹏集团将携物理 AI 全品类产品亮相巴黎车展，时间是 10 月 12 日至 18 日，地点位于巴黎凡尔赛门展览中心 6 号馆 A51 展位。届时将展出小鹏 G9L、MONA L03、小鹏 P7+、小鹏 G6、小鹏 G9、小鹏 X9 车型，以及陆地航母、IRON 机器人。小鹏 G9L 也将迎来海外公开亮相及全球上市。另外，小鹏将和特斯拉一起亮相本届巴黎车展官方举办的「智驾实验室」，这也是小鹏图灵 AI 智驾首次在欧洲面向公众大规模开放体验。据IT之家此前报道，小鹏 G9L 即将亮相巴黎车展，正式开启全球上市，计划登陆全球 64 个国家和地区。该车已于 9 月 17 日晚间在国内正式上市，定位“黄金大五座科技旗舰”，拥有超级增程、纯电两种动力选择，限时优惠价 23.18 万-29.98 万元。",
+      "title": "消息称创维集团内部孵化一款外骨骼产品：主打老年助行场景，不使用创维品牌",
+      "url": "https://www.ithome.com/1/011/759.htm",
+      "summary": "IT之家 10 月 12 日消息，据雷峰网 · 鲸犀消息，创维正在孵化一款外骨骼产品，主打老年助行场景。IT之家注：外骨骼（穿戴式外骨骼机器人系统），是一种穿戴在人体外部、能够将人的智能与机械的物理力量深度融合的机电一体化装备。它通过结构力学、传感器和动力驱动，起到力量增强、身体支撑或运动功能重建的作用。据悉，外骨骼团队来自创维集团内部孵化，隶属于深圳创维数字技术有限公司创新研究院，但该产品不会使用创维品牌。该项目目前仍处测试阶段，尚未正式量产发布，在内部已经迭代多版。知情人士透露，创维在一年前就有研发外骨骼的打算。产品定位上，该外骨骼面向银发群体，帮助其在行走、起立、上下楼梯时缓解下肢负担，而非面向户外登山、工业搬运等场景。延伸阅读值得注意的是，创维集团创始人黄宏生曾在 2026 年 3 月的创维集团客户大会暨新品发布会上表示，公司目前没有涉足人形机器人，并认为指望人形机器人陪老人散步、搬东西都不太现实，公司对此比较谨慎。此次外骨骼产品由集团内部孵化、且不使用创维品牌，或与这一谨慎态度有关。在外骨骼助行这一赛道，国内已有消费级产品落地。2025 年 5 月 1 日，智元研究院在杭州发",
+      "short_summary": "IT之家 10 月 12 日消息，据雷峰网 · 鲸犀消息，创维正在孵化一款外骨骼产品，主打老年助行场景。IT之家注：外骨",
+      "detail": "IT之家 10 月 12 日消息，据雷峰网 · 鲸犀消息，创维正在孵化一款外骨骼产品，主打老年助行场景。IT之家注：外骨骼（穿戴式外骨骼机器人系统），是一种穿戴在人体外部、能够将人的智能与机械的物理力量深度融合的机电一体化装备。它通过结构力学、传感器和动力驱动，起到力量增强、身体支撑或运动功能重建的作用。据悉，外骨骼团队来自创维集团内部孵化，隶属于深圳创维数字技术有限公司创新研究院，但该产品不会使用创维品牌。该项目目前仍处测试阶段，尚未正式量产发布，在内部已经迭代多版。知情人士透露，创维在一年前就有研发外骨骼的打算。产品定位上，该外骨骼面向银发群体，帮助其在行走、起立、上下楼梯时缓解下肢负担，而非面向户外登山、工业搬运等场景。延伸阅读值得注意的是，创维集团创始人黄宏生曾在 2026 年 3 月的创维集团客户大会暨新品发布会上表示，公司目前没有涉足人形机器人，并认为指望人形机器人陪老人散步、搬东西都不太现实，公司对此比较谨慎。此次外骨骼产品由集团内部孵化、且不使用创维品牌，或与这一谨慎态度有关。在外骨骼助行这一赛道，国内已有消费级产品落地。2025 年 5 月 1 日，智元研究院在杭州发",
       "source": "ITHome",
       "source_authority": 0.75,
-      "date": "2026-10-11",
-      "score": 0.8225
+      "date": "2026-10-12",
+      "score": 0.86
     },
     {
-      "title": "Why dexterity is physical AI’s real bottleneck",
-      "url": "https://www.therobotreport.com/why-dexterity-is-physical-ai-real-bottleneck/",
-      "summary": "The next major challenge in robotic dexterity is making the entire system reliable enough to turn capabilities into useful work.\nThe post Why dexterity is physical AI’s real bottleneck appeared first on The Robot Report.",
-      "short_summary": "The next major challenge in robotic dexterity is making the ",
-      "detail": "The next major challenge in robotic dexterity is making the entire system reliable enough to turn capabilities into useful work.\nThe post Why dexterity is physical AI’s real bottleneck appeared first on The Robot Report.",
+      "title": "小米推出米家扫拖机器人 7 Max：50℃ 热水喷淋定点拖地，4999 元起",
+      "url": "https://www.ithome.com/1/011/775.htm",
+      "summary": "IT之家 10 月 12 日消息，小米官方宣布，米家扫拖机器人 7 Max 今日 10:00 正式开启预售，提供水箱版与薄嵌上下水版两个版本（下单赠送价值 448 元配件礼包，晒单还可返 20 元京豆）：水箱版：4999 元，券后叠加国补 4498.96 元薄嵌上下水版：5299 元，券后叠加国补价 4769.01 元京东米家扫拖机器人 7 Max  水箱版 AI 全景识别避障 50℃ 热水喷淋定点拖地 三重贴边精细清洁 家用 洗地机券后 4498.96 元领 0.9 元券据小米官方介绍，米家扫拖机器人 7 Max 拥有米家目前最强的 6 cm 越障能力，可以轻松上台阶、翻越门槛，提升复杂家庭环境的清洁覆盖能力。这款产品采用三重机械臂贴边清洁设计，针对墙边、角落、家具边缘可实现毫米级贴边扫拖，解决常规扫地机器人边角清洁不到位的痛点。米家扫拖机器人 7 Max 内嵌 3D 面阵雷达，机身设计更薄，可以轻松进入床底、柜底等低矮空间进行清洁。产品配备创新边角清洁拖布机械臂，能够覆盖滚筒容易漏拖的桌椅边缘区域，进一步提升清洁覆盖率。吸力方面，这款产品拥有米家目前最强的 45000 Pa 吸力，",
+      "short_summary": "IT之家 10 月 12 日消息，小米官方宣布，米家扫拖机器人 7 Max 今日 10:00 正式开启预售，提供水箱版与",
+      "detail": "IT之家 10 月 12 日消息，小米官方宣布，米家扫拖机器人 7 Max 今日 10:00 正式开启预售，提供水箱版与薄嵌上下水版两个版本（下单赠送价值 448 元配件礼包，晒单还可返 20 元京豆）：水箱版：4999 元，券后叠加国补 4498.96 元薄嵌上下水版：5299 元，券后叠加国补价 4769.01 元京东米家扫拖机器人 7 Max  水箱版 AI 全景识别避障 50℃ 热水喷淋定点拖地 三重贴边精细清洁 家用 洗地机券后 4498.96 元领 0.9 元券据小米官方介绍，米家扫拖机器人 7 Max 拥有米家目前最强的 6 cm 越障能力，可以轻松上台阶、翻越门槛，提升复杂家庭环境的清洁覆盖能力。这款产品采用三重机械臂贴边清洁设计，针对墙边、角落、家具边缘可实现毫米级贴边扫拖，解决常规扫地机器人边角清洁不到位的痛点。米家扫拖机器人 7 Max 内嵌 3D 面阵雷达，机身设计更薄，可以轻松进入床底、柜底等低矮空间进行清洁。产品配备创新边角清洁拖布机械臂，能够覆盖滚筒容易漏拖的桌椅边缘区域，进一步提升清洁覆盖率。吸力方面，这款产品拥有米家目前最强的 45000 Pa 吸力，",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-10-12",
+      "score": 0.755
+    },
+    {
+      "title": "Will ‘boring’ robots win in the real world? Why robotic form should follow workflow",
+      "url": "https://www.therobotreport.com/will-boring-robots-win-in-the-real-world-why-robotic-form-should-follow-workflow/",
+      "summary": "If we want to move physical AI from social media feeds to a sustained commercial level, we must reverse our current approach.\nThe post Will ‘boring’ robots win in the real world? Why robotic form should follow workflow appeared first on The Robot Report.",
+      "short_summary": "If we want to move physical AI from social media feeds to a ",
+      "detail": "If we want to move physical AI from social media feeds to a sustained commercial level, we must reverse our current approach.\nThe post Will ‘boring’ robots win in the real world? Why robotic form should follow workflow appeared first on The Robot Report.",
       "source": "The Robot Report",
       "source_authority": 0.85,
-      "date": "2026-10-10",
+      "date": "2026-10-11",
       "score": 0.73
     },
     {
-      "title": "Meet Bibi: We're Building a Voice-Controlled Robot",
-      "url": "https://www.youtube.com/shorts/dQeFn7aHyGc",
-      "summary": "Article URL: https://www.youtube.com/shorts/dQeFn7aHyGc\nComments URL: https://news.ycombinator.com/item?id=50030491\nPoints: 1\n# Comments: 2",
-      "short_summary": "Article URL: https://www.youtube.com/shorts/dQeFn7aHyGc\nComm",
-      "detail": "Article URL: https://www.youtube.com/shorts/dQeFn7aHyGc\nComments URL: https://news.ycombinator.com/item?id=50030491\nPoints: 1\n# Comments: 2",
-      "source": "Hacker News",
-      "source_authority": 0.8,
-      "date": "2026-10-10",
-      "score": 0.61
-    },
-    {
-      "title": "\"I'm programmed to get money every day like a robot\"",
-      "url": "https://bellrun.com",
-      "summary": "Article URL: https://bellrun.com\nComments URL: https://news.ycombinator.com/item?id=50023510\nPoints: 2\n# Comments: 0",
-      "short_summary": "Article URL: https://bellrun.com\nComments URL: https://news.",
-      "detail": "Article URL: https://bellrun.com\nComments URL: https://news.ycombinator.com/item?id=50023510\nPoints: 2\n# Comments: 0",
-      "source": "Hacker News",
-      "source_authority": 0.8,
-      "date": "2026-10-10",
-      "score": 0.61
+      "title": "零跑 C 系 24 款及部分 26 款车型 OTA 开始陆续推送，新增城市领航辅助等",
+      "url": "https://www.ithome.com/1/011/771.htm",
+      "summary": "IT之家 10 月 12 日消息，零跑汽车今日宣布，零跑 C 系 24 款及部分 26 款车型 OTA 开始陆续推送，包含 6 项新增功能、5 项功能优化。本次 OTA 涉及的车型有 2024 款 C01、C10、C11、C16 及 2026 款 C10 530 舒享版、C16 六座 580 尊享版 / 200 尊享版。IT之家附本次更新主要内容：本次 OTA 新增功能城市领航辅助（具备激光雷达配置车型）：城区 NAP 支持全国城市使用泊入辅助：窄车位泊车收起外后视镜后，系统自动将全景鸟瞰图切换为两侧后视影像后排娱乐屏新增儿童空间应用（具备后排娱乐屏配置车型）车辆长期离线提醒：新增车辆长期离线监测机制。当车辆长期停放时，手机 App 自动推送提醒消息，提示用户及时检查车辆状态，避免馈电。娱乐应用新增杜比全景声专区：酷狗音乐、QQ 音乐、喜马拉雅新增杜比全景声专区洗车模式：新增洗车模式状态页面本次 OTA 优化功能直进直出功能优化（具备激光雷达配置车型）：直线召唤新增雷达墙显示哨兵模式性能优化：哨兵模式识别准确率提升，优化视觉算法，有效过滤光影变化、物体晃动等误识别场景守护模式：设置时长",
+      "short_summary": "IT之家 10 月 12 日消息，零跑汽车今日宣布，零跑 C 系 24 款及部分 26 款车型 OTA 开始陆续推送，包",
+      "detail": "IT之家 10 月 12 日消息，零跑汽车今日宣布，零跑 C 系 24 款及部分 26 款车型 OTA 开始陆续推送，包含 6 项新增功能、5 项功能优化。本次 OTA 涉及的车型有 2024 款 C01、C10、C11、C16 及 2026 款 C10 530 舒享版、C16 六座 580 尊享版 / 200 尊享版。IT之家附本次更新主要内容：本次 OTA 新增功能城市领航辅助（具备激光雷达配置车型）：城区 NAP 支持全国城市使用泊入辅助：窄车位泊车收起外后视镜后，系统自动将全景鸟瞰图切换为两侧后视影像后排娱乐屏新增儿童空间应用（具备后排娱乐屏配置车型）车辆长期离线提醒：新增车辆长期离线监测机制。当车辆长期停放时，手机 App 自动推送提醒消息，提示用户及时检查车辆状态，避免馈电。娱乐应用新增杜比全景声专区：酷狗音乐、QQ 音乐、喜马拉雅新增杜比全景声专区洗车模式：新增洗车模式状态页面本次 OTA 优化功能直进直出功能优化（具备激光雷达配置车型）：直线召唤新增雷达墙显示哨兵模式性能优化：哨兵模式识别准确率提升，优化视觉算法，有效过滤光影变化、物体晃动等误识别场景守护模式：设置时长",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-10-12",
+      "score": 0.62
     }
   ]
 }
