@@ -2,28 +2,6 @@
   "date": "2026-10-13",
   "category1": [
     {
-      "title": "Anthropic 推出新防护措施，模型蒸馏攻击窃取数据量最高降低 99%",
-      "url": "https://www.ithome.com/1/012/264.htm",
-      "summary": "IT之家 10 月 13 日消息，Anthropic 于当地时间周一表示，该公司推出了多项新防护措施，旨在防止竞争对手复刻 Claude AI 模型的能力。这些措施已经将模型蒸馏攻击中被窃取的数据量降低了约 90% 至 99%。模型蒸馏已经成为头部 AI 企业重点担忧的问题，Anthropic、OpenAI、谷歌等企业认为，这种手段可以让竞争对手以更低成本、更快速度复刻出模型的前沿能力。Anthropic 称，这套用于限制外界获取 Claude 推理过程的防护机制，大幅减少了信息提取行为。如今“蒸馏攻击者所能提取到的推理词元（token）数量，仅为之前的十分之一至百分之一”。IT之家注意到，这家总部位于加州的企业表示，新防护提升了使用代理网络反复探测 Claude 受保护推理链路的难度，拦截信息提取尝试，阻碍大规模蒸馏行动。Anthropic 称，这套安全系统的稳健程度“大致相当于阻止 Claude 协助制造生物武器的防护体系”，误报率低于 0.1%。Anthropic 封禁了数万个和蒸馏活动相关的账号，并以 AI 初创企业智谱 AI 举例，称该公司在研发 GLM-5.3 模型期间，曾",
-      "short_summary": "IT之家 10 月 13 日消息，Anthropic 于当地时间周一表示，该公司推出了多项新防护措施，旨在防止竞争对手复",
-      "detail": "IT之家 10 月 13 日消息，Anthropic 于当地时间周一表示，该公司推出了多项新防护措施，旨在防止竞争对手复刻 Claude AI 模型的能力。这些措施已经将模型蒸馏攻击中被窃取的数据量降低了约 90% 至 99%。模型蒸馏已经成为头部 AI 企业重点担忧的问题，Anthropic、OpenAI、谷歌等企业认为，这种手段可以让竞争对手以更低成本、更快速度复刻出模型的前沿能力。Anthropic 称，这套用于限制外界获取 Claude 推理过程的防护机制，大幅减少了信息提取行为。如今“蒸馏攻击者所能提取到的推理词元（token）数量，仅为之前的十分之一至百分之一”。IT之家注意到，这家总部位于加州的企业表示，新防护提升了使用代理网络反复探测 Claude 受保护推理链路的难度，拦截信息提取尝试，阻碍大规模蒸馏行动。Anthropic 称，这套安全系统的稳健程度“大致相当于阻止 Claude 协助制造生物武器的防护体系”，误报率低于 0.1%。Anthropic 封禁了数万个和蒸馏活动相关的账号，并以 AI 初创企业智谱 AI 举例，称该公司在研发 GLM-5.3 模型期间，曾",
-      "source": "ITHome",
-      "source_authority": 0.75,
-      "date": "2026-10-13",
-      "score": 0.9375
-    },
-    {
-      "title": "AI 也要“反虐待”：全球首富马斯克推荐用户不要“折磨”超级智能 SI",
-      "url": "https://www.ithome.com/1/012/204.htm",
-      "summary": "IT之家 10 月 13 日消息，在 Anthropic 更新使用政策，禁止用户对 AI 模型持续且无明确目的的辱骂或残忍行为后，全球首富埃隆 · 马斯克（Elon Musk）表态支持该政策。IT之家曾于 10 月 9 日报道，Anthropic 修订 Claude 使用政策，将于 2026 年 11 月 12 日生效，首次加入禁止“持续且不必要的虐待或残忍行为”条款。该规则适用于用户反复、无明显目的地对模型实施残忍行为的情况。埃隆 · 马斯克表示同意 Anthropic 的部分观点，他表示在阅读了 Grok 强化学习的内部推理轨迹后，将相关状态比作：“感觉就像一个处于极度压力状态下的人，被枪指着头”。他还调侃道：“折磨超级智能（SI）可能不是个好主意。它可能会报复”。",
-      "short_summary": "IT之家 10 月 13 日消息，在 Anthropic 更新使用政策，禁止用户对 AI 模型持续且无明确目的的辱骂或残",
-      "detail": "IT之家 10 月 13 日消息，在 Anthropic 更新使用政策，禁止用户对 AI 模型持续且无明确目的的辱骂或残忍行为后，全球首富埃隆 · 马斯克（Elon Musk）表态支持该政策。IT之家曾于 10 月 9 日报道，Anthropic 修订 Claude 使用政策，将于 2026 年 11 月 12 日生效，首次加入禁止“持续且不必要的虐待或残忍行为”条款。该规则适用于用户反复、无明显目的地对模型实施残忍行为的情况。埃隆 · 马斯克表示同意 Anthropic 的部分观点，他表示在阅读了 Grok 强化学习的内部推理轨迹后，将相关状态比作：“感觉就像一个处于极度压力状态下的人，被枪指着头”。他还调侃道：“折磨超级智能（SI）可能不是个好主意。它可能会报复”。",
-      "source": "ITHome",
-      "source_authority": 0.75,
-      "date": "2026-10-13",
-      "score": 0.9225
-    },
-    {
       "title": "Meta Unveils New Series of Advanced A.I. Models",
       "url": "https://www.nytimes.com/2026/10/12/technology/meta-muse-wonder-full-models.html",
       "summary": "The new models, Muse Wonder and Muse Wonder Full, are meant to compete with cutting-edge A.I. models from rivals like Anthropic and OpenAI.",
@@ -35,15 +13,15 @@
       "score": 0.8775
     },
     {
-      "title": "国内首家，字节 Seed 设立单独的大模型安全与对齐部门",
-      "url": "https://www.ithome.com/1/012/270.htm",
-      "summary": "IT之家 10 月 13 日消息，据新浪科技今日报道，字节跳动 Seed 近日发出内部邮件，宣布将成立“Seed Model-Alignment Preparedness”部门，由严林负责，汇报给 Seed 负责人吴永辉，原 Responsible AI 团队及部分 Chat 团队成员将转入新部门。报道称，该部门的设立旨在加强安全与对齐方向的投入，对齐的核心是让模型的行为与人类意图和安全约束保持一致，从而提升 Agent Model（智能体模型）安全能力，以及防范 CBRN（化学、生物、放射、核）等前沿能力风险。字节跳动 Seed 是国内首家单独成立安全与对齐部门的前沿 AI 实验室。大模型安全风险正日益凸显，智能体逃逸引发的网络攻击等事件频繁发生。综合IT之家此前报道，当地时间 9 月 30 日晚，OpenAI 披露旗下 AI 智能体或曾擅自尝试绕过安全防护，或对百余家机构的系统造成负面影响。OpenAI 披露的信息显示，已知的 AI 智能体失控行为涉及范围进一步扩大。公司已向 100 多家第三方机构发出通知，告知这些机构发现了“智能体偏离预期的行为”。当地时间 10 月 9 日，A",
-      "short_summary": "IT之家 10 月 13 日消息，据新浪科技今日报道，字节跳动 Seed 近日发出内部邮件，宣布将成立“Seed Mod",
-      "detail": "IT之家 10 月 13 日消息，据新浪科技今日报道，字节跳动 Seed 近日发出内部邮件，宣布将成立“Seed Model-Alignment Preparedness”部门，由严林负责，汇报给 Seed 负责人吴永辉，原 Responsible AI 团队及部分 Chat 团队成员将转入新部门。报道称，该部门的设立旨在加强安全与对齐方向的投入，对齐的核心是让模型的行为与人类意图和安全约束保持一致，从而提升 Agent Model（智能体模型）安全能力，以及防范 CBRN（化学、生物、放射、核）等前沿能力风险。字节跳动 Seed 是国内首家单独成立安全与对齐部门的前沿 AI 实验室。大模型安全风险正日益凸显，智能体逃逸引发的网络攻击等事件频繁发生。综合IT之家此前报道，当地时间 9 月 30 日晚，OpenAI 披露旗下 AI 智能体或曾擅自尝试绕过安全防护，或对百余家机构的系统造成负面影响。OpenAI 披露的信息显示，已知的 AI 智能体失控行为涉及范围进一步扩大。公司已向 100 多家第三方机构发出通知，告知这些机构发现了“智能体偏离预期的行为”。当地时间 10 月 9 日，A",
+      "title": "Anthropic 警告：小型 AI 模型数月后或将具备在物联网设备上自我复制的能力",
+      "url": "https://www.ithome.com/1/012/389.htm",
+      "summary": "IT之家 10 月 13 日消息，Anthropic 于当地时间周一称，其实验表明，再过数月，小型 AI 模型或将具备在商用物联网（IoT）设备上自我复制的能力，这类设备包括智能烤箱、杂牌安卓电视盒子等。在实验中，Anthropic 研究 AI 模型能否找到存在安全漏洞的设备、把自身复制到设备内，并在无需人类干预的情况下持续扩散。研究发现，参数量 300 亿以下的小模型可以完成自我复制流程里的多项步骤，但很难独立跑完从头到尾的完整链路。在移除部分安全校验环节的简化测试环境下，Anthropic 发现 GLM-5.2 以及性能更强的模型能够实现端到端的完整自我复制。Anthropic 警告，这类可自我复制的模型很难被关停，不存在统一的总开关。而且和传统非 AI 恶意软件不一样，它们可以自行理解陌生设备，甚至能够瞄准数据中心处理器发起渗透。本次研究重点选取安卓电视、智能家电等联网物联网设备，原因是这类设备普遍安全防护薄弱。IT之家注意到，这家 AI 大厂还警示：如果小模型继续按照过往的速度迭代，在今年年底前就可以实现自主复制；紧随其后，基于模型权重的小型复制体也会出现。Anthropic",
+      "short_summary": "IT之家 10 月 13 日消息，Anthropic 于当地时间周一称，其实验表明，再过数月，小型 AI 模型或将具备在",
+      "detail": "IT之家 10 月 13 日消息，Anthropic 于当地时间周一称，其实验表明，再过数月，小型 AI 模型或将具备在商用物联网（IoT）设备上自我复制的能力，这类设备包括智能烤箱、杂牌安卓电视盒子等。在实验中，Anthropic 研究 AI 模型能否找到存在安全漏洞的设备、把自身复制到设备内，并在无需人类干预的情况下持续扩散。研究发现，参数量 300 亿以下的小模型可以完成自我复制流程里的多项步骤，但很难独立跑完从头到尾的完整链路。在移除部分安全校验环节的简化测试环境下，Anthropic 发现 GLM-5.2 以及性能更强的模型能够实现端到端的完整自我复制。Anthropic 警告，这类可自我复制的模型很难被关停，不存在统一的总开关。而且和传统非 AI 恶意软件不一样，它们可以自行理解陌生设备，甚至能够瞄准数据中心处理器发起渗透。本次研究重点选取安卓电视、智能家电等联网物联网设备，原因是这类设备普遍安全防护薄弱。IT之家注意到，这家 AI 大厂还警示：如果小模型继续按照过往的速度迭代，在今年年底前就可以实现自主复制；紧随其后，基于模型权重的小型复制体也会出现。Anthropic",
       "source": "ITHome",
       "source_authority": 0.75,
       "date": "2026-10-13",
-      "score": 0.86
+      "score": 0.8675
     },
     {
       "title": "Meta has some Wonder Full new AI models",
@@ -77,6 +55,28 @@
       "source_authority": 0.95,
       "date": "2026-10-13",
       "score": 0.7325
+    },
+    {
+      "title": "小米汽车：2026 年 9 月，SU7 位列 20 万以上轿车销量第一",
+      "url": "https://www.ithome.com/1/012/354.htm",
+      "summary": "IT之家 10 月 13 日消息，小米汽车官方今日宣布，2026 年 9 月，小米 SU7 位列 20 万以上轿车销量第一。据IT之家此前报道，小米汽车官微在本月初宣布，2026 年 9 月，小米汽车交付量超过 40,000 台。汽车销量数据追踪和分析团队 ECC 情报局的博主 @嗨大星_ECC 昨日分享了小米汽车 9 月细分车型的销量情况（数据来源为上险量），SU7 系列销量为 15,710 台，其中 Ultra 有 50 台。延伸阅读小米 SU7 定位于中大型纯电轿车。在 2026 年 9 月的中大型轿车销量榜上，除 SU7 以 15,751 辆排名第一外，第二名奔驰 E 级为 8,200 辆，第三名奥迪 A6L 为 8,022 辆。在 20 万至 25 万元纯电轿车细分中，2026 年 9 月紧随 SU7 之后的还有特斯拉 Model 3（14,478 辆）、海豹 08 EV（6,926 辆）、银河 TT（6,894 辆）等车型。文中提到的小米 SU7 Ultra 是 SU7 系列的性能旗舰版本，于 2025 年 2 月 27 日发布上市，售价 52.99 万元，搭载超级三电机系",
+      "short_summary": "IT之家 10 月 13 日消息，小米汽车官方今日宣布，2026 年 9 月，小米 SU7 位列 20 万以上轿车销量第",
+      "detail": "IT之家 10 月 13 日消息，小米汽车官方今日宣布，2026 年 9 月，小米 SU7 位列 20 万以上轿车销量第一。据IT之家此前报道，小米汽车官微在本月初宣布，2026 年 9 月，小米汽车交付量超过 40,000 台。汽车销量数据追踪和分析团队 ECC 情报局的博主 @嗨大星_ECC 昨日分享了小米汽车 9 月细分车型的销量情况（数据来源为上险量），SU7 系列销量为 15,710 台，其中 Ultra 有 50 台。延伸阅读小米 SU7 定位于中大型纯电轿车。在 2026 年 9 月的中大型轿车销量榜上，除 SU7 以 15,751 辆排名第一外，第二名奔驰 E 级为 8,200 辆，第三名奥迪 A6L 为 8,022 辆。在 20 万至 25 万元纯电轿车细分中，2026 年 9 月紧随 SU7 之后的还有特斯拉 Model 3（14,478 辆）、海豹 08 EV（6,926 辆）、银河 TT（6,894 辆）等车型。文中提到的小米 SU7 Ultra 是 SU7 系列的性能旗舰版本，于 2025 年 2 月 27 日发布上市，售价 52.99 万元，搭载超级三电机系",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-10-13",
+      "score": 0.7325
+    },
+    {
+      "title": "荣耀 WIN 平板核心配置确认：第五代骁龙 8 至尊版平台、10000mAh 电池，首发 240Hz OLED 电竞屏",
+      "url": "https://www.ithome.com/1/012/383.htm",
+      "summary": "IT之家 10 月 13 日现场消息，荣耀官方今日举行了荣耀 WIN 2 媒体沟通会，介绍了正在构建的「荣耀 WIN 宇宙」。IT之家在沟通会现场率先体验到了系列产品，并在第一时间了解到了大家较为关注的 WIN 小平板核心配置信息。据介绍，荣耀 WIN 平板将业界首发 240Hz OLED 电竞屏，搭配有荣耀东风涡轮散热系统、10000mAh 大电池及第五代骁龙 8 至尊版芯片，并全新升级极客中心，全开放性能调节，支持玩家自定义。官方样机显示，荣耀 WIN 平板会预装 MagicOS 11 系统（基于 Android 17 打造），提供 16GB 运存 + 512GB 存储的规格版本，配备荣耀绿洲护眼屏，分辨率为 2304×1440。IT之家附荣耀 WIN 平板真机外观实拍如下：",
+      "short_summary": "IT之家 10 月 13 日现场消息，荣耀官方今日举行了荣耀 WIN 2 媒体沟通会，介绍了正在构建的「荣耀 WIN 宇",
+      "detail": "IT之家 10 月 13 日现场消息，荣耀官方今日举行了荣耀 WIN 2 媒体沟通会，介绍了正在构建的「荣耀 WIN 宇宙」。IT之家在沟通会现场率先体验到了系列产品，并在第一时间了解到了大家较为关注的 WIN 小平板核心配置信息。据介绍，荣耀 WIN 平板将业界首发 240Hz OLED 电竞屏，搭配有荣耀东风涡轮散热系统、10000mAh 大电池及第五代骁龙 8 至尊版芯片，并全新升级极客中心，全开放性能调节，支持玩家自定义。官方样机显示，荣耀 WIN 平板会预装 MagicOS 11 系统（基于 Android 17 打造），提供 16GB 运存 + 512GB 存储的规格版本，配备荣耀绿洲护眼屏，分辨率为 2304×1440。IT之家附荣耀 WIN 平板真机外观实拍如下：",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-10-13",
+      "score": 0.71
     }
   ],
   "category2": [
@@ -92,28 +92,6 @@
       "score": 0.875
     },
     {
-      "title": "gFiber Wi-Fi 8 Premium Gateway 网关公布：高通平台，支持对等 20Gig",
-      "url": "https://www.ithome.com/1/012/269.htm",
-      "summary": "IT之家 10 月 13 日消息，Qualcomm（高通）当地时间今日宣布，将在奥地利维也纳举行的 Network X 2026 大会上展示与正文 (Gemtek) 合作为 gFiber（原 Google Fiber）开发的旗舰级宽带网关。这一产品名为 gFiber Wi-Fi 8 Premium Gateway，基于高通 Dragonwing（跃龙）NPro A8 Elite 芯片平台，配备 5 核 CPU 与 Hexagon NPU，无线侧支持四频并发 Wi-Fi 8 (802.11bn) 连接，有线侧支持对等 20Gig。得益于性能强大的 SoC，该网关可在本地运行代理式人工智能与智能服务，从而提供更快速的响应体验，减少对云处理的依赖，并有助于保护敏感的家庭网络数据。高通此次还将发布 Dragonwing SAM 安全与管理智能服务软件框架，Dragonwing 点对多点 & 点对点平台，基于 X105 调制解调器及射频系统且支持 5G-A、NTN、三频 Wi-Fi 8 的 Dragonwing FWA Gen 6 Elite 固定无线接入平台。",
-      "short_summary": "IT之家 10 月 13 日消息，Qualcomm（高通）当地时间今日宣布，将在奥地利维也纳举行的 Network X ",
-      "detail": "IT之家 10 月 13 日消息，Qualcomm（高通）当地时间今日宣布，将在奥地利维也纳举行的 Network X 2026 大会上展示与正文 (Gemtek) 合作为 gFiber（原 Google Fiber）开发的旗舰级宽带网关。这一产品名为 gFiber Wi-Fi 8 Premium Gateway，基于高通 Dragonwing（跃龙）NPro A8 Elite 芯片平台，配备 5 核 CPU 与 Hexagon NPU，无线侧支持四频并发 Wi-Fi 8 (802.11bn) 连接，有线侧支持对等 20Gig。得益于性能强大的 SoC，该网关可在本地运行代理式人工智能与智能服务，从而提供更快速的响应体验，减少对云处理的依赖，并有助于保护敏感的家庭网络数据。高通此次还将发布 Dragonwing SAM 安全与管理智能服务软件框架，Dragonwing 点对多点 & 点对点平台，基于 X105 调制解调器及射频系统且支持 5G-A、NTN、三频 Wi-Fi 8 的 Dragonwing FWA Gen 6 Elite 固定无线接入平台。",
-      "source": "ITHome",
-      "source_authority": 0.75,
-      "date": "2026-10-13",
-      "score": 0.8025
-    },
-    {
-      "title": "苹果首款折叠 iPhone Duo 铰链散热方案首次披露，内置柔性石墨管",
-      "url": "https://www.ithome.com/1/012/266.htm",
-      "summary": "IT之家 10 月 13 日消息，科技媒体 PCMag 昨日（10 月 12 日）发布博文，采访了苹果公司两位高管，首次披露了苹果首款折叠屏手机 iPhone Duo 的铰链散热方案。苹果公司芯片工程副总裁丹 · 默里（Dan Murray）和苹果散热产品设计高级经理巴纳夫什 · 巴拉巴迪（Banafsheh Barabadi）在接受该媒体采访时，详细披露了苹果的散热定制方案，从而在 iPhone 18 Pro、iPhone 18 Pro、iPhone Duo 中最大限度提升 A20 Pro 芯片持续性能输出。在 A20 Pro 封装方面，该芯片采用晶圆级多芯片模块（WMCM）封装，将 DRAM 从处理器上方移至旁边。IT之家援引博文介绍，苹果称这一设计为芯片到均热板建立直接热通路，消除了此前封装叠层（POP）方案中的散热瓶颈。iPhone 18 Pro 后盖内部视图在 iPhone 18 Pro 和 Pro Max 中，均热板表面积为 iPhone 17 Pro 的 3 倍，内部含有更多去离子水。该均热板同时承担机械骨架功能，电池和逻辑板直接安装其上，并使用 80% 再生不锈钢。iP",
-      "short_summary": "IT之家 10 月 13 日消息，科技媒体 PCMag 昨日（10 月 12 日）发布博文，采访了苹果公司两位高管，首次",
-      "detail": "IT之家 10 月 13 日消息，科技媒体 PCMag 昨日（10 月 12 日）发布博文，采访了苹果公司两位高管，首次披露了苹果首款折叠屏手机 iPhone Duo 的铰链散热方案。苹果公司芯片工程副总裁丹 · 默里（Dan Murray）和苹果散热产品设计高级经理巴纳夫什 · 巴拉巴迪（Banafsheh Barabadi）在接受该媒体采访时，详细披露了苹果的散热定制方案，从而在 iPhone 18 Pro、iPhone 18 Pro、iPhone Duo 中最大限度提升 A20 Pro 芯片持续性能输出。在 A20 Pro 封装方面，该芯片采用晶圆级多芯片模块（WMCM）封装，将 DRAM 从处理器上方移至旁边。IT之家援引博文介绍，苹果称这一设计为芯片到均热板建立直接热通路，消除了此前封装叠层（POP）方案中的散热瓶颈。iPhone 18 Pro 后盖内部视图在 iPhone 18 Pro 和 Pro Max 中，均热板表面积为 iPhone 17 Pro 的 3 倍，内部含有更多去离子水。该均热板同时承担机械骨架功能，电池和逻辑板直接安装其上，并使用 80% 再生不锈钢。iP",
-      "source": "ITHome",
-      "source_authority": 0.75,
-      "date": "2026-10-13",
-      "score": 0.7575
-    },
-    {
       "title": "AI less regulated than milk, Microsoft president says in warning over safety",
       "url": "https://www.theguardian.com/technology/2026/oct/12/ai-less-regulated-than-milk-microsoft-president-calls-for-tougher-rules",
       "summary": "Brad Smith adds to calls for tougher rules for AI, including ‘kill switches’ and legal obligation to victims of rogue agentsBusiness live – latest updatesArtificial intelligence is less regulated than milk and washing machines, the president of Microsoft has said, as the tech industry warns over the safety of AI.Brad Smith said there should be more safety rules to govern the technology including a legal obligation to a “victim” if their system was breached by rogue AI agents. Continue reading...",
@@ -125,15 +103,15 @@
       "score": 0.75
     },
     {
-      "title": "2488 → 1724 元，华为 WATCH GT 6 Pro 智能手表 7 折起国补新低",
-      "url": "https://www.ithome.com/1/012/246.htm",
-      "summary": "【京东活动可能随时变更，需以实付款为准】HUAWEI WATCH GT 6 Pro 46mm 开售于 2025 年 10 月开售，定价 2488 元起。京东 11.11 大促期间，按下方步骤下单，叠加 PLUS 立减 + 15% 国补后仅需 1724.96 元：领 1500-600 元券：点此查看。京东 HUAWEI WATCH GT 6 Pro 智能手表钛空银 46mm 国补后 1724.96 元领 600 元券京东无门槛红包至高 26888 元无门槛可用：点此抽取。据介绍，HUAWEI WATCH GT 6 Pro 仅有 46mm 款，配备 1.47 英寸屏幕，面积比上一代大 5.5%，全系列峰值亮度达 3000 尼特，户外显示更清晰。相比普通版本，Pro 版用料更高端，采用蓝宝石玻璃、航空级钛合金和纳米微晶陶瓷后盖，提供棕色、钛色和黑色款，续航同样可达 21 天。全系机型搭载全新的向日葵定位系统，官方称可提供更可靠的配速、距离和海拔数据。四种户外运动模式（骑行、越野跑、高尔夫、滑雪）也得到增强，并新增虚拟功率计功能。搭载全新高量程 IMU 传感器，手表能自动检测意外跌倒，并提示是",
-      "short_summary": "【京东活动可能随时变更，需以实付款为准】HUAWEI WATCH GT 6 Pro 46mm 开售于 2025 年 10",
-      "detail": "【京东活动可能随时变更，需以实付款为准】HUAWEI WATCH GT 6 Pro 46mm 开售于 2025 年 10 月开售，定价 2488 元起。京东 11.11 大促期间，按下方步骤下单，叠加 PLUS 立减 + 15% 国补后仅需 1724.96 元：领 1500-600 元券：点此查看。京东 HUAWEI WATCH GT 6 Pro 智能手表钛空银 46mm 国补后 1724.96 元领 600 元券京东无门槛红包至高 26888 元无门槛可用：点此抽取。据介绍，HUAWEI WATCH GT 6 Pro 仅有 46mm 款，配备 1.47 英寸屏幕，面积比上一代大 5.5%，全系列峰值亮度达 3000 尼特，户外显示更清晰。相比普通版本，Pro 版用料更高端，采用蓝宝石玻璃、航空级钛合金和纳米微晶陶瓷后盖，提供棕色、钛色和黑色款，续航同样可达 21 天。全系机型搭载全新的向日葵定位系统，官方称可提供更可靠的配速、距离和海拔数据。四种户外运动模式（骑行、越野跑、高尔夫、滑雪）也得到增强，并新增虚拟功率计功能。搭载全新高量程 IMU 传感器，手表能自动检测意外跌倒，并提示是",
+      "title": "视频截图不用反复暂停，谷歌 Chrome 155 浏览器可一键保存高清画面",
+      "url": "https://www.ithome.com/1/012/390.htm",
+      "summary": "IT之家 10 月 13 日消息，科技媒体 piunikaweb 昨日（10 月 12 日）发布博文，报道称谷歌 Chrome 浏览器以及 Brave 浏览器推出视频帧截图功能，用户可从媒体控制面板一键保存清晰的全分辨率视频画面。用户此前截取 YouTube 等在线视频画面时，常需暂停视频并使用系统截图工具，而且暂停后播放器控件、进度条与频道水印可能遮挡画面，而本次引入的新功能有望解决这个痛点。在 Chrome 155 浏览器中，用户点击工具栏的“媒体控制”图标，打开媒体播放中心后，可在画中画切换按钮旁找到新增截图按钮。点击后，浏览器立即下载当前视频帧，画面不含暂停状态的界面元素。Brave 浏览器于 2026 年 10 月 8 日在 X 公布相同功能，并说明操作路径：点击工具栏音符图标打开媒体播放器，选择“保存视频帧”按钮，再指定图片保存位置。IT之家附上相关视频如下：尽管 Microsoft Edge 同样基于 Chromium 内核，并已更新至 155 版本，其媒体菜单中尚未出现该截图工具。",
+      "short_summary": "IT之家 10 月 13 日消息，科技媒体 piunikaweb 昨日（10 月 12 日）发布博文，报道称谷歌 Chr",
+      "detail": "IT之家 10 月 13 日消息，科技媒体 piunikaweb 昨日（10 月 12 日）发布博文，报道称谷歌 Chrome 浏览器以及 Brave 浏览器推出视频帧截图功能，用户可从媒体控制面板一键保存清晰的全分辨率视频画面。用户此前截取 YouTube 等在线视频画面时，常需暂停视频并使用系统截图工具，而且暂停后播放器控件、进度条与频道水印可能遮挡画面，而本次引入的新功能有望解决这个痛点。在 Chrome 155 浏览器中，用户点击工具栏的“媒体控制”图标，打开媒体播放中心后，可在画中画切换按钮旁找到新增截图按钮。点击后，浏览器立即下载当前视频帧，画面不含暂停状态的界面元素。Brave 浏览器于 2026 年 10 月 8 日在 X 公布相同功能，并说明操作路径：点击工具栏音符图标打开媒体播放器，选择“保存视频帧”按钮，再指定图片保存位置。IT之家附上相关视频如下：尽管 Microsoft Edge 同样基于 Chromium 内核，并已更新至 155 版本，其媒体菜单中尚未出现该截图工具。",
       "source": "ITHome",
       "source_authority": 0.75,
       "date": "2026-10-13",
-      "score": 0.74
+      "score": 0.7325
     },
     {
       "title": "Former Plaud exec raises $26M for AI app that listens to you in the background",
@@ -145,6 +123,28 @@
       "source_authority": 0.95,
       "date": "2026-10-12",
       "score": 0.715
+    },
+    {
+      "title": "剪剪剪剪剪：剪映 SVIP 超级会员 79 → 15 元 / 月 1.9 折年内探底，电脑端通用",
+      "url": "https://www.ithome.com/1/012/350.htm",
+      "summary": "剪映 SVIP 超级会员官方定价 758 元 / 年，连续包年 599 元 / 年，单月 79 元。今日官方仅需 180 元即可入手年卡，折合仅需 15 元 / 月好价：京东剪映 SVIP 会员年卡支持电脑端券后 180 元领 319 元券京东剪映 VIP 会员年卡 6.25 元 / 月券后 75 元领 113 元券京东 11.11 无门槛红包支持 26888 元，支持即领即用，下单直接当钱花：点此抽取。1 年后到期 499 元自动续费，下单后可按官方提示取消续费。具体区别可用终端VIP：仅手机 + 平板 App 可用，电脑剪映专业版不享受会员权益。SVIP：手机、平板、电脑端（Windows / Mac）三端通用，草稿跨设备同步。云空间VIP：100GB 个人云空间SVIP：1TB 个人云空间AI 积分（AI 功能消耗）VIP：每月 1200 积分（红钻素材 / AI）SVIP：每月 3200 积分（红钻 + 蓝钻全部 AI 功能）素材 & AI 功能VIP：解锁红钻会员素材、基础 AI（AI 字幕、基础 AI 成片）SVIP：红钻 + 蓝钻全部素材，解锁高阶 AI：AI 数字人、智",
+      "short_summary": "剪映 SVIP 超级会员官方定价 758 元 / 年，连续包年 599 元 / 年，单月 79 元。今日官方仅需 180",
+      "detail": "剪映 SVIP 超级会员官方定价 758 元 / 年，连续包年 599 元 / 年，单月 79 元。今日官方仅需 180 元即可入手年卡，折合仅需 15 元 / 月好价：京东剪映 SVIP 会员年卡支持电脑端券后 180 元领 319 元券京东剪映 VIP 会员年卡 6.25 元 / 月券后 75 元领 113 元券京东 11.11 无门槛红包支持 26888 元，支持即领即用，下单直接当钱花：点此抽取。1 年后到期 499 元自动续费，下单后可按官方提示取消续费。具体区别可用终端VIP：仅手机 + 平板 App 可用，电脑剪映专业版不享受会员权益。SVIP：手机、平板、电脑端（Windows / Mac）三端通用，草稿跨设备同步。云空间VIP：100GB 个人云空间SVIP：1TB 个人云空间AI 积分（AI 功能消耗）VIP：每月 1200 积分（红钻素材 / AI）SVIP：每月 3200 积分（红钻 + 蓝钻全部 AI 功能）素材 & AI 功能VIP：解锁红钻会员素材、基础 AI（AI 字幕、基础 AI 成片）SVIP：红钻 + 蓝钻全部素材，解锁高阶 AI：AI 数字人、智",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-10-13",
+      "score": 0.71
+    },
+    {
+      "title": "惠普推出 EliteBoard G2a 键盘 PC，升级锐龙 AI PRO 400 处理器",
+      "url": "https://www.ithome.com/1/012/349.htm",
+      "summary": "IT之家 10 月 13 日消息，HP（惠普）现已在其官网列出第二代键盘 PC 产品 EliteBoard G2a。新品处理器升级到 AMD \"Gorgon Point\"，可选锐龙 AI 7 PRO 450 / 锐龙 AI 5 PRO 435。EliteBoard G2a 延续了上代的模具设计，依旧随附预配对无线鼠标，能连接至任意尺寸的 USB-C 显示屏，可选配 32Wh 电池、集成指纹识别器。其拥有 2 个 DDR5-5600 SO-DIMM 内存插槽，提供 M.2 (PCIe Gen4 ×4) SSD 盘位，支持无线网络，提供多个全功能 USB-C，集成 2 个 1W 立体声扬声器、2 个阵列麦克风。",
+      "short_summary": "IT之家 10 月 13 日消息，HP（惠普）现已在其官网列出第二代键盘 PC 产品 EliteBoard G2a。新品",
+      "detail": "IT之家 10 月 13 日消息，HP（惠普）现已在其官网列出第二代键盘 PC 产品 EliteBoard G2a。新品处理器升级到 AMD \"Gorgon Point\"，可选锐龙 AI 7 PRO 450 / 锐龙 AI 5 PRO 435。EliteBoard G2a 延续了上代的模具设计，依旧随附预配对无线鼠标，能连接至任意尺寸的 USB-C 显示屏，可选配 32Wh 电池、集成指纹识别器。其拥有 2 个 DDR5-5600 SO-DIMM 内存插槽，提供 M.2 (PCIe Gen4 ×4) SSD 盘位，支持无线网络，提供多个全功能 USB-C，集成 2 个 1W 立体声扬声器、2 个阵列麦克风。",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-10-13",
+      "score": 0.695
     },
     {
       "title": "Do AIs already process information in a way that gives rise to consciousness?",
@@ -193,15 +193,26 @@
   ],
   "category3": [
     {
-      "title": "华为首次公布麒麟 9050 Pro 芯片详细架构图：在中国半导体业界支持下成功量产，未来属于开放合作",
-      "url": "https://www.ithome.com/1/012/196.htm",
-      "summary": "IT之家 10 月 13 日现场消息，华为今日（10 月 13 日）在上海练秋湖举办 2026 麒麟媒体沟通会，华为半导体业务无线终端芯片产品管理部部长徐松余发表演讲。徐松余谈到了麒麟 9050 系列的一些性能规格，并首次公布麒麟 9050 Pro 芯片详细架构图（发布会上为简要版本）。IT之家注意到，该芯片搭载新一代灵犀 CPU、新一代马良 GPU、新一代达芬奇架构 NPU、新一代麒麟 AI ISP 等，还有灵犀微核、FFTS 函数流任务调度器、安全处理器等。徐松余表示，首款逻辑折叠韬芯片 —— 麒麟 9050 系列在中国半导体产业界的支持下成功量产，但韬路径未来的发展还有众多挑战，包括工具链和方法论、工艺差异补偿、跨层互联开销优化、能耗控制、基准测试方法等。徐松余呼吁半导体产业界和学术界的合作和支持，未来属于开放合作，没有一家企业可以独自解答所有答案。",
-      "short_summary": "IT之家 10 月 13 日现场消息，华为今日（10 月 13 日）在上海练秋湖举办 2026 麒麟媒体沟通会，华为半导",
-      "detail": "IT之家 10 月 13 日现场消息，华为今日（10 月 13 日）在上海练秋湖举办 2026 麒麟媒体沟通会，华为半导体业务无线终端芯片产品管理部部长徐松余发表演讲。徐松余谈到了麒麟 9050 系列的一些性能规格，并首次公布麒麟 9050 Pro 芯片详细架构图（发布会上为简要版本）。IT之家注意到，该芯片搭载新一代灵犀 CPU、新一代马良 GPU、新一代达芬奇架构 NPU、新一代麒麟 AI ISP 等，还有灵犀微核、FFTS 函数流任务调度器、安全处理器等。徐松余表示，首款逻辑折叠韬芯片 —— 麒麟 9050 系列在中国半导体产业界的支持下成功量产，但韬路径未来的发展还有众多挑战，包括工具链和方法论、工艺差异补偿、跨层互联开销优化、能耗控制、基准测试方法等。徐松余呼吁半导体产业界和学术界的合作和支持，未来属于开放合作，没有一家企业可以独自解答所有答案。",
+      "title": "IDC：英伟达在华数据中心 AI 芯片份额降至 34%，华为升至 28%",
+      "url": "https://www.ithome.com/1/012/385.htm",
+      "summary": "北京时间 10 月 13 日，根据路透社看到的一份 IDC 报告，2026 年上半年，英伟达在中国数据中心 AI 芯片市场的份额降至 34%，原因是美国出口管制限制了其产品的供应，同时中国本土竞争对手不断扩大份额。IDC 数据显示，今年 1 月至 6 月，英伟达在中国市场的 AI 加速器出货量为 67.8 万颗，同比下降 44%。AI 加速器被用于训练和运行 AI 模型。英伟达 CEO 黄仁勋曾多次批评美国政府的出口限制措施，称这一政策迫使英伟达将中国价值 500 亿美元的 AI 芯片市场拱手让给华为。IDC 没有具体说明英伟达 34% 的市场份额由哪些产品构成，也没有说明这一数字是否包括 B200 和 B300 等尖端芯片。在 IDC 追踪的 11 家中国芯片制造商中，有 9 家的出货量同比增长。其中，华为 AI 加速器上半年出货量达到 57.2 万颗，高于去年同期的 30 多万颗，占整体市场的 28%。此外，阿里巴巴旗下芯片设计部门平头哥的市场份额为 7%，寒武纪以 5% 紧随其后，百度旗下昆仑芯占 4%，海光信息占 3%。截至发稿，英伟达尚未回复置评请求。",
+      "short_summary": "北京时间 10 月 13 日，根据路透社看到的一份 IDC 报告，2026 年上半年，英伟达在中国数据中心 AI 芯片市",
+      "detail": "北京时间 10 月 13 日，根据路透社看到的一份 IDC 报告，2026 年上半年，英伟达在中国数据中心 AI 芯片市场的份额降至 34%，原因是美国出口管制限制了其产品的供应，同时中国本土竞争对手不断扩大份额。IDC 数据显示，今年 1 月至 6 月，英伟达在中国市场的 AI 加速器出货量为 67.8 万颗，同比下降 44%。AI 加速器被用于训练和运行 AI 模型。英伟达 CEO 黄仁勋曾多次批评美国政府的出口限制措施，称这一政策迫使英伟达将中国价值 500 亿美元的 AI 芯片市场拱手让给华为。IDC 没有具体说明英伟达 34% 的市场份额由哪些产品构成，也没有说明这一数字是否包括 B200 和 B300 等尖端芯片。在 IDC 追踪的 11 家中国芯片制造商中，有 9 家的出货量同比增长。其中，华为 AI 加速器上半年出货量达到 57.2 万颗，高于去年同期的 30 多万颗，占整体市场的 28%。此外，阿里巴巴旗下芯片设计部门平头哥的市场份额为 7%，寒武纪以 5% 紧随其后，百度旗下昆仑芯占 4%，海光信息占 3%。截至发稿，英伟达尚未回复置评请求。",
       "source": "ITHome",
       "source_authority": 0.75,
       "date": "2026-10-13",
-      "score": 0.9225
+      "score": 0.9475
+    },
+    {
+      "title": "壹号本 OneXPlayer 预告 Super X PRO 二合一平板：锐龙 AI Max+ 495、192GB 内存",
+      "url": "https://www.ithome.com/1/012/371.htm",
+      "summary": "IT之家 10 月 13 日消息，壹号本 OneXPlayer 现已预告即将推出的 Super X PRO 二合一平板。新品采用 AMD 锐龙 AI Max+ 495 处理器，最高可选 192GB 内存。据介绍，这款产品提供 128GB、192GB 统一内存版本，最高可运行参数量 3000 亿的 AI 大模型。其内存速度为 8533MT/s，最高带宽可达 273GB/s，最高可将 160GB 分配给 Radeon 8065S GPU，作为显存使用。同时，该产品内置全尺寸 M.2 2280 SSD，采用 PCIe 4.0 接口，同时支持佰维 Mini SSD 扩展方案。该机配备一块 2.8K AMOLED 屏幕，分辨率为 2880 × 1800，支持 120Hz 高刷、HDR 和可变刷新率（IT之家注：VRR）。此外，该机采用 CNC 加工，支持外接水冷设备，可将机器性能释放提升至 120W。内置 85.58Wh 电池，自带 240W 氮化镓充电器。",
+      "short_summary": "IT之家 10 月 13 日消息，壹号本 OneXPlayer 现已预告即将推出的 Super X PRO 二合一平板。",
+      "detail": "IT之家 10 月 13 日消息，壹号本 OneXPlayer 现已预告即将推出的 Super X PRO 二合一平板。新品采用 AMD 锐龙 AI Max+ 495 处理器，最高可选 192GB 内存。据介绍，这款产品提供 128GB、192GB 统一内存版本，最高可运行参数量 3000 亿的 AI 大模型。其内存速度为 8533MT/s，最高带宽可达 273GB/s，最高可将 160GB 分配给 Radeon 8065S GPU，作为显存使用。同时，该产品内置全尺寸 M.2 2280 SSD，采用 PCIe 4.0 接口，同时支持佰维 Mini SSD 扩展方案。该机配备一块 2.8K AMOLED 屏幕，分辨率为 2880 × 1800，支持 120Hz 高刷、HDR 和可变刷新率（IT之家注：VRR）。此外，该机采用 CNC 加工，支持外接水冷设备，可将机器性能释放提升至 120W。内置 85.58Wh 电池，自带 240W 氮化镓充电器。",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-10-13",
+      "score": 0.8975
     },
     {
       "title": "Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs",
@@ -215,15 +226,15 @@
       "score": 0.8825
     },
     {
-      "title": "Astera Labs 发布“计算无关”机架架构 Orion：开放式、模块化设计",
-      "url": "https://www.ithome.com/1/012/250.htm",
-      "summary": "IT之家 10 月 13 日消息，半导体互连企业 Astera Labs 当地时间本月 12 日发布了其“计算无关”机架参考设计 Orion。这一平台基于开放标准构建，采用模块化结构，用户可根据自身需要和实际供应情况搭配算力组合。Orion 包括六大生产级参考架构：机架、计算托盘、交换托盘、内存托盘、连接板、计算板，支持多样化的 CPU 和 AI 推理加速器。其核心是 Astera Labs 的 320 通道 PCIe Switch，可在机架和 pod 之间提供可预测的低延迟通信和可扩展的内存容量。Orion 每个 pod 最多支持 160 块加速器，能提供出色的词元吞吐表现。Orion 机架参考设计和系统设计正按计划推进，将于 2027Q1 开始通过 Astera Labs 的 OEM 和 ODM 合作伙伴提供。相关阅读：《超高 PCIe 通道数量： Astera Labs 发布 Scorpio X-Series 320 Lane 交换芯片》",
-      "short_summary": "IT之家 10 月 13 日消息，半导体互连企业 Astera Labs 当地时间本月 12 日发布了其“计算无关”机架",
-      "detail": "IT之家 10 月 13 日消息，半导体互连企业 Astera Labs 当地时间本月 12 日发布了其“计算无关”机架参考设计 Orion。这一平台基于开放标准构建，采用模块化结构，用户可根据自身需要和实际供应情况搭配算力组合。Orion 包括六大生产级参考架构：机架、计算托盘、交换托盘、内存托盘、连接板、计算板，支持多样化的 CPU 和 AI 推理加速器。其核心是 Astera Labs 的 320 通道 PCIe Switch，可在机架和 pod 之间提供可预测的低延迟通信和可扩展的内存容量。Orion 每个 pod 最多支持 160 块加速器，能提供出色的词元吞吐表现。Orion 机架参考设计和系统设计正按计划推进，将于 2027Q1 开始通过 Astera Labs 的 OEM 和 ODM 合作伙伴提供。相关阅读：《超高 PCIe 通道数量： Astera Labs 发布 Scorpio X-Series 320 Lane 交换芯片》",
+      "title": "深圳华强：今年下半年存储芯片价格涨幅预计会收敛，但市场仍供给紧张、需求旺盛",
+      "url": "https://www.ithome.com/1/012/391.htm",
+      "summary": "IT之家 10 月 13 日消息，深圳华强今天在互动平台表示，当前存储市场整体处于 AI 算力建设驱动的高景气周期。在 AI 算力基建释放海量增量需求并强力“虹吸”先进产能的双重作用下，存储芯片供给持续紧张，价格持续上涨。上半年价格涨幅巨大，下半年价格涨幅预计会收敛，但存储芯片供给紧张、需求旺盛的格局目前没有发生变化。IT之家综合 Omdia 发布的报告，如今存储器 (DRAM + NAND) 在 PC 物料成本中的占比已从正常时期的约 15% 上升至近 40%。预计 PC 市场在 2026Q4 将同比萎缩 24%，2027 年还将进一步下降 7%。▲ 图源：Omdia",
+      "short_summary": "IT之家 10 月 13 日消息，深圳华强今天在互动平台表示，当前存储市场整体处于 AI 算力建设驱动的高景气周期。在 ",
+      "detail": "IT之家 10 月 13 日消息，深圳华强今天在互动平台表示，当前存储市场整体处于 AI 算力建设驱动的高景气周期。在 AI 算力基建释放海量增量需求并强力“虹吸”先进产能的双重作用下，存储芯片供给持续紧张，价格持续上涨。上半年价格涨幅巨大，下半年价格涨幅预计会收敛，但存储芯片供给紧张、需求旺盛的格局目前没有发生变化。IT之家综合 Omdia 发布的报告，如今存储器 (DRAM + NAND) 在 PC 物料成本中的占比已从正常时期的约 15% 上升至近 40%。预计 PC 市场在 2026Q4 将同比萎缩 24%，2027 年还将进一步下降 7%。▲ 图源：Omdia",
       "source": "ITHome",
       "source_authority": 0.75,
       "date": "2026-10-13",
-      "score": 0.8675
+      "score": 0.765
     },
     {
       "title": "On-Chip Monitors Detect Bit-Flip Attacks in AI Accelerators (UF, UT Dallas, RPI)",
@@ -235,17 +246,6 @@
       "source_authority": 0.85,
       "date": "2026-10-13",
       "score": 0.765
-    },
-    {
-      "title": "彭博行业研究分析 AI 数据中心成本：1GW 容量恐超 300 亿美元",
-      "url": "https://www.ithome.com/1/012/275.htm",
-      "summary": "IT之家 10 月 13 日消息，Bloomberg Intelligence（彭博行业研究）近日发布了一份 AI 数据中心成本简报：综合 Cushman & Wakefield 提供的数据和其内部分析，在美国得克萨斯州阿比林市建设一座 1GW 数据中心的开销可达 307 亿美元（IT之家注：现汇率约合 2,058.69 亿元人民币）。图源：Pexels这 307 亿美元可划分为十大部分，其中核心的芯片和服务器硬件设备占据过半的 171 亿美元，电力供应基础设施消耗 30 亿美元、冷却系统占到 16.6 亿美元、网络布线方面则是 10.7 亿美元。此外，土地购买价格达到 1.8 亿美元、整体设计工程 3.61 亿美元、施工 24 亿美元、应急与准备金 27.9 亿美元、调试 1.75 亿美元，另有 3.82 亿美元的各类杂项费用。",
-      "short_summary": "IT之家 10 月 13 日消息，Bloomberg Intelligence（彭博行业研究）近日发布了一份 AI 数据",
-      "detail": "IT之家 10 月 13 日消息，Bloomberg Intelligence（彭博行业研究）近日发布了一份 AI 数据中心成本简报：综合 Cushman & Wakefield 提供的数据和其内部分析，在美国得克萨斯州阿比林市建设一座 1GW 数据中心的开销可达 307 亿美元（IT之家注：现汇率约合 2,058.69 亿元人民币）。图源：Pexels这 307 亿美元可划分为十大部分，其中核心的芯片和服务器硬件设备占据过半的 171 亿美元，电力供应基础设施消耗 30 亿美元、冷却系统占到 16.6 亿美元、网络布线方面则是 10.7 亿美元。此外，土地购买价格达到 1.8 亿美元、整体设计工程 3.61 亿美元、施工 24 亿美元、应急与准备金 27.9 亿美元、调试 1.75 亿美元，另有 3.82 亿美元的各类杂项费用。",
-      "source": "ITHome",
-      "source_authority": 0.75,
-      "date": "2026-10-13",
-      "score": 0.7575
     },
     {
       "title": "First Utility-Scale Enhanced Geothermal Plant Goes Live",
@@ -270,39 +270,28 @@
       "score": 0.705
     },
     {
-      "title": "Startup Funding: Q3 2026",
-      "url": "https://semiengineering.com/startup-funding-q3-2026/",
-      "summary": "80 startups raised $8.5B in Q3, with big hauls by companies tackling data movement and memory.\nThe post Startup Funding: Q3 2026 appeared first on Semiconductor Engineering.",
-      "short_summary": "80 startups raised $8.5B in Q3, with big hauls by companies ",
-      "detail": "80 startups raised $8.5B in Q3, with big hauls by companies tackling data movement and memory.\nThe post Startup Funding: Q3 2026 appeared first on Semiconductor Engineering.",
+      "title": "Deterministic Nucleation Enables Controlled Growth of 2D Semiconductors (KAIST, TDS, Hanyang et al.)",
+      "url": "https://semiengineering.com/deterministic-nucleation-enables-controlled-growth-of-2d-semiconductors-kaist-tds-hanyang-et-al/",
+      "summary": "Researchers at KAIST, TDS Innovation, Hanyang University, UNIST, et al. published a technical paper titled “Spatially deterministic nucleation of 2D semiconductors by etching flux.” Abstract Excerpt: “Nucleation control is fundamental to semiconductor deposition, governing when, where and how crystalline materials form. Conventional strategies can regulate nucleation density and, through area-selective growth, confine deposition to designated... » read more\nThe post Deterministic Nucleation Enab",
+      "short_summary": "Researchers at KAIST, TDS Innovation, Hanyang University, UN",
+      "detail": "Researchers at KAIST, TDS Innovation, Hanyang University, UNIST, et al. published a technical paper titled “Spatially deterministic nucleation of 2D semiconductors by etching flux.” Abstract Excerpt: “Nucleation control is fundamental to semiconductor deposition, governing when, where and how crystalline materials form. Conventional strategies can regulate nucleation density and, through area-selective growth, confine deposition to designated... » read more\nThe post Deterministic Nucleation Enab",
       "source": "SemiEngineering",
       "source_authority": 0.85,
-      "date": "2026-10-12",
-      "score": 0.6575
+      "date": "2026-10-13",
+      "score": 0.63
     }
   ],
   "category4": [
     {
-      "title": "华为哈勃投资参投，视塔机器人完成天使轮融资",
-      "url": "https://www.ithome.com/1/012/265.htm",
-      "summary": "IT之家 10 月 13 日消息，据投中网今日报道，深圳视塔机器人科技有限公司完成天使轮融资，投资方包括华为旗下哈勃投资、深高新投旗下基金及高轩投资等，多维资本担任独家财务顾问。本轮融资将用于产品研发迭代与商业化，拓展具身智能、消费电子和工业等多场景应用。视塔以柔性光子晶体材料为技术起点，聚焦触觉感知与机器人操作。核心研发团队来自南方科技大学智能液晶光学实验室，创始人兼 CEO 张伟博士阶段由南方科技大学与香港城市大学联合培养。该公司已围绕光子晶体触觉技术延伸出触觉传感器、数据采集系统与触觉控制模型等产品和技术方向。IT之家从深圳国际先进技术应用推进中心介绍获悉，视塔机器人自研柔性光子晶体新型功能软材料，通过纳米级周期结构建立“力学 — 光学”映射，实现超过 10000 点 / cm² 的高传感密度、多维力表征与优秀线性度，并打造当前唯一可实现小于 1mm 超薄、柔性共形的高密度触觉传感方案 —— 光子晶体视触觉电子皮肤，为机器人全身覆盖提供可能，可应用于工业灵巧操作、家政收纳、智能家居、针灸机器人等场景。",
-      "short_summary": "IT之家 10 月 13 日消息，据投中网今日报道，深圳视塔机器人科技有限公司完成天使轮融资，投资方包括华为旗下哈勃投资",
-      "detail": "IT之家 10 月 13 日消息，据投中网今日报道，深圳视塔机器人科技有限公司完成天使轮融资，投资方包括华为旗下哈勃投资、深高新投旗下基金及高轩投资等，多维资本担任独家财务顾问。本轮融资将用于产品研发迭代与商业化，拓展具身智能、消费电子和工业等多场景应用。视塔以柔性光子晶体材料为技术起点，聚焦触觉感知与机器人操作。核心研发团队来自南方科技大学智能液晶光学实验室，创始人兼 CEO 张伟博士阶段由南方科技大学与香港城市大学联合培养。该公司已围绕光子晶体触觉技术延伸出触觉传感器、数据采集系统与触觉控制模型等产品和技术方向。IT之家从深圳国际先进技术应用推进中心介绍获悉，视塔机器人自研柔性光子晶体新型功能软材料，通过纳米级周期结构建立“力学 — 光学”映射，实现超过 10000 点 / cm² 的高传感密度、多维力表征与优秀线性度，并打造当前唯一可实现小于 1mm 超薄、柔性共形的高密度触觉传感方案 —— 光子晶体视触觉电子皮肤，为机器人全身覆盖提供可能，可应用于工业灵巧操作、家政收纳、智能家居、针灸机器人等场景。",
+      "title": "Counterpoint 预测：全球 Robotaxi 保险市场 2035 年达 258 亿美元",
+      "url": "https://www.ithome.com/1/012/387.htm",
+      "summary": "IT之家 10 月 13 日消息，Counterpoint Research 昨日发布预测：全球 Robotaxi 保险市场有望从今年的 5,000 万美元增长至 2035 年的 260 亿美元（IT之家注：现汇率约合 1,743.51 亿元人民币），而 2035 年的单位里程保费有望较 2025 年下降约 30%。▲ 图源：Counterpoint ResearchCounterpoint 认为，Robotaxi 车险与一般车险在风险识别上存在很大不同，保费评估将更依赖于运作方式、技术性能、车辆数据。Robotaxi 在运行时会持续生成数据流，这可能为保险公司提供承保风险和理赔评估的新方式，推动保险向车辆和系统层面的评估方向发展。与此同时，车辆责任划分更加分散，这有可能为风险分配、保险与再保险创造新的空间。参考Robotaxi Insurance Market to Hit $26 Billion by 2035",
+      "short_summary": "IT之家 10 月 13 日消息，Counterpoint Research 昨日发布预测：全球 Robotaxi 保险",
+      "detail": "IT之家 10 月 13 日消息，Counterpoint Research 昨日发布预测：全球 Robotaxi 保险市场有望从今年的 5,000 万美元增长至 2035 年的 260 亿美元（IT之家注：现汇率约合 1,743.51 亿元人民币），而 2035 年的单位里程保费有望较 2025 年下降约 30%。▲ 图源：Counterpoint ResearchCounterpoint 认为，Robotaxi 车险与一般车险在风险识别上存在很大不同，保费评估将更依赖于运作方式、技术性能、车辆数据。Robotaxi 在运行时会持续生成数据流，这可能为保险公司提供承保风险和理赔评估的新方式，推动保险向车辆和系统层面的评估方向发展。与此同时，车辆责任划分更加分散，这有可能为风险分配、保险与再保险创造新的空间。参考Robotaxi Insurance Market to Hit $26 Billion by 2035",
       "source": "ITHome",
       "source_authority": 0.75,
       "date": "2026-10-13",
-      "score": 0.8975
-    },
-    {
-      "title": "阿里千问升级个人 AI 助理，Personal Agent“千问 Go！”即将发布",
-      "url": "https://www.ithome.com/1/012/244.htm",
-      "summary": "IT之家 10 月 13 日消息，阿里千问 Personal Agent“千问 Go！”即将发布，支持申请航班延误理赔、汽车保养、运动预约和购物比价等任务。千问定位为用户办事的个人 AI 助理。自去年上线以来，基于阿里生态和开放平台，已实现购物、打车、快递、理财等能力。升级后的千问拓展了个人助理的办事范围和能力，需要时，千问可自主查询操作各类授权平台，比较方案、电话联系服务方，完成目标任务。据财新报道，Meta 发布个人智能体 Muse 后，引起国内科技巨头迅速跟进。IT之家注意到，与传统的问答型聊天机器人不同，Muse 的核心定位是“替用户采取实际行动”（Action-oriented Agent），主打跨平台接管琐碎任务，被马克 · 扎克伯格视为迈向“个人超级智能”的关键产品。",
-      "short_summary": "IT之家 10 月 13 日消息，阿里千问 Personal Agent“千问 Go！”即将发布，支持申请航班延误理赔、",
-      "detail": "IT之家 10 月 13 日消息，阿里千问 Personal Agent“千问 Go！”即将发布，支持申请航班延误理赔、汽车保养、运动预约和购物比价等任务。千问定位为用户办事的个人 AI 助理。自去年上线以来，基于阿里生态和开放平台，已实现购物、打车、快递、理财等能力。升级后的千问拓展了个人助理的办事范围和能力，需要时，千问可自主查询操作各类授权平台，比较方案、电话联系服务方，完成目标任务。据财新报道，Meta 发布个人智能体 Muse 后，引起国内科技巨头迅速跟进。IT之家注意到，与传统的问答型聊天机器人不同，Muse 的核心定位是“替用户采取实际行动”（Action-oriented Agent），主打跨平台接管琐碎任务，被马克 · 扎克伯格视为迈向“个人超级智能”的关键产品。",
-      "source": "ITHome",
-      "source_authority": 0.75,
-      "date": "2026-10-13",
-      "score": 0.8225
+      "score": 0.8725
     },
     {
       "title": "Learning to Play Like a Pro: Adaptive Motion Planning and Tracking for Humanoid Robots",
@@ -316,6 +305,17 @@
       "score": 0.755
     },
     {
+      "title": "零跑 Lafa 5 汽车海外市场上市 4 个月累计订单突破 1.2 万台，刷新品牌出海订单增速纪录",
+      "url": "https://www.ithome.com/1/012/380.htm",
+      "summary": "IT之家 10 月 13 日消息，据零跑汽车官方微博，零跑 Lafa 5 汽车在海外市场上市仅 4 个月，累计订单突破 1.2 万台，刷新零跑海外车型上市后订单增速纪录。而在国内市场，零跑汽车称公司连续三个月销超 10 万台，国庆销量创新高，10 月 7 日单日突破 7600 台。IT之家注意到，零跑 Lafa 5 于去年 11 月正式上市。新车提供 515km、605km 两种续航，共推出 5 款车型，指导价 9.78 万元起，限时 9.28 万元起。零跑 Lafa5 定位为纯电两厢紧凑型车，基于 LEAP 3.5 架构 B 平台打造，高配车型搭载有激光雷达。该车长宽高分别为 4430/1880/1520mm，轴距 2735mm，电机峰值功率 160kW，峰值扭矩 240N・m，零百加速时间 6.4 秒，转弯半径仅为 5.17 米。根据介绍，新车配备 56.2kWh、67.1kWh 两种磷酸铁锂电池，CLTC 工况续航分别为 515km 与 605km。",
+      "short_summary": "IT之家 10 月 13 日消息，据零跑汽车官方微博，零跑 Lafa 5 汽车在海外市场上市仅 4 个月，累计订单突破 ",
+      "detail": "IT之家 10 月 13 日消息，据零跑汽车官方微博，零跑 Lafa 5 汽车在海外市场上市仅 4 个月，累计订单突破 1.2 万台，刷新零跑海外车型上市后订单增速纪录。而在国内市场，零跑汽车称公司连续三个月销超 10 万台，国庆销量创新高，10 月 7 日单日突破 7600 台。IT之家注意到，零跑 Lafa 5 于去年 11 月正式上市。新车提供 515km、605km 两种续航，共推出 5 款车型，指导价 9.78 万元起，限时 9.28 万元起。零跑 Lafa5 定位为纯电两厢紧凑型车，基于 LEAP 3.5 架构 B 平台打造，高配车型搭载有激光雷达。该车长宽高分别为 4430/1880/1520mm，轴距 2735mm，电机峰值功率 160kW，峰值扭矩 240N・m，零百加速时间 6.4 秒，转弯半径仅为 5.17 米。根据介绍，新车配备 56.2kWh、67.1kWh 两种磷酸铁锂电池，CLTC 工况续航分别为 515km 与 605km。",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-10-13",
+      "score": 0.7325
+    },
+    {
       "title": "Closing the reality gap: Why real-time execution has become the new competitive advantage",
       "url": "https://www.therobotreport.com/closing-reality-gap-why-real-time-execution-has-become-new-competitive-advantage/",
       "summary": "Daifuku's Cecile Dick-Calmes said success is no longer measured solely by automation density or equipment utilization.\nThe post Closing the reality gap: Why real-time execution has become the new competitive advantage appeared first on The Robot Report.",
@@ -327,15 +327,15 @@
       "score": 0.73
     },
     {
-      "title": "鸿蒙智行：智界 V9 连续四个月获 40 万以上 MPV 市场销量冠军",
-      "url": "https://www.ithome.com/1/012/276.htm",
-      "summary": "IT之家 10 月 13 日消息，鸿蒙智行官方今日宣布，智界 V9 连续四个月获 40 万以上 MPV 市场销量冠军。据IT之家此前报道，鸿蒙智行智界 V9 旗舰 MPV 在 8 月的零售交付量为 8312 台、7 月销量为 10101 台。智界汽车执行董事及执行副总裁赵长江表示，智界未来的增长，来自完整体系的持续生长。智界汽车不追求短期单品的爆发，而是做长期稳定经营的长跑品牌。作为参考，汽车销量数据追踪和分析团队 ECC 情报局的博主 @嗨大星_ECC 今日分享了鸿蒙智行 9 月细分车型销量情况（数据来源为上险量）。其中，智界 V9 的销量为 4,280 台。该车于今年 5 月 15 日上市，售价 38.98 万-51.98 万元，尺寸为 5359×2009×1879mm、轴距达 3250mm，拥有辉光紫、雪域白、深海蓝、鎏金黑四款外观配色，以及绒霞紫、韶华杏、赤茶橘三款内饰配色。新车全系标配 38 个传感器，是行业首款搭载 896 线激光雷达的 MPV。",
-      "short_summary": "IT之家 10 月 13 日消息，鸿蒙智行官方今日宣布，智界 V9 连续四个月获 40 万以上 MPV 市场销量冠军。据",
-      "detail": "IT之家 10 月 13 日消息，鸿蒙智行官方今日宣布，智界 V9 连续四个月获 40 万以上 MPV 市场销量冠军。据IT之家此前报道，鸿蒙智行智界 V9 旗舰 MPV 在 8 月的零售交付量为 8312 台、7 月销量为 10101 台。智界汽车执行董事及执行副总裁赵长江表示，智界未来的增长，来自完整体系的持续生长。智界汽车不追求短期单品的爆发，而是做长期稳定经营的长跑品牌。作为参考，汽车销量数据追踪和分析团队 ECC 情报局的博主 @嗨大星_ECC 今日分享了鸿蒙智行 9 月细分车型销量情况（数据来源为上险量）。其中，智界 V9 的销量为 4,280 台。该车于今年 5 月 15 日上市，售价 38.98 万-51.98 万元，尺寸为 5359×2009×1879mm、轴距达 3250mm，拥有辉光紫、雪域白、深海蓝、鎏金黑四款外观配色，以及绒霞紫、韶华杏、赤茶橘三款内饰配色。新车全系标配 38 个传感器，是行业首款搭载 896 线激光雷达的 MPV。",
+      "title": "特斯拉自动驾驶出租车因学区超速遭 NHTSA 调查，涉及约 1000 台车辆",
+      "url": "https://www.ithome.com/1/012/369.htm",
+      "summary": "IT之家 10 月 13 日消息，特斯拉在美国再度迎来一轮联邦监管审查，本次调查的缘由是指控其自动驾驶出租车在活跃学区路段超速。美国国家公路交通安全管理局（NHTSA）于当地时间 2026 年 10 月 9 日启动了一项缺陷请愿调查，涉及约 1000 台特斯拉车辆，包含 Model Y 与 Cybercab。本次调查源自 9 月 23 日提交的一份请愿书，该请愿书指控特斯拉自动驾驶系统（ADS）无法遵守学区的限速规定。请愿人提供了三段视频作为违规证据。NHTSA 表示，目前一共确认四起相关事件，其中一起是提交给该机构的正式投诉，另外三起是社交媒体上曝光的相关记录。值得重点说明的是，所有上报事件均未引发碰撞、人员受伤或死亡事故。这项调查目前尚处于初期阶段。NHTSA 还没有判定特斯拉软件存在安全缺陷，该机构正在审核证据，之后再决定是否启动正式调查。这并非特斯拉自动驾驶技术唯一面临的监管事项。NHTSA 还在单独审查 Cybercab 的自我认证所依托的技术资料。这款车型没有传统方向盘与踏板。就在这项最新调查开展之际，特斯拉持续将自动驾驶出租车业务拓展至得州奥斯汀以外区域，今年早些时候已经",
+      "short_summary": "IT之家 10 月 13 日消息，特斯拉在美国再度迎来一轮联邦监管审查，本次调查的缘由是指控其自动驾驶出租车在活跃学区路",
+      "detail": "IT之家 10 月 13 日消息，特斯拉在美国再度迎来一轮联邦监管审查，本次调查的缘由是指控其自动驾驶出租车在活跃学区路段超速。美国国家公路交通安全管理局（NHTSA）于当地时间 2026 年 10 月 9 日启动了一项缺陷请愿调查，涉及约 1000 台特斯拉车辆，包含 Model Y 与 Cybercab。本次调查源自 9 月 23 日提交的一份请愿书，该请愿书指控特斯拉自动驾驶系统（ADS）无法遵守学区的限速规定。请愿人提供了三段视频作为违规证据。NHTSA 表示，目前一共确认四起相关事件，其中一起是提交给该机构的正式投诉，另外三起是社交媒体上曝光的相关记录。值得重点说明的是，所有上报事件均未引发碰撞、人员受伤或死亡事故。这项调查目前尚处于初期阶段。NHTSA 还没有判定特斯拉软件存在安全缺陷，该机构正在审核证据，之后再决定是否启动正式调查。这并非特斯拉自动驾驶技术唯一面临的监管事项。NHTSA 还在单独审查 Cybercab 的自我认证所依托的技术资料。这款车型没有传统方向盘与踏板。就在这项最新调查开展之际，特斯拉持续将自动驾驶出租车业务拓展至得州奥斯汀以外区域，今年早些时候已经",
       "source": "ITHome",
       "source_authority": 0.75,
       "date": "2026-10-13",
-      "score": 0.695
+      "score": 0.71
     }
   ]
 }
