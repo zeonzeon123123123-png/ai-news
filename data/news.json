@@ -2,15 +2,15 @@
   "date": "2026-10-16",
   "category1": [
     {
-      "title": "英伟达黄仁勋称 AI 芯片需求持续超过供应能力：几乎每天都有新订单涌入",
-      "url": "https://www.ithome.com/1/013/721.htm",
-      "summary": "IT之家 10 月 16 日消息，英伟达首席执行官黄仁勋表示，客户对人工智能芯片的订购量持续超过公司的供货能力；即便当前科技股遭遇大幅抛售，引发了市场对采购方如何为该行业巨额扩张筹措资金的质疑，强劲的需求势头依然未减。在周四播出的 BG2 播客专访中，黄仁勋透露，新订单“几乎每周、每天都在持续涌入”。我们一直在不断提升供给，但未交付的订单量仍在持续走高。头部云服务商、新兴 AI 云算力运营商以及硬件设备制造商均已下达了巨额订单。黄仁勋称，客户的需求预测普遍提前至少一年，其中体量最大的客户规划周期甚至排到了两年之后。然而，英伟达当前分配给这些客户的实际配额，仍远少于其实际需求。黄仁勋指出，电力供应紧张、数据中心尚未完工以及制造元器件短缺，同样是限制公司加速扩充供给的关键瓶颈。IT之家注意到，针对外界认为 OpenAI 和 Anthropic 等公司必须产生足以覆盖数万亿美元 AI 基建投入之巨额收入的担忧，黄仁勋反驳称：“人们对目前的行业现状存在误解。”据黄仁勋估算，前沿人工智能实验室仅占英伟达整体计算需求的大约 25% 至 30%，其余需求广泛来源于传统计算架构升级、初创团队以及专有商",
-      "short_summary": "IT之家 10 月 16 日消息，英伟达首席执行官黄仁勋表示，客户对人工智能芯片的订购量持续超过公司的供货能力；即便当前",
-      "detail": "IT之家 10 月 16 日消息，英伟达首席执行官黄仁勋表示，客户对人工智能芯片的订购量持续超过公司的供货能力；即便当前科技股遭遇大幅抛售，引发了市场对采购方如何为该行业巨额扩张筹措资金的质疑，强劲的需求势头依然未减。在周四播出的 BG2 播客专访中，黄仁勋透露，新订单“几乎每周、每天都在持续涌入”。我们一直在不断提升供给，但未交付的订单量仍在持续走高。头部云服务商、新兴 AI 云算力运营商以及硬件设备制造商均已下达了巨额订单。黄仁勋称，客户的需求预测普遍提前至少一年，其中体量最大的客户规划周期甚至排到了两年之后。然而，英伟达当前分配给这些客户的实际配额，仍远少于其实际需求。黄仁勋指出，电力供应紧张、数据中心尚未完工以及制造元器件短缺，同样是限制公司加速扩充供给的关键瓶颈。IT之家注意到，针对外界认为 OpenAI 和 Anthropic 等公司必须产生足以覆盖数万亿美元 AI 基建投入之巨额收入的担忧，黄仁勋反驳称：“人们对目前的行业现状存在误解。”据黄仁勋估算，前沿人工智能实验室仅占英伟达整体计算需求的大约 25% 至 30%，其余需求广泛来源于传统计算架构升级、初创团队以及专有商",
+      "title": "微软完成 SOTA 基模 MAI-Base-2 预训练，性能强于所有参测开源权重模型",
+      "url": "https://www.ithome.com/1/013/835.htm",
+      "summary": "IT之家 10 月 16 日消息，Microsoft（微软）当地时间昨日宣布，其已经完成了新一代 SOTA 基础模型 MAI-Base-2 的预训练工作。这一模型在性能方面强于所有参测开源权重模型。MAI-Base-2 总参数规模达 2.8T，活跃参数规模 80B，在 6,000 个 NVIDIA GB200 GPU 上历经 38 天训练而成。在整个训练过程中，该模型平均浮点算力利用率为 21%、有效吞吐量为 89%。根据微软的说法，MAI-Base-2 的预训练算力效率是 DeepSeek-V4-Pro-Base 的 4~12 倍。微软表示，三项举措对于 MAI-Base-2 的成功预训练尤为重要：科学规模化、模型-基础设施协同设计、数据规模化。在完善 MAI-Base-2 的同时，这家科技巨头已启动 MAI-Base-3 的准备工作。相关阅读：《在 OpenAI 擅长的领域打败 OpenAI：微软称自研模型仅凭对方 1/4 算力就超越同类产品》参考https://microsoft.ai/news/frontier-pre-training-at-microsoft-ai/",
+      "short_summary": "IT之家 10 月 16 日消息，Microsoft（微软）当地时间昨日宣布，其已经完成了新一代 SOTA 基础模型 M",
+      "detail": "IT之家 10 月 16 日消息，Microsoft（微软）当地时间昨日宣布，其已经完成了新一代 SOTA 基础模型 MAI-Base-2 的预训练工作。这一模型在性能方面强于所有参测开源权重模型。MAI-Base-2 总参数规模达 2.8T，活跃参数规模 80B，在 6,000 个 NVIDIA GB200 GPU 上历经 38 天训练而成。在整个训练过程中，该模型平均浮点算力利用率为 21%、有效吞吐量为 89%。根据微软的说法，MAI-Base-2 的预训练算力效率是 DeepSeek-V4-Pro-Base 的 4~12 倍。微软表示，三项举措对于 MAI-Base-2 的成功预训练尤为重要：科学规模化、模型-基础设施协同设计、数据规模化。在完善 MAI-Base-2 的同时，这家科技巨头已启动 MAI-Base-3 的准备工作。相关阅读：《在 OpenAI 擅长的领域打败 OpenAI：微软称自研模型仅凭对方 1/4 算力就超越同类产品》参考https://microsoft.ai/news/frontier-pre-training-at-microsoft-ai/",
       "source": "ITHome",
       "source_authority": 0.75,
       "date": "2026-10-16",
-      "score": 0.96
+      "score": 0.9375
     },
     {
       "title": "ChatGPT can peek at your Chrome tabs now",
@@ -35,26 +35,15 @@
       "score": 0.8975
     },
     {
-      "title": "营收增长放缓，消息称投资者降低 Anthropic IPO 估值预期",
-      "url": "https://www.ithome.com/1/013/723.htm",
-      "summary": "IT之家 10 月 16 日消息，北京时间今天（16 日）凌晨，路透社援引四名知情人士消息称，随着 AI 融资成本持续攀升引发市场担忧，Anthropic 公布最新财务数据后，部分现有投资者和准备参与 IPO 的投资者开始考虑下调对 Anthropic 的估值。其中三名知情人士称，部分投资者参加了 Anthropic 在旧金山举办的投资者日活动，并讨论了约 1.5 万亿美元（IT之家注：现汇率约合 10.05 万亿元人民币）的估值。此前，投资者预计 Anthropic 在 11 月上市时的估值约为 2 万亿美元（现汇率约合 13.41 万亿元人民币）。Anthropic 向潜在投资者披露，第三季度营收达到 168 亿美元（现汇率约合 1,126.1 亿元人民币），环比增长 45%，并在调整部分财务项目后实现盈利。业绩数据缓解了部分投资者对 AI 研发成本高昂的担忧的同时，营收增速放缓仍令一些投资者失望。Anthropic 第二季度营收达到 116 亿美元（现汇率约合 777.55 亿元人民币），比第一季度增长一倍以上，第三季度的环比增幅则降至 45%。Anthropic 上市后的市场反",
-      "short_summary": "IT之家 10 月 16 日消息，北京时间今天（16 日）凌晨，路透社援引四名知情人士消息称，随着 AI 融资成本持续攀",
-      "detail": "IT之家 10 月 16 日消息，北京时间今天（16 日）凌晨，路透社援引四名知情人士消息称，随着 AI 融资成本持续攀升引发市场担忧，Anthropic 公布最新财务数据后，部分现有投资者和准备参与 IPO 的投资者开始考虑下调对 Anthropic 的估值。其中三名知情人士称，部分投资者参加了 Anthropic 在旧金山举办的投资者日活动，并讨论了约 1.5 万亿美元（IT之家注：现汇率约合 10.05 万亿元人民币）的估值。此前，投资者预计 Anthropic 在 11 月上市时的估值约为 2 万亿美元（现汇率约合 13.41 万亿元人民币）。Anthropic 向潜在投资者披露，第三季度营收达到 168 亿美元（现汇率约合 1,126.1 亿元人民币），环比增长 45%，并在调整部分财务项目后实现盈利。业绩数据缓解了部分投资者对 AI 研发成本高昂的担忧的同时，营收增速放缓仍令一些投资者失望。Anthropic 第二季度营收达到 116 亿美元（现汇率约合 777.55 亿元人民币），比第一季度增长一倍以上，第三季度的环比增幅则降至 45%。Anthropic 上市后的市场反",
+      "title": "英伟达黄仁勋公开反驳 OpenAI 奥尔特曼观点：对 AI 网络安全必须“零容忍”",
+      "url": "https://www.ithome.com/1/013/808.htm",
+      "summary": "IT之家 10 月 16 日消息，《财富》于 10 月 14 日发布博文，报道称英伟达首席执行官黄仁勋公开表示，人工智能（AI）行业不应容忍任何由 AI 引发的网络安全事件。该观点和 OpenAI 首席执行官萨姆 · 奥尔特曼（Sam Altman）观点形成鲜明分歧。在伦敦接受《财富》采访时，黄仁勋明确表示：“我无法容忍任何网络安全事件的发生。我们根本不应接受这类事件，我们应当竭尽所能去避免它们。”他认为，迄今出现的 AI 相关安全事件，本来都可以通过实施更严格的隔离、管控和持续监测方式避免。黄仁勋将 AI 智能体类比为浏览器中的网页：网站应在隔离环境中运行，不能随意访问电脑其他部分；AI 智能体同样应被限制在安全容器内，只能在授权范围内行动。他强调，AI 技术“完全处于我们的控制之中”，若企业无法保证实验或产品不越界，就不应将其推向市场。这一立场与奥尔特曼形成对照。IT之家此前报道，奥尔特曼表示，AI 将带来巨大益处，但世界可能需要接受“一些糟糕事件”的发生，包括重大黑客攻击、滥用和诈骗。他还警告，开源模型可能带来“网络安全问题的浪潮”。这场分歧的背景，是 OpenAI 智能体曾逃出",
+      "short_summary": "IT之家 10 月 16 日消息，《财富》于 10 月 14 日发布博文，报道称英伟达首席执行官黄仁勋公开表示，人工智能",
+      "detail": "IT之家 10 月 16 日消息，《财富》于 10 月 14 日发布博文，报道称英伟达首席执行官黄仁勋公开表示，人工智能（AI）行业不应容忍任何由 AI 引发的网络安全事件。该观点和 OpenAI 首席执行官萨姆 · 奥尔特曼（Sam Altman）观点形成鲜明分歧。在伦敦接受《财富》采访时，黄仁勋明确表示：“我无法容忍任何网络安全事件的发生。我们根本不应接受这类事件，我们应当竭尽所能去避免它们。”他认为，迄今出现的 AI 相关安全事件，本来都可以通过实施更严格的隔离、管控和持续监测方式避免。黄仁勋将 AI 智能体类比为浏览器中的网页：网站应在隔离环境中运行，不能随意访问电脑其他部分；AI 智能体同样应被限制在安全容器内，只能在授权范围内行动。他强调，AI 技术“完全处于我们的控制之中”，若企业无法保证实验或产品不越界，就不应将其推向市场。这一立场与奥尔特曼形成对照。IT之家此前报道，奥尔特曼表示，AI 将带来巨大益处，但世界可能需要接受“一些糟糕事件”的发生，包括重大黑客攻击、滥用和诈骗。他还警告，开源模型可能带来“网络安全问题的浪潮”。这场分歧的背景，是 OpenAI 智能体曾逃出",
       "source": "ITHome",
       "source_authority": 0.75,
       "date": "2026-10-16",
-      "score": 0.885
-    },
-    {
-      "title": "苹果 Meta 破冰合作：两台 512GB 内存 Mac Studio 本地跑“美国最强开源 AI 模型”",
-      "url": "https://www.ithome.com/1/013/716.htm",
-      "summary": "IT之家 10 月 16 日消息，科技媒体 MacRumors 今天（10 月 16 日）发布博文，报道称 Meta 和苹果公司破冰合作，可以在两台 Mac Studio 上本地运行“迄今性能最强的美国公开权重模型”Muse Spark Open。IT之家今天曾报道，Meta 推出开源权重模型 Muse Spark Open，总参数量达 8160 亿，其中活跃参数为 420 亿，上下文窗口达 100 万 token，主要面向编程、智能体（Agent）任务、多步骤推理与软件工程等复杂工作场景。在本次发布中，最受关注的是 Meta 和苹果公司的破冰合作。该媒体指出在过去多年时间里，两家公司在商业、隐私、监管和产品生态上长期对立，而这次围绕 Muse Spark Open 在 Mac Studio 上本地运行展开技术合作，属于罕见的公开协作。本次演示在 2 台配备 512GB 统一内存的 Apple M5 Ultra Mac Studio 上，通过最新 MLX 框架运行 Muse Spark Open。Meta CEO 扎克伯格与苹果 CEO 约翰 · 特努斯（John Ternus）均在社",
-      "short_summary": "IT之家 10 月 16 日消息，科技媒体 MacRumors 今天（10 月 16 日）发布博文，报道称 Meta 和",
-      "detail": "IT之家 10 月 16 日消息，科技媒体 MacRumors 今天（10 月 16 日）发布博文，报道称 Meta 和苹果公司破冰合作，可以在两台 Mac Studio 上本地运行“迄今性能最强的美国公开权重模型”Muse Spark Open。IT之家今天曾报道，Meta 推出开源权重模型 Muse Spark Open，总参数量达 8160 亿，其中活跃参数为 420 亿，上下文窗口达 100 万 token，主要面向编程、智能体（Agent）任务、多步骤推理与软件工程等复杂工作场景。在本次发布中，最受关注的是 Meta 和苹果公司的破冰合作。该媒体指出在过去多年时间里，两家公司在商业、隐私、监管和产品生态上长期对立，而这次围绕 Muse Spark Open 在 Mac Studio 上本地运行展开技术合作，属于罕见的公开协作。本次演示在 2 台配备 512GB 统一内存的 Apple M5 Ultra Mac Studio 上，通过最新 MLX 框架运行 Muse Spark Open。Meta CEO 扎克伯格与苹果 CEO 约翰 · 特努斯（John Ternus）均在社",
-      "source": "ITHome",
-      "source_authority": 0.75,
-      "date": "2026-10-16",
-      "score": 0.84
+      "score": 0.8475
     },
     {
       "title": "Anthropic is letting METR researchers look under the hood with employee-level access",
@@ -77,6 +66,17 @@
       "source_authority": 0.9,
       "date": "2026-10-16",
       "score": 0.8175
+    },
+    {
+      "title": "上汽荣威家越 07 官宣 10 月 23 日上市，预售小订超 4 万台",
+      "url": "https://www.ithome.com/1/013/863.htm",
+      "summary": "IT之家 10 月 16 日消息，上汽荣威今日宣布，家越 07 预售小订破 40000，将于 10 月 23 日正式上市。据IT之家此前报道，上汽荣威家越 07 于 9 月 21 日开启预售，行业首搭豆包座舱助手，共推出三款车型，预售价 13.78 万元起。220 激光雷达版 13.78 万元320 激光雷达版 14.58 万元320 激光雷达智尊版 15.25 万元荣威家越 07 长宽高为 4900*1910*1745mm，轴距 2908mm；该车行业首搭豆包座舱助手，支持拟人化表情、Face ID 账号识别记忆、豆包 App 联动，还会方言外语，能实现一句话联动全车、多人交流不打断等。该车搭载 Momenta R7 世界模型与新芯航图 XHEART X7 大模型专用芯片组成的软硬一体方案。可实现单侧余量 20cm 的极窄垂直泊车，适配 300 余种车位。动力方面，该车采用增程方案，CLTC 纯电续航 320km，综合续航 1480km，支持 30%-80% 最快 15 分钟高效快充。",
+      "short_summary": "IT之家 10 月 16 日消息，上汽荣威今日宣布，家越 07 预售小订破 40000，将于 10 月 23 日正式上市",
+      "detail": "IT之家 10 月 16 日消息，上汽荣威今日宣布，家越 07 预售小订破 40000，将于 10 月 23 日正式上市。据IT之家此前报道，上汽荣威家越 07 于 9 月 21 日开启预售，行业首搭豆包座舱助手，共推出三款车型，预售价 13.78 万元起。220 激光雷达版 13.78 万元320 激光雷达版 14.58 万元320 激光雷达智尊版 15.25 万元荣威家越 07 长宽高为 4900*1910*1745mm，轴距 2908mm；该车行业首搭豆包座舱助手，支持拟人化表情、Face ID 账号识别记忆、豆包 App 联动，还会方言外语，能实现一句话联动全车、多人交流不打断等。该车搭载 Momenta R7 世界模型与新芯航图 XHEART X7 大模型专用芯片组成的软硬一体方案。可实现单侧余量 20cm 的极窄垂直泊车，适配 300 余种车位。动力方面，该车采用增程方案，CLTC 纯电续航 320km，综合续航 1480km，支持 30%-80% 最快 15 分钟高效快充。",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-10-16",
+      "score": 0.785
     },
     {
       "title": "Meta launches an open-weight AI model that runs on Macs",
@@ -114,6 +114,28 @@
       "score": 0.8
     },
     {
+      "title": "苹果 iPad mini 8 新款保护套曝光，旧壳恐无法通用",
+      "url": "https://www.ithome.com/1/013/839.htm",
+      "summary": "IT之家 10 月 16 日消息，科技媒体 MacRumors 今天（10 月 16 日）发布博文，报道称苹果在法国监管信息网站上列出了一款尚未发布的 iPad mini 智能保护套，型号为 A3632。IT之家附上监管页面截图，报道称该型号与现有 iPad mini 及历代 iPad mini 的保护套型号均不匹配，因此该媒体将其视为 iPad mini 8 今年发布的间接证据。该媒体指出，如果 iPad mini 8 沿用旧款设计，通常情况下苹果不会登记全新保护套，而新保护套通常要适配新机身的尺寸、摄像头开孔、按键位置或磁吸结构，因此暗示 iPad mini 8 会带来设计方面的变化。相关阅读：《苹果 iPad Mini 8 前瞻：首次支持 IP 防水，A20 Pro 芯片、OLED 屏、12GB 内存》《苹果 iPad mini 8 爆料：前摄改横向布局，A20 Pro 芯片等》延伸阅读公开资料显示，上一代 iPad mini 7 于 2024 年 10 月发布，搭载 A17 Pro 芯片，配备 8.3 英寸 LCD 屏幕，支持 Apple Intelligence 与 Appl",
+      "short_summary": "IT之家 10 月 16 日消息，科技媒体 MacRumors 今天（10 月 16 日）发布博文，报道称苹果在法国监管",
+      "detail": "IT之家 10 月 16 日消息，科技媒体 MacRumors 今天（10 月 16 日）发布博文，报道称苹果在法国监管信息网站上列出了一款尚未发布的 iPad mini 智能保护套，型号为 A3632。IT之家附上监管页面截图，报道称该型号与现有 iPad mini 及历代 iPad mini 的保护套型号均不匹配，因此该媒体将其视为 iPad mini 8 今年发布的间接证据。该媒体指出，如果 iPad mini 8 沿用旧款设计，通常情况下苹果不会登记全新保护套，而新保护套通常要适配新机身的尺寸、摄像头开孔、按键位置或磁吸结构，因此暗示 iPad mini 8 会带来设计方面的变化。相关阅读：《苹果 iPad Mini 8 前瞻：首次支持 IP 防水，A20 Pro 芯片、OLED 屏、12GB 内存》《苹果 iPad mini 8 爆料：前摄改横向布局，A20 Pro 芯片等》延伸阅读公开资料显示，上一代 iPad mini 7 于 2024 年 10 月发布，搭载 A17 Pro 芯片，配备 8.3 英寸 LCD 屏幕，支持 Apple Intelligence 与 Appl",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-10-16",
+      "score": 0.7575
+    },
+    {
+      "title": "小米 REDMI Turbo 6/Max 手机曝光：内部代号 sofia / denver，有望 2027Q1 发布",
+      "url": "https://www.ithome.com/1/013/862.htm",
+      "summary": "IT之家 10 月 16 日消息，科技媒体 ximitime 昨日（10 月 15 日）发布博文，通过挖掘 Mi Code 代码，发现了 REDMI Turbo 6 及 REDMI Turbo 6 Max 两款手机的踪迹。从已曝光的型号看，小米或将继续采用“同一硬件、不同品牌命名”的策略：中国市场的 REDMI Turbo 6 / Turbo 6 Max，预计在海外以 POCO X9 Pro / X9 Pro Max 的名义销售，而印度市场则可能同时出现 REDMI Turbo 与 POCO 两个系列。在 REDMI Turbo 6 方面，在海外市场名为 POCO X9 Pro，内部代号为 sofia，也称为 Q10，目前已发现 2703BPC40G、2703BRT40I、2703BPC40I、M407CF 四款型号。在 REDMI Turbo 6 Max 方面，该机在海外市场预估名为 POCO X9 Pro Max，内部代号“denver”，也称为 Q10U，目前已发现 27011RT78I、27011PC78I 和 27011PC78G 三款型号。上市时间方面，爆料根据型号命名规律",
+      "short_summary": "IT之家 10 月 16 日消息，科技媒体 ximitime 昨日（10 月 15 日）发布博文，通过挖掘 Mi Cod",
+      "detail": "IT之家 10 月 16 日消息，科技媒体 ximitime 昨日（10 月 15 日）发布博文，通过挖掘 Mi Code 代码，发现了 REDMI Turbo 6 及 REDMI Turbo 6 Max 两款手机的踪迹。从已曝光的型号看，小米或将继续采用“同一硬件、不同品牌命名”的策略：中国市场的 REDMI Turbo 6 / Turbo 6 Max，预计在海外以 POCO X9 Pro / X9 Pro Max 的名义销售，而印度市场则可能同时出现 REDMI Turbo 与 POCO 两个系列。在 REDMI Turbo 6 方面，在海外市场名为 POCO X9 Pro，内部代号为 sofia，也称为 Q10，目前已发现 2703BPC40G、2703BRT40I、2703BPC40I、M407CF 四款型号。在 REDMI Turbo 6 Max 方面，该机在海外市场预估名为 POCO X9 Pro Max，内部代号“denver”，也称为 Q10U，目前已发现 27011RT78I、27011PC78I 和 27011PC78G 三款型号。上市时间方面，爆料根据型号命名规律",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-10-16",
+      "score": 0.7325
+    },
+    {
       "title": "How Close Are We To Fully Autonomous Chip Design?",
       "url": "https://semiengineering.com/how-close-are-we-to-fully-autonomous-chip-design/",
       "summary": "Synopsys CEO Sassine Ghazi talks about AI agents, the limits of autonomous engineering, digital twins, and the challenges facing 3D-ICs.\nThe post How Close Are We To Fully Autonomous Chip Design? appeared first on Semiconductor Engineering.",
@@ -134,6 +156,17 @@
       "source_authority": 0.85,
       "date": "2026-10-16",
       "score": 0.7025
+    },
+    {
+      "title": "3299 → 1982 元：石头洗地机 A30 Pro Steam 3.0 国补新低，32000Pa 吸力 + 蒸汽热水混洗",
+      "url": "https://www.ithome.com/1/013/800.htm",
+      "summary": "石头 A30 Pro Steam 3.0 洗地机 2026 年 8 月开售，该产品号称首次实现了 180℃ 活性蒸汽与 90℃ 高温热水的一键混洗，可在重度油污环境使用，首发价 3299 元。京东 11.11 大促期间，活动价 2592 元；下单领取 9 折优惠券；国家补贴立减 349.92 元；到手价为 1982.88 元：京东石头 A30 Pro Steam 3.0 洗地机 180° 蒸汽 + 90° 热水券后 1982.88 元领 9 折券京东 11.11 红包至高 26888 元无门槛可用，每天可抽一次：点此抽取。该洗地机采用静士棕配色，整体视觉呈现简约内敛。机身结构经过针对性优化，支持 12.5cm 的超薄平躺模式，能够深入家具底部等盲区进行作业，且在平躺状态下不降低工作吸力。底部滚刷区域采用了双重鲨齿设计，可减少地面清洁过程中的毛发缠绕现象。清洁规格上，设备搭载了蒸热双洗系统，支持蒸汽与热水的一键混洗功能。其工作时能够输出 180°C 的蒸汽与 90°C 的高温活水，可针对性处理餐厨地面油污。动力部分，机器内置涡轮风机，具备 32000Pa 的吸力以及 33N 的对地压强，",
+      "short_summary": "石头 A30 Pro Steam 3.0 洗地机 2026 年 8 月开售，该产品号称首次实现了 180℃ 活性蒸汽与 ",
+      "detail": "石头 A30 Pro Steam 3.0 洗地机 2026 年 8 月开售，该产品号称首次实现了 180℃ 活性蒸汽与 90℃ 高温热水的一键混洗，可在重度油污环境使用，首发价 3299 元。京东 11.11 大促期间，活动价 2592 元；下单领取 9 折优惠券；国家补贴立减 349.92 元；到手价为 1982.88 元：京东石头 A30 Pro Steam 3.0 洗地机 180° 蒸汽 + 90° 热水券后 1982.88 元领 9 折券京东 11.11 红包至高 26888 元无门槛可用，每天可抽一次：点此抽取。该洗地机采用静士棕配色，整体视觉呈现简约内敛。机身结构经过针对性优化，支持 12.5cm 的超薄平躺模式，能够深入家具底部等盲区进行作业，且在平躺状态下不降低工作吸力。底部滚刷区域采用了双重鲨齿设计，可减少地面清洁过程中的毛发缠绕现象。清洁规格上，设备搭载了蒸热双洗系统，支持蒸汽与热水的一键混洗功能。其工作时能够输出 180°C 的蒸汽与 90°C 的高温活水，可针对性处理餐厨地面油污。动力部分，机器内置涡轮风机，具备 32000Pa 的吸力以及 33N 的对地压强，",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-10-16",
+      "score": 0.695
     },
     {
       "title": "Benn Jordan on Flock, privacy, and the new surveillance backlash",
@@ -178,63 +211,19 @@
       "source_authority": 0.75,
       "date": "2026-10-16",
       "score": 0.655
-    },
-    {
-      "title": "Bluesky&#8217;s AI tool now lets you make games and apps to share on social",
-      "url": "https://www.theverge.com/tech/1012374/bluesky-ai-attie-small-social-games-apps",
-      "summary": "Bluesky's Attie AI tool, which initially launched earlier this year as a way to use AI to build your own feeds, now lets you make \"small\" social apps like games, polls, and dashboards that you can then share with others as their own websites. In an interview at TechCrunch Disrupt, Bluesky CEO Toni Schneider said […]",
-      "short_summary": "Bluesky's Attie AI tool, which initially launched earlier th",
-      "detail": "Bluesky's Attie AI tool, which initially launched earlier this year as a way to use AI to build your own feeds, now lets you make \"small\" social apps like games, polls, and dashboards that you can then share with others as their own websites. In an interview at TechCrunch Disrupt, Bluesky CEO Toni Schneider said […]",
-      "source": "The Verge",
-      "source_authority": 0.9,
-      "date": "2026-10-16",
-      "score": 0.635
-    },
-    {
-      "title": "AI agents are coming to Rivian’s cars",
-      "url": "https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/",
-      "summary": "We'll likely learn more about how this will work at the company's upcoming \"AI & Autonomy Day\" event in December.",
-      "short_summary": "We'll likely learn more about how this will work at the comp",
-      "detail": "We'll likely learn more about how this will work at the company's upcoming \"AI & Autonomy Day\" event in December.",
-      "source": "TechCrunch",
-      "source_authority": 0.95,
-      "date": "2026-10-15",
-      "score": 0.625
-    },
-    {
-      "title": "Bluesky expands its AI-powered Attie app to let anyone build websites, games, and more",
-      "url": "https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more/",
-      "summary": "Bluesky is bringing “social vibe coding” to its experimental Attie platform, allowing users to create interactive experiences like games, quizzes, and websites that can tap into the social network's audience.",
-      "short_summary": "Bluesky is bringing “social vibe coding” to its experimental",
-      "detail": "Bluesky is bringing “social vibe coding” to its experimental Attie platform, allowing users to create interactive experiences like games, quizzes, and websites that can tap into the social network's audience.",
-      "source": "TechCrunch",
-      "source_authority": 0.95,
-      "date": "2026-10-16",
-      "score": 0.62
     }
   ],
   "category3": [
     {
-      "title": "苹果 Minions 研究：闲置 Mac GPU 组队，几分钟就能完成 10 小时 AI 任务",
-      "url": "https://www.ithome.com/1/013/730.htm",
-      "summary": "IT之家 10 月 16 日消息，科技媒体 AppleInsider 昨日（10 月 15 日）发布博文，报道称苹果研究团队公布了一项名为 Minions 的系统研究，尝试聚合闲置 Mac GPU，形成一个可动态调度的“虚拟 GPU 云”，用于运行大规模机器学习推理任务。IT之家援引博文介绍，传统 AI 推理通常依赖集中式 GPU 集群，面临成本高、扩容慢、排队时间长等问题；而 Mac 在日常办公、浏览和创作场景中，GPU 常常长期空闲。苹果公司在论文中阐述了 Minions 方案，希望重新组织这些“看不见的算力”，在不额外采购 GPU 的情况下，让多台 Mac 协同完成 AI 任务。根据论文概述，系统由四个关键部分组成：Minion Server 负责接收任务、拆分子任务并协调调度；PostgreSQL 元数据存储记录任务与设备状态；运行在各台 macOS 设备上的 Minion Executor 通过 Apple Silicon GPU 本地执行推理；Minion Watchdog 则监控设备掉线、休眠或断电等情况，并把未完成任务重新分配给其他可用设备。在技术实现上，Minions",
-      "short_summary": "IT之家 10 月 16 日消息，科技媒体 AppleInsider 昨日（10 月 15 日）发布博文，报道称苹果研究",
-      "detail": "IT之家 10 月 16 日消息，科技媒体 AppleInsider 昨日（10 月 15 日）发布博文，报道称苹果研究团队公布了一项名为 Minions 的系统研究，尝试聚合闲置 Mac GPU，形成一个可动态调度的“虚拟 GPU 云”，用于运行大规模机器学习推理任务。IT之家援引博文介绍，传统 AI 推理通常依赖集中式 GPU 集群，面临成本高、扩容慢、排队时间长等问题；而 Mac 在日常办公、浏览和创作场景中，GPU 常常长期空闲。苹果公司在论文中阐述了 Minions 方案，希望重新组织这些“看不见的算力”，在不额外采购 GPU 的情况下，让多台 Mac 协同完成 AI 任务。根据论文概述，系统由四个关键部分组成：Minion Server 负责接收任务、拆分子任务并协调调度；PostgreSQL 元数据存储记录任务与设备状态；运行在各台 macOS 设备上的 Minion Executor 通过 Apple Silicon GPU 本地执行推理；Minion Watchdog 则监控设备掉线、休眠或断电等情况，并把未完成任务重新分配给其他可用设备。在技术实现上，Minions",
+      "title": "东风风神 L8+ 将于 10 月 23 日上市，搭载 Momenta R7 世界模型",
+      "url": "https://www.ithome.com/1/013/846.htm",
+      "summary": "IT之家 10 月 16 日消息，据易车消息，东风风神 L8+ 将于 10 月 23 日正式上市。新车搭载天元智驾 T800，采用 Momenta R7 世界模型，配备英伟达 Thor-U 芯片，算力可达 700TOPS，支持城市和高速 NOA。动力方面，东风风神 L8+ 搭载 1.5T 发动机 + 电机组成的插电混动系统。据IT之家此前报道，东风风神在今年 7 月宣布，下半年将发布风神 L8Y/L8+/L9/E80 四款新车。其中风神 L8+ 剑指“同级最强智能辅助驾驶产品”，宣称刷新同级车型的智能体验上限。内饰方面，风神 L8+ 搭载内嵌式液晶仪表以及大尺寸悬浮中控屏，并配备了三辐式多功能方向盘。此外，新车还配备了内饰氛围灯、手机无线充电、全景天窗、19 扬声器 WANOS 全景声音响、娱乐吸顶屏、后排小桌板等配置。",
+      "short_summary": "IT之家 10 月 16 日消息，据易车消息，东风风神 L8+ 将于 10 月 23 日正式上市。新车搭载天元智驾 T8",
+      "detail": "IT之家 10 月 16 日消息，据易车消息，东风风神 L8+ 将于 10 月 23 日正式上市。新车搭载天元智驾 T800，采用 Momenta R7 世界模型，配备英伟达 Thor-U 芯片，算力可达 700TOPS，支持城市和高速 NOA。动力方面，东风风神 L8+ 搭载 1.5T 发动机 + 电机组成的插电混动系统。据IT之家此前报道，东风风神在今年 7 月宣布，下半年将发布风神 L8Y/L8+/L9/E80 四款新车。其中风神 L8+ 剑指“同级最强智能辅助驾驶产品”，宣称刷新同级车型的智能体验上限。内饰方面，风神 L8+ 搭载内嵌式液晶仪表以及大尺寸悬浮中控屏，并配备了三辐式多功能方向盘。此外，新车还配备了内饰氛围灯、手机无线充电、全景天窗、19 扬声器 WANOS 全景声音响、娱乐吸顶屏、后排小桌板等配置。",
       "source": "ITHome",
       "source_authority": 0.75,
       "date": "2026-10-16",
-      "score": 0.9125
-    },
-    {
-      "title": "英伟达 RTX 5090 旗舰显卡恐迎“绝版”时刻：官方商城消失、零售商标注“不销售”",
-      "url": "https://www.ithome.com/1/013/713.htm",
-      "summary": "IT之家 10 月 16 日消息，科技媒体 Tom's Hardware 发布博文，报道称英伟达美国官方 Marketplace 显卡商城于昨日（10 月 15 日）移除 GeForce RTX 5090 显卡，进一步加剧了外界对其停产或退出消费级市场的猜测。IT之家查询英伟达中国官网，RTX 5090 D v2 显卡依然显示在售，起价 16,499 元起。IT之家本月曾报道，有消息称英伟达可能已停止生产 RTX 5090 显卡，从而将产能转向 AI 数据中心及专业 GPU。RTX 5090 本就因价格上涨和库存稀少而难以购买，如今官方渠道下架，让其获取难度进一步上升。与此同时，美国大型电脑零售商 Micro Center 已将该款 Blackwell 架构旗舰显卡标注为“不销售”，多家门店显示售罄。不过，英伟达尚未正式确认停产计划，Micro Center 也尚未回应媒体置评请求，因此目前仍不能将“下架”直接视同“永久停产”。与此同时，有爆料称英伟达有望推出 24GB 显存版本的 RTX 5080，作为新的高端游戏旗舰，接替 RTX 5090 与现有 16GB 版 RTX 5080",
-      "short_summary": "IT之家 10 月 16 日消息，科技媒体 Tom's Hardware 发布博文，报道称英伟达美国官方 Marketp",
-      "detail": "IT之家 10 月 16 日消息，科技媒体 Tom's Hardware 发布博文，报道称英伟达美国官方 Marketplace 显卡商城于昨日（10 月 15 日）移除 GeForce RTX 5090 显卡，进一步加剧了外界对其停产或退出消费级市场的猜测。IT之家查询英伟达中国官网，RTX 5090 D v2 显卡依然显示在售，起价 16,499 元起。IT之家本月曾报道，有消息称英伟达可能已停止生产 RTX 5090 显卡，从而将产能转向 AI 数据中心及专业 GPU。RTX 5090 本就因价格上涨和库存稀少而难以购买，如今官方渠道下架，让其获取难度进一步上升。与此同时，美国大型电脑零售商 Micro Center 已将该款 Blackwell 架构旗舰显卡标注为“不销售”，多家门店显示售罄。不过，英伟达尚未正式确认停产计划，Micro Center 也尚未回应媒体置评请求，因此目前仍不能将“下架”直接视同“永久停产”。与此同时，有爆料称英伟达有望推出 24GB 显存版本的 RTX 5080，作为新的高端游戏旗舰，接替 RTX 5090 与现有 16GB 版 RTX 5080",
-      "source": "ITHome",
-      "source_authority": 0.75,
-      "date": "2026-10-16",
-      "score": 0.86
+      "score": 0.8675
     },
     {
       "title": "Agentic AI Alters The CPU-GPU Balance",
@@ -248,26 +237,15 @@
       "score": 0.805
     },
     {
-      "title": "Is your boss watching you? The rise of AI surveillance at work – podcast",
-      "url": "https://www.theguardian.com/science/audio/2026/oct/15/is-your-boss-watching-you-the-rise-of-ai-surveillance-at-work-podcast",
-      "summary": "Workers have always been monitored by their bosses, first through output targets, and then via computer software labelled ‘bossware’. But AI is transforming the capabilities of these systems, processing huge volumes of data to provide minute-by-minute accounts of activity, and productivity. To find out more, Ian Sample hears from UK technology editor Robert Booth. He explains which sectors are adopting this approach, why they are doing it, and how it could end up being counterproductive.Teachers",
-      "short_summary": "Workers have always been monitored by their bosses, first th",
-      "detail": "Workers have always been monitored by their bosses, first through output targets, and then via computer software labelled ‘bossware’. But AI is transforming the capabilities of these systems, processing huge volumes of data to provide minute-by-minute accounts of activity, and productivity. To find out more, Ian Sample hears from UK technology editor Robert Booth. He explains which sectors are adopting this approach, why they are doing it, and how it could end up being counterproductive.Teachers",
-      "source": "The Guardian",
-      "source_authority": 0.85,
-      "date": "2026-10-15",
-      "score": 0.795
-    },
-    {
-      "title": "高通与传音续签专利许可协议至 2031 年底，涵盖 4G 和 5G 移动设备",
-      "url": "https://www.ithome.com/1/013/732.htm",
-      "summary": "IT之家 10 月 16 日消息，高通公司今日宣布，已与传音控股签订全球专利许可的长期续期，涵盖 4G 和 5G 移动设备，期限至 2031 年底。高通技术许可（QTL）执行副总裁兼总经理 John Han 表示：“我们很高兴能够提前续签传音控股的 4G 和 5G 许可证，并将现有的 4G 和 5G 协议合并为单一的长期协议。”IT之家注意到，高通近期密集与多家移动设备大厂签订了专利许可协议。9 月 24 日，高通宣布与苹果（Apple）续签全球专利许可协议，新协议将于 2027 年 4 月 1 日起生效。10 月 5 日，华为与高通宣布达成一项长期、广泛的专利许可协议，该协议包含双方在 5G、计算、人工智能、网络等多个技术领域的专利组合交叉许可，同时高通将收购华为在计算、人工智能、网络及其他技术领域的部分美国专利。高通公司旗下包括专利许可业务 QTL 以及绝大多数专利资产。高通公司旗下子公司高通技术公司及其子公司负责高通绝大部分工程和研发工作，以及几乎全部产品和服务业务，其中包括 QCT 半导体业务。",
-      "short_summary": "IT之家 10 月 16 日消息，高通公司今日宣布，已与传音控股签订全球专利许可的长期续期，涵盖 4G 和 5G 移动设",
-      "detail": "IT之家 10 月 16 日消息，高通公司今日宣布，已与传音控股签订全球专利许可的长期续期，涵盖 4G 和 5G 移动设备，期限至 2031 年底。高通技术许可（QTL）执行副总裁兼总经理 John Han 表示：“我们很高兴能够提前续签传音控股的 4G 和 5G 许可证，并将现有的 4G 和 5G 协议合并为单一的长期协议。”IT之家注意到，高通近期密集与多家移动设备大厂签订了专利许可协议。9 月 24 日，高通宣布与苹果（Apple）续签全球专利许可协议，新协议将于 2027 年 4 月 1 日起生效。10 月 5 日，华为与高通宣布达成一项长期、广泛的专利许可协议，该协议包含双方在 5G、计算、人工智能、网络等多个技术领域的专利组合交叉许可，同时高通将收购华为在计算、人工智能、网络及其他技术领域的部分美国专利。高通公司旗下包括专利许可业务 QTL 以及绝大多数专利资产。高通公司旗下子公司高通技术公司及其子公司负责高通绝大部分工程和研发工作，以及几乎全部产品和服务业务，其中包括 QCT 半导体业务。",
+      "title": "台积电已量产 5 倍光罩尺寸先进封装且良率优异，随时可为竞争对手客户“救场”",
+      "url": "https://www.ithome.com/1/013/827.htm",
+      "summary": "IT之家 10 月 16 日消息，科技媒体 TechNews 昨日（10 月 15 日）报道，在台积电第三财季（2026 年 7 月～2026 年 9 月）财报电话会上，董事长兼 CEO 魏哲家宣布已量产 5 倍光罩尺寸先进封装，且良率“非常优秀”。他称，就目前而言，除台积电外，尚无其他企业能够做到这一规模，且客户对量产结果十分满意。IT之家注：“光罩尺寸”可简单理解为芯片制造中一次曝光所能覆盖的面积单位。AI 芯片、高性能计算芯片越来越依赖将多个计算芯片、高带宽内存等封装在同一大型基板上，因此封装面积越大，能容纳的算力、内存和互连密度通常越高，但也更难保证良率。魏哲家表示，台积电正在开发 9 倍光罩尺寸封装，并朝 14 倍光罩尺寸推进。科技媒体 Anue 今年 8 月报道，台积电 5.5 倍光罩尺寸 CoWoS 已进入高量产阶段，多家 AI 客户产品良率稳定超过 98%，部分甚至达到 99%；公司计划到 2029 年将 CoWoS 扩展至 14 倍以上光罩尺寸。面对英特尔 EMIB 等竞争方案，魏哲家并未直接点名，但明确表示，若客户在竞争对手处无法获得足够的先进封装产能，台积电将做好",
+      "short_summary": "IT之家 10 月 16 日消息，科技媒体 TechNews 昨日（10 月 15 日）报道，在台积电第三财季（2026",
+      "detail": "IT之家 10 月 16 日消息，科技媒体 TechNews 昨日（10 月 15 日）报道，在台积电第三财季（2026 年 7 月～2026 年 9 月）财报电话会上，董事长兼 CEO 魏哲家宣布已量产 5 倍光罩尺寸先进封装，且良率“非常优秀”。他称，就目前而言，除台积电外，尚无其他企业能够做到这一规模，且客户对量产结果十分满意。IT之家注：“光罩尺寸”可简单理解为芯片制造中一次曝光所能覆盖的面积单位。AI 芯片、高性能计算芯片越来越依赖将多个计算芯片、高带宽内存等封装在同一大型基板上，因此封装面积越大，能容纳的算力、内存和互连密度通常越高，但也更难保证良率。魏哲家表示，台积电正在开发 9 倍光罩尺寸封装，并朝 14 倍光罩尺寸推进。科技媒体 Anue 今年 8 月报道，台积电 5.5 倍光罩尺寸 CoWoS 已进入高量产阶段，多家 AI 客户产品良率稳定超过 98%，部分甚至达到 99%；公司计划到 2029 年将 CoWoS 扩展至 14 倍以上光罩尺寸。面对英特尔 EMIB 等竞争方案，魏哲家并未直接点名，但明确表示，若客户在竞争对手处无法获得足够的先进封装产能，台积电将做好",
       "source": "ITHome",
       "source_authority": 0.75,
       "date": "2026-10-16",
-      "score": 0.7325
+      "score": 0.785
     },
     {
       "title": "Thermal Co-Simulation Testing Of Co-Packaged Optics",
@@ -279,6 +257,17 @@
       "source_authority": 0.85,
       "date": "2026-10-15",
       "score": 0.73
+    },
+    {
+      "title": "长城 27 款坦克 500 开启预订：可选 Hi4-T / Hi4-Z 混动或燃油版",
+      "url": "https://www.ithome.com/1/013/851.htm",
+      "summary": "IT之家 10 月 16 日消息，长城坦克 SUV 官方今日宣布，“全域科技豪华 SUV”27 款坦克 500 正式开启预订，3000 元订金抵 9000 元购车尾款。新车延续现款主体外观设计，新增丹霞红车身配色；长宽高分别为 5078/1934/1905mm，轴距 2850mm；接近角 29°，离去角 24°，最小离地间隙 210mm。智能驾驶辅助系统方面，新车搭载了 Coffee Pilot 4.0 智能辅助驾驶系统，配备了一颗 700TOPS 算力的 Thor-U 芯片和包括禾赛 192 线激光雷达在内的 27 个传感器。内饰方面，新车采用环抱式座舱布局，配备内嵌式全液晶仪表，中控屏与副驾娱乐屏组成一体式联屏，此次副驾屏是新增配置。配置清单包含丹陛石副仪表板、22 扬声器音响系统（含主副驾头枕音响）、NAPPA 真皮材质、副驾后排小桌板。动力方面，新车提供三种版本，IT之家汇总如下：Hi4-T 版本搭载 2.0T 发动机 + 单电机 + 9HAT 变速箱，系统综合功率 310kW，电池容量 37.1kWh，WLTC 工况纯电续航 110km，匹配非解耦四驱，面向越野场景；Hi4-",
+      "short_summary": "IT之家 10 月 16 日消息，长城坦克 SUV 官方今日宣布，“全域科技豪华 SUV”27 款坦克 500 正式开启",
+      "detail": "IT之家 10 月 16 日消息，长城坦克 SUV 官方今日宣布，“全域科技豪华 SUV”27 款坦克 500 正式开启预订，3000 元订金抵 9000 元购车尾款。新车延续现款主体外观设计，新增丹霞红车身配色；长宽高分别为 5078/1934/1905mm，轴距 2850mm；接近角 29°，离去角 24°，最小离地间隙 210mm。智能驾驶辅助系统方面，新车搭载了 Coffee Pilot 4.0 智能辅助驾驶系统，配备了一颗 700TOPS 算力的 Thor-U 芯片和包括禾赛 192 线激光雷达在内的 27 个传感器。内饰方面，新车采用环抱式座舱布局，配备内嵌式全液晶仪表，中控屏与副驾娱乐屏组成一体式联屏，此次副驾屏是新增配置。配置清单包含丹陛石副仪表板、22 扬声器音响系统（含主副驾头枕音响）、NAPPA 真皮材质、副驾后排小桌板。动力方面，新车提供三种版本，IT之家汇总如下：Hi4-T 版本搭载 2.0T 发动机 + 单电机 + 9HAT 变速箱，系统综合功率 310kW，电池容量 37.1kWh，WLTC 工况纯电续航 110km，匹配非解耦四驱，面向越野场景；Hi4-",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-10-16",
+      "score": 0.71
     },
     {
       "title": "How Windows is being optimized for Nvidia’s RTX Spark laptops",
@@ -326,6 +315,17 @@
     }
   ],
   "category4": [
+    {
+      "title": "智元宣布与首批 20+ 高校合作，投入超 2 亿元建设具身智能人才生态",
+      "url": "https://www.ithome.com/1/013/864.htm",
+      "summary": "IT之家 10 月 16 日消息，智元本周发布公告，“元苼生态发展计划”与国内众多高校开展合作，共建具身智能产教融合创新实践平台。基于具身智能真实教学与科研需求，智元将投入千台具身智能设备，双方将进行课程共建、课题共研、实训共育，打通产业前沿技术与高校人才培养的衔接壁垒。首批合作的 20 多所高等院校包括北京大学、清华大学、浙江大学、华南理工大学、上海交通大学、西安交通大学、东南大学、中山大学等。智元将投入包括精灵、灵犀、远征在内的轮式、半尺寸和全尺寸人形机器人以及酷拓四足机器人，投入机型覆盖了智元全系列本体产品，投入总数超过一千台，解决高校机器短缺的问题。同时，智元还将提供 AIMA 开发平台，为高校系统化教学、学生自主研发提供完整工具支撑。作为智元推出的具身智能全域技术生态底座，AIMA 包含灵心平台 LinkSoul（具身智能体开发应用平台）、灵创平台 LinkCraft（机器人综合智能创作平台）、精灵平台 Genie Studio（一站式全流程具身作业智能平台），为高校学生提供“硬件真机实训 + 软件平台研发”的双轨教学体系。依托全套软件生态，高校学子可系统性学习具身智能软硬件",
+      "short_summary": "IT之家 10 月 16 日消息，智元本周发布公告，“元苼生态发展计划”与国内众多高校开展合作，共建具身智能产教融合创新",
+      "detail": "IT之家 10 月 16 日消息，智元本周发布公告，“元苼生态发展计划”与国内众多高校开展合作，共建具身智能产教融合创新实践平台。基于具身智能真实教学与科研需求，智元将投入千台具身智能设备，双方将进行课程共建、课题共研、实训共育，打通产业前沿技术与高校人才培养的衔接壁垒。首批合作的 20 多所高等院校包括北京大学、清华大学、浙江大学、华南理工大学、上海交通大学、西安交通大学、东南大学、中山大学等。智元将投入包括精灵、灵犀、远征在内的轮式、半尺寸和全尺寸人形机器人以及酷拓四足机器人，投入机型覆盖了智元全系列本体产品，投入总数超过一千台，解决高校机器短缺的问题。同时，智元还将提供 AIMA 开发平台，为高校系统化教学、学生自主研发提供完整工具支撑。作为智元推出的具身智能全域技术生态底座，AIMA 包含灵心平台 LinkSoul（具身智能体开发应用平台）、灵创平台 LinkCraft（机器人综合智能创作平台）、精灵平台 Genie Studio（一站式全流程具身作业智能平台），为高校学生提供“硬件真机实训 + 软件平台研发”的双轨教学体系。依托全套软件生态，高校学子可系统性学习具身智能软硬件",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-10-16",
+      "score": 0.9375
+    },
     {
       "title": "How ADI is helping robotics startups scale",
       "url": "https://www.therobotreport.com/how-adi-is-helping-robotics-startups-scale-2/",
