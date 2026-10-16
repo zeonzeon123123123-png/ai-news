@@ -1,0 +1,331 @@
+{
+  "date": "2026-10-16",
+  "category1": [
+    {
+      "title": "英伟达黄仁勋称 AI 芯片需求持续超过供应能力：几乎每天都有新订单涌入",
+      "url": "https://www.ithome.com/1/013/721.htm",
+      "summary": "IT之家 10 月 16 日消息，英伟达首席执行官黄仁勋表示，客户对人工智能芯片的订购量持续超过公司的供货能力；即便当前科技股遭遇大幅抛售，引发了市场对采购方如何为该行业巨额扩张筹措资金的质疑，强劲的需求势头依然未减。在周四播出的 BG2 播客专访中，黄仁勋透露，新订单“几乎每周、每天都在持续涌入”。我们一直在不断提升供给，但未交付的订单量仍在持续走高。头部云服务商、新兴 AI 云算力运营商以及硬件设备制造商均已下达了巨额订单。黄仁勋称，客户的需求预测普遍提前至少一年，其中体量最大的客户规划周期甚至排到了两年之后。然而，英伟达当前分配给这些客户的实际配额，仍远少于其实际需求。黄仁勋指出，电力供应紧张、数据中心尚未完工以及制造元器件短缺，同样是限制公司加速扩充供给的关键瓶颈。IT之家注意到，针对外界认为 OpenAI 和 Anthropic 等公司必须产生足以覆盖数万亿美元 AI 基建投入之巨额收入的担忧，黄仁勋反驳称：“人们对目前的行业现状存在误解。”据黄仁勋估算，前沿人工智能实验室仅占英伟达整体计算需求的大约 25% 至 30%，其余需求广泛来源于传统计算架构升级、初创团队以及专有商",
+      "detail": "IT之家 10 月 16 日消息，英伟达首席执行官黄仁勋表示，客户对人工智能芯片的订购量持续超过公司的供货能力；即便当前科技股遭遇大幅抛售，引发了市场对采购方如何为该行业巨额扩张筹措资金的质疑，强劲的需求势头依然未减。在周四播出的 BG2 播客专访中，黄仁勋透露，新订单“几乎每周、每天都在持续涌入”。我们一直在不断提升供给，但未交付的订单量仍在持续走高。头部云服务商、新兴 AI 云算力运营商以及硬件设备制造商均已下达了巨额订单。黄仁勋称，客户的需求预测普遍提前至少一年，其中体量最大的客户规划周期甚至排到了两年之后。然而，英伟达当前分配给这些客户的实际配额，仍远少于其实际需求。黄仁勋指出，电力供应紧张、数据中心尚未完工以及制造元器件短缺，同样是限制公司加速扩充供给的关键瓶颈。IT之家注意到，针对外界认为 OpenAI 和 Anthropic 等公司必须产生足以覆盖数万亿美元 AI 基建投入之巨额收入的担忧，黄仁勋反驳称：“人们对目前的行业现状存在误解。”据黄仁勋估算，前沿人工智能实验室仅占英伟达整体计算需求的大约 25% 至 30%，其余需求广泛来源于传统计算架构升级、初创团队以及专有商",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-10-16",
+      "score": 0.96
+    },
+    {
+      "title": "ChatGPT can peek at your Chrome tabs now",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
+      "summary": "OpenAI's ChatGPT Atlas browser is gone, but now ChatGPT's Google Chrome extension is getting some upgrades that allow it to use the browser tabs you already have open. With the extension installed, OpenAI says ChatGPT can now view your browser tabs when you tag Chrome in ChatGPT's web or desktop app, posting a demo video […]",
+      "detail": "OpenAI's ChatGPT Atlas browser is gone, but now ChatGPT's Google Chrome extension is getting some upgrades that allow it to use the browser tabs you already have open. With the extension installed, OpenAI says ChatGPT can now view your browser tabs when you tag Chrome in ChatGPT's web or desktop app, posting a demo video […]",
+      "source": "The Verge",
+      "source_authority": 0.9,
+      "date": "2026-10-16",
+      "score": 0.9125
+    },
+    {
+      "title": "科技爱好者周刊（第 415 期）：3D 版《看不见的城市》",
+      "url": "http://www.ruanyifeng.com/blog/2026/10/weekly-issue-415.html",
+      "summary": "这里记录每周值得分享的科技内容，周五发布。\n本杂志开源，欢迎投稿。另有《谁在招人》服务，发布程序员招聘信息。合作请邮件联系（yifeng.ruan@gmail.com）。\n封面图\n\n湖北咸宁梓山湖度假区的美术馆。（via）\n3D 版《看不见的城市》\n意大利小说家卡尔维诺有一本著名的幻想小说《看不见的城市》。\n\n小说讲述旅行家马可波罗，向年迈的元朝皇帝忽必烈介绍他旅行中经过的55座城市。\n这些城市没有图片或模型，只有文字描述，所以叫做\"看不见的城市\"。比如，有一个城市叫做艾琳，马可波罗这样描述：\n\n\"亮灯的时候，假如你站在高地边沿探身外望，看见的城市便是艾琳。透过澄澈的空气，它远远在你下面展开一片浅红。\n有些地方窗户排列较密，在暗淡的小巷里，灯火逐渐疏落，花园子里是浓稠的阴影，塔楼上有信号火光；如果晚上有雾，朦胧的光线会像吸满牛奶的海绵一样涨起来。\"\n\n有人想到，可以把这些描述输入 AI 模型，为这55个城市建立可视化的 3D 版本。他就用 GPT-6 Astra 和 Claude Opus 5.5 这两个模型进行尝试。\n结果证明，Claude Opus 5.5 的实现（交互版，代码）要",
+      "detail": "这里记录每周值得分享的科技内容，周五发布。\n本杂志开源，欢迎投稿。另有《谁在招人》服务，发布程序员招聘信息。合作请邮件联系（yifeng.ruan@gmail.com）。\n封面图\n\n湖北咸宁梓山湖度假区的美术馆。（via）\n3D 版《看不见的城市》\n意大利小说家卡尔维诺有一本著名的幻想小说《看不见的城市》。\n\n小说讲述旅行家马可波罗，向年迈的元朝皇帝忽必烈介绍他旅行中经过的55座城市。\n这些城市没有图片或模型，只有文字描述，所以叫做\"看不见的城市\"。比如，有一个城市叫做艾琳，马可波罗这样描述：\n\n\"亮灯的时候，假如你站在高地边沿探身外望，看见的城市便是艾琳。透过澄澈的空气，它远远在你下面展开一片浅红。\n有些地方窗户排列较密，在暗淡的小巷里，灯火逐渐疏落，花园子里是浓稠的阴影，塔楼上有信号火光；如果晚上有雾，朦胧的光线会像吸满牛奶的海绵一样涨起来。\"\n\n有人想到，可以把这些描述输入 AI 模型，为这55个城市建立可视化的 3D 版本。他就用 GPT-6 Astra 和 Claude Opus 5.5 这两个模型进行尝试。\n结果证明，Claude Opus 5.5 的实现（交互版，代码）要",
+      "source": "Ruan Yifeng",
+      "source_authority": 0.75,
+      "date": "2026-10-16",
+      "score": 0.8975
+    },
+    {
+      "title": "营收增长放缓，消息称投资者降低 Anthropic IPO 估值预期",
+      "url": "https://www.ithome.com/1/013/723.htm",
+      "summary": "IT之家 10 月 16 日消息，北京时间今天（16 日）凌晨，路透社援引四名知情人士消息称，随着 AI 融资成本持续攀升引发市场担忧，Anthropic 公布最新财务数据后，部分现有投资者和准备参与 IPO 的投资者开始考虑下调对 Anthropic 的估值。其中三名知情人士称，部分投资者参加了 Anthropic 在旧金山举办的投资者日活动，并讨论了约 1.5 万亿美元（IT之家注：现汇率约合 10.05 万亿元人民币）的估值。此前，投资者预计 Anthropic 在 11 月上市时的估值约为 2 万亿美元（现汇率约合 13.41 万亿元人民币）。Anthropic 向潜在投资者披露，第三季度营收达到 168 亿美元（现汇率约合 1,126.1 亿元人民币），环比增长 45%，并在调整部分财务项目后实现盈利。业绩数据缓解了部分投资者对 AI 研发成本高昂的担忧的同时，营收增速放缓仍令一些投资者失望。Anthropic 第二季度营收达到 116 亿美元（现汇率约合 777.55 亿元人民币），比第一季度增长一倍以上，第三季度的环比增幅则降至 45%。Anthropic 上市后的市场反",
+      "detail": "IT之家 10 月 16 日消息，北京时间今天（16 日）凌晨，路透社援引四名知情人士消息称，随着 AI 融资成本持续攀升引发市场担忧，Anthropic 公布最新财务数据后，部分现有投资者和准备参与 IPO 的投资者开始考虑下调对 Anthropic 的估值。其中三名知情人士称，部分投资者参加了 Anthropic 在旧金山举办的投资者日活动，并讨论了约 1.5 万亿美元（IT之家注：现汇率约合 10.05 万亿元人民币）的估值。此前，投资者预计 Anthropic 在 11 月上市时的估值约为 2 万亿美元（现汇率约合 13.41 万亿元人民币）。Anthropic 向潜在投资者披露，第三季度营收达到 168 亿美元（现汇率约合 1,126.1 亿元人民币），环比增长 45%，并在调整部分财务项目后实现盈利。业绩数据缓解了部分投资者对 AI 研发成本高昂的担忧的同时，营收增速放缓仍令一些投资者失望。Anthropic 第二季度营收达到 116 亿美元（现汇率约合 777.55 亿元人民币），比第一季度增长一倍以上，第三季度的环比增幅则降至 45%。Anthropic 上市后的市场反",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-10-16",
+      "score": 0.885
+    },
+    {
+      "title": "苹果 Meta 破冰合作：两台 512GB 内存 Mac Studio 本地跑“美国最强开源 AI 模型”",
+      "url": "https://www.ithome.com/1/013/716.htm",
+      "summary": "IT之家 10 月 16 日消息，科技媒体 MacRumors 今天（10 月 16 日）发布博文，报道称 Meta 和苹果公司破冰合作，可以在两台 Mac Studio 上本地运行“迄今性能最强的美国公开权重模型”Muse Spark Open。IT之家今天曾报道，Meta 推出开源权重模型 Muse Spark Open，总参数量达 8160 亿，其中活跃参数为 420 亿，上下文窗口达 100 万 token，主要面向编程、智能体（Agent）任务、多步骤推理与软件工程等复杂工作场景。在本次发布中，最受关注的是 Meta 和苹果公司的破冰合作。该媒体指出在过去多年时间里，两家公司在商业、隐私、监管和产品生态上长期对立，而这次围绕 Muse Spark Open 在 Mac Studio 上本地运行展开技术合作，属于罕见的公开协作。本次演示在 2 台配备 512GB 统一内存的 Apple M5 Ultra Mac Studio 上，通过最新 MLX 框架运行 Muse Spark Open。Meta CEO 扎克伯格与苹果 CEO 约翰 · 特努斯（John Ternus）均在社",
+      "detail": "IT之家 10 月 16 日消息，科技媒体 MacRumors 今天（10 月 16 日）发布博文，报道称 Meta 和苹果公司破冰合作，可以在两台 Mac Studio 上本地运行“迄今性能最强的美国公开权重模型”Muse Spark Open。IT之家今天曾报道，Meta 推出开源权重模型 Muse Spark Open，总参数量达 8160 亿，其中活跃参数为 420 亿，上下文窗口达 100 万 token，主要面向编程、智能体（Agent）任务、多步骤推理与软件工程等复杂工作场景。在本次发布中，最受关注的是 Meta 和苹果公司的破冰合作。该媒体指出在过去多年时间里，两家公司在商业、隐私、监管和产品生态上长期对立，而这次围绕 Muse Spark Open 在 Mac Studio 上本地运行展开技术合作，属于罕见的公开协作。本次演示在 2 台配备 512GB 统一内存的 Apple M5 Ultra Mac Studio 上，通过最新 MLX 框架运行 Muse Spark Open。Meta CEO 扎克伯格与苹果 CEO 约翰 · 特努斯（John Ternus）均在社",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-10-16",
+      "score": 0.84
+    },
+    {
+      "title": "Anthropic is letting METR researchers look under the hood with employee-level access",
+      "url": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/",
+      "summary": "METR will publish its own assessments of Anthropic’s risks, incidents, and practices, and the frontier AI model maker has given up the right to block them.",
+      "detail": "METR will publish its own assessments of Anthropic’s risks, incidents, and practices, and the frontier AI model maker has given up the right to block them.",
+      "source": "TechCrunch",
+      "source_authority": 0.95,
+      "date": "2026-10-16",
+      "score": 0.825
+    },
+    {
+      "title": "Meta and Apple team up to make Muse AI models run better on Macs",
+      "url": "https://www.theverge.com/news/1012293/meta-apple-muse-spark-open-ai-model-mlx",
+      "summary": "Meta announced the Muse Spark Open AI model today, claiming that it's the \"most capable US open-weight model to date.\" But the company also says that it's the \"the first model in its class\" that can \"run on your desktop using two Apple M5 Ultra Mac Studios with the latest MLX framework.\" Meta and Apple, […]",
+      "detail": "Meta announced the Muse Spark Open AI model today, claiming that it's the \"most capable US open-weight model to date.\" But the company also says that it's the \"the first model in its class\" that can \"run on your desktop using two Apple M5 Ultra Mac Studios with the latest MLX framework.\" Meta and Apple, […]",
+      "source": "The Verge",
+      "source_authority": 0.9,
+      "date": "2026-10-16",
+      "score": 0.8175
+    },
+    {
+      "title": "Meta launches an open-weight AI model that runs on Macs",
+      "url": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
+      "summary": "Meta and Apple have teamed up for the launch of the social media giant's newest model, Muse Spark Open, which will run locally on Apple silicon.",
+      "detail": "Meta and Apple have teamed up for the launch of the social media giant's newest model, Muse Spark Open, which will run locally on Apple silicon.",
+      "source": "TechCrunch",
+      "source_authority": 0.95,
+      "date": "2026-10-16",
+      "score": 0.7625
+    },
+    {
+      "title": "OpenAI Engineer, Who Is Charged With Planting Bug, Advised Saudis",
+      "url": "https://www.nytimes.com/2026/10/14/technology/openai-engineer-hidden-device-saudi-government.html",
+      "summary": "The employee, now fired, had said he advised government agencies in Saudi Arabia. He was also listed as a partner at a venture firm with a Saudi prince.",
+      "detail": "The employee, now fired, had said he advised government agencies in Saudi Arabia. He was also listed as a partner at a venture firm with a Saudi prince.",
+      "source": "NYT",
+      "source_authority": 0.9,
+      "date": "2026-10-15",
+      "score": 0.715
+    }
+  ],
+  "category2": [
+    {
+      "title": "Friends don&#8217;t let friends feed their data to AI agents",
+      "url": "https://www.theverge.com/tech/1011938/muse-ai-data-friends-consent",
+      "summary": "There's a growing trend in the consumer tech world: gadgets designed to spy on everything and everyone around you, regardless of whether or not anyone else actually consented to it. Now, with the advent of \"AI personal assistants\" like Meta's Muse, you're being cheerfully asked not just to give up your own data, but also […]",
+      "detail": "There's a growing trend in the consumer tech world: gadgets designed to spy on everything and everyone around you, regardless of whether or not anyone else actually consented to it. Now, with the advent of \"AI personal assistants\" like Meta's Muse, you're being cheerfully asked not just to give up your own data, but also […]",
+      "source": "The Verge",
+      "source_authority": 0.9,
+      "date": "2026-10-16",
+      "score": 0.8
+    },
+    {
+      "title": "How Close Are We To Fully Autonomous Chip Design?",
+      "url": "https://semiengineering.com/how-close-are-we-to-fully-autonomous-chip-design/",
+      "summary": "Synopsys CEO Sassine Ghazi talks about AI agents, the limits of autonomous engineering, digital twins, and the challenges facing 3D-ICs.\nThe post How Close Are We To Fully Autonomous Chip Design? appeared first on Semiconductor Engineering.",
+      "detail": "Synopsys CEO Sassine Ghazi talks about AI agents, the limits of autonomous engineering, digital twins, and the challenges facing 3D-ICs.\nThe post How Close Are We To Fully Autonomous Chip Design? appeared first on Semiconductor Engineering.",
+      "source": "SemiEngineering",
+      "source_authority": 0.85,
+      "date": "2026-10-15",
+      "score": 0.73
+    },
+    {
+      "title": "We Got Hot and Heavy With Meta’s Muse—and Baffled by Apple’s HomeView",
+      "url": "https://www.wired.com/story/uncanny-valley-podcast-we-got-hot-and-heavy-with-metas-muse-and-underwhelmed-by-apples-homeview/",
+      "summary": "This week on “Uncanny Valley,” we dive into an unexpected Muse feature, shadowy spending from the largest pro-AI super PAC, and men’s tendency to lie about how much they know about AI.",
+      "detail": "This week on “Uncanny Valley,” we dive into an unexpected Muse feature, shadowy spending from the largest pro-AI super PAC, and men’s tendency to lie about how much they know about AI.",
+      "source": "Wired",
+      "source_authority": 0.85,
+      "date": "2026-10-16",
+      "score": 0.7025
+    },
+    {
+      "title": "Benn Jordan on Flock, privacy, and the new surveillance backlash",
+      "url": "https://www.theverge.com/podcast/1011170/benn-jordan-flock-cameras-alpr-ai-surveillance-privacy",
+      "summary": "Today, I’m talking with Benn Jordan, musician, YouTuber, researcher, and investigative journalist. You might know Benn from those first two titles — he’s got a prolific discography of experimental music dating back decades. But in the last couple of years, he’s become a high-profile face in the creator and media spaces for his work investigating […]",
+      "detail": "Today, I’m talking with Benn Jordan, musician, YouTuber, researcher, and investigative journalist. You might know Benn from those first two titles — he’s got a prolific discography of experimental music dating back decades. But in the last couple of years, he’s become a high-profile face in the creator and media spaces for his work investigating […]",
+      "source": "The Verge",
+      "source_authority": 0.9,
+      "date": "2026-10-15",
+      "score": 0.665
+    },
+    {
+      "title": "Chasing China’s Monazite Monopoly",
+      "url": "https://spectrum.ieee.org/china-rare-earth-minerals",
+      "summary": "One of the singular features of Baotou, an industrial city of 2 million people in Inner Mongolia, is a 10-square-kilometer (4-square-mile) lake that is among the most polluted in the world. The artificial lake, referred to by the name of the dam associated with it, Weikuang Dam (or Baogang Tailings Dam), has for decades collected the effluent from minerals processing for China’s globally dominant iron, steel, and rare-earths industries.Built in the late 1950s, the lake contains a highly toxic st",
+      "detail": "One of the singular features of Baotou, an industrial city of 2 million people in Inner Mongolia, is a 10-square-kilometer (4-square-mile) lake that is among the most polluted in the world. The artificial lake, referred to by the name of the dam associated with it, Weikuang Dam (or Baogang Tailings Dam), has for decades collected the effluent from minerals processing for China’s globally dominant iron, steel, and rare-earths industries.Built in the late 1950s, the lake contains a highly toxic st",
+      "source": "IEEE Spectrum",
+      "source_authority": 0.9,
+      "date": "2026-10-15",
+      "score": 0.665
+    },
+    {
+      "title": "Online ads weaponised to deliver ‘zero-click’ spyware, researchers say",
+      "url": "https://www.theguardian.com/technology/2026/oct/15/israeli-firm-digital-ads-enabling-installation-of-zero-click-spyware-researchers-say",
+      "summary": "Discover-Tech’s Controlium software lets clients mass-profile internet users then covertly hack targets, say researchers at University of TorontoAn Israeli advertising agency has been serving millions of online adverts that allow “zero-click” spyware to be used against targets, researchers at a Canadian university have said.Citizen Lab, a digital investigations research unit at the University of Toronto, said it believed dozens of devices at the Qatari broadcaster Al Jazeera had been compromised",
+      "detail": "Discover-Tech’s Controlium software lets clients mass-profile internet users then covertly hack targets, say researchers at University of TorontoAn Israeli advertising agency has been serving millions of online adverts that allow “zero-click” spyware to be used against targets, researchers at a Canadian university have said.Citizen Lab, a digital investigations research unit at the University of Toronto, said it believed dozens of devices at the Qatari broadcaster Al Jazeera had been compromised",
+      "source": "The Guardian",
+      "source_authority": 0.85,
+      "date": "2026-10-15",
+      "score": 0.66
+    },
+    {
+      "title": "Google showcases way to fix quantum computer errors more efficiently",
+      "url": "https://www.newscientist.com/article/2593999-google-showcases-way-to-fix-quantum-computer-errors-more-efficiently/?utm_campaign=RSS|NSNS&utm_content=technology&utm_medium=RSS&utm_source=NSNS",
+      "summary": "Error-proofing the most important operations performed on a quantum computer has so far required lots of resources, but a new experiment shows a more efficient way to make the devices reliable",
+      "detail": "Error-proofing the most important operations performed on a quantum computer has so far required lots of resources, but a new experiment shows a more efficient way to make the devices reliable",
+      "source": "New Scientist",
+      "source_authority": 0.75,
+      "date": "2026-10-16",
+      "score": 0.655
+    },
+    {
+      "title": "Bluesky&#8217;s AI tool now lets you make games and apps to share on social",
+      "url": "https://www.theverge.com/tech/1012374/bluesky-ai-attie-small-social-games-apps",
+      "summary": "Bluesky's Attie AI tool, which initially launched earlier this year as a way to use AI to build your own feeds, now lets you make \"small\" social apps like games, polls, and dashboards that you can then share with others as their own websites. In an interview at TechCrunch Disrupt, Bluesky CEO Toni Schneider said […]",
+      "detail": "Bluesky's Attie AI tool, which initially launched earlier this year as a way to use AI to build your own feeds, now lets you make \"small\" social apps like games, polls, and dashboards that you can then share with others as their own websites. In an interview at TechCrunch Disrupt, Bluesky CEO Toni Schneider said […]",
+      "source": "The Verge",
+      "source_authority": 0.9,
+      "date": "2026-10-16",
+      "score": 0.635
+    },
+    {
+      "title": "AI agents are coming to Rivian’s cars",
+      "url": "https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/",
+      "summary": "We'll likely learn more about how this will work at the company's upcoming \"AI & Autonomy Day\" event in December.",
+      "detail": "We'll likely learn more about how this will work at the company's upcoming \"AI & Autonomy Day\" event in December.",
+      "source": "TechCrunch",
+      "source_authority": 0.95,
+      "date": "2026-10-15",
+      "score": 0.625
+    },
+    {
+      "title": "Bluesky expands its AI-powered Attie app to let anyone build websites, games, and more",
+      "url": "https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more/",
+      "summary": "Bluesky is bringing “social vibe coding” to its experimental Attie platform, allowing users to create interactive experiences like games, quizzes, and websites that can tap into the social network's audience.",
+      "detail": "Bluesky is bringing “social vibe coding” to its experimental Attie platform, allowing users to create interactive experiences like games, quizzes, and websites that can tap into the social network's audience.",
+      "source": "TechCrunch",
+      "source_authority": 0.95,
+      "date": "2026-10-16",
+      "score": 0.62
+    }
+  ],
+  "category3": [
+    {
+      "title": "苹果 Minions 研究：闲置 Mac GPU 组队，几分钟就能完成 10 小时 AI 任务",
+      "url": "https://www.ithome.com/1/013/730.htm",
+      "summary": "IT之家 10 月 16 日消息，科技媒体 AppleInsider 昨日（10 月 15 日）发布博文，报道称苹果研究团队公布了一项名为 Minions 的系统研究，尝试聚合闲置 Mac GPU，形成一个可动态调度的“虚拟 GPU 云”，用于运行大规模机器学习推理任务。IT之家援引博文介绍，传统 AI 推理通常依赖集中式 GPU 集群，面临成本高、扩容慢、排队时间长等问题；而 Mac 在日常办公、浏览和创作场景中，GPU 常常长期空闲。苹果公司在论文中阐述了 Minions 方案，希望重新组织这些“看不见的算力”，在不额外采购 GPU 的情况下，让多台 Mac 协同完成 AI 任务。根据论文概述，系统由四个关键部分组成：Minion Server 负责接收任务、拆分子任务并协调调度；PostgreSQL 元数据存储记录任务与设备状态；运行在各台 macOS 设备上的 Minion Executor 通过 Apple Silicon GPU 本地执行推理；Minion Watchdog 则监控设备掉线、休眠或断电等情况，并把未完成任务重新分配给其他可用设备。在技术实现上，Minions",
+      "detail": "IT之家 10 月 16 日消息，科技媒体 AppleInsider 昨日（10 月 15 日）发布博文，报道称苹果研究团队公布了一项名为 Minions 的系统研究，尝试聚合闲置 Mac GPU，形成一个可动态调度的“虚拟 GPU 云”，用于运行大规模机器学习推理任务。IT之家援引博文介绍，传统 AI 推理通常依赖集中式 GPU 集群，面临成本高、扩容慢、排队时间长等问题；而 Mac 在日常办公、浏览和创作场景中，GPU 常常长期空闲。苹果公司在论文中阐述了 Minions 方案，希望重新组织这些“看不见的算力”，在不额外采购 GPU 的情况下，让多台 Mac 协同完成 AI 任务。根据论文概述，系统由四个关键部分组成：Minion Server 负责接收任务、拆分子任务并协调调度；PostgreSQL 元数据存储记录任务与设备状态；运行在各台 macOS 设备上的 Minion Executor 通过 Apple Silicon GPU 本地执行推理；Minion Watchdog 则监控设备掉线、休眠或断电等情况，并把未完成任务重新分配给其他可用设备。在技术实现上，Minions",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-10-16",
+      "score": 0.9125
+    },
+    {
+      "title": "英伟达 RTX 5090 旗舰显卡恐迎“绝版”时刻：官方商城消失、零售商标注“不销售”",
+      "url": "https://www.ithome.com/1/013/713.htm",
+      "summary": "IT之家 10 月 16 日消息，科技媒体 Tom's Hardware 发布博文，报道称英伟达美国官方 Marketplace 显卡商城于昨日（10 月 15 日）移除 GeForce RTX 5090 显卡，进一步加剧了外界对其停产或退出消费级市场的猜测。IT之家查询英伟达中国官网，RTX 5090 D v2 显卡依然显示在售，起价 16,499 元起。IT之家本月曾报道，有消息称英伟达可能已停止生产 RTX 5090 显卡，从而将产能转向 AI 数据中心及专业 GPU。RTX 5090 本就因价格上涨和库存稀少而难以购买，如今官方渠道下架，让其获取难度进一步上升。与此同时，美国大型电脑零售商 Micro Center 已将该款 Blackwell 架构旗舰显卡标注为“不销售”，多家门店显示售罄。不过，英伟达尚未正式确认停产计划，Micro Center 也尚未回应媒体置评请求，因此目前仍不能将“下架”直接视同“永久停产”。与此同时，有爆料称英伟达有望推出 24GB 显存版本的 RTX 5080，作为新的高端游戏旗舰，接替 RTX 5090 与现有 16GB 版 RTX 5080",
+      "detail": "IT之家 10 月 16 日消息，科技媒体 Tom's Hardware 发布博文，报道称英伟达美国官方 Marketplace 显卡商城于昨日（10 月 15 日）移除 GeForce RTX 5090 显卡，进一步加剧了外界对其停产或退出消费级市场的猜测。IT之家查询英伟达中国官网，RTX 5090 D v2 显卡依然显示在售，起价 16,499 元起。IT之家本月曾报道，有消息称英伟达可能已停止生产 RTX 5090 显卡，从而将产能转向 AI 数据中心及专业 GPU。RTX 5090 本就因价格上涨和库存稀少而难以购买，如今官方渠道下架，让其获取难度进一步上升。与此同时，美国大型电脑零售商 Micro Center 已将该款 Blackwell 架构旗舰显卡标注为“不销售”，多家门店显示售罄。不过，英伟达尚未正式确认停产计划，Micro Center 也尚未回应媒体置评请求，因此目前仍不能将“下架”直接视同“永久停产”。与此同时，有爆料称英伟达有望推出 24GB 显存版本的 RTX 5080，作为新的高端游戏旗舰，接替 RTX 5090 与现有 16GB 版 RTX 5080",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-10-16",
+      "score": 0.86
+    },
+    {
+      "title": "Agentic AI Alters The CPU-GPU Balance",
+      "url": "https://semiengineering.com/agentic-ai-alters-the-cpu-gpu-balance/",
+      "summary": "Agentic workloads increase CPU demand, while reasoning models, MoE architectures, and reservoir computing fuel AI acceleration.\nThe post Agentic AI Alters The CPU-GPU Balance appeared first on Semiconductor Engineering.",
+      "detail": "Agentic workloads increase CPU demand, while reasoning models, MoE architectures, and reservoir computing fuel AI acceleration.\nThe post Agentic AI Alters The CPU-GPU Balance appeared first on Semiconductor Engineering.",
+      "source": "SemiEngineering",
+      "source_authority": 0.85,
+      "date": "2026-10-15",
+      "score": 0.805
+    },
+    {
+      "title": "Is your boss watching you? The rise of AI surveillance at work – podcast",
+      "url": "https://www.theguardian.com/science/audio/2026/oct/15/is-your-boss-watching-you-the-rise-of-ai-surveillance-at-work-podcast",
+      "summary": "Workers have always been monitored by their bosses, first through output targets, and then via computer software labelled ‘bossware’. But AI is transforming the capabilities of these systems, processing huge volumes of data to provide minute-by-minute accounts of activity, and productivity. To find out more, Ian Sample hears from UK technology editor Robert Booth. He explains which sectors are adopting this approach, why they are doing it, and how it could end up being counterproductive.Teachers",
+      "detail": "Workers have always been monitored by their bosses, first through output targets, and then via computer software labelled ‘bossware’. But AI is transforming the capabilities of these systems, processing huge volumes of data to provide minute-by-minute accounts of activity, and productivity. To find out more, Ian Sample hears from UK technology editor Robert Booth. He explains which sectors are adopting this approach, why they are doing it, and how it could end up being counterproductive.Teachers",
+      "source": "The Guardian",
+      "source_authority": 0.85,
+      "date": "2026-10-15",
+      "score": 0.795
+    },
+    {
+      "title": "高通与传音续签专利许可协议至 2031 年底，涵盖 4G 和 5G 移动设备",
+      "url": "https://www.ithome.com/1/013/732.htm",
+      "summary": "IT之家 10 月 16 日消息，高通公司今日宣布，已与传音控股签订全球专利许可的长期续期，涵盖 4G 和 5G 移动设备，期限至 2031 年底。高通技术许可（QTL）执行副总裁兼总经理 John Han 表示：“我们很高兴能够提前续签传音控股的 4G 和 5G 许可证，并将现有的 4G 和 5G 协议合并为单一的长期协议。”IT之家注意到，高通近期密集与多家移动设备大厂签订了专利许可协议。9 月 24 日，高通宣布与苹果（Apple）续签全球专利许可协议，新协议将于 2027 年 4 月 1 日起生效。10 月 5 日，华为与高通宣布达成一项长期、广泛的专利许可协议，该协议包含双方在 5G、计算、人工智能、网络等多个技术领域的专利组合交叉许可，同时高通将收购华为在计算、人工智能、网络及其他技术领域的部分美国专利。高通公司旗下包括专利许可业务 QTL 以及绝大多数专利资产。高通公司旗下子公司高通技术公司及其子公司负责高通绝大部分工程和研发工作，以及几乎全部产品和服务业务，其中包括 QCT 半导体业务。",
+      "detail": "IT之家 10 月 16 日消息，高通公司今日宣布，已与传音控股签订全球专利许可的长期续期，涵盖 4G 和 5G 移动设备，期限至 2031 年底。高通技术许可（QTL）执行副总裁兼总经理 John Han 表示：“我们很高兴能够提前续签传音控股的 4G 和 5G 许可证，并将现有的 4G 和 5G 协议合并为单一的长期协议。”IT之家注意到，高通近期密集与多家移动设备大厂签订了专利许可协议。9 月 24 日，高通宣布与苹果（Apple）续签全球专利许可协议，新协议将于 2027 年 4 月 1 日起生效。10 月 5 日，华为与高通宣布达成一项长期、广泛的专利许可协议，该协议包含双方在 5G、计算、人工智能、网络等多个技术领域的专利组合交叉许可，同时高通将收购华为在计算、人工智能、网络及其他技术领域的部分美国专利。高通公司旗下包括专利许可业务 QTL 以及绝大多数专利资产。高通公司旗下子公司高通技术公司及其子公司负责高通绝大部分工程和研发工作，以及几乎全部产品和服务业务，其中包括 QCT 半导体业务。",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-10-16",
+      "score": 0.7325
+    },
+    {
+      "title": "Thermal Co-Simulation Testing Of Co-Packaged Optics",
+      "url": "https://semiengineering.com/thermal-co-simulation-testing-of-co-packaged-optics/",
+      "summary": "Ensuring optical engines can operate reliably alongside high-power AI processors in multi-chip packages.\nThe post Thermal Co-Simulation Testing Of Co-Packaged Optics appeared first on Semiconductor Engineering.",
+      "detail": "Ensuring optical engines can operate reliably alongside high-power AI processors in multi-chip packages.\nThe post Thermal Co-Simulation Testing Of Co-Packaged Optics appeared first on Semiconductor Engineering.",
+      "source": "SemiEngineering",
+      "source_authority": 0.85,
+      "date": "2026-10-15",
+      "score": 0.73
+    },
+    {
+      "title": "How Windows is being optimized for Nvidia’s RTX Spark laptops",
+      "url": "https://www.theverge.com/tech/1011996/microsoft-windows-rtx-spark-platform-changes-notepad",
+      "summary": "Microsoft and Nvidia held a launch party for the first wave of RTX Spark laptops last week in San Francisco, where a new wave of AI PCs took center stage amid a packed crowd and a lively hands-on area. A day after the media event, I was invited to a quieter Nvidia event to hear […]",
+      "detail": "Microsoft and Nvidia held a launch party for the first wave of RTX Spark laptops last week in San Francisco, where a new wave of AI PCs took center stage amid a packed crowd and a lively hands-on area. A day after the media event, I was invited to a quieter Nvidia event to hear […]",
+      "source": "The Verge",
+      "source_authority": 0.9,
+      "date": "2026-10-15",
+      "score": 0.7075
+    },
+    {
+      "title": "How an accelerating Earth led experts to adopt the leap hour",
+      "url": "https://www.theguardian.com/science/2026/oct/15/times-up-for-the-leap-second-as-scientists-swap-it-for-the-leap-hour",
+      "summary": "International delegates agree leap second no longer tenable, but first leap hour not likely to happen for thousands of yearsAfter decades of discussion, quibbling and worrying about clocks in computer systems, the world’s official timekeepers have voted to replace what many viewed as a tiresome correction: the leap second. It’s time, they say, for the leap hour.Delegates from 69 countries cast their votes on Thursday at a conference in France of the International Bureau of Weights and Measures,",
+      "detail": "International delegates agree leap second no longer tenable, but first leap hour not likely to happen for thousands of yearsAfter decades of discussion, quibbling and worrying about clocks in computer systems, the world’s official timekeepers have voted to replace what many viewed as a tiresome correction: the leap second. It’s time, they say, for the leap hour.Delegates from 69 countries cast their votes on Thursday at a conference in France of the International Bureau of Weights and Measures,",
+      "source": "The Guardian",
+      "source_authority": 0.85,
+      "date": "2026-10-16",
+      "score": 0.705
+    },
+    {
+      "title": "Tech market sell-off deepens amid fears over US inflation and AI debt",
+      "url": "https://www.theguardian.com/business/2026/oct/15/tech-market-sell-off-deepens-amid-fears-over-us-inflation-and-ai-debt",
+      "summary": "Chip makers and tech investors such as Samsung and SoftBank plunge as potential interest rate hikes spook marketsBusiness news – live updatesLarry Elliott: the global economy is muddling through. But a storm is comingAn accelerating sell-off of AI-linked shares has hit global markets, as fears over rising inflation and future interest rate hikes spooked traders already wary of the heavily indebted sector.South Korea’s benchmark Kospi 200 index, which is heavily skewed towards the companies that",
+      "detail": "Chip makers and tech investors such as Samsung and SoftBank plunge as potential interest rate hikes spook marketsBusiness news – live updatesLarry Elliott: the global economy is muddling through. But a storm is comingAn accelerating sell-off of AI-linked shares has hit global markets, as fears over rising inflation and future interest rate hikes spooked traders already wary of the heavily indebted sector.South Korea’s benchmark Kospi 200 index, which is heavily skewed towards the companies that",
+      "source": "The Guardian",
+      "source_authority": 0.85,
+      "date": "2026-10-15",
+      "score": 0.6975
+    },
+    {
+      "title": "Beyond The Specification: What Really Determines PCIe Retimer Reach?",
+      "url": "https://semiengineering.com/beyond-the-specification-what-really-determines-pcie-retimer-reach/",
+      "summary": "Multiple interacting factors span silicon design, controller intelligence, channel quality, and the transmission medium itself.\nThe post Beyond The Specification: What Really Determines PCIe Retimer Reach? appeared first on Semiconductor Engineering.",
+      "detail": "Multiple interacting factors span silicon design, controller intelligence, channel quality, and the transmission medium itself.\nThe post Beyond The Specification: What Really Determines PCIe Retimer Reach? appeared first on Semiconductor Engineering.",
+      "source": "SemiEngineering",
+      "source_authority": 0.85,
+      "date": "2026-10-15",
+      "score": 0.685
+    }
+  ],
+  "category4": [
+    {
+      "title": "How ADI is helping robotics startups scale",
+      "url": "https://www.therobotreport.com/how-adi-is-helping-robotics-startups-scale-2/",
+      "summary": "Robotics businesses need help keeping up with innovations as they scale. Analog Devices Inc. or ADI is offering its Emerging Tech Hub.\nThe post How ADI is helping robotics startups scale appeared first on The Robot Report.",
+      "detail": "Robotics businesses need help keeping up with innovations as they scale. Analog Devices Inc. or ADI is offering its Emerging Tech Hub.\nThe post How ADI is helping robotics startups scale appeared first on The Robot Report.",
+      "source": "The Robot Report",
+      "source_authority": 0.85,
+      "date": "2026-10-16",
+      "score": 0.775
+    },
+    {
+      "title": "Agility chooses Nyobolt for ultra-fast charging for Digit 5 humanoid",
+      "url": "https://www.therobotreport.com/agility-robotics-chooses-nyobolt-ultra-fast-charging-digit-5-humanoid/",
+      "summary": "Nyobolt is providing power technology for Digit 5 that enables Agility's humanoid to work up to 20 hours a day.\nThe post Agility chooses Nyobolt for ultra-fast charging for Digit 5 humanoid appeared first on The Robot Report.",
+      "detail": "Nyobolt is providing power technology for Digit 5 that enables Agility's humanoid to work up to 20 hours a day.\nThe post Agility chooses Nyobolt for ultra-fast charging for Digit 5 humanoid appeared first on The Robot Report.",
+      "source": "The Robot Report",
+      "source_authority": 0.85,
+      "date": "2026-10-15",
+      "score": 0.775
+    },
+    {
+      "title": "The tech backlash is now in theaters",
+      "url": "https://www.theverge.com/entertainment/1012438/hollywood-tech-backlash-you-can-see-everything-musk-the-social-reckoning-artificial",
+      "summary": "Though movies about disruptive tech founders are nothing new, 2026 has been unusually stacked with features that take a much more critical look at how Silicon Valley is reshaping our reality. Aaron Sorkin's The Social Reckoning frames Mark Zuckerberg as a robotic villain whose ambitions are destabilizing society. Nathan Fielder and Lance Oppenheim's You Can […]",
+      "detail": "Though movies about disruptive tech founders are nothing new, 2026 has been unusually stacked with features that take a much more critical look at how Silicon Valley is reshaping our reality. Aaron Sorkin's The Social Reckoning frames Mark Zuckerberg as a robotic villain whose ambitions are destabilizing society. Nathan Fielder and Lance Oppenheim's You Can […]",
+      "source": "The Verge",
+      "source_authority": 0.9,
+      "date": "2026-10-16",
+      "score": 0.725
+    }
+  ]
+}
