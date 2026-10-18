@@ -1,0 +1,201 @@
+{
+  "date": "2026-10-18",
+  "category1": [
+    {
+      "title": "OpenCode 遭攻击：部分用户 OpenAI、Anthropic 等 API 密钥外泄",
+      "url": "https://www.ithome.com/1/014/434.htm",
+      "summary": "IT之家 10 月 18 日消息，OpenCode 宣布，昨晚（当地时间 10 月 16 日）发生了一起安全事件，涉及大规模“蒸馏攻击”，影响了 1.4% 的 OpenCode Console 用户。我们已于今天上午（当地时间 10 月 17 日）通过电子邮件通知了所有受影响用户。如果您未收到邮件，则说明您未受此事件影响；受影响的仅为关联了外部服务提供商的部分用户。由于事件仍在处理中，目前我们无法透露更多细节，但我们正与 Anthropic、OpenAI 和谷歌合作，共同采取补救措施。网友分享的邮件显示，OpenCode 称有人未经授权访问了该公司正处于停用流程中的一个旧系统。该公司提醒称，存储在用户工作区中的 API 密钥（如 OpenAI、Anthropic 的密钥）可能已经泄露。一旦有人获取了这些密钥，便可以账户持有者的名义发起请求，从而产生相关费用。在相关讨论中，多名用户反映出现了意料之外的费用支出。其中一位用户称，其 Anthropic 账户产生了 400 美元（IT之家注：现汇率约合 2,679 元人民币）的未经授权扣费；另一位用户则表示，其谷歌服务使用费用高达约 200",
+      "detail": "IT之家 10 月 18 日消息，OpenCode 宣布，昨晚（当地时间 10 月 16 日）发生了一起安全事件，涉及大规模“蒸馏攻击”，影响了 1.4% 的 OpenCode Console 用户。我们已于今天上午（当地时间 10 月 17 日）通过电子邮件通知了所有受影响用户。如果您未收到邮件，则说明您未受此事件影响；受影响的仅为关联了外部服务提供商的部分用户。由于事件仍在处理中，目前我们无法透露更多细节，但我们正与 Anthropic、OpenAI 和谷歌合作，共同采取补救措施。网友分享的邮件显示，OpenCode 称有人未经授权访问了该公司正处于停用流程中的一个旧系统。该公司提醒称，存储在用户工作区中的 API 密钥（如 OpenAI、Anthropic 的密钥）可能已经泄露。一旦有人获取了这些密钥，便可以账户持有者的名义发起请求，从而产生相关费用。在相关讨论中，多名用户反映出现了意料之外的费用支出。其中一位用户称，其 Anthropic 账户产生了 400 美元（IT之家注：现汇率约合 2,679 元人民币）的未经授权扣费；另一位用户则表示，其谷歌服务使用费用高达约 200",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-10-18",
+      "score": 0.9475
+    },
+    {
+      "title": "Anthropic 报告：AI 重塑公司用工结构，初级技术岗招聘明显收缩",
+      "url": "https://www.ithome.com/1/014/450.htm",
+      "summary": "IT之家 10 月 18 日消息，Anthropic 于当地时间周五发布的一份报告显示，过去一年里，公司员工构成与业务工作形态都发生了显著变化。Anthropic 认为，该公司内部的职场变化趋势，能够预示“人工智能将如何改变整个经济体的工作组织方式、招聘模式与劳动力需求”，尤其是因为这家企业已经“围绕人工智能深度重塑了自身工作流程”。即便其他机构不会像 Anthropic 这样全面、或是采用完全相同的方式落地 AI，这份报告也为外界提供了一个有趣的窗口，一窥该公司当下的运营模式。值得关注的是，Anthropic 正在减少初级岗位招聘。自 2025 年初以来，技术部门初级员工占比从 21% 下降至 14%，初级技术岗新员工占比降幅更大，由 27% 跌至 9%。Anthropic 还提到，技术团队在全体员工中的占比有所下降，从 61% 降至 56%。公司将该趋势归因于“企业规模扩张过程中业务职能板块的自然扩充”，同时还有“代码工具让非技术员工能够自行开发软件”这一因素。据转述，有员工表示在 Anthropic 长期承受着压力，需要尽可能加快进度，凡事都用 Claude 来完成。在 2026",
+      "detail": "IT之家 10 月 18 日消息，Anthropic 于当地时间周五发布的一份报告显示，过去一年里，公司员工构成与业务工作形态都发生了显著变化。Anthropic 认为，该公司内部的职场变化趋势，能够预示“人工智能将如何改变整个经济体的工作组织方式、招聘模式与劳动力需求”，尤其是因为这家企业已经“围绕人工智能深度重塑了自身工作流程”。即便其他机构不会像 Anthropic 这样全面、或是采用完全相同的方式落地 AI，这份报告也为外界提供了一个有趣的窗口，一窥该公司当下的运营模式。值得关注的是，Anthropic 正在减少初级岗位招聘。自 2025 年初以来，技术部门初级员工占比从 21% 下降至 14%，初级技术岗新员工占比降幅更大，由 27% 跌至 9%。Anthropic 还提到，技术团队在全体员工中的占比有所下降，从 61% 降至 56%。公司将该趋势归因于“企业规模扩张过程中业务职能板块的自然扩充”，同时还有“代码工具让非技术员工能够自行开发软件”这一因素。据转述，有员工表示在 Anthropic 长期承受着压力，需要尽可能加快进度，凡事都用 Claude 来完成。在 2026",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-10-18",
+      "score": 0.8975
+    },
+    {
+      "title": "Replit makes OpenAI its default over Anthropic, CEO says",
+      "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "summary": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
+      "detail": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
+      "source": "TechCrunch",
+      "source_authority": 0.95,
+      "date": "2026-10-18",
+      "score": 0.8925
+    },
+    {
+      "title": "IT早报 1018：曝华为全新子品牌星芒手机主攻线上性价比；消息称奇瑞智界将获批独立造车资质；DeepSeek V4.1 Flash-1017 新版本发布；英伟达否认 RTX 5090 停产传闻...",
+      "url": "https://www.ithome.com/1/014/427.htm",
+      "summary": "“IT早报”时间，大家好，现在是 2026 年 10 月 18 日星期日，今天的重要科技资讯有：1. 华为星芒子品牌手机规划曝光：主攻线上相对有性价比，规划新机中含主动散热版本数码博主透露该品牌主攻线上、定位性价比，已规划多款新机，其中一款搭载主动散热风扇。华为早已完成星芒商标注册，目前官方未公布产品详情。>> 查看详情2. 奇瑞智界将获批独立造车资质，内部人士确认计划独立上市工信部公示显示智界新准入生产地址来自奇瑞注销的原有厂区，资质获批后将取得独立造车资质，内部人士确认智界未来计划独立上市。>> 查看详情3. DeepSeek V4.1 Flash-1017 新版本发布：性能提升、耗时缩短，许愿式编程一键成真新版本模型能力提升，运行时间缩短调用成本下降，已适配多个开发平台，强化学习训练后可在素材有限时直接生成可运行项目，模型权重已开源开放下载。>> 查看详情4. 英伟达否认 RTX 5090 停产传闻，承认供应链产能受限针对此前 RTX 5090 停产爆料和市场缺货猜测，英伟达高管明确辟谣，称该显卡仍是核心产品将继续供货，同时承认当前供应链产能受限，正推动产品上市。>> 查看详情5",
+      "detail": "“IT早报”时间，大家好，现在是 2026 年 10 月 18 日星期日，今天的重要科技资讯有：1. 华为星芒子品牌手机规划曝光：主攻线上相对有性价比，规划新机中含主动散热版本数码博主透露该品牌主攻线上、定位性价比，已规划多款新机，其中一款搭载主动散热风扇。华为早已完成星芒商标注册，目前官方未公布产品详情。>> 查看详情2. 奇瑞智界将获批独立造车资质，内部人士确认计划独立上市工信部公示显示智界新准入生产地址来自奇瑞注销的原有厂区，资质获批后将取得独立造车资质，内部人士确认智界未来计划独立上市。>> 查看详情3. DeepSeek V4.1 Flash-1017 新版本发布：性能提升、耗时缩短，许愿式编程一键成真新版本模型能力提升，运行时间缩短调用成本下降，已适配多个开发平台，强化学习训练后可在素材有限时直接生成可运行项目，模型权重已开源开放下载。>> 查看详情4. 英伟达否认 RTX 5090 停产传闻，承认供应链产能受限针对此前 RTX 5090 停产爆料和市场缺货猜测，英伟达高管明确辟谣，称该显卡仍是核心产品将继续供货，同时承认当前供应链产能受限，正推动产品上市。>> 查看详情5",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-10-18",
+      "score": 0.8675
+    },
+    {
+      "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+      "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
+      "summary": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.",
+      "detail": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.",
+      "source": "TechCrunch",
+      "source_authority": 0.95,
+      "date": "2026-10-18",
+      "score": 0.745
+    },
+    {
+      "title": "Why Britain should reject the lure of cheap – and  scary – Chinese AI",
+      "url": "https://www.theguardian.com/business/2026/oct/17/why-britain-should-reject-the-lure-of-cheap-and-scary-chinese-ai",
+      "summary": "In the west the technology comes with at least some effort to provide security and a benign intent – not so from ChinaThere is much to fear from artificial intelligence developed in China and handed to businesses and governments in the west almost free of charge.Every month Chinese AI developers such as DeepSeek and Xiaomi dispatch the latest versions of their “open-weight” models that allow users to take the core software and use it without paying an expensive ongoing licence. Continue reading.",
+      "detail": "In the west the technology comes with at least some effort to provide security and a benign intent – not so from ChinaThere is much to fear from artificial intelligence developed in China and handed to businesses and governments in the west almost free of charge.Every month Chinese AI developers such as DeepSeek and Xiaomi dispatch the latest versions of their “open-weight” models that allow users to take the core software and use it without paying an expensive ongoing licence. Continue reading.",
+      "source": "The Guardian",
+      "source_authority": 0.85,
+      "date": "2026-10-17",
+      "score": 0.72
+    }
+  ],
+  "category2": [
+    {
+      "title": "Websites are closing their doors to AI agents",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+      "summary": "Autonomous agents are the hottest thing in AI. OpenAI, Meta, Google, Instinct, and others promise their agents can scour the internet on your behalf, doing anything from booking a dinner reservation and cleaning out your inbox to buying new shoes. But what happens when the rest of the internet won't play nice? In recent weeks, […]",
+      "detail": "Autonomous agents are the hottest thing in AI. OpenAI, Meta, Google, Instinct, and others promise their agents can scour the internet on your behalf, doing anything from booking a dinner reservation and cleaning out your inbox to buying new shoes. But what happens when the rest of the internet won't play nice? In recent weeks, […]",
+      "source": "The Verge",
+      "source_authority": 0.9,
+      "date": "2026-10-17",
+      "score": 0.8625
+    },
+    {
+      "title": "华为 WATCH FIT 5 系列智能手表 HarmonyOS 7 版本 7.0.0.107SP10 发布，支持同步手机地震预警等",
+      "url": "https://www.ithome.com/1/014/447.htm",
+      "summary": "IT之家 10 月 18 日消息，华为官方宣布，HUAWEI WATCH FIT 5 系列智能手表的鸿蒙 HarmonyOS 7 版本 7.0.0.107SP10 已开始分批推送给公测版升级尝鲜报名入选成功的用户。IT之家附华为 WATCH FIT 5 系列智能手表此次更新内容如下：适配机型HUAWEI WATCH FIT 5 （NKI-B19）HUAWEI WATCH FIT 5 Pro（NKI-B29）版本更新日志6.1.0.116SP11 / 6.1.0.116SP12 / 6.1.0.125SP15 → 7.0.0.107SP10 更新点：【新增】1. 系统界面焕新升级，表盘及多任务列表等新增光影效果，锻炼记录及计算器等页面更具层次感，为您呈现更舒适的交互体验2. 新增 HarmonyOS 7 光穹表盘，柔和流光漫过盘面，光影层次细腻通透，将静谧和灵动凝于腕间3. 新增万象模块表盘，支持自由搭配喝水、萌宠天气、熊猫敲木鱼等组件，轻松打造好看又好玩的专属表盘4. 情绪健康新增毛茸茸和星尘主题，给心情换个新皮肤，以柔软或辽阔，接住您此刻的心情 (情绪健康应用> 设置 > 主题)5.",
+      "detail": "IT之家 10 月 18 日消息，华为官方宣布，HUAWEI WATCH FIT 5 系列智能手表的鸿蒙 HarmonyOS 7 版本 7.0.0.107SP10 已开始分批推送给公测版升级尝鲜报名入选成功的用户。IT之家附华为 WATCH FIT 5 系列智能手表此次更新内容如下：适配机型HUAWEI WATCH FIT 5 （NKI-B19）HUAWEI WATCH FIT 5 Pro（NKI-B29）版本更新日志6.1.0.116SP11 / 6.1.0.116SP12 / 6.1.0.125SP15 → 7.0.0.107SP10 更新点：【新增】1. 系统界面焕新升级，表盘及多任务列表等新增光影效果，锻炼记录及计算器等页面更具层次感，为您呈现更舒适的交互体验2. 新增 HarmonyOS 7 光穹表盘，柔和流光漫过盘面，光影层次细腻通透，将静谧和灵动凝于腕间3. 新增万象模块表盘，支持自由搭配喝水、萌宠天气、熊猫敲木鱼等组件，轻松打造好看又好玩的专属表盘4. 情绪健康新增毛茸茸和星尘主题，给心情换个新皮肤，以柔软或辽阔，接住您此刻的心情 (情绪健康应用> 设置 > 主题)5.",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-10-18",
+      "score": 0.7325
+    },
+    {
+      "title": "曝华为 Pura X Max 阔折叠手机销量已破百万台，标准版成功“赶超”典藏版",
+      "url": "https://www.ithome.com/1/014/428.htm",
+      "summary": "IT之家 10 月 18 日消息，长期关注国内手机市场份额的博主 @RD观测 分享了华为折叠屏手机的销量情况：截至 2026 W40（IT之家注：9 月 28 日-10 月 4 日），华为 Pura X Max 约 52.9 万台、Pura X Max 典藏版约 49.31 万台。从数据来看，华为 Pura X Max 系列横向阔折叠手机的总销量已突破百万台。值得一提的是，普通版终于实现了对典藏版的销量“赶超”，并拉开了约 3.59 万台的差距（此前典藏版的销量长期高于普通版）。参考IT之家此前报道，行业首款横向阔折叠手机 —— 华为 Pura X Max 已于今年 4 月 25 日 10:08 开售，全系搭载麒麟 9030 Pro 旗舰处理器，售价 10999 元起。标准版12GB+256GB：定价 10999 元12GB+512GB：定价 11999 元典藏版16GB+512GB：定价 12999 元16GB+1TB：定价 13999 元另外，在今年 9 月 29 日的国际媒体圆桌会议上华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东与多家国际媒体的记者就华为消费者业",
+      "detail": "IT之家 10 月 18 日消息，长期关注国内手机市场份额的博主 @RD观测 分享了华为折叠屏手机的销量情况：截至 2026 W40（IT之家注：9 月 28 日-10 月 4 日），华为 Pura X Max 约 52.9 万台、Pura X Max 典藏版约 49.31 万台。从数据来看，华为 Pura X Max 系列横向阔折叠手机的总销量已突破百万台。值得一提的是，普通版终于实现了对典藏版的销量“赶超”，并拉开了约 3.59 万台的差距（此前典藏版的销量长期高于普通版）。参考IT之家此前报道，行业首款横向阔折叠手机 —— 华为 Pura X Max 已于今年 4 月 25 日 10:08 开售，全系搭载麒麟 9030 Pro 旗舰处理器，售价 10999 元起。标准版12GB+256GB：定价 10999 元12GB+512GB：定价 11999 元典藏版16GB+512GB：定价 12999 元16GB+1TB：定价 13999 元另外，在今年 9 月 29 日的国际媒体圆桌会议上华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东与多家国际媒体的记者就华为消费者业",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-10-18",
+      "score": 0.7325
+    },
+    {
+      "title": "华为 nova 12 / 13 系列手机推 HarmonyOS 7 花粉 Beta 尝鲜升级，新增远程分享、直连供电等功能",
+      "url": "https://www.ithome.com/1/014/453.htm",
+      "summary": "IT之家 10 月 18 日消息，华为官网在 10 月 16 日更新了鸿蒙 7 系统最新适配清单，华为 nova 12 系列、nova 13 系列手机开启了 HarmonyOS 7 花粉 Beta 尝鲜升级。IT之家注意到，华为官方宣布，华为 nova 12 系列、nova 13 系列手机已开启 HarmonyOS 7 花粉 Beta 尝鲜版本的升级推送，新增远程分享、智能录音等功能。适配机型HUAWEI nova 13（BLK-AL80）HUAWEI nova 13 Pro（MIS-AL00）HUAWEI nova 12（BLK-AL00）HUAWEI nova 12 Pro（ADA-AL00）HUAWEI nova 12 Ultra（ADA-AL00U）HUAWEI nova 12 Ultra 星耀版（ADA-AL10U）▲ IT之家图赏：华为 nova 13 系列真机实拍版本更新日志6.1.0.135SP8 / 6.1.0.135SP9 / 6.1.0.145 → 7.0.0.109SP8 更新点：【沉浸光感】视效覆盖更多场景，例如图标拖入大文件夹、手指滑动应用界面菜单栏等通用组",
+      "detail": "IT之家 10 月 18 日消息，华为官网在 10 月 16 日更新了鸿蒙 7 系统最新适配清单，华为 nova 12 系列、nova 13 系列手机开启了 HarmonyOS 7 花粉 Beta 尝鲜升级。IT之家注意到，华为官方宣布，华为 nova 12 系列、nova 13 系列手机已开启 HarmonyOS 7 花粉 Beta 尝鲜版本的升级推送，新增远程分享、智能录音等功能。适配机型HUAWEI nova 13（BLK-AL80）HUAWEI nova 13 Pro（MIS-AL00）HUAWEI nova 12（BLK-AL00）HUAWEI nova 12 Pro（ADA-AL00）HUAWEI nova 12 Ultra（ADA-AL00U）HUAWEI nova 12 Ultra 星耀版（ADA-AL10U）▲ IT之家图赏：华为 nova 13 系列真机实拍版本更新日志6.1.0.135SP8 / 6.1.0.135SP9 / 6.1.0.145 → 7.0.0.109SP8 更新点：【沉浸光感】视效覆盖更多场景，例如图标拖入大文件夹、手指滑动应用界面菜单栏等通用组",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-10-18",
+      "score": 0.695
+    },
+    {
+      "title": "Meta removes language that may have allowed it to scrape news sites",
+      "url": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
+      "summary": "After backlash, Meta is updating its terms again to remove language that suggested it could scrape content from sites, including news sites, to train its AI. Specifically, the following language no longer appears on the commercial terms page: … Meta may use any content from such domains, web pages, or URLs to provide, develop, improve, […]",
+      "detail": "After backlash, Meta is updating its terms again to remove language that suggested it could scrape content from sites, including news sites, to train its AI. Specifically, the following language no longer appears on the commercial terms page: … Meta may use any content from such domains, web pages, or URLs to provide, develop, improve, […]",
+      "source": "The Verge",
+      "source_authority": 0.9,
+      "date": "2026-10-17",
+      "score": 0.665
+    },
+    {
+      "title": "Ministers must be honest about Russian threat to UK, says former Foreign Office head",
+      "url": "https://www.theguardian.com/technology/2026/oct/17/russia-threat-uk-former-foreign-office-head-lord-peter-ricketts",
+      "summary": "Peter Ricketts calls for more resilience in protecting banking, energy and water systems from cyber-assaultsMinisters need to be honest with the British public about the immediate threat posed by Russia, which could soon lead to lives being lost, a former national security adviser has said.Peter Ricketts, who advised David Cameron when he was prime minister, became the latest figure to warn about the scale of the threat posed by “hybrid attacks” from Vladimir Putin’s forces. Continue reading...",
+      "detail": "Peter Ricketts calls for more resilience in protecting banking, energy and water systems from cyber-assaultsMinisters need to be honest with the British public about the immediate threat posed by Russia, which could soon lead to lives being lost, a former national security adviser has said.Peter Ricketts, who advised David Cameron when he was prime minister, became the latest figure to warn about the scale of the threat posed by “hybrid attacks” from Vladimir Putin’s forces. Continue reading...",
+      "source": "The Guardian",
+      "source_authority": 0.85,
+      "date": "2026-10-17",
+      "score": 0.66
+    }
+  ],
+  "category3": [
+    {
+      "title": "里程碑时刻：比亚迪方程豹汽车官宣 60 万台销量达成",
+      "url": "https://www.ithome.com/1/014/431.htm",
+      "summary": "IT之家 10 月 18 日消息，比亚迪官方刚刚宣布，旗下个性化品牌 —— 方程豹汽车 60 万台销量达成。据IT之家此前报道，在 2023 年 7 月，比亚迪方程豹汽车正式发布品牌 LOGO。同年 8 月，方程豹首款车型豹 5 正式登场，该车定位超级混动硬派 SUV，采用 DMO 超级混动越野平台。值得一提的是，今年 9 月底，比亚迪在 2026 年第一次临时股东会上披露，方程豹刚刚上市的方程 S 迎来了超预期的预订，店端非常热闹，预计方程 S 月销可以破 1 万甚至 1.5 万辆。股东会上，比亚迪还披露，公司计划未来在海外建 6000 座闪充站，构筑坚实的护城河，结合储能、太阳能业务打造生态链；公司不会只做组装厂，一定要掌握核心技术；而核心技术不只是电池，在智能化下半场，半导体和软件甚至比电池更为重要。",
+      "detail": "IT之家 10 月 18 日消息，比亚迪官方刚刚宣布，旗下个性化品牌 —— 方程豹汽车 60 万台销量达成。据IT之家此前报道，在 2023 年 7 月，比亚迪方程豹汽车正式发布品牌 LOGO。同年 8 月，方程豹首款车型豹 5 正式登场，该车定位超级混动硬派 SUV，采用 DMO 超级混动越野平台。值得一提的是，今年 9 月底，比亚迪在 2026 年第一次临时股东会上披露，方程豹刚刚上市的方程 S 迎来了超预期的预订，店端非常热闹，预计方程 S 月销可以破 1 万甚至 1.5 万辆。股东会上，比亚迪还披露，公司计划未来在海外建 6000 座闪充站，构筑坚实的护城河，结合储能、太阳能业务打造生态链；公司不会只做组装厂，一定要掌握核心技术；而核心技术不只是电池，在智能化下半场，半导体和软件甚至比电池更为重要。",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-10-18",
+      "score": 0.7325
+    },
+    {
+      "title": "台积电在日合资企业 JASM 第二晶圆厂转产 3nm 获日本经产省批准",
+      "url": "https://www.ithome.com/1/014/423.htm",
+      "summary": "IT之家 10 月 18 日消息，据日本经济产业省官网公示，台积电控股的在日合资子公司 JASM 第二晶圆厂转产 3nm 的计划已得到批准。JASM 第二晶圆厂原本规划的是 40nm、12nm、6nm，总月产能 6.3 万片晶圆（40nm 月产 1.5 万片、12nm 和 6nm 合计月产 4.8 万片）；现在则调整为仅生产 3nm，月产能 6,000 片晶圆。该项目预计 2028 年 12 月完工，同月投产。JASM 也对其已量产的第一晶圆厂规划进行了调整。其原计划生产 22/28nm 和 12/16nm 芯片，设计产能 5.5 万片晶圆；现在则舍弃了 12/16nm 节点，调整为月产 4.5 万片 22/28nm 晶圆和 5,000 片 40nm 晶圆。",
+      "detail": "IT之家 10 月 18 日消息，据日本经济产业省官网公示，台积电控股的在日合资子公司 JASM 第二晶圆厂转产 3nm 的计划已得到批准。JASM 第二晶圆厂原本规划的是 40nm、12nm、6nm，总月产能 6.3 万片晶圆（40nm 月产 1.5 万片、12nm 和 6nm 合计月产 4.8 万片）；现在则调整为仅生产 3nm，月产能 6,000 片晶圆。该项目预计 2028 年 12 月完工，同月投产。JASM 也对其已量产的第一晶圆厂规划进行了调整。其原计划生产 22/28nm 和 12/16nm 芯片，设计产能 5.5 万片晶圆；现在则舍弃了 12/16nm 节点，调整为月产 4.5 万片 22/28nm 晶圆和 5,000 片 40nm 晶圆。",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-10-18",
+      "score": 0.71
+    }
+  ],
+  "category4": [
+    {
+      "title": "特斯拉延长奥斯汀 Robotaxi 运营时间至午夜，FSD v15 将支持全天候运营",
+      "url": "https://www.ithome.com/1/014/444.htm",
+      "summary": "IT之家 10 月 18 日消息，特斯拉再次延长奥斯汀地区自动驾驶出租车（Robotaxi）的运营时间。X 平台用户伊桑 · 麦肯纳（ethanmckanna）发文称，目前运营时段延长至午夜，服务时间调整为早 6 点至午夜 12 点。自动驾驶出租车应用也向乘客推送了变更通知，告知用户乘车服务可预约至午夜，该消息由亚伦 · 卡什（aaronjcash）在 X 平台分享。这是一系列小幅延长运营时间举措中的最新一步。今年 8 月，特斯拉将奥斯汀 Robotaxi 运营时间扩展为早 6 点至晚 10 点。大约两周前，夜间结束时间推迟至晚 11 点，同时车队新增 100 多台 Cybercab，目前奥斯汀车队规模已经超过 300 台，下一站计划在达拉斯开放这项乘车服务。据IT之家了解，特斯拉的终极目标是实现全天候不间断运营。特斯拉人工智能副总裁阿肖克 · 埃卢斯瓦米（Ashok Elluswamy）表示，FSD v15 版本将支持 Robotaxi 全天候运营，计划于本月向全部 Robotaxi 车队推送该版本。FSD v15 的参数量提升至原先十倍，神经网络规模从约 10 亿参数扩容至 100",
+      "detail": "IT之家 10 月 18 日消息，特斯拉再次延长奥斯汀地区自动驾驶出租车（Robotaxi）的运营时间。X 平台用户伊桑 · 麦肯纳（ethanmckanna）发文称，目前运营时段延长至午夜，服务时间调整为早 6 点至午夜 12 点。自动驾驶出租车应用也向乘客推送了变更通知，告知用户乘车服务可预约至午夜，该消息由亚伦 · 卡什（aaronjcash）在 X 平台分享。这是一系列小幅延长运营时间举措中的最新一步。今年 8 月，特斯拉将奥斯汀 Robotaxi 运营时间扩展为早 6 点至晚 10 点。大约两周前，夜间结束时间推迟至晚 11 点，同时车队新增 100 多台 Cybercab，目前奥斯汀车队规模已经超过 300 台，下一站计划在达拉斯开放这项乘车服务。据IT之家了解，特斯拉的终极目标是实现全天候不间断运营。特斯拉人工智能副总裁阿肖克 · 埃卢斯瓦米（Ashok Elluswamy）表示，FSD v15 版本将支持 Robotaxi 全天候运营，计划于本月向全部 Robotaxi 车队推送该版本。FSD v15 的参数量提升至原先十倍，神经网络规模从约 10 亿参数扩容至 100",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-10-18",
+      "score": 0.86
+    },
+    {
+      "title": "OpenAI 将研发人形机器人，奥尔特曼称核心是打造“大脑”",
+      "url": "https://www.ithome.com/1/014/433.htm",
+      "summary": "IT之家 10 月 18 日消息，尽管 OpenAI 已经忙于开发人工智能模型和全新消费级硬件，但首席执行官萨姆 · 奥尔特曼（Sam Altman）及其团队显然还有精力推进另一个项目：人形机器人。奥尔特曼在《Sources》播客节目中解释，选择人形具备合理性，原因是“这个世界本身就是为人类设计的”。门、键盘和各类工具，都是按照特定人体形态打造。一台要在同类空间内活动的机器人，采用相近外形会是合适的选择。正如奥尔特曼所说：“匹配这种外形是个不错的思路。”被问到 OpenAI 是否会亲自制造人形机器人时，他的回答十分简洁：“我们会。”不过奥尔特曼并不十分在意机器人外观这类细碎细节。他称，这些问题“远不如真正研发出驱动机器人运转的‘大脑’重要”。简单来讲，如果一台机器不知道如何运用四肢，就算给它装上双臂双腿，也难以发挥作用。IT之家注意到，该项目距离成为正式产品还有很长一段路。奥尔特曼在接受《财富》杂志采访时表示：“我预计我们会在 2027 年拿出亮眼的演示样机…… 但机器人走上街头还需要再等好几年。”OpenAI 没有透露这场演示会展示哪些内容、人形机器人长什么样，以及外部人员何时才有机",
+      "detail": "IT之家 10 月 18 日消息，尽管 OpenAI 已经忙于开发人工智能模型和全新消费级硬件，但首席执行官萨姆 · 奥尔特曼（Sam Altman）及其团队显然还有精力推进另一个项目：人形机器人。奥尔特曼在《Sources》播客节目中解释，选择人形具备合理性，原因是“这个世界本身就是为人类设计的”。门、键盘和各类工具，都是按照特定人体形态打造。一台要在同类空间内活动的机器人，采用相近外形会是合适的选择。正如奥尔特曼所说：“匹配这种外形是个不错的思路。”被问到 OpenAI 是否会亲自制造人形机器人时，他的回答十分简洁：“我们会。”不过奥尔特曼并不十分在意机器人外观这类细碎细节。他称，这些问题“远不如真正研发出驱动机器人运转的‘大脑’重要”。简单来讲，如果一台机器不知道如何运用四肢，就算给它装上双臂双腿，也难以发挥作用。IT之家注意到，该项目距离成为正式产品还有很长一段路。奥尔特曼在接受《财富》杂志采访时表示：“我预计我们会在 2027 年拿出亮眼的演示样机…… 但机器人走上街头还需要再等好几年。”OpenAI 没有透露这场演示会展示哪些内容、人形机器人长什么样，以及外部人员何时才有机",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-10-18",
+      "score": 0.86
+    },
+    {
+      "title": "Meta 修改商业服务条款引发“用于训练 AI”争议，现已删除相关表述",
+      "url": "https://www.ithome.com/1/014/429.htm",
+      "summary": "IT之家 10 月 18 日消息，Meta 最近更新了其商业服务条款，声明其有权“使用来自 [企业账户] 域名、网页或 URL 的任何内容，以提供、开发、改进、研究、训练并维护”Meta 产品及服务的完整性。IT之家注意到，接受 Nieman Lab 采访的法律专家指出，这是一项“引人注目的条款”，它可能赋予 Meta 抓取任何拥有 Meta 企业账户的内容发布商网站、并利用相关内容训练其人工智能模型的权限。不过，Meta 发言人坚称，更新后的条款并不意味着 Meta 抓取网络的方式发生了改变。据 The Verge 报道，目前该条款已被正式删除。Meta 在一份声明中表示：“我们听取了各方的反馈，并特此澄清：本次更新是对既有广告条款的“合并整合”，而非扩大爬虫行为；修改后的条款现已明确限定爬虫与收集数据仅用于“广告和商业产品”，并重申站长仍可通过 robots.txt 控制爬虫权限。”",
+      "detail": "IT之家 10 月 18 日消息，Meta 最近更新了其商业服务条款，声明其有权“使用来自 [企业账户] 域名、网页或 URL 的任何内容，以提供、开发、改进、研究、训练并维护”Meta 产品及服务的完整性。IT之家注意到，接受 Nieman Lab 采访的法律专家指出，这是一项“引人注目的条款”，它可能赋予 Meta 抓取任何拥有 Meta 企业账户的内容发布商网站、并利用相关内容训练其人工智能模型的权限。不过，Meta 发言人坚称，更新后的条款并不意味着 Meta 抓取网络的方式发生了改变。据 The Verge 报道，目前该条款已被正式删除。Meta 在一份声明中表示：“我们听取了各方的反馈，并特此澄清：本次更新是对既有广告条款的“合并整合”，而非扩大爬虫行为；修改后的条款现已明确限定爬虫与收集数据仅用于“广告和商业产品”，并重申站长仍可通过 robots.txt 控制爬虫权限。”",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-10-18",
+      "score": 0.8225
+    },
+    {
+      "title": "The rise of the machines is canceled: Why humanoids with AI are helpers, not enemies",
+      "url": "https://www.therobotreport.com/rise-machines-canceled-why-humanoids-ai-are-helpers-not-enemies/",
+      "summary": "Humans play a key role in developing humanoid robots and training AI models, so we can maintain control, writes a columnist.\nThe post The rise of the machines is canceled: Why humanoids with AI are helpers, not enemies appeared first on The Robot Report.",
+      "detail": "Humans play a key role in developing humanoid robots and training AI models, so we can maintain control, writes a columnist.\nThe post The rise of the machines is canceled: Why humanoids with AI are helpers, not enemies appeared first on The Robot Report.",
+      "source": "The Robot Report",
+      "source_authority": 0.85,
+      "date": "2026-10-17",
+      "score": 0.805
+    },
+    {
+      "title": "ADI explains the race to make AI physical",
+      "url": "https://www.therobotreport.com/adi-explains-the-race-to-make-ai-physical/",
+      "summary": "A new ADI whitepaper examines the challenges and opportunities in moving physical AI out of labs into production machinery.\nThe post ADI explains the race to make AI physical appeared first on The Robot Report.",
+      "detail": "A new ADI whitepaper examines the challenges and opportunities in moving physical AI out of labs into production machinery.\nThe post ADI explains the race to make AI physical appeared first on The Robot Report.",
+      "source": "The Robot Report",
+      "source_authority": 0.85,
+      "date": "2026-10-18",
+      "score": 0.775
+    }
+  ]
+}
