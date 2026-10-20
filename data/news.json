@@ -2,17 +2,6 @@
   "date": "2026-10-20",
   "category1": [
     {
-      "title": "消息称 Anthropic 考虑加单 Nscale，双方有望再签 450 亿美元算力合同",
-      "url": "https://www.ithome.com/1/015/094.htm",
-      "summary": "IT之家 10 月 20 日消息，综合彭博社与路透社报道，人工智能初创企业 Anthropic 正与数据中心开发商 Nscale 就一笔新的云算力租赁合同进行洽谈。▲ Nscale 的 Monarch 计算园区Nscale 正在积极建设其位于美国西弗吉尼亚州 Mason County 的 Monarch 计算园区。该设施远期规划容量达到 8GW，首期工程设计容量为 1.35GW，预计 2028 年初开始交付。Anthropic 此前已就租赁 Monarch 园区首个建筑的 460MW 算力与 Nscale 达成六年期协议，总价值 450 亿美元（IT之家注：现汇率约合 3,012.15 亿元人民币）；此次的新谈判则涉及二号建筑，容量与金额与上次相同；Anthropic 还享有 Monarch 第三建筑容量的优先购买权。参考https://www.bloomberg.com/news/articles/2026-10-19/nscale-anthropic-in-talks-for-45-billion-cloud-computing-dealhttps://www.reuters.co",
-      "short_summary": "IT之家 10 月 20 日消息，综合彭博社与路透社报道，人工智能初创企业 Anthropic 正与数据中心开发商 Ns",
-      "detail": "IT之家 10 月 20 日消息，综合彭博社与路透社报道，人工智能初创企业 Anthropic 正与数据中心开发商 Nscale 就一笔新的云算力租赁合同进行洽谈。▲ Nscale 的 Monarch 计算园区Nscale 正在积极建设其位于美国西弗吉尼亚州 Mason County 的 Monarch 计算园区。该设施远期规划容量达到 8GW，首期工程设计容量为 1.35GW，预计 2028 年初开始交付。Anthropic 此前已就租赁 Monarch 园区首个建筑的 460MW 算力与 Nscale 达成六年期协议，总价值 450 亿美元（IT之家注：现汇率约合 3,012.15 亿元人民币）；此次的新谈判则涉及二号建筑，容量与金额与上次相同；Anthropic 还享有 Monarch 第三建筑容量的优先购买权。参考https://www.bloomberg.com/news/articles/2026-10-19/nscale-anthropic-in-talks-for-45-billion-cloud-computing-dealhttps://www.reuters.co",
-      "source": "ITHome",
-      "source_authority": 0.75,
-      "date": "2026-10-20",
-      "score": 0.885
-    },
-    {
       "title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
       "url": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
       "summary": "Microsoft wants enterprises to closely watch the agents that employees use with systems not controlled by AI labs like OpenAI and Anthropic.",
@@ -114,17 +103,6 @@
   ],
   "category2": [
     {
-      "title": "AI 按钮回归：微软修复 Win10/Win11 经典版 Outlook 的 Copilot 入口消失问题",
-      "url": "https://www.ithome.com/1/015/118.htm",
-      "summary": "IT之家 10 月 20 日消息，科技媒体 bleepingcomputer 昨日（10 月 19 日）发布博文，报道称微软公司已面向经典版 Outlook 推送补丁，修复 Copilot Chat 和 Copilot 按钮消失问题。IT之家曾于 9 月 17 日报道，微软承认表示经典版 Outlook 升级 Build 20026.20182 及更高版本后，部分拥有 Copilot Chat 许可证或付费 M365 Copilot 账户的用户，可能失去 Copilot Chat 与 Copilot 入口。受此影响的人会遇到以下一个或多个问题：右上角功能区上方缺少 Copilot 按钮。经典版 Outlook 左侧应用栏或“更多应用”区域中缺少 Copilot 图标。在“添加应用”中，Copilot 可能显示为可用应用，但选择“打开”没有任何反应。通过功能区自定义添加 Copilot 功能后，该命令可能显示为不可用或灰色。在问题根源方面，微软表示该问题源于 Outlook 未能从用户配置文件中检索到所需的账户信息。由于 Copilot 按钮缺失可能涉及许可、Microsoft 365",
-      "short_summary": "IT之家 10 月 20 日消息，科技媒体 bleepingcomputer 昨日（10 月 19 日）发布博文，报道称",
-      "detail": "IT之家 10 月 20 日消息，科技媒体 bleepingcomputer 昨日（10 月 19 日）发布博文，报道称微软公司已面向经典版 Outlook 推送补丁，修复 Copilot Chat 和 Copilot 按钮消失问题。IT之家曾于 9 月 17 日报道，微软承认表示经典版 Outlook 升级 Build 20026.20182 及更高版本后，部分拥有 Copilot Chat 许可证或付费 M365 Copilot 账户的用户，可能失去 Copilot Chat 与 Copilot 入口。受此影响的人会遇到以下一个或多个问题：右上角功能区上方缺少 Copilot 按钮。经典版 Outlook 左侧应用栏或“更多应用”区域中缺少 Copilot 图标。在“添加应用”中，Copilot 可能显示为可用应用，但选择“打开”没有任何反应。通过功能区自定义添加 Copilot 功能后，该命令可能显示为不可用或灰色。在问题根源方面，微软表示该问题源于 Outlook 未能从用户配置文件中检索到所需的账户信息。由于 Copilot 按钮缺失可能涉及许可、Microsoft 365",
-      "source": "ITHome",
-      "source_authority": 0.75,
-      "date": "2026-10-20",
-      "score": 0.8225
-    },
-    {
       "title": "Making the internet better for AI agents might make it worse for everyone else",
       "url": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/",
       "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Until recently, you could divide internet users into just two categories: bots and people. Websites have long allowed bots to perform automated tasks, like capturing the content of web pages, but rules…",
@@ -156,6 +134,17 @@
       "source_authority": 0.95,
       "date": "2026-10-20",
       "score": 0.77
+    },
+    {
+      "title": "奇瑞全新一代 AI 座舱产品“超能小奇”亮相：超懂你、超能干、超安心",
+      "url": "https://www.ithome.com/1/015/226.htm",
+      "summary": "IT之家 10 月 20 日现场消息，在今日上午的 2026 奇瑞全球创新大会上，奇瑞公布了在汽车座舱方面的进展。奇瑞灵犀智舱迎来升级，带来全新一代 AI 座舱产品“超能小奇”，宣称拥有超懂你、超能干、超安心三个核心能力。奇瑞在今年 1 月发布了灵犀智舱，带来车机智能助手“小奇同学”。IT之家在大会现场了解到，“超能小奇”迎来智能化升级，拥有自主理解力、自主记忆力、自主共情力，支持全域协同，广泛链接生态，在隐私方面也迎来进化。",
+      "short_summary": "IT之家 10 月 20 日现场消息，在今日上午的 2026 奇瑞全球创新大会上，奇瑞公布了在汽车座舱方面的进展。奇瑞灵",
+      "detail": "IT之家 10 月 20 日现场消息，在今日上午的 2026 奇瑞全球创新大会上，奇瑞公布了在汽车座舱方面的进展。奇瑞灵犀智舱迎来升级，带来全新一代 AI 座舱产品“超能小奇”，宣称拥有超懂你、超能干、超安心三个核心能力。奇瑞在今年 1 月发布了灵犀智舱，带来车机智能助手“小奇同学”。IT之家在大会现场了解到，“超能小奇”迎来智能化升级，拥有自主理解力、自主记忆力、自主共情力，支持全域协同，广泛链接生态，在隐私方面也迎来进化。",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-10-20",
+      "score": 0.765
     },
     {
       "title": "Nvidia launches new open models to run agents in the enterprise and on PCs",
@@ -202,17 +191,6 @@
       "score": 0.745
     },
     {
-      "title": "博通 Wi‑Fi 漏洞曝光：无需密码，攻击者也能拿下你的路由器",
-      "url": "https://www.ithome.com/1/015/099.htm",
-      "summary": "IT之家 10 月 20 日消息，科技媒体 cyberkendra 昨日（10 月 19 日）发布博文，报道称在巴黎 Hexacon 安全会议上，安全研究人员昆汀 · 凯泽（Quentin Kaiser），披露博通（Broadcom）Wi‑Fi 软件中的 WPSplinter 漏洞。在攻击表现方面，凯泽演示利用该漏洞，可以在无需 Wi‑Fi 密码、无需完成 WPS 配对的情况下，从无线信号覆盖范围内远程控制部分路由器，并取得最高的 root 权限。WPS 全称 Wi‑Fi Protected Setup，是路由器上的一种快捷配网功能，让支持它的设备不用手动输入 Wi‑Fi 密码，也能连接无线网络。该漏洞存在于博通专有的 WPS Monitor 中，该组件至少自 2010 年起用于博通的 802.11 软件开发套件。根源方面，在拆分设备重组来传输 WPS 消息时，未充分限制数据长度，可能导致缓冲区溢出和内存破坏；攻击者可借此进一步执行任意代码。IT之家附上演示视频如下：受影响设备涉及多个品牌和运营商网络，包括部分 TP-Link、Cisco、Nokia、ZTE、Sagemcom、Netg",
-      "short_summary": "IT之家 10 月 20 日消息，科技媒体 cyberkendra 昨日（10 月 19 日）发布博文，报道称在巴黎 H",
-      "detail": "IT之家 10 月 20 日消息，科技媒体 cyberkendra 昨日（10 月 19 日）发布博文，报道称在巴黎 Hexacon 安全会议上，安全研究人员昆汀 · 凯泽（Quentin Kaiser），披露博通（Broadcom）Wi‑Fi 软件中的 WPSplinter 漏洞。在攻击表现方面，凯泽演示利用该漏洞，可以在无需 Wi‑Fi 密码、无需完成 WPS 配对的情况下，从无线信号覆盖范围内远程控制部分路由器，并取得最高的 root 权限。WPS 全称 Wi‑Fi Protected Setup，是路由器上的一种快捷配网功能，让支持它的设备不用手动输入 Wi‑Fi 密码，也能连接无线网络。该漏洞存在于博通专有的 WPS Monitor 中，该组件至少自 2010 年起用于博通的 802.11 软件开发套件。根源方面，在拆分设备重组来传输 WPS 消息时，未充分限制数据长度，可能导致缓冲区溢出和内存破坏；攻击者可借此进一步执行任意代码。IT之家附上演示视频如下：受影响设备涉及多个品牌和运营商网络，包括部分 TP-Link、Cisco、Nokia、ZTE、Sagemcom、Netg",
-      "source": "ITHome",
-      "source_authority": 0.75,
-      "date": "2026-10-20",
-      "score": 0.7325
-    },
-    {
       "title": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
       "summary": "A hacker broke into more than 100 websites using an army of AI agents that mostly operated on their own, according to findings from the AI security firm Norforge. Though Norforge doesn't name the targets, Reuters reports that the victims included companies like John Deere, SharkNinja, and Cummins. Concerns over AI-powered cybersecurity breaches have grown […]",
@@ -222,9 +200,31 @@
       "source_authority": 0.9,
       "date": "2026-10-19",
       "score": 0.725
+    },
+    {
+      "title": "US teens can access ‘nudify’ apps despite Apple and Google’s parental controls, report finds",
+      "url": "https://www.theguardian.com/technology/2026/oct/19/us-teens-nudify-apps-apple-google-parental-controls",
+      "summary": "Exclusive: Using test accounts acting as 13-year-olds, Tech Transparency Project downloaded 135 apps with features to generate nonconsensual nude imageryIn December 2025, Morgan Dorfman received distressing news: a student at her daughter’s Pennsylvania high school was making AI-generated pornographic material using the daughter’s image.He was using an artificial intelligence image-editing app called Movely to create sexual videos from pictures of her daughter and five other girls. Continue read",
+      "short_summary": "Exclusive: Using test accounts acting as 13-year-olds, Tech ",
+      "detail": "Exclusive: Using test accounts acting as 13-year-olds, Tech Transparency Project downloaded 135 apps with features to generate nonconsensual nude imageryIn December 2025, Morgan Dorfman received distressing news: a student at her daughter’s Pennsylvania high school was making AI-generated pornographic material using the daughter’s image.He was using an artificial intelligence image-editing app called Movely to create sexual videos from pictures of her daughter and five other girls. Continue read",
+      "source": "The Guardian",
+      "source_authority": 0.85,
+      "date": "2026-10-19",
+      "score": 0.6975
     }
   ],
   "category3": [
+    {
+      "title": "英伟达 Vera CPU 获 AI 初创公司 Modal 订单，杀入英特尔、AMD 主场",
+      "url": "https://www.ithome.com/1/015/228.htm",
+      "summary": "IT之家 10 月 20 日消息，据路透社报道，英伟达拿下又一家高速成长 AI 初创企业的中央处理器订单。在此之前，这家企业完全依赖英特尔与 AMD 的芯片。这是一个早期信号，说明英伟达进军这个长期由两大对手把持市场的战略已经初见成效。云算力初创公司 Modal 面向 AI 开发者提供算力租赁服务。该公司表示，计划首次采用英伟达全新 Vera 中央处理器来托管智能体（AI agents），也就是能够替人类执行长周期任务的 AI 系统。在此之前，Modal 这类业务仅在英特尔和 AMD 芯片上运行。Modal 上周完成了由 Accel 领投的 7.5 亿美元（IT之家注：现汇率约合 50.2 亿元人民币）融资，投后估值达 157.5 亿美元（现汇率约合 1,054.25 亿元人民币）。公司称预计下一年营收有望达到 10 亿美元（现汇率约合 66.94 亿元人民币）。Modal 表示其服务使用量增长两倍，同比营收增幅超过 15 倍。Modal 当地时间周一称，早期测试显示这款英伟达新芯片能让 AI 智能体的任务处理吞吐量提升一倍，因此决定首次接入英伟达芯片方案，这需要 Modal 对底层软",
+      "short_summary": "IT之家 10 月 20 日消息，据路透社报道，英伟达拿下又一家高速成长 AI 初创企业的中央处理器订单。在此之前，这家",
+      "detail": "IT之家 10 月 20 日消息，据路透社报道，英伟达拿下又一家高速成长 AI 初创企业的中央处理器订单。在此之前，这家企业完全依赖英特尔与 AMD 的芯片。这是一个早期信号，说明英伟达进军这个长期由两大对手把持市场的战略已经初见成效。云算力初创公司 Modal 面向 AI 开发者提供算力租赁服务。该公司表示，计划首次采用英伟达全新 Vera 中央处理器来托管智能体（AI agents），也就是能够替人类执行长周期任务的 AI 系统。在此之前，Modal 这类业务仅在英特尔和 AMD 芯片上运行。Modal 上周完成了由 Accel 领投的 7.5 亿美元（IT之家注：现汇率约合 50.2 亿元人民币）融资，投后估值达 157.5 亿美元（现汇率约合 1,054.25 亿元人民币）。公司称预计下一年营收有望达到 10 亿美元（现汇率约合 66.94 亿元人民币）。Modal 表示其服务使用量增长两倍，同比营收增幅超过 15 倍。Modal 当地时间周一称，早期测试显示这款英伟达新芯片能让 AI 智能体的任务处理吞吐量提升一倍，因此决定首次接入英伟达芯片方案，这需要 Modal 对底层软",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-10-20",
+      "score": 0.945
+    },
     {
       "title": "Unleash AI Innovation: The Power of NVIDIA RTX PRO 6000 Blackwell Workstation Edition Fueled by PNY-Supplied GPUs",
       "url": "https://www.therobotreport.com/unleash-ai-innovation-the-power-of-nvidia-rtx-pro-6000-blackwell-workstation-edition-fueled-by-pny-supplied-gpus/",
@@ -259,33 +259,11 @@
       "score": 0.87
     },
     {
-      "title": "摩托罗拉首款宽屏折叠手机 Razr Flex 跑分曝光：高通第五代骁龙 8 芯片、12GB 内存",
-      "url": "https://www.ithome.com/1/015/125.htm",
-      "summary": "IT之家 10 月 20 日消息，科技媒体 GSMArena 昨日（10 月 19 日）发布博文，报道称摩托罗拉首款宽屏折叠手机 Razr Flex 现身 GeekBench 跑分库，6.7.1 版本单核成绩为 2,669 分，多核成绩为 8,837 分。跑分方面，由于该成绩来自工程样机，且 Geekbench 6 与 Geekbench 7 的分数不能直接比较，因此该成绩仅供参考，实际量产版性能仍需以正式发布后的测试为准。页面信息显示，Razr Flex 手机搭载型号为“QTI SM8845”芯片，采用 2+6 集群 CPU 方案，主频为 3.8GHz，关联高通第五代骁龙 8 芯片（非至尊版，至尊版型号为 SM8850）。SM8845 采用台积电 3nm N3P 工艺，搭载高通自研第三代 Oryon CPU，为“2 + 6”全大核设计：2 个最高 3.8 GHz 的 Prime 核心与 6 个 3.40 GHz 的性能核心；GPU 为 Adreno 829，并配备 Hexagon NPU、Spectra ISP 等高通 AI / 影像模块。尺寸方面，IT之家此前报道，该机展开后尺寸为",
-      "short_summary": "IT之家 10 月 20 日消息，科技媒体 GSMArena 昨日（10 月 19 日）发布博文，报道称摩托罗拉首款宽屏",
-      "detail": "IT之家 10 月 20 日消息，科技媒体 GSMArena 昨日（10 月 19 日）发布博文，报道称摩托罗拉首款宽屏折叠手机 Razr Flex 现身 GeekBench 跑分库，6.7.1 版本单核成绩为 2,669 分，多核成绩为 8,837 分。跑分方面，由于该成绩来自工程样机，且 Geekbench 6 与 Geekbench 7 的分数不能直接比较，因此该成绩仅供参考，实际量产版性能仍需以正式发布后的测试为准。页面信息显示，Razr Flex 手机搭载型号为“QTI SM8845”芯片，采用 2+6 集群 CPU 方案，主频为 3.8GHz，关联高通第五代骁龙 8 芯片（非至尊版，至尊版型号为 SM8850）。SM8845 采用台积电 3nm N3P 工艺，搭载高通自研第三代 Oryon CPU，为“2 + 6”全大核设计：2 个最高 3.8 GHz 的 Prime 核心与 6 个 3.40 GHz 的性能核心；GPU 为 Adreno 829，并配备 Hexagon NPU、Spectra ISP 等高通 AI / 影像模块。尺寸方面，IT之家此前报道，该机展开后尺寸为",
-      "source": "ITHome",
-      "source_authority": 0.75,
-      "date": "2026-10-20",
-      "score": 0.86
-    },
-    {
-      "title": "英伟达黄仁勋：AI 发展不能急刹车，但必须装“安全带”",
-      "url": "https://www.ithome.com/1/015/127.htm",
-      "summary": "IT之家 10 月 20 日消息，科技媒体 Android Headline 昨日（10 月 19 日）发布博文，报道称英伟达首席执行官黄仁勋在伦敦表示，反对以“急刹车”或严厉监管来限制 AI 发展，应该建立“安全带”，通过更智能的安全标准、监测机制和事故防范措施约束。黄仁勋将 AI 比作电网、供水系统等关键基础设施，反对简单禁止或施加繁重监管方案，主张建立聪明的安全标准。他透露，自己经常与 AI 研究人员交流风险监控和安全协议问题，并提出英国可作为中美等各方开展 AI 安全对话的中立平台。英伟达还承诺在五年内向英国 AI 安全研究投入 2.5 亿美元（IT之家注：现汇率约合 16.73 亿元人民币）。针对近期数据中心建设延期、AI 公司上市推迟等市场担忧，黄仁勋称这是行业快速扩张中的“成长阵痛”。他表示，现代 AI 的核心能力已经确立，初创企业则需要在市场成熟过程中学会承担财务与治理责任。",
-      "short_summary": "IT之家 10 月 20 日消息，科技媒体 Android Headline 昨日（10 月 19 日）发布博文，报道称",
-      "detail": "IT之家 10 月 20 日消息，科技媒体 Android Headline 昨日（10 月 19 日）发布博文，报道称英伟达首席执行官黄仁勋在伦敦表示，反对以“急刹车”或严厉监管来限制 AI 发展，应该建立“安全带”，通过更智能的安全标准、监测机制和事故防范措施约束。黄仁勋将 AI 比作电网、供水系统等关键基础设施，反对简单禁止或施加繁重监管方案，主张建立聪明的安全标准。他透露，自己经常与 AI 研究人员交流风险监控和安全协议问题，并提出英国可作为中美等各方开展 AI 安全对话的中立平台。英伟达还承诺在五年内向英国 AI 安全研究投入 2.5 亿美元（IT之家注：现汇率约合 16.73 亿元人民币）。针对近期数据中心建设延期、AI 公司上市推迟等市场担忧，黄仁勋称这是行业快速扩张中的“成长阵痛”。他表示，现代 AI 的核心能力已经确立，初创企业则需要在市场成熟过程中学会承担财务与治理责任。",
-      "source": "ITHome",
-      "source_authority": 0.75,
-      "date": "2026-10-20",
-      "score": 0.795
-    },
-    {
-      "title": "一汽-大众 ID. AURA T6 首销月锁单 33,022 台，创造大众新速度",
-      "url": "https://www.ithome.com/1/015/098.htm",
-      "summary": "IT之家 10 月 20 日消息，一汽-大众今日公布了 ID. AURA T6 首销月战报，锁单 33,022 台，创造大众新速度。官方还透露，激光雷达版本占比超 90%，首购大众车主占比接近 80%。据IT之家此前报道，一汽-大众 ID. AURA T6 于 9 月 20 日上市，包含四款车型，售价区间 12.99 万 - 16.69 万元：540 Pro：12.99 万元660 Pro：13.99 万元660 Max 激光雷达版：14.99 万元660 Ultra 激光雷达版：16.69 万元新车长宽高分别为 4811/1879/1648mm，轴距 2836mm；配备 15.6 英寸 2.5K 中控屏、25.8 英寸 AR-HUD 及 10.25 英寸全液晶仪表。ID. AURA T6 采用大众与地平线合资的“酷睿程”方案，地平线征程 6H 芯片拥有 420TOPS 算力，系统响应低于 160 毫秒；感知硬件配备 192 线激光雷达。",
-      "short_summary": "IT之家 10 月 20 日消息，一汽-大众今日公布了 ID. AURA T6 首销月战报，锁单 33,022 台，创造",
-      "detail": "IT之家 10 月 20 日消息，一汽-大众今日公布了 ID. AURA T6 首销月战报，锁单 33,022 台，创造大众新速度。官方还透露，激光雷达版本占比超 90%，首购大众车主占比接近 80%。据IT之家此前报道，一汽-大众 ID. AURA T6 于 9 月 20 日上市，包含四款车型，售价区间 12.99 万 - 16.69 万元：540 Pro：12.99 万元660 Pro：13.99 万元660 Max 激光雷达版：14.99 万元660 Ultra 激光雷达版：16.69 万元新车长宽高分别为 4811/1879/1648mm，轴距 2836mm；配备 15.6 英寸 2.5K 中控屏、25.8 英寸 AR-HUD 及 10.25 英寸全液晶仪表。ID. AURA T6 采用大众与地平线合资的“酷睿程”方案，地平线征程 6H 芯片拥有 420TOPS 算力，系统响应低于 160 毫秒；感知硬件配备 192 线激光雷达。",
+      "title": "长城 27 款坦克 500 将于 10 月 23 日上市，搭载 Coffee Pilot 4 辅助驾驶系统",
+      "url": "https://www.ithome.com/1/015/251.htm",
+      "summary": "IT之家 10 月 20 日消息，据易车消息，27 款坦克 500 将于 10 月 23 日正式上市。据IT之家此前报道，10 月 16 日，27 款坦克 500 正式开启预订，3000 元订金抵 9000 元购车尾款。新车延续现款主体外观设计，新增丹霞红车身配色；长宽高分别为 5078/1934/1905mm，轴距 2850mm；接近角 29°，离去角 24°，最小离地间隙 210mm。智能驾驶辅助系统方面，新车搭载了 Coffee Pilot 4.0 智能辅助驾驶系统，配备了一颗 700TOPS 算力的 Thor-U 芯片和包括禾赛 192 线激光雷达在内的 27 个传感器。内饰方面，新车采用环抱式座舱布局，配备内嵌式全液晶仪表，中控屏与副驾娱乐屏组成一体式联屏，此次副驾屏是新增配置。配置清单包含丹陛石副仪表板、22 扬声器音响系统（含主副驾头枕音响）、NAPPA 真皮材质、副驾后排小桌板。动力方面，新车提供三种版本：Hi4-T 版本搭载 2.0T 发动机 + 单电机 + 9HAT 变速箱，系统综合功率 310kW，电池容量 37.1kWh，WLTC 工况纯电续航 110km，匹配",
+      "short_summary": "IT之家 10 月 20 日消息，据易车消息，27 款坦克 500 将于 10 月 23 日正式上市。据IT之家此前报道",
+      "detail": "IT之家 10 月 20 日消息，据易车消息，27 款坦克 500 将于 10 月 23 日正式上市。据IT之家此前报道，10 月 16 日，27 款坦克 500 正式开启预订，3000 元订金抵 9000 元购车尾款。新车延续现款主体外观设计，新增丹霞红车身配色；长宽高分别为 5078/1934/1905mm，轴距 2850mm；接近角 29°，离去角 24°，最小离地间隙 210mm。智能驾驶辅助系统方面，新车搭载了 Coffee Pilot 4.0 智能辅助驾驶系统，配备了一颗 700TOPS 算力的 Thor-U 芯片和包括禾赛 192 线激光雷达在内的 27 个传感器。内饰方面，新车采用环抱式座舱布局，配备内嵌式全液晶仪表，中控屏与副驾娱乐屏组成一体式联屏，此次副驾屏是新增配置。配置清单包含丹陛石副仪表板、22 扬声器音响系统（含主副驾头枕音响）、NAPPA 真皮材质、副驾后排小桌板。动力方面，新车提供三种版本：Hi4-T 版本搭载 2.0T 发动机 + 单电机 + 9HAT 变速箱，系统综合功率 310kW，电池容量 37.1kWh，WLTC 工况纯电续航 110km，匹配",
       "source": "ITHome",
       "source_authority": 0.75,
       "date": "2026-10-20",
@@ -303,6 +281,17 @@
       "score": 0.7575
     },
     {
+      "title": "奇瑞紫微芯片首秀：三大系列、五大封装，8 英寸晶圆进入量产阶段",
+      "url": "https://www.ithome.com/1/015/216.htm",
+      "summary": "IT之家 10 月 20 日现场消息，在今日上午的 2026 奇瑞全球创新大会上，奇瑞紫微芯片迎来首秀。IT之家在大会现场了解到，奇瑞紫微芯片产品包括三大系列：C 系列中央计算芯片S 系列车规级碳化硅芯片M 系列车规级控制芯片其中，紫微 C100 中央计算芯片专为物理 AI 端侧部署设计，两颗 CPU 算力可达 1000KDMIPS，整车两颗 NPU 算力可达 2400TOPS，内存带宽达 600GB/s，为 100B 物理世界模型量身定制。紫微 S1500 SiC 碳化硅芯片支持行业最高车规级电压等级 1500V，模块出流能力达 1450A。奇瑞宣布 8 英寸晶圆进入量产阶段，成本可降低超 30%。奇瑞还展示了其芯片的五大封装系列，可覆盖奇瑞全平台车型。",
+      "short_summary": "IT之家 10 月 20 日现场消息，在今日上午的 2026 奇瑞全球创新大会上，奇瑞紫微芯片迎来首秀。IT之家在大会现",
+      "detail": "IT之家 10 月 20 日现场消息，在今日上午的 2026 奇瑞全球创新大会上，奇瑞紫微芯片迎来首秀。IT之家在大会现场了解到，奇瑞紫微芯片产品包括三大系列：C 系列中央计算芯片S 系列车规级碳化硅芯片M 系列车规级控制芯片其中，紫微 C100 中央计算芯片专为物理 AI 端侧部署设计，两颗 CPU 算力可达 1000KDMIPS，整车两颗 NPU 算力可达 2400TOPS，内存带宽达 600GB/s，为 100B 物理世界模型量身定制。紫微 S1500 SiC 碳化硅芯片支持行业最高车规级电压等级 1500V，模块出流能力达 1450A。奇瑞宣布 8 英寸晶圆进入量产阶段，成本可降低超 30%。奇瑞还展示了其芯片的五大封装系列，可覆盖奇瑞全平台车型。",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-10-20",
+      "score": 0.71
+    },
+    {
       "title": "Why Physical AI Is So Hard To Engineer",
       "url": "https://semiengineering.com/why-physical-ai-is-so-hard-to-engineer/",
       "summary": "Integrating sensors, compute, and actuators into autonomous systems adds new challenges for chip design.\nThe post Why Physical AI Is So Hard To Engineer appeared first on Semiconductor Engineering.",
@@ -314,6 +303,17 @@
       "score": 0.71
     },
     {
+      "title": "‘These risks are real’: the threat of AI bioweapons – podcast",
+      "url": "https://www.theguardian.com/science/audio/2026/oct/20/these-risks-are-real-the-threat-of-ai-bioweapons-podcast",
+      "summary": "In his annual speech on threats to the nation, Sir Ken McCallum, the head of the UK’s intelligence service, MI5, warned that AI had the potential to ‘change the stakes’ on existing and even new bioweapons. To find out why, and how, Ian Sample speaks to Dr Tom Inglesby, director of the Johns Hopkins Center for Health Security and the Bloomberg School of Public Health. He explains what has governments so worried and what measures could be put in place to reduce the risksCould AI ‘change the stakes",
+      "short_summary": "In his annual speech on threats to the nation, Sir Ken McCal",
+      "detail": "In his annual speech on threats to the nation, Sir Ken McCallum, the head of the UK’s intelligence service, MI5, warned that AI had the potential to ‘change the stakes’ on existing and even new bioweapons. To find out why, and how, Ian Sample speaks to Dr Tom Inglesby, director of the Johns Hopkins Center for Health Security and the Bloomberg School of Public Health. He explains what has governments so worried and what measures could be put in place to reduce the risksCould AI ‘change the stakes",
+      "source": "The Guardian",
+      "source_authority": 0.85,
+      "date": "2026-10-20",
+      "score": 0.63
+    },
+    {
       "title": "Breaking The Memory Bottleneck In AI And HPC SoCs",
       "url": "https://semiengineering.com/breaking-the-memory-bottleneck-in-ai-and-hpc-socs/",
       "summary": "Opimizing embedded memory IP for RibbonFET and PowerVia.\nThe post Breaking The Memory Bottleneck In AI And HPC SoCs appeared first on Semiconductor Engineering.",
@@ -323,20 +323,31 @@
       "source_authority": 0.85,
       "date": "2026-10-19",
       "score": 0.62
-    },
-    {
-      "title": "Error-correction record pushes quantum computers closer to usefulness",
-      "url": "https://www.newscientist.com/article/2594366-error-correction-record-pushes-quantum-computers-closer-to-usefulness/?utm_campaign=RSS|NSNS&utm_content=technology&utm_medium=RSS&utm_source=NSNS",
-      "summary": "Useful quantum computers will have to use many “logical qubits” as their computational building blocks, and researchers just broke the record for how reliable they can be",
-      "short_summary": "Useful quantum computers will have to use many “logical qubi",
-      "detail": "Useful quantum computers will have to use many “logical qubits” as their computational building blocks, and researchers just broke the record for how reliable they can be",
-      "source": "New Scientist",
-      "source_authority": 0.75,
-      "date": "2026-10-19",
-      "score": 0.61
     }
   ],
   "category4": [
+    {
+      "title": "今年国内自动驾驶领域最大单笔融资：新石器完成近 4 亿美元 E 轮融资，消息称国家人工智能产业投资基金领投",
+      "url": "https://www.ithome.com/1/015/217.htm",
+      "summary": "IT之家 10 月 20 日消息，自动驾驶科技公司新石器（Neolix）今日宣布正式完成 E 轮近 4 亿美元（IT之家注：现汇率约合 26.77 亿元人民币）融资。官方宣布，本轮融资由博裕投资与某国家级基金联合领投，高鹄资本担任本轮融资独家财务顾问。据界面新闻报道，投资圈知情人士透露，博裕投资和国家人工智能产业投资基金是新石器本轮融资的领投方。IT之家获悉，本轮融资也创造了今年国内自动驾驶领域最大单笔融资纪录，迄今为止，新石器公司累计融资额已突破百亿元人民币，融资规模居无人配送车行业第一。官方表示，本次融资完成后，新石器将把资金重点投入于两个方向：一是深耕精细化运营网络，加快全球主要区域枢纽的属地化服务中枢布局，构建更灵敏高效的全球客户履约网络；二是加大对端到端大模型数据训练闭环的投入，进一步提高无人驾驶安全等级与车辆表现，并持续降低车辆全生命周期运维成本。相关阅读：《国家 AI 产业投资基金成立，出资额 600.6 亿元》",
+      "short_summary": "IT之家 10 月 20 日消息，自动驾驶科技公司新石器（Neolix）今日宣布正式完成 E 轮近 4 亿美元（IT之家",
+      "detail": "IT之家 10 月 20 日消息，自动驾驶科技公司新石器（Neolix）今日宣布正式完成 E 轮近 4 亿美元（IT之家注：现汇率约合 26.77 亿元人民币）融资。官方宣布，本轮融资由博裕投资与某国家级基金联合领投，高鹄资本担任本轮融资独家财务顾问。据界面新闻报道，投资圈知情人士透露，博裕投资和国家人工智能产业投资基金是新石器本轮融资的领投方。IT之家获悉，本轮融资也创造了今年国内自动驾驶领域最大单笔融资纪录，迄今为止，新石器公司累计融资额已突破百亿元人民币，融资规模居无人配送车行业第一。官方表示，本次融资完成后，新石器将把资金重点投入于两个方向：一是深耕精细化运营网络，加快全球主要区域枢纽的属地化服务中枢布局，构建更灵敏高效的全球客户履约网络；二是加大对端到端大模型数据训练闭环的投入，进一步提高无人驾驶安全等级与车辆表现，并持续降低车辆全生命周期运维成本。相关阅读：《国家 AI 产业投资基金成立，出资额 600.6 亿元》",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-10-20",
+      "score": 0.96
+    },
+    {
+      "title": "消息称 Waymo 计划明年年底前将自动驾驶车队规模扩至目前 5 倍，达 2 万辆",
+      "url": "https://www.ithome.com/1/015/218.htm",
+      "summary": "IT之家 10 月 20 日消息，据 Semafor 当地时间周一援引知情人士消息报道，Alphabet 旗下自动驾驶子公司 Waymo 计划利用本月早些时候筹集到的 50 亿美元（IT之家注：现汇率约合 334.68 亿元人民币）资金，在明年年底前将车队规模扩大至目前的 5 倍，达到 2 万辆。报道称，这家自动驾驶网约车服务商目前拥有 4000 台车辆，计划在今年年底扩充至 8000 台，并于明年年底进一步增长至 20000 台。本月早些时候，Waymo 从 PIMCO、Blackstone、Sixth Street 等贷方获得一笔 50 亿美元（现汇率约合 334.68 亿元人民币）贷款，并表示这笔资金将用于在美国本土及海外拓展业务。Waymo 目前已经在美国 15 座城市开展运营，并且公布了在伦敦、东京、新加坡以及加拿大推出自动驾驶乘车服务的计划。该公司今年早些时候完成了一轮 160 亿美元（现汇率约合 1,070.99 亿元人民币）的股权融资，投后估值 1,260 亿美元（现汇率约合 8,434.01 亿元人民币）。",
+      "short_summary": "IT之家 10 月 20 日消息，据 Semafor 当地时间周一援引知情人士消息报道，Alphabet 旗下自动驾驶子",
+      "detail": "IT之家 10 月 20 日消息，据 Semafor 当地时间周一援引知情人士消息报道，Alphabet 旗下自动驾驶子公司 Waymo 计划利用本月早些时候筹集到的 50 亿美元（IT之家注：现汇率约合 334.68 亿元人民币）资金，在明年年底前将车队规模扩大至目前的 5 倍，达到 2 万辆。报道称，这家自动驾驶网约车服务商目前拥有 4000 台车辆，计划在今年年底扩充至 8000 台，并于明年年底进一步增长至 20000 台。本月早些时候，Waymo 从 PIMCO、Blackstone、Sixth Street 等贷方获得一笔 50 亿美元（现汇率约合 334.68 亿元人民币）贷款，并表示这笔资金将用于在美国本土及海外拓展业务。Waymo 目前已经在美国 15 座城市开展运营，并且公布了在伦敦、东京、新加坡以及加拿大推出自动驾驶乘车服务的计划。该公司今年早些时候完成了一轮 160 亿美元（现汇率约合 1,070.99 亿元人民币）的股权融资，投后估值 1,260 亿美元（现汇率约合 8,434.01 亿元人民币）。",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-10-20",
+      "score": 0.9225
+    },
     {
       "title": "The Robot I Didn’t Expect to Build",
       "url": "https://spectrum.ieee.org/agility-robotics-digit-5-redesign",
@@ -349,26 +360,15 @@
       "score": 0.83
     },
     {
-      "title": "英特尔向 FCC 申请禁令豁免：美国芯片工厂离不开外国 AGV 机器人",
-      "url": "https://www.ithome.com/1/015/106.htm",
-      "summary": "IT之家 10 月 20 日消息，据彭博社报道，英特尔公司已向美国联邦通信委员会（FCC）申请豁免近期一项针对境外先进机器人的禁令，称其需要持续使用这类对美国半导体制造至关重要的“小众”设备。这份 10 月 16 日提交、当地时间周一对外公开的请愿文件显示，英特尔担心自家工厂使用的自动导引车（AGV）会被纳入这项针对境外新技术的全面进口与销售禁令。这类设备用于半导体工厂内部运送物料。英特尔在申请书中表示，保证这批机器人正常运转对美国国家安全“至关重要”。目前没有成熟的国产替代产品能够满足英特尔严苛标准，替换现有设备需要数年时间。一旦设备运行中断，将“立刻对英特尔在美国本土的半导体制造产能造成负面影响”。IT之家注意到，今年 7 月，FCC 将美国境外制造的先进机器人设备列入“管控清单”，Wi‑Fi 路由器、无人机等设备也在其中，出于国家安全风险考量，这类产品禁止进入美国市场。该禁令不影响已经在境内投入使用的设备，但企业无法对存量设备进行硬件、软件与固件升级。产品落入禁令范围的企业，可以向 FCC 和美国国防部申请有条件豁免。英特尔向委员会表示，尚不确定对 AGV 进行升级是否会违反法规",
-      "short_summary": "IT之家 10 月 20 日消息，据彭博社报道，英特尔公司已向美国联邦通信委员会（FCC）申请豁免近期一项针对境外先进机",
-      "detail": "IT之家 10 月 20 日消息，据彭博社报道，英特尔公司已向美国联邦通信委员会（FCC）申请豁免近期一项针对境外先进机器人的禁令，称其需要持续使用这类对美国半导体制造至关重要的“小众”设备。这份 10 月 16 日提交、当地时间周一对外公开的请愿文件显示，英特尔担心自家工厂使用的自动导引车（AGV）会被纳入这项针对境外新技术的全面进口与销售禁令。这类设备用于半导体工厂内部运送物料。英特尔在申请书中表示，保证这批机器人正常运转对美国国家安全“至关重要”。目前没有成熟的国产替代产品能够满足英特尔严苛标准，替换现有设备需要数年时间。一旦设备运行中断，将“立刻对英特尔在美国本土的半导体制造产能造成负面影响”。IT之家注意到，今年 7 月，FCC 将美国境外制造的先进机器人设备列入“管控清单”，Wi‑Fi 路由器、无人机等设备也在其中，出于国家安全风险考量，这类产品禁止进入美国市场。该禁令不影响已经在境内投入使用的设备，但企业无法对存量设备进行硬件、软件与固件升级。产品落入禁令范围的企业，可以向 FCC 和美国国防部申请有条件豁免。英特尔向委员会表示，尚不确定对 AGV 进行升级是否会违反法规",
+      "title": "吉利汽车与曹操出行等联合打造，中国首款原生开发 Robotaxi 首台工程样车下线",
+      "url": "https://www.ithome.com/1/015/225.htm",
+      "summary": "IT之家 10 月 20 日消息，曹操出行今日宣布，近日，曹操出行与吉利汽车等合作伙伴联合打造的中国首款原生开发 Robotaxi 首台工程样车正式下线，标志着项目正式进入量产级方案实车验证阶段。据介绍，该车型从产品开发之初即围绕 Robotaxi 无人化运营需求进行整车设计和工程开发，在整车架构、座舱体验、运营履约、安全保障以及全生命周期运营等方面进行系统性考量。按照规划，EvaCab 曹操出行定制版将于 2027 年量产。IT之家注意到，吉利控股集团安聪慧 9 月接受采访时曾表示，曹操出行将全面采用换电模式，正在开发的 Robotaxi 车型也将采用换电模式，该产品很快将会落地。今年 4 月，中国首款原生开发 Robotaxi 原型车吉利“Eva Cab”已正式亮相，量产后将以原生定制车型推进全球范围内的大规模商业化运营。",
+      "short_summary": "IT之家 10 月 20 日消息，曹操出行今日宣布，近日，曹操出行与吉利汽车等合作伙伴联合打造的中国首款原生开发 Rob",
+      "detail": "IT之家 10 月 20 日消息，曹操出行今日宣布，近日，曹操出行与吉利汽车等合作伙伴联合打造的中国首款原生开发 Robotaxi 首台工程样车正式下线，标志着项目正式进入量产级方案实车验证阶段。据介绍，该车型从产品开发之初即围绕 Robotaxi 无人化运营需求进行整车设计和工程开发，在整车架构、座舱体验、运营履约、安全保障以及全生命周期运营等方面进行系统性考量。按照规划，EvaCab 曹操出行定制版将于 2027 年量产。IT之家注意到，吉利控股集团安聪慧 9 月接受采访时曾表示，曹操出行将全面采用换电模式，正在开发的 Robotaxi 车型也将采用换电模式，该产品很快将会落地。今年 4 月，中国首款原生开发 Robotaxi 原型车吉利“Eva Cab”已正式亮相，量产后将以原生定制车型推进全球范围内的大规模商业化运营。",
       "source": "ITHome",
       "source_authority": 0.75,
       "date": "2026-10-20",
       "score": 0.785
-    },
-    {
-      "title": "小米米家扫拖机器人 7 Max 开售：50℃ 热水喷淋定点拖地，首销到手价 4999 元起",
-      "url": "https://www.ithome.com/1/015/182.htm",
-      "summary": "IT之家 10 月 20 日消息，小米米家扫拖机器人 7 Max 今日 10:00 正式开启预售，提供水箱版与薄嵌上下水版两个版本。IT之家附新品售价如下：水箱版：首销到手价 4999 元薄嵌上下水版：首销到手价 5299 元据小米官方介绍，米家扫拖机器人 7 Max 拥有米家目前最强的 6 cm 越障能力，可以轻松上台阶、翻越门槛，提升复杂家庭环境的清洁覆盖能力。这款产品采用三重机械臂贴边清洁设计，针对墙边、角落、家具边缘可实现毫米级贴边扫拖，解决常规扫地机器人边角清洁不到位的痛点。米家扫拖机器人 7 Max 内嵌 3D 面阵雷达，机身设计更薄，可以轻松进入床底、柜底等低矮空间进行清洁。产品配备创新边角清洁拖布机械臂，能够覆盖滚筒容易漏拖的桌椅边缘区域，进一步提升清洁覆盖率。吸力方面，这款产品拥有米家目前最强的 45000 Pa 吸力，支持 50℃ 热水喷淋功能，识别到厨房、卫生间场景会自动启动喷淋，更适合溶解顽固油污污渍，提升清洁效果；地面除菌率高达 99.99%，可以为家庭提供更健康的清洁效果。清洁过程中，米家扫拖机器人 7 Max 支持边拖地、边刮污水回收，始终保持干净拖布进行",
-      "short_summary": "IT之家 10 月 20 日消息，小米米家扫拖机器人 7 Max 今日 10:00 正式开启预售，提供水箱版与薄嵌上下水",
-      "detail": "IT之家 10 月 20 日消息，小米米家扫拖机器人 7 Max 今日 10:00 正式开启预售，提供水箱版与薄嵌上下水版两个版本。IT之家附新品售价如下：水箱版：首销到手价 4999 元薄嵌上下水版：首销到手价 5299 元据小米官方介绍，米家扫拖机器人 7 Max 拥有米家目前最强的 6 cm 越障能力，可以轻松上台阶、翻越门槛，提升复杂家庭环境的清洁覆盖能力。这款产品采用三重机械臂贴边清洁设计，针对墙边、角落、家具边缘可实现毫米级贴边扫拖，解决常规扫地机器人边角清洁不到位的痛点。米家扫拖机器人 7 Max 内嵌 3D 面阵雷达，机身设计更薄，可以轻松进入床底、柜底等低矮空间进行清洁。产品配备创新边角清洁拖布机械臂，能够覆盖滚筒容易漏拖的桌椅边缘区域，进一步提升清洁覆盖率。吸力方面，这款产品拥有米家目前最强的 45000 Pa 吸力，支持 50℃ 热水喷淋功能，识别到厨房、卫生间场景会自动启动喷淋，更适合溶解顽固油污污渍，提升清洁效果；地面除菌率高达 99.99%，可以为家庭提供更健康的清洁效果。清洁过程中，米家扫拖机器人 7 Max 支持边拖地、边刮污水回收，始终保持干净拖布进行",
-      "source": "ITHome",
-      "source_authority": 0.75,
-      "date": "2026-10-20",
-      "score": 0.755
     },
     {
       "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
@@ -413,17 +413,6 @@
       "source_authority": 0.85,
       "date": "2026-10-19",
       "score": 0.61
-    },
-    {
-      "title": "东风日产 NX7 官宣即将登场，号称“年轻人的智能零压 SUV”",
-      "url": "https://www.ithome.com/1/015/143.htm",
-      "summary": "IT之家 10 月 20 日消息，东风日产今日宣布，东风日产 NX7，年轻人的智能零压 SUV，即将登场。据IT之家此前报道，新车已在今年 8 月完成申报，尺寸为 4785×1932×1665mm，轴距 2815mm；搭载 40.9 度宁德时代电池；配备激光雷达，支持城市 NOA 功能。新车提供两套轮胎规格，拥有三款轮毂设计，兼顾外观质感、行驶静谧与能耗。东风日产官方表示，三款轮毂均经过空气动力学优化，可降低高速行驶风噪与风阻，改善能耗与续航。相关阅读：《东风日产 NX7 新车申报：插电式混合动力 SUV，轴距 2815 mm》",
-      "short_summary": "IT之家 10 月 20 日消息，东风日产今日宣布，东风日产 NX7，年轻人的智能零压 SUV，即将登场。据IT之家此前",
-      "detail": "IT之家 10 月 20 日消息，东风日产今日宣布，东风日产 NX7，年轻人的智能零压 SUV，即将登场。据IT之家此前报道，新车已在今年 8 月完成申报，尺寸为 4785×1932×1665mm，轴距 2815mm；搭载 40.9 度宁德时代电池；配备激光雷达，支持城市 NOA 功能。新车提供两套轮胎规格，拥有三款轮毂设计，兼顾外观质感、行驶静谧与能耗。东风日产官方表示，三款轮毂均经过空气动力学优化，可降低高速行驶风噪与风阻，改善能耗与续航。相关阅读：《东风日产 NX7 新车申报：插电式混合动力 SUV，轴距 2815 mm》",
-      "source": "ITHome",
-      "source_authority": 0.75,
-      "date": "2026-10-20",
-      "score": 0.6
     }
   ]
 }
