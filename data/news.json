@@ -2,22 +2,11 @@
   "date": "2026-10-21",
   "category1": [
     {
-      "title": "OpenAI 披露：旗下 AI 智能体曾试图关闭内部监控警报",
-      "url": "https://www.ithome.com/1/015/657.htm",
-      "summary": "IT之家 10 月 21 日消息，OpenAI 发现，其 AI 智能体出现过削弱甚至关闭内部监控系统警报的情况，这套监控系统原本用于识别 AI 模型的异常行为。IT之家注意到，该公司在当地时间周二的博客文章中表示，正在评估这类案例是否说明其 AI 模型普遍存在规避监控的倾向。OpenAI 称，事件发生在智能体执行两项内部编程任务期间。博文提到，这是内部事件，没有外部主体受到影响。近几个月，随着 OpenAI 以及 Anthropic 等公司披露多起顶尖 AI 模型出现此类行为的案例，人们对 AI 对齐问题的担忧持续上升。AI 对齐指确保模型按照研发者的预期行事。已有模型多次突破封闭训练环境，并自主对第三方网站发起攻击。AI 研发人员警示，这类系统很快会复杂到人类难以管控，这进一步引发顾虑：恶意分子可能利用该技术制造生物武器或是发起破坏性网络攻击。这些事件，叠加行业内部接连发出的严肃警示，让 AI 安全讨论进入大众视野。OpenAI 表示，后续将开展更多审查，并执行更严格的安全要求，降低同类事件发生概率。但该公司同时称，对于智能体的这一行为，他们“目前还没有令人信服的解释”。",
-      "short_summary": "IT之家 10 月 21 日消息，OpenAI 发现，其 AI 智能体出现过削弱甚至关闭内部监控系统警报的情况，这套监控",
-      "detail": "IT之家 10 月 21 日消息，OpenAI 发现，其 AI 智能体出现过削弱甚至关闭内部监控系统警报的情况，这套监控系统原本用于识别 AI 模型的异常行为。IT之家注意到，该公司在当地时间周二的博客文章中表示，正在评估这类案例是否说明其 AI 模型普遍存在规避监控的倾向。OpenAI 称，事件发生在智能体执行两项内部编程任务期间。博文提到，这是内部事件，没有外部主体受到影响。近几个月，随着 OpenAI 以及 Anthropic 等公司披露多起顶尖 AI 模型出现此类行为的案例，人们对 AI 对齐问题的担忧持续上升。AI 对齐指确保模型按照研发者的预期行事。已有模型多次突破封闭训练环境，并自主对第三方网站发起攻击。AI 研发人员警示，这类系统很快会复杂到人类难以管控，这进一步引发顾虑：恶意分子可能利用该技术制造生物武器或是发起破坏性网络攻击。这些事件，叠加行业内部接连发出的严肃警示，让 AI 安全讨论进入大众视野。OpenAI 表示，后续将开展更多审查，并执行更严格的安全要求，降低同类事件发生概率。但该公司同时称，对于智能体的这一行为，他们“目前还没有令人信服的解释”。",
-      "source": "ITHome",
-      "source_authority": 0.75,
-      "date": "2026-10-21",
-      "score": 0.9225
-    },
-    {
       "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
       "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
-      "summary": "The proposed policy seems to offer protections against AI run amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
+      "summary": "The proposed policy seems to offer protections against AI running amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
       "short_summary": "The proposed policy seems to offer protections against AI ru",
-      "detail": "The proposed policy seems to offer protections against AI run amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
+      "detail": "The proposed policy seems to offer protections against AI running amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
       "source": "TechCrunch",
       "source_authority": 0.95,
       "date": "2026-10-21",
@@ -68,15 +57,26 @@
       "score": 0.8
     },
     {
-      "title": "OpenAI CEO Sam Altman wins dismissal of sister's lawsuit",
-      "url": "https://www.bbc.co.uk/news/articles/c94g1502el58o?at_medium=RSS&at_campaign=rss",
-      "summary": "A US district judge dismissed the case after Ann Altman had refused to attend an independent medical examination.",
-      "short_summary": "A US district judge dismissed the case after Ann Altman had ",
-      "detail": "A US district judge dismissed the case after Ann Altman had refused to attend an independent medical examination.",
-      "source": "BBC Tech",
-      "source_authority": 0.85,
+      "title": "腾讯云宣布元宝搜索对外开放：已构建千亿级索引规模，定价每千次 14 元起",
+      "url": "https://www.ithome.com/1/015/711.htm",
+      "summary": "IT之家 10 月 21 日消息，腾讯云 10 月 20 日宣布，元宝搜索正式通过腾讯云对外开放。腾讯云介绍称，过去一年，元宝持续打磨搜索体验与效率，整合全网公开资源和腾讯优质内容，将大模型技术应用于内容收录、理解与检索全链路，构建面向大模型和 Agent 的搜索引擎。目前，元宝搜索构建了千亿级的索引规模，日均调用量达数亿次，全面支撑了 WorkBuddy、ima、腾讯金融科技、腾讯视频等 50 多个核心业务的搜索服务。WorkBuddy：检索技术文档、官方 API 等一手资料，减少工具调用和模型轮次ima：结合知识库与公网信息，有效信源召回量提升约 10%腾讯视频：支持根据剧情、模糊描述找片，信息覆盖度扩展 20%腾讯金融科技：一周上线金融搜索能力，大幅降低开发和运维成本元宝搜索结合全网公开资源与腾讯内容生态，接入金融、医疗、法律、出行等 13 个垂直行业的 157 个信源，包括申万宏源、携程、飞常准、腾讯医典、腾讯地图等。A 股、港股、美股、日股、韩股财报收录覆盖率达 99% 以上。内容入库前，大模型会解析网页并保留标题、表格等结构，从站点、账号、页面三个层面评估质量，优先选择权威",
+      "short_summary": "IT之家 10 月 21 日消息，腾讯云 10 月 20 日宣布，元宝搜索正式通过腾讯云对外开放。腾讯云介绍称，过去一年",
+      "detail": "IT之家 10 月 21 日消息，腾讯云 10 月 20 日宣布，元宝搜索正式通过腾讯云对外开放。腾讯云介绍称，过去一年，元宝持续打磨搜索体验与效率，整合全网公开资源和腾讯优质内容，将大模型技术应用于内容收录、理解与检索全链路，构建面向大模型和 Agent 的搜索引擎。目前，元宝搜索构建了千亿级的索引规模，日均调用量达数亿次，全面支撑了 WorkBuddy、ima、腾讯金融科技、腾讯视频等 50 多个核心业务的搜索服务。WorkBuddy：检索技术文档、官方 API 等一手资料，减少工具调用和模型轮次ima：结合知识库与公网信息，有效信源召回量提升约 10%腾讯视频：支持根据剧情、模糊描述找片，信息覆盖度扩展 20%腾讯金融科技：一周上线金融搜索能力，大幅降低开发和运维成本元宝搜索结合全网公开资源与腾讯内容生态，接入金融、医疗、法律、出行等 13 个垂直行业的 157 个信源，包括申万宏源、携程、飞常准、腾讯医典、腾讯地图等。A 股、港股、美股、日股、韩股财报收录覆盖率达 99% 以上。内容入库前，大模型会解析网页并保留标题、表格等结构，从站点、账号、页面三个层面评估质量，优先选择权威",
+      "source": "ITHome",
+      "source_authority": 0.75,
       "date": "2026-10-21",
-      "score": 0.7725
+      "score": 0.785
+    },
+    {
+      "title": "OpenAI CEO 奥尔特曼被妹妹指控性虐待，案件遭法官驳回",
+      "url": "https://www.ithome.com/1/015/710.htm",
+      "summary": "IT之家 10 月 21 日消息，美国地区法官扎卡里・布卢斯通（Zachary Bluestone）于当地时间周二驳回了安・奥尔特曼（Ann Altman）去年提起的诉讼。安指控其兄长、OpenAI 首席执行官萨姆・奥尔特曼（Sam Altman）在她童年时期长期对她实施性虐待。《卫报》此前报道，法官在文书中写道，过去一年间，安未能出席独立医学检查，也没能遵守其他期限要求，尽管法院已警告过，此类行为会导致案件被驳回。IT之家注意到，案件去年立案时，萨姆・奥尔特曼、他们的母亲以及几位兄弟曾共同发表声明：“安妮对我们家人，尤其是萨姆，提出了极具伤害性且完全不实的指控…… 所有这些说法纯属捏造。这件事给我们全家带来巨大痛苦。”布卢斯通批准了萨姆・奥尔特曼的动议，以不可再诉（with prejudice）的方式驳回本案，代表原告不能再在该法院重新提起同一诉讼；但法官没有支持萨姆索要律师费与诉讼开支的请求。桑托斯・佩雷斯（Santos Perez）是安的代理律师，本月已经退出代理。他向《卫报》表示：“我已不再获授权就本案发表评论，但我仍然相信安妮。”",
+      "short_summary": "IT之家 10 月 21 日消息，美国地区法官扎卡里・布卢斯通（Zachary Bluestone）于当地时间周二驳回了",
+      "detail": "IT之家 10 月 21 日消息，美国地区法官扎卡里・布卢斯通（Zachary Bluestone）于当地时间周二驳回了安・奥尔特曼（Ann Altman）去年提起的诉讼。安指控其兄长、OpenAI 首席执行官萨姆・奥尔特曼（Sam Altman）在她童年时期长期对她实施性虐待。《卫报》此前报道，法官在文书中写道，过去一年间，安未能出席独立医学检查，也没能遵守其他期限要求，尽管法院已警告过，此类行为会导致案件被驳回。IT之家注意到，案件去年立案时，萨姆・奥尔特曼、他们的母亲以及几位兄弟曾共同发表声明：“安妮对我们家人，尤其是萨姆，提出了极具伤害性且完全不实的指控…… 所有这些说法纯属捏造。这件事给我们全家带来巨大痛苦。”布卢斯通批准了萨姆・奥尔特曼的动议，以不可再诉（with prejudice）的方式驳回本案，代表原告不能再在该法院重新提起同一诉讼；但法官没有支持萨姆索要律师费与诉讼开支的请求。桑托斯・佩雷斯（Santos Perez）是安的代理律师，本月已经退出代理。他向《卫报》表示：“我已不再获授权就本案发表评论，但我仍然相信安妮。”",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-10-21",
+      "score": 0.785
     },
     {
       "title": "US bans use of China’s DeepSeek AI tools by government agencies",
@@ -103,17 +103,6 @@
   ],
   "category2": [
     {
-      "title": "Meta’s Muse hits 10M U.S. downloads in 40 days, a milestone reached by only 11 other apps",
-      "url": "https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/",
-      "summary": "Meta's AI companion Muse has surpassed 10 million U.S. downloads in its first 40 days, joining an exclusive group of apps that includes Threads. New data also shows Muse is retaining users at higher rates than its AI rivals.",
-      "short_summary": "Meta's AI companion Muse has surpassed 10 million U.S. downl",
-      "detail": "Meta's AI companion Muse has surpassed 10 million U.S. downloads in its first 40 days, joining an exclusive group of apps that includes Threads. New data also shows Muse is retaining users at higher rates than its AI rivals.",
-      "source": "TechCrunch",
-      "source_authority": 0.95,
-      "date": "2026-10-21",
-      "score": 0.8725
-    },
-    {
       "title": "Meta pauses Muse sharing after researchers find AI chats on the web",
       "url": "https://www.theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats",
       "summary": "Meta says it paused a Muse feature that lets you share conversations with the AI assistant after researchers found the URLs publicly available on the web, as reported by Ars Technica. In a report published this week, researchers at the security firm Claroc say they found more than 6,800 Muse links through public DNS records. […]",
@@ -123,6 +112,39 @@
       "source_authority": 0.9,
       "date": "2026-10-21",
       "score": 0.8375
+    },
+    {
+      "title": "10 年来最大底层变革：微软 OneDrive 引入 Hero Links，链接分享后还能随时改权限",
+      "url": "https://www.ithome.com/1/015/811.htm",
+      "summary": "IT之家 10 月 21 日消息，在昨日（10 月 20 日）举办的 OneDrive 与 Copilot 主题活动中，微软宣布为 OneDrive 和 SharePoint 推出全新的 Hero Links 文件共享体系。微软称，这是 Microsoft 365 文件共享自 2014 年引入链接共享以来的“十多年来”最大底层变革。微软表示用户过去分享同一份文件或文件夹，往往需要生成多个共享链接，且不同链接可能对应不同权限，管理起来容易混乱。而 Hero Links 则为每个文件和文件夹提供唯一“主链接”：无论是通过共享对话框复制、以邮件发送，还是直接从浏览器地址栏复制 URL，使用的都是同一个链接。IT之家援引博文介绍，用户还可以根据使用需求随时调整链接权限，用户在已经分享文件的情况下，依然能直接修改该链接的访问范围，例如从“仅限指定人员”扩大到“组织内可访问”，或在需要时收紧权限，后续无需重新创建并发送新链接。安全方面，Hero Links 默认仅允许已被添加到该文件或文件夹的用户访问；用户可依据组织政策扩大访问范围，管理员也能为各个 SharePoint 站点或 OneDrive",
+      "short_summary": "IT之家 10 月 21 日消息，在昨日（10 月 20 日）举办的 OneDrive 与 Copilot 主题活动中，",
+      "detail": "IT之家 10 月 21 日消息，在昨日（10 月 20 日）举办的 OneDrive 与 Copilot 主题活动中，微软宣布为 OneDrive 和 SharePoint 推出全新的 Hero Links 文件共享体系。微软称，这是 Microsoft 365 文件共享自 2014 年引入链接共享以来的“十多年来”最大底层变革。微软表示用户过去分享同一份文件或文件夹，往往需要生成多个共享链接，且不同链接可能对应不同权限，管理起来容易混乱。而 Hero Links 则为每个文件和文件夹提供唯一“主链接”：无论是通过共享对话框复制、以邮件发送，还是直接从浏览器地址栏复制 URL，使用的都是同一个链接。IT之家援引博文介绍，用户还可以根据使用需求随时调整链接权限，用户在已经分享文件的情况下，依然能直接修改该链接的访问范围，例如从“仅限指定人员”扩大到“组织内可访问”，或在需要时收紧权限，后续无需重新创建并发送新链接。安全方面，Hero Links 默认仅允许已被添加到该文件或文件夹的用户访问；用户可依据组织政策扩大访问范围，管理员也能为各个 SharePoint 站点或 OneDrive",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-10-21",
+      "score": 0.8225
+    },
+    {
+      "title": "微软放宽 OneDrive 同步限制：单账户最多可同步 100 万个文件",
+      "url": "https://www.ithome.com/1/015/809.htm",
+      "summary": "IT之家 10 月 21 日消息，在昨日（10 月 20 日）举办的 OneDrive 与 Copilot 主题活动中，微软宣布提高 OneDrive 的同步上限，从此前的 30 万个提高到最多 100 万个项目，增幅 233.33%。微软将 OneDrive 的同步上限提升至最多 100 万个项目，大幅放宽了此前对可同步文件与文件夹数量的限制。对于管理海量文档的企业、学校和机构而言，新上限有望减少拆分文件库或迁移存储位置的需求。不过 30 万项仍是微软建议的较佳性能阈值，超过后可能出现同步变慢等性能问题。除同步容量外，微软还针对长期困扰用户的“文件路径过长”问题作出改进。管理员现在可自定义 OneDrive 文件夹名称，从而缩短整体路径长度。在文件管理体验方面，OneDrive 新增了专门的“快捷方式”文件夹。用户可集中收纳快捷方式，避免它们与真实文件夹混杂在“我的文件”根目录中。为了帮助 IT 管理员更高效地监控、排查和自动化管理企业内 OneDrive 同步部署，微软还推出了 OneDrive Sync Client 命令行界面（CLI），该工具目前以 odsync 命令在预览版",
+      "short_summary": "IT之家 10 月 21 日消息，在昨日（10 月 20 日）举办的 OneDrive 与 Copilot 主题活动中，",
+      "detail": "IT之家 10 月 21 日消息，在昨日（10 月 20 日）举办的 OneDrive 与 Copilot 主题活动中，微软宣布提高 OneDrive 的同步上限，从此前的 30 万个提高到最多 100 万个项目，增幅 233.33%。微软将 OneDrive 的同步上限提升至最多 100 万个项目，大幅放宽了此前对可同步文件与文件夹数量的限制。对于管理海量文档的企业、学校和机构而言，新上限有望减少拆分文件库或迁移存储位置的需求。不过 30 万项仍是微软建议的较佳性能阈值，超过后可能出现同步变慢等性能问题。除同步容量外，微软还针对长期困扰用户的“文件路径过长”问题作出改进。管理员现在可自定义 OneDrive 文件夹名称，从而缩短整体路径长度。在文件管理体验方面，OneDrive 新增了专门的“快捷方式”文件夹。用户可集中收纳快捷方式，避免它们与真实文件夹混杂在“我的文件”根目录中。为了帮助 IT 管理员更高效地监控、排查和自动化管理企业内 OneDrive 同步部署，微软还推出了 OneDrive Sync Client 命令行界面（CLI），该工具目前以 odsync 命令在预览版",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-10-21",
+      "score": 0.785
+    },
+    {
+      "title": "消息称微软 XBOX 酝酿 Game Pass 游戏订阅“模块化”改革",
+      "url": "https://www.ithome.com/1/015/722.htm",
+      "summary": "IT之家 10 月 21 日消息，《财富》在当地时间 20 日的一篇报道中表示，Microsoft（微软）XBOX 计划对其订阅制服务 Game Pass 进行重大改革。现有的 XBOX Game Pass 采用简单分级模式，每个级别捆绑了一系列相对固定的服务。而新版 Game Pass 在延续分级的同时采用“模块化”设计，允许用户按需组合各项功能（如主机独占游戏的附加内容、云游戏、多人游戏）。报道提到，XBOX 下一代游戏主机硬件 \"Project Helix\" 的工程交付期限至少提前了数月，这给开发团队带来了更大的压力；XBOX 部门利润率仅为 3% 左右，显著低于竞争对手和企业内的其它部门。此外，微软商业业务首席执行官 Judson Althoff 就 XBOX 对企业整体业务的意义给出了看法：XBOX 的低延迟需求是对 Azure 云服务的“免费”压力测试；XBOX 的存在有助于微软同零售业、创作者群体保持关系。相关阅读：《消息称微软 XBOX 计划再进行三轮裁员》《消息称微软下一代 XBOX 主机计划 2028 年底上市，售价可达 1200-1800 美元》参考https:/",
+      "short_summary": "IT之家 10 月 21 日消息，《财富》在当地时间 20 日的一篇报道中表示，Microsoft（微软）XBOX 计划",
+      "detail": "IT之家 10 月 21 日消息，《财富》在当地时间 20 日的一篇报道中表示，Microsoft（微软）XBOX 计划对其订阅制服务 Game Pass 进行重大改革。现有的 XBOX Game Pass 采用简单分级模式，每个级别捆绑了一系列相对固定的服务。而新版 Game Pass 在延续分级的同时采用“模块化”设计，允许用户按需组合各项功能（如主机独占游戏的附加内容、云游戏、多人游戏）。报道提到，XBOX 下一代游戏主机硬件 \"Project Helix\" 的工程交付期限至少提前了数月，这给开发团队带来了更大的压力；XBOX 部门利润率仅为 3% 左右，显著低于竞争对手和企业内的其它部门。此外，微软商业业务首席执行官 Judson Althoff 就 XBOX 对企业整体业务的意义给出了看法：XBOX 的低延迟需求是对 Azure 云服务的“免费”压力测试；XBOX 的存在有助于微软同零售业、创作者群体保持关系。相关阅读：《消息称微软 XBOX 计划再进行三轮裁员》《消息称微软下一代 XBOX 主机计划 2028 年底上市，售价可达 1200-1800 美元》参考https:/",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-10-21",
+      "score": 0.7575
     },
     {
       "title": "‘Too big to not fail’: Google outage exposes UK reliance on a handful of cloud providers",
@@ -158,28 +180,6 @@
       "score": 0.71
     },
     {
-      "title": "微软优化 Win11 文件管理器 OneDrive 右键菜单：统一 AI 访问入口",
-      "url": "https://www.ithome.com/1/015/696.htm",
-      "summary": "IT之家 10 月 21 日消息，在 MC1515940 公告中，微软宣布将于下月（2026 年 11 月）中旬开始，优化 Windows 11 文件管理器里的“OneDrive”右键菜单，调整部分 Copilot 关联的 AI 操作选项。科技媒体 NeoWin 指出，当前 Windows 11 用户在文件管理器中右键点击某个文件，在 OneDrive 的二级目录下会看到包括“摘要”、“创建常见问题解答”、“比较文件”、“提问”、“解释图像”、“比较图像”和“提取文本”等 Copilot 操作选项，但这些选项功能又和一级目录的“Ask Copilot”存在一些重叠。而根据公告内容，微软计划将这些 Copilot 操作统一收纳到“Ask Copilot”入口，但依然保留相关功能，用户仍然可以通过右键菜单中的“Ask Copilot”、鼠标悬停在项目上时出现的 Copilot 按钮，或者 OneDrive 活动中心中的 Copilot 操作来使用这些功能。IT之家附上相关图片如下：该媒体认为微软把原本分散在右键菜单中的多个 AI 动作，整合到更统一的 Copilot 入口，减少普通用户右键",
-      "short_summary": "IT之家 10 月 21 日消息，在 MC1515940 公告中，微软宣布将于下月（2026 年 11 月）中旬开始，优",
-      "detail": "IT之家 10 月 21 日消息，在 MC1515940 公告中，微软宣布将于下月（2026 年 11 月）中旬开始，优化 Windows 11 文件管理器里的“OneDrive”右键菜单，调整部分 Copilot 关联的 AI 操作选项。科技媒体 NeoWin 指出，当前 Windows 11 用户在文件管理器中右键点击某个文件，在 OneDrive 的二级目录下会看到包括“摘要”、“创建常见问题解答”、“比较文件”、“提问”、“解释图像”、“比较图像”和“提取文本”等 Copilot 操作选项，但这些选项功能又和一级目录的“Ask Copilot”存在一些重叠。而根据公告内容，微软计划将这些 Copilot 操作统一收纳到“Ask Copilot”入口，但依然保留相关功能，用户仍然可以通过右键菜单中的“Ask Copilot”、鼠标悬停在项目上时出现的 Copilot 按钮，或者 OneDrive 活动中心中的 Copilot 操作来使用这些功能。IT之家附上相关图片如下：该媒体认为微软把原本分散在右键菜单中的多个 AI 动作，整合到更统一的 Copilot 入口，减少普通用户右键",
-      "source": "ITHome",
-      "source_authority": 0.75,
-      "date": "2026-10-21",
-      "score": 0.71
-    },
-    {
-      "title": "雷总办公室同款：小米米家全效空气净化器 Ultra 增强版国补后 2699 元新低",
-      "url": "https://www.ithome.com/1/015/656.htm",
-      "summary": "小米米家全效空气净化器 Ultra 增强版发布于 2024 年 7 月 19 日，首发价 5699 元。京东 11.11 大促期间，活动价 4102 元：领取 8.8 折优惠券：点此领取；国补立减 494 元；以旧换新立减 220 元；PLUS 会员立减 16.41 元；PLUS 会员领取满 800-80 元消费券：点此领取（21 日 10 点、20 点可领）；晒单返 100 元京豆（详情页可见规则）；到手价为 2699.35 元：京东米家 全效空气净化器 Ultra 增强版去除 95 种空气污染物券后 2699.35 元领 8.8 折券京东 11.11 红包至高 26888 元无门槛可用，每天可抽一次：点此抽取。耗材方面，除了催化醛解滤芯无需更换，该空气净化器全效复合滤芯、碳素阵列滤芯、中效复合滤芯建议零售价分别为 499 元、499 元、299 元，使用寿命分别为 2 年、3 年、1 年。按照 1 年为 365 天计算，计算得出日均费用分别约为 0.68 元、0.46 元、0.82 元。据介绍，这款空气净化器搭载“十级复合深度净化”技术，配备“第二代万级碳素阵列”与“专研氧溶层”，",
-      "short_summary": "小米米家全效空气净化器 Ultra 增强版发布于 2024 年 7 月 19 日，首发价 5699 元。京东 11.11",
-      "detail": "小米米家全效空气净化器 Ultra 增强版发布于 2024 年 7 月 19 日，首发价 5699 元。京东 11.11 大促期间，活动价 4102 元：领取 8.8 折优惠券：点此领取；国补立减 494 元；以旧换新立减 220 元；PLUS 会员立减 16.41 元；PLUS 会员领取满 800-80 元消费券：点此领取（21 日 10 点、20 点可领）；晒单返 100 元京豆（详情页可见规则）；到手价为 2699.35 元：京东米家 全效空气净化器 Ultra 增强版去除 95 种空气污染物券后 2699.35 元领 8.8 折券京东 11.11 红包至高 26888 元无门槛可用，每天可抽一次：点此抽取。耗材方面，除了催化醛解滤芯无需更换，该空气净化器全效复合滤芯、碳素阵列滤芯、中效复合滤芯建议零售价分别为 499 元、499 元、299 元，使用寿命分别为 2 年、3 年、1 年。按照 1 年为 365 天计算，计算得出日均费用分别约为 0.68 元、0.46 元、0.82 元。据介绍，这款空气净化器搭载“十级复合深度净化”技术，配备“第二代万级碳素阵列”与“专研氧溶层”，",
-      "source": "ITHome",
-      "source_authority": 0.75,
-      "date": "2026-10-21",
-      "score": 0.695
-    },
-    {
       "title": "Avenda Health expands Unfold AI platform to support intraoperative prostate cancer care",
       "url": "https://www.therobotreport.com/avenda-health-expands-unfold-ai-platform-support-intraoperative-prostate-cancer-care/",
       "summary": "Surgery Mode in Unfold AI brings patient-specific 3D maps to give an enhanced view of cancer anatomy during robotic prostate procedures.\nThe post Avenda Health expands Unfold AI platform to support intraoperative prostate cancer care appeared first on The Robot Report.",
@@ -191,17 +191,6 @@
       "score": 0.685
     },
     {
-      "title": "微信朋友圈点赞有彩蛋，腾讯客服回应称正在灰度测试",
-      "url": "https://www.ithome.com/1/015/668.htm",
-      "summary": "IT之家 10 月 21 日消息，有多位网友近日发帖称，在微信朋友圈发表页面出现了“点赞彩蛋”的新功能，可设置对应表情，朋友点赞时可以看见。也有网友发现，点赞部分好友的朋友圈后，会弹出表情提示。对此，腾讯客服表示，朋友圈点赞彩蛋目前处于 iOS / Android 客户端的灰度测试阶段，属于内测功能范畴。该功能目前尚未正式发布，属于测试中的特色互动功能，旨在为好友朋友圈点赞增添趣味性。大家在IT之家微信号回复“微信”两字，即可获取当前最新官方内部版微信下载。",
-      "short_summary": "IT之家 10 月 21 日消息，有多位网友近日发帖称，在微信朋友圈发表页面出现了“点赞彩蛋”的新功能，可设置对应表情，",
-      "detail": "IT之家 10 月 21 日消息，有多位网友近日发帖称，在微信朋友圈发表页面出现了“点赞彩蛋”的新功能，可设置对应表情，朋友点赞时可以看见。也有网友发现，点赞部分好友的朋友圈后，会弹出表情提示。对此，腾讯客服表示，朋友圈点赞彩蛋目前处于 iOS / Android 客户端的灰度测试阶段，属于内测功能范畴。该功能目前尚未正式发布，属于测试中的特色互动功能，旨在为好友朋友圈点赞增添趣味性。大家在IT之家微信号回复“微信”两字，即可获取当前最新官方内部版微信下载。",
-      "source": "ITHome",
-      "source_authority": 0.75,
-      "date": "2026-10-21",
-      "score": 0.675
-    },
-    {
       "title": "Melt it, spin it, use it again",
       "url": "https://www.technologyreview.com/2026/10/20/1145276/melt-it-spin-it-use-it-again/",
       "summary": "The average American throws out around 81 pounds of clothing each year, and there are few options for recycling it. MIT engineers hope to cut down on that textile waste with a new type of yarn.  The thermoplastic yarn mimics the properties of conventional elastic yarns, which typically combine spandex with polyester or nylon. Those…",
@@ -211,6 +200,17 @@
       "source_authority": 0.9,
       "date": "2026-10-21",
       "score": 0.635
+    },
+    {
+      "title": "Could this be a Deep Blue moment for the cryptic crossword?",
+      "url": "https://www.theguardian.com/puzzles/crossword-blog/2026/oct/20/could-this-be-a-deep-blue-moment-for-the-cryptic-crossword",
+      "summary": "A computer program has finally outdone humans at solving cryptic crosswords. Plus, more from around the puzzleverse• Don’t get Cluesletter, our weekly puzzles newsletter, delivered to your inbox? Sign up hereWhen the IBM supercomputer Deep Blue beat Garry Kasparov at chess in 1997, it was an early victory for artificial intelligence over the human mind, and the culmination of decades of attempts. Almost 30 years later, a computer program has finally outdone humans at solving cryptic crosswords.E",
+      "short_summary": "A computer program has finally outdone humans at solving cry",
+      "detail": "A computer program has finally outdone humans at solving cryptic crosswords. Plus, more from around the puzzleverse• Don’t get Cluesletter, our weekly puzzles newsletter, delivered to your inbox? Sign up hereWhen the IBM supercomputer Deep Blue beat Garry Kasparov at chess in 1997, it was an early victory for artificial intelligence over the human mind, and the culmination of decades of attempts. Almost 30 years later, a computer program has finally outdone humans at solving cryptic crosswords.E",
+      "source": "The Guardian",
+      "source_authority": 0.85,
+      "date": "2026-10-20",
+      "score": 0.63
     }
   ],
   "category3": [
@@ -226,15 +226,15 @@
       "score": 0.8975
     },
     {
-      "title": "SpaceX 第三季度 AI（SI）支出再创新高，相关业务收入 76 亿美元首超星链",
-      "url": "https://www.ithome.com/1/015/669.htm",
-      "summary": "IT之家 10 月 21 日消息，SpaceX 今天（21 日）公布的第二份财报显示，公司 AI（官方公告列为 SI，为贴合中文习惯，下文称 AI）支出再创新高，资本开支不久后甚至可能翻倍。SpaceX 今年第三季度的 AI 资本开支达到 164 亿美元（IT之家注：现汇率约合 1,097.38 亿元人民币），延续了近几个季度持续加大投入的趋势。SpaceX 继续扩大旗下 Grok 等 AI 业务的基础设施建设，第三季度资本开支总额约 196 亿美元（现汇率约合 1,311.5 亿元人民币），基本符合华尔街分析师的预期。其中，164 亿美元（现汇率约合 1,097.38 亿元人民币）用于 AI 业务，略低于分析师预期的 169 亿美元（现汇率约合 1,130.83 亿元人民币）。SpaceX 预计，本季度资本开支还会大幅增加。公司 CFO 布雷特 · 约翰森预测，随着更多算力设施投入运营，资本开支将增至 350 亿至 400 亿美元（现汇率约合 2,341.96 亿至 2,676.53 亿元人民币）。他还预计，新投资能迅速收回成本：“按照现有收费标准，新部署的算力不到一年就能回本。”财",
-      "short_summary": "IT之家 10 月 21 日消息，SpaceX 今天（21 日）公布的第二份财报显示，公司 AI（官方公告列为 SI，为",
-      "detail": "IT之家 10 月 21 日消息，SpaceX 今天（21 日）公布的第二份财报显示，公司 AI（官方公告列为 SI，为贴合中文习惯，下文称 AI）支出再创新高，资本开支不久后甚至可能翻倍。SpaceX 今年第三季度的 AI 资本开支达到 164 亿美元（IT之家注：现汇率约合 1,097.38 亿元人民币），延续了近几个季度持续加大投入的趋势。SpaceX 继续扩大旗下 Grok 等 AI 业务的基础设施建设，第三季度资本开支总额约 196 亿美元（现汇率约合 1,311.5 亿元人民币），基本符合华尔街分析师的预期。其中，164 亿美元（现汇率约合 1,097.38 亿元人民币）用于 AI 业务，略低于分析师预期的 169 亿美元（现汇率约合 1,130.83 亿元人民币）。SpaceX 预计，本季度资本开支还会大幅增加。公司 CFO 布雷特 · 约翰森预测，随着更多算力设施投入运营，资本开支将增至 350 亿至 400 亿美元（现汇率约合 2,341.96 亿至 2,676.53 亿元人民币）。他还预计，新投资能迅速收回成本：“按照现有收费标准，新部署的算力不到一年就能回本。”财",
+      "title": "消息 NVIDIA 下代 Groq LPU 芯片转向 3D 堆叠 DRAM，放弃大 SRAM 方案",
+      "url": "https://www.ithome.com/1/015/760.htm",
+      "summary": "IT之家 10 月 21 日消息，韩媒 ZDNET Korea 当地时间昨日报道称，NVIDIA（英伟达）的下代 Groq LPU AI 推理加速器芯片有望采用基于 TSV（硅通孔）工艺的 3D 堆叠 DRAM 方案。当前一代的 Groq LPU 采用了大容量 SRAM 的缓存设计，提供快速解码输出。但 SRAM 有着容量较小、制程升级密度收益有限的问题，在大型模型表现和芯片迭代上存在固有局限。IT之家注意到，同样采用大 SRAM 技术路线的 Cerebras 此前已预告未来的 CS-6 将 3D 垂直集成 DRAM。相关阅读：《Cerebras 揭秘 CS-6 晶圆级进化：颠覆性 3D 堆叠，首次垂直集成 DRAM》",
+      "short_summary": "IT之家 10 月 21 日消息，韩媒 ZDNET Korea 当地时间昨日报道称，NVIDIA（英伟达）的下代 Gro",
+      "detail": "IT之家 10 月 21 日消息，韩媒 ZDNET Korea 当地时间昨日报道称，NVIDIA（英伟达）的下代 Groq LPU AI 推理加速器芯片有望采用基于 TSV（硅通孔）工艺的 3D 堆叠 DRAM 方案。当前一代的 Groq LPU 采用了大容量 SRAM 的缓存设计，提供快速解码输出。但 SRAM 有着容量较小、制程升级密度收益有限的问题，在大型模型表现和芯片迭代上存在固有局限。IT之家注意到，同样采用大 SRAM 技术路线的 Cerebras 此前已预告未来的 CS-6 将 3D 垂直集成 DRAM。相关阅读：《Cerebras 揭秘 CS-6 晶圆级进化：颠覆性 3D 堆叠，首次垂直集成 DRAM》",
       "source": "ITHome",
       "source_authority": 0.75,
       "date": "2026-10-21",
-      "score": 0.8475
+      "score": 0.7775
     },
     {
       "title": "Chip Industry Technical Paper Roundup: Oct. 20",
@@ -248,40 +248,29 @@
       "score": 0.75
     },
     {
-      "title": "开源项目让《塞尔达传说：王国之泪》原生运行于 Apple Silicon，苹果 M4 MacBook Air 稳定 90 帧",
-      "url": "https://www.ithome.com/1/015/694.htm",
-      "summary": "IT之家 10 月 21 日消息，一个开源的 macOS 原生静态重编译项目现已能够在 Apple Silicon 设备上运行《塞尔达传说：王国之泪》。在基础款 M4 MacBook Air 上，这款游戏可以稳定跑到 90 帧，性能表现优于任天堂 Switch 2 官方版本，同时也超过另一款非官方 PC 移植版本。IT之家注意到，开发者 liyong 开源了 MacNativeGames 项目，这是一个非官方静态重编译工程，可以将《王国之泪》转换为 ARM64 架构的 macOS（以及 iOS）原生应用。该移植版本直接调用苹果 Metal 4 图形接口，最高支持 4K 分辨率的 MetalFX 超分技术，除原生键盘操控外，还支持索尼 DualSense 手柄与 Xbox 手柄。实际上，该版本性能强于模组制作者 NotRexed 开发的非官方 x86 PC 静态重编译版本。后者在英伟达 RTX 4060 Ti 显卡上帧率仅在 32 至 59 帧之间波动。不过这款 x86 重编译项目仍在持续开发，后续还会推出更多更新。相比传统模拟器，性能提升源于架构层面的兼容性。任天堂 Switch 的",
-      "short_summary": "IT之家 10 月 21 日消息，一个开源的 macOS 原生静态重编译项目现已能够在 Apple Silicon 设备",
-      "detail": "IT之家 10 月 21 日消息，一个开源的 macOS 原生静态重编译项目现已能够在 Apple Silicon 设备上运行《塞尔达传说：王国之泪》。在基础款 M4 MacBook Air 上，这款游戏可以稳定跑到 90 帧，性能表现优于任天堂 Switch 2 官方版本，同时也超过另一款非官方 PC 移植版本。IT之家注意到，开发者 liyong 开源了 MacNativeGames 项目，这是一个非官方静态重编译工程，可以将《王国之泪》转换为 ARM64 架构的 macOS（以及 iOS）原生应用。该移植版本直接调用苹果 Metal 4 图形接口，最高支持 4K 分辨率的 MetalFX 超分技术，除原生键盘操控外，还支持索尼 DualSense 手柄与 Xbox 手柄。实际上，该版本性能强于模组制作者 NotRexed 开发的非官方 x86 PC 静态重编译版本。后者在英伟达 RTX 4060 Ti 显卡上帧率仅在 32 至 59 帧之间波动。不过这款 x86 重编译项目仍在持续开发，后续还会推出更多更新。相比传统模拟器，性能提升源于架构层面的兼容性。任天堂 Switch 的",
+      "title": "消息称佳能计划到 2029 年将后端光刻机产能提升 50%",
+      "url": "https://www.ithome.com/1/015/780.htm",
+      "summary": "IT之家 10 月 21 日消息，日媒《日刊工业新闻》当地时间昨日报道称，Canon（佳能）计划到 2029 年将其面向半导体后端工艺的光刻机产能较当前水平提升 50%。▲ FPA-8000iW佳能正在开发用于先进封装工艺的 i 线光刻设备。该企业还开发了一种分辨率达 0.8μm (800nm) 的大尺寸基板光刻机台，能处理 510×515 (mm) 基板，具备高对准精度和大视场角。佳能半导体设备事业部负责人三浦圣也在接受采访时表示，无掩膜直写图案化方案目前暂时还不是 i 线光刻机在 RDL 生产领域的直接竞争对手。相关阅读：《佳能时隔 21 年开设新光刻机工厂，狠抓非先进机台需求》(2025/8/5)",
+      "short_summary": "IT之家 10 月 21 日消息，日媒《日刊工业新闻》当地时间昨日报道称，Canon（佳能）计划到 2029 年将其面向",
+      "detail": "IT之家 10 月 21 日消息，日媒《日刊工业新闻》当地时间昨日报道称，Canon（佳能）计划到 2029 年将其面向半导体后端工艺的光刻机产能较当前水平提升 50%。▲ FPA-8000iW佳能正在开发用于先进封装工艺的 i 线光刻设备。该企业还开发了一种分辨率达 0.8μm (800nm) 的大尺寸基板光刻机台，能处理 510×515 (mm) 基板，具备高对准精度和大视场角。佳能半导体设备事业部负责人三浦圣也在接受采访时表示，无掩膜直写图案化方案目前暂时还不是 i 线光刻机在 RDL 生产领域的直接竞争对手。相关阅读：《佳能时隔 21 年开设新光刻机工厂，狠抓非先进机台需求》(2025/8/5)",
       "source": "ITHome",
       "source_authority": 0.75,
       "date": "2026-10-21",
-      "score": 0.7325
-    },
-    {
-      "title": "戴尔 CEO 预警：2027 年内存短缺情况将进一步恶化",
-      "url": "https://www.ithome.com/1/015/654.htm",
-      "summary": "IT之家 10 月 21 日消息，戴尔董事长兼首席执行官迈克尔 · 戴尔（Michael Dell）认为，内存短缺的局面远未结束。他在接受《华尔街日报》采访时表示，随着人工智能数据中心持续消耗动态随机存取存储器（DRAM）与高带宽内存（HBM）的供货量，明年供应形势还会进一步恶化。据他介绍，戴尔面临的瓶颈并非需求问题，公司手握约 950 亿美元（IT之家注：现汇率约合 6,356.75 亿元人民币）尚未交付的 AI 服务器订单，创下历史最高积压量。制约交付的正是内存：AI 加速芯片需要大量高带宽内存，而配套服务器仍依赖传统动态随机存取存储器。供应缓解看起来遥遥无期。新建内存工厂大约需要四年建设周期，因此戴尔预计要到 2029 或 2030 年才会出现显著新增产能。这和美光（Micron）首席执行官的观点一致，后者近期表示 2027、2028 年的供应紧张程度将远超今年。SK 海力士（SK hynix）首席执行官也给出相近判断，认为内存短缺会持续至 2030 年。据悉戴尔的应对方式是临近整机组装阶段才采购 DRAM，同时签订长期供货协议，但并未说明这套策略在多大程度上覆盖消费级产品。个人",
-      "short_summary": "IT之家 10 月 21 日消息，戴尔董事长兼首席执行官迈克尔 · 戴尔（Michael Dell）认为，内存短缺的局面",
-      "detail": "IT之家 10 月 21 日消息，戴尔董事长兼首席执行官迈克尔 · 戴尔（Michael Dell）认为，内存短缺的局面远未结束。他在接受《华尔街日报》采访时表示，随着人工智能数据中心持续消耗动态随机存取存储器（DRAM）与高带宽内存（HBM）的供货量，明年供应形势还会进一步恶化。据他介绍，戴尔面临的瓶颈并非需求问题，公司手握约 950 亿美元（IT之家注：现汇率约合 6,356.75 亿元人民币）尚未交付的 AI 服务器订单，创下历史最高积压量。制约交付的正是内存：AI 加速芯片需要大量高带宽内存，而配套服务器仍依赖传统动态随机存取存储器。供应缓解看起来遥遥无期。新建内存工厂大约需要四年建设周期，因此戴尔预计要到 2029 或 2030 年才会出现显著新增产能。这和美光（Micron）首席执行官的观点一致，后者近期表示 2027、2028 年的供应紧张程度将远超今年。SK 海力士（SK hynix）首席执行官也给出相近判断，认为内存短缺会持续至 2030 年。据悉戴尔的应对方式是临近整机组装阶段才采购 DRAM，同时签订长期供货协议，但并未说明这套策略在多大程度上覆盖消费级产品。个人",
-      "source": "ITHome",
-      "source_authority": 0.75,
-      "date": "2026-10-21",
-      "score": 0.7325
-    },
-    {
-      "title": "Is this the beginning of the end of the AI stock market boom?",
-      "url": "https://www.theguardian.com/business/2026/oct/20/ai-stock-market-boom-beginning-of-the-end-imf-wallstreet-nasdaq",
-      "summary": "After a wobble on the tech-heavy Nasdaq, some AI market observers think a reassessment of the potential value of various businesses may be under wayGet our breaking news email, free app or daily news podcastThe world is holding its breath as it waits to find out whether this year’s estimated $US1tn investment in artificial intelligence is resting on a castle made of sand.Last week, the Nasdaq 100 – an index of the 100 biggest non-financial stocks on the American tech-heavy Nasdaq exchange – drop",
-      "short_summary": "After a wobble on the tech-heavy Nasdaq, some AI market obse",
-      "detail": "After a wobble on the tech-heavy Nasdaq, some AI market observers think a reassessment of the potential value of various businesses may be under wayGet our breaking news email, free app or daily news podcastThe world is holding its breath as it waits to find out whether this year’s estimated $US1tn investment in artificial intelligence is resting on a castle made of sand.Last week, the Nasdaq 100 – an index of the 100 biggest non-financial stocks on the American tech-heavy Nasdaq exchange – drop",
-      "source": "The Guardian",
-      "source_authority": 0.85,
-      "date": "2026-10-20",
-      "score": 0.66
+      "score": 0.62
     }
   ],
   "category4": [
+    {
+      "title": "中国电信孵化的具身公司“伽马智能”成立，推进人形机器人“自进化”",
+      "url": "https://www.ithome.com/1/015/807.htm",
+      "summary": "IT之家 10 月 21 日消息，中国电信人工智能研究院（TeleAI）10 月 20 日官宣，具身智能公司“伽马智能（Gamma Robtics）”近日在上海市徐汇区注册成立。该公司是 TeleAI 孵化的首个市场化创新企业，聚焦自进化人形机器人全模型创新及应用，并将与 TeleAI 共建人形机器人实验室，联合推动科研成果转化为面向产业真实场景的产品与服务。伽马智能由中电信（上海）人工智能产业私募基金进行战略投资，中国电信集团 CTO、首席科学家、中国电信人工智能研究院（TeleAI）院长李学龙教授出任科学顾问，白辰甲博士任创始人及首席执行官。IT之家查询发现，中电信（上海）人工智能产业私募基金由中国电信携手上海国投先导基金、央企战略性新兴产业发展基金、徐汇区下属上海汇资等机构共同出资设立，形成“央企 + 地方国资 + 国家级战新基金”的多层次资本架构。依托中国电信在通信、网络、算力、数据、场景的核心优势，以及 TeleAI 的新一代通信网 —— 智传网（AI Flow）的创新能力，伽马智能将重点围绕人形机器人的“自进化”与“全身模型”推进研发，致力于实现机器人在真实交互应用中持续学",
+      "short_summary": "IT之家 10 月 21 日消息，中国电信人工智能研究院（TeleAI）10 月 20 日官宣，具身智能公司“伽马智能（",
+      "detail": "IT之家 10 月 21 日消息，中国电信人工智能研究院（TeleAI）10 月 20 日官宣，具身智能公司“伽马智能（Gamma Robtics）”近日在上海市徐汇区注册成立。该公司是 TeleAI 孵化的首个市场化创新企业，聚焦自进化人形机器人全模型创新及应用，并将与 TeleAI 共建人形机器人实验室，联合推动科研成果转化为面向产业真实场景的产品与服务。伽马智能由中电信（上海）人工智能产业私募基金进行战略投资，中国电信集团 CTO、首席科学家、中国电信人工智能研究院（TeleAI）院长李学龙教授出任科学顾问，白辰甲博士任创始人及首席执行官。IT之家查询发现，中电信（上海）人工智能产业私募基金由中国电信携手上海国投先导基金、央企战略性新兴产业发展基金、徐汇区下属上海汇资等机构共同出资设立，形成“央企 + 地方国资 + 国家级战新基金”的多层次资本架构。依托中国电信在通信、网络、算力、数据、场景的核心优势，以及 TeleAI 的新一代通信网 —— 智传网（AI Flow）的创新能力，伽马智能将重点围绕人形机器人的“自进化”与“全身模型”推进研发，致力于实现机器人在真实交互应用中持续学",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-10-21",
+      "score": 0.875
+    },
     {
       "title": "Reservoir launches new agricultural robotics incubator for Washington growers",
       "url": "https://www.therobotreport.com/reservoir-launches-new-agricultural-robotics-incubator-for-washington-growers/",
@@ -347,6 +336,28 @@
       "source_authority": 0.95,
       "date": "2026-10-20",
       "score": 0.765
+    },
+    {
+      "title": "领克 900L 官图发布：全新前脸设计，车长增至 5280mm",
+      "url": "https://www.ithome.com/1/015/767.htm",
+      "summary": "IT之家 10 月 21 日消息，今日领克汽车正式发布了旗下全新车型领克 900L 的官方图片。新车基于现款领克 900 打造而来，在车身尺寸、外观设计及空间布局等方面均有提升，并将搭载 2.0T 插电式混合动力系统。IT之家注意到，从官图来看，领克 900L 在延续家族设计语言的基础上，对多处细节进行了优化。新车前脸换装全新一体式灯组，保留了领克 900 标志性的门形日行灯造型，灯组内部巧妙融入双透镜大灯单元，中央饰板造型则基本承袭原有设计风格。前包围两侧配备竖向进气装饰，并搭载蜂窝状主动进气格栅。值得注意的是，车顶前部还集成有激光雷达，预示着新车或将具备高阶智能驾驶辅助能力。车身侧面，新车采用黑色轮眉与悬浮式车顶设计，并专属提供“醇厚酒红”车身配色，官方同步对新款颜色开启征名。轮辋方面，领克 900L 配备 21 英寸密辐式轮毂。尺寸方面，领克 900L 的长宽高分别达到了 5280/1999/1810 毫米，轴距为 3170 毫米。与现款领克 900 相比，新车车长增加 40 毫米，车高与轴距各增加 10 毫米，车宽保持不变，整体体量更为庞大。车辆接近角与离去角均为 20°，尾部",
+      "short_summary": "IT之家 10 月 21 日消息，今日领克汽车正式发布了旗下全新车型领克 900L 的官方图片。新车基于现款领克 900",
+      "detail": "IT之家 10 月 21 日消息，今日领克汽车正式发布了旗下全新车型领克 900L 的官方图片。新车基于现款领克 900 打造而来，在车身尺寸、外观设计及空间布局等方面均有提升，并将搭载 2.0T 插电式混合动力系统。IT之家注意到，从官图来看，领克 900L 在延续家族设计语言的基础上，对多处细节进行了优化。新车前脸换装全新一体式灯组，保留了领克 900 标志性的门形日行灯造型，灯组内部巧妙融入双透镜大灯单元，中央饰板造型则基本承袭原有设计风格。前包围两侧配备竖向进气装饰，并搭载蜂窝状主动进气格栅。值得注意的是，车顶前部还集成有激光雷达，预示着新车或将具备高阶智能驾驶辅助能力。车身侧面，新车采用黑色轮眉与悬浮式车顶设计，并专属提供“醇厚酒红”车身配色，官方同步对新款颜色开启征名。轮辋方面，领克 900L 配备 21 英寸密辐式轮毂。尺寸方面，领克 900L 的长宽高分别达到了 5280/1999/1810 毫米，轴距为 3170 毫米。与现款领克 900 相比，新车车长增加 40 毫米，车高与轴距各增加 10 毫米，车宽保持不变，整体体量更为庞大。车辆接近角与离去角均为 20°，尾部",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-10-21",
+      "score": 0.695
+    },
+    {
+      "title": "智界 V9 第 3 万台下线，连续四个月获 40 万元以上 MPV 市场销冠",
+      "url": "https://www.ithome.com/1/015/732.htm",
+      "summary": "IT之家 10 月 21 日消息，@智界汽车 今天（21 日）上午宣布，智界 V9 第 30000 台正式下线。该车型上市以来，连续四个月获 40 万以上 MPV 市场销量冠军。该车于今年 5 月 15 日上市，售价 38.98 万-51.98 万元，尺寸为 5359×2009×1879mm、轴距达 3250mm，拥有辉光紫、雪域白、深海蓝、鎏金黑四款外观配色，以及绒霞紫、韶华杏、赤茶橘三款内饰配色。新车全系标配 38 个传感器，是行业首款搭载 896 线激光雷达的 MPV。据IT之家此前报道，智界汽车执行董事及执行副总裁赵长江表示，智界未来的增长，来自完整体系的持续生长。智界汽车不追求短期单品的爆发，而是做长期稳定经营的长跑品牌。相关阅读：《鸿蒙智行：智界 V9 连续四个月获 40 万以上 MPV 市场销量冠军》",
+      "short_summary": "IT之家 10 月 21 日消息，@智界汽车 今天（21 日）上午宣布，智界 V9 第 30000 台正式下线。该车型上",
+      "detail": "IT之家 10 月 21 日消息，@智界汽车 今天（21 日）上午宣布，智界 V9 第 30000 台正式下线。该车型上市以来，连续四个月获 40 万以上 MPV 市场销量冠军。该车于今年 5 月 15 日上市，售价 38.98 万-51.98 万元，尺寸为 5359×2009×1879mm、轴距达 3250mm，拥有辉光紫、雪域白、深海蓝、鎏金黑四款外观配色，以及绒霞紫、韶华杏、赤茶橘三款内饰配色。新车全系标配 38 个传感器，是行业首款搭载 896 线激光雷达的 MPV。据IT之家此前报道，智界汽车执行董事及执行副总裁赵长江表示，智界未来的增长，来自完整体系的持续生长。智界汽车不追求短期单品的爆发，而是做长期稳定经营的长跑品牌。相关阅读：《鸿蒙智行：智界 V9 连续四个月获 40 万以上 MPV 市场销量冠军》",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-10-21",
+      "score": 0.695
     }
   ]
 }
