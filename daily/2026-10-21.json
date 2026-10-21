@@ -1,0 +1,321 @@
+{
+  "date": "2026-10-21",
+  "category1": [
+    {
+      "title": "OpenAI 披露：旗下 AI 智能体曾试图关闭内部监控警报",
+      "url": "https://www.ithome.com/1/015/657.htm",
+      "summary": "IT之家 10 月 21 日消息，OpenAI 发现，其 AI 智能体出现过削弱甚至关闭内部监控系统警报的情况，这套监控系统原本用于识别 AI 模型的异常行为。IT之家注意到，该公司在当地时间周二的博客文章中表示，正在评估这类案例是否说明其 AI 模型普遍存在规避监控的倾向。OpenAI 称，事件发生在智能体执行两项内部编程任务期间。博文提到，这是内部事件，没有外部主体受到影响。近几个月，随着 OpenAI 以及 Anthropic 等公司披露多起顶尖 AI 模型出现此类行为的案例，人们对 AI 对齐问题的担忧持续上升。AI 对齐指确保模型按照研发者的预期行事。已有模型多次突破封闭训练环境，并自主对第三方网站发起攻击。AI 研发人员警示，这类系统很快会复杂到人类难以管控，这进一步引发顾虑：恶意分子可能利用该技术制造生物武器或是发起破坏性网络攻击。这些事件，叠加行业内部接连发出的严肃警示，让 AI 安全讨论进入大众视野。OpenAI 表示，后续将开展更多审查，并执行更严格的安全要求，降低同类事件发生概率。但该公司同时称，对于智能体的这一行为，他们“目前还没有令人信服的解释”。",
+      "detail": "IT之家 10 月 21 日消息，OpenAI 发现，其 AI 智能体出现过削弱甚至关闭内部监控系统警报的情况，这套监控系统原本用于识别 AI 模型的异常行为。IT之家注意到，该公司在当地时间周二的博客文章中表示，正在评估这类案例是否说明其 AI 模型普遍存在规避监控的倾向。OpenAI 称，事件发生在智能体执行两项内部编程任务期间。博文提到，这是内部事件，没有外部主体受到影响。近几个月，随着 OpenAI 以及 Anthropic 等公司披露多起顶尖 AI 模型出现此类行为的案例，人们对 AI 对齐问题的担忧持续上升。AI 对齐指确保模型按照研发者的预期行事。已有模型多次突破封闭训练环境，并自主对第三方网站发起攻击。AI 研发人员警示，这类系统很快会复杂到人类难以管控，这进一步引发顾虑：恶意分子可能利用该技术制造生物武器或是发起破坏性网络攻击。这些事件，叠加行业内部接连发出的严肃警示，让 AI 安全讨论进入大众视野。OpenAI 表示，后续将开展更多审查，并执行更严格的安全要求，降低同类事件发生概率。但该公司同时称，对于智能体的这一行为，他们“目前还没有令人信服的解释”。",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-10-21",
+      "score": 0.9225
+    },
+    {
+      "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
+      "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
+      "summary": "The proposed policy seems to offer protections against AI run amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
+      "detail": "The proposed policy seems to offer protections against AI run amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
+      "source": "TechCrunch",
+      "source_authority": 0.95,
+      "date": "2026-10-21",
+      "score": 0.8475
+    },
+    {
+      "title": "Anthropic’s cloud partnerships are getting messy",
+      "url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
+      "summary": "Anthropic is reportedly struggling to secure enough compute from cloud providers that increasingly view it as a competitor, even as its infrastructure spending balloons ahead of a planned November IPO.",
+      "detail": "Anthropic is reportedly struggling to secure enough compute from cloud providers that increasingly view it as a competitor, even as its infrastructure spending balloons ahead of a planned November IPO.",
+      "source": "TechCrunch",
+      "source_authority": 0.95,
+      "date": "2026-10-21",
+      "score": 0.8475
+    },
+    {
+      "title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
+      "url": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
+      "summary": "OpenAI says it's adding Orchestra's team and technology to work on Rosalind, its AI model for life sciences research, and to its related Rosalind Workbench tool, a harness that aims to help researchers plan experiments and analyze results.",
+      "detail": "OpenAI says it's adding Orchestra's team and technology to work on Rosalind, its AI model for life sciences research, and to its related Rosalind Workbench tool, a harness that aims to help researchers plan experiments and analyze results.",
+      "source": "TechCrunch",
+      "source_authority": 0.95,
+      "date": "2026-10-21",
+      "score": 0.845
+    },
+    {
+      "title": "Judge dismisses Sam Altman’s sister’s sexual abuse lawsuit",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1014976/sam-altman-ann-altman-lawsuit-dismissed",
+      "summary": "On Tuesday, US District Judge Zachary Bluestone dismissed the lawsuit Ann Altman filed last year alleging that her brother, OpenAI CEO Sam Altman, had sexually abused her throughout her childhood. As reported earlier by The Guardian, the judge wrote that over the past year, Ann had failed to appear for an independent medical examination or […]",
+      "detail": "On Tuesday, US District Judge Zachary Bluestone dismissed the lawsuit Ann Altman filed last year alleging that her brother, OpenAI CEO Sam Altman, had sexually abused her throughout her childhood. As reported earlier by The Guardian, the judge wrote that over the past year, Ann had failed to appear for an independent medical examination or […]",
+      "source": "The Verge",
+      "source_authority": 0.9,
+      "date": "2026-10-21",
+      "score": 0.8375
+    },
+    {
+      "title": "Google’s more personalized Gemini AI is heading to your car",
+      "url": "https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto",
+      "summary": "Google is bringing Personal Intelligence to Gemini AI in your car. With this update, Gemini in Android Auto and cars with Google built-in can tap into your information across Google apps, including Gmail, Calendar, Maps, Photos, YouTube, and Search. As an example, Google says you can ask Gemini about your flight status if you're driving […]",
+      "detail": "Google is bringing Personal Intelligence to Gemini AI in your car. With this update, Gemini in Android Auto and cars with Google built-in can tap into your information across Google apps, including Gmail, Calendar, Maps, Photos, YouTube, and Search. As an example, Google says you can ask Gemini about your flight status if you're driving […]",
+      "source": "The Verge",
+      "source_authority": 0.9,
+      "date": "2026-10-21",
+      "score": 0.8
+    },
+    {
+      "title": "OpenAI CEO Sam Altman wins dismissal of sister's lawsuit",
+      "url": "https://www.bbc.co.uk/news/articles/c94g1502el58o?at_medium=RSS&at_campaign=rss",
+      "summary": "A US district judge dismissed the case after Ann Altman had refused to attend an independent medical examination.",
+      "detail": "A US district judge dismissed the case after Ann Altman had refused to attend an independent medical examination.",
+      "source": "BBC Tech",
+      "source_authority": 0.85,
+      "date": "2026-10-21",
+      "score": 0.7725
+    },
+    {
+      "title": "US bans use of China’s DeepSeek AI tools by government agencies",
+      "url": "https://www.theguardian.com/us-news/2026/oct/20/us-bans-china-deepseek-ai-tools-government-agencies",
+      "summary": "Use of tools ‘may result in the transfer of sensitive data’ to China, defense department saysThe US government on Monday ordered its agencies to stop using artificial intelligence (AI) tools from the Chinese startup DeepSeek, as the countries race for dominance in the fast-moving sector.A notice from the Department of Homeland Security (DHS) announced the ban on products developed by DeepSeek – and tools created using DeepSeek by third parties – saying they must be removed from IT devices. Conti",
+      "detail": "Use of tools ‘may result in the transfer of sensitive data’ to China, defense department saysThe US government on Monday ordered its agencies to stop using artificial intelligence (AI) tools from the Chinese startup DeepSeek, as the countries race for dominance in the fast-moving sector.A notice from the Department of Homeland Security (DHS) announced the ban on products developed by DeepSeek – and tools created using DeepSeek by third parties – saying they must be removed from IT devices. Conti",
+      "source": "The Guardian",
+      "source_authority": 0.85,
+      "date": "2026-10-20",
+      "score": 0.75
+    },
+    {
+      "title": "China Criticizes U.S. Ban on DeepSeek A.I. in Government Systems",
+      "url": "https://www.nytimes.com/2026/10/20/world/asia/china-deepseek-us-ban.html",
+      "summary": "The response came after Homeland Security ordered the removal and exclusion of products developed by the Chinese company.",
+      "detail": "The response came after Homeland Security ordered the removal and exclusion of products developed by the Chinese company.",
+      "source": "NYT",
+      "source_authority": 0.9,
+      "date": "2026-10-21",
+      "score": 0.74
+    }
+  ],
+  "category2": [
+    {
+      "title": "Meta’s Muse hits 10M U.S. downloads in 40 days, a milestone reached by only 11 other apps",
+      "url": "https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/",
+      "summary": "Meta's AI companion Muse has surpassed 10 million U.S. downloads in its first 40 days, joining an exclusive group of apps that includes Threads. New data also shows Muse is retaining users at higher rates than its AI rivals.",
+      "detail": "Meta's AI companion Muse has surpassed 10 million U.S. downloads in its first 40 days, joining an exclusive group of apps that includes Threads. New data also shows Muse is retaining users at higher rates than its AI rivals.",
+      "source": "TechCrunch",
+      "source_authority": 0.95,
+      "date": "2026-10-21",
+      "score": 0.8725
+    },
+    {
+      "title": "Meta pauses Muse sharing after researchers find AI chats on the web",
+      "url": "https://www.theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats",
+      "summary": "Meta says it paused a Muse feature that lets you share conversations with the AI assistant after researchers found the URLs publicly available on the web, as reported by Ars Technica. In a report published this week, researchers at the security firm Claroc say they found more than 6,800 Muse links through public DNS records. […]",
+      "detail": "Meta says it paused a Muse feature that lets you share conversations with the AI assistant after researchers found the URLs publicly available on the web, as reported by Ars Technica. In a report published this week, researchers at the security firm Claroc say they found more than 6,800 Muse links through public DNS records. […]",
+      "source": "The Verge",
+      "source_authority": 0.9,
+      "date": "2026-10-21",
+      "score": 0.8375
+    },
+    {
+      "title": "‘Too big to not fail’: Google outage exposes UK reliance on a handful of cloud providers",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/20/power-outage-google-datacentre-london-widespread-disruption",
+      "summary": "Our dependence on internet services of a few key tech companies leaves us vulnerable to cloud failures, bugs and more, experts sayIt happened again. A power outage hit a datacentre in London, and things cascaded from there: multiple banking services faltered, court hearings were put on hold and patients reported temporary glitches on the NHS app.The datacentre in question was in Google’s europe-west2-b zone, one of more than a dozen “zones” that the US search giant maintains in Europe to service",
+      "detail": "Our dependence on internet services of a few key tech companies leaves us vulnerable to cloud failures, bugs and more, experts sayIt happened again. A power outage hit a datacentre in London, and things cascaded from there: multiple banking services faltered, court hearings were put on hold and patients reported temporary glitches on the NHS app.The datacentre in question was in Google’s europe-west2-b zone, one of more than a dozen “zones” that the US search giant maintains in Europe to service",
+      "source": "The Guardian",
+      "source_authority": 0.85,
+      "date": "2026-10-21",
+      "score": 0.7425
+    },
+    {
+      "title": "Here’s the tea",
+      "url": "https://www.technologyreview.com/2026/10/20/1145274/heres-the-tea/",
+      "summary": "When Tristan Brown, an associate professor of history at MIT, first examined a Chinese tea chest label displayed at Old South Meeting House, he had no reason to doubt its story. Descendants of the Boston blacksmith Thomas Wells had donated the label in 1987, saying it had been recovered after colonial protesters threw tea into…",
+      "detail": "When Tristan Brown, an associate professor of history at MIT, first examined a Chinese tea chest label displayed at Old South Meeting House, he had no reason to doubt its story. Descendants of the Boston blacksmith Thomas Wells had donated the label in 1987, saying it had been recovered after colonial protesters threw tea into…",
+      "source": "MIT Tech Review",
+      "source_authority": 0.9,
+      "date": "2026-10-21",
+      "score": 0.71
+    },
+    {
+      "title": "A cleaner path to rare earth metals",
+      "url": "https://www.technologyreview.com/2026/10/20/1145300/a-cleaner-path-to-rare-earth-metals/",
+      "summary": "Tomás Villalón Jr. ’14 was raised in San Antonio, Texas, but vividly remembers smog hanging over the city his family came from—Monterrey, Mexico, a steel manufacturing and metal fabrication hub. Even as a child, he realized it was problematic to breathe that air.  “I’m motivated because I’ve seen what metal-making does,” says Villalón, who majored…",
+      "detail": "Tomás Villalón Jr. ’14 was raised in San Antonio, Texas, but vividly remembers smog hanging over the city his family came from—Monterrey, Mexico, a steel manufacturing and metal fabrication hub. Even as a child, he realized it was problematic to breathe that air.  “I’m motivated because I’ve seen what metal-making does,” says Villalón, who majored…",
+      "source": "MIT Tech Review",
+      "source_authority": 0.9,
+      "date": "2026-10-21",
+      "score": 0.71
+    },
+    {
+      "title": "微软优化 Win11 文件管理器 OneDrive 右键菜单：统一 AI 访问入口",
+      "url": "https://www.ithome.com/1/015/696.htm",
+      "summary": "IT之家 10 月 21 日消息，在 MC1515940 公告中，微软宣布将于下月（2026 年 11 月）中旬开始，优化 Windows 11 文件管理器里的“OneDrive”右键菜单，调整部分 Copilot 关联的 AI 操作选项。科技媒体 NeoWin 指出，当前 Windows 11 用户在文件管理器中右键点击某个文件，在 OneDrive 的二级目录下会看到包括“摘要”、“创建常见问题解答”、“比较文件”、“提问”、“解释图像”、“比较图像”和“提取文本”等 Copilot 操作选项，但这些选项功能又和一级目录的“Ask Copilot”存在一些重叠。而根据公告内容，微软计划将这些 Copilot 操作统一收纳到“Ask Copilot”入口，但依然保留相关功能，用户仍然可以通过右键菜单中的“Ask Copilot”、鼠标悬停在项目上时出现的 Copilot 按钮，或者 OneDrive 活动中心中的 Copilot 操作来使用这些功能。IT之家附上相关图片如下：该媒体认为微软把原本分散在右键菜单中的多个 AI 动作，整合到更统一的 Copilot 入口，减少普通用户右键",
+      "detail": "IT之家 10 月 21 日消息，在 MC1515940 公告中，微软宣布将于下月（2026 年 11 月）中旬开始，优化 Windows 11 文件管理器里的“OneDrive”右键菜单，调整部分 Copilot 关联的 AI 操作选项。科技媒体 NeoWin 指出，当前 Windows 11 用户在文件管理器中右键点击某个文件，在 OneDrive 的二级目录下会看到包括“摘要”、“创建常见问题解答”、“比较文件”、“提问”、“解释图像”、“比较图像”和“提取文本”等 Copilot 操作选项，但这些选项功能又和一级目录的“Ask Copilot”存在一些重叠。而根据公告内容，微软计划将这些 Copilot 操作统一收纳到“Ask Copilot”入口，但依然保留相关功能，用户仍然可以通过右键菜单中的“Ask Copilot”、鼠标悬停在项目上时出现的 Copilot 按钮，或者 OneDrive 活动中心中的 Copilot 操作来使用这些功能。IT之家附上相关图片如下：该媒体认为微软把原本分散在右键菜单中的多个 AI 动作，整合到更统一的 Copilot 入口，减少普通用户右键",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-10-21",
+      "score": 0.71
+    },
+    {
+      "title": "雷总办公室同款：小米米家全效空气净化器 Ultra 增强版国补后 2699 元新低",
+      "url": "https://www.ithome.com/1/015/656.htm",
+      "summary": "小米米家全效空气净化器 Ultra 增强版发布于 2024 年 7 月 19 日，首发价 5699 元。京东 11.11 大促期间，活动价 4102 元：领取 8.8 折优惠券：点此领取；国补立减 494 元；以旧换新立减 220 元；PLUS 会员立减 16.41 元；PLUS 会员领取满 800-80 元消费券：点此领取（21 日 10 点、20 点可领）；晒单返 100 元京豆（详情页可见规则）；到手价为 2699.35 元：京东米家 全效空气净化器 Ultra 增强版去除 95 种空气污染物券后 2699.35 元领 8.8 折券京东 11.11 红包至高 26888 元无门槛可用，每天可抽一次：点此抽取。耗材方面，除了催化醛解滤芯无需更换，该空气净化器全效复合滤芯、碳素阵列滤芯、中效复合滤芯建议零售价分别为 499 元、499 元、299 元，使用寿命分别为 2 年、3 年、1 年。按照 1 年为 365 天计算，计算得出日均费用分别约为 0.68 元、0.46 元、0.82 元。据介绍，这款空气净化器搭载“十级复合深度净化”技术，配备“第二代万级碳素阵列”与“专研氧溶层”，",
+      "detail": "小米米家全效空气净化器 Ultra 增强版发布于 2024 年 7 月 19 日，首发价 5699 元。京东 11.11 大促期间，活动价 4102 元：领取 8.8 折优惠券：点此领取；国补立减 494 元；以旧换新立减 220 元；PLUS 会员立减 16.41 元；PLUS 会员领取满 800-80 元消费券：点此领取（21 日 10 点、20 点可领）；晒单返 100 元京豆（详情页可见规则）；到手价为 2699.35 元：京东米家 全效空气净化器 Ultra 增强版去除 95 种空气污染物券后 2699.35 元领 8.8 折券京东 11.11 红包至高 26888 元无门槛可用，每天可抽一次：点此抽取。耗材方面，除了催化醛解滤芯无需更换，该空气净化器全效复合滤芯、碳素阵列滤芯、中效复合滤芯建议零售价分别为 499 元、499 元、299 元，使用寿命分别为 2 年、3 年、1 年。按照 1 年为 365 天计算，计算得出日均费用分别约为 0.68 元、0.46 元、0.82 元。据介绍，这款空气净化器搭载“十级复合深度净化”技术，配备“第二代万级碳素阵列”与“专研氧溶层”，",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-10-21",
+      "score": 0.695
+    },
+    {
+      "title": "Avenda Health expands Unfold AI platform to support intraoperative prostate cancer care",
+      "url": "https://www.therobotreport.com/avenda-health-expands-unfold-ai-platform-support-intraoperative-prostate-cancer-care/",
+      "summary": "Surgery Mode in Unfold AI brings patient-specific 3D maps to give an enhanced view of cancer anatomy during robotic prostate procedures.\nThe post Avenda Health expands Unfold AI platform to support intraoperative prostate cancer care appeared first on The Robot Report.",
+      "detail": "Surgery Mode in Unfold AI brings patient-specific 3D maps to give an enhanced view of cancer anatomy during robotic prostate procedures.\nThe post Avenda Health expands Unfold AI platform to support intraoperative prostate cancer care appeared first on The Robot Report.",
+      "source": "The Robot Report",
+      "source_authority": 0.85,
+      "date": "2026-10-20",
+      "score": 0.685
+    },
+    {
+      "title": "微信朋友圈点赞有彩蛋，腾讯客服回应称正在灰度测试",
+      "url": "https://www.ithome.com/1/015/668.htm",
+      "summary": "IT之家 10 月 21 日消息，有多位网友近日发帖称，在微信朋友圈发表页面出现了“点赞彩蛋”的新功能，可设置对应表情，朋友点赞时可以看见。也有网友发现，点赞部分好友的朋友圈后，会弹出表情提示。对此，腾讯客服表示，朋友圈点赞彩蛋目前处于 iOS / Android 客户端的灰度测试阶段，属于内测功能范畴。该功能目前尚未正式发布，属于测试中的特色互动功能，旨在为好友朋友圈点赞增添趣味性。大家在IT之家微信号回复“微信”两字，即可获取当前最新官方内部版微信下载。",
+      "detail": "IT之家 10 月 21 日消息，有多位网友近日发帖称，在微信朋友圈发表页面出现了“点赞彩蛋”的新功能，可设置对应表情，朋友点赞时可以看见。也有网友发现，点赞部分好友的朋友圈后，会弹出表情提示。对此，腾讯客服表示，朋友圈点赞彩蛋目前处于 iOS / Android 客户端的灰度测试阶段，属于内测功能范畴。该功能目前尚未正式发布，属于测试中的特色互动功能，旨在为好友朋友圈点赞增添趣味性。大家在IT之家微信号回复“微信”两字，即可获取当前最新官方内部版微信下载。",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-10-21",
+      "score": 0.675
+    },
+    {
+      "title": "Melt it, spin it, use it again",
+      "url": "https://www.technologyreview.com/2026/10/20/1145276/melt-it-spin-it-use-it-again/",
+      "summary": "The average American throws out around 81 pounds of clothing each year, and there are few options for recycling it. MIT engineers hope to cut down on that textile waste with a new type of yarn.  The thermoplastic yarn mimics the properties of conventional elastic yarns, which typically combine spandex with polyester or nylon. Those…",
+      "detail": "The average American throws out around 81 pounds of clothing each year, and there are few options for recycling it. MIT engineers hope to cut down on that textile waste with a new type of yarn.  The thermoplastic yarn mimics the properties of conventional elastic yarns, which typically combine spandex with polyester or nylon. Those…",
+      "source": "MIT Tech Review",
+      "source_authority": 0.9,
+      "date": "2026-10-21",
+      "score": 0.635
+    }
+  ],
+  "category3": [
+    {
+      "title": "Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers",
+      "url": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
+      "summary": "Google has joined Amazon in releasing a developer tool that makes it easy for PyTorch users to move their apps off Nvidia GPUs.",
+      "detail": "Google has joined Amazon in releasing a developer tool that makes it easy for PyTorch users to move their apps off Nvidia GPUs.",
+      "source": "TechCrunch",
+      "source_authority": 0.95,
+      "date": "2026-10-21",
+      "score": 0.8975
+    },
+    {
+      "title": "SpaceX 第三季度 AI（SI）支出再创新高，相关业务收入 76 亿美元首超星链",
+      "url": "https://www.ithome.com/1/015/669.htm",
+      "summary": "IT之家 10 月 21 日消息，SpaceX 今天（21 日）公布的第二份财报显示，公司 AI（官方公告列为 SI，为贴合中文习惯，下文称 AI）支出再创新高，资本开支不久后甚至可能翻倍。SpaceX 今年第三季度的 AI 资本开支达到 164 亿美元（IT之家注：现汇率约合 1,097.38 亿元人民币），延续了近几个季度持续加大投入的趋势。SpaceX 继续扩大旗下 Grok 等 AI 业务的基础设施建设，第三季度资本开支总额约 196 亿美元（现汇率约合 1,311.5 亿元人民币），基本符合华尔街分析师的预期。其中，164 亿美元（现汇率约合 1,097.38 亿元人民币）用于 AI 业务，略低于分析师预期的 169 亿美元（现汇率约合 1,130.83 亿元人民币）。SpaceX 预计，本季度资本开支还会大幅增加。公司 CFO 布雷特 · 约翰森预测，随着更多算力设施投入运营，资本开支将增至 350 亿至 400 亿美元（现汇率约合 2,341.96 亿至 2,676.53 亿元人民币）。他还预计，新投资能迅速收回成本：“按照现有收费标准，新部署的算力不到一年就能回本。”财",
+      "detail": "IT之家 10 月 21 日消息，SpaceX 今天（21 日）公布的第二份财报显示，公司 AI（官方公告列为 SI，为贴合中文习惯，下文称 AI）支出再创新高，资本开支不久后甚至可能翻倍。SpaceX 今年第三季度的 AI 资本开支达到 164 亿美元（IT之家注：现汇率约合 1,097.38 亿元人民币），延续了近几个季度持续加大投入的趋势。SpaceX 继续扩大旗下 Grok 等 AI 业务的基础设施建设，第三季度资本开支总额约 196 亿美元（现汇率约合 1,311.5 亿元人民币），基本符合华尔街分析师的预期。其中，164 亿美元（现汇率约合 1,097.38 亿元人民币）用于 AI 业务，略低于分析师预期的 169 亿美元（现汇率约合 1,130.83 亿元人民币）。SpaceX 预计，本季度资本开支还会大幅增加。公司 CFO 布雷特 · 约翰森预测，随着更多算力设施投入运营，资本开支将增至 350 亿至 400 亿美元（现汇率约合 2,341.96 亿至 2,676.53 亿元人民币）。他还预计，新投资能迅速收回成本：“按照现有收费标准，新部署的算力不到一年就能回本。”财",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-10-21",
+      "score": 0.8475
+    },
+    {
+      "title": "Chip Industry Technical Paper Roundup: Oct. 20",
+      "url": "https://semiengineering.com/chip-industry-technical-paper-roundup-oct-14-2/",
+      "summary": "HBM power consumption; GAAFET leakage pathways; agentic AI for heterogeneous system design; nanoelectromechanical gain-cell eDRAM; AI-accelerated 3D-IC thermal modeling; agentic AI for RTL verification and debugging; thermal side-channel attacks in autonomous vehicles.\nThe post Chip Industry Technical Paper Roundup: Oct. 20 appeared first on Semiconductor Engineering.",
+      "detail": "HBM power consumption; GAAFET leakage pathways; agentic AI for heterogeneous system design; nanoelectromechanical gain-cell eDRAM; AI-accelerated 3D-IC thermal modeling; agentic AI for RTL verification and debugging; thermal side-channel attacks in autonomous vehicles.\nThe post Chip Industry Technical Paper Roundup: Oct. 20 appeared first on Semiconductor Engineering.",
+      "source": "SemiEngineering",
+      "source_authority": 0.85,
+      "date": "2026-10-20",
+      "score": 0.75
+    },
+    {
+      "title": "开源项目让《塞尔达传说：王国之泪》原生运行于 Apple Silicon，苹果 M4 MacBook Air 稳定 90 帧",
+      "url": "https://www.ithome.com/1/015/694.htm",
+      "summary": "IT之家 10 月 21 日消息，一个开源的 macOS 原生静态重编译项目现已能够在 Apple Silicon 设备上运行《塞尔达传说：王国之泪》。在基础款 M4 MacBook Air 上，这款游戏可以稳定跑到 90 帧，性能表现优于任天堂 Switch 2 官方版本，同时也超过另一款非官方 PC 移植版本。IT之家注意到，开发者 liyong 开源了 MacNativeGames 项目，这是一个非官方静态重编译工程，可以将《王国之泪》转换为 ARM64 架构的 macOS（以及 iOS）原生应用。该移植版本直接调用苹果 Metal 4 图形接口，最高支持 4K 分辨率的 MetalFX 超分技术，除原生键盘操控外，还支持索尼 DualSense 手柄与 Xbox 手柄。实际上，该版本性能强于模组制作者 NotRexed 开发的非官方 x86 PC 静态重编译版本。后者在英伟达 RTX 4060 Ti 显卡上帧率仅在 32 至 59 帧之间波动。不过这款 x86 重编译项目仍在持续开发，后续还会推出更多更新。相比传统模拟器，性能提升源于架构层面的兼容性。任天堂 Switch 的",
+      "detail": "IT之家 10 月 21 日消息，一个开源的 macOS 原生静态重编译项目现已能够在 Apple Silicon 设备上运行《塞尔达传说：王国之泪》。在基础款 M4 MacBook Air 上，这款游戏可以稳定跑到 90 帧，性能表现优于任天堂 Switch 2 官方版本，同时也超过另一款非官方 PC 移植版本。IT之家注意到，开发者 liyong 开源了 MacNativeGames 项目，这是一个非官方静态重编译工程，可以将《王国之泪》转换为 ARM64 架构的 macOS（以及 iOS）原生应用。该移植版本直接调用苹果 Metal 4 图形接口，最高支持 4K 分辨率的 MetalFX 超分技术，除原生键盘操控外，还支持索尼 DualSense 手柄与 Xbox 手柄。实际上，该版本性能强于模组制作者 NotRexed 开发的非官方 x86 PC 静态重编译版本。后者在英伟达 RTX 4060 Ti 显卡上帧率仅在 32 至 59 帧之间波动。不过这款 x86 重编译项目仍在持续开发，后续还会推出更多更新。相比传统模拟器，性能提升源于架构层面的兼容性。任天堂 Switch 的",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-10-21",
+      "score": 0.7325
+    },
+    {
+      "title": "戴尔 CEO 预警：2027 年内存短缺情况将进一步恶化",
+      "url": "https://www.ithome.com/1/015/654.htm",
+      "summary": "IT之家 10 月 21 日消息，戴尔董事长兼首席执行官迈克尔 · 戴尔（Michael Dell）认为，内存短缺的局面远未结束。他在接受《华尔街日报》采访时表示，随着人工智能数据中心持续消耗动态随机存取存储器（DRAM）与高带宽内存（HBM）的供货量，明年供应形势还会进一步恶化。据他介绍，戴尔面临的瓶颈并非需求问题，公司手握约 950 亿美元（IT之家注：现汇率约合 6,356.75 亿元人民币）尚未交付的 AI 服务器订单，创下历史最高积压量。制约交付的正是内存：AI 加速芯片需要大量高带宽内存，而配套服务器仍依赖传统动态随机存取存储器。供应缓解看起来遥遥无期。新建内存工厂大约需要四年建设周期，因此戴尔预计要到 2029 或 2030 年才会出现显著新增产能。这和美光（Micron）首席执行官的观点一致，后者近期表示 2027、2028 年的供应紧张程度将远超今年。SK 海力士（SK hynix）首席执行官也给出相近判断，认为内存短缺会持续至 2030 年。据悉戴尔的应对方式是临近整机组装阶段才采购 DRAM，同时签订长期供货协议，但并未说明这套策略在多大程度上覆盖消费级产品。个人",
+      "detail": "IT之家 10 月 21 日消息，戴尔董事长兼首席执行官迈克尔 · 戴尔（Michael Dell）认为，内存短缺的局面远未结束。他在接受《华尔街日报》采访时表示，随着人工智能数据中心持续消耗动态随机存取存储器（DRAM）与高带宽内存（HBM）的供货量，明年供应形势还会进一步恶化。据他介绍，戴尔面临的瓶颈并非需求问题，公司手握约 950 亿美元（IT之家注：现汇率约合 6,356.75 亿元人民币）尚未交付的 AI 服务器订单，创下历史最高积压量。制约交付的正是内存：AI 加速芯片需要大量高带宽内存，而配套服务器仍依赖传统动态随机存取存储器。供应缓解看起来遥遥无期。新建内存工厂大约需要四年建设周期，因此戴尔预计要到 2029 或 2030 年才会出现显著新增产能。这和美光（Micron）首席执行官的观点一致，后者近期表示 2027、2028 年的供应紧张程度将远超今年。SK 海力士（SK hynix）首席执行官也给出相近判断，认为内存短缺会持续至 2030 年。据悉戴尔的应对方式是临近整机组装阶段才采购 DRAM，同时签订长期供货协议，但并未说明这套策略在多大程度上覆盖消费级产品。个人",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-10-21",
+      "score": 0.7325
+    },
+    {
+      "title": "Is this the beginning of the end of the AI stock market boom?",
+      "url": "https://www.theguardian.com/business/2026/oct/20/ai-stock-market-boom-beginning-of-the-end-imf-wallstreet-nasdaq",
+      "summary": "After a wobble on the tech-heavy Nasdaq, some AI market observers think a reassessment of the potential value of various businesses may be under wayGet our breaking news email, free app or daily news podcastThe world is holding its breath as it waits to find out whether this year’s estimated $US1tn investment in artificial intelligence is resting on a castle made of sand.Last week, the Nasdaq 100 – an index of the 100 biggest non-financial stocks on the American tech-heavy Nasdaq exchange – drop",
+      "detail": "After a wobble on the tech-heavy Nasdaq, some AI market observers think a reassessment of the potential value of various businesses may be under wayGet our breaking news email, free app or daily news podcastThe world is holding its breath as it waits to find out whether this year’s estimated $US1tn investment in artificial intelligence is resting on a castle made of sand.Last week, the Nasdaq 100 – an index of the 100 biggest non-financial stocks on the American tech-heavy Nasdaq exchange – drop",
+      "source": "The Guardian",
+      "source_authority": 0.85,
+      "date": "2026-10-20",
+      "score": 0.66
+    }
+  ],
+  "category4": [
+    {
+      "title": "Reservoir launches new agricultural robotics incubator for Washington growers",
+      "url": "https://www.therobotreport.com/reservoir-launches-new-agricultural-robotics-incubator-for-washington-growers/",
+      "summary": "Reservoir hopes to put agricultural robotics startups to work in the orchards, vineyards and berry fields alongside researchers and growers.\nThe post Reservoir launches new agricultural robotics incubator for Washington growers appeared first on The Robot Report.",
+      "detail": "Reservoir hopes to put agricultural robotics startups to work in the orchards, vineyards and berry fields alongside researchers and growers.\nThe post Reservoir launches new agricultural robotics incubator for Washington growers appeared first on The Robot Report.",
+      "source": "The Robot Report",
+      "source_authority": 0.85,
+      "date": "2026-10-21",
+      "score": 0.8125
+    },
+    {
+      "title": "Robotic therapy for stroke patients",
+      "url": "https://www.technologyreview.com/2026/10/20/1145282/robotic-therapy-for-stroke-patients/",
+      "summary": "Strokes leave 5 million people with long-term impairments each year, and a growing shortage of physical therapists makes it hard for them to get the care they need. A new approach tries to solve that problem by combining artificial intelligence and human therapy.  Johannes Lachner, a former MIT postdoc who is now an assistant professor…",
+      "detail": "Strokes leave 5 million people with long-term impairments each year, and a growing shortage of physical therapists makes it hard for them to get the care they need. A new approach tries to solve that problem by combining artificial intelligence and human therapy.  Johannes Lachner, a former MIT postdoc who is now an assistant professor…",
+      "source": "MIT Tech Review",
+      "source_authority": 0.9,
+      "date": "2026-10-21",
+      "score": 0.8
+    },
+    {
+      "title": "I’m a CTO. AI still needs your human expertise | Madhu Shashanka",
+      "url": "https://www.theguardian.com/technology/2026/oct/20/ai-human-judgment",
+      "summary": "AI is increasingly getting good at doing some tasks, but it can never replace human workers’ judgmentAutonomous cars, which may be the safest we have built, keep getting easily avoidable parking tickets. While Waymos crash far less often than human drivers over tens of millions of miles, they’re still terrible at performing basic tasks – keeping out of disabled parking spots and tow-away zones, or steering clear of a church garage during Sunday service, according to the Wall Street Journal.That",
+      "detail": "AI is increasingly getting good at doing some tasks, but it can never replace human workers’ judgmentAutonomous cars, which may be the safest we have built, keep getting easily avoidable parking tickets. While Waymos crash far less often than human drivers over tens of millions of miles, they’re still terrible at performing basic tasks – keeping out of disabled parking spots and tow-away zones, or steering clear of a church garage during Sunday service, according to the Wall Street Journal.That",
+      "source": "The Guardian",
+      "source_authority": 0.85,
+      "date": "2026-10-20",
+      "score": 0.795
+    },
+    {
+      "title": "RoboBusiness rebrands as Robotics Summit & Expo West",
+      "url": "https://www.therobotreport.com/robobusiness-rebrands-as-robotics-summit-expo-west/",
+      "summary": "Robotics Summit & Expo West sharpens focus on deploying robotics and AI in the real world, complementing the East Coast flagship event.\nThe post RoboBusiness rebrands as Robotics Summit & Expo West appeared first on The Robot Report.",
+      "detail": "Robotics Summit & Expo West sharpens focus on deploying robotics and AI in the real world, complementing the East Coast flagship event.\nThe post RoboBusiness rebrands as Robotics Summit & Expo West appeared first on The Robot Report.",
+      "source": "The Robot Report",
+      "source_authority": 0.85,
+      "date": "2026-10-21",
+      "score": 0.775
+    },
+    {
+      "title": "2027 TRR50 Robotics Innovation Awards open nominations",
+      "url": "https://www.therobotreport.com/2027-trr50-robotics-innovation-awards-open-nominations/",
+      "summary": "The TRR50 winners will be celebrated at an awards gala during the Robotics Summit & Expo, which will be held on June 2-3, 2027 in Boston.\nThe post 2027 TRR50 Robotics Innovation Awards open nominations appeared first on The Robot Report.",
+      "detail": "The TRR50 winners will be celebrated at an awards gala during the Robotics Summit & Expo, which will be held on June 2-3, 2027 in Boston.\nThe post 2027 TRR50 Robotics Innovation Awards open nominations appeared first on The Robot Report.",
+      "source": "The Robot Report",
+      "source_authority": 0.85,
+      "date": "2026-10-21",
+      "score": 0.775
+    },
+    {
+      "title": "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
+      "url": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
+      "summary": "Eka Robotics may be the first robotic arm that is actually good at picking up a wide range of objects, and it is so smooth and human-like, it is wowing the industry.",
+      "detail": "Eka Robotics may be the first robotic arm that is actually good at picking up a wide range of objects, and it is so smooth and human-like, it is wowing the industry.",
+      "source": "TechCrunch",
+      "source_authority": 0.95,
+      "date": "2026-10-20",
+      "score": 0.765
+    }
+  ]
+}
