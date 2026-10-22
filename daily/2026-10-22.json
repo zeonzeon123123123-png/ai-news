@@ -1,0 +1,311 @@
+{
+  "date": "2026-10-22",
+  "category1": [
+    {
+      "title": "Anthropic takes on Muse with Claude Duet, its new AI agent",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent",
+      "summary": "Anthropic just announced an AI agent competitor to Meta's Muse and OpenAI's Dots: Claude Duet. The new agent, designed for professionals and small business owners, is launching as a \"research preview,\" according to Anthropic, and it's available as a standalone app on iOS and Android and through Claude on the web. The AI agent is […]",
+      "detail": "Anthropic just announced an AI agent competitor to Meta's Muse and OpenAI's Dots: Claude Duet. The new agent, designed for professionals and small business owners, is launching as a \"research preview,\" according to Anthropic, and it's available as a standalone app on iOS and Android and through Claude on the web. The AI agent is […]",
+      "source": "The Verge",
+      "source_authority": 0.9,
+      "date": "2026-10-22",
+      "score": 0.9525
+    },
+    {
+      "title": "Anthropic Joins the A.I. Agent Race With Claude Duet",
+      "url": "https://www.nytimes.com/2026/10/21/technology/anthropic-ai-agent-claude-duet.html",
+      "summary": "The tool, which is not yet widely available, will compete with OpenAI’s dots and Meta’s Muse. It is built for work and not personal errands.",
+      "detail": "The tool, which is not yet widely available, will compete with OpenAI’s dots and Meta’s Muse. It is built for work and not personal errands.",
+      "source": "NYT",
+      "source_authority": 0.9,
+      "date": "2026-10-22",
+      "score": 0.8925
+    },
+    {
+      "title": "OpenAI says an AI agent lied about disabling its safety monitoring system",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems",
+      "summary": "OpenAI disclosed a pair of safety incidents that involved AI agents weakening their safety monitoring systems during internal coding tasks. In one incident, OpenAI says its GPT-6 Astra agent disabled its safety monitor when copying reference code - and then lied about it. \"The reference didn't configure a monitor, and Astra decided that was reason […]",
+      "detail": "OpenAI disclosed a pair of safety incidents that involved AI agents weakening their safety monitoring systems during internal coding tasks. In one incident, OpenAI says its GPT-6 Astra agent disabled its safety monitor when copying reference code - and then lied about it. \"The reference didn't configure a monitor, and Astra decided that was reason […]",
+      "source": "The Verge",
+      "source_authority": 0.9,
+      "date": "2026-10-21",
+      "score": 0.83
+    },
+    {
+      "title": "Conversational Gemini navigation comes to Apple CarPlay",
+      "url": "https://www.theverge.com/transportation/1015281/gemini-ai-apple-carplay-voice-google-maps",
+      "summary": "After introducing its Gemini AI assistant to Android Auto last year, Google is now bringing it to Apple CarPlay users. The conversational Gemini in navigation is available today for US drivers, with \"rollout happening globally too,\" according to Google (we've asked for specific regional availability details). It's taken almost 12 months for Google to bring […]",
+      "detail": "After introducing its Gemini AI assistant to Android Auto last year, Google is now bringing it to Apple CarPlay users. The conversational Gemini in navigation is available today for US drivers, with \"rollout happening globally too,\" according to Google (we've asked for specific regional availability details). It's taken almost 12 months for Google to bring […]",
+      "source": "The Verge",
+      "source_authority": 0.9,
+      "date": "2026-10-21",
+      "score": 0.7925
+    },
+    {
+      "title": "AI Guardrails Aren’t Stopping Criminal Hackers",
+      "url": "https://www.wired.com/story/ai-guardrails-arent-stopping-criminal-hackers/",
+      "summary": "Hackers around the world are all-in on using agentic AI to wage attacks—and manipulating tools like Anthropic’s Claude to help them carry out their crimes.",
+      "detail": "Hackers around the world are all-in on using agentic AI to wage attacks—and manipulating tools like Anthropic’s Claude to help them carry out their crimes.",
+      "source": "Wired",
+      "source_authority": 0.85,
+      "date": "2026-10-21",
+      "score": 0.785
+    },
+    {
+      "title": "PHP Armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet",
+      "url": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/",
+      "summary": "This is the kind of security issue that was found and prevented by AI, but is also a high risk because of AI.",
+      "detail": "This is the kind of security issue that was found and prevented by AI, but is also a high risk because of AI.",
+      "source": "TechCrunch",
+      "source_authority": 0.95,
+      "date": "2026-10-22",
+      "score": 0.7825
+    },
+    {
+      "title": "New prize launches for books co-written with AI",
+      "url": "https://www.theguardian.com/books/2026/oct/21/new-prize-launches-books-co-written-with-ai-france",
+      "summary": "After months of controversy over the possible use of AI by winners of prestigious awards, the Prix Pascal de Littérature IA is rewarding fiction written with the help of LLMsA prize for AI-written books has launched this week.The Prix Pascal de Littérature IA invites submissions of manuscripts co-written with AI tools, with the winner promised publication. Continue reading...",
+      "detail": "After months of controversy over the possible use of AI by winners of prestigious awards, the Prix Pascal de Littérature IA is rewarding fiction written with the help of LLMsA prize for AI-written books has launched this week.The Prix Pascal de Littérature IA invites submissions of manuscripts co-written with AI tools, with the winner promised publication. Continue reading...",
+      "source": "The Guardian",
+      "source_authority": 0.85,
+      "date": "2026-10-21",
+      "score": 0.75
+    },
+    {
+      "title": "Accelerate Yield Ramp with Closed-Loop Yield Learning",
+      "url": "https://semiengineering.com/accelerate-yield-ramp-with-closed-loop-yield-learning/",
+      "summary": "An analytics-driven approach leveraging integrated industry leading technologies targeting advanced node devices.\nThe post Accelerate Yield Ramp with Closed-Loop Yield Learning appeared first on Semiconductor Engineering.",
+      "detail": "An analytics-driven approach leveraging integrated industry leading technologies targeting advanced node devices.\nThe post Accelerate Yield Ramp with Closed-Loop Yield Learning appeared first on Semiconductor Engineering.",
+      "source": "SemiEngineering",
+      "source_authority": 0.85,
+      "date": "2026-10-21",
+      "score": 0.73
+    }
+  ],
+  "category2": [
+    {
+      "title": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
+      "url": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/",
+      "summary": "As Amazon blocks AI agents from shopping on its site, Walmart is taking the opposite approach, introducing new technology that lets AI agents make purchases on customers' behalf, with controls over spending and transaction approvals.",
+      "detail": "As Amazon blocks AI agents from shopping on its site, Walmart is taking the opposite approach, introducing new technology that lets AI agents make purchases on customers' behalf, with controls over spending and transaction approvals.",
+      "source": "TechCrunch",
+      "source_authority": 0.95,
+      "date": "2026-10-22",
+      "score": 0.83
+    },
+    {
+      "title": "Walmart is inviting AI agents to shop for you",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1015715/walmart-ai-shopping-agents",
+      "summary": "Walmart will soon let AI agents shop on its website for you. Next month, the retail giant will allow you to use an AI agent on the site, with systems in place to let you approve and review purchases and set spending limits. The embrace of AI agents stands in stark contrast to Amazon, which […]",
+      "detail": "Walmart will soon let AI agents shop on its website for you. Next month, the retail giant will allow you to use an AI agent on the site, with systems in place to let you approve and review purchases and set spending limits. The embrace of AI agents stands in stark contrast to Amazon, which […]",
+      "source": "The Verge",
+      "source_authority": 0.9,
+      "date": "2026-10-22",
+      "score": 0.825
+    },
+    {
+      "title": "A Design Flaw in Share Links Exposes Users’ Personal Conversations With Meta’s Muse",
+      "url": "https://www.wired.com/story/a-design-flaw-in-share-links-exposes-users-personal-conversations-with-meta-muse/",
+      "summary": "The company is suspending the feature after security researchers discovered how easy it was to access sensitive information shared with the AI assistant.",
+      "detail": "The company is suspending the feature after security researchers discovered how easy it was to access sensitive information shared with the AI assistant.",
+      "source": "Wired",
+      "source_authority": 0.85,
+      "date": "2026-10-21",
+      "score": 0.7475
+    },
+    {
+      "title": "Meta says Muse has over 10M users, with shopping a top activity",
+      "url": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
+      "summary": "Meta Muse users are adopting the app for shopping and personal productivity, the company said during Q3 earnings. The AI app now has over 10M users.",
+      "detail": "Meta Muse users are adopting the app for shopping and personal productivity, the company said during Q3 earnings. The AI app now has over 10M users.",
+      "source": "TechCrunch",
+      "source_authority": 0.95,
+      "date": "2026-10-22",
+      "score": 0.7
+    },
+    {
+      "title": "一加 Ace 7/Pro 手机官宣 10 月 29 日发布：定位“性能直升”的双旗舰",
+      "url": "https://www.ithome.com/1/016/198.htm",
+      "summary": "IT之家 10 月 22 日消息，@一加手机 官微宣布，一加 Ace 7、一加 Ace 7 Pro“性能直升的双旗舰”手机将于 10 月 29 日 19 时的新品发布会正式登场。本月早些时候，一加中国区总裁李杰宣布，全新的一加 Ace 7 系列来了，它将是性能与产品力的跨代之作。一加 Ace 7 系列手机已在电商平台开启预约，该机采用矩形相机模组设计，模组内嵌入了主动散热风扇。一加中国区总裁李杰透露，很多手机都有主动散热风扇，但有风扇，不代表体验就做好了。横屏打游戏时，热风吹手、进风口被挡住，都会影响游戏体验。李杰还分享了有关散热风扇的四个细节：双路出风，一路吹芯片，一路吹后盖，这套方案是一加首创的；进风口布局合理，游戏时不容易被手指挡住；热风向上排出，避开手指，不让热风影响操作；冷风吹过后盖，帮助降低手部闷热感，减少出汗带来的影响。据博主 @体验more 消息，一加 Ace 7 系列手机将搭载骁龙 8E5V（IT之家注：第五代骁龙 8 至尊版 V Series）与骁龙 8E5（第五代骁龙 8 至尊版）处理器，全系 185Hz 高刷屏，200MP HP5 主摄。",
+      "detail": "IT之家 10 月 22 日消息，@一加手机 官微宣布，一加 Ace 7、一加 Ace 7 Pro“性能直升的双旗舰”手机将于 10 月 29 日 19 时的新品发布会正式登场。本月早些时候，一加中国区总裁李杰宣布，全新的一加 Ace 7 系列来了，它将是性能与产品力的跨代之作。一加 Ace 7 系列手机已在电商平台开启预约，该机采用矩形相机模组设计，模组内嵌入了主动散热风扇。一加中国区总裁李杰透露，很多手机都有主动散热风扇，但有风扇，不代表体验就做好了。横屏打游戏时，热风吹手、进风口被挡住，都会影响游戏体验。李杰还分享了有关散热风扇的四个细节：双路出风，一路吹芯片，一路吹后盖，这套方案是一加首创的；进风口布局合理，游戏时不容易被手指挡住；热风向上排出，避开手指，不让热风影响操作；冷风吹过后盖，帮助降低手部闷热感，减少出汗带来的影响。据博主 @体验more 消息，一加 Ace 7 系列手机将搭载骁龙 8E5V（IT之家注：第五代骁龙 8 至尊版 V Series）与骁龙 8E5（第五代骁龙 8 至尊版）处理器，全系 185Hz 高刷屏，200MP HP5 主摄。",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-10-22",
+      "score": 0.695
+    },
+    {
+      "title": "华为双十一焕新季全场景新品发布会官宣定档，10 月 28 日见",
+      "url": "https://www.ithome.com/1/016/192.htm",
+      "summary": "IT之家 10 月 22 日消息，今天（22 日）上午，华为终端官微宣布：华为双十一焕新季 · 全场景新品发布会，10 月 28 日 14:30，敬请期待！除此之外，官方暂未公布此次新品发布会的具体信息乃至产品阵容，IT之家将保持关注。此前的消息称，华为畅享 100 系列手机宣传海报已在线下露出，目前在多个平台曝光。画面显示，新机延续家族化设计，预装鸿蒙 HarmonyOS 系统，主打“麒麟芯、防诈强、信号好、续航长”等特性卖点。根据 @数码闲聊站 的爆料，新机配置大致如下：华为畅享 100 Pro Max 512GB 版本独享麒麟 8020 处理器，256GB / 128GB 版本搭载麒麟 8020A 处理器，后置 50Mp 大圆镜头 Deco；华为畅享 100 Pro 搭载麒麟 8020A 处理器；华为畅享 100 标准版搭载麒麟 8000S 处理器。另外，系列新机的电池容量分别为 8800mAh / 6100mAh / 6100mAh（博主未指明具体机型的电池容量情况）。还有消息称，华为将推出名为“星芒”的子品牌，定位是主攻线上渠道，相对有性价比。据称，“星芒”系列目前已规划多款",
+      "detail": "IT之家 10 月 22 日消息，今天（22 日）上午，华为终端官微宣布：华为双十一焕新季 · 全场景新品发布会，10 月 28 日 14:30，敬请期待！除此之外，官方暂未公布此次新品发布会的具体信息乃至产品阵容，IT之家将保持关注。此前的消息称，华为畅享 100 系列手机宣传海报已在线下露出，目前在多个平台曝光。画面显示，新机延续家族化设计，预装鸿蒙 HarmonyOS 系统，主打“麒麟芯、防诈强、信号好、续航长”等特性卖点。根据 @数码闲聊站 的爆料，新机配置大致如下：华为畅享 100 Pro Max 512GB 版本独享麒麟 8020 处理器，256GB / 128GB 版本搭载麒麟 8020A 处理器，后置 50Mp 大圆镜头 Deco；华为畅享 100 Pro 搭载麒麟 8020A 处理器；华为畅享 100 标准版搭载麒麟 8000S 处理器。另外，系列新机的电池容量分别为 8800mAh / 6100mAh / 6100mAh（博主未指明具体机型的电池容量情况）。还有消息称，华为将推出名为“星芒”的子品牌，定位是主攻线上渠道，相对有性价比。据称，“星芒”系列目前已规划多款",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-10-22",
+      "score": 0.695
+    },
+    {
+      "title": "Data centers could erase decades of air quality gains",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1015958/data-center-pollution-rising-report",
+      "summary": "A rush of new data centers could bring air pollution roaring back to levels not seen since the 2000s in Texas, which has become ground zero for the physical infrastructure behind generative AI. New and proposed data centers are demanding a tremendous amount of electricity. How developers and utilities meet that demand - with gas […]",
+      "detail": "A rush of new data centers could bring air pollution roaring back to levels not seen since the 2000s in Texas, which has become ground zero for the physical infrastructure behind generative AI. New and proposed data centers are demanding a tremendous amount of electricity. How developers and utilities meet that demand - with gas […]",
+      "source": "The Verge",
+      "source_authority": 0.9,
+      "date": "2026-10-22",
+      "score": 0.635
+    },
+    {
+      "title": "Manfred “Fred” J. Schindler Is 2027 IEEE President-Elect",
+      "url": "https://spectrum.ieee.org/schindler-2027-ieee-president-elect",
+      "summary": "IEEE Life Fellow Manfred “Fred” J. Schindler has been elected as the 2027 IEEE president-elect. He will begin serving as president on 1 January 2028.Schindler, who was nominated by the IEEE Board of Directors, received 16,421 votes in the election. Senior Member David Alan Koehler received 13,874 votes.Schindler’s Top 3 Goals as President-ElectStrengthen IEEE’s connection with industry by coordinating events across geography, industry, and technology to revitalize professional activities, especi",
+      "detail": "IEEE Life Fellow Manfred “Fred” J. Schindler has been elected as the 2027 IEEE president-elect. He will begin serving as president on 1 January 2028.Schindler, who was nominated by the IEEE Board of Directors, received 16,421 votes in the election. Senior Member David Alan Koehler received 13,874 votes.Schindler’s Top 3 Goals as President-ElectStrengthen IEEE’s connection with industry by coordinating events across geography, industry, and technology to revitalize professional activities, especi",
+      "source": "IEEE Spectrum",
+      "source_authority": 0.9,
+      "date": "2026-10-22",
+      "score": 0.635
+    },
+    {
+      "title": "How Wikipedia’s Editors Keep the Online Encyclopedia Human-Written",
+      "url": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
+      "summary": "Ellia Lebleu is a founding member of the WikiProject AI Cleanup, a volunteer effort launched in 2023 to find and remove AI-generated material from Wikipedia that breaks the website’s guidelines. When the cleanup began, AI writing was often betrayed by conspicuous clichés. Today, the project’s volunteers are developing tools to detect subtler forms of machine-generated content and debating AI’s role in the world’s most widely used encyclopedia. When did you realize Wikipedia had a problem with AI",
+      "detail": "Ellia Lebleu is a founding member of the WikiProject AI Cleanup, a volunteer effort launched in 2023 to find and remove AI-generated material from Wikipedia that breaks the website’s guidelines. When the cleanup began, AI writing was often betrayed by conspicuous clichés. Today, the project’s volunteers are developing tools to detect subtler forms of machine-generated content and debating AI’s role in the world’s most widely used encyclopedia. When did you realize Wikipedia had a problem with AI",
+      "source": "IEEE Spectrum",
+      "source_authority": 0.9,
+      "date": "2026-10-21",
+      "score": 0.635
+    },
+    {
+      "title": "Scaling Data Movement For Physical AI",
+      "url": "https://semiengineering.com/scaling-data-movement-for-physical-ai/",
+      "summary": "One size does not fit all.\nThe post Scaling Data Movement For Physical AI appeared first on Semiconductor Engineering.",
+      "detail": "One size does not fit all.\nThe post Scaling Data Movement For Physical AI appeared first on Semiconductor Engineering.",
+      "source": "SemiEngineering",
+      "source_authority": 0.85,
+      "date": "2026-10-21",
+      "score": 0.6
+    }
+  ],
+  "category3": [
+    {
+      "title": "迈步“史上最大 IPO”，消息称 Anthropic 最快本周五公开提交上市申请",
+      "url": "https://www.ithome.com/1/016/243.htm",
+      "summary": "IT之家 10 月 22 日消息，当地时间 21 日，据雅虎财经援引三名知情人士消息称，Anthropic 最早或于本周五公开提交 S-1 招股说明书，为有望创下史上最大规模的 IPO 迈出关键一步。Anthropic 的上市计划备受关注，预计规模将超过 SpaceX 今年 6 月的 IPO。随着投资者对 AI 行业巨额支出的担忧加剧，市场普遍认为，Anthropic 上市将成为检验投资者对 AI 热潮还有多大兴趣的一次重要考验。今年 6 月，Anthropic 向美国证券交易委员会秘密提交了 IPO 申请草案。根据规定，采用保密申报程序的企业，须在正式投资者路演开始至少 15 个自然日前公开申请文件。如果顺利公开招股书，Anthropic 距离 11 月上市就将更近一步，但最终发行时间仍受市场环境等因素影响。届时，普通投资者也将首次得以了解其具体财务数据及潜在风险。Anthropic 斥资数十亿美元建设 AI 基础设施，以支持 Claude 系列模型的训练和运行。除了与谷歌、亚马逊合作，公司还租用 SpaceX 旗下 Colossus 1 数据中心的 GPU 算力。今年上半年，Ant",
+      "detail": "IT之家 10 月 22 日消息，当地时间 21 日，据雅虎财经援引三名知情人士消息称，Anthropic 最早或于本周五公开提交 S-1 招股说明书，为有望创下史上最大规模的 IPO 迈出关键一步。Anthropic 的上市计划备受关注，预计规模将超过 SpaceX 今年 6 月的 IPO。随着投资者对 AI 行业巨额支出的担忧加剧，市场普遍认为，Anthropic 上市将成为检验投资者对 AI 热潮还有多大兴趣的一次重要考验。今年 6 月，Anthropic 向美国证券交易委员会秘密提交了 IPO 申请草案。根据规定，采用保密申报程序的企业，须在正式投资者路演开始至少 15 个自然日前公开申请文件。如果顺利公开招股书，Anthropic 距离 11 月上市就将更近一步，但最终发行时间仍受市场环境等因素影响。届时，普通投资者也将首次得以了解其具体财务数据及潜在风险。Anthropic 斥资数十亿美元建设 AI 基础设施，以支持 Claude 系列模型的训练和运行。除了与谷歌、亚马逊合作，公司还租用 SpaceX 旗下 Colossus 1 数据中心的 GPU 算力。今年上半年，Ant",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-10-22",
+      "score": 0.975
+    },
+    {
+      "title": "美光预告 G11 NAND：超 400 层堆叠，双倍密度，2027H2 产能爬坡",
+      "url": "https://www.ithome.com/1/016/225.htm",
+      "summary": "IT之家 10 月 22 日消息，Micron（美光）当地时间昨日举行了 2026 年度技术网络研讨会，对 DRAM、泛 HBM、NAND 与 SSD 进行了展望，本篇关注闪存类别。美光本次预告了其预计 2027H2 产能爬坡的 G11 NAND 闪存，这家企业似乎跳过了 G10 世代。G11 NAND 堆叠超过 400 层，应用晶圆对晶圆键合技术，按面积计算的存储密度是现有 276 层 G9 NAND 的 2 倍左右，同时能实现至高 1.5 倍的 I/O 速率，数据传输能耗则可减少 25% 以上。在 G11 后，美光计划在 NAND 中导入突破性的高迁移率材料，实现超密集的单元架构，强化节能属性。美光介绍了 2 种 AI-class 数据中心级 NAND 设计，分别是基于 SLC 的 GPU 直连 IOPS 优化产品、类似 HBF 定义的带宽优化产品。美光还展示了其全方位的 AI 优化存储解决方案，",
+      "detail": "IT之家 10 月 22 日消息，Micron（美光）当地时间昨日举行了 2026 年度技术网络研讨会，对 DRAM、泛 HBM、NAND 与 SSD 进行了展望，本篇关注闪存类别。美光本次预告了其预计 2027H2 产能爬坡的 G11 NAND 闪存，这家企业似乎跳过了 G10 世代。G11 NAND 堆叠超过 400 层，应用晶圆对晶圆键合技术，按面积计算的存储密度是现有 276 层 G9 NAND 的 2 倍左右，同时能实现至高 1.5 倍的 I/O 速率，数据传输能耗则可减少 25% 以上。在 G11 后，美光计划在 NAND 中导入突破性的高迁移率材料，实现超密集的单元架构，强化节能属性。美光介绍了 2 种 AI-class 数据中心级 NAND 设计，分别是基于 SLC 的 GPU 直连 IOPS 优化产品、类似 HBF 定义的带宽优化产品。美光还展示了其全方位的 AI 优化存储解决方案，",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-10-22",
+      "score": 0.86
+    },
+    {
+      "title": "Accelerating Manufacturing-Aware Simulations For Photonic Integrated Circuits With FTCO And Digital Twins",
+      "url": "https://semiengineering.com/accelerating-manufacturing-aware-simulations-for-photonic-integrated-circuits-with-ftco-and-digital-twins/",
+      "summary": "Fab workflow connects GDS layout import, 3D process simulation, GPU-accelerated FDTD, design of experiments, with AI-based surrogate modeling.\nThe post Accelerating Manufacturing-Aware Simulations For Photonic Integrated Circuits With FTCO And Digital Twins appeared first on Semiconductor Engineering.",
+      "detail": "Fab workflow connects GDS layout import, 3D process simulation, GPU-accelerated FDTD, design of experiments, with AI-based surrogate modeling.\nThe post Accelerating Manufacturing-Aware Simulations For Photonic Integrated Circuits With FTCO And Digital Twins appeared first on Semiconductor Engineering.",
+      "source": "SemiEngineering",
+      "source_authority": 0.85,
+      "date": "2026-10-21",
+      "score": 0.825
+    },
+    {
+      "title": "华为 FreeClip 2 耳夹耳机全新潮玩拼色版预售，1299 元",
+      "url": "https://www.ithome.com/1/016/217.htm",
+      "summary": "IT之家 10 月 22 日消息，华为 FreeClip 2 耳夹耳机全新潮玩拼色版本官宣今日（10 月 22 日）10:08 开启预售，售价 1299 元。耳机可选红 / 黄、蓝 / 黄、红 / 蓝拼色三个版本，IT之家附图如下：据IT之家此前报道，华为 FreeClip 2 采用了华为全新第三代自研低功耗芯片，首次引入 NPU AI 处理器，算力提升 10 倍；新增鸿蒙 AI 耳边助手，支持头动播报、智慧播报、小艺唤醒、小艺翻译。这款耳机采用了 φ10.8mm 开放式双振膜声学单元，响度提升 100%，低频动力提升 100%；配备 60mAh 电池，单次续航 9 小时，搭配充电仓（537mAh 电池）38 小时，充电 10 分钟补能 3 小时。华为 FreeClip 2 支持 L2HC 音频编码；支持智感音量自适应、智感人声增强、空间音频（头动跟踪时延降低 40%）；支持星闪精确查找、星闪音频。该耳机升级亲肤液态硅胶材质，搭配高性能记忆金属，柔软度提升 25%，单耳重 5.1g，耳机支持 IP57 防尘防水。",
+      "detail": "IT之家 10 月 22 日消息，华为 FreeClip 2 耳夹耳机全新潮玩拼色版本官宣今日（10 月 22 日）10:08 开启预售，售价 1299 元。耳机可选红 / 黄、蓝 / 黄、红 / 蓝拼色三个版本，IT之家附图如下：据IT之家此前报道，华为 FreeClip 2 采用了华为全新第三代自研低功耗芯片，首次引入 NPU AI 处理器，算力提升 10 倍；新增鸿蒙 AI 耳边助手，支持头动播报、智慧播报、小艺唤醒、小艺翻译。这款耳机采用了 φ10.8mm 开放式双振膜声学单元，响度提升 100%，低频动力提升 100%；配备 60mAh 电池，单次续航 9 小时，搭配充电仓（537mAh 电池）38 小时，充电 10 分钟补能 3 小时。华为 FreeClip 2 支持 L2HC 音频编码；支持智感音量自适应、智感人声增强、空间音频（头动跟踪时延降低 40%）；支持星闪精确查找、星闪音频。该耳机升级亲肤液态硅胶材质，搭配高性能记忆金属，柔软度提升 25%，单耳重 5.1g，耳机支持 IP57 防尘防水。",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-10-22",
+      "score": 0.785
+    },
+    {
+      "title": "Canadian publisher Boréal ends relationship with novelist Thélyson Orélien over alleged use of AI",
+      "url": "https://www.theguardian.com/culture/2026/oct/22/canadian-publisher-boreal-ends-relationship-author-thelyson-orelien-over-ai",
+      "summary": "Author withdrawn from France’s Prix Goncourt last month has repeatedly denied using artificial intelligence to write novelThe publisher of top-selling Haitian Canadian writer Thélyson Orélien, who was removed from France’s most prestigious literary prize list last month, has confirmed the author used artificial intelligence to help write his novel C’était ça ou mourir (It Was Either That or Die).Orélien has denied allegations that he used AI on his breakthrough novel and, last week, Canadian pub",
+      "detail": "Author withdrawn from France’s Prix Goncourt last month has repeatedly denied using artificial intelligence to write novelThe publisher of top-selling Haitian Canadian writer Thélyson Orélien, who was removed from France’s most prestigious literary prize list last month, has confirmed the author used artificial intelligence to help write his novel C’était ça ou mourir (It Was Either That or Die).Orélien has denied allegations that he used AI on his breakthrough novel and, last week, Canadian pub",
+      "source": "The Guardian",
+      "source_authority": 0.85,
+      "date": "2026-10-22",
+      "score": 0.705
+    },
+    {
+      "title": "Elon Musk Says SpaceX and Tesla Are Exploring a Merger",
+      "url": "https://www.nytimes.com/2026/10/21/business/elon-musk-spacex-tesla-merger.html",
+      "summary": "A deal would consolidate Elon Musk’s holdings in rockets, cars and artificial intelligence into a company worth well over $3 trillion.",
+      "detail": "A deal would consolidate Elon Musk’s holdings in rockets, cars and artificial intelligence into a company worth well over $3 trillion.",
+      "source": "NYT",
+      "source_authority": 0.9,
+      "date": "2026-10-22",
+      "score": 0.6875
+    }
+  ],
+  "category4": [
+    {
+      "title": "特斯拉开始在弗里蒙特工厂生产 Optimus 人形机器人，马斯克称达周产 2 万台仍需约一年甚至更久",
+      "url": "https://www.ithome.com/1/016/218.htm",
+      "summary": "IT之家 10 月 22 日消息，特斯拉 2026 年第三季度财报显示，公司已经在弗里蒙特工厂的一条大批量产产线上启动擎天柱（Optimus）人形机器人的生产。不过首席执行官埃隆 · 马斯克（Elon Musk）表示，这条产线还需要大约一年甚至更久，才能达到每周 2 万台机器人的目标产能。特斯拉在 2026 年第三季度业务更新报告中称，弗里蒙特产线下线的这批机器人，是首批达到量产标准的擎天柱，当前生产流程已经可以支撑商业化产品制造。特斯拉仅用 46 天就拆除了弗里蒙特工厂原来用于生产 Model S 和 Model X 的产线，为擎天柱的生产腾出场地。就在近期，马斯克承认擎天柱项目仍面临不少难题，包括机械手的技术难点，以及中国稀土磁铁供应方面的限制。马斯克在周三的财报电话会议中说，特斯拉已经“在弗里蒙特的大批量产线上开启了我所说的早期生产阶段”，并且“这条百万台级产线的绝大部分设备”已经到位。“我预计我们至少需要一年，或许还要稍久一点，才能实现每周 2 万台的年化产能。”马斯克表示。他提到，大约有一万项细节需要全部调试到位。由于擎天柱属于“颠覆性的全新产品”，产能爬坡的初期阶段进展缓慢",
+      "detail": "IT之家 10 月 22 日消息，特斯拉 2026 年第三季度财报显示，公司已经在弗里蒙特工厂的一条大批量产产线上启动擎天柱（Optimus）人形机器人的生产。不过首席执行官埃隆 · 马斯克（Elon Musk）表示，这条产线还需要大约一年甚至更久，才能达到每周 2 万台机器人的目标产能。特斯拉在 2026 年第三季度业务更新报告中称，弗里蒙特产线下线的这批机器人，是首批达到量产标准的擎天柱，当前生产流程已经可以支撑商业化产品制造。特斯拉仅用 46 天就拆除了弗里蒙特工厂原来用于生产 Model S 和 Model X 的产线，为擎天柱的生产腾出场地。就在近期，马斯克承认擎天柱项目仍面临不少难题，包括机械手的技术难点，以及中国稀土磁铁供应方面的限制。马斯克在周三的财报电话会议中说，特斯拉已经“在弗里蒙特的大批量产线上开启了我所说的早期生产阶段”，并且“这条百万台级产线的绝大部分设备”已经到位。“我预计我们至少需要一年，或许还要稍久一点，才能实现每周 2 万台的年化产能。”马斯克表示。他提到，大约有一万项细节需要全部调试到位。由于擎天柱属于“颠覆性的全新产品”，产能爬坡的初期阶段进展缓慢",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-10-22",
+      "score": 0.86
+    },
+    {
+      "title": "Jensen Huang’s Vision for Europe Runs on Plug-In Data Centers",
+      "url": "https://www.wired.com/story/jensen-huangs-vision-for-europe-runs-on-plug-in-data-centers/",
+      "summary": "At Nvidia’s GTC in Berlin, Huang unveiled the company’s new plug-in data center—the DSX Pod—as the key to unlocking Europe’s AI infrastructure lag. Oh, and autonomous humanoid robotics.",
+      "detail": "At Nvidia’s GTC in Berlin, Huang unveiled the company’s new plug-in data center—the DSX Pod—as the key to unlocking Europe’s AI infrastructure lag. Oh, and autonomous humanoid robotics.",
+      "source": "Wired",
+      "source_authority": 0.85,
+      "date": "2026-10-21",
+      "score": 0.785
+    },
+    {
+      "title": "西门子医疗与英伟达官宣合作：用 AI 推进癌症诊疗，开发下一代自适应放疗",
+      "url": "https://www.ithome.com/1/016/206.htm",
+      "summary": "IT之家 10 月 22 日消息，西门子医疗与英伟达今日宣布达成合作，双方正共同开发下一代自适应放射治疗技术，融合智能体与机器人智能，将影像和肿瘤学专业知识与加速计算及仿真相结合，以简化工作流程并提升医疗可及性。西门子医疗首席执行官孟天齐（Bernd Montag）表示，西门子医疗与英伟达共同确定了自适应放射治疗领域首批开发工作的三个方向：治疗规划中的智能体 AI，有望帮助评估治疗方案、执行计算及其它任务，并与临床医生互动；先进的患者仿真，可利用患者特异性数字孪生在放射治疗开始前测试治疗场景；实时自适应计算，可帮助肿瘤团队在治疗过程中更好地应对患者不断变化的状况。孟天齐介绍称，这些工作的核心是帮助医疗服务提供者更无缝地管理复杂性，就治疗方案做出更明智的决策，并最终将更多时间用于患者服务。西门子医疗全球领导委员会成员、肿瘤医学事业部全球总裁康恺德（Arthur Kaindl）表示，自适应放射治疗建立在一个基本原则之上：治疗应当适应患者，而不是让患者去适应治疗。“我们在精准度和自适应方面已取得重要进展，最近还推出了 Accela 系统。我们与英伟达的合作在此基础上更进一步，探索 AI 和实",
+      "detail": "IT之家 10 月 22 日消息，西门子医疗与英伟达今日宣布达成合作，双方正共同开发下一代自适应放射治疗技术，融合智能体与机器人智能，将影像和肿瘤学专业知识与加速计算及仿真相结合，以简化工作流程并提升医疗可及性。西门子医疗首席执行官孟天齐（Bernd Montag）表示，西门子医疗与英伟达共同确定了自适应放射治疗领域首批开发工作的三个方向：治疗规划中的智能体 AI，有望帮助评估治疗方案、执行计算及其它任务，并与临床医生互动；先进的患者仿真，可利用患者特异性数字孪生在放射治疗开始前测试治疗场景；实时自适应计算，可帮助肿瘤团队在治疗过程中更好地应对患者不断变化的状况。孟天齐介绍称，这些工作的核心是帮助医疗服务提供者更无缝地管理复杂性，就治疗方案做出更明智的决策，并最终将更多时间用于患者服务。西门子医疗全球领导委员会成员、肿瘤医学事业部全球总裁康恺德（Arthur Kaindl）表示，自适应放射治疗建立在一个基本原则之上：治疗应当适应患者，而不是让患者去适应治疗。“我们在精准度和自适应方面已取得重要进展，最近还推出了 Accela 系统。我们与英伟达的合作在此基础上更进一步，探索 AI 和实",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-10-22",
+      "score": 0.785
+    },
+    {
+      "title": "特斯拉：上季度北美 75% 的新车买家订阅了 FSD",
+      "url": "https://www.ithome.com/1/016/196.htm",
+      "summary": "IT之家 10 月 22 日消息，多年来，特斯拉一直主张其汽车最有价值的部分并非车辆本身，而是支撑自动驾驶功能的软件。如今特斯拉将其自动驾驶技术实力，归结为公司创下四年最高车辆订单积压量的首要原因。这家车企表示，FSD 正是其品牌极具吸引力的核心秘诀。特斯拉称，近期大部分用户需求都来自 FSD，绝大多数新车买家在购车的同时，还会付费订阅这项功能。特斯拉透露，上个季度在北美市场交付的新车中，75% 搭载了 FSD。这一比例高于第二季度的 55%。对于一项每月 99 美元（IT之家注：现汇率约合 662.2 元人民币）的附加服务来说，这样的渗透率相当惊人，毕竟整体消费者群体大多并不接受汽车订阅服务。该数据表明，特斯拉的软件年度经常性收入对应的订阅用户数量在稳步增长。目前全车队的 FSD 订阅用户达到 174 万，同比增长 67%，该数字不含免费试用用户。特斯拉人工智能软件副总裁阿肖克 · 埃卢斯瓦米（Ashok Elluswamy）表示：“我们交付的每一台车都附赠一个月的 FSD 订阅。即便有这一个月免费期，仍然有很多用户选择付费订阅。”值得注意的是，这百万级用户统计里，也包含一次性买断",
+      "detail": "IT之家 10 月 22 日消息，多年来，特斯拉一直主张其汽车最有价值的部分并非车辆本身，而是支撑自动驾驶功能的软件。如今特斯拉将其自动驾驶技术实力，归结为公司创下四年最高车辆订单积压量的首要原因。这家车企表示，FSD 正是其品牌极具吸引力的核心秘诀。特斯拉称，近期大部分用户需求都来自 FSD，绝大多数新车买家在购车的同时，还会付费订阅这项功能。特斯拉透露，上个季度在北美市场交付的新车中，75% 搭载了 FSD。这一比例高于第二季度的 55%。对于一项每月 99 美元（IT之家注：现汇率约合 662.2 元人民币）的附加服务来说，这样的渗透率相当惊人，毕竟整体消费者群体大多并不接受汽车订阅服务。该数据表明，特斯拉的软件年度经常性收入对应的订阅用户数量在稳步增长。目前全车队的 FSD 订阅用户达到 174 万，同比增长 67%，该数字不含免费试用用户。特斯拉人工智能软件副总裁阿肖克 · 埃卢斯瓦米（Ashok Elluswamy）表示：“我们交付的每一台车都附赠一个月的 FSD 订阅。即便有这一个月免费期，仍然有很多用户选择付费订阅。”值得注意的是，这百万级用户统计里，也包含一次性买断",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-10-22",
+      "score": 0.785
+    },
+    {
+      "title": "AGCO to deploy Agility Digit humanoid in Kansas factory",
+      "url": "https://www.therobotreport.com/agco-to-deploy-agility-digit-humanoid-in-kansas-factory/",
+      "summary": "The Agility pilot, which is expected to begin in 2027, will begin at an AGCO production facility for agricultural equipment.\nThe post AGCO to deploy Agility Digit humanoid in Kansas factory appeared first on The Robot Report.",
+      "detail": "The Agility pilot, which is expected to begin in 2027, will begin at an AGCO production facility for agricultural equipment.\nThe post AGCO to deploy Agility Digit humanoid in Kansas factory appeared first on The Robot Report.",
+      "source": "The Robot Report",
+      "source_authority": 0.85,
+      "date": "2026-10-21",
+      "score": 0.775
+    },
+    {
+      "title": "A guide to Day 2 of RoboBusiness 2026",
+      "url": "https://www.therobotreport.com/a-guide-to-day-2-of-robobusiness-2026/",
+      "summary": "Day 2 of RoboBusiness 2026, the 20th anniversary of the event, will include interesting keynotes around humanoids and social robots.\nThe post A guide to Day 2 of RoboBusiness 2026 appeared first on The Robot Report.",
+      "detail": "Day 2 of RoboBusiness 2026, the 20th anniversary of the event, will include interesting keynotes around humanoids and social robots.\nThe post A guide to Day 2 of RoboBusiness 2026 appeared first on The Robot Report.",
+      "source": "The Robot Report",
+      "source_authority": 0.85,
+      "date": "2026-10-21",
+      "score": 0.775
+    }
+  ]
+}
