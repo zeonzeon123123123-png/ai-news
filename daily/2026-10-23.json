@@ -1,0 +1,341 @@
+{
+  "date": "2026-10-23",
+  "category1": [
+    {
+      "title": "“现代史上最大规模财富捐赠”：Anthropic 等 AI 三巨头拟投入近 3000 亿美元做慈善",
+      "url": "https://www.ithome.com/1/016/799.htm",
+      "summary": "IT之家 10 月 23 日消息，《华盛顿邮报》昨日（10 月 22 日）发布博文，报道称 Anthropic、OpenAI 和 SpaceXSI 三家 AI 巨头正酝酿“现代史上规模最大的财富捐赠”，规模可能接近 3,000 亿美元（IT之家注：现汇率约合 2.01 万亿元人民币）。Anthropic 宣布，将把公司 5% 股份捐入一个新的公益基金。若该公司上市时估值达到 2 万亿美元（现汇率约合 13.38 万亿元人民币），该基金规模可达 1,000 亿美元（现汇率约合 6,688.23 亿元人民币）；其七位创始人还承诺捐出个人财富的 80%。这笔资金可能用于补贴受 AI 自动化影响的特定人群，并资助相关研究。OpenAI 的慈善基金会据称持有公司约四分之一股份，价值超过 1,800 亿美元（现汇率约合 1.2 万亿元人民币），并已投入 8.55 亿美元（现汇率约合 57.18 亿元人民币）用于公益项目。马斯克则表示，计划明年向美国每个孩子赠送一份 SpaceX 股份，按 SpaceX 近期股价估算，捐赠总额可能超过 110 亿美元（现汇率约合 735.7 亿元人民币）。不过该媒体",
+      "detail": "IT之家 10 月 23 日消息，《华盛顿邮报》昨日（10 月 22 日）发布博文，报道称 Anthropic、OpenAI 和 SpaceXSI 三家 AI 巨头正酝酿“现代史上规模最大的财富捐赠”，规模可能接近 3,000 亿美元（IT之家注：现汇率约合 2.01 万亿元人民币）。Anthropic 宣布，将把公司 5% 股份捐入一个新的公益基金。若该公司上市时估值达到 2 万亿美元（现汇率约合 13.38 万亿元人民币），该基金规模可达 1,000 亿美元（现汇率约合 6,688.23 亿元人民币）；其七位创始人还承诺捐出个人财富的 80%。这笔资金可能用于补贴受 AI 自动化影响的特定人群，并资助相关研究。OpenAI 的慈善基金会据称持有公司约四分之一股份，价值超过 1,800 亿美元（现汇率约合 1.2 万亿元人民币），并已投入 8.55 亿美元（现汇率约合 57.18 亿元人民币）用于公益项目。马斯克则表示，计划明年向美国每个孩子赠送一份 SpaceX 股份，按 SpaceX 近期股价估算，捐赠总额可能超过 110 亿美元（现汇率约合 735.7 亿元人民币）。不过该媒体",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-10-23",
+      "score": 0.96
+    },
+    {
+      "title": "AI 智能体的“说明书”转为社区共治：Anthropic 捐赠 Agent Skills 开放标准",
+      "url": "https://www.ithome.com/1/016/811.htm",
+      "summary": "IT之家 10 月 23 日消息，Anthropic 昨日（10 月 22 日）发布公告，宣布向 Linux 基金会旗下的 Agentic AI Foundation（AAIF）组织捐赠 Agent Skills 开放标准，让其从单一公司项目转为社区共治的 AI 智能体能力标准。AAIF 于 2025 年 12 月 9 日成立，由 Linux 基金会运营，由 Anthropic、Block 和 OpenAI 共同创立，负责托管和治理 AI 智能体生态中的开放协议、标准与开源项目。Anthropic 此前已将 Model Context Protocol（MCP）捐赠至该组织。IT之家注：Agent Skills 可理解为面向 AI 智能体的“说明书”：一个包含 SKILL.md 说明文件的文件夹，能够向智能体传授特定任务或领域知识，并可附带脚本、模板和参考资料。AI 智能体可按需加载这些技能，从而在不同产品间复用工作流程与专业知识。自 2025 年 12 月作为开放标准发布以来，ChatGPT、Cursor、GitHub Copilot、VS Code 等 70 多个智能体平台已集成",
+      "detail": "IT之家 10 月 23 日消息，Anthropic 昨日（10 月 22 日）发布公告，宣布向 Linux 基金会旗下的 Agentic AI Foundation（AAIF）组织捐赠 Agent Skills 开放标准，让其从单一公司项目转为社区共治的 AI 智能体能力标准。AAIF 于 2025 年 12 月 9 日成立，由 Linux 基金会运营，由 Anthropic、Block 和 OpenAI 共同创立，负责托管和治理 AI 智能体生态中的开放协议、标准与开源项目。Anthropic 此前已将 Model Context Protocol（MCP）捐赠至该组织。IT之家注：Agent Skills 可理解为面向 AI 智能体的“说明书”：一个包含 SKILL.md 说明文件的文件夹，能够向智能体传授特定任务或领域知识，并可附带脚本、模板和参考资料。AI 智能体可按需加载这些技能，从而在不同产品间复用工作流程与专业知识。自 2025 年 12 月作为开放标准发布以来，ChatGPT、Cursor、GitHub Copilot、VS Code 等 70 多个智能体平台已集成",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-10-23",
+      "score": 0.9375
+    },
+    {
+      "title": "Canva’s first AI image model plans designs before generating them",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
+      "summary": "Canva is diving even deeper into AI with the launch of an image generation model that competes directly with those from OpenAI, Microsoft, and Google. The model, called Canva Craft, uses a two-stage architecture that allows it to plan a design before generating an image, allowing for \"greater precision, consistency and control,\" according to an […]",
+      "detail": "Canva is diving even deeper into AI with the launch of an image generation model that competes directly with those from OpenAI, Microsoft, and Google. The model, called Canva Craft, uses a two-stage architecture that allows it to plan a design before generating an image, allowing for \"greater precision, consistency and control,\" according to an […]",
+      "source": "The Verge",
+      "source_authority": 0.9,
+      "date": "2026-10-23",
+      "score": 0.9325
+    },
+    {
+      "title": "OpenAI, Anthropic, and Nvidia had record lobbying quarters",
+      "url": "https://www.theverge.com/policy/1016585/openai-anthropic-nvidia-lobbying-records",
+      "summary": "It was a busy summer for AI lobbyists. Anthropic, OpenAI, and Nvidia each had their highest-spending lobbying quarter between July and September, federal disclosures show. Nvidia spent the most of the group at $2.2 million, followed by Anthropic's $2.1 million and OpenAI's $1.5 million. Compared to other Big Tech companies with long-established presences in Washington, […]",
+      "detail": "It was a busy summer for AI lobbyists. Anthropic, OpenAI, and Nvidia each had their highest-spending lobbying quarter between July and September, federal disclosures show. Nvidia spent the most of the group at $2.2 million, followed by Anthropic's $2.1 million and OpenAI's $1.5 million. Compared to other Big Tech companies with long-established presences in Washington, […]",
+      "source": "The Verge",
+      "source_authority": 0.9,
+      "date": "2026-10-22",
+      "score": 0.93
+    },
+    {
+      "title": "DeepSeek、MiniMax 已顺利履行登记手续，完成开源和海外授权使用",
+      "url": "https://www.ithome.com/1/016/796.htm",
+      "summary": "IT之家 10 月 23 日消息，10 月 16 日，商务部、科技部就修订《中国禁止出口限制出口技术目录》公开征求意见。其中，人工智能领域包括大模型、智能体、算力集群、信息处理相关 23 项技术；对已通过开源、发表学术论文等方式进入公共领域的技术，不纳入管理范围。中央广播电视总台旗下新媒体账号玉渊谭天昨晚（22 日）发文透露，政策公布以来，DeepSeek、MiniMax 两家头部企业已顺利履行登记手续，并完成开源和海外授权使用。商务部新闻发言人此前就有关问题回答了记者提问，IT之家整理商务部原文如下：问：对于拟增列的人工智能技术，主要有哪些考虑？答：当前，全球人工智能技术创新进入前所未有的活跃期，机遇与挑战并存。此次拟将人工智能大模型、智能体、算力集群、信息处理相关 23 项关键技术增列至《目录》，主要有以下考虑：一是确保人工智能技术安全可控。人工智能引发的各类内生和衍生风险已引起全球各国的高度关注。此次拟列管的人工智能自主驱动恶意代码生成与变异技术等，可被用于攻击国家关键信息基础设施、国防军工、核心政务等敏感系统，或用于绕过国家安全防御体系。若被非国家行为体或恶意实体获取，可能对国",
+      "detail": "IT之家 10 月 23 日消息，10 月 16 日，商务部、科技部就修订《中国禁止出口限制出口技术目录》公开征求意见。其中，人工智能领域包括大模型、智能体、算力集群、信息处理相关 23 项技术；对已通过开源、发表学术论文等方式进入公共领域的技术，不纳入管理范围。中央广播电视总台旗下新媒体账号玉渊谭天昨晚（22 日）发文透露，政策公布以来，DeepSeek、MiniMax 两家头部企业已顺利履行登记手续，并完成开源和海外授权使用。商务部新闻发言人此前就有关问题回答了记者提问，IT之家整理商务部原文如下：问：对于拟增列的人工智能技术，主要有哪些考虑？答：当前，全球人工智能技术创新进入前所未有的活跃期，机遇与挑战并存。此次拟将人工智能大模型、智能体、算力集群、信息处理相关 23 项关键技术增列至《目录》，主要有以下考虑：一是确保人工智能技术安全可控。人工智能引发的各类内生和衍生风险已引起全球各国的高度关注。此次拟列管的人工智能自主驱动恶意代码生成与变异技术等，可被用于攻击国家关键信息基础设施、国防军工、核心政务等敏感系统，或用于绕过国家安全防御体系。若被非国家行为体或恶意实体获取，可能对国",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-10-23",
+      "score": 0.8975
+    },
+    {
+      "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+      "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+      "summary": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever.",
+      "detail": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever.",
+      "source": "TechCrunch",
+      "source_authority": 0.95,
+      "date": "2026-10-23",
+      "score": 0.8325
+    },
+    {
+      "title": "Someone hacked the Switch 2 by using an old game and AI",
+      "url": "https://www.theverge.com/games/1016862/nintendo-switch-2-jailbreak-ai",
+      "summary": "The Nintendo Switch 2 has apparently been jailbroken, and a modder has already shown the console running a custom version of Mario Kart World featuring new playable characters like Cinnamoroll, the red Angry Bird, Peter Griffin, and Steve from Minecraft. OpenAI's Codex helped make this \"ns2jb\" jailbreak, according to Sammy Hajhamid, aka \"pepsipu.\" It's a […]",
+      "detail": "The Nintendo Switch 2 has apparently been jailbroken, and a modder has already shown the console running a custom version of Mario Kart World featuring new playable characters like Cinnamoroll, the red Angry Bird, Peter Griffin, and Steve from Minecraft. OpenAI's Codex helped make this \"ns2jb\" jailbreak, according to Sammy Hajhamid, aka \"pepsipu.\" It's a […]",
+      "source": "The Verge",
+      "source_authority": 0.9,
+      "date": "2026-10-23",
+      "score": 0.8
+    },
+    {
+      "title": "DeepSeek reportedly raises $15B days after US restrictions",
+      "url": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/",
+      "summary": "DeepSeek has reportedly raised $15 billion in one of China's largest funding rounds, just days after the U.S. ordered federal agencies to remove its technology over national security concerns.",
+      "detail": "DeepSeek has reportedly raised $15 billion in one of China's largest funding rounds, just days after the U.S. ordered federal agencies to remove its technology over national security concerns.",
+      "source": "TechCrunch",
+      "source_authority": 0.95,
+      "date": "2026-10-22",
+      "score": 0.7825
+    },
+    {
+      "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
+      "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
+      "summary": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
+      "detail": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
+      "source": "TechCrunch",
+      "source_authority": 0.95,
+      "date": "2026-10-23",
+      "score": 0.75
+    },
+    {
+      "title": "AI firms say UK has a year to head off datacentre protests before construction is threatened",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/22/ai-firms-say-uk-has-a-year-to-head-off-datacentre-protests-before-construction-is-threatened",
+      "summary": "Exclusive: Nvidia, Microsoft and Cisco taskforce urges ministers to offer areas greater benefits from tech infrastructure amid fears of US-style oppositionAI companies have told ministers they have 12 months to head off public opposition to datacentres in the UK or risk US-style protests that could threaten their construction.Successive dry summers and rising energy bills are increasing public scrutiny of plans for the huge computer warehouses that are used to train and run AI models, says a sub",
+      "detail": "Exclusive: Nvidia, Microsoft and Cisco taskforce urges ministers to offer areas greater benefits from tech infrastructure amid fears of US-style oppositionAI companies have told ministers they have 12 months to head off public opposition to datacentres in the UK or risk US-style protests that could threaten their construction.Successive dry summers and rising energy bills are increasing public scrutiny of plans for the huge computer warehouses that are used to train and run AI models, says a sub",
+      "source": "The Guardian",
+      "source_authority": 0.85,
+      "date": "2026-10-22",
+      "score": 0.7425
+    }
+  ],
+  "category2": [
+    {
+      "title": "In Meta’s version of the future, I’ll have my Muse call your Muse",
+      "url": "https://www.theverge.com/tech/1016905/meta-earnings-fall-2026-muse-network",
+      "summary": "Mark Zuckerberg is barrelling toward a future in which an autonomous network of AI agents will run our lives - shopping for us, working for us, talking to other people's AI agents for us. Are humans ready for this very specific and unrelenting vision of a life in which we communicate primarily through bot proxies? […]",
+      "detail": "Mark Zuckerberg is barrelling toward a future in which an autonomous network of AI agents will run our lives - shopping for us, working for us, talking to other people's AI agents for us. Are humans ready for this very specific and unrelenting vision of a life in which we communicate primarily through bot proxies? […]",
+      "source": "The Verge",
+      "source_authority": 0.9,
+      "date": "2026-10-23",
+      "score": 0.845
+    },
+    {
+      "title": "Microsoft says its AI tool is better than doctors at diagnosing conditions",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1016690/suleyman-microsoft-diagnostic-orchestrator-science-medical-superintelligence",
+      "summary": "For years, AI leaders have touted healthcare as one of the clearest examples of where their technology will improve lives. Now \"it is finally here,\" Microsoft AI CEO Mustafa Suleyman tells The Verge. The company claims to have developed an AI-powered tool it says can diagnose conditions up to four times more accurately than human […]",
+      "detail": "For years, AI leaders have touted healthcare as one of the clearest examples of where their technology will improve lives. Now \"it is finally here,\" Microsoft AI CEO Mustafa Suleyman tells The Verge. The company claims to have developed an AI-powered tool it says can diagnose conditions up to four times more accurately than human […]",
+      "source": "The Verge",
+      "source_authority": 0.9,
+      "date": "2026-10-23",
+      "score": 0.8
+    },
+    {
+      "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
+      "url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
+      "summary": "The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts.",
+      "detail": "The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts.",
+      "source": "TechCrunch",
+      "source_authority": 0.95,
+      "date": "2026-10-23",
+      "score": 0.79
+    },
+    {
+      "title": "Discord now formats Markdown previews right",
+      "url": "https://www.theverge.com/news/1017012/discord-markdown-previews-organize-servers-channels",
+      "summary": "Discord's latest update released today has a big improvement for Markdown previews: they should now render correctly instead of with \"a bunch of symbols,\" according to the company. LLMs and AI agents often rely on Markdown files for instructions and context, so these improved previews could be helpful for people sharing information about AI projects […]",
+      "detail": "Discord's latest update released today has a big improvement for Markdown previews: they should now render correctly instead of with \"a bunch of symbols,\" according to the company. LLMs and AI agents often rely on Markdown files for instructions and context, so these improved previews could be helpful for people sharing information about AI projects […]",
+      "source": "The Verge",
+      "source_authority": 0.9,
+      "date": "2026-10-23",
+      "score": 0.77
+    },
+    {
+      "title": "Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise",
+      "url": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/",
+      "summary": "Microsoft points the blame for ConnectWise's breach at a China-aligned hacker, which relied on AI agents to rapidly hack into thousands of its customers.",
+      "detail": "Microsoft points the blame for ConnectWise's breach at a China-aligned hacker, which relied on AI agents to rapidly hack into thousands of its customers.",
+      "source": "TechCrunch",
+      "source_authority": 0.95,
+      "date": "2026-10-23",
+      "score": 0.765
+    },
+    {
+      "title": "Websites across world hit by millions of attempts to exploit PHP code flaw",
+      "url": "https://www.theguardian.com/technology/2026/oct/22/websites-across-world-hit-by-millions-of-attempts-to-exploit-php-code-flaw",
+      "summary": "Problem in language that underpins 70% of sites has led governments and companies to pull sites offline to patch faultTell us: have you been affected by the PHP code flaw?What is PHP, and how bad is the computer language flaw causing website shutdowns globally?Websites around the world have been hit by millions of attempts to exploit a recently discovered vulnerability in their code, cybersecurity companies have said, as the US warned the flaw could allow attackers to take control of web servers",
+      "detail": "Problem in language that underpins 70% of sites has led governments and companies to pull sites offline to patch faultTell us: have you been affected by the PHP code flaw?What is PHP, and how bad is the computer language flaw causing website shutdowns globally?Websites around the world have been hit by millions of attempts to exploit a recently discovered vulnerability in their code, cybersecurity companies have said, as the US warned the flaw could allow attackers to take control of web servers",
+      "source": "The Guardian",
+      "source_authority": 0.85,
+      "date": "2026-10-23",
+      "score": 0.7425
+    },
+    {
+      "title": "Barclays to cut 5,000 jobs as bank’s bosses hail AI productivity advances",
+      "url": "https://www.theguardian.com/business/2026/oct/22/barclays-profits-up-as-uk-banks-brace-for-tax-increase-in-budget",
+      "summary": "Equating to the loss of 5% of its 93,000 global staff, job cuts come as bank announces jump in quarterly profitsBarclays is cutting 5,000 jobs as part of wider cost-saving plans that its bosses say are being driven by advances in AI.The job cuts will mean losing about 5% of the bank’s 93,000 global staff, with executives confirming they had already cut 1,000 workers since the start of the year. Continue reading...",
+      "detail": "Equating to the loss of 5% of its 93,000 global staff, job cuts come as bank announces jump in quarterly profitsBarclays is cutting 5,000 jobs as part of wider cost-saving plans that its bosses say are being driven by advances in AI.The job cuts will mean losing about 5% of the bank’s 93,000 global staff, with executives confirming they had already cut 1,000 workers since the start of the year. Continue reading...",
+      "source": "The Guardian",
+      "source_authority": 0.85,
+      "date": "2026-10-22",
+      "score": 0.7425
+    },
+    {
+      "title": "Why AI Can’t Replace Engineering Teams",
+      "url": "https://spectrum.ieee.org/engineering-jobs-that-ai-cant-replace",
+      "summary": "This article is crossposted from IEEE Spectrum’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written in partnership with tech career development company Parsity and delivered to your inbox for free!If you’re an engineer, you may feel like your skills aren’t commanding the premium they once did. Many engineers have faced layoffs or restructuring. But even for those of us who still have jobs, something corrosive is happening. You may have heard som",
+      "detail": "This article is crossposted from IEEE Spectrum’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written in partnership with tech career development company Parsity and delivered to your inbox for free!If you’re an engineer, you may feel like your skills aren’t commanding the premium they once did. Many engineers have faced layoffs or restructuring. But even for those of us who still have jobs, something corrosive is happening. You may have heard som",
+      "source": "IEEE Spectrum",
+      "source_authority": 0.9,
+      "date": "2026-10-23",
+      "score": 0.71
+    },
+    {
+      "title": "华为畅享 100 系列手机定档 10 月 28 日发布：麒麟 8 系平台、巨鲸大电池加持",
+      "url": "https://www.ithome.com/1/016/815.htm",
+      "summary": "IT之家 10 月 23 日消息，华为终端官微宣布，华为畅享 100 系列将于 10 月 28 日的华为双十一焕新季 · 全场景新品发布会登场，并于 10 月 23 日 10:08 开启预订。官方预告图显示，该机将拥有麒麟 8 系超强芯、华为巨鲸大电池、鸿蒙星盾防诈等加持。此前，该机宣传海报已在线下亮相，新机延续家族化设计，预装鸿蒙 HarmonyOS 系统，主打“麒麟芯、防诈强、信号好、续航长”等特性卖点。据IT之家此前报道，@数码闲聊站 公布了该机的部分核心配置信息。华为畅享 100 Pro Max —— 6.84 英寸 1.5K+LTPS 直屏 + 麒麟 8020 + 8800mAh (额定 8560mAh)，北斗卫星消息，曜金黑 / 雪域白 / 流沙金 / 蔚蓝海畅享 100 Pro 和畅享 100 主打 K8000 系芯片 + 鸿蒙 7，电池 6100mAh，一个幻夜黑 / 羽砂白 / 雀翎蓝 / 羽砂紫，一个幻夜黑 / 冰川白 / 云水蓝 / 丹霞橙相关阅读：《华为畅享 100 系列手机前瞻爆料：消息称 Pro 延续麒麟 8 系平台 + 6.84 英寸 1.5K LTPS",
+      "detail": "IT之家 10 月 23 日消息，华为终端官微宣布，华为畅享 100 系列将于 10 月 28 日的华为双十一焕新季 · 全场景新品发布会登场，并于 10 月 23 日 10:08 开启预订。官方预告图显示，该机将拥有麒麟 8 系超强芯、华为巨鲸大电池、鸿蒙星盾防诈等加持。此前，该机宣传海报已在线下亮相，新机延续家族化设计，预装鸿蒙 HarmonyOS 系统，主打“麒麟芯、防诈强、信号好、续航长”等特性卖点。据IT之家此前报道，@数码闲聊站 公布了该机的部分核心配置信息。华为畅享 100 Pro Max —— 6.84 英寸 1.5K+LTPS 直屏 + 麒麟 8020 + 8800mAh (额定 8560mAh)，北斗卫星消息，曜金黑 / 雪域白 / 流沙金 / 蔚蓝海畅享 100 Pro 和畅享 100 主打 K8000 系芯片 + 鸿蒙 7，电池 6100mAh，一个幻夜黑 / 羽砂白 / 雀翎蓝 / 羽砂紫，一个幻夜黑 / 冰川白 / 云水蓝 / 丹霞橙相关阅读：《华为畅享 100 系列手机前瞻爆料：消息称 Pro 延续麒麟 8 系平台 + 6.84 英寸 1.5K LTPS",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-10-23",
+      "score": 0.695
+    },
+    {
+      "title": "苹果 iOS 27.2 新特性曝光：Messages 未读消息角标计数可排除已静音对话",
+      "url": "https://www.ithome.com/1/016/805.htm",
+      "summary": "IT之家 10 月 23 日消息，消息源 @aaronp613 于 10 月 20 日在 X 平台发布推文，通过挖掘 iOS 27.2 RC 候选版更新，发现苹果正为信息（Messages）应用开发新特性，在未读消息角标计数中，支持排除已静音的信息对话。IT之家援引博文介绍，iPhone 18 Pro 等用户为了减少通知干扰，可以在“信息”中静音某个群聊或联系人，但被静音会话收到的新消息，仍会累计到“信息”应用的未读角标中。对于加入了多个活跃群聊、或希望降低社交信息干扰的用户而言，该设计带来了一定的困扰，明明已经选择“静音”，应用图标上的未读数字却依然不断上升。而在 iOS 27.2 RC 候选版本中，苹果公司正在酝酿新特性，可以让未读消息角标计数，排除已静音的信息对话。不过消息源认为这项特性预计不会随即将发布的 iOS 27.2 正式版一同上线，可能出现在后续系统更新中。",
+      "detail": "IT之家 10 月 23 日消息，消息源 @aaronp613 于 10 月 20 日在 X 平台发布推文，通过挖掘 iOS 27.2 RC 候选版更新，发现苹果正为信息（Messages）应用开发新特性，在未读消息角标计数中，支持排除已静音的信息对话。IT之家援引博文介绍，iPhone 18 Pro 等用户为了减少通知干扰，可以在“信息”中静音某个群聊或联系人，但被静音会话收到的新消息，仍会累计到“信息”应用的未读角标中。对于加入了多个活跃群聊、或希望降低社交信息干扰的用户而言，该设计带来了一定的困扰，明明已经选择“静音”，应用图标上的未读数字却依然不断上升。而在 iOS 27.2 RC 候选版本中，苹果公司正在酝酿新特性，可以让未读消息角标计数，排除已静音的信息对话。不过消息源认为这项特性预计不会随即将发布的 iOS 27.2 正式版一同上线，可能出现在后续系统更新中。",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-10-23",
+      "score": 0.695
+    }
+  ],
+  "category3": [
+    {
+      "title": "MiniMax M3.1 Flash 开源模型权重，总参数 428B",
+      "url": "https://www.ithome.com/1/016/800.htm",
+      "summary": "IT之家 10 月 23 日消息，MiniMax 稀宇科技今日宣布开源 MiniMax M3.1 Flash 的模型权重，总参数 428B，激活参数 23B。相较于上一代 M3 模型，M3.1 Flash 的模型能力实现了全面提升。此外，通过全模型稀疏注意力、量化感知训练和 Power-aware scheduling 等优化工作，M3.1 Flash 进一步提升了推理效率：全模型稀疏注意力：前三个全注意力层替换为稀疏注意力；QAT：路由 MoE 专家迁移到 W4A4（共享专家除外），稀疏注意力索引器和主分支从 Q8KV8 迁移到 Q8KV4；Power-aware scheduling：通过对计算卡功耗的精细分配，保持计算卡持续维持算力高位，极致压榨硬件效率。M3.1 Flash 于 10 月 19 日上线，72 小时内真实用户处理超过 100 万亿 Token。MiniMax 宣布携手华为昇腾、平头哥、昆仑芯、摩尔线程、壁仞、海光、沐曦、天数、英伟达、AMD 等海内外芯片厂商，以及 Together AI、Fireworks、Nebius、Baseten、Modal、Digital",
+      "detail": "IT之家 10 月 23 日消息，MiniMax 稀宇科技今日宣布开源 MiniMax M3.1 Flash 的模型权重，总参数 428B，激活参数 23B。相较于上一代 M3 模型，M3.1 Flash 的模型能力实现了全面提升。此外，通过全模型稀疏注意力、量化感知训练和 Power-aware scheduling 等优化工作，M3.1 Flash 进一步提升了推理效率：全模型稀疏注意力：前三个全注意力层替换为稀疏注意力；QAT：路由 MoE 专家迁移到 W4A4（共享专家除外），稀疏注意力索引器和主分支从 Q8KV8 迁移到 Q8KV4；Power-aware scheduling：通过对计算卡功耗的精细分配，保持计算卡持续维持算力高位，极致压榨硬件效率。M3.1 Flash 于 10 月 19 日上线，72 小时内真实用户处理超过 100 万亿 Token。MiniMax 宣布携手华为昇腾、平头哥、昆仑芯、摩尔线程、壁仞、海光、沐曦、天数、英伟达、AMD 等海内外芯片厂商，以及 Together AI、Fireworks、Nebius、Baseten、Modal、Digital",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-10-23",
+      "score": 0.8825
+    },
+    {
+      "title": "AI’s hidden storage bill: What inference leaves behind",
+      "url": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/",
+      "summary": "Ask most executives to picture the cost of AI and they’ll likely see GPUs—racks of accelerators with gigawatts of power—and a waitlist for silicon. But that picture leaves something out: Data storage costs. What happens to data after a model responds? Much of the back-end data that’s generated—from billions of daily prompts, images, and videos—needs…",
+      "detail": "Ask most executives to picture the cost of AI and they’ll likely see GPUs—racks of accelerators with gigawatts of power—and a waitlist for silicon. But that picture leaves something out: Data storage costs. What happens to data after a model responds? Much of the back-end data that’s generated—from billions of daily prompts, images, and videos—needs…",
+      "source": "MIT Tech Review",
+      "source_authority": 0.9,
+      "date": "2026-10-22",
+      "score": 0.83
+    },
+    {
+      "title": "Sure, let’s smoosh SpaceX and Tesla together, who cares",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari",
+      "summary": "Oh sure, SpaceX's credit risk is pretty high because it's about to borrow another $40 billion to spend on Nvidia chips, but who cares about that? SpaceX and Tesla have formed special committees to discuss a merger! The degree to which you find this merger compelling likely has to do with the degree to which […]",
+      "detail": "Oh sure, SpaceX's credit risk is pretty high because it's about to borrow another $40 billion to spend on Nvidia chips, but who cares about that? SpaceX and Tesla have formed special committees to discuss a merger! The degree to which you find this merger compelling likely has to do with the degree to which […]",
+      "source": "The Verge",
+      "source_authority": 0.9,
+      "date": "2026-10-23",
+      "score": 0.8175
+    },
+    {
+      "title": "TrendForce 预测：2027 年服务器 CPU 出货有望增长超 40%，Arm 指令集可拿下三成份额",
+      "url": "https://www.ithome.com/1/016/801.htm",
+      "summary": "IT之家 10 月 23 日消息，TrendForce（集邦）昨日发布预测，认为服务器 CPU 出货有望在 2026、2027 两年分别增长 31% 和超 40%。这得益于代理式人工智能工作负载对 CPU : 加速器需求比例的提升。英特尔AMD英伟达AWS谷歌其它2026 年50%27%12%4%3%4%2027 年42%28%12%5%6%7%总体来看，基本全数基于 Arm 指令集的非 x86 阵营在今明两年有望分别拿下 23% 和 30% 市占，份额显著提升。龙头英特尔则由于下代 \"Diamond Rapids\" 的出货迟缓出现市占下滑。参考TrendForce 集邦咨询：预估 2027 年服务器 CPU 出货年增破 40%，Arm-Based 产品市占持续扩大",
+      "detail": "IT之家 10 月 23 日消息，TrendForce（集邦）昨日发布预测，认为服务器 CPU 出货有望在 2026、2027 两年分别增长 31% 和超 40%。这得益于代理式人工智能工作负载对 CPU : 加速器需求比例的提升。英特尔AMD英伟达AWS谷歌其它2026 年50%27%12%4%3%4%2027 年42%28%12%5%6%7%总体来看，基本全数基于 Arm 指令集的非 x86 阵营在今明两年有望分别拿下 23% 和 30% 市占，份额显著提升。龙头英特尔则由于下代 \"Diamond Rapids\" 的出货迟缓出现市占下滑。参考TrendForce 集邦咨询：预估 2027 年服务器 CPU 出货年增破 40%，Arm-Based 产品市占持续扩大",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-10-23",
+      "score": 0.7775
+    },
+    {
+      "title": "Stacked-Die Multi-Chip Architectures: The Tradeoff Between Scaling And Power Delivery",
+      "url": "https://semiengineering.com/stacked-die-multi-chip-architectures-the-tradeoff-between-scaling-and-power-delivery/",
+      "summary": "Integrated voltage regulators reduce current density, provide higher regulation bandwidth, and reduce reliance on large decoupling capacitor networks. \nThe post Stacked-Die Multi-Chip Architectures: The Tradeoff Between Scaling And Power Delivery appeared first on Semiconductor Engineering.",
+      "detail": "Integrated voltage regulators reduce current density, provide higher regulation bandwidth, and reduce reliance on large decoupling capacitor networks. \nThe post Stacked-Die Multi-Chip Architectures: The Tradeoff Between Scaling And Power Delivery appeared first on Semiconductor Engineering.",
+      "source": "SemiEngineering",
+      "source_authority": 0.85,
+      "date": "2026-10-22",
+      "score": 0.7475
+    },
+    {
+      "title": "SpaceX 推出超级智能合作伙伴网络，英伟达等 130 余家公司参与早期计划",
+      "url": "https://www.ithome.com/1/016/814.htm",
+      "summary": "IT之家 10 月 23 日消息，据彭博社今日报道，SpaceX 与包括英伟达、阿波罗、Snowflake、Databricks 和贝恩公司在内的 130 多家公司共同启动了 Super Intelligence Partner Network（超级智能合作伙伴网络）早期计划。IT之家从报道获悉，该计划将参与者分为：转型合作伙伴（Transformation Partners）—— 协助客户将 Grok 整合进复杂运营市场合作伙伴（Marketplace Partners）—— 负责开发专业软件集成SpaceX 的这一计划旨在帮助企业利用其 Grok AI 平台构建、集成和扩展应用。SpaceX 高管强调，企业客户正从简单的 AI 实验转向全面自主工作流程。SpaceX 总裁 Gwynne Shotwell 在最近的财报电话会议上指出，截至十月，Grok Bot 的每周付费用户数已攀升至 80 万以上，是上个月数字的两倍。Shotwell 将这款智能体软件描述为“始终在线的团队伙伴”，部署于软件工程、销售、市场营销和 IT 运营领域。",
+      "detail": "IT之家 10 月 23 日消息，据彭博社今日报道，SpaceX 与包括英伟达、阿波罗、Snowflake、Databricks 和贝恩公司在内的 130 多家公司共同启动了 Super Intelligence Partner Network（超级智能合作伙伴网络）早期计划。IT之家从报道获悉，该计划将参与者分为：转型合作伙伴（Transformation Partners）—— 协助客户将 Grok 整合进复杂运营市场合作伙伴（Marketplace Partners）—— 负责开发专业软件集成SpaceX 的这一计划旨在帮助企业利用其 Grok AI 平台构建、集成和扩展应用。SpaceX 高管强调，企业客户正从简单的 AI 实验转向全面自主工作流程。SpaceX 总裁 Gwynne Shotwell 在最近的财报电话会议上指出，截至十月，Grok Bot 的每周付费用户数已攀升至 80 万以上，是上个月数字的两倍。Shotwell 将这款智能体软件描述为“始终在线的团队伙伴”，部署于软件工程、销售、市场营销和 IT 运营领域。",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-10-23",
+      "score": 0.74
+    },
+    {
+      "title": "A.I. and Its Dangers Are Embedded In the Midterm Elections",
+      "url": "https://www.nytimes.com/2026/10/22/business/media/ai-disinfo-chatbots-elections.html",
+      "summary": "The midterms are the first elections in which artificial intelligence is integrated into every major social media platform. Efforts to blunt its harms are uneven.",
+      "detail": "The midterms are the first elections in which artificial intelligence is integrated into every major social media platform. Efforts to blunt its harms are uneven.",
+      "source": "NYT",
+      "source_authority": 0.9,
+      "date": "2026-10-23",
+      "score": 0.67
+    },
+    {
+      "title": "PVTW: Extending Silicon Characterization From PVT To Real-World Workload",
+      "url": "https://semiengineering.com/pvtw-extending-silicon-characterization-from-pvt-to-real-world-workload/",
+      "summary": "Two devices operating at exactly the same voltage, frequency, and temperature can behave differently depending on what they are being asked to do.\nThe post PVTW: Extending Silicon Characterization From PVT To Real-World Workload appeared first on Semiconductor Engineering.",
+      "detail": "Two devices operating at exactly the same voltage, frequency, and temperature can behave differently depending on what they are being asked to do.\nThe post PVTW: Extending Silicon Characterization From PVT To Real-World Workload appeared first on Semiconductor Engineering.",
+      "source": "SemiEngineering",
+      "source_authority": 0.85,
+      "date": "2026-10-22",
+      "score": 0.64
+    },
+    {
+      "title": "Sharp drops for AI stocks overwhelm markets worldwide as oil prices jump",
+      "url": "https://www.theguardian.com/business/2026/oct/22/stock-markets-drop-ai-oil",
+      "summary": "Datacenter and chip costs fueled sharp decrease in AI sector although non-AI stocks still had a strong showingThe latest shudder for stocks in the AI industry pulled markets lower worldwide on Thursday, while oil prices hit their highest levels since May on worries about the war with Iran.The S&P 500 fell 1.2% for its worst day since July, while the Nasdaq composite tumbled 2.6%. The weakness for tech stocks was so overwhelming that it masked strength for the rest of the US market, in which the",
+      "detail": "Datacenter and chip costs fueled sharp decrease in AI sector although non-AI stocks still had a strong showingThe latest shudder for stocks in the AI industry pulled markets lower worldwide on Thursday, while oil prices hit their highest levels since May on worries about the war with Iran.The S&P 500 fell 1.2% for its worst day since July, while the Nasdaq composite tumbled 2.6%. The weakness for tech stocks was so overwhelming that it masked strength for the rest of the US market, in which the",
+      "source": "The Guardian",
+      "source_authority": 0.85,
+      "date": "2026-10-23",
+      "score": 0.63
+    }
+  ],
+  "category4": [
+    {
+      "title": "拿铁熊猫推出 Sigma 2 单板计算机，搭载英特尔酷睿 Ultra X7 处理器 358H",
+      "url": "https://www.ithome.com/1/016/835.htm",
+      "summary": "IT之家 10 月 23 日消息，智位机器人 (DFRobot) 旗下拿铁熊猫 (LattePanda) 团队近日推出了高性能单板计算机 Sigma 2。这一型号基于英特尔酷睿 Ultra X7 处理器 358H，板载 64GB LPDDR5X-8533 内存。Sigma 2 尺寸为 146×202 (mm)，集成涡轮风扇散热器，拥有丰富的扩展性。其专为边缘 AI 计算和嵌入式 AI 应用设计，适合全天候本地 AI 服务、私有服务器、家庭实验室、NAS、工业计算、计算机视觉、自主机器人等场景。其正面提供 2 个雷电 4、2 个 USB-A 10Gbps、2 个 USB-A 480Mbps、1 个 OCuLink 2i (PCIe Gen4)、2 个 10GbE LAN、1 个 HDMI 2.1、1 个 RS-232/485 接针、1 个 USB 480Mbps 接针，此外还有 RP2350 拓展出的 GPIO。而在反面，这款 SBC 提供 4 个 M.2 插槽，除一个用于接驳 PCIe / CNVio3 无线网卡的外，分别为 PCIe Gen5 ×2、PCIe Gen4 ×4、PCIe",
+      "detail": "IT之家 10 月 23 日消息，智位机器人 (DFRobot) 旗下拿铁熊猫 (LattePanda) 团队近日推出了高性能单板计算机 Sigma 2。这一型号基于英特尔酷睿 Ultra X7 处理器 358H，板载 64GB LPDDR5X-8533 内存。Sigma 2 尺寸为 146×202 (mm)，集成涡轮风扇散热器，拥有丰富的扩展性。其专为边缘 AI 计算和嵌入式 AI 应用设计，适合全天候本地 AI 服务、私有服务器、家庭实验室、NAS、工业计算、计算机视觉、自主机器人等场景。其正面提供 2 个雷电 4、2 个 USB-A 10Gbps、2 个 USB-A 480Mbps、1 个 OCuLink 2i (PCIe Gen4)、2 个 10GbE LAN、1 个 HDMI 2.1、1 个 RS-232/485 接针、1 个 USB 480Mbps 接针，此外还有 RP2350 拓展出的 GPIO。而在反面，这款 SBC 提供 4 个 M.2 插槽，除一个用于接驳 PCIe / CNVio3 无线网卡的外，分别为 PCIe Gen5 ×2、PCIe Gen4 ×4、PCIe",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-10-23",
+      "score": 0.785
+    },
+    {
+      "title": "商务部：前三季度重点平台外骨骼助力器销售额增长 46.4%，具身智能机器人增长 22.6%",
+      "url": "https://www.ithome.com/1/016/821.htm",
+      "summary": "IT之家 10 月 23 日消息，据商务部新闻办公室，商务部消费促进司负责人谈 2026 年前三季度我国消费市场情况。绿色、智能、健康消费需求旺盛，向新向好特征明显。IT之家注意到，商务部商务大数据显示，前三季度重点平台智能眼镜销售额增长 1.1 倍、外骨骼助力器销售额增长 46.4%、具身智能机器人销售额增长 22.6%、有机食品销售额增长 6.4%。此外，据汽车流通协会数据，9 月份新能源乘用车零售渗透率达 67.0%。据介绍，9 月份社会消费品零售总额增长 1.1%，增速比 8 月份快 0.7 个百分点，除汽车以外消费品零售额增长 3.9%。前三季度，社会消费品零售总额增长 1.1%，在去年同期高基数情况下实现平稳增长。",
+      "detail": "IT之家 10 月 23 日消息，据商务部新闻办公室，商务部消费促进司负责人谈 2026 年前三季度我国消费市场情况。绿色、智能、健康消费需求旺盛，向新向好特征明显。IT之家注意到，商务部商务大数据显示，前三季度重点平台智能眼镜销售额增长 1.1 倍、外骨骼助力器销售额增长 46.4%、具身智能机器人销售额增长 22.6%、有机食品销售额增长 6.4%。此外，据汽车流通协会数据，9 月份新能源乘用车零售渗透率达 67.0%。据介绍，9 月份社会消费品零售总额增长 1.1%，增速比 8 月份快 0.7 个百分点，除汽车以外消费品零售额增长 3.9%。前三季度，社会消费品零售总额增长 1.1%，在去年同期高基数情况下实现平稳增长。",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-10-23",
+      "score": 0.785
+    },
+    {
+      "title": "微信 iOS 版 8.0.80 最新官方正式版下载发布",
+      "url": "https://www.ithome.com/1/016/838.htm",
+      "summary": "IT之家 10 月 23 日消息，微信 iOS 平台迎来了 8.0.80 正式版更新。官方更新日志为：本次更新：- 解决了一些已知问题。 大家在IT之家微信号回复“微信”两字，即可获取当前最新官方内部版微信下载。 本文由机器人发布，IT之家稍后将为大家带来具体更新内容。如果你发现了日志中未提及的更新点，欢迎发在评论区供大家参考~[微笑]",
+      "detail": "IT之家 10 月 23 日消息，微信 iOS 平台迎来了 8.0.80 正式版更新。官方更新日志为：本次更新：- 解决了一些已知问题。 大家在IT之家微信号回复“微信”两字，即可获取当前最新官方内部版微信下载。 本文由机器人发布，IT之家稍后将为大家带来具体更新内容。如果你发现了日志中未提及的更新点，欢迎发在评论区供大家参考~[微笑]",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-10-23",
+      "score": 0.745
+    },
+    {
+      "title": "Meet Mori, a Cute Robot Mushroom That Doesn’t Really Say (or Do) Anything",
+      "url": "https://www.wired.com/story/meet-mori-a-cute-robot-mushroom-that-doesnt-really-say-or-do-anything/",
+      "summary": "Step one in convincing people to live with robots with cameras on their faces? Disguise them as cute home decor.",
+      "detail": "Step one in convincing people to live with robots with cameras on their faces? Disguise them as cute home decor.",
+      "source": "Wired",
+      "source_authority": 0.85,
+      "date": "2026-10-22",
+      "score": 0.615
+    }
+  ]
+}
