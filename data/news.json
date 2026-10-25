@@ -2,17 +2,6 @@
   "date": "2026-10-25",
   "category1": [
     {
-      "title": "PayPal 联合创始人彼得 · 蒂尔：后乔布斯时代的苹果“就没再拿出什么新东西”",
-      "url": "https://www.ithome.com/1/017/537.htm",
-      "summary": "IT之家 10 月 25 日消息，据《商业内幕》今天（25 日）凌晨报道，PayPal 联合创始人、亿万富翁兼科技投资人彼得 · 蒂尔认为，自苹果创始人史蒂夫 · 乔布斯于 2011 年因癌症去世以来，苹果的大多数举措都没能让自己眼前一亮。蒂尔接受作家沃尔特 · 艾萨克森采访时直言：“在我看来，乔布斯去世后，苹果就没再拿出什么新东西。事实证明，手机确实是一项了不起的发明，但之后也没多少事情可做了。接下来的 15 年左右，无非就是扩大规模、经营品牌，不断完善已有的产品。”报道称，苹果一直受到“缺乏创新”的批评，尤其是在手机和平板电脑之外未能取得新的突破。进入 AI 时代后，苹果的 Siri 语音助手也落后于 OpenAI 和 Anthropic 的竞争产品。不过，苹果的产品依然广受欢迎。MacBook 是不少 AI 爱好者和普通用户的首选笔记本电脑，iPhone 随处可见，AirPods 自 2016 年问世以来，也凭借简洁时尚的设计受到消费者青睐。早在 2017 年，蒂尔就曾向《纽约时报》记者莫琳 · 多德断言，苹果的时代已经结束。但从那时起，苹果股价一直稳步上涨。IT之家从报道中获悉",
-      "short_summary": "IT之家 10 月 25 日消息，据《商业内幕》今天（25 日）凌晨报道，PayPal 联合创始人、亿万富翁兼科技投资人",
-      "detail": "IT之家 10 月 25 日消息，据《商业内幕》今天（25 日）凌晨报道，PayPal 联合创始人、亿万富翁兼科技投资人彼得 · 蒂尔认为，自苹果创始人史蒂夫 · 乔布斯于 2011 年因癌症去世以来，苹果的大多数举措都没能让自己眼前一亮。蒂尔接受作家沃尔特 · 艾萨克森采访时直言：“在我看来，乔布斯去世后，苹果就没再拿出什么新东西。事实证明，手机确实是一项了不起的发明，但之后也没多少事情可做了。接下来的 15 年左右，无非就是扩大规模、经营品牌，不断完善已有的产品。”报道称，苹果一直受到“缺乏创新”的批评，尤其是在手机和平板电脑之外未能取得新的突破。进入 AI 时代后，苹果的 Siri 语音助手也落后于 OpenAI 和 Anthropic 的竞争产品。不过，苹果的产品依然广受欢迎。MacBook 是不少 AI 爱好者和普通用户的首选笔记本电脑，iPhone 随处可见，AirPods 自 2016 年问世以来，也凭借简洁时尚的设计受到消费者青睐。早在 2017 年，蒂尔就曾向《纽约时报》记者莫琳 · 多德断言，苹果的时代已经结束。但从那时起，苹果股价一直稳步上涨。IT之家从报道中获悉",
-      "source": "ITHome",
-      "source_authority": 0.75,
-      "date": "2026-10-25",
-      "score": 0.96
-    },
-    {
       "title": "不能逆向一切了？Anthropic 被曝悄悄限制 Claude Opus 5.5 逆向工程能力",
       "url": "https://www.ithome.com/1/017/554.htm",
       "summary": "IT之家 10 月 25 日消息，很多人把近期一波靠“氛围编码（vibe-coding）”完成的游戏反编译、重编译热潮，归功于 Anthropic 在 9 月 22 日发布的最新模型 Claude Opus 5.5。而现在，大量用户突然反馈：Opus 5.5 “可以逆向一切”的能力，或许已经被悄悄削弱。先说明一点：Anthropic 并没有官宣、发布 Opus 5.5 的新版本。不过该公司在 10 月 21 日对多款 Claude 相关产品推送了一系列更新。这一时间点，正好和 Reddit r/Claude 社区里 10 月 21 日出现的那条帖子吻合，帖子称 Opus 5.5 的逆向工程能力遭到限制。帖子里多名用户反馈，当指示 Claude Opus 5.5 去逆向任何受知识产权保护的内容时，安全护栏会在输出中途触发拦截。有一则示例中，Claude 回复称“安全校验中途终止了本次回答”，并且就算换一种措辞，也无法再生成对应的分析内容。但帖子里也有一部分用户持不同看法。有人表示，用 Claude 做逆向工程本来就结果不稳，“分类器本身就很敏感，能不能成功全看运气”。不过持这种观点的用户",
@@ -24,15 +13,26 @@
       "score": 0.9225
     },
     {
-      "title": "PHP 基金会负责人坦言资金不足：仅 1 名全职员工",
-      "url": "https://www.ithome.com/1/017/528.htm",
-      "summary": "IT之家 10 月 25 日消息，本周，PHP 曝出两处高危漏洞，全球随即紧急行动，保护网站免遭黑客攻击。这件事也让人们看到，这门已有三十年历史的开源编程语言，对互联网而言有多重要。据估算，全球最高有约七成网站依托 PHP 搭建，但负责维护 PHP 的非营利基金会，经费却十分紧张。PHP 基金会执行董事伊丽莎白 · 巴伦（Elizabeth Barron）在当地时间周五的邮件采访中表示：“我们只有一名全职员工，也就是我，另外还有十四名大多是兼职的外包人员。”基金会董事会成员都是无薪志愿者，资金来源依靠捐赠与资助。IT之家注意到，基金会和外部研究人员以及多家企业合作，其中包括 OpenAI、网络安全公司 Wiz 和 Calif，共同排查安全漏洞、协调补丁开发，本周三发布的修复补丁就是这项合作的成果。网络安全服务商 Cloudflare 称已经监测到数百万次攻击尝试，不过巴伦表示，基金会没有证据表明黑客在漏洞公开前就成功利用这些漏洞，或是攻击已经打好补丁的网站。她说：“我们和 OpenAI、Wiz、Calif 在这个问题上密切协作，几家机构都没有反馈已修复系统出现异常的情况。”人工智能对基",
-      "short_summary": "IT之家 10 月 25 日消息，本周，PHP 曝出两处高危漏洞，全球随即紧急行动，保护网站免遭黑客攻击。这件事也让人们",
-      "detail": "IT之家 10 月 25 日消息，本周，PHP 曝出两处高危漏洞，全球随即紧急行动，保护网站免遭黑客攻击。这件事也让人们看到，这门已有三十年历史的开源编程语言，对互联网而言有多重要。据估算，全球最高有约七成网站依托 PHP 搭建，但负责维护 PHP 的非营利基金会，经费却十分紧张。PHP 基金会执行董事伊丽莎白 · 巴伦（Elizabeth Barron）在当地时间周五的邮件采访中表示：“我们只有一名全职员工，也就是我，另外还有十四名大多是兼职的外包人员。”基金会董事会成员都是无薪志愿者，资金来源依靠捐赠与资助。IT之家注意到，基金会和外部研究人员以及多家企业合作，其中包括 OpenAI、网络安全公司 Wiz 和 Calif，共同排查安全漏洞、协调补丁开发，本周三发布的修复补丁就是这项合作的成果。网络安全服务商 Cloudflare 称已经监测到数百万次攻击尝试，不过巴伦表示，基金会没有证据表明黑客在漏洞公开前就成功利用这些漏洞，或是攻击已经打好补丁的网站。她说：“我们和 OpenAI、Wiz、Calif 在这个问题上密切协作，几家机构都没有反馈已修复系统出现异常的情况。”人工智能对基",
+      "title": "Block 推出全双工 AI 语音模型 Dessa：真人感拉满，支持苹果 MacBook 本地运行",
+      "url": "https://www.ithome.com/1/017/557.htm",
+      "summary": "IT之家 10 月 25 日消息，Twitter 联合创始人杰克 · 多尔西（Jack Dorsey）旗下的 Block 公司推出了一款全新语音模型 Dessa，支持本地运行，能模拟笑声、停顿、哽咽等情绪表达，听感高度拟人。官方介绍，Dessa 完全基于人类语音数据训练，训练过程仅使用了一组英伟达 GPU 机架。Dessa 属于全双工模型，和 OpenAI 今年早些时候发布的 GPT-Live 一样，可以一边说话一边收听用户语音。主流语音模型一般需要搭配大语言模型来调取知识；Block 称，Dessa 自身的知识来源于其训练所用的对话数据。Block 表示，现有语音 AI 体验经常生硬、违和，根源在于生成链路要先转成文本，再由文本驱动语音合成。ElevenLabs v4、Fish Audio Drama 3 等不少模型依靠语音标签来控制情绪。而这家多尔西的公司宣称，情绪表达是模型原生内置的，不过目前尚不清楚它底层是否仍然依靠某种标签来调控情绪。Block 在博客中写道：“现在的语音 AI 交互体验实在糟糕。它先把你的语音转成文字，大量文字承载不了的信息直接丢失。即便是全球最强的 AI，",
+      "short_summary": "IT之家 10 月 25 日消息，Twitter 联合创始人杰克 · 多尔西（Jack Dorsey）旗下的 Block",
+      "detail": "IT之家 10 月 25 日消息，Twitter 联合创始人杰克 · 多尔西（Jack Dorsey）旗下的 Block 公司推出了一款全新语音模型 Dessa，支持本地运行，能模拟笑声、停顿、哽咽等情绪表达，听感高度拟人。官方介绍，Dessa 完全基于人类语音数据训练，训练过程仅使用了一组英伟达 GPU 机架。Dessa 属于全双工模型，和 OpenAI 今年早些时候发布的 GPT-Live 一样，可以一边说话一边收听用户语音。主流语音模型一般需要搭配大语言模型来调取知识；Block 称，Dessa 自身的知识来源于其训练所用的对话数据。Block 表示，现有语音 AI 体验经常生硬、违和，根源在于生成链路要先转成文本，再由文本驱动语音合成。ElevenLabs v4、Fish Audio Drama 3 等不少模型依靠语音标签来控制情绪。而这家多尔西的公司宣称，情绪表达是模型原生内置的，不过目前尚不清楚它底层是否仍然依靠某种标签来调控情绪。Block 在博客中写道：“现在的语音 AI 交互体验实在糟糕。它先把你的语音转成文字，大量文字承载不了的信息直接丢失。即便是全球最强的 AI，",
       "source": "ITHome",
       "source_authority": 0.75,
       "date": "2026-10-25",
-      "score": 0.8475
+      "score": 0.9125
+    },
+    {
+      "title": "三名被解雇的 OpenAI 安全研究员否认泄密，怀疑因推动 AI 透明度被针对",
+      "url": "https://www.ithome.com/1/017/563.htm",
+      "summary": "IT之家 10 月 25 日消息，三名因涉嫌泄密被解雇的 OpenAI 安全研究员道出了他们一方的说辞。托梅克 · 科尔巴克（Tomek Korbak）、米基塔 · 巴莱斯尼（Mikita Balesni）与王茉莉（Jasmine Wang）否认泄露机密信息，质疑解雇他们的官方理由，并猜测这件事和他们一直倡导提升 AI 系统透明度有关。OpenAI 经过内部调查，认定三人违反敏感信息管理规定，将他们辞退。在被解雇之前，这三人都曾公开发表过关于 AI 风险的观点。IT之家注意到，在接受《华尔街日报》采访时，几名研究员对官方说法提出反驳。OpenAI 向该报表示，解雇一事和他们提出的安全顾虑无关。但三名研究员称，公司从未以书面形式告知他们究竟是哪些信息被不当处理。他们还担心，这个事件会让独立安全审计人员不愿再和 AI 企业合作。《华尔街日报》的报道还原了这场冲突的起因。OpenAI 安全团队怀疑三人向一名外部安全研究员泄露了公司内部模型架构细节，要求他们解锁个人手机。调查人员在手机里发现了开启阅后即焚功能的 Signal 聊天记录。一周之后，三人同时被解雇。OpenAI 表示 Signal",
+      "short_summary": "IT之家 10 月 25 日消息，三名因涉嫌泄密被解雇的 OpenAI 安全研究员道出了他们一方的说辞。托梅克 · 科尔",
+      "detail": "IT之家 10 月 25 日消息，三名因涉嫌泄密被解雇的 OpenAI 安全研究员道出了他们一方的说辞。托梅克 · 科尔巴克（Tomek Korbak）、米基塔 · 巴莱斯尼（Mikita Balesni）与王茉莉（Jasmine Wang）否认泄露机密信息，质疑解雇他们的官方理由，并猜测这件事和他们一直倡导提升 AI 系统透明度有关。OpenAI 经过内部调查，认定三人违反敏感信息管理规定，将他们辞退。在被解雇之前，这三人都曾公开发表过关于 AI 风险的观点。IT之家注意到，在接受《华尔街日报》采访时，几名研究员对官方说法提出反驳。OpenAI 向该报表示，解雇一事和他们提出的安全顾虑无关。但三名研究员称，公司从未以书面形式告知他们究竟是哪些信息被不当处理。他们还担心，这个事件会让独立安全审计人员不愿再和 AI 企业合作。《华尔街日报》的报道还原了这场冲突的起因。OpenAI 安全团队怀疑三人向一名外部安全研究员泄露了公司内部模型架构细节，要求他们解锁个人手机。调查人员在手机里发现了开启阅后即焚功能的 Signal 聊天记录。一周之后，三人同时被解雇。OpenAI 表示 Signal",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-10-25",
+      "score": 0.8225
     },
     {
       "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
@@ -70,6 +70,17 @@
       "score": 0.795
     },
     {
+      "title": "马斯克预告 X 平台新功能：长按点赞按钮，将通过 X Money 向对方转账 1 美元",
+      "url": "https://www.ithome.com/1/017/581.htm",
+      "summary": "IT之家 10 月 25 日消息，今天（25 日）上午，马斯克在 X 平台发文宣布：将为“长按点赞”操作加入转账 1 美元（IT之家注：现汇率约合 6.7 元人民币）功能，有关交易将会经由 X Money 完成。不过，马斯克暂未透露这一功能的上线日期。据悉，X Money 于 7 月下旬正式在美国上线，面向 Premium 和 Premium+ 订阅用户全量开放。X Money 将账户存款、点对点转账以及 Visa 借记卡功能整合在 X 应用内。用户可在 X 内即时向他人汇款、收款或请求收款，无手续费和限额。随后在今年 9 月，X 平台宣布，美国地区创作者从“原创内容奖励计划”和创作者订阅获得的收益，今后统一通过其支付服务 X Money 发放。相关阅读：《无提现门槛：马斯克旗下 X 宣布美国创作者收益全面转由 X Money 发放》《马斯克“超级应用”关键一步：X Money 正式在美国上线，支持苹果钱包绑卡返现 3%、年化收益最高 6%》",
+      "short_summary": "IT之家 10 月 25 日消息，今天（25 日）上午，马斯克在 X 平台发文宣布：将为“长按点赞”操作加入转账 1 美",
+      "detail": "IT之家 10 月 25 日消息，今天（25 日）上午，马斯克在 X 平台发文宣布：将为“长按点赞”操作加入转账 1 美元（IT之家注：现汇率约合 6.7 元人民币）功能，有关交易将会经由 X Money 完成。不过，马斯克暂未透露这一功能的上线日期。据悉，X Money 于 7 月下旬正式在美国上线，面向 Premium 和 Premium+ 订阅用户全量开放。X Money 将账户存款、点对点转账以及 Visa 借记卡功能整合在 X 应用内。用户可在 X 内即时向他人汇款、收款或请求收款，无手续费和限额。随后在今年 9 月，X 平台宣布，美国地区创作者从“原创内容奖励计划”和创作者订阅获得的收益，今后统一通过其支付服务 X Money 发放。相关阅读：《无提现门槛：马斯克旗下 X 宣布美国创作者收益全面转由 X Money 发放》《马斯克“超级应用”关键一步：X Money 正式在美国上线，支持苹果钱包绑卡返现 3%、年化收益最高 6%》",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-10-25",
+      "score": 0.74
+    },
+    {
       "title": "Blue Planet III features cloudier footage to prove authenticity amid AI boom",
       "url": "https://www.theguardian.com/media/2026/oct/24/blue-planet-iii-cloudier-footage-prove-authenticity-ai-boom",
       "summary": "BBC series deliberately uses ‘more organic’ shots to assure viewers animals are not AI-generated, producers sayThe David Attenborough-narrated series Blue Planet III deliberately includes cloudier, less polished footage to counter AI fakery and assure viewers it is “authentic”, its producers have said.Nearly a decade after Blue Planet II shone a light on plastic pollution, and 25 years since the first Blue Planet aired, the hit BBC series is returning with more animal behaviour and cutting-edge",
@@ -81,26 +92,15 @@
       "score": 0.6975
     },
     {
-      "title": "索尼 PS5 破解新进展：已可直接运行 Steam 游戏库中的 Windows 游戏",
-      "url": "https://www.ithome.com/1/017/540.htm",
-      "summary": "IT之家 10 月 25 日消息，PS5 的破解社区几乎每周都有新进展。现在破解后的 PS5 可以直接从 Steam 游戏库下载 Windows 游戏并在本机运行，不需要借助 PC 串流。实现该功能的工具是 Playden for PS5，这是开发者莱奥拉巴托（leolobato）推出的早期测试版启动器，移植自 macOS 版本的 Playden。用户可以扫码登录 Steam，浏览游戏库、下载游戏，还能在 PS5 主界面通过独立图标启动游戏。底层依托 prospero-win，也就是 Wine 在 PS5 上的移植版本，图形渲染部分由 DXVK 负责。和在 PS5 上安装 Linux 系统不同，它不需要单独引导另一套系统，Playden 本身就是一个普通的 PS5 应用。IT之家注意到，项目开发推进速度很快。首个公开版本在 10 月 12 日发布，0.5.0 版本借助 VKD3D-Proton 新增 Direct3D 12 支持，更新日志称这项改动让《赛博朋克 2077》《深岩银河》这类游戏具备了运行条件。本周更新的 0.6.0 版本新增 USB 和 FTP 导入游戏功能、120Hz",
-      "short_summary": "IT之家 10 月 25 日消息，PS5 的破解社区几乎每周都有新进展。现在破解后的 PS5 可以直接从 Steam 游",
-      "detail": "IT之家 10 月 25 日消息，PS5 的破解社区几乎每周都有新进展。现在破解后的 PS5 可以直接从 Steam 游戏库下载 Windows 游戏并在本机运行，不需要借助 PC 串流。实现该功能的工具是 Playden for PS5，这是开发者莱奥拉巴托（leolobato）推出的早期测试版启动器，移植自 macOS 版本的 Playden。用户可以扫码登录 Steam，浏览游戏库、下载游戏，还能在 PS5 主界面通过独立图标启动游戏。底层依托 prospero-win，也就是 Wine 在 PS5 上的移植版本，图形渲染部分由 DXVK 负责。和在 PS5 上安装 Linux 系统不同，它不需要单独引导另一套系统，Playden 本身就是一个普通的 PS5 应用。IT之家注意到，项目开发推进速度很快。首个公开版本在 10 月 12 日发布，0.5.0 版本借助 VKD3D-Proton 新增 Direct3D 12 支持，更新日志称这项改动让《赛博朋克 2077》《深岩银河》这类游戏具备了运行条件。本周更新的 0.6.0 版本新增 USB 和 FTP 导入游戏功能、120Hz",
+      "title": "苹果 iPhone Duo 拆解：双电池 4883mAh，无实体 SIM 卡槽",
+      "url": "https://www.ithome.com/1/017/578.htm",
+      "summary": "IT之家 10 月 25 日消息，YouTube 频道 REWA Technology 与 Phone Repair Guru 放出了首批 iPhone Duo 的拆机视频，让外界得以看清这款折叠机型的内部构造。IT之家注意到，iPhone Duo 采用双电芯设计，两块电池都依靠电控胶拆卸：大容量电池：2962 mAh（11.56 Wh）小容量电池：1921 mAh（7.5 Wh）总容量：4883 mAhREWA 的视频给出了主板元件标注：板载 A20 Pro 芯片 + C2 蜂窝基带等核心组件。维修难点与模块化设计1. Touch ID 按键：理论上可以单独拆下维修，但拆解难度很高；2. USB‑C 充电口：采用完全模块化设计，接口可以单独更换，维修更友好；3. 网络制式：全球版本全部仅支持 eSIM，无实体 SIM 卡槽。维修网站 iFixit 会在未来几天发布更详尽的完整拆解与深度评测，值得持续关注。另外，苹果已经正式对外发布了 iPhone Duo 官方维修手册。",
+      "short_summary": "IT之家 10 月 25 日消息，YouTube 频道 REWA Technology 与 Phone Repair G",
+      "detail": "IT之家 10 月 25 日消息，YouTube 频道 REWA Technology 与 Phone Repair Guru 放出了首批 iPhone Duo 的拆机视频，让外界得以看清这款折叠机型的内部构造。IT之家注意到，iPhone Duo 采用双电芯设计，两块电池都依靠电控胶拆卸：大容量电池：2962 mAh（11.56 Wh）小容量电池：1921 mAh（7.5 Wh）总容量：4883 mAhREWA 的视频给出了主板元件标注：板载 A20 Pro 芯片 + C2 蜂窝基带等核心组件。维修难点与模块化设计1. Touch ID 按键：理论上可以单独拆下维修，但拆解难度很高；2. USB‑C 充电口：采用完全模块化设计，接口可以单独更换，维修更友好；3. 网络制式：全球版本全部仅支持 eSIM，无实体 SIM 卡槽。维修网站 iFixit 会在未来几天发布更详尽的完整拆解与深度评测，值得持续关注。另外，苹果已经正式对外发布了 iPhone Duo 官方维修手册。",
       "source": "ITHome",
       "source_authority": 0.75,
       "date": "2026-10-25",
       "score": 0.695
-    },
-    {
-      "title": "John Healey pledges to use budget to harness power of AI to bolster Britain’s security",
-      "url": "https://www.theguardian.com/uk-news/2026/oct/24/john-healey-pledges-to-use-budget-to-harness-power-of-ai-to-bolster-britains-security",
-      "summary": "Chancellor says government to commit hundreds of millions to develop ‘distinctively British’ approach to AIJohn Healey has pledged to use Wednesday’s budget to harness the power of artificial intelligence to bolster Britain’s security and prosperity against the risks in the accelerating global technology arms race.As he prepares for his debut budget, the chancellor said that Andy Burnham’s government would commit hundreds of millions of pounds to develop a “distinctively British” approach to AI",
-      "short_summary": "Chancellor says government to commit hundreds of millions to",
-      "detail": "Chancellor says government to commit hundreds of millions to develop ‘distinctively British’ approach to AIJohn Healey has pledged to use Wednesday’s budget to harness the power of artificial intelligence to bolster Britain’s security and prosperity against the risks in the accelerating global technology arms race.As he prepares for his debut budget, the chancellor said that Andy Burnham’s government would commit hundreds of millions of pounds to develop a “distinctively British” approach to AI",
-      "source": "The Guardian",
-      "source_authority": 0.85,
-      "date": "2026-10-24",
-      "score": 0.66
     },
     {
       "title": "Here are the top AI agents that can live in your text messages",
@@ -123,20 +123,20 @@
       "source_authority": 0.9,
       "date": "2026-10-25",
       "score": 0.635
-    }
-  ],
-  "category3": [
+    },
     {
-      "title": "开源项目 GPU Unlock 可释放英伟达 RTX 30 系列显卡隐藏 AI 算力，实际性能提升可达 60%",
-      "url": "https://www.ithome.com/1/017/525.htm",
-      "summary": "IT之家 10 月 25 日消息，英伟达已经上市一段时间的 GeForce RTX 30 系列（代号安培，Ampere）显卡，显然还有大量尚未释放的计算潜力。GitHub 用户扎吉塔（Zagitta）开发了一款名为 GPU Unlock 的开源新项目，可以解除安培架构显卡上部分人为设置的性能限制，在特定负载下，张量核心的计算吞吐量几乎可以翻倍，而且不需要修改英伟达驱动，也不用永久刷写显卡的 VBIOS。IT之家注意到，这个项目专门针对一项指令发射速率限制：在使用 FP32 累加的 FP16/BF16 张量核心运算中，消费级安培显卡的运行速率相比专业卡更低。解除这项限制之后，工具就能释放显卡硬件本身就具备的额外计算性能。有意思的是，GPU Unlock 建立在早前针对英伟达 CMP 加密货币挖矿显卡的相关研究之上。它把 CMP 项目的固件解锁技术和一套提前初始化方案结合起来，依靠一个 Linux 内核模块，在英伟达显卡驱动加载之前执行操作。该模块修改对应的硬件速度选择寄存器，执行一次功能级重置（FLR），之后原版驱动就可以正常初始化显卡。这也意味着用户每次更新驱动新版本时，都不用再给驱动",
-      "short_summary": "IT之家 10 月 25 日消息，英伟达已经上市一段时间的 GeForce RTX 30 系列（代号安培，Ampere）",
-      "detail": "IT之家 10 月 25 日消息，英伟达已经上市一段时间的 GeForce RTX 30 系列（代号安培，Ampere）显卡，显然还有大量尚未释放的计算潜力。GitHub 用户扎吉塔（Zagitta）开发了一款名为 GPU Unlock 的开源新项目，可以解除安培架构显卡上部分人为设置的性能限制，在特定负载下，张量核心的计算吞吐量几乎可以翻倍，而且不需要修改英伟达驱动，也不用永久刷写显卡的 VBIOS。IT之家注意到，这个项目专门针对一项指令发射速率限制：在使用 FP32 累加的 FP16/BF16 张量核心运算中，消费级安培显卡的运行速率相比专业卡更低。解除这项限制之后，工具就能释放显卡硬件本身就具备的额外计算性能。有意思的是，GPU Unlock 建立在早前针对英伟达 CMP 加密货币挖矿显卡的相关研究之上。它把 CMP 项目的固件解锁技术和一套提前初始化方案结合起来，依靠一个 Linux 内核模块，在英伟达显卡驱动加载之前执行操作。该模块修改对应的硬件速度选择寄存器，执行一次功能级重置（FLR），之后原版驱动就可以正常初始化显卡。这也意味着用户每次更新驱动新版本时，都不用再给驱动",
+      "title": "华为 Mate 90 RS / Pro Max 典藏版推 HarmonyOS 7.0.0.111SP13 升级，优化与睿影 Z10 模块相机连接",
+      "url": "https://www.ithome.com/1/017/555.htm",
+      "summary": "IT之家 10 月 25 日消息，华为 Mate 90 RS 非凡大师和 Mate 90 Pro Max 典藏版推送了鸿蒙 HarmonyOS 7.0.0.111SP13 版本升级。系统包大小约 722.38MB，智慧修图人像大片推荐能力升级，支持修图后二次调节精修效果，同时畅连支持当面快速建群。▲ IT之家实拍：华为 Mate 90 Pro Max 典藏版IT之家附华为 Mate 90 RS 非凡大师和 Mate 90 Pro Max 典藏版此次更新内容如下：图库智慧修图人像大片主动推荐能力升级，支持修图后二次调节精修效果。畅连支持当面快速建群，和身边朋友选择相同进群口令或者通过碰一碰邀请，快速进入同一个群聊（参与方均需支持该功能）。相机优化相机在烟花拍摄、长焦等场景的拍摄稳定性，提升成像质量与拍摄体验。桌面优化桌面部分场景稳定性。小艺优化小艺输入法键盘输入操作体验。系统1.优化通信共享设备连接体验。2.优化整机系统稳定性，让您的设备运行更稳定。系统扩展特性对系统扩展特性进行同步更新，增强特性功能，提升用户体验。此次 Mate 90 RS / Pro Max 典藏版的新版本更新日志与",
+      "short_summary": "IT之家 10 月 25 日消息，华为 Mate 90 RS 非凡大师和 Mate 90 Pro Max 典藏版推送了鸿",
+      "detail": "IT之家 10 月 25 日消息，华为 Mate 90 RS 非凡大师和 Mate 90 Pro Max 典藏版推送了鸿蒙 HarmonyOS 7.0.0.111SP13 版本升级。系统包大小约 722.38MB，智慧修图人像大片推荐能力升级，支持修图后二次调节精修效果，同时畅连支持当面快速建群。▲ IT之家实拍：华为 Mate 90 Pro Max 典藏版IT之家附华为 Mate 90 RS 非凡大师和 Mate 90 Pro Max 典藏版此次更新内容如下：图库智慧修图人像大片主动推荐能力升级，支持修图后二次调节精修效果。畅连支持当面快速建群，和身边朋友选择相同进群口令或者通过碰一碰邀请，快速进入同一个群聊（参与方均需支持该功能）。相机优化相机在烟花拍摄、长焦等场景的拍摄稳定性，提升成像质量与拍摄体验。桌面优化桌面部分场景稳定性。小艺优化小艺输入法键盘输入操作体验。系统1.优化通信共享设备连接体验。2.优化整机系统稳定性，让您的设备运行更稳定。系统扩展特性对系统扩展特性进行同步更新，增强特性功能，提升用户体验。此次 Mate 90 RS / Pro Max 典藏版的新版本更新日志与",
       "source": "ITHome",
       "source_authority": 0.75,
       "date": "2026-10-25",
-      "score": 0.9125
-    },
+      "score": 0.62
+    }
+  ],
+  "category3": [
     {
       "title": "亚马逊 CEO 贾西： 2027 年 AWS 算力基本售罄，部分订单锁定到 2028 年",
       "url": "https://www.ithome.com/1/017/549.htm",
@@ -149,6 +149,17 @@
       "score": 0.8225
     },
     {
+      "title": "曝三星开展内部测试：Exynos 2700 跑分优于搭载高通旗舰芯片的机型",
+      "url": "https://www.ithome.com/1/017/556.htm",
+      "summary": "IT之家 10 月 25 日消息，三星电子计划于明年初推出 Galaxy S27 系列旗舰手机，预计搭载自研处理器 Exynos 2700。据韩媒《Financial News》今天（25 日）上午报道，该芯片在三星内部性能测试中击败了高通最新旗舰处理器。测试结果显示，Exynos 2700 在 CPU 和 GPU 性能方面均领先高通产品，外界对三星自研手机处理器重振竞争力的期待随之升温。业内消息称，三星近期使用小米 18 Pro Max 进行内部跑分测试。结果显示，Exynos 2700 的性能超过了高通第六代骁龙 8 超级至尊版。IT之家从数据中获悉，在 Geekbench 6.5 测试中，Exynos 2700 的 CPU 多核得分约为 13000 分，高通芯片约为 11000 分，前者领先约 20%。在 Geekbench 7.0 测试中，三星芯片也领先约 15%。如果与定位稍低的第六代骁龙 8 至尊版相比，Exynos 2700 在两项测试中的领先幅度分别扩大至 44% 和 36%。图形性能测试同样由 Exynos 2700 占优。在大型游戏的图形峰值性能测试中，三星芯片的得",
+      "short_summary": "IT之家 10 月 25 日消息，三星电子计划于明年初推出 Galaxy S27 系列旗舰手机，预计搭载自研处理器 Ex",
+      "detail": "IT之家 10 月 25 日消息，三星电子计划于明年初推出 Galaxy S27 系列旗舰手机，预计搭载自研处理器 Exynos 2700。据韩媒《Financial News》今天（25 日）上午报道，该芯片在三星内部性能测试中击败了高通最新旗舰处理器。测试结果显示，Exynos 2700 在 CPU 和 GPU 性能方面均领先高通产品，外界对三星自研手机处理器重振竞争力的期待随之升温。业内消息称，三星近期使用小米 18 Pro Max 进行内部跑分测试。结果显示，Exynos 2700 的性能超过了高通第六代骁龙 8 超级至尊版。IT之家从数据中获悉，在 Geekbench 6.5 测试中，Exynos 2700 的 CPU 多核得分约为 13000 分，高通芯片约为 11000 分，前者领先约 20%。在 Geekbench 7.0 测试中，三星芯片也领先约 15%。如果与定位稍低的第六代骁龙 8 至尊版相比，Exynos 2700 在两项测试中的领先幅度分别扩大至 44% 和 36%。图形性能测试同样由 Exynos 2700 占优。在大型游戏的图形峰值性能测试中，三星芯片的得",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-10-25",
+      "score": 0.785
+    },
+    {
       "title": "Pennsylvania will require labels on AI-generated ads",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
       "summary": "On Thursday, Pennsylvania Governor Josh Shapiro signed the Artificial Intelligence Deceptive Advertising Act into law, requiring disclosures on AI-generated ads. The law requires any ad - whether it's a still image, video, audio, or text - that \"has been significantly modified or generated by artificial intelligence\" to include a label in the same format as […]",
@@ -158,17 +169,6 @@
       "source_authority": 0.9,
       "date": "2026-10-25",
       "score": 0.71
-    },
-    {
-      "title": "IT早报 1025：英伟达停产传闻搅动 5090 炒至 6 万元；小鹏副总裁回应“老登”称呼；曝部分手机或平板产品线将停更；微信支持 iPhone Duo 等多端同时登录...",
-      "url": "https://www.ithome.com/1/017/539.htm",
-      "summary": "“IT早报”时间，大家好，现在是 2026 年 10 月 25 日星期日，今天的重要科技资讯有：1. 显卡一日一价：英伟达停产传闻搅动华强北，RTX 5090 被炒至 6 万元尽管英伟达否认停产传闻，华强北 RTX 50 系列渠道价仍持续飙升。RTX 5090 从官方约 1.6 万元涨至 6 万元，RTX 5080 翻倍至 1.7 万元。官方承认产能受限，根源在 GDDR7 显存供应不足。>> 查看详情2. 小鹏副总裁澄清 00 后美女产品经理发布会“老登”用词：是对内部核心负责人调侃，不指向外部用户小鹏集团副总裁 @托马斯电火车 10 月 24 日发布长文，还原了 00 后美女产品经理发布会“老登”用词事件全过程。他明确表示，自始至终，“老登”这个称呼，是产品团队对内部几个核心负责人的调侃，完全没有指向任何外部用户。>> 查看详情3. 消息称部分手机产品线或平板线迎来停更，成本兜不住博主 @数码闲聊站 爆料，接下来会有几个熟悉的手机产品线或平板线迎来停更，原因是成本兜不住，越发新机越亏。今年以来魅族、realme、一加等品牌已相继调整产品线或暂停部分市场新品发布。>> 查看详情4.",
-      "short_summary": "“IT早报”时间，大家好，现在是 2026 年 10 月 25 日星期日，今天的重要科技资讯有：1. 显卡一日一价：英伟",
-      "detail": "“IT早报”时间，大家好，现在是 2026 年 10 月 25 日星期日，今天的重要科技资讯有：1. 显卡一日一价：英伟达停产传闻搅动华强北，RTX 5090 被炒至 6 万元尽管英伟达否认停产传闻，华强北 RTX 50 系列渠道价仍持续飙升。RTX 5090 从官方约 1.6 万元涨至 6 万元，RTX 5080 翻倍至 1.7 万元。官方承认产能受限，根源在 GDDR7 显存供应不足。>> 查看详情2. 小鹏副总裁澄清 00 后美女产品经理发布会“老登”用词：是对内部核心负责人调侃，不指向外部用户小鹏集团副总裁 @托马斯电火车 10 月 24 日发布长文，还原了 00 后美女产品经理发布会“老登”用词事件全过程。他明确表示，自始至终，“老登”这个称呼，是产品团队对内部几个核心负责人的调侃，完全没有指向任何外部用户。>> 查看详情3. 消息称部分手机产品线或平板线迎来停更，成本兜不住博主 @数码闲聊站 爆料，接下来会有几个熟悉的手机产品线或平板线迎来停更，原因是成本兜不住，越发新机越亏。今年以来魅族、realme、一加等品牌已相继调整产品线或暂停部分市场新品发布。>> 查看详情4.",
-      "source": "ITHome",
-      "source_authority": 0.75,
-      "date": "2026-10-25",
-      "score": 0.695
     }
   ],
   "category4": [
