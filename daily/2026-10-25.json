@@ -1,0 +1,211 @@
+{
+  "date": "2026-10-25",
+  "category1": [
+    {
+      "title": "PayPal 联合创始人彼得 · 蒂尔：后乔布斯时代的苹果“就没再拿出什么新东西”",
+      "url": "https://www.ithome.com/1/017/537.htm",
+      "summary": "IT之家 10 月 25 日消息，据《商业内幕》今天（25 日）凌晨报道，PayPal 联合创始人、亿万富翁兼科技投资人彼得 · 蒂尔认为，自苹果创始人史蒂夫 · 乔布斯于 2011 年因癌症去世以来，苹果的大多数举措都没能让自己眼前一亮。蒂尔接受作家沃尔特 · 艾萨克森采访时直言：“在我看来，乔布斯去世后，苹果就没再拿出什么新东西。事实证明，手机确实是一项了不起的发明，但之后也没多少事情可做了。接下来的 15 年左右，无非就是扩大规模、经营品牌，不断完善已有的产品。”报道称，苹果一直受到“缺乏创新”的批评，尤其是在手机和平板电脑之外未能取得新的突破。进入 AI 时代后，苹果的 Siri 语音助手也落后于 OpenAI 和 Anthropic 的竞争产品。不过，苹果的产品依然广受欢迎。MacBook 是不少 AI 爱好者和普通用户的首选笔记本电脑，iPhone 随处可见，AirPods 自 2016 年问世以来，也凭借简洁时尚的设计受到消费者青睐。早在 2017 年，蒂尔就曾向《纽约时报》记者莫琳 · 多德断言，苹果的时代已经结束。但从那时起，苹果股价一直稳步上涨。IT之家从报道中获悉",
+      "detail": "IT之家 10 月 25 日消息，据《商业内幕》今天（25 日）凌晨报道，PayPal 联合创始人、亿万富翁兼科技投资人彼得 · 蒂尔认为，自苹果创始人史蒂夫 · 乔布斯于 2011 年因癌症去世以来，苹果的大多数举措都没能让自己眼前一亮。蒂尔接受作家沃尔特 · 艾萨克森采访时直言：“在我看来，乔布斯去世后，苹果就没再拿出什么新东西。事实证明，手机确实是一项了不起的发明，但之后也没多少事情可做了。接下来的 15 年左右，无非就是扩大规模、经营品牌，不断完善已有的产品。”报道称，苹果一直受到“缺乏创新”的批评，尤其是在手机和平板电脑之外未能取得新的突破。进入 AI 时代后，苹果的 Siri 语音助手也落后于 OpenAI 和 Anthropic 的竞争产品。不过，苹果的产品依然广受欢迎。MacBook 是不少 AI 爱好者和普通用户的首选笔记本电脑，iPhone 随处可见，AirPods 自 2016 年问世以来，也凭借简洁时尚的设计受到消费者青睐。早在 2017 年，蒂尔就曾向《纽约时报》记者莫琳 · 多德断言，苹果的时代已经结束。但从那时起，苹果股价一直稳步上涨。IT之家从报道中获悉",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-10-25",
+      "score": 0.96
+    },
+    {
+      "title": "不能逆向一切了？Anthropic 被曝悄悄限制 Claude Opus 5.5 逆向工程能力",
+      "url": "https://www.ithome.com/1/017/554.htm",
+      "summary": "IT之家 10 月 25 日消息，很多人把近期一波靠“氛围编码（vibe-coding）”完成的游戏反编译、重编译热潮，归功于 Anthropic 在 9 月 22 日发布的最新模型 Claude Opus 5.5。而现在，大量用户突然反馈：Opus 5.5 “可以逆向一切”的能力，或许已经被悄悄削弱。先说明一点：Anthropic 并没有官宣、发布 Opus 5.5 的新版本。不过该公司在 10 月 21 日对多款 Claude 相关产品推送了一系列更新。这一时间点，正好和 Reddit r/Claude 社区里 10 月 21 日出现的那条帖子吻合，帖子称 Opus 5.5 的逆向工程能力遭到限制。帖子里多名用户反馈，当指示 Claude Opus 5.5 去逆向任何受知识产权保护的内容时，安全护栏会在输出中途触发拦截。有一则示例中，Claude 回复称“安全校验中途终止了本次回答”，并且就算换一种措辞，也无法再生成对应的分析内容。但帖子里也有一部分用户持不同看法。有人表示，用 Claude 做逆向工程本来就结果不稳，“分类器本身就很敏感，能不能成功全看运气”。不过持这种观点的用户",
+      "detail": "IT之家 10 月 25 日消息，很多人把近期一波靠“氛围编码（vibe-coding）”完成的游戏反编译、重编译热潮，归功于 Anthropic 在 9 月 22 日发布的最新模型 Claude Opus 5.5。而现在，大量用户突然反馈：Opus 5.5 “可以逆向一切”的能力，或许已经被悄悄削弱。先说明一点：Anthropic 并没有官宣、发布 Opus 5.5 的新版本。不过该公司在 10 月 21 日对多款 Claude 相关产品推送了一系列更新。这一时间点，正好和 Reddit r/Claude 社区里 10 月 21 日出现的那条帖子吻合，帖子称 Opus 5.5 的逆向工程能力遭到限制。帖子里多名用户反馈，当指示 Claude Opus 5.5 去逆向任何受知识产权保护的内容时，安全护栏会在输出中途触发拦截。有一则示例中，Claude 回复称“安全校验中途终止了本次回答”，并且就算换一种措辞，也无法再生成对应的分析内容。但帖子里也有一部分用户持不同看法。有人表示，用 Claude 做逆向工程本来就结果不稳，“分类器本身就很敏感，能不能成功全看运气”。不过持这种观点的用户",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-10-25",
+      "score": 0.9225
+    },
+    {
+      "title": "PHP 基金会负责人坦言资金不足：仅 1 名全职员工",
+      "url": "https://www.ithome.com/1/017/528.htm",
+      "summary": "IT之家 10 月 25 日消息，本周，PHP 曝出两处高危漏洞，全球随即紧急行动，保护网站免遭黑客攻击。这件事也让人们看到，这门已有三十年历史的开源编程语言，对互联网而言有多重要。据估算，全球最高有约七成网站依托 PHP 搭建，但负责维护 PHP 的非营利基金会，经费却十分紧张。PHP 基金会执行董事伊丽莎白 · 巴伦（Elizabeth Barron）在当地时间周五的邮件采访中表示：“我们只有一名全职员工，也就是我，另外还有十四名大多是兼职的外包人员。”基金会董事会成员都是无薪志愿者，资金来源依靠捐赠与资助。IT之家注意到，基金会和外部研究人员以及多家企业合作，其中包括 OpenAI、网络安全公司 Wiz 和 Calif，共同排查安全漏洞、协调补丁开发，本周三发布的修复补丁就是这项合作的成果。网络安全服务商 Cloudflare 称已经监测到数百万次攻击尝试，不过巴伦表示，基金会没有证据表明黑客在漏洞公开前就成功利用这些漏洞，或是攻击已经打好补丁的网站。她说：“我们和 OpenAI、Wiz、Calif 在这个问题上密切协作，几家机构都没有反馈已修复系统出现异常的情况。”人工智能对基",
+      "detail": "IT之家 10 月 25 日消息，本周，PHP 曝出两处高危漏洞，全球随即紧急行动，保护网站免遭黑客攻击。这件事也让人们看到，这门已有三十年历史的开源编程语言，对互联网而言有多重要。据估算，全球最高有约七成网站依托 PHP 搭建，但负责维护 PHP 的非营利基金会，经费却十分紧张。PHP 基金会执行董事伊丽莎白 · 巴伦（Elizabeth Barron）在当地时间周五的邮件采访中表示：“我们只有一名全职员工，也就是我，另外还有十四名大多是兼职的外包人员。”基金会董事会成员都是无薪志愿者，资金来源依靠捐赠与资助。IT之家注意到，基金会和外部研究人员以及多家企业合作，其中包括 OpenAI、网络安全公司 Wiz 和 Calif，共同排查安全漏洞、协调补丁开发，本周三发布的修复补丁就是这项合作的成果。网络安全服务商 Cloudflare 称已经监测到数百万次攻击尝试，不过巴伦表示，基金会没有证据表明黑客在漏洞公开前就成功利用这些漏洞，或是攻击已经打好补丁的网站。她说：“我们和 OpenAI、Wiz、Calif 在这个问题上密切协作，几家机构都没有反馈已修复系统出现异常的情况。”人工智能对基",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-10-25",
+      "score": 0.8475
+    },
+    {
+      "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
+      "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
+      "summary": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races.",
+      "detail": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races.",
+      "source": "TechCrunch",
+      "source_authority": 0.95,
+      "date": "2026-10-24",
+      "score": 0.795
+    },
+    {
+      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+      "detail": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+      "source": "TechCrunch",
+      "source_authority": 0.95,
+      "date": "2026-10-25",
+      "score": 0.7825
+    }
+  ],
+  "category2": [
+    {
+      "title": "‘Synthetic twin’: Why Socceroo Cristian Volpato is the latest footballer to license his AI clone",
+      "url": "https://www.theguardian.com/technology/2026/oct/25/synthetic-twin-why-socceroo-cristian-volpato-is-the-latest-footballer-to-license-his-ai-clone",
+      "summary": "Athletes’ scramble to control – and monetise – their digital identities at the cutting edge of AI rights dealsGet our new political email, free app or daily news podcastThe Socceroos star stares at the camera as he strides through an enormous atrium, the sound of his football boots on polished concrete echoing around him. Suddenly, he spawns four digital clones that peel off out of view to re-emerge in different settings around the world.This scene from a social media video is fake and generated",
+      "detail": "Athletes’ scramble to control – and monetise – their digital identities at the cutting edge of AI rights dealsGet our new political email, free app or daily news podcastThe Socceroos star stares at the camera as he strides through an enormous atrium, the sound of his football boots on polished concrete echoing around him. Suddenly, he spawns four digital clones that peel off out of view to re-emerge in different settings around the world.This scene from a social media video is fake and generated",
+      "source": "The Guardian",
+      "source_authority": 0.85,
+      "date": "2026-10-25",
+      "score": 0.795
+    },
+    {
+      "title": "Blue Planet III features cloudier footage to prove authenticity amid AI boom",
+      "url": "https://www.theguardian.com/media/2026/oct/24/blue-planet-iii-cloudier-footage-prove-authenticity-ai-boom",
+      "summary": "BBC series deliberately uses ‘more organic’ shots to assure viewers animals are not AI-generated, producers sayThe David Attenborough-narrated series Blue Planet III deliberately includes cloudier, less polished footage to counter AI fakery and assure viewers it is “authentic”, its producers have said.Nearly a decade after Blue Planet II shone a light on plastic pollution, and 25 years since the first Blue Planet aired, the hit BBC series is returning with more animal behaviour and cutting-edge",
+      "detail": "BBC series deliberately uses ‘more organic’ shots to assure viewers animals are not AI-generated, producers sayThe David Attenborough-narrated series Blue Planet III deliberately includes cloudier, less polished footage to counter AI fakery and assure viewers it is “authentic”, its producers have said.Nearly a decade after Blue Planet II shone a light on plastic pollution, and 25 years since the first Blue Planet aired, the hit BBC series is returning with more animal behaviour and cutting-edge",
+      "source": "The Guardian",
+      "source_authority": 0.85,
+      "date": "2026-10-24",
+      "score": 0.6975
+    },
+    {
+      "title": "索尼 PS5 破解新进展：已可直接运行 Steam 游戏库中的 Windows 游戏",
+      "url": "https://www.ithome.com/1/017/540.htm",
+      "summary": "IT之家 10 月 25 日消息，PS5 的破解社区几乎每周都有新进展。现在破解后的 PS5 可以直接从 Steam 游戏库下载 Windows 游戏并在本机运行，不需要借助 PC 串流。实现该功能的工具是 Playden for PS5，这是开发者莱奥拉巴托（leolobato）推出的早期测试版启动器，移植自 macOS 版本的 Playden。用户可以扫码登录 Steam，浏览游戏库、下载游戏，还能在 PS5 主界面通过独立图标启动游戏。底层依托 prospero-win，也就是 Wine 在 PS5 上的移植版本，图形渲染部分由 DXVK 负责。和在 PS5 上安装 Linux 系统不同，它不需要单独引导另一套系统，Playden 本身就是一个普通的 PS5 应用。IT之家注意到，项目开发推进速度很快。首个公开版本在 10 月 12 日发布，0.5.0 版本借助 VKD3D-Proton 新增 Direct3D 12 支持，更新日志称这项改动让《赛博朋克 2077》《深岩银河》这类游戏具备了运行条件。本周更新的 0.6.0 版本新增 USB 和 FTP 导入游戏功能、120Hz",
+      "detail": "IT之家 10 月 25 日消息，PS5 的破解社区几乎每周都有新进展。现在破解后的 PS5 可以直接从 Steam 游戏库下载 Windows 游戏并在本机运行，不需要借助 PC 串流。实现该功能的工具是 Playden for PS5，这是开发者莱奥拉巴托（leolobato）推出的早期测试版启动器，移植自 macOS 版本的 Playden。用户可以扫码登录 Steam，浏览游戏库、下载游戏，还能在 PS5 主界面通过独立图标启动游戏。底层依托 prospero-win，也就是 Wine 在 PS5 上的移植版本，图形渲染部分由 DXVK 负责。和在 PS5 上安装 Linux 系统不同，它不需要单独引导另一套系统，Playden 本身就是一个普通的 PS5 应用。IT之家注意到，项目开发推进速度很快。首个公开版本在 10 月 12 日发布，0.5.0 版本借助 VKD3D-Proton 新增 Direct3D 12 支持，更新日志称这项改动让《赛博朋克 2077》《深岩银河》这类游戏具备了运行条件。本周更新的 0.6.0 版本新增 USB 和 FTP 导入游戏功能、120Hz",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-10-25",
+      "score": 0.695
+    },
+    {
+      "title": "John Healey pledges to use budget to harness power of AI to bolster Britain’s security",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/24/john-healey-pledges-to-use-budget-to-harness-power-of-ai-to-bolster-britains-security",
+      "summary": "Chancellor says government to commit hundreds of millions to develop ‘distinctively British’ approach to AIJohn Healey has pledged to use Wednesday’s budget to harness the power of artificial intelligence to bolster Britain’s security and prosperity against the risks in the accelerating global technology arms race.As he prepares for his debut budget, the chancellor said that Andy Burnham’s government would commit hundreds of millions of pounds to develop a “distinctively British” approach to AI",
+      "detail": "Chancellor says government to commit hundreds of millions to develop ‘distinctively British’ approach to AIJohn Healey has pledged to use Wednesday’s budget to harness the power of artificial intelligence to bolster Britain’s security and prosperity against the risks in the accelerating global technology arms race.As he prepares for his debut budget, the chancellor said that Andy Burnham’s government would commit hundreds of millions of pounds to develop a “distinctively British” approach to AI",
+      "source": "The Guardian",
+      "source_authority": 0.85,
+      "date": "2026-10-24",
+      "score": 0.66
+    },
+    {
+      "title": "Here are the top AI agents that can live in your text messages",
+      "url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "detail": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "source": "TechCrunch",
+      "source_authority": 0.95,
+      "date": "2026-10-24",
+      "score": 0.645
+    },
+    {
+      "title": "Blue Planet III is keeping the rough edges in the age of AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
+      "summary": "BBC's Blue Planet III is looking to prove its authenticity by leaving in the less-than-perfect shots. Previous incarnations of the nature series were defined by their gorgeous, crystal-clear footage that seemed almost too good to be real. But one dead giveaway of AI is when things look too polished and seamless. To counter that, Blue […]",
+      "detail": "BBC's Blue Planet III is looking to prove its authenticity by leaving in the less-than-perfect shots. Previous incarnations of the nature series were defined by their gorgeous, crystal-clear footage that seemed almost too good to be real. But one dead giveaway of AI is when things look too polished and seamless. To counter that, Blue […]",
+      "source": "The Verge",
+      "source_authority": 0.9,
+      "date": "2026-10-25",
+      "score": 0.635
+    }
+  ],
+  "category3": [
+    {
+      "title": "开源项目 GPU Unlock 可释放英伟达 RTX 30 系列显卡隐藏 AI 算力，实际性能提升可达 60%",
+      "url": "https://www.ithome.com/1/017/525.htm",
+      "summary": "IT之家 10 月 25 日消息，英伟达已经上市一段时间的 GeForce RTX 30 系列（代号安培，Ampere）显卡，显然还有大量尚未释放的计算潜力。GitHub 用户扎吉塔（Zagitta）开发了一款名为 GPU Unlock 的开源新项目，可以解除安培架构显卡上部分人为设置的性能限制，在特定负载下，张量核心的计算吞吐量几乎可以翻倍，而且不需要修改英伟达驱动，也不用永久刷写显卡的 VBIOS。IT之家注意到，这个项目专门针对一项指令发射速率限制：在使用 FP32 累加的 FP16/BF16 张量核心运算中，消费级安培显卡的运行速率相比专业卡更低。解除这项限制之后，工具就能释放显卡硬件本身就具备的额外计算性能。有意思的是，GPU Unlock 建立在早前针对英伟达 CMP 加密货币挖矿显卡的相关研究之上。它把 CMP 项目的固件解锁技术和一套提前初始化方案结合起来，依靠一个 Linux 内核模块，在英伟达显卡驱动加载之前执行操作。该模块修改对应的硬件速度选择寄存器，执行一次功能级重置（FLR），之后原版驱动就可以正常初始化显卡。这也意味着用户每次更新驱动新版本时，都不用再给驱动",
+      "detail": "IT之家 10 月 25 日消息，英伟达已经上市一段时间的 GeForce RTX 30 系列（代号安培，Ampere）显卡，显然还有大量尚未释放的计算潜力。GitHub 用户扎吉塔（Zagitta）开发了一款名为 GPU Unlock 的开源新项目，可以解除安培架构显卡上部分人为设置的性能限制，在特定负载下，张量核心的计算吞吐量几乎可以翻倍，而且不需要修改英伟达驱动，也不用永久刷写显卡的 VBIOS。IT之家注意到，这个项目专门针对一项指令发射速率限制：在使用 FP32 累加的 FP16/BF16 张量核心运算中，消费级安培显卡的运行速率相比专业卡更低。解除这项限制之后，工具就能释放显卡硬件本身就具备的额外计算性能。有意思的是，GPU Unlock 建立在早前针对英伟达 CMP 加密货币挖矿显卡的相关研究之上。它把 CMP 项目的固件解锁技术和一套提前初始化方案结合起来，依靠一个 Linux 内核模块，在英伟达显卡驱动加载之前执行操作。该模块修改对应的硬件速度选择寄存器，执行一次功能级重置（FLR），之后原版驱动就可以正常初始化显卡。这也意味着用户每次更新驱动新版本时，都不用再给驱动",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-10-25",
+      "score": 0.9125
+    },
+    {
+      "title": "亚马逊 CEO 贾西： 2027 年 AWS 算力基本售罄，部分订单锁定到 2028 年",
+      "url": "https://www.ithome.com/1/017/549.htm",
+      "summary": "IT之家 10 月 25 日消息，亚马逊首席执行官安迪・贾西（Andy Jassy）当地时间周五表示，受 AI 基础设施需求持续走高的推动，亚马逊云科技（AWS）的云计算容量到 2027 年基本已经售罄，还有大量长期算力订单锁定到 2028 年。这期视频播客由安德森・霍洛维茨基金（Andreessen Horowitz）联合创始人本・霍洛维茨（Ben Horowitz）和普通合伙人埃里克・托伦伯格（Erik Torenberg）主持。贾西在节目中说，AI 实验室和企业客户对算力的需求源源不断，亚马逊一直在尽力跟上需求。今年早些时候，亚马逊公布，2026 年资本开支计划约 2,200 亿美元（IT之家注：现汇率约合 1.47 万亿元人民币）。贾西提到，既然 2026 年的云算力容量已经全部订满，公司“其实还可以加大投入，继续加码并不是低效的资金使用方式”。他说：“2027 年的算力容量基本售罄。我们会预留一部分资源，用于按需调用、推理服务 Bedrock 以及 EC2，但适合批量采购的大块算力资源大多已经被订走。2028 年也有相当一部分容量被提前锁定。”EC2 是 AWS 的云服务器服",
+      "detail": "IT之家 10 月 25 日消息，亚马逊首席执行官安迪・贾西（Andy Jassy）当地时间周五表示，受 AI 基础设施需求持续走高的推动，亚马逊云科技（AWS）的云计算容量到 2027 年基本已经售罄，还有大量长期算力订单锁定到 2028 年。这期视频播客由安德森・霍洛维茨基金（Andreessen Horowitz）联合创始人本・霍洛维茨（Ben Horowitz）和普通合伙人埃里克・托伦伯格（Erik Torenberg）主持。贾西在节目中说，AI 实验室和企业客户对算力的需求源源不断，亚马逊一直在尽力跟上需求。今年早些时候，亚马逊公布，2026 年资本开支计划约 2,200 亿美元（IT之家注：现汇率约合 1.47 万亿元人民币）。贾西提到，既然 2026 年的云算力容量已经全部订满，公司“其实还可以加大投入，继续加码并不是低效的资金使用方式”。他说：“2027 年的算力容量基本售罄。我们会预留一部分资源，用于按需调用、推理服务 Bedrock 以及 EC2，但适合批量采购的大块算力资源大多已经被订走。2028 年也有相当一部分容量被提前锁定。”EC2 是 AWS 的云服务器服",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-10-25",
+      "score": 0.8225
+    },
+    {
+      "title": "Pennsylvania will require labels on AI-generated ads",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
+      "summary": "On Thursday, Pennsylvania Governor Josh Shapiro signed the Artificial Intelligence Deceptive Advertising Act into law, requiring disclosures on AI-generated ads. The law requires any ad - whether it's a still image, video, audio, or text - that \"has been significantly modified or generated by artificial intelligence\" to include a label in the same format as […]",
+      "detail": "On Thursday, Pennsylvania Governor Josh Shapiro signed the Artificial Intelligence Deceptive Advertising Act into law, requiring disclosures on AI-generated ads. The law requires any ad - whether it's a still image, video, audio, or text - that \"has been significantly modified or generated by artificial intelligence\" to include a label in the same format as […]",
+      "source": "The Verge",
+      "source_authority": 0.9,
+      "date": "2026-10-25",
+      "score": 0.71
+    },
+    {
+      "title": "IT早报 1025：英伟达停产传闻搅动 5090 炒至 6 万元；小鹏副总裁回应“老登”称呼；曝部分手机或平板产品线将停更；微信支持 iPhone Duo 等多端同时登录...",
+      "url": "https://www.ithome.com/1/017/539.htm",
+      "summary": "“IT早报”时间，大家好，现在是 2026 年 10 月 25 日星期日，今天的重要科技资讯有：1. 显卡一日一价：英伟达停产传闻搅动华强北，RTX 5090 被炒至 6 万元尽管英伟达否认停产传闻，华强北 RTX 50 系列渠道价仍持续飙升。RTX 5090 从官方约 1.6 万元涨至 6 万元，RTX 5080 翻倍至 1.7 万元。官方承认产能受限，根源在 GDDR7 显存供应不足。>> 查看详情2. 小鹏副总裁澄清 00 后美女产品经理发布会“老登”用词：是对内部核心负责人调侃，不指向外部用户小鹏集团副总裁 @托马斯电火车 10 月 24 日发布长文，还原了 00 后美女产品经理发布会“老登”用词事件全过程。他明确表示，自始至终，“老登”这个称呼，是产品团队对内部几个核心负责人的调侃，完全没有指向任何外部用户。>> 查看详情3. 消息称部分手机产品线或平板线迎来停更，成本兜不住博主 @数码闲聊站 爆料，接下来会有几个熟悉的手机产品线或平板线迎来停更，原因是成本兜不住，越发新机越亏。今年以来魅族、realme、一加等品牌已相继调整产品线或暂停部分市场新品发布。>> 查看详情4.",
+      "detail": "“IT早报”时间，大家好，现在是 2026 年 10 月 25 日星期日，今天的重要科技资讯有：1. 显卡一日一价：英伟达停产传闻搅动华强北，RTX 5090 被炒至 6 万元尽管英伟达否认停产传闻，华强北 RTX 50 系列渠道价仍持续飙升。RTX 5090 从官方约 1.6 万元涨至 6 万元，RTX 5080 翻倍至 1.7 万元。官方承认产能受限，根源在 GDDR7 显存供应不足。>> 查看详情2. 小鹏副总裁澄清 00 后美女产品经理发布会“老登”用词：是对内部核心负责人调侃，不指向外部用户小鹏集团副总裁 @托马斯电火车 10 月 24 日发布长文，还原了 00 后美女产品经理发布会“老登”用词事件全过程。他明确表示，自始至终，“老登”这个称呼，是产品团队对内部几个核心负责人的调侃，完全没有指向任何外部用户。>> 查看详情3. 消息称部分手机产品线或平板线迎来停更，成本兜不住博主 @数码闲聊站 爆料，接下来会有几个熟悉的手机产品线或平板线迎来停更，原因是成本兜不住，越发新机越亏。今年以来魅族、realme、一加等品牌已相继调整产品线或暂停部分市场新品发布。>> 查看详情4.",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-10-25",
+      "score": 0.695
+    }
+  ],
+  "category4": [
+    {
+      "title": "软银投资的农业无人机创企极飞科技：希望让每个农民都有自己的机器人",
+      "url": "https://www.ithome.com/1/017/552.htm",
+      "summary": "IT之家 10 月 25 日消息，据英国《金融时报》今天（25 日）上午报道，获得软银投资的中国农业无人机企业极飞科技，希望让“每个农民都有自己的机器人”。面对农业劳动力持续减少、气温不断升高，极飞认为，无需飞手操控的植保无人机能够帮助农民应对双重挑战。按营收计算，极飞是仅次于大疆的全球第二大农业无人机制造商。公司推出了一系列配套自动化无人机场的产品，无人机降落后可自动完成清洗、充电和补充药液，系统还能自行规划喷洒航线。极飞科技高级副总裁龚槚钦指出，缺少劳动力、农业从业人员老龄化，是中国农场面临的两大难题，许多农场还难以找到有空前来喷洒作业的无人机飞手。气候变化使天气更加极端，也让农业智能化、自动化变得愈发迫切。“未来每个农民都会有自己的机器人。这将带来革命性的改变，因为我们认为，眼下制约无人机行业发展的最大障碍就是飞手。”龚槚钦指出，飞手往往希望尽快喷完一处农田，再赶往下一处，偏远地区的农场也很难吸引飞手上门。推动农业走向自动化的另一股力量，是农业劳动力的快速流失。“AI 公司谈估值和市场规模，看的是能替代多少人。我们恰好相反：未来五年会失去多少劳动力，就意味着多大的市场规模。”龚槚",
+      "detail": "IT之家 10 月 25 日消息，据英国《金融时报》今天（25 日）上午报道，获得软银投资的中国农业无人机企业极飞科技，希望让“每个农民都有自己的机器人”。面对农业劳动力持续减少、气温不断升高，极飞认为，无需飞手操控的植保无人机能够帮助农民应对双重挑战。按营收计算，极飞是仅次于大疆的全球第二大农业无人机制造商。公司推出了一系列配套自动化无人机场的产品，无人机降落后可自动完成清洗、充电和补充药液，系统还能自行规划喷洒航线。极飞科技高级副总裁龚槚钦指出，缺少劳动力、农业从业人员老龄化，是中国农场面临的两大难题，许多农场还难以找到有空前来喷洒作业的无人机飞手。气候变化使天气更加极端，也让农业智能化、自动化变得愈发迫切。“未来每个农民都会有自己的机器人。这将带来革命性的改变，因为我们认为，眼下制约无人机行业发展的最大障碍就是飞手。”龚槚钦指出，飞手往往希望尽快喷完一处农田，再赶往下一处，偏远地区的农场也很难吸引飞手上门。推动农业走向自动化的另一股力量，是农业劳动力的快速流失。“AI 公司谈估值和市场规模，看的是能替代多少人。我们恰好相反：未来五年会失去多少劳动力，就意味着多大的市场规模。”龚槚",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-10-25",
+      "score": 0.785
+    },
+    {
+      "title": "Eka Robotics raises $150M to scale its vision-force-action model for robots",
+      "url": "https://www.therobotreport.com/eka-robotics-raises-150m-scale-vision-force-action-model-robots/",
+      "summary": "Eka Robotics is building a vision-force-action, or VFA, model to develop an intuition of physics through reinforcement learning at scale.\nThe post Eka Robotics raises $150M to scale its vision-force-action model for robots appeared first on The Robot Report.",
+      "detail": "Eka Robotics is building a vision-force-action, or VFA, model to develop an intuition of physics through reinforcement learning at scale.\nThe post Eka Robotics raises $150M to scale its vision-force-action model for robots appeared first on The Robot Report.",
+      "source": "The Robot Report",
+      "source_authority": 0.85,
+      "date": "2026-10-24",
+      "score": 0.73
+    },
+    {
+      "title": "Biggest Fails from the 2026 World Humanoid Robot Games in China [video]",
+      "url": "https://www.youtube.com/watch?v=XgnBN8BLc-o",
+      "summary": "Article URL: https://www.youtube.com/watch?v=XgnBN8BLc-o\nComments URL: https://news.ycombinator.com/item?id=50215485\nPoints: 2\n# Comments: 1",
+      "detail": "Article URL: https://www.youtube.com/watch?v=XgnBN8BLc-o\nComments URL: https://news.ycombinator.com/item?id=50215485\nPoints: 2\n# Comments: 1",
+      "source": "Hacker News",
+      "source_authority": 0.8,
+      "date": "2026-10-24",
+      "score": 0.685
+    },
+    {
+      "title": "RoboJev: Jev, but to Grade Robot Data",
+      "url": "https://robo-jev.com/",
+      "summary": "Article URL: https://robo-jev.com/\nComments URL: https://news.ycombinator.com/item?id=50226125\nPoints: 4\n# Comments: 0",
+      "detail": "Article URL: https://robo-jev.com/\nComments URL: https://news.ycombinator.com/item?id=50226125\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "source_authority": 0.8,
+      "date": "2026-10-25",
+      "score": 0.655
+    },
+    {
+      "title": "I built a livestream where you can control a $4k 7-DOF Robot [video]",
+      "url": "https://www.youtube.com/watch?v=uSrAc9nv_do",
+      "summary": "Article URL: https://www.youtube.com/watch?v=uSrAc9nv_do\nComments URL: https://news.ycombinator.com/item?id=50223536\nPoints: 1\n# Comments: 0",
+      "detail": "Article URL: https://www.youtube.com/watch?v=uSrAc9nv_do\nComments URL: https://news.ycombinator.com/item?id=50223536\nPoints: 1\n# Comments: 0",
+      "source": "Hacker News",
+      "source_authority": 0.8,
+      "date": "2026-10-25",
+      "score": 0.655
+    }
+  ]
+}
