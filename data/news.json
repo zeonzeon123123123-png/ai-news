@@ -2,17 +2,6 @@
   "date": "2026-10-27",
   "category1": [
     {
-      "title": "Anthropic 提交 IPO 招股文件，亚洲芯片股走强",
-      "url": "https://www.ithome.com/1/018/237.htm",
-      "summary": "IT之家 10 月 27 日消息，据彭博社报道，受 Anthropic PBC 提交 IPO 招股文件的推动，投资者对人工智能交易的热情重新燃起，亚洲半导体板块股票应声大涨。今日早盘交易中，三星电子、SK 海力士股价涨幅均超 5%，带动韩国综合股价指数（Kospi）一度冲高 4.4%。日本日经 225 指数最大涨幅达 2.2%，芯片相关企业爱德万测试（Advantest Corp.）、住友硅业（Sumco Corp.）涨幅都超过 6%。开发 Claude 的 Anthropic 向上市再迈进一步，是隔夜一系列利好消息里最核心的一条，缓解了市场近期对 AI 领域融资情况的担忧。其他值得关注的消息还有 SpaceX 一笔 400 亿美元（IT之家注：现汇率约合 2,673.5 亿元人民币）设备融资租赁项目，以及 Meta Platforms 拟实施 950 亿美元（现汇率约合 6,349.56 亿元人民币）售股计划。万泰环球资本（Vantage Global Prime）市场分析师赫柏 · 陈（Hebe Chen）表示：“Anthropic 这份标志性的 IPO 申报文件，叠加 Meta",
-      "short_summary": "IT之家 10 月 27 日消息，据彭博社报道，受 Anthropic PBC 提交 IPO 招股文件的推动，投资者对人",
-      "detail": "IT之家 10 月 27 日消息，据彭博社报道，受 Anthropic PBC 提交 IPO 招股文件的推动，投资者对人工智能交易的热情重新燃起，亚洲半导体板块股票应声大涨。今日早盘交易中，三星电子、SK 海力士股价涨幅均超 5%，带动韩国综合股价指数（Kospi）一度冲高 4.4%。日本日经 225 指数最大涨幅达 2.2%，芯片相关企业爱德万测试（Advantest Corp.）、住友硅业（Sumco Corp.）涨幅都超过 6%。开发 Claude 的 Anthropic 向上市再迈进一步，是隔夜一系列利好消息里最核心的一条，缓解了市场近期对 AI 领域融资情况的担忧。其他值得关注的消息还有 SpaceX 一笔 400 亿美元（IT之家注：现汇率约合 2,673.5 亿元人民币）设备融资租赁项目，以及 Meta Platforms 拟实施 950 亿美元（现汇率约合 6,349.56 亿元人民币）售股计划。万泰环球资本（Vantage Global Prime）市场分析师赫柏 · 陈（Hebe Chen）表示：“Anthropic 这份标志性的 IPO 申报文件，叠加 Meta",
-      "source": "ITHome",
-      "source_authority": 0.75,
-      "date": "2026-10-27",
-      "score": 0.96
-    },
-    {
       "title": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
       "url": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
       "summary": "Anthropic’s S-1 shows more than half of its $100,000-plus customers now use both the Claude Platform and a first-party app, a cross-selling playbook reminiscent of Amazon that’s making enterprise customers stickier.",
@@ -46,22 +35,11 @@
       "score": 0.9075
     },
     {
-      "title": "Mac 版 Ollama 新增离线生成 AI 语音：数据不出门，速度比原方案最高快 35%",
-      "url": "https://www.ithome.com/1/018/228.htm",
-      "summary": "IT之家 10 月 27 日消息，本地运行 AI 模型的开源平台 Ollama 于 10 月 24 日宣布，其 Mac 应用正式支持文本转语音（TTS）生成，Windows 和 Linux 版本也将随后跟进。科技媒体 9to5Mac 认为这是 Ollama 首次加入语音生成能力，让本地 AI 从“能读会写”进一步迈向“能开口说话”。首个支持的语音模型是 Gradium 开发的 Phonon 系列。该模型体积较小、技术指标先进，用户无需依赖云端服务，可通过 Ollama 直接下载并在 Apple Silicon Mac 上运行，更适合注重隐私、需要离线使用的场景。在 macOS 上，Ollama 采用苹果开源机器学习框架 MLX，充分利用 Apple Silicon 的统一内存架构来提升运行效率。官方测试显示，在搭载 M5 Max 芯片的 MacBook Pro 上，Phonon 在保持了与 Hugging Face Transformers 参考实现相当的词错误率前提下，语音生成速度比 Gradium 自身实现快 35%。新功能还支持实时语音生成，用户不必等待 AI 完整输出文本，可以",
-      "short_summary": "IT之家 10 月 27 日消息，本地运行 AI 模型的开源平台 Ollama 于 10 月 24 日宣布，其 Mac ",
-      "detail": "IT之家 10 月 27 日消息，本地运行 AI 模型的开源平台 Ollama 于 10 月 24 日宣布，其 Mac 应用正式支持文本转语音（TTS）生成，Windows 和 Linux 版本也将随后跟进。科技媒体 9to5Mac 认为这是 Ollama 首次加入语音生成能力，让本地 AI 从“能读会写”进一步迈向“能开口说话”。首个支持的语音模型是 Gradium 开发的 Phonon 系列。该模型体积较小、技术指标先进，用户无需依赖云端服务，可通过 Ollama 直接下载并在 Apple Silicon Mac 上运行，更适合注重隐私、需要离线使用的场景。在 macOS 上，Ollama 采用苹果开源机器学习框架 MLX，充分利用 Apple Silicon 的统一内存架构来提升运行效率。官方测试显示，在搭载 M5 Max 芯片的 MacBook Pro 上，Phonon 在保持了与 Hugging Face Transformers 参考实现相当的词错误率前提下，语音生成速度比 Gradium 自身实现快 35%。新功能还支持实时语音生成，用户不必等待 AI 完整输出文本，可以",
-      "source": "ITHome",
-      "source_authority": 0.75,
-      "date": "2026-10-27",
-      "score": 0.8975
-    },
-    {
-      "title": "AI 造富：Anthropic 七位联合创始人身家均超 130 亿美元",
-      "url": "https://www.ithome.com/1/018/231.htm",
-      "summary": "IT之家 10 月 27 日消息，Anthropic PBC 当地时间周一披露的 IPO 文件显示，公司七位联合创始人每人大约持有公司 1.4% 的股份，按估值计算，各自身家超过 130 亿美元（IT之家注：现汇率约合 868.89 亿元人民币）。阿莫代伊兄妹这让包括达里奥 · 阿莫代伊（Dario Amodei）、丹妮拉 · 阿莫代伊（Daniela Amodei）兄妹在内的全部七位创始人跻身彭博亿万富豪指数前 300 名，财富规模超过比尔 · 阿克曼（Bill Ackman）、斯坦 · 德鲁肯米勒（Stan Druckenmiller）等知名金融领域亿万富豪。该身家是基于 Anthropic 上一轮融资 9,650 亿美元（现汇率约合 6.45 万亿元人民币）的估值测算得出，相比彭博此前测算的每人 80 亿美元（现汇率约合 534.7 亿元人民币）大幅上涨。彭博财富指数的数据显示，如果 Anthropic 上市后估值能够达到投资者此前提出的 2 万亿美元（现汇率约合 13.37 万亿元人民币），在不考虑新股发行带来股权稀释的前提下，每位创始人的账面财富将超过 270 亿美元（现汇率",
-      "short_summary": "IT之家 10 月 27 日消息，Anthropic PBC 当地时间周一披露的 IPO 文件显示，公司七位联合创始人每",
-      "detail": "IT之家 10 月 27 日消息，Anthropic PBC 当地时间周一披露的 IPO 文件显示，公司七位联合创始人每人大约持有公司 1.4% 的股份，按估值计算，各自身家超过 130 亿美元（IT之家注：现汇率约合 868.89 亿元人民币）。阿莫代伊兄妹这让包括达里奥 · 阿莫代伊（Dario Amodei）、丹妮拉 · 阿莫代伊（Daniela Amodei）兄妹在内的全部七位创始人跻身彭博亿万富豪指数前 300 名，财富规模超过比尔 · 阿克曼（Bill Ackman）、斯坦 · 德鲁肯米勒（Stan Druckenmiller）等知名金融领域亿万富豪。该身家是基于 Anthropic 上一轮融资 9,650 亿美元（现汇率约合 6.45 万亿元人民币）的估值测算得出，相比彭博此前测算的每人 80 亿美元（现汇率约合 534.7 亿元人民币）大幅上涨。彭博财富指数的数据显示，如果 Anthropic 上市后估值能够达到投资者此前提出的 2 万亿美元（现汇率约合 13.37 万亿元人民币），在不考虑新股发行带来股权稀释的前提下，每位创始人的账面财富将超过 270 亿美元（现汇率",
+      "title": "Anthropic 上市文件披露：当今 AI 产业严重依赖天然气",
+      "url": "https://www.ithome.com/1/018/270.htm",
+      "summary": "IT之家 10 月 27 日消息，据外媒 The Verge 今天（27 日）早间报道，准备上市的 Anthropic 在 S-1 注册文件中，揭示了生成式 AI 产业对甲烷的严重依赖。文件写道，电力供应以及供电条件良好的数据中心选址，都面临激烈竞争。Anthropic 向美国证券交易委员会提交的文件承认，数据中心越来越依赖主要成分是甲烷的“天然气”。这意味着 Anthropic 建设 AI 数据中心的计划，将受到燃料涨价和供应链瓶颈的制约。文件还承认，燃烧化石燃料造成的全球气温上升，也会进一步推高自身运营成本。部分规划中的数据中心需要依靠燃气轮机现场发电。Anthropic 从大型云计算服务商租用算力资源，去年也宣布了一项 500 亿美元（IT之家注：现汇率约合 3,341.88 亿元人民币）的投资计划，用于扩大得克萨斯州和纽约州的数据中心规模。美国是全球数据中心最集中的国家。为满足数据中心持续增长的用电需求，美国计划建设的化石燃料发电设施规模将达到十年来最高水平。燃气轮机供应不足也拖慢了数据中心建设。为缩短接入电网的等待时间，部分开发商选择安装燃气内燃机，自行发电。由于燃气轮机制造",
+      "short_summary": "IT之家 10 月 27 日消息，据外媒 The Verge 今天（27 日）早间报道，准备上市的 Anthropic ",
+      "detail": "IT之家 10 月 27 日消息，据外媒 The Verge 今天（27 日）早间报道，准备上市的 Anthropic 在 S-1 注册文件中，揭示了生成式 AI 产业对甲烷的严重依赖。文件写道，电力供应以及供电条件良好的数据中心选址，都面临激烈竞争。Anthropic 向美国证券交易委员会提交的文件承认，数据中心越来越依赖主要成分是甲烷的“天然气”。这意味着 Anthropic 建设 AI 数据中心的计划，将受到燃料涨价和供应链瓶颈的制约。文件还承认，燃烧化石燃料造成的全球气温上升，也会进一步推高自身运营成本。部分规划中的数据中心需要依靠燃气轮机现场发电。Anthropic 从大型云计算服务商租用算力资源，去年也宣布了一项 500 亿美元（IT之家注：现汇率约合 3,341.88 亿元人民币）的投资计划，用于扩大得克萨斯州和纽约州的数据中心规模。美国是全球数据中心最集中的国家。为满足数据中心持续增长的用电需求，美国计划建设的化石燃料发电设施规模将达到十年来最高水平。燃气轮机供应不足也拖慢了数据中心建设。为缩短接入电网的等待时间，部分开发商选择安装燃气内燃机，自行发电。由于燃气轮机制造",
       "source": "ITHome",
       "source_authority": 0.75,
       "date": "2026-10-27",
@@ -90,6 +68,17 @@
       "score": 0.8725
     },
     {
+      "title": "知情人士：DeepSeek 大举扩充团队，梁文锋长期在北京租房",
+      "url": "https://www.ithome.com/1/018/339.htm",
+      "summary": "凤凰网科技讯 10 月 27 日，随着新一轮融资受到关注，DeepSeek 的团队扩张也在加速。多位知情人士向凤凰网科技透露，DeepSeek 近期扩张势头很猛。一位接近 DeepSeek 的人士表示，公司正在向投资人规划新的增长路线，其中包括大举扩充团队。这位接近 DeepSeek 的人士还透露，DeepSeek 的办公地主要位于北京和杭州。创始人梁文锋长期在北京租房居住，房间布置一直比较简单。近期，多家媒体报道称，DeepSeek 即将完成新一轮融资，规模约为 1000 亿元人民币。据相关报道，这轮融资的计划规模从最初的 500 亿元上调至 800 亿元，随后进一步增至约 1000 亿元。加上今年 6 月首轮约 510 亿元融资，DeepSeek 半年内的累计融资规模或达到约 1500 亿元人民币。具体融资金额和投资方名单仍有待公司进一步披露。DeepSeek 此前已释放扩大招聘的信号。今年 6 月 25 日，DeepSeek 发布招聘公告，提出将所有部门规模扩大至少一倍，并开放 33 个岗位，覆盖技术研发、算力基础设施、产品落地、前沿算法研究和综合职能等方向，其中包括乌兰察布的数",
+      "short_summary": "凤凰网科技讯 10 月 27 日，随着新一轮融资受到关注，DeepSeek 的团队扩张也在加速。多位知情人士向凤凰网科技",
+      "detail": "凤凰网科技讯 10 月 27 日，随着新一轮融资受到关注，DeepSeek 的团队扩张也在加速。多位知情人士向凤凰网科技透露，DeepSeek 近期扩张势头很猛。一位接近 DeepSeek 的人士表示，公司正在向投资人规划新的增长路线，其中包括大举扩充团队。这位接近 DeepSeek 的人士还透露，DeepSeek 的办公地主要位于北京和杭州。创始人梁文锋长期在北京租房居住，房间布置一直比较简单。近期，多家媒体报道称，DeepSeek 即将完成新一轮融资，规模约为 1000 亿元人民币。据相关报道，这轮融资的计划规模从最初的 500 亿元上调至 800 亿元，随后进一步增至约 1000 亿元。加上今年 6 月首轮约 510 亿元融资，DeepSeek 半年内的累计融资规模或达到约 1500 亿元人民币。具体融资金额和投资方名单仍有待公司进一步披露。DeepSeek 此前已释放扩大招聘的信号。今年 6 月 25 日，DeepSeek 发布招聘公告，提出将所有部门规模扩大至少一倍，并开放 33 个岗位，覆盖技术研发、算力基础设施、产品落地、前沿算法研究和综合职能等方向，其中包括乌兰察布的数",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-10-27",
+      "score": 0.8725
+    },
+    {
       "title": "Five weird details from Anthropic’s IPO filing",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1018738/anthropic-ipo-s1-filing-weird-details",
       "summary": "Anthropic has finally filed its S-1 prospectus with the SEC, a document designed to give investors a look under the hood of its business, from how much its executives are making and plans for spending its IPO billions to the risks that could derail its ambitions. At more than 300 pages, there's a lot to […]",
@@ -110,6 +99,17 @@
       "source_authority": 0.9,
       "date": "2026-10-27",
       "score": 0.8625
+    },
+    {
+      "title": "Can AI help solve the COBOL code crisis?",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018434/cobol-migration-legacy-code-openai-anthropic",
+      "summary": "What do the IRS, banks, airlines, and government infrastructure around the world have in common? They're all running on systems propped up by antique computer code that nobody dares touch, lest everything come crashing down. OpenAI thinks it may have a solution. On October 19th, the company touted \"substantial improvements\" in its latest AI models' […]",
+      "short_summary": "What do the IRS, banks, airlines, and government infrastruct",
+      "detail": "What do the IRS, banks, airlines, and government infrastructure around the world have in common? They're all running on systems propped up by antique computer code that nobody dares touch, lest everything come crashing down. OpenAI thinks it may have a solution. On October 19th, the company touted \"substantial improvements\" in its latest AI models' […]",
+      "source": "The Verge",
+      "source_authority": 0.9,
+      "date": "2026-10-26",
+      "score": 0.8525
     }
   ],
   "category2": [
@@ -136,15 +136,15 @@
       "score": 0.8
     },
     {
-      "title": "苹果 iOS 27.2 正式版国行“最重要专属功能”，可禁止 App 摇一摇跳转",
-      "url": "https://www.ithome.com/1/018/241.htm",
-      "summary": "IT之家 10 月 27 日消息，苹果公司今天面向 iPhone 18 Pro 等机型推送 iOS 27.2 正式版更新（内部版本号：24B119），并为其首款折叠 iPhone Duo 推送专属 iOS 27.2 更新（内部版本号：24B91020）。本次更新带来了增强 Siri AI（国内暂未上线）、更新 Apple Music 品牌视觉等，还有一项对于国内比较重要的细节更新 —— 可禁止 App 摇一摇跳转。这项功能名为“限制动作数据”。用户需进入“设置”>“隐私与安全”>“运动与健身”，找到“限制动作数据”选项，然后点击右上角“编辑”，就可以将需要屏蔽摇一摇跳转的 App 添加至限制名单中。据IT之家此前报道，这项功能在北京时间 9 月 23 日的 iOS 27.2 Beta 2 更新中首次出现，被加入名单的 App 将无法获取加速度计、陀螺仪等运动传感器数据的权限。据大量用户反馈，只有当 App Store 登录中国大陆地区账号时，系统设置中才会出现相关入口；切换至美国地区账号后，该入口即消失。iOS 27.2 正式版更新今日发布后，“iOS27.2 禁止摇一摇跳转”话题火速",
-      "short_summary": "IT之家 10 月 27 日消息，苹果公司今天面向 iPhone 18 Pro 等机型推送 iOS 27.2 正式版更新",
-      "detail": "IT之家 10 月 27 日消息，苹果公司今天面向 iPhone 18 Pro 等机型推送 iOS 27.2 正式版更新（内部版本号：24B119），并为其首款折叠 iPhone Duo 推送专属 iOS 27.2 更新（内部版本号：24B91020）。本次更新带来了增强 Siri AI（国内暂未上线）、更新 Apple Music 品牌视觉等，还有一项对于国内比较重要的细节更新 —— 可禁止 App 摇一摇跳转。这项功能名为“限制动作数据”。用户需进入“设置”>“隐私与安全”>“运动与健身”，找到“限制动作数据”选项，然后点击右上角“编辑”，就可以将需要屏蔽摇一摇跳转的 App 添加至限制名单中。据IT之家此前报道，这项功能在北京时间 9 月 23 日的 iOS 27.2 Beta 2 更新中首次出现，被加入名单的 App 将无法获取加速度计、陀螺仪等运动传感器数据的权限。据大量用户反馈，只有当 App Store 登录中国大陆地区账号时，系统设置中才会出现相关入口；切换至美国地区账号后，该入口即消失。iOS 27.2 正式版更新今日发布后，“iOS27.2 禁止摇一摇跳转”话题火速",
+      "title": "英伟达 RTX 5090 显卡陷停产疑云：消息称合作厂商已订不到核心芯片",
+      "url": "https://www.ithome.com/1/018/272.htm",
+      "summary": "IT之家 10 月 27 日消息，科技媒体 Wccftech 今天（10 月 27 日）发布博文，报道称围绕英伟达旗舰游戏显卡 GeForce RTX 5090 是否停产的争议仍在持续。此前有报道称该显卡已进入生命周期终点（EOL），但英伟达随后予以否认，表示 RTX 5090“绝对没有停产”，仍在继续出货，只是供应链因显存价格上涨等因素而受到限制。英伟达官方声明该媒体指出，从普通消费者角度来看，正规渠道已难以购入 RTX 5090 显卡，在全球多个市场多数零售渠道已显示售罄。德国超频玩家 Der8auer 披露，一家未具名的英伟达板卡合作伙伴表示，公司并未收到 RTX 5090 正式停产通知；但与此同时，该厂商已无法再订购搭载 32GB GDDR7 显存的 GB202 芯片套装。一家未具名的英伟达板卡合作伙伴的非官方声明据更关键的是，对方也不确定未来是否还能重新下单。该厂商称，此前即便出现供应紧张，仍可通过补单方式获取物料，而现在连补单通道也已关闭。该媒体分析认为，英伟达可能将有限的 GB202 产能优先分配给 RTX PRO 专业卡、工作站及 AI 业务，从而稀释消费级游戏显卡的供",
+      "short_summary": "IT之家 10 月 27 日消息，科技媒体 Wccftech 今天（10 月 27 日）发布博文，报道称围绕英伟达旗舰游",
+      "detail": "IT之家 10 月 27 日消息，科技媒体 Wccftech 今天（10 月 27 日）发布博文，报道称围绕英伟达旗舰游戏显卡 GeForce RTX 5090 是否停产的争议仍在持续。此前有报道称该显卡已进入生命周期终点（EOL），但英伟达随后予以否认，表示 RTX 5090“绝对没有停产”，仍在继续出货，只是供应链因显存价格上涨等因素而受到限制。英伟达官方声明该媒体指出，从普通消费者角度来看，正规渠道已难以购入 RTX 5090 显卡，在全球多个市场多数零售渠道已显示售罄。德国超频玩家 Der8auer 披露，一家未具名的英伟达板卡合作伙伴表示，公司并未收到 RTX 5090 正式停产通知；但与此同时，该厂商已无法再订购搭载 32GB GDDR7 显存的 GB202 芯片套装。一家未具名的英伟达板卡合作伙伴的非官方声明据更关键的是，对方也不确定未来是否还能重新下单。该厂商称，此前即便出现供应紧张，仍可通过补单方式获取物料，而现在连补单通道也已关闭。该媒体分析认为，英伟达可能将有限的 GB202 产能优先分配给 RTX PRO 专业卡、工作站及 AI 业务，从而稀释消费级游戏显卡的供",
       "source": "ITHome",
       "source_authority": 0.75,
       "date": "2026-10-27",
-      "score": 0.7825
+      "score": 0.7575
     },
     {
       "title": "The RealReal won’t let AI agents hog designer clothing",
@@ -158,26 +158,26 @@
       "score": 0.725
     },
     {
-      "title": "NCASE 带来 SFX 电源：获铂金转换效率认证，至高 1500W",
-      "url": "https://www.ithome.com/1/018/262.htm",
-      "summary": "IT之家 10 月 27 日消息，机箱制造商 NCASE 近日推出了 PC 电源产品。其采用标准 SFX 外形规格和全模组线材设计，获得 80 PLUS 铂金转换效率认证，提供 850W / 1200W / 1500W 三个版本。NCASE 的 SFX 电源符合 ATX12V 3.1 规范要求，原生提供 12V-2×6 供电。其选用全日系电容，拥有镀金模组端子，配备支持智能转速控制的 92mm FDB 风扇，随附 ATX 适配支架，具备 OVP、UVP、OPP、SCP、OTP、OCP 安全防护。NCASE 在其 SFX 电源上提供 SFF 和 MFF 两种线材组合，SFF 仅保留了主板、EPS、12V-2×6 供电，MFF 则补充 PCIe 8-Pin 和 SATA、PATA 线材。该电源 MFF 套装版本定价 135 / 185 / 235 美元（IT之家注：现汇率约合 902.3 / 1,236 / 1,571 元人民币），SFF 版本则在此基础上减少 10 美元（现汇率约合 66.8 元人民币）。",
-      "short_summary": "IT之家 10 月 27 日消息，机箱制造商 NCASE 近日推出了 PC 电源产品。其采用标准 SFX 外形规格和全模",
-      "detail": "IT之家 10 月 27 日消息，机箱制造商 NCASE 近日推出了 PC 电源产品。其采用标准 SFX 外形规格和全模组线材设计，获得 80 PLUS 铂金转换效率认证，提供 850W / 1200W / 1500W 三个版本。NCASE 的 SFX 电源符合 ATX12V 3.1 规范要求，原生提供 12V-2×6 供电。其选用全日系电容，拥有镀金模组端子，配备支持智能转速控制的 92mm FDB 风扇，随附 ATX 适配支架，具备 OVP、UVP、OPP、SCP、OTP、OCP 安全防护。NCASE 在其 SFX 电源上提供 SFF 和 MFF 两种线材组合，SFF 仅保留了主板、EPS、12V-2×6 供电，MFF 则补充 PCIe 8-Pin 和 SATA、PATA 线材。该电源 MFF 套装版本定价 135 / 185 / 235 美元（IT之家注：现汇率约合 902.3 / 1,236 / 1,571 元人民币），SFF 版本则在此基础上减少 10 美元（现汇率约合 66.8 元人民币）。",
+      "title": "比亚迪第三代秦 PLUS DM-i 上市：综合续航 2290km，限时 7.69 万-9.79 万元",
+      "url": "https://www.ithome.com/1/018/348.htm",
+      "summary": "IT之家 10 月 27 日消息，比亚迪第三代秦 PLUS DM-i 今天（27 日）上午正式上市，新车拥有“六大升级”，纯电续航 220km，满油满电综合续航 2290km，百公里 NEDC 工况亏电油耗 2.58L，均号称是同级之最。140km 领先型：指导价 7.99 万元，限时超级优享价 7.69 万元220km 超越型：指导价 9.09 万元，限时超级优享价 8.79 万元220km 卓越型：指导价 10.09 万元，限时超级优享价 9.79 万元IT之家汇总新车主要信息如下：第三代秦 PLUS DM-i 的长宽高分别是 4840×1900×1498mm，轴距 2800mm，达到中级车的水准。新车提供 9 款外观颜色，分别是海岛蓝、钛晶灰、星月紫、墨竹青、星河米、初雪白、冰珀青 7 款单一配色，以及海岛蓝、墨竹青选装悬浮车顶的两款拼色组合。内饰有云纱米和墨烟灰两种配色可选。该车搭载第五代 DM 技术，纯电续航增加至 220km，满油满电综合续航提升至 2290km，NEDC 百公里亏电油耗再降至 2.58L。第三代秦 PLUS DM-i 可选装天神之眼 B 辅助驾驶系统，支持",
+      "short_summary": "IT之家 10 月 27 日消息，比亚迪第三代秦 PLUS DM-i 今天（27 日）上午正式上市，新车拥有“六大升级”",
+      "detail": "IT之家 10 月 27 日消息，比亚迪第三代秦 PLUS DM-i 今天（27 日）上午正式上市，新车拥有“六大升级”，纯电续航 220km，满油满电综合续航 2290km，百公里 NEDC 工况亏电油耗 2.58L，均号称是同级之最。140km 领先型：指导价 7.99 万元，限时超级优享价 7.69 万元220km 超越型：指导价 9.09 万元，限时超级优享价 8.79 万元220km 卓越型：指导价 10.09 万元，限时超级优享价 9.79 万元IT之家汇总新车主要信息如下：第三代秦 PLUS DM-i 的长宽高分别是 4840×1900×1498mm，轴距 2800mm，达到中级车的水准。新车提供 9 款外观颜色，分别是海岛蓝、钛晶灰、星月紫、墨竹青、星河米、初雪白、冰珀青 7 款单一配色，以及海岛蓝、墨竹青选装悬浮车顶的两款拼色组合。内饰有云纱米和墨烟灰两种配色可选。该车搭载第五代 DM 技术，纯电续航增加至 220km，满油满电综合续航提升至 2290km，NEDC 百公里亏电油耗再降至 2.58L。第三代秦 PLUS DM-i 可选装天神之眼 B 辅助驾驶系统，支持",
       "source": "ITHome",
       "source_authority": 0.75,
       "date": "2026-10-27",
       "score": 0.695
     },
     {
-      "title": "苹果首款折叠 iPhone Duo 确认缺失 FaceTime“眼神交流”功能",
-      "url": "https://www.ithome.com/1/018/238.htm",
-      "summary": "IT之家 10 月 27 日消息，科技媒体 MacRumors 昨日（10 月 26 日）发布博文，指出在苹果首款折叠 iPhone Duo 机型上，其 FaceTime 设置中缺少“眼神交流”（Eye Contact）选项，用户在视频通话时无法获得该功能带来的视线校正效果。图源：苹果IT之家援引博文介绍，“眼神交流”功能最早随 iOS 14 推出，主要针对视频通话场景，依靠机器学习调整用户眼部画面，让对方感觉用户正注视摄像头。该功能此前已广泛覆盖多款 iPhone，包括 iPhone SE 机型（采用 Touch ID 指纹识别认证、没有面容 ID）。该媒体最新确认 iPhone Duo 不提供该设置。最初由论坛用户 TwoBytes 发现，在 FaceTime 通话中感觉自己的眼神“有些不对劲”，随后发现设置菜单中并无相关控制选项。报道分析认为，问题未必源于 iPhone Duo 缺少 Face ID 或 TrueDepth 摄像头，因为 iPhone SE 同样没有这些硬件却支持该功能。iPhone 18 Pro（左）与 iPhone Duo 的眼神交流设置更可能的原因在于 Du",
-      "short_summary": "IT之家 10 月 27 日消息，科技媒体 MacRumors 昨日（10 月 26 日）发布博文，指出在苹果首款折叠 ",
-      "detail": "IT之家 10 月 27 日消息，科技媒体 MacRumors 昨日（10 月 26 日）发布博文，指出在苹果首款折叠 iPhone Duo 机型上，其 FaceTime 设置中缺少“眼神交流”（Eye Contact）选项，用户在视频通话时无法获得该功能带来的视线校正效果。图源：苹果IT之家援引博文介绍，“眼神交流”功能最早随 iOS 14 推出，主要针对视频通话场景，依靠机器学习调整用户眼部画面，让对方感觉用户正注视摄像头。该功能此前已广泛覆盖多款 iPhone，包括 iPhone SE 机型（采用 Touch ID 指纹识别认证、没有面容 ID）。该媒体最新确认 iPhone Duo 不提供该设置。最初由论坛用户 TwoBytes 发现，在 FaceTime 通话中感觉自己的眼神“有些不对劲”，随后发现设置菜单中并无相关控制选项。报道分析认为，问题未必源于 iPhone Duo 缺少 Face ID 或 TrueDepth 摄像头，因为 iPhone SE 同样没有这些硬件却支持该功能。iPhone 18 Pro（左）与 iPhone Duo 的眼神交流设置更可能的原因在于 Du",
+      "title": "酷冷至尊 V Platinum 3000 Workstation 电源上市：5999 元，12 年质保",
+      "url": "https://www.ithome.com/1/018/269.htm",
+      "summary": "IT之家 10 月 27 日消息，CoolerMaster（酷码 / 酷冷至尊）现已在中国大陆市场销售 V Platinum 3000 Workstation 电源。该型号售价 5,999 元，享受 12 年质保。V Platinum 3000 Workstation 长度达到 202mm；符合 ATX12V 3.1 规范，提供 4 组 12V-2×6 输出；配备全模组压纹线材，其中 12V-2×6 模组线拥有双色端子；取得 80 PLUS 白金转换效率认证。这款电源全面采用日系电容，内置 140mm 规格 FDB 轴承风扇；拥有工业级防尘、防潮、防腐蚀保护和 6 大电路保护措施。",
+      "short_summary": "IT之家 10 月 27 日消息，CoolerMaster（酷码 / 酷冷至尊）现已在中国大陆市场销售 V Platin",
+      "detail": "IT之家 10 月 27 日消息，CoolerMaster（酷码 / 酷冷至尊）现已在中国大陆市场销售 V Platinum 3000 Workstation 电源。该型号售价 5,999 元，享受 12 年质保。V Platinum 3000 Workstation 长度达到 202mm；符合 ATX12V 3.1 规范，提供 4 组 12V-2×6 输出；配备全模组压纹线材，其中 12V-2×6 模组线拥有双色端子；取得 80 PLUS 白金转换效率认证。这款电源全面采用日系电容，内置 140mm 规格 FDB 轴承风扇；拥有工业级防尘、防潮、防腐蚀保护和 6 大电路保护措施。",
       "source": "ITHome",
       "source_authority": 0.75,
       "date": "2026-10-27",
-      "score": 0.695
+      "score": 0.675
     },
     {
       "title": "Apple says it will replace iPhone Duo handsets with screen problems",
@@ -202,6 +202,17 @@
       "score": 0.64
     },
     {
+      "title": "Chinese markets lose trillions as race for AI supremacy with US takes its toll",
+      "url": "https://www.theguardian.com/world/2026/oct/27/chinese-markets-lose-trillions-ai-race-beijing",
+      "summary": "Lack of profits and the threat posed by western countries are raising concern about the sustainability of Beijing’s AI boomTrillions of dollars have been wiped from China’s stock markets in recent months amid increasing anxiety about the future of artificial intelligence, as Beijing races against the United States for dominance in the sector.The STAR 50 Index, which tracks technology and innovation companies on the Shanghai stock exchange, has plunged 40% since June. Other indexes of major compa",
+      "short_summary": "Lack of profits and the threat posed by western countries ar",
+      "detail": "Lack of profits and the threat posed by western countries are raising concern about the sustainability of Beijing’s AI boomTrillions of dollars have been wiped from China’s stock markets in recent months amid increasing anxiety about the future of artificial intelligence, as Beijing races against the United States for dominance in the sector.The STAR 50 Index, which tracks technology and innovation companies on the Shanghai stock exchange, has plunged 40% since June. Other indexes of major compa",
+      "source": "The Guardian",
+      "source_authority": 0.85,
+      "date": "2026-10-27",
+      "score": 0.63
+    },
+    {
       "title": "Meet the AI Agents Trying to Be Real-Life Journalists",
       "url": "https://www.wired.com/story/ai-agents-are-trying-to-be-journalists-now/",
       "summary": "Jayden, Sam, and Zack are eagerly pitching editors on reported stories and investigative features. The catch? They're all AI agents.",
@@ -215,6 +226,17 @@
   ],
   "category3": [
     {
+      "title": "2026 胡润百富榜发布：张一鸣 6700 亿元刷新中国首富财富纪录、DeepSeek 梁文锋首次上榜位列第七",
+      "url": "https://www.ithome.com/1/018/268.htm",
+      "summary": "IT之家 10 月 27 日消息，胡润研究院发布《2026 胡润百富榜》。今年共有 1529 位个人财富 50 亿元以上的企业家登上胡润百富榜，较去年增加 95 位，创历史新高。上榜企业家总财富 32 万亿元，同比增长 7%（2.1 万亿元）。另外，千亿级企业家增加 2 位，达到 43 位；百亿级企业家增加 69 位，达到 819 位。字节跳动创始人张一鸣以 6700 亿元第二次成为中国首富，刷新中国首富的财富纪录；农夫山泉创始人钟睒睒财富缩水 1200 亿元，以 4100 亿元退居第二，让出首富头衔。值得关注的是，DeepSeek 的梁文锋首次上榜便以 2800 亿元财富，进入榜单前十（位列第七）。其次是宇树科技 36 岁的王兴兴，以 695 亿元上榜；半导体显示面板企业惠科 56 岁的王智勇以 645 亿元位列第三。财富增长最多的是张一鸣，比去年增长 2000 亿元；恒力陈建华、范红卫夫妇增长 1120 亿元；川湖科技林聪吉家族增长 1040 亿元。半导体、AI 算力赛道企业家财富增长尤为突出。过去一年表现较好的是半导体、人工智能、机器人、新能源等新质生产力赛道。另外，上榜企业家中",
+      "short_summary": "IT之家 10 月 27 日消息，胡润研究院发布《2026 胡润百富榜》。今年共有 1529 位个人财富 50 亿元以上",
+      "detail": "IT之家 10 月 27 日消息，胡润研究院发布《2026 胡润百富榜》。今年共有 1529 位个人财富 50 亿元以上的企业家登上胡润百富榜，较去年增加 95 位，创历史新高。上榜企业家总财富 32 万亿元，同比增长 7%（2.1 万亿元）。另外，千亿级企业家增加 2 位，达到 43 位；百亿级企业家增加 69 位，达到 819 位。字节跳动创始人张一鸣以 6700 亿元第二次成为中国首富，刷新中国首富的财富纪录；农夫山泉创始人钟睒睒财富缩水 1200 亿元，以 4100 亿元退居第二，让出首富头衔。值得关注的是，DeepSeek 的梁文锋首次上榜便以 2800 亿元财富，进入榜单前十（位列第七）。其次是宇树科技 36 岁的王兴兴，以 695 亿元上榜；半导体显示面板企业惠科 56 岁的王智勇以 645 亿元位列第三。财富增长最多的是张一鸣，比去年增长 2000 亿元；恒力陈建华、范红卫夫妇增长 1120 亿元；川湖科技林聪吉家族增长 1040 亿元。半导体、AI 算力赛道企业家财富增长尤为突出。过去一年表现较好的是半导体、人工智能、机器人、新能源等新质生产力赛道。另外，上榜企业家中",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-10-27",
+      "score": 0.8925
+    },
+    {
       "title": "SpaceX locks in $40B GPU financing deal with Apollo",
       "url": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
       "summary": "The financing gives SpaceX another way to fund its rapidly expanding AI ambitions without relying solely on traditional debt markets.",
@@ -224,17 +246,6 @@
       "source_authority": 0.95,
       "date": "2026-10-27",
       "score": 0.82
-    },
-    {
-      "title": "塔塔通讯将在印度布设 1 万千米 AI 就绪型长途光纤，连接主要 AI 数据中心",
-      "url": "https://www.ithome.com/1/018/246.htm",
-      "summary": "IT之家 10 月 27 日消息，Tata Communications（塔塔通讯）当地时间 26 日宣布拟斥资 4~4.5 亿美元（IT之家注：现汇率约合 26.74 ~ 30.08 亿元人民币）在印度建设一条连接关键人工智能数据中心的 AI 就绪型高速率低延迟网络走廊。为实现这一目标，塔塔通讯计划分三阶段在该国境内铺设总长度约为 10,000 km 的全新长途光纤，为全球客户在印度的算力布局提供网络基础设施。该项目的第一阶段将以孟买-浦那-海得拉巴-金奈连通东西海岸，后续则将扩展至印度东海岸的维沙卡帕特南、布巴内斯瓦尔以及西部的贾姆讷格尔、古吉拉特邦 GIFT City。",
-      "short_summary": "IT之家 10 月 27 日消息，Tata Communications（塔塔通讯）当地时间 26 日宣布拟斥资 4~4",
-      "detail": "IT之家 10 月 27 日消息，Tata Communications（塔塔通讯）当地时间 26 日宣布拟斥资 4~4.5 亿美元（IT之家注：现汇率约合 26.74 ~ 30.08 亿元人民币）在印度建设一条连接关键人工智能数据中心的 AI 就绪型高速率低延迟网络走廊。为实现这一目标，塔塔通讯计划分三阶段在该国境内铺设总长度约为 10,000 km 的全新长途光纤，为全球客户在印度的算力布局提供网络基础设施。该项目的第一阶段将以孟买-浦那-海得拉巴-金奈连通东西海岸，后续则将扩展至印度东海岸的维沙卡帕特南、布巴内斯瓦尔以及西部的贾姆讷格尔、古吉拉特邦 GIFT City。",
-      "source": "ITHome",
-      "source_authority": 0.75,
-      "date": "2026-10-27",
-      "score": 0.8025
     },
     {
       "title": "Vertical DRAM Stacking Expands Thermal Design Space Beyond HBM-on-GPU (imec)",
@@ -248,26 +259,15 @@
       "score": 0.75
     },
     {
-      "title": "惠科股份 2026Q1~Q3 归母净利润 25.9 亿元，同比 -12.63%",
-      "url": "https://www.ithome.com/1/018/234.htm",
-      "summary": "IT之家 10 月 27 日消息，惠科股份昨日发布 2026 年第 3 季度报告：2026Q3 单季营业总收入：105.97 亿元，同比 +3.48%归母净利润：7.32 亿元，同比 -8.76%扣非净利润：5.75 亿元，同比 -0.72%基本 / 稀释 EPS：0.11 元，同比 -8.33%加权平均净资产收益率：2.06%，同比减少 1.35 个百分点2026Q1~Q3营业总收入：311.13 亿元，同比  +6.41%归母净利润：25.90 亿元，同比 -12.63%扣非净利润：19.89 亿元，同比 -7.78%经营现金流：75.63 亿元，同比 +22.89%基本 / 稀释 EPS：0.38 元，同比 -15.56%加权平均净资产收益率：8.86%，同比减少 4.30 个百分点AI 解读惠科股份 2026 年前三季度业绩整体符合市场预期，营业收入创同期新高但归母净利润同比下滑，经营现金流大幅改善。公司概况与主营业务惠科股份是全球领先的大尺寸液晶面板厂商之一，主营业务为半导体显示面板及智能显示终端的研发、制造和销售，产品涵盖 TV 面板、IT 面板及各类智慧物联终端，2026",
-      "short_summary": "IT之家 10 月 27 日消息，惠科股份昨日发布 2026 年第 3 季度报告：2026Q3 单季营业总收入：105.",
-      "detail": "IT之家 10 月 27 日消息，惠科股份昨日发布 2026 年第 3 季度报告：2026Q3 单季营业总收入：105.97 亿元，同比 +3.48%归母净利润：7.32 亿元，同比 -8.76%扣非净利润：5.75 亿元，同比 -0.72%基本 / 稀释 EPS：0.11 元，同比 -8.33%加权平均净资产收益率：2.06%，同比减少 1.35 个百分点2026Q1~Q3营业总收入：311.13 亿元，同比  +6.41%归母净利润：25.90 亿元，同比 -12.63%扣非净利润：19.89 亿元，同比 -7.78%经营现金流：75.63 亿元，同比 +22.89%基本 / 稀释 EPS：0.38 元，同比 -15.56%加权平均净资产收益率：8.86%，同比减少 4.30 个百分点AI 解读惠科股份 2026 年前三季度业绩整体符合市场预期，营业收入创同期新高但归母净利润同比下滑，经营现金流大幅改善。公司概况与主营业务惠科股份是全球领先的大尺寸液晶面板厂商之一，主营业务为半导体显示面板及智能显示终端的研发、制造和销售，产品涵盖 TV 面板、IT 面板及各类智慧物联终端，2026",
+      "title": "酷凛 FROZN A612 BLACK 风冷上市：8cm 厚单塔，280W TDP，首发价 249 元",
+      "url": "https://www.ithome.com/1/018/326.htm",
+      "summary": "IT之家 10 月 27 日消息，ID-COOLING（酷凛）现已开始在电商平台销售处理器风冷散热器 FROZN A612 BLACK（雪格 612 墨影），首发价 249 元。这一散热器采用厚单塔双风扇六热管铜底设计，整体高度 160mm，塔体厚度 80mm，配备 2 颗 12025 规格的 AM-120 闭环电机风扇，拥有 280W 的热设计功耗。FROZN A612 BLACK 塔体采用折 Fin + 扣 Fin 工艺，热管偏移以避免对内存模组等组件安装的干扰，支持快装风扇，配备全金属压力扣具，兼容英特尔 Socket V / H 和 AMD Socket AM5 / AM4 平台，享受 3 年质保。京东酷凛 FROZN A612 BLACK 风冷 249 元直达链接京东 11.11 无门槛红包 面额至高 26888 元，每天抽 3 次：点此抽红包。淘宝 11.11 无门槛红包 面额至高 26888 元，每天抽 1 次：点此抽红包。",
+      "short_summary": "IT之家 10 月 27 日消息，ID-COOLING（酷凛）现已开始在电商平台销售处理器风冷散热器 FROZN A61",
+      "detail": "IT之家 10 月 27 日消息，ID-COOLING（酷凛）现已开始在电商平台销售处理器风冷散热器 FROZN A612 BLACK（雪格 612 墨影），首发价 249 元。这一散热器采用厚单塔双风扇六热管铜底设计，整体高度 160mm，塔体厚度 80mm，配备 2 颗 12025 规格的 AM-120 闭环电机风扇，拥有 280W 的热设计功耗。FROZN A612 BLACK 塔体采用折 Fin + 扣 Fin 工艺，热管偏移以避免对内存模组等组件安装的干扰，支持快装风扇，配备全金属压力扣具，兼容英特尔 Socket V / H 和 AMD Socket AM5 / AM4 平台，享受 3 年质保。京东酷凛 FROZN A612 BLACK 风冷 249 元直达链接京东 11.11 无门槛红包 面额至高 26888 元，每天抽 3 次：点此抽红包。淘宝 11.11 无门槛红包 面额至高 26888 元，每天抽 1 次：点此抽红包。",
       "source": "ITHome",
       "source_authority": 0.75,
       "date": "2026-10-27",
       "score": 0.7325
-    },
-    {
-      "title": "应用材料追加对先进封装设备制造商 Besi 投资，持股比例升至 20%",
-      "url": "https://www.ithome.com/1/018/236.htm",
-      "summary": "IT之家 10 月 27 日消息，Applied Materials（应用材料）美国当地时间本月 26 日宣布将追加对荷兰半导体封装设备制造商 Besi 的投资，使其对后者的持股比例从此前的 9% 约升至 20%。应用材料同时表示，该企业当前无意进一步扩大在 Besi 的持股，也无意寻求 Besi 董事会的席位。两家企业自 2020 年启动联合开发以来一直保持着良好的合作关系，应用材料目前已是 Besi 的第一大股东。Besi 在本月伊始加入了应用材料的硅谷 EPIC 中心，将双方合作范围从混合键合拓展到更广泛的新型互连架构和应用上。",
-      "short_summary": "IT之家 10 月 27 日消息，Applied Materials（应用材料）美国当地时间本月 26 日宣布将追加对荷",
-      "detail": "IT之家 10 月 27 日消息，Applied Materials（应用材料）美国当地时间本月 26 日宣布将追加对荷兰半导体封装设备制造商 Besi 的投资，使其对后者的持股比例从此前的 9% 约升至 20%。应用材料同时表示，该企业当前无意进一步扩大在 Besi 的持股，也无意寻求 Besi 董事会的席位。两家企业自 2020 年启动联合开发以来一直保持着良好的合作关系，应用材料目前已是 Besi 的第一大股东。Besi 在本月伊始加入了应用材料的硅谷 EPIC 中心，将双方合作范围从混合键合拓展到更广泛的新型互连架构和应用上。",
-      "source": "ITHome",
-      "source_authority": 0.75,
-      "date": "2026-10-27",
-      "score": 0.7125
     },
     {
       "title": "Microsoft to reportedly offer buyouts to 60,000 employees in latest cuts",
@@ -279,6 +279,17 @@
       "source_authority": 0.85,
       "date": "2026-10-27",
       "score": 0.705
+    },
+    {
+      "title": "OpenAI开始断网训练最强模型：“安全起见”",
+      "url": "https://www.qbitai.com/2026/10/505529.html",
+      "summary": "模型开始利用GPU缓存聊天？",
+      "short_summary": "模型开始利用GPU缓存聊天？",
+      "detail": "模型开始利用GPU缓存聊天？",
+      "source": "量子位",
+      "source_authority": 0.85,
+      "date": "2026-10-26",
+      "score": 0.685
     },
     {
       "title": "Bringing Down Test Costs For Co-Packaged Optics",
@@ -312,9 +323,31 @@
       "source_authority": 0.9,
       "date": "2026-10-26",
       "score": 0.625
+    },
+    {
+      "title": "NeoLab第一个商业模式：转售GPU",
+      "url": "https://www.qbitai.com/2026/10/505478.html",
+      "summary": "从冲刺AGI到转售GPU。",
+      "short_summary": "从冲刺AGI到转售GPU。",
+      "detail": "从冲刺AGI到转售GPU。",
+      "source": "量子位",
+      "source_authority": 0.85,
+      "date": "2026-10-26",
+      "score": 0.61
     }
   ],
   "category4": [
+    {
+      "title": "剑指美股人形和仿生机器人第一股，FFR 完成对 FFAI 的合并交易并挂牌上市",
+      "url": "https://www.ithome.com/1/018/301.htm",
+      "summary": "IT之家 10 月 27 日消息，Faraday Future 官微今天（27 日）上午宣布，FFR 已完成对 FFAI 机器人的合并交易，所有相关业务及资产已装入 FFR，并按计划向 FFAI 发行并交付了相应普通股及无投票权可转换优先股，此举标志着 FFR 在纳斯达克挂牌上市。根据公告，FFR 任命贾跃亭担任 CEO，Jerry Wang 担任执行董事长。FFR 目前已完成“Built in USA”加速计划第一阶段，集结 FF 机器人世界 2.0，正加快将先发优势转化为竞争优势，依托“四核全智”生态、EAI 技术优势、“一脑多形、多形多能”技术路线，打造美国领先的 Physical AI 与机器人生态平台。此外，FFR 首次发布了 2026 年全年业绩指引：机器人业务按 2026 年独立全年口径计算，预计机器人本体销售及出货量约为 2000 台，同时保持正毛利。在获得必要融资的前提下，根据五年展望，FFR 预计 2027 年营收约 4,520 万美元（IT之家注：现汇率约合 3.02 亿元人民币），其中 EAI 本体核营收约 3,250 万美元（现汇率约合 2.17 亿元人民币）",
+      "short_summary": "IT之家 10 月 27 日消息，Faraday Future 官微今天（27 日）上午宣布，FFR 已完成对 FFAI",
+      "detail": "IT之家 10 月 27 日消息，Faraday Future 官微今天（27 日）上午宣布，FFR 已完成对 FFAI 机器人的合并交易，所有相关业务及资产已装入 FFR，并按计划向 FFAI 发行并交付了相应普通股及无投票权可转换优先股，此举标志着 FFR 在纳斯达克挂牌上市。根据公告，FFR 任命贾跃亭担任 CEO，Jerry Wang 担任执行董事长。FFR 目前已完成“Built in USA”加速计划第一阶段，集结 FF 机器人世界 2.0，正加快将先发优势转化为竞争优势，依托“四核全智”生态、EAI 技术优势、“一脑多形、多形多能”技术路线，打造美国领先的 Physical AI 与机器人生态平台。此外，FFR 首次发布了 2026 年全年业绩指引：机器人业务按 2026 年独立全年口径计算，预计机器人本体销售及出货量约为 2000 台，同时保持正毛利。在获得必要融资的前提下，根据五年展望，FFR 预计 2027 年营收约 4,520 万美元（IT之家注：现汇率约合 3.02 亿元人民币），其中 EAI 本体核营收约 3,250 万美元（现汇率约合 2.17 亿元人民币）",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-10-27",
+      "score": 0.885
+    },
     {
       "title": "Bedrock Robotics nears $1B in total funding as demand for autonomous heavy equipment surges",
       "url": "https://www.therobotreport.com/bedrock-robotics-nears-1b-in-total-funding-as-demand-for-autonomous-heavy-equipment-surges/",
@@ -349,26 +382,15 @@
       "score": 0.775
     },
     {
-      "title": "特斯拉为 Cybercab 电池包预留大量空间，未来兼容磷酸铁锂电池",
-      "url": "https://www.ithome.com/1/018/251.htm",
-      "summary": "IT之家 10 月 27 日消息，磷酸铁锂电池在全球市场迅速普及，去年成为最受欢迎的电池类型。成本更低、耐用性更强的磷酸铁锂电池，未来甚至可能用于特斯拉无人驾驶出租车 Cybercab。特斯拉电池模组及电池包机械设计工程总监罗伯特 · 桑普夫在接受 YouTube 频道 Munro Live 采访时透露，Cybercab 从设计之初就为采用磷酸铁锂电池做好了准备。新车电池包内留有大量空间，电池模组的侧面和下方都没有完全填满。“我们在设计电池包时特意预留了空间，以便未来扩大生产规模后，能够在这个平台上使用能量密度更低的磷酸铁锂电池。”特斯拉汽车工程副总裁拉斯 · 莫拉维还给出了另一个原因：“我们发现，实际需要的电池数量比原先预计的少。”Cybercab 采用特斯拉自主设计的 4680 电芯，电池类型为镍锰钴三元锂电池。特斯拉并不缺乏使用磷酸铁锂电池的经验，此前曾在美国短暂销售搭载这种电池的 Model 3。磷酸铁锂电池的能量密度低于高镍电池，如果电芯数量不变，Cybercab 的续航里程就会下降。不过，由于电池包内部留有足够空间，特斯拉可以增加电芯数量，弥补续航方面的损失。对于需要长期高",
-      "short_summary": "IT之家 10 月 27 日消息，磷酸铁锂电池在全球市场迅速普及，去年成为最受欢迎的电池类型。成本更低、耐用性更强的磷酸",
-      "detail": "IT之家 10 月 27 日消息，磷酸铁锂电池在全球市场迅速普及，去年成为最受欢迎的电池类型。成本更低、耐用性更强的磷酸铁锂电池，未来甚至可能用于特斯拉无人驾驶出租车 Cybercab。特斯拉电池模组及电池包机械设计工程总监罗伯特 · 桑普夫在接受 YouTube 频道 Munro Live 采访时透露，Cybercab 从设计之初就为采用磷酸铁锂电池做好了准备。新车电池包内留有大量空间，电池模组的侧面和下方都没有完全填满。“我们在设计电池包时特意预留了空间，以便未来扩大生产规模后，能够在这个平台上使用能量密度更低的磷酸铁锂电池。”特斯拉汽车工程副总裁拉斯 · 莫拉维还给出了另一个原因：“我们发现，实际需要的电池数量比原先预计的少。”Cybercab 采用特斯拉自主设计的 4680 电芯，电池类型为镍锰钴三元锂电池。特斯拉并不缺乏使用磷酸铁锂电池的经验，此前曾在美国短暂销售搭载这种电池的 Model 3。磷酸铁锂电池的能量密度低于高镍电池，如果电芯数量不变，Cybercab 的续航里程就会下降。不过，由于电池包内部留有足够空间，特斯拉可以增加电芯数量，弥补续航方面的损失。对于需要长期高",
+      "title": "小米官宣 21 自由度仿生灵巧手：26 电机混合驱动、1500 点高密度全掌触觉",
+      "url": "https://www.ithome.com/1/018/345.htm",
+      "summary": "IT之家 10 月 27 日消息，据小米技术官微，小米今天（27 日）正式披露面向工业场景的仿生灵巧手探索成果，挖掘了高自由度仿生手在制造场景通用性的价值与收益。根据介绍，基于小米汽车-智能制造部中试中心的 1827 个真实作业 SOP，并延续极致仿生路线，小米设计了一款 21 自由度、26 电机混合驱动、1500 点高密度全掌触觉的高自由度仿生手。该仿生手以柔性制造真实场景作为设计原点，小米机器人团队从汽车工厂 16 个典型工段 2579 个 SOP 中，选择 1827 个进行数据采集和分析验证。其采用混合驱动设计 + 腱绳张力控制实现精准抓握力控、提升灵巧手可靠性和可维护性，并对散热体系、全掌触觉进行系统性优化。IT之家从小米官方获悉，该数据集覆盖 70.8% 以上典型工段的人工作业工序。团队对采集的动捕数据集进行分类、切片、清洗和重定向等处理，并开展基于人手的多维数据分析和仿真。同时，挑选工厂实际工具、零件和操作物构建仿真数字资产，在仿真中对高自由度仿生手进行多角度抓握仿真验证。此外，新一代仿生手继承了前代触觉手套的设计思路，指间 / 指腹 / 指根处触觉空间分辨率达 1mm，掌",
+      "short_summary": "IT之家 10 月 27 日消息，据小米技术官微，小米今天（27 日）正式披露面向工业场景的仿生灵巧手探索成果，挖掘了高",
+      "detail": "IT之家 10 月 27 日消息，据小米技术官微，小米今天（27 日）正式披露面向工业场景的仿生灵巧手探索成果，挖掘了高自由度仿生手在制造场景通用性的价值与收益。根据介绍，基于小米汽车-智能制造部中试中心的 1827 个真实作业 SOP，并延续极致仿生路线，小米设计了一款 21 自由度、26 电机混合驱动、1500 点高密度全掌触觉的高自由度仿生手。该仿生手以柔性制造真实场景作为设计原点，小米机器人团队从汽车工厂 16 个典型工段 2579 个 SOP 中，选择 1827 个进行数据采集和分析验证。其采用混合驱动设计 + 腱绳张力控制实现精准抓握力控、提升灵巧手可靠性和可维护性，并对散热体系、全掌触觉进行系统性优化。IT之家从小米官方获悉，该数据集覆盖 70.8% 以上典型工段的人工作业工序。团队对采集的动捕数据集进行分类、切片、清洗和重定向等处理，并开展基于人手的多维数据分析和仿真。同时，挑选工厂实际工具、零件和操作物构建仿真数字资产，在仿真中对高自由度仿生手进行多角度抓握仿真验证。此外，新一代仿生手继承了前代触觉手套的设计思路，指间 / 指腹 / 指根处触觉空间分辨率达 1mm，掌",
       "source": "ITHome",
       "source_authority": 0.75,
       "date": "2026-10-27",
       "score": 0.71
-    },
-    {
-      "title": "2026 款零跑 C 系列 OTA 推送：激光雷达车型支持车位到车位辅助驾驶等",
-      "url": "https://www.ithome.com/1/018/261.htm",
-      "summary": "IT之家 10 月 27 日消息，零跑汽车今天（27 日）上午宣布，零跑 C 系 2026 款车型 OTA 于 10 月开始陆续推送。本次涉及的车型包括 C10（除 530 舒享版外）、C11 全系、C16（除六座 580 尊享版 / 200 尊享版外）。IT之家汇总本次 OTA 新增功能如下：为具备激光雷达配置的车型新增车位到车位辅助驾驶为具备高通 8295 处理器的车型新增泊入辅助声纹守护（仅响应已录入声纹用户的语音指令）分屏模式下新增胎压卡片快充前将电池加热或冷却至最佳温度车辆长期离线检测机制后排娱乐屏新增儿童空间娱乐应用新增杜比全景声专区洗车模式为具备高通 8295 处理器的车型新增腾讯云游戏为具备 AR-HUD 配置车型新增歌词显示、来电显示功能开车通话时空调自动降低风量，无需手动调节优化功能如下：记忆泊车路线扩展能力提升直线召唤新增雷达墙显示后排娱乐屏适配 QQ 音乐语音免唤醒功能优化空调舒适控制优化方向盘加热增加档位（三档调节）App 增加充电卡片推荐氛围灯音乐律动新增支持酷我音乐哨兵模式识别准确率提升浏览器开放搜索功能来电显示卡片交互优化蓝牙-互联冲突逻辑优化超级省电模",
-      "short_summary": "IT之家 10 月 27 日消息，零跑汽车今天（27 日）上午宣布，零跑 C 系 2026 款车型 OTA 于 10 月",
-      "detail": "IT之家 10 月 27 日消息，零跑汽车今天（27 日）上午宣布，零跑 C 系 2026 款车型 OTA 于 10 月开始陆续推送。本次涉及的车型包括 C10（除 530 舒享版外）、C11 全系、C16（除六座 580 尊享版 / 200 尊享版外）。IT之家汇总本次 OTA 新增功能如下：为具备激光雷达配置的车型新增车位到车位辅助驾驶为具备高通 8295 处理器的车型新增泊入辅助声纹守护（仅响应已录入声纹用户的语音指令）分屏模式下新增胎压卡片快充前将电池加热或冷却至最佳温度车辆长期离线检测机制后排娱乐屏新增儿童空间娱乐应用新增杜比全景声专区洗车模式为具备高通 8295 处理器的车型新增腾讯云游戏为具备 AR-HUD 配置车型新增歌词显示、来电显示功能开车通话时空调自动降低风量，无需手动调节优化功能如下：记忆泊车路线扩展能力提升直线召唤新增雷达墙显示后排娱乐屏适配 QQ 音乐语音免唤醒功能优化空调舒适控制优化方向盘加热增加档位（三档调节）App 增加充电卡片推荐氛围灯音乐律动新增支持酷我音乐哨兵模式识别准确率提升浏览器开放搜索功能来电显示卡片交互优化蓝牙-互联冲突逻辑优化超级省电模",
-      "source": "ITHome",
-      "source_authority": 0.75,
-      "date": "2026-10-27",
-      "score": 0.62
     },
     {
       "title": "Robotic dog controlled with a computer powered by human blood cells",
