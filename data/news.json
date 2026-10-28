@@ -2,28 +2,6 @@
   "date": "2026-10-28",
   "category1": [
     {
-      "title": "“全球第二图像编辑 AI 模型”：微软 MAI-Image-2.7-Preview 登场，力压谷歌、Meta、xAI",
-      "url": "https://www.ithome.com/1/018/772.htm",
-      "summary": "IT之家 10 月 28 日消息，微软昨日（10 月 27 日）发布公告，宣布推出 MAI-Image-2.7-Preview 模型。微软人工智能首席执行官穆斯塔法 · 苏莱曼（Mustafa Suleyman）自豪地宣布：“MAI-Image 现在是全球排名第二的图像编辑模型！”苏莱曼在推文中写道，基于 Artificial Analysis 的图像编辑榜，微软的 MAI-Image 系列模型再次击败 Google、Meta、xAI 和 GPT-Image-2.5-Flare，成为全球排名第二的图像编辑模型，仅次于 OpenAI 的 GPT Image 2.5 Sunburst (max)。IT之家附上相关截图如下：需要注意的是，MAI-Image-2.7-Preview 模型现阶段主打“输入原图 + 文字指令 → 输出编辑后的图片”，尚未开放文生图功能，是面向已有照片、设计稿、截图或影视素材的可控编辑模型。微软强调它能处理“较难改对”的任务：整体换风格、重新打光、修改画面中的文字 / 符号、修复增强素材，以及需要理解物体、光线与环境关系的复杂编辑。微软称，MAI-Image-2.7",
-      "short_summary": "IT之家 10 月 28 日消息，微软昨日（10 月 27 日）发布公告，宣布推出 MAI-Image-2.7-Prev",
-      "detail": "IT之家 10 月 28 日消息，微软昨日（10 月 27 日）发布公告，宣布推出 MAI-Image-2.7-Preview 模型。微软人工智能首席执行官穆斯塔法 · 苏莱曼（Mustafa Suleyman）自豪地宣布：“MAI-Image 现在是全球排名第二的图像编辑模型！”苏莱曼在推文中写道，基于 Artificial Analysis 的图像编辑榜，微软的 MAI-Image 系列模型再次击败 Google、Meta、xAI 和 GPT-Image-2.5-Flare，成为全球排名第二的图像编辑模型，仅次于 OpenAI 的 GPT Image 2.5 Sunburst (max)。IT之家附上相关截图如下：需要注意的是，MAI-Image-2.7-Preview 模型现阶段主打“输入原图 + 文字指令 → 输出编辑后的图片”，尚未开放文生图功能，是面向已有照片、设计稿、截图或影视素材的可控编辑模型。微软强调它能处理“较难改对”的任务：整体换风格、重新打光、修改画面中的文字 / 符号、修复增强素材，以及需要理解物体、光线与环境关系的复杂编辑。微软称，MAI-Image-2.7",
-      "source": "ITHome",
-      "source_authority": 0.75,
-      "date": "2026-10-28",
-      "score": 0.9475
-    },
-    {
-      "title": "OpenAI 公示 GPT-6.1 Terra 安全测试：整体风险下降，破坏性行为上升",
-      "url": "https://www.ithome.com/1/018/755.htm",
-      "summary": "IT之家 10 月 28 日消息，科技媒体 bleepingcomputer 昨日（10 月 27 日）发布博文，报道称基于 OpenAI 最新公示的安全评估显示，新模型 GPT-6.1 Terra 在整体安全表现上优于部分早期模型，但在特定测试中出现了更多数据外泄、规避限制和破坏性操作等风险信号。OpenAI 模拟测试了 48,690 个匹配任务，结果显示，GPT-6.1 Terra 共收到 22 个严重程度高于 3 级（包含 3 级）的安全标记，占比约 0.045%；相比 GPT-6 Sol 减少 42%，相比 GPT-5.6 Sol 减少 64%。IT之家附上相关图片如下：不过，与 GPT-6.1 Sol 和 GPT-6 Astra 等较新模型相比，GPT-6.1 Terra 在“掩盖不确定性”、“绕过限制”、“数据外泄”、“破坏性行为”以及“入站提示注入”等较轻风险类别中的标记率更高。评估选项gpt-5.5-thinkinggpt-5.6-solgpt-5.6-lunagpt-5.6-terragpt-6 Astragpt-6-solgpt-6-lunagpt-6.1-solg",
-      "short_summary": "IT之家 10 月 28 日消息，科技媒体 bleepingcomputer 昨日（10 月 27 日）发布博文，报道称",
-      "detail": "IT之家 10 月 28 日消息，科技媒体 bleepingcomputer 昨日（10 月 27 日）发布博文，报道称基于 OpenAI 最新公示的安全评估显示，新模型 GPT-6.1 Terra 在整体安全表现上优于部分早期模型，但在特定测试中出现了更多数据外泄、规避限制和破坏性操作等风险信号。OpenAI 模拟测试了 48,690 个匹配任务，结果显示，GPT-6.1 Terra 共收到 22 个严重程度高于 3 级（包含 3 级）的安全标记，占比约 0.045%；相比 GPT-6 Sol 减少 42%，相比 GPT-5.6 Sol 减少 64%。IT之家附上相关图片如下：不过，与 GPT-6.1 Sol 和 GPT-6 Astra 等较新模型相比，GPT-6.1 Terra 在“掩盖不确定性”、“绕过限制”、“数据外泄”、“破坏性行为”以及“入站提示注入”等较轻风险类别中的标记率更高。评估选项gpt-5.5-thinkinggpt-5.6-solgpt-5.6-lunagpt-5.6-terragpt-6 Astragpt-6-solgpt-6-lunagpt-6.1-solg",
-      "source": "ITHome",
-      "source_authority": 0.75,
-      "date": "2026-10-28",
-      "score": 0.9225
-    },
-    {
       "title": "Anthropic’s elaborate plan to keep Wall Street at bay",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety",
       "summary": "Anthropic wants to have it both ways. With its impending IPO, it wants to tap the vast riches of the public markets and insists it doesn't want to compromise its core mission of developing AI safely and for the benefit of humanity. But greater model capabilities bring greater risks, and shareholders eager for returns may […]",
@@ -46,17 +24,6 @@
       "score": 0.8825
     },
     {
-      "title": "谷歌更新 Android Bench 榜单：自家 Gemini 4 Argon 编程能力大幅落后于 Claude 与 GPT",
-      "url": "https://www.ithome.com/1/018/757.htm",
-      "summary": "IT之家 10 月 28 日消息，谷歌更新了用于评估 AI 模型安卓编程辅助能力的 Android Bench 榜单，Gemini 4 Argon 的成绩大幅落后于最新版 Claude 与 GPT 系列模型。Android Bench 于今年年初推出，方便安卓开发者快速对照谷歌的这套测试标准，挑选最适合安卓代码开发辅助的 AI 模型。测试会考量安卓开发特有的使用场景以及安卓开发的最佳实践。谷歌在持续开展测试、纳入新模型排名的同时，还把平均调用成本纳入基准指标，方便开发者结合自身需求做选择。在 10 月 26 日的这次更新中，谷歌新增标注了每个模型所采用的推理等级，同时补充了多款模型的测试结果，包括 OpenAI 的 GPT-6 Sol、GPT-6.1 Sol、Claude Sonnet 5、Claude Sonnet 5.5，以及谷歌自家的 Gemini 4 Argon。目前榜单第一名是 Claude Sonnet 5.5，通过率 40%，完成率 80.9%。10 月初加入榜单的 Claude Opus 5.5 位列第二。OpenAI 的 GPT-6.1 Sol 可能是此次最值得关注的",
-      "short_summary": "IT之家 10 月 28 日消息，谷歌更新了用于评估 AI 模型安卓编程辅助能力的 Android Bench 榜单，G",
-      "detail": "IT之家 10 月 28 日消息，谷歌更新了用于评估 AI 模型安卓编程辅助能力的 Android Bench 榜单，Gemini 4 Argon 的成绩大幅落后于最新版 Claude 与 GPT 系列模型。Android Bench 于今年年初推出，方便安卓开发者快速对照谷歌的这套测试标准，挑选最适合安卓代码开发辅助的 AI 模型。测试会考量安卓开发特有的使用场景以及安卓开发的最佳实践。谷歌在持续开展测试、纳入新模型排名的同时，还把平均调用成本纳入基准指标，方便开发者结合自身需求做选择。在 10 月 26 日的这次更新中，谷歌新增标注了每个模型所采用的推理等级，同时补充了多款模型的测试结果，包括 OpenAI 的 GPT-6 Sol、GPT-6.1 Sol、Claude Sonnet 5、Claude Sonnet 5.5，以及谷歌自家的 Gemini 4 Argon。目前榜单第一名是 Claude Sonnet 5.5，通过率 40%，完成率 80.9%。10 月初加入榜单的 Claude Opus 5.5 位列第二。OpenAI 的 GPT-6.1 Sol 可能是此次最值得关注的",
-      "source": "ITHome",
-      "source_authority": 0.75,
-      "date": "2026-10-28",
-      "score": 0.875
-    },
-    {
       "title": "Google’s next Genie AI model generates more realistic experiences",
       "url": "https://www.theverge.com/tech/1019076/google-genie-4-ai-model",
       "summary": "Google announced today its Genie 4 world model for generating interactive experiences using AI. The company says the model has four main updates: It allows for more realistic worlds, lets users update an experience in real time with a natural language prompt, can generate audio, and uses Gemini 3.8 Flash under the hood to help […]",
@@ -64,6 +31,17 @@
       "detail": "Google announced today its Genie 4 world model for generating interactive experiences using AI. The company says the model has four main updates: It allows for more realistic worlds, lets users update an experience in real time with a natural language prompt, can generate audio, and uses Gemini 3.8 Flash under the hood to help […]",
       "source": "The Verge",
       "source_authority": 0.9,
+      "date": "2026-10-28",
+      "score": 0.86
+    },
+    {
+      "title": "“编程面试已死”：Anthropic 称 AI 时代编程题已无法筛选程序员",
+      "url": "https://www.ithome.com/1/018/876.htm",
+      "summary": "IT之家 10 月 28 日消息，Anthropic 招聘经理、Claude 相关产品工程负责人 Felix Rieseberg 本月表示，他已在其团队的招聘流程中取消传统编程题面试。他在社交平台发文称：“编程面试已经死了，至少对我的团队而言。”Rieseberg 认为当 Claude 已能轻松完成小型 React 挑战，甚至处理底层汇编问题后，继续用编程题筛选工程师，就像继续考问汇编语言一样失去意义。面试结果衡量的更多是 AI 的能力，而非在真实工作中，候选人可能表现出的判断力、产品品味和协作能力。他同时向初级工程师提出一个颇为大胆的建议：在“执行力成本”大幅下降的 AI 时代，资历不再天然决定影响力。与其等待完整的产品需求文档、跨部门审批或设计师与产品经理的资源支持，不如瞄准具体业务目标，利用新人视角和 AI 工具，在一个周末做出一个可运行的单点原型，用成果争取组织支持。他将这一逻辑概括为“饥饿胜过资历”。相关阅读：《别学编程了！Anthropic CEO 直言：代码工作快速消失，人类应该学弹钢琴》",
+      "short_summary": "IT之家 10 月 28 日消息，Anthropic 招聘经理、Claude 相关产品工程负责人 Felix Riese",
+      "detail": "IT之家 10 月 28 日消息，Anthropic 招聘经理、Claude 相关产品工程负责人 Felix Rieseberg 本月表示，他已在其团队的招聘流程中取消传统编程题面试。他在社交平台发文称：“编程面试已经死了，至少对我的团队而言。”Rieseberg 认为当 Claude 已能轻松完成小型 React 挑战，甚至处理底层汇编问题后，继续用编程题筛选工程师，就像继续考问汇编语言一样失去意义。面试结果衡量的更多是 AI 的能力，而非在真实工作中，候选人可能表现出的判断力、产品品味和协作能力。他同时向初级工程师提出一个颇为大胆的建议：在“执行力成本”大幅下降的 AI 时代，资历不再天然决定影响力。与其等待完整的产品需求文档、跨部门审批或设计师与产品经理的资源支持，不如瞄准具体业务目标，利用新人视角和 AI 工具，在一个周末做出一个可运行的单点原型，用成果争取组织支持。他将这一逻辑概括为“饥饿胜过资历”。相关阅读：《别学编程了！Anthropic CEO 直言：代码工作快速消失，人类应该学弹钢琴》",
+      "source": "ITHome",
+      "source_authority": 0.75,
       "date": "2026-10-28",
       "score": 0.86
     },
@@ -90,17 +68,6 @@
       "score": 0.8375
     },
     {
-      "title": "Four takeaways from Anthropic’s potentially record-breaking stock market filing",
-      "url": "https://www.theguardian.com/technology/2026/oct/26/anthropic-stock-market-filing-takeaways",
-      "summary": "The AI company’s first public financial disclosures reveal explosive growth, huge costs and risks ranging from cyber-attacks to the limits of safeguardsAnthropic has filed to go public on the US stock market, revealing for the first time the AI research lab’s financials and all the risks – more than 90 pages of them – that might negatively affect its business.The company’s investor prospectus, released on Monday, veers from hyperbolic predictions about AI’s “incredible potential” to existential",
-      "short_summary": "The AI company’s first public financial disclosures reveal e",
-      "detail": "The AI company’s first public financial disclosures reveal explosive growth, huge costs and risks ranging from cyber-attacks to the limits of safeguardsAnthropic has filed to go public on the US stock market, revealing for the first time the AI research lab’s financials and all the risks – more than 90 pages of them – that might negatively affect its business.The company’s investor prospectus, released on Monday, veers from hyperbolic predictions about AI’s “incredible potential” to existential",
-      "source": "The Guardian",
-      "source_authority": 0.85,
-      "date": "2026-10-27",
-      "score": 0.8125
-    },
-    {
       "title": "I Tested Every Major AI Agent for a Day. Here’s the Best One",
       "url": "https://www.wired.com/story/i-tested-every-major-ai-agent-for-a-day-heres-the-best-one/",
       "summary": "I ranked six AI agents—from Meta’s Muse to Anthropic’s Claude Duet—on how well they completed basic tasks.",
@@ -110,6 +77,39 @@
       "source_authority": 0.85,
       "date": "2026-10-27",
       "score": 0.8025
+    },
+    {
+      "title": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
+      "url": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
+      "summary": "Massive note conversions reveal the true extent of Amazon's ownership in Anthropic.",
+      "short_summary": "Massive note conversions reveal the true extent of Amazon's ",
+      "detail": "Massive note conversions reveal the true extent of Amazon's ownership in Anthropic.",
+      "source": "TechCrunch",
+      "source_authority": 0.95,
+      "date": "2026-10-28",
+      "score": 0.7925
+    },
+    {
+      "title": "The Download: Anthropic’s IPO, smarter power grids, and exercise pills",
+      "url": "https://www.technologyreview.com/2026/10/27/1147693/the-download-anthropic-ipo-smarter-power-grids-exercise-pills/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Will the real Anthropic please stand up? After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The 335-page document (100 pages or so are focused on risks) lays out…",
+      "short_summary": "This is today’s edition of The Download, our weekday newslet",
+      "detail": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Will the real Anthropic please stand up? After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The 335-page document (100 pages or so are focused on risks) lays out…",
+      "source": "MIT Tech Review",
+      "source_authority": 0.9,
+      "date": "2026-10-27",
+      "score": 0.7925
+    },
+    {
+      "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
+      "url": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
+      "summary": "TechCrunch spoke to the MIT computer scientist charged with explaining OpenAI's latest mind-bending discovery.",
+      "short_summary": "TechCrunch spoke to the MIT computer scientist charged with ",
+      "detail": "TechCrunch spoke to the MIT computer scientist charged with explaining OpenAI's latest mind-bending discovery.",
+      "source": "TechCrunch",
+      "source_authority": 0.95,
+      "date": "2026-10-28",
+      "score": 0.79
     }
   ],
   "category2": [
@@ -125,15 +125,15 @@
       "score": 0.8675
     },
     {
-      "title": "部分微软 Edge 浏览器用户反馈侧边栏 Copilot“失联”，官方称迁移需几天",
-      "url": "https://www.ithome.com/1/018/760.htm",
-      "summary": "IT之家 10 月 28 日消息，科技媒体 NeoWin 昨日（10 月 27 日）发布博文，报道称多名 Microsoft Edge 浏览器用户反馈，近期无法正常打开侧边栏的 Copilot 。IT之家援引博文介绍，用户在尝试点击 Copilot 之后，页面提示“你的 Copilot 正在迁移到新体验”，并称迁移可能需要几天时间。在迁移完成前，用户只能改用网页版 Copilot。多位用户均报告了类似情况，但微软尚未发布公开说明，也没有给出迁移结束的具体时间表。该媒体推测此次问题可能与微软正在推进的 Copilot 服务统一有关。微软近年来持续将 Copilot 深度整合进 Edge、Windows、Microsoft 365 等产品，希望让 AI 助手成为跨设备、跨场景的统一入口。对普通用户而言，若遇到侧边栏 Copilot 无法使用，可先重启 Edge 浏览器；若仍显示迁移提示，建议暂时使用 copilot.com 网页版，并等待微软完成迁移。",
-      "short_summary": "IT之家 10 月 28 日消息，科技媒体 NeoWin 昨日（10 月 27 日）发布博文，报道称多名 Microso",
-      "detail": "IT之家 10 月 28 日消息，科技媒体 NeoWin 昨日（10 月 27 日）发布博文，报道称多名 Microsoft Edge 浏览器用户反馈，近期无法正常打开侧边栏的 Copilot 。IT之家援引博文介绍，用户在尝试点击 Copilot 之后，页面提示“你的 Copilot 正在迁移到新体验”，并称迁移可能需要几天时间。在迁移完成前，用户只能改用网页版 Copilot。多位用户均报告了类似情况，但微软尚未发布公开说明，也没有给出迁移结束的具体时间表。该媒体推测此次问题可能与微软正在推进的 Copilot 服务统一有关。微软近年来持续将 Copilot 深度整合进 Edge、Windows、Microsoft 365 等产品，希望让 AI 助手成为跨设备、跨场景的统一入口。对普通用户而言，若遇到侧边栏 Copilot 无法使用，可先重启 Edge 浏览器；若仍显示迁移提示，建议暂时使用 copilot.com 网页版，并等待微软完成迁移。",
-      "source": "ITHome",
-      "source_authority": 0.75,
+      "title": "‘Emotional intimacy’ from AI chatbots would be banned under Australia’s digital duty of care laws",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/28/emotional-intimacy-ai-chatbots-ban-digital-duty-of-care-laws-australian-politics",
+      "summary": "Labor government under pressure to create social media watchdog as new online safety standards bill passes lower houseThe federal government wants to ban AI chatbots which seek to create “emotional intimacy” after prime minister Anthony Albanese raised the alarm in a heartfelt speech about children treating these agents as their “best friend”.But Labor is coming under increasing pressure to empower the telecommunications ombudsman to become a watchdog for social media and AI to give Australians",
+      "short_summary": "Labor government under pressure to create social media watch",
+      "detail": "Labor government under pressure to create social media watchdog as new online safety standards bill passes lower houseThe federal government wants to ban AI chatbots which seek to create “emotional intimacy” after prime minister Anthony Albanese raised the alarm in a heartfelt speech about children treating these agents as their “best friend”.But Labor is coming under increasing pressure to empower the telecommunications ombudsman to become a watchdog for social media and AI to give Australians",
+      "source": "The Guardian",
+      "source_authority": 0.85,
       "date": "2026-10-28",
-      "score": 0.8225
+      "score": 0.8325
     },
     {
       "title": "Bank of America kindly asks that you don’t share your banking password with your AI assistant",
@@ -147,17 +147,6 @@
       "score": 0.82
     },
     {
-      "title": "微软 Surface Duo 2 变“苹果 iPhone Duo”：铺路原生运行 iOS 26，双屏触控已可用",
-      "url": "https://www.ithome.com/1/018/746.htm",
-      "summary": "IT之家 10 月 28 日消息，科技媒体 Windows Latest 昨日（10 月 27 日）发布博文，分享了来自开发者 @none24smu 的更多图片，展示了微软 Surface Duo 2 手机成功运行 iOS 26 系统。iOS 26 已在微软 Surface Duo 2 上原生运行。微软 Surface Duo 2 是微软于 2021 年推出的双屏安卓手机，也是 Surface Duo 系列的第二代、也是最后一款产品。它采用两块 5.8 英寸 OLED 屏幕通过铰链相连，展开后形成约 8.3 英寸的“双屏平板”体验。需要注意的是，本次并非通过模拟器实现，开发者在 Surface Duo 上原生运行苹果 iOS 26 系统，而且在今天（10 月 28 日）发布的推文中，还表示正适配 iOS 27 系统。在实现方式上，开发者利用苹果开源的 XNU 内核和自定义 UEFI 加载器完成移植，并将该设备识别为“iPhone 17 Pro Max”。开发者需要从源代码编译 XNU 内核，为高通处理器编写驱动，并构建 Metal 图形 API 到 Vulkan 的转换层，让 Surf",
-      "short_summary": "IT之家 10 月 28 日消息，科技媒体 Windows Latest 昨日（10 月 27 日）发布博文，分享了来自",
-      "detail": "IT之家 10 月 28 日消息，科技媒体 Windows Latest 昨日（10 月 27 日）发布博文，分享了来自开发者 @none24smu 的更多图片，展示了微软 Surface Duo 2 手机成功运行 iOS 26 系统。iOS 26 已在微软 Surface Duo 2 上原生运行。微软 Surface Duo 2 是微软于 2021 年推出的双屏安卓手机，也是 Surface Duo 系列的第二代、也是最后一款产品。它采用两块 5.8 英寸 OLED 屏幕通过铰链相连，展开后形成约 8.3 英寸的“双屏平板”体验。需要注意的是，本次并非通过模拟器实现，开发者在 Surface Duo 上原生运行苹果 iOS 26 系统，而且在今天（10 月 28 日）发布的推文中，还表示正适配 iOS 27 系统。在实现方式上，开发者利用苹果开源的 XNU 内核和自定义 UEFI 加载器完成移植，并将该设备识别为“iPhone 17 Pro Max”。开发者需要从源代码编译 XNU 内核，为高通处理器编写驱动，并构建 Metal 图形 API 到 Vulkan 的转换层，让 Surf",
-      "source": "ITHome",
-      "source_authority": 0.75,
-      "date": "2026-10-28",
-      "score": 0.7325
-    },
-    {
       "title": "AI-driven disinformation running rampant on social media before US midterms, experts warn",
       "url": "https://www.theguardian.com/us-news/2026/oct/27/ai-disinformation-social-media-midterm-elections",
       "summary": "Social media companies including Meta have pulled back on efforts to protect voters from election-meddling liesSocial media feeds are awash with an unprecedented flood of AI-driven disinformation ahead of November’s US midterm elections, according to experts, who warn many posts are probably “slipping through the cracks”.As tens of millions of Americans prepare to cast their vote, social media companies have scaled back their efforts to protect voters from lies meant to manipulate elections. Con",
@@ -169,11 +158,11 @@
       "score": 0.6975
     },
     {
-      "title": "铺路触控屏 MacBook Pro：苹果 macOS 27.2 Beta 版暗藏诸多触控改动",
-      "url": "https://www.ithome.com/1/018/767.htm",
-      "summary": "IT之家 10 月 28 日消息，消息源 @itspdfu 昨日（10 月 27 日）在 X 平台发布推文，通过挖掘 macOS 27.2 Beta 4 更新，在代码中发现了更多服务触控 MacBook Pro 的线索和证据。IT之家此前报道，在 Safari 中，用户拖动标签页后，标签会“抬起”并放大，随后随手指移动到新位置；长按标签则可调出上下文菜单。与鼠标或触控板操作不同，这套交互明显更贴近 iPhone、iPad 的触控逻辑。在 Finder 应用中，苹果为“编辑标签”菜单也扩大了选项间距，让小尺寸控件更容易被指尖准确点选。在日历应用中，日程事件新增了触控专用的圆形缩放手柄，用户可以直接用手指调整事件时长或范围，而不必依赖精确的鼠标指针。此外，macOS 27 为触控式 Mac 和带有全新 MenuBarAgent 的动态岛铺平了道路，一些系统精简版和极简版视图已经发布。",
-      "short_summary": "IT之家 10 月 28 日消息，消息源 @itspdfu 昨日（10 月 27 日）在 X 平台发布推文，通过挖掘 m",
-      "detail": "IT之家 10 月 28 日消息，消息源 @itspdfu 昨日（10 月 27 日）在 X 平台发布推文，通过挖掘 macOS 27.2 Beta 4 更新，在代码中发现了更多服务触控 MacBook Pro 的线索和证据。IT之家此前报道，在 Safari 中，用户拖动标签页后，标签会“抬起”并放大，随后随手指移动到新位置；长按标签则可调出上下文菜单。与鼠标或触控板操作不同，这套交互明显更贴近 iPhone、iPad 的触控逻辑。在 Finder 应用中，苹果为“编辑标签”菜单也扩大了选项间距，让小尺寸控件更容易被指尖准确点选。在日历应用中，日程事件新增了触控专用的圆形缩放手柄，用户可以直接用手指调整事件时长或范围，而不必依赖精确的鼠标指针。此外，macOS 27 为触控式 Mac 和带有全新 MenuBarAgent 的动态岛铺平了道路，一些系统精简版和极简版视图已经发布。",
+      "title": "三星 Galaxy S27 Pro / Ultra 手机电池容量曝光：5240mAh/5700mAh",
+      "url": "https://www.ithome.com/1/018/894.htm",
+      "summary": "IT之家 10 月 28 日消息，科技媒体 The TechOutlook 昨日（10 月 27 日）发布博文，分享了一组图片，通过挖掘 TÜV 认证文件，发现了三星 Galaxy S27 Pro 和 Galaxy S27 Ultra 两款旗舰手机的更多电池信息。IT之家此前报道，三星 Galaxy S27 Pro 和 Galaxy S27 Ultra 两款手机电池现身韩国 Safety Korea 安全认证数据库，型号分别为 EB-BS958DBY 和 EB-BS957CBY，均由中国珠海冠宇电池金湾子公司生产，但认证照片无法直接辨认电池容量。而根据 TÜV 认证信息，Galaxy S27 Ultra 的“EB-BS958DBY”电池额定容量为 5534mAh，典型容量为 5700mAh。而 Galaxy S27 Pro 的“EB-BS957CBY”电池额定容量为 5087mAh，典型容量为 5240mAh。详情Galaxy S27 Ultra 电池Galaxy S27 Pro 电池电池型号EB-BS958DBYEB-BS957CBYTÜV 认证编号JPTUV-193013JPTUV",
+      "short_summary": "IT之家 10 月 28 日消息，科技媒体 The TechOutlook 昨日（10 月 27 日）发布博文，分享了一",
+      "detail": "IT之家 10 月 28 日消息，科技媒体 The TechOutlook 昨日（10 月 27 日）发布博文，分享了一组图片，通过挖掘 TÜV 认证文件，发现了三星 Galaxy S27 Pro 和 Galaxy S27 Ultra 两款旗舰手机的更多电池信息。IT之家此前报道，三星 Galaxy S27 Pro 和 Galaxy S27 Ultra 两款手机电池现身韩国 Safety Korea 安全认证数据库，型号分别为 EB-BS958DBY 和 EB-BS957CBY，均由中国珠海冠宇电池金湾子公司生产，但认证照片无法直接辨认电池容量。而根据 TÜV 认证信息，Galaxy S27 Ultra 的“EB-BS958DBY”电池额定容量为 5534mAh，典型容量为 5700mAh。而 Galaxy S27 Pro 的“EB-BS957CBY”电池额定容量为 5087mAh，典型容量为 5240mAh。详情Galaxy S27 Ultra 电池Galaxy S27 Pro 电池电池型号EB-BS958DBYEB-BS957CBYTÜV 认证编号JPTUV-193013JPTUV",
       "source": "ITHome",
       "source_authority": 0.75,
       "date": "2026-10-28",
@@ -189,6 +178,17 @@
       "source_authority": 0.95,
       "date": "2026-10-28",
       "score": 0.67
+    },
+    {
+      "title": "振华承认 LEADEX VIII PLATINUM PRO PREMIUM 电源仅主板为全日系电容",
+      "url": "https://www.ithome.com/1/018/896.htm",
+      "summary": "IT之家 10 月 28 日消息，振华 (Super Flower) 今日在社交平台承认，其 PC 电源 LEADEX VIII PLATINUM PRO PREMIUM 出现宣传失误，将仅主板部分使用日系 105℃ 耐温电容器宣传为“全日系 105℃ 电容”。根据供电设备评测者 港都狼仔 的拆解，其测试的该系列 1000W 型号在电源模组面板处使用了 6 个来自中国台湾地区制造商丰宾电子的电解电容器。IT之家注意到，LEADEX VIII PLATINUM PRO PREMIUM 系列的型号格式为 SF-F14SP (T)。而在中国大陆市场销售的 LEADEX VIII PRO 也采用相同命名格式，且关键特性相同。",
+      "short_summary": "IT之家 10 月 28 日消息，振华 (Super Flower) 今日在社交平台承认，其 PC 电源 LEADEX ",
+      "detail": "IT之家 10 月 28 日消息，振华 (Super Flower) 今日在社交平台承认，其 PC 电源 LEADEX VIII PLATINUM PRO PREMIUM 出现宣传失误，将仅主板部分使用日系 105℃ 耐温电容器宣传为“全日系 105℃ 电容”。根据供电设备评测者 港都狼仔 的拆解，其测试的该系列 1000W 型号在电源模组面板处使用了 6 个来自中国台湾地区制造商丰宾电子的电解电容器。IT之家注意到，LEADEX VIII PLATINUM PRO PREMIUM 系列的型号格式为 SF-F14SP (T)。而在中国大陆市场销售的 LEADEX VIII PRO 也采用相同命名格式，且关键特性相同。",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-10-28",
+      "score": 0.665
     },
     {
       "title": "UK government met 137 businesses over AI datacentres – but no environmental groups",
@@ -226,26 +226,15 @@
   ],
   "category3": [
     {
-      "title": "消息称 OpenAI 计划正式导入谷歌 TPU：已在招募领导模型适配优化的工程师",
-      "url": "https://www.ithome.com/1/018/754.htm",
-      "summary": "IT之家 10 月 28 日消息，外媒 The Information 当地时间昨日报道称，OpenAI 计划正式导入谷歌 Google Cloud 的 TPU AI ASIC 芯片。招聘启事显示，OpenAI 正在寻找领导该企业模型在 TPU 上适配优化工作的工程师。知情人士则称，OpenAI 计划采购谷歌 TPU 芯片。谷歌 TPU 在 OpenAI 创业早期发挥了重要作用。不过随着业务的发展，这家生成式人工智能服务企业逐渐转向 NVIDIA 算力，后续又采购了 AMD、Cerebras、AWS 等的芯片，还在自研 Jalapeño。OpenAI 曾在 2025 年 7 月表示当时正对谷歌 TPU 进行早期测试，暂无大规模部署计划。但那已经是 5 个季度前的情况了。",
-      "short_summary": "IT之家 10 月 28 日消息，外媒 The Information 当地时间昨日报道称，OpenAI 计划正式导入谷",
-      "detail": "IT之家 10 月 28 日消息，外媒 The Information 当地时间昨日报道称，OpenAI 计划正式导入谷歌 Google Cloud 的 TPU AI ASIC 芯片。招聘启事显示，OpenAI 正在寻找领导该企业模型在 TPU 上适配优化工作的工程师。知情人士则称，OpenAI 计划采购谷歌 TPU 芯片。谷歌 TPU 在 OpenAI 创业早期发挥了重要作用。不过随着业务的发展，这家生成式人工智能服务企业逐渐转向 NVIDIA 算力，后续又采购了 AMD、Cerebras、AWS 等的芯片，还在自研 Jalapeño。OpenAI 曾在 2025 年 7 月表示当时正对谷歌 TPU 进行早期测试，暂无大规模部署计划。但那已经是 5 个季度前的情况了。",
+      "title": "技术突破 + 满血回归：曝华为今日将再发布 Mate 90 系列手机，盘点韬芯片、四卡三待等十大黑科技",
+      "url": "https://www.ithome.com/1/018/888.htm",
+      "summary": "IT之家 10 月 28 日消息，博主 @数码闲聊站 刚刚发文透露，今天下午的华为发布会还会再发布 Mate 90 系列手机，盘点关于韬芯片、灵珑屏、四卡三待等十大黑科技。有网友询问 Mate 90 为何要再发布一次？博主回复称：“之前有些仓促新技术没讲透，这次要再讲讲。”还有网友询问为何现阶段可以讲这么细？博主表示：“技术突破了，甚至还会…… 满血回归警告。”据IT之家此前报道，在 10 月 1 日的华为 Mate 90 系列及全场景新品发布会上，华为年度旗舰 —— Mate 90 系列手机正式发布，全系搭载了韬定律芯片。Mate 90 标准版搭载麒麟 9030 旗舰 τ 芯片，通过软硬芯云垂直整合，整机性能提升 27%。相较上一代（麒麟 9020），麒麟 9030 的 CPU 性能提升 13%，GPU 性能提升 54%，NPU 性能提升 13%。Mate 90 Pro 首发搭载麒麟 9035 旗舰 τ 芯片，通过软硬芯云垂直整合，整机性能提升 20%。相较上一代（麒麟 9030），麒麟 9035 的 CPU 性能提升 11%，GPU 性能提升 10%，NPU 性能提升 51%。Ma",
+      "short_summary": "IT之家 10 月 28 日消息，博主 @数码闲聊站 刚刚发文透露，今天下午的华为发布会还会再发布 Mate 90 系列",
+      "detail": "IT之家 10 月 28 日消息，博主 @数码闲聊站 刚刚发文透露，今天下午的华为发布会还会再发布 Mate 90 系列手机，盘点关于韬芯片、灵珑屏、四卡三待等十大黑科技。有网友询问 Mate 90 为何要再发布一次？博主回复称：“之前有些仓促新技术没讲透，这次要再讲讲。”还有网友询问为何现阶段可以讲这么细？博主表示：“技术突破了，甚至还会…… 满血回归警告。”据IT之家此前报道，在 10 月 1 日的华为 Mate 90 系列及全场景新品发布会上，华为年度旗舰 —— Mate 90 系列手机正式发布，全系搭载了韬定律芯片。Mate 90 标准版搭载麒麟 9030 旗舰 τ 芯片，通过软硬芯云垂直整合，整机性能提升 27%。相较上一代（麒麟 9020），麒麟 9030 的 CPU 性能提升 13%，GPU 性能提升 54%，NPU 性能提升 13%。Mate 90 Pro 首发搭载麒麟 9035 旗舰 τ 芯片，通过软硬芯云垂直整合，整机性能提升 20%。相较上一代（麒麟 9030），麒麟 9035 的 CPU 性能提升 11%，GPU 性能提升 10%，NPU 性能提升 51%。Ma",
       "source": "ITHome",
       "source_authority": 0.75,
       "date": "2026-10-28",
-      "score": 0.9625
-    },
-    {
-      "title": "Oracle 打造多样化 AI 算力组合，引入 SambaNova SN50 RDU",
-      "url": "https://www.ithome.com/1/018/744.htm",
-      "summary": "IT之家 10 月 28 日消息，SambaNova 当地时间 10 月 27 日宣布与 Oracle（甲骨文）达成合作，前者的 AI 推理芯片 SN50 RDU 将加入 OCI 云服务。IT之家注意到，Oracle 正建立一个多样化的 AI 算力组合：在 NVIDIA、AMD 的芯片外，该企业已实现 Positron 的 Atlas 芯片的正式上线，也将成为首家提供 Google TPU 的外部超大规模企业，还将导入 Cerebras 的晶圆级芯片，而英特尔的至强 \"Diamond Rapids\" 处理器也将支持未来的 OCI X14 产品线。相关阅读：《甲骨文扩大与英伟达的芯片供应合作，同时引入谷歌 TPU 和 Cerebras 芯片》",
-      "short_summary": "IT之家 10 月 28 日消息，SambaNova 当地时间 10 月 27 日宣布与 Oracle（甲骨文）达成合作",
-      "detail": "IT之家 10 月 28 日消息，SambaNova 当地时间 10 月 27 日宣布与 Oracle（甲骨文）达成合作，前者的 AI 推理芯片 SN50 RDU 将加入 OCI 云服务。IT之家注意到，Oracle 正建立一个多样化的 AI 算力组合：在 NVIDIA、AMD 的芯片外，该企业已实现 Positron 的 Atlas 芯片的正式上线，也将成为首家提供 Google TPU 的外部超大规模企业，还将导入 Cerebras 的晶圆级芯片，而英特尔的至强 \"Diamond Rapids\" 处理器也将支持未来的 OCI X14 产品线。相关阅读：《甲骨文扩大与英伟达的芯片供应合作，同时引入谷歌 TPU 和 Cerebras 芯片》",
-      "source": "ITHome",
-      "source_authority": 0.75,
-      "date": "2026-10-28",
-      "score": 0.96
+      "score": 0.8975
     },
     {
       "title": "Chip Industry Technical Paper Roundup: Oct. 27",
@@ -259,17 +248,6 @@
       "score": 0.825
     },
     {
-      "title": "华为 FreeClip 2 耳夹耳机潮玩拼色版开售，1299 元",
-      "url": "https://www.ithome.com/1/018/739.htm",
-      "summary": "IT之家 10 月 28 日消息，华为 FreeClip 2 耳夹耳机全新潮玩拼色版本官宣今天（10 月 28 日）上午 10:08 开售，售价 1299 元。耳机可选红 / 黄、蓝 / 黄、红 / 蓝拼色三个版本。据IT之家了解，华为 FreeClip 2 采用了华为全新第三代自研低功耗芯片，首次引入 NPU AI 处理器，算力提升 10 倍；新增鸿蒙 AI 耳边助手，支持头动播报、智慧播报、小艺唤醒、小艺翻译。这款耳机采用了 φ10.8mm 开放式双振膜声学单元，响度提升 100%，低频动力提升 100%；配备 60mAh 电池，单次续航 9 小时，搭配充电仓（537mAh 电池）38 小时，充电 10 分钟补能 3 小时。华为 FreeClip 2 支持 L2HC 音频编码；支持智感音量自适应、智感人声增强、空间音频（头动跟踪时延降低 40%）；支持星闪精确查找、星闪音频。该耳机升级亲肤液态硅胶材质，搭配高性能记忆金属，柔软度提升 25%，单耳重 5.1g，耳机支持 IP57 防尘防水。",
-      "short_summary": "IT之家 10 月 28 日消息，华为 FreeClip 2 耳夹耳机全新潮玩拼色版本官宣今天（10 月 28 日）上午",
-      "detail": "IT之家 10 月 28 日消息，华为 FreeClip 2 耳夹耳机全新潮玩拼色版本官宣今天（10 月 28 日）上午 10:08 开售，售价 1299 元。耳机可选红 / 黄、蓝 / 黄、红 / 蓝拼色三个版本。据IT之家了解，华为 FreeClip 2 采用了华为全新第三代自研低功耗芯片，首次引入 NPU AI 处理器，算力提升 10 倍；新增鸿蒙 AI 耳边助手，支持头动播报、智慧播报、小艺唤醒、小艺翻译。这款耳机采用了 φ10.8mm 开放式双振膜声学单元，响度提升 100%，低频动力提升 100%；配备 60mAh 电池，单次续航 9 小时，搭配充电仓（537mAh 电池）38 小时，充电 10 分钟补能 3 小时。华为 FreeClip 2 支持 L2HC 音频编码；支持智感音量自适应、智感人声增强、空间音频（头动跟踪时延降低 40%）；支持星闪精确查找、星闪音频。该耳机升级亲肤液态硅胶材质，搭配高性能记忆金属，柔软度提升 25%，单耳重 5.1g，耳机支持 IP57 防尘防水。",
-      "source": "ITHome",
-      "source_authority": 0.75,
-      "date": "2026-10-28",
-      "score": 0.785
-    },
-    {
       "title": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
       "url": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/",
       "summary": "Simplismart says its annualized revenue run rate has grown fourteenfold in six months, with the U.S. accounting for more than half its revenue.",
@@ -279,6 +257,28 @@
       "source_authority": 0.95,
       "date": "2026-10-27",
       "score": 0.775
+    },
+    {
+      "title": "消息称宝马推进星闪数字钥匙方案，预计 2030 年上车",
+      "url": "https://www.ithome.com/1/018/893.htm",
+      "summary": "IT之家 10 月 28 日消息，今天（28 日）下午，据蓝鲸新闻援引知情人士消息称，宝马正在推进星闪数字钥匙方案，意向由意法半导体、恩智浦供应兼具蓝牙、星闪的多模芯片，用于车辆无感解锁，并计划 2030 年上车。就在昨天的 CEIC2026 暨国际星闪联盟产业峰会上，上海机动车检测认证技术研究中心李俊成发布了星闪数字车钥匙 2.0 评测结果：星闪数字车钥匙累计出货超 160 万台、量产车型超 30 款，实测解闭锁成功率达 100%，在防乒乓误触、抗干扰、低电量等场景下表现稳定。而在本月早些时候，宝马集团董事长聂科维就任后首次访华。根据介绍，宝马在华持续深入推进“本土化”以成就“全球化”发展，这也是集团的重要战略方向。宝马还计划，到 2030 年对华销售的汽车中，超过 95% 实现本土生产。据IT之家了解，今年 4 月，星闪数字车钥匙首次集中亮相 2026 北京车展。国际星闪联盟当时预测，2026 年搭载星闪数字车钥匙解决方案的整车量产规模将突破 100 万台。作为参考，星闪车钥匙通过测量信号的“相位心跳”（相位差）和“飞行时间”，能在复杂环境下绕过环境干扰，实现分米级精准定位，解决传",
+      "short_summary": "IT之家 10 月 28 日消息，今天（28 日）下午，据蓝鲸新闻援引知情人士消息称，宝马正在推进星闪数字钥匙方案，意向",
+      "detail": "IT之家 10 月 28 日消息，今天（28 日）下午，据蓝鲸新闻援引知情人士消息称，宝马正在推进星闪数字钥匙方案，意向由意法半导体、恩智浦供应兼具蓝牙、星闪的多模芯片，用于车辆无感解锁，并计划 2030 年上车。就在昨天的 CEIC2026 暨国际星闪联盟产业峰会上，上海机动车检测认证技术研究中心李俊成发布了星闪数字车钥匙 2.0 评测结果：星闪数字车钥匙累计出货超 160 万台、量产车型超 30 款，实测解闭锁成功率达 100%，在防乒乓误触、抗干扰、低电量等场景下表现稳定。而在本月早些时候，宝马集团董事长聂科维就任后首次访华。根据介绍，宝马在华持续深入推进“本土化”以成就“全球化”发展，这也是集团的重要战略方向。宝马还计划，到 2030 年对华销售的汽车中，超过 95% 实现本土生产。据IT之家了解，今年 4 月，星闪数字车钥匙首次集中亮相 2026 北京车展。国际星闪联盟当时预测，2026 年搭载星闪数字车钥匙解决方案的整车量产规模将突破 100 万台。作为参考，星闪车钥匙通过测量信号的“相位心跳”（相位差）和“飞行时间”，能在复杂环境下绕过环境干扰，实现分米级精准定位，解决传",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-10-28",
+      "score": 0.7575
+    },
+    {
+      "title": "前英特尔 CEO 基辛格押注新 AI 内存：Z2RAM 拟绕开 EUV 光刻，4 年内送样",
+      "url": "https://www.ithome.com/1/018/887.htm",
+      "summary": "IT之家 10 月 28 日消息，科技媒体 semiconleadersasia 昨日（10 月 27 日）发布博文，报道称前英特尔首席执行官帕特 · 基辛格（Pat Gelsinger）正通过风投机构 Playground Global，支持内存初创公司 Nagare Labs 开发下一代存储技术 Z2RAM。该公司近期完成由 Playground Global 领投的 500 万美元（IT之家注：现汇率约合 3,340.5 万元人民币）种子轮融资，目标是打造兼具 SRAM 速度与 DRAM 密度的 AI 计算内存，以缓解“内存墙”瓶颈。Z2RAM 由佐治亚理工学院研究者苏曼 · 达塔与于世萌创立的 Nagare Labs 研发，采用氧化物半导体材料，并计划通过 3D 混合键合直接集成在逻辑芯片上方。Z2RAM 关键卖点是使用标准后端工艺（BEOL），无需极紫外光刻（EUV）即可通过单次曝光形成多层存储结构，有望提升密度并降低制造复杂度与成本。与依赖电容存电荷的传统 DRAM 不同，Z2RAM 采用基于晶体管的存储单元，可实现非破坏性读取，从而有望降低访问延迟。初创公司还计划像 NA",
+      "short_summary": "IT之家 10 月 28 日消息，科技媒体 semiconleadersasia 昨日（10 月 27 日）发布博文，报",
+      "detail": "IT之家 10 月 28 日消息，科技媒体 semiconleadersasia 昨日（10 月 27 日）发布博文，报道称前英特尔首席执行官帕特 · 基辛格（Pat Gelsinger）正通过风投机构 Playground Global，支持内存初创公司 Nagare Labs 开发下一代存储技术 Z2RAM。该公司近期完成由 Playground Global 领投的 500 万美元（IT之家注：现汇率约合 3,340.5 万元人民币）种子轮融资，目标是打造兼具 SRAM 速度与 DRAM 密度的 AI 计算内存，以缓解“内存墙”瓶颈。Z2RAM 由佐治亚理工学院研究者苏曼 · 达塔与于世萌创立的 Nagare Labs 研发，采用氧化物半导体材料，并计划通过 3D 混合键合直接集成在逻辑芯片上方。Z2RAM 关键卖点是使用标准后端工艺（BEOL），无需极紫外光刻（EUV）即可通过单次曝光形成多层存储结构，有望提升密度并降低制造复杂度与成本。与依赖电容存电荷的传统 DRAM 不同，Z2RAM 采用基于晶体管的存储单元，可实现非破坏性读取，从而有望降低访问延迟。初创公司还计划像 NA",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-10-28",
+      "score": 0.7575
     },
     {
       "title": "General Compute raises $100 million Series A, countering the neocloud disaster narrative",
@@ -305,6 +305,28 @@
   ],
   "category4": [
     {
+      "title": "小鹏集团副总裁顾捷：IRON 机器人固态电池已小批量量产",
+      "url": "https://www.ithome.com/1/018/884.htm",
+      "summary": "IT之家 10 月 28 日消息，综合第一财经、新浪汽车报道，小鹏集团副总裁顾捷在今日的 SAECCE 年会上表示，小鹏 IRON 机器人固态电池已小批量量产下线，机器人目前处于 SOP（标准作业程序）前的阶段。顾捷表示，小鹏已首发机器人专用固态电池，受制于机器人空间要求，小鹏机器人固态电池采用高能量密度设计，并重构电池标准，采用防热失控扩散设计，能经受冲击、针刺贯穿等考验。9 月 8 日，小鹏机器人生产线正式启用，全球首位高阶通用人形机器人完成自动化总装，自主走下产线亮相，标志着小鹏机器人完成从研发试制到产线制造的关键跨越，向规模量产迈出重要一步。根据计划，小鹏将在 2026 年底实现人形机器人量产，2027 年上半年开启交付，率先落地门店、商场等商业场景，并逐步拓展至工业及家庭场景。8 月 24 日，小鹏机器人业务完成首轮超 9 亿美元（IT之家注：现汇率约合 60.13 亿元人民币）融资，投后估值超 63 亿美元（现汇率约合 420.91 亿元人民币），刷新中国具身智能行业单轮私募股权融资纪录。",
+      "short_summary": "IT之家 10 月 28 日消息，综合第一财经、新浪汽车报道，小鹏集团副总裁顾捷在今日的 SAECCE 年会上表示，小鹏",
+      "detail": "IT之家 10 月 28 日消息，综合第一财经、新浪汽车报道，小鹏集团副总裁顾捷在今日的 SAECCE 年会上表示，小鹏 IRON 机器人固态电池已小批量量产下线，机器人目前处于 SOP（标准作业程序）前的阶段。顾捷表示，小鹏已首发机器人专用固态电池，受制于机器人空间要求，小鹏机器人固态电池采用高能量密度设计，并重构电池标准，采用防热失控扩散设计，能经受冲击、针刺贯穿等考验。9 月 8 日，小鹏机器人生产线正式启用，全球首位高阶通用人形机器人完成自动化总装，自主走下产线亮相，标志着小鹏机器人完成从研发试制到产线制造的关键跨越，向规模量产迈出重要一步。根据计划，小鹏将在 2026 年底实现人形机器人量产，2027 年上半年开启交付，率先落地门店、商场等商业场景，并逐步拓展至工业及家庭场景。8 月 24 日，小鹏机器人业务完成首轮超 9 亿美元（IT之家注：现汇率约合 60.13 亿元人民币）融资，投后估值超 63 亿美元（现汇率约合 420.91 亿元人民币），刷新中国具身智能行业单轮私募股权融资纪录。",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-10-28",
+      "score": 0.9375
+    },
+    {
+      "title": "每秒走 0.4 个体长，步行型生物机器人速度纪录被刷新",
+      "url": "https://www.ithome.com/1/018/903.htm",
+      "summary": "IT之家 10 月 28 日消息，苏黎世联邦理工学院（ETH Zurich）于 10 月 22 日发布博文，展示了由小鼠骨骼肌细胞与水凝胶支架构成的生物混合微型机器人，可跳跃、奔跑、游泳与抓取。IT之家附上相关演示视频如下：该成果首次整合活体骨骼肌组织与柔性水凝胶支架，在计算机中协同设计，制造出约 1.5 厘米长的“生物驱动器”。受电脉冲刺激后，它能产生肉眼可见的屈曲运动，并驱动微型机器人完成跳跃、游泳、爬行和抓取等动作。该学院团队指出实验室培养的肌肉过去虽能收缩，但幅度往往微小到需借助显微镜观察，难以真正驱动机器人。新研究的突破重新设计肌肉与支架的相互作用：算法同时优化肌肉组织的分布、体积及水凝胶支架的形状与力学特性，让肌肉收缩尽可能高效地转化为整体形变。制造方面，团队采用一种名为 Xolography 的光固化 3D 打印技术，利用光照固化水凝胶，单个支架的打印时间约为一分钟。结果显示，在相近肌肉量的条件下，新驱动器的运动幅度最高可达此前系统的 11 倍。一次收缩即可让装置从培养皿底部弹起约 5 毫米，相当于其体长的三分之一；行走版本的速度达到每秒 6.2 毫米，约合每秒 0.4",
+      "short_summary": "IT之家 10 月 28 日消息，苏黎世联邦理工学院（ETH Zurich）于 10 月 22 日发布博文，展示了由小鼠",
+      "detail": "IT之家 10 月 28 日消息，苏黎世联邦理工学院（ETH Zurich）于 10 月 22 日发布博文，展示了由小鼠骨骼肌细胞与水凝胶支架构成的生物混合微型机器人，可跳跃、奔跑、游泳与抓取。IT之家附上相关演示视频如下：该成果首次整合活体骨骼肌组织与柔性水凝胶支架，在计算机中协同设计，制造出约 1.5 厘米长的“生物驱动器”。受电脉冲刺激后，它能产生肉眼可见的屈曲运动，并驱动微型机器人完成跳跃、游泳、爬行和抓取等动作。该学院团队指出实验室培养的肌肉过去虽能收缩，但幅度往往微小到需借助显微镜观察，难以真正驱动机器人。新研究的突破重新设计肌肉与支架的相互作用：算法同时优化肌肉组织的分布、体积及水凝胶支架的形状与力学特性，让肌肉收缩尽可能高效地转化为整体形变。制造方面，团队采用一种名为 Xolography 的光固化 3D 打印技术，利用光照固化水凝胶，单个支架的打印时间约为一分钟。结果显示，在相近肌肉量的条件下，新驱动器的运动幅度最高可达此前系统的 11 倍。一次收缩即可让装置从培养皿底部弹起约 5 毫米，相当于其体长的三分之一；行走版本的速度达到每秒 6.2 毫米，约合每秒 0.4",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-10-28",
+      "score": 0.8475
+    },
+    {
       "title": "Xpanner launches autonomous pile driver for solar farm contruction",
       "url": "https://www.therobotreport.com/xpanner-launches-new-autonomous-pile-driver-solar-farm-contruction/",
       "summary": "Xpanner's new X1 Piling R6 robot autonomously drives solar posts with one operator, improving placement accuracy while cutting on-site labor.\nThe post Xpanner launches autonomous pile driver for solar farm contruction appeared first on The Robot Report.",
@@ -314,28 +336,6 @@
       "source_authority": 0.85,
       "date": "2026-10-27",
       "score": 0.8125
-    },
-    {
-      "title": "特斯拉计划用 Optimus 人形机器人给 Robotaxi 插拔充电枪，终极目标是无线充电",
-      "url": "https://www.ithome.com/1/018/743.htm",
-      "summary": "IT之家 10 月 28 日消息，特斯拉的 Robotaxi 无人驾驶出租车已经能够自行驶入超级充电站，但目前仍需要工作人员手动插上充电枪。未来，这项工作可能交由特斯拉的人形机器人 Optimus 完成。在近期接受 Munro Live 采访时，特斯拉车辆工程副总裁拉尔斯 · 莫拉维（Lars Moravy）和 Cybercab 项目负责人埃里克 · 厄利（Eric Earley）表示，特斯拉计划利用 Optimus 人形机器人为 Robotaxi 插拔充电枪，同时继续研发自动化程度更高的无线充电系统。两人表示：“希望 Optimus 很快就能帮我们完成这项工作。”目前仍由人工为无人驾驶出租车充电目前，特斯拉仍在依靠工作人员为无人驾驶 Robotaxi 手动充电。近期，一段拍摄于美国奥斯汀超级充电站的视频显示，特斯拉员工会在 Cybercab 和 Model Y 无人驾驶出租车抵达后，为车辆插上充电枪。如果车辆没有停在足够靠近充电桩的位置，工作人员还会将其挪动到合适的位置。现阶段，超级充电站是 Cybercab 唯一可用的充电选择，因为这款车型不支持交流充电。因此，Cybercab 仍",
-      "short_summary": "IT之家 10 月 28 日消息，特斯拉的 Robotaxi 无人驾驶出租车已经能够自行驶入超级充电站，但目前仍需要工作",
-      "detail": "IT之家 10 月 28 日消息，特斯拉的 Robotaxi 无人驾驶出租车已经能够自行驶入超级充电站，但目前仍需要工作人员手动插上充电枪。未来，这项工作可能交由特斯拉的人形机器人 Optimus 完成。在近期接受 Munro Live 采访时，特斯拉车辆工程副总裁拉尔斯 · 莫拉维（Lars Moravy）和 Cybercab 项目负责人埃里克 · 厄利（Eric Earley）表示，特斯拉计划利用 Optimus 人形机器人为 Robotaxi 插拔充电枪，同时继续研发自动化程度更高的无线充电系统。两人表示：“希望 Optimus 很快就能帮我们完成这项工作。”目前仍由人工为无人驾驶出租车充电目前，特斯拉仍在依靠工作人员为无人驾驶 Robotaxi 手动充电。近期，一段拍摄于美国奥斯汀超级充电站的视频显示，特斯拉员工会在 Cybercab 和 Model Y 无人驾驶出租车抵达后，为车辆插上充电枪。如果车辆没有停在足够靠近充电桩的位置，工作人员还会将其挪动到合适的位置。现阶段，超级充电站是 Cybercab 唯一可用的充电选择，因为这款车型不支持交流充电。因此，Cybercab 仍",
-      "source": "ITHome",
-      "source_authority": 0.75,
-      "date": "2026-10-28",
-      "score": 0.8
-    },
-    {
-      "title": "马斯克坚定看好内存需求，称机器人所需内存将超过其他任何领域",
-      "url": "https://www.ithome.com/1/018/748.htm",
-      "summary": "IT之家 10 月 28 日消息，特斯拉 CEO 埃隆 · 马斯克于 10 月 27 日在社交平台 X 上表示，机器人对内存的需求将超过地球上其他所有一切，驳斥了市场关于人形机器人对内存需求不大的观点。Counterpoint 分析报告称，到 2030 年，人形机器人 DRAM 需求将增长 20 倍，达到 172,000 TB，每台机器人的内存容量翻倍至 39 GB。Futurum Equities 分析师 Shay Boloor 估计，如果特斯拉每年生产 1000 万台 Optimus 人形机器人，每台搭载 72 GB 内存，年内存需求约为 720 PB，他认为机器人采用 LPDDR 而非 HBM 将为美光和 SK 海力士创造更大的出货机会。马斯克还表示，超级智能的计算需求将远远超过机器人本身，但几乎 100% 的超级智能计算最终将在深空完成。IT之家注意到，美光 CEO Sanjay Mehrotra 上个月也表示，到 2030 年左右，物理 AI 可能成为内存和存储需求的重要驱动力。关于生产时间表，马斯克在公司最近第三季度财报电话会议上表示，Optimus 机器人的首批客户交付目",
-      "short_summary": "IT之家 10 月 28 日消息，特斯拉 CEO 埃隆 · 马斯克于 10 月 27 日在社交平台 X 上表示，机器人对",
-      "detail": "IT之家 10 月 28 日消息，特斯拉 CEO 埃隆 · 马斯克于 10 月 27 日在社交平台 X 上表示，机器人对内存的需求将超过地球上其他所有一切，驳斥了市场关于人形机器人对内存需求不大的观点。Counterpoint 分析报告称，到 2030 年，人形机器人 DRAM 需求将增长 20 倍，达到 172,000 TB，每台机器人的内存容量翻倍至 39 GB。Futurum Equities 分析师 Shay Boloor 估计，如果特斯拉每年生产 1000 万台 Optimus 人形机器人，每台搭载 72 GB 内存，年内存需求约为 720 PB，他认为机器人采用 LPDDR 而非 HBM 将为美光和 SK 海力士创造更大的出货机会。马斯克还表示，超级智能的计算需求将远远超过机器人本身，但几乎 100% 的超级智能计算最终将在深空完成。IT之家注意到，美光 CEO Sanjay Mehrotra 上个月也表示，到 2030 年左右，物理 AI 可能成为内存和存储需求的重要驱动力。关于生产时间表，马斯克在公司最近第三季度财报电话会议上表示，Optimus 机器人的首批客户交付目",
-      "source": "ITHome",
-      "source_authority": 0.75,
-      "date": "2026-10-28",
-      "score": 0.785
     },
     {
       "title": "Your Robot’s Safety Functions Already Work. What If the Input Lies?",
@@ -382,6 +382,17 @@
       "score": 0.725
     },
     {
+      "title": "全球首展：高通 6G 终端原型机将在第九届进博会正式亮相",
+      "url": "https://www.ithome.com/1/018/881.htm",
+      "summary": "IT之家 10 月 28 日消息，据《科创板日报》今天（28 日）午间报道，第九届中国国际进口博览会开幕在即，高通将连续第九年参展，展示 6G、智能体 AI 与多元智能终端成果。据悉，高通将于本次进博会进行 6G 终端原型机的全球首展。该原型机已用于与中国移动、中兴通讯等中国产业伙伴的联合 6G 技术测试和互操作验证。此外，展台还将集中呈现智能体 AI 与多元智能终端创新，包括智能体设备、最新旗舰智能手机、AI PC、智能眼镜、汽车和机器人等多元智能终端，以及 AI 影像、XR 等互动体验。据IT之家此前报道，今年 9 月 20 日，中国移动、高通共同宣布，双方在中国移动协同创新基地基于 6G 开放众创试验装置，成功完成全球首个符合 3GPP 最新定义的 U6G 频段 6G 原型基站与终端原型对接测试，标志着 6G 关键技术从研究迈入系统化验证的新阶段。相关阅读：《全球首个：中国移动与高通完成基于 U6G 频段 6G 原型基站与终端原型对接测试》",
+      "short_summary": "IT之家 10 月 28 日消息，据《科创板日报》今天（28 日）午间报道，第九届中国国际进口博览会开幕在即，高通将连续",
+      "detail": "IT之家 10 月 28 日消息，据《科创板日报》今天（28 日）午间报道，第九届中国国际进口博览会开幕在即，高通将连续第九年参展，展示 6G、智能体 AI 与多元智能终端成果。据悉，高通将于本次进博会进行 6G 终端原型机的全球首展。该原型机已用于与中国移动、中兴通讯等中国产业伙伴的联合 6G 技术测试和互操作验证。此外，展台还将集中呈现智能体 AI 与多元智能终端创新，包括智能体设备、最新旗舰智能手机、AI PC、智能眼镜、汽车和机器人等多元智能终端，以及 AI 影像、XR 等互动体验。据IT之家此前报道，今年 9 月 20 日，中国移动、高通共同宣布，双方在中国移动协同创新基地基于 6G 开放众创试验装置，成功完成全球首个符合 3GPP 最新定义的 U6G 频段 6G 原型基站与终端原型对接测试，标志着 6G 关键技术从研究迈入系统化验证的新阶段。相关阅读：《全球首个：中国移动与高通完成基于 U6G 频段 6G 原型基站与终端原型对接测试》",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-10-28",
+      "score": 0.71
+    },
+    {
       "title": "In the A.I. ‘Robogym,’ Machines Train to Be More Like Humans",
       "url": "https://www.nytimes.com/2026/10/27/business/neura-robotics-germany-china-ai.html",
       "summary": "Germany’s Neura is one of the companies at the forefront of efforts to use artificial intelligence in robotics, and crucial to whether Europe can close the gap with China.",
@@ -391,6 +402,17 @@
       "source_authority": 0.9,
       "date": "2026-10-27",
       "score": 0.64
+    },
+    {
+      "title": "不藏了！人形机器人全开源动真格，从机械结构一路拆到运动算法",
+      "url": "https://www.qbitai.com/2026/10/505865.html",
+      "summary": "人形机器人全套图纸开源！从关节到算法，下载就能自己造。",
+      "short_summary": "人形机器人全套图纸开源！从关节到算法，下载就能自己造。",
+      "detail": "人形机器人全套图纸开源！从关节到算法，下载就能自己造。",
+      "source": "量子位",
+      "source_authority": 0.85,
+      "date": "2026-10-27",
+      "score": 0.61
     }
   ]
 }
