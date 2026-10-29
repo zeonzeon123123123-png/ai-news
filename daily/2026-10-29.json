@@ -1,0 +1,301 @@
+{
+  "date": "2026-10-29",
+  "category1": [
+    {
+      "title": "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
+      "url": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
+      "summary": "Google has released its latest frontier model, Gemini 4 Carbon, offering \"significant gains\" in coding, agentic tasks, and cybersecurity. In an announcement on Wednesday, Google highlights Carbon's top spot on the Artificial Analysis Intelligence Index (v5.0) benchmark, with Claude Opus 5.5 and GPT-6 Astra trailing behind. The new Gemini 4 Carbon model offers improvements over […]",
+      "detail": "Google has released its latest frontier model, Gemini 4 Carbon, offering \"significant gains\" in coding, agentic tasks, and cybersecurity. In an announcement on Wednesday, Google highlights Carbon's top spot on the Artificial Analysis Intelligence Index (v5.0) benchmark, with Claude Opus 5.5 and GPT-6 Astra trailing behind. The new Gemini 4 Carbon model offers improvements over […]",
+      "source": "The Verge",
+      "source_authority": 0.9,
+      "date": "2026-10-29",
+      "score": 0.9275
+    },
+    {
+      "title": "Microsoft recorded $10 billion in revenue from OpenAI",
+      "url": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
+      "summary": "Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ending September 30. It underscores the still-enormous financial dependency of the partnership.",
+      "detail": "Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ending September 30. It underscores the still-enormous financial dependency of the partnership.",
+      "source": "TechCrunch",
+      "source_authority": 0.95,
+      "date": "2026-10-29",
+      "score": 0.885
+    },
+    {
+      "title": "甲骨文公布“扭亏为盈”计划，力图安抚投资者担忧情绪",
+      "url": "https://www.ithome.com/1/019/333.htm",
+      "summary": "IT之家 10 月 29 日消息，据路透社报道，当地时间 28 日，甲骨文披露，随着云计算业务扩张，资本开支预计将在 2027 和 2028 财年达到高峰，并承诺截至 2030 财年，为 AI 业务新增的融资不超过 200 亿美元（IT之家注：现汇率约合 1,336.11 亿元人民币）。甲骨文希望借此缓解投资者对资金需求不断膨胀的担忧。投资者担心，甲骨文为大举建设数据中心，需要持续从外部筹集巨额资金。受业绩预测提振，甲骨文股价大涨超过 12%，其他云计算公司股价也随之上涨。甲骨文 CFO 希拉里 · 麦克斯顿在投资者日活动上透露，公司预计 2028 财年下半年实现自由现金流转正，2029 财年自由现金流超过 300 亿美元（现汇率约合 2,004.16 亿元人民币），资本开支也将在当年回落。甲骨文的 AI 基础设施投资成本不断攀升，成为市场关注的焦点。与微软、亚马逊等云计算巨头相比，甲骨文缺乏雄厚的营收基础，业务还高度依赖尚未盈利的 OpenAI。与 OpenAI 的合作让甲骨文新增了数千亿美元的云计算订单，但要履行这些合同，就必须建设大量数据中心及其他 AI 基础设施，迫使公司高度依",
+      "detail": "IT之家 10 月 29 日消息，据路透社报道，当地时间 28 日，甲骨文披露，随着云计算业务扩张，资本开支预计将在 2027 和 2028 财年达到高峰，并承诺截至 2030 财年，为 AI 业务新增的融资不超过 200 亿美元（IT之家注：现汇率约合 1,336.11 亿元人民币）。甲骨文希望借此缓解投资者对资金需求不断膨胀的担忧。投资者担心，甲骨文为大举建设数据中心，需要持续从外部筹集巨额资金。受业绩预测提振，甲骨文股价大涨超过 12%，其他云计算公司股价也随之上涨。甲骨文 CFO 希拉里 · 麦克斯顿在投资者日活动上透露，公司预计 2028 财年下半年实现自由现金流转正，2029 财年自由现金流超过 300 亿美元（现汇率约合 2,004.16 亿元人民币），资本开支也将在当年回落。甲骨文的 AI 基础设施投资成本不断攀升，成为市场关注的焦点。与微软、亚马逊等云计算巨头相比，甲骨文缺乏雄厚的营收基础，业务还高度依赖尚未盈利的 OpenAI。与 OpenAI 的合作让甲骨文新增了数千亿美元的云计算订单，但要履行这些合同，就必须建设大量数据中心及其他 AI 基础设施，迫使公司高度依",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-10-29",
+      "score": 0.885
+    },
+    {
+      "title": "Warp Sciences emerges from stealth, to apply robotics to drug research",
+      "url": "https://www.therobotreport.com/warp-sciences-emerges-stealth-apply-robotics-drug-research/",
+      "summary": "Warp Sciences has co-founders from OpenAI, Meta, and more, plus funding to build infrastructure for automated drug discovery in the U.S.\nThe post Warp Sciences emerges from stealth, to apply robotics to drug research appeared first on The Robot Report.",
+      "detail": "Warp Sciences has co-founders from OpenAI, Meta, and more, plus funding to build infrastructure for automated drug discovery in the U.S.\nThe post Warp Sciences emerges from stealth, to apply robotics to drug research appeared first on The Robot Report.",
+      "source": "The Robot Report",
+      "source_authority": 0.85,
+      "date": "2026-10-29",
+      "score": 0.8625
+    },
+    {
+      "title": "Anthropic just launched tools to show companies what their AI spending is buying",
+      "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
+      "summary": "The frontier lab is lifting the curtain on how users spend money on its models ahead of a planned IPO.",
+      "detail": "The frontier lab is lifting the curtain on how users spend money on its models ahead of a planned IPO.",
+      "source": "TechCrunch",
+      "source_authority": 0.95,
+      "date": "2026-10-29",
+      "score": 0.8275
+    },
+    {
+      "title": "努比亚星云 AIOS 3.0 版本升级计划公布，12 月推送 Z80 Ultra 手机",
+      "url": "https://www.ithome.com/1/019/326.htm",
+      "summary": "IT之家 10 月 29 日消息，努比亚官方今日公布了星云 AIOS 3.0 版本升级计划。2026 年 12 月：努比亚 Z80 Ultra2027 年 3 月：努比亚 Z70 Ultra、努比亚 Z70S Ultra 摄影师版官方表示，努比亚 Z 系列，即将迎来全新系统体验。敬请期待！官方暂未公布新系统的主要升级内容，IT之家会持续关注并带来跟进报道。延伸阅读星云 AIOS 是中兴通讯于 2024 年 11 月推出的操作系统，由努比亚 Z70 Ultra 首发搭载。初代星云 AIOS 搭载了千亿级云端大模型以及 30 亿端侧大模型，广泛覆盖自然语言、语音、影像、视觉、多模态等领域，用户可通过语音交互完成 AI 语音订票、AI 语音表情控制，以及一句话完成 AI 智能搜图、AI 智慧配文并发布社交媒体等操作，还支持面对面翻译、方言翻译、通话翻译、字幕翻译、会议翻译和屏幕翻译等多种翻译场景。此次获得升级的机型中，努比亚 Z80 Ultra 于 2025 年 10 月 22 日正式发布，搭载第五代骁龙 8 至尊版旗舰芯，配备 6.85 英寸“天空全面屏”、7200mAh 大电池以及 90",
+      "detail": "IT之家 10 月 29 日消息，努比亚官方今日公布了星云 AIOS 3.0 版本升级计划。2026 年 12 月：努比亚 Z80 Ultra2027 年 3 月：努比亚 Z70 Ultra、努比亚 Z70S Ultra 摄影师版官方表示，努比亚 Z 系列，即将迎来全新系统体验。敬请期待！官方暂未公布新系统的主要升级内容，IT之家会持续关注并带来跟进报道。延伸阅读星云 AIOS 是中兴通讯于 2024 年 11 月推出的操作系统，由努比亚 Z70 Ultra 首发搭载。初代星云 AIOS 搭载了千亿级云端大模型以及 30 亿端侧大模型，广泛覆盖自然语言、语音、影像、视觉、多模态等领域，用户可通过语音交互完成 AI 语音订票、AI 语音表情控制，以及一句话完成 AI 智能搜图、AI 智慧配文并发布社交媒体等操作，还支持面对面翻译、方言翻译、通话翻译、字幕翻译、会议翻译和屏幕翻译等多种翻译场景。此次获得升级的机型中，努比亚 Z80 Ultra 于 2025 年 10 月 22 日正式发布，搭载第五代骁龙 8 至尊版旗舰芯，配备 6.85 英寸“天空全面屏”、7200mAh 大电池以及 90",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-10-29",
+      "score": 0.8225
+    },
+    {
+      "title": "Chrome’s enhanced autofill can now pull info from Gmail to help you fill out forms",
+      "url": "https://www.theverge.com/tech/1020626/chrome-enhanced-autofill-gmail-forms-gemini-personal-intelligence",
+      "summary": "Following improvements made to Chrome's enhanced autofill last year that included your name, passport number, email address, and physical addresses sourced from your Google Accounts and services like Google Wallet, the feature is now expanding. Starting today, Chrome's enhanced autofill will use Gemini with Personal Intelligence to suggest information sourced from your Gmail, potentially saving […]",
+      "detail": "Following improvements made to Chrome's enhanced autofill last year that included your name, passport number, email address, and physical addresses sourced from your Google Accounts and services like Google Wallet, the feature is now expanding. Starting today, Chrome's enhanced autofill will use Gemini with Personal Intelligence to suggest information sourced from your Gmail, potentially saving […]",
+      "source": "The Verge",
+      "source_authority": 0.9,
+      "date": "2026-10-29",
+      "score": 0.8
+    },
+    {
+      "title": "韩芯片创企 FuriosaAI 挑战英伟达：新一轮融资后估值翻两番至 29 亿美元",
+      "url": "https://www.ithome.com/1/019/329.htm",
+      "summary": "IT之家 10 月 29 日消息，据彭博社 28 日报道，韩国 AI 芯片初创公司 FuriosaAI 完成新一轮融资，估值增至 29 亿美元（IT之家注：现汇率约合 193.74 亿元人民币），接近此前的 4 倍，为挑战英伟达等行业巨头增添了筹码。FuriosaAI 宣布，D 轮融资筹集 6.2 亿美元（现汇率约合 41.42 亿元人民币），投资方包括美国 Infinitum Partners。韩国国民成长基金投资 2.8 亿美元（现汇率约合 18.71 亿元人民币），海外投资者合计出资 1.1 亿美元（现汇率约合 7.35 亿元人民币），参与融资的还有杰里科资本、Worldline Capital、新加坡 QUDA Capital 和阿布扎比 NeoFort Holding 等机构。英伟达芯片主导着 AI 数据中心市场，投资者则在寻找能效更高的替代方案，重点是 AI 推理。随着 AI 需求增长带动用电量攀升，如何降低推理成本成为行业竞争的主要焦点之一。成立于 2017 年的 FuriosaAI 今年 1 月开始量产 RNGD 芯片，名称发音同英文单词“Renegade”。公司还与博",
+      "detail": "IT之家 10 月 29 日消息，据彭博社 28 日报道，韩国 AI 芯片初创公司 FuriosaAI 完成新一轮融资，估值增至 29 亿美元（IT之家注：现汇率约合 193.74 亿元人民币），接近此前的 4 倍，为挑战英伟达等行业巨头增添了筹码。FuriosaAI 宣布，D 轮融资筹集 6.2 亿美元（现汇率约合 41.42 亿元人民币），投资方包括美国 Infinitum Partners。韩国国民成长基金投资 2.8 亿美元（现汇率约合 18.71 亿元人民币），海外投资者合计出资 1.1 亿美元（现汇率约合 7.35 亿元人民币），参与融资的还有杰里科资本、Worldline Capital、新加坡 QUDA Capital 和阿布扎比 NeoFort Holding 等机构。英伟达芯片主导着 AI 数据中心市场，投资者则在寻找能效更高的替代方案，重点是 AI 推理。随着 AI 需求增长带动用电量攀升，如何降低推理成本成为行业竞争的主要焦点之一。成立于 2017 年的 FuriosaAI 今年 1 月开始量产 RNGD 芯片，名称发音同英文单词“Renegade”。公司还与博",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-10-29",
+      "score": 0.7825
+    },
+    {
+      "title": "Apple Unveils Its First Touch-Screen MacBook Pro",
+      "url": "https://www.nytimes.com/2026/10/28/technology/apple-touch-screen-macbook-pro.html",
+      "summary": "Steve Jobs and Tim Cook both dismissed the idea, but Apple’s new chief executive is reimagining some of the company’s most important products.",
+      "detail": "Steve Jobs and Tim Cook both dismissed the idea, but Apple’s new chief executive is reimagining some of the company’s most important products.",
+      "source": "NYT",
+      "source_authority": 0.9,
+      "date": "2026-10-29",
+      "score": 0.7775
+    },
+    {
+      "title": "How Much Can Semiconductor Models Hide?",
+      "url": "https://semiengineering.com/how-much-can-semiconductor-models-hide/",
+      "summary": "Advanced packaging requires models to cross company boundaries without exposing proprietary processes, but hiding too much can make the prediction break down.\nThe post How Much Can Semiconductor Models Hide? appeared first on Semiconductor Engineering.",
+      "detail": "Advanced packaging requires models to cross company boundaries without exposing proprietary processes, but hiding too much can make the prediction break down.\nThe post How Much Can Semiconductor Models Hide? appeared first on Semiconductor Engineering.",
+      "source": "SemiEngineering",
+      "source_authority": 0.85,
+      "date": "2026-10-28",
+      "score": 0.775
+    }
+  ],
+  "category2": [
+    {
+      "title": "Microsoft is ending Copilot support on smart TVs",
+      "url": "https://www.theverge.com/tech/1021143/microsoft-lg-samsung-copilot-ai-assistant-smart-tvs-ending",
+      "summary": "Nearly two years after LG and Samsung announced at CES 2025 that their latest smart TVs would include access to Microsoft's Copilot, the company is ending support for the AI assistant's functionality on all TVs this year, according to a report by Windows Central. The news comes not from an official announcement from LG, Samsung, […]",
+      "detail": "Nearly two years after LG and Samsung announced at CES 2025 that their latest smart TVs would include access to Microsoft's Copilot, the company is ending support for the AI assistant's functionality on all TVs this year, according to a report by Windows Central. The news comes not from an official announcement from LG, Samsung, […]",
+      "source": "The Verge",
+      "source_authority": 0.9,
+      "date": "2026-10-29",
+      "score": 0.875
+    },
+    {
+      "title": "Google expands AI Search ads globally as core ad growth slows",
+      "url": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
+      "summary": "The announcement came alongside parent company Alphabet's third-quarter earnings report, which saw revenue grow 25% year over year to $127.6 billion.",
+      "detail": "The announcement came alongside parent company Alphabet's third-quarter earnings report, which saw revenue grow 25% year over year to $127.6 billion.",
+      "source": "TechCrunch",
+      "source_authority": 0.95,
+      "date": "2026-10-29",
+      "score": 0.7825
+    },
+    {
+      "title": "Voice AI in vogue: Nvidia releases new open transcription model",
+      "url": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/",
+      "summary": "Nvidia just released a free speech-to-text model that can transcribe up to 40 languages, but it only works on recordings, not live audio, so it’s a big step for meeting and medical transcription tools while still leaving real-time use to rivals like ElevenLabs.",
+      "detail": "Nvidia just released a free speech-to-text model that can transcribe up to 40 languages, but it only works on recordings, not live audio, so it’s a big step for meeting and medical transcription tools while still leaving real-time use to rivals like ElevenLabs.",
+      "source": "TechCrunch",
+      "source_authority": 0.95,
+      "date": "2026-10-28",
+      "score": 0.7775
+    },
+    {
+      "title": "I Put a Bunch of AI Agents in Charge of a Fantasy Soccer Team. They’re Not Better Than Humans—Yet",
+      "url": "https://www.wired.com/story/i-put-ai-agents-in-charge-of-a-fantasy-team/",
+      "summary": "To experiment with AI’s predictive skills, I let Codex loose on a fantasy team. It tried to bench Erling Haaland at first, but it soon learned the error of its ways.",
+      "detail": "To experiment with AI’s predictive skills, I let Codex loose on a fantasy team. It tried to bench Erling Haaland at first, but it soon learned the error of its ways.",
+      "source": "Wired",
+      "source_authority": 0.85,
+      "date": "2026-10-29",
+      "score": 0.755
+    },
+    {
+      "title": "Introducing Build-A-Chip-Bench: From Workload Specification to GDS",
+      "url": "https://semiengineering.com/introducing-build-a-chip-bench-from-workload-specification-to-gds/",
+      "summary": "Evaluate AI agents from workload specification through GDS layout, using open-source tools and an open-source PDK to assess their ability to complete the chip-design workflow. \nThe post Introducing Build-A-Chip-Bench: From Workload Specification to GDS appeared first on Semiconductor Engineering.",
+      "detail": "Evaluate AI agents from workload specification through GDS layout, using open-source tools and an open-source PDK to assess their ability to complete the chip-design workflow. \nThe post Introducing Build-A-Chip-Bench: From Workload Specification to GDS appeared first on Semiconductor Engineering.",
+      "source": "SemiEngineering",
+      "source_authority": 0.85,
+      "date": "2026-10-28",
+      "score": 0.73
+    },
+    {
+      "title": "Creating AI value with enterprise context",
+      "url": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
+      "summary": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process automation tools. Each one is sophisticated, advanced, and quick to respond. But, when set to work, the outcomes and actions that emerge may be wrong, confused, or lacking a…",
+      "detail": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process automation tools. Each one is sophisticated, advanced, and quick to respond. But, when set to work, the outcomes and actions that emerge may be wrong, confused, or lacking a…",
+      "source": "MIT Tech Review",
+      "source_authority": 0.9,
+      "date": "2026-10-29",
+      "score": 0.725
+    },
+    {
+      "title": "Microsoft’s Profit Jumps 32% Despite Big Increase in Spending",
+      "url": "https://www.nytimes.com/2026/10/28/technology/microsoft-earnings-ai.html",
+      "summary": "The company’s free cash flow stayed positive in the last quarter even as it spent $45.2 billion on capital expenses like data centers and offered to pay workers to leave.",
+      "detail": "The company’s free cash flow stayed positive in the last quarter even as it spent $45.2 billion on capital expenses like data centers and offered to pay workers to leave.",
+      "source": "NYT",
+      "source_authority": 0.9,
+      "date": "2026-10-29",
+      "score": 0.7075
+    },
+    {
+      "title": "Castle Walls review – Prime’s first fully AI-generated show is here, and it’s a Vaseline-smeared mess",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/oct/29/castle-walls-review-prime-first-fully-ai-generated-tv-show",
+      "summary": "Billed as the first end-to-end AI-created series on a major streaming service, this Turkish show looks like the result of the prompt ‘make it cinematic’Just as the world reels from Elon Musk’s AI-powered The Odyssey remake – though “remake” feels rather generous for a seven-minute splat of synthetic sludge – another bucket of AI gunk is dropped on to our faces. For Prime Video’s AI-generated TV series Castle Walls, produced by Turkish production studio Ay Yapım using a melange of generative vide",
+      "detail": "Billed as the first end-to-end AI-created series on a major streaming service, this Turkish show looks like the result of the prompt ‘make it cinematic’Just as the world reels from Elon Musk’s AI-powered The Odyssey remake – though “remake” feels rather generous for a seven-minute splat of synthetic sludge – another bucket of AI gunk is dropped on to our faces. For Prime Video’s AI-generated TV series Castle Walls, produced by Turkish production studio Ay Yapım using a melange of generative vide",
+      "source": "The Guardian",
+      "source_authority": 0.85,
+      "date": "2026-10-28",
+      "score": 0.705
+    },
+    {
+      "title": "未成年人恶意传播 Hololive 成员私人信息谣言：VTuber 事务所 COVER 要求家长赔偿并承担监督责任",
+      "url": "https://www.ithome.com/1/019/314.htm",
+      "summary": "IT之家 10 月 29 日消息，VTuber 事务所 Hololive production 的运营公司 COVER 昨日发布公告宣布，已查明在网络上散布旗下 Hololive 成员私人信息的发帖者。然而由于涉事者尚未成年，因此公司对接了其法定监护人，该法定监护人已承诺支付损害赔偿金，并承担后续监督责任。根据 COVER 发布的公告，该人士此前曾在网络上发布大量关于 Hololive 成员私人信息谣言。COVER 随后采取法律措施，法院认定相关帖文侵害了成员的权利。公司继而通过申请披露发帖者信息，成功确认了涉事者的身份。经过协商，双方最终达成和解。根据和解条件，涉事者须删除相关帖文、提交道歉书并支付赔偿金，同时承诺不再对 COVER 及旗下任何成员实施诽谤、中伤或其他侵权行为。如违反约定，还须支付额外违约金。COVER 未公开此次和解的具体赔偿金额，也未透露受影响成员的身份。公司强调，侵权者即使尚未成年，也不意味着相关行为可以不予追究，未来仍将根据具体情况采取适当措施。公司特别指出，即使涉及成员私生活的信息属实，也可能侵犯当事人的权利；相关内容即便只是传闻或毫无根据的猜测，也不意味着",
+      "detail": "IT之家 10 月 29 日消息，VTuber 事务所 Hololive production 的运营公司 COVER 昨日发布公告宣布，已查明在网络上散布旗下 Hololive 成员私人信息的发帖者。然而由于涉事者尚未成年，因此公司对接了其法定监护人，该法定监护人已承诺支付损害赔偿金，并承担后续监督责任。根据 COVER 发布的公告，该人士此前曾在网络上发布大量关于 Hololive 成员私人信息谣言。COVER 随后采取法律措施，法院认定相关帖文侵害了成员的权利。公司继而通过申请披露发帖者信息，成功确认了涉事者的身份。经过协商，双方最终达成和解。根据和解条件，涉事者须删除相关帖文、提交道歉书并支付赔偿金，同时承诺不再对 COVER 及旗下任何成员实施诽谤、中伤或其他侵权行为。如违反约定，还须支付额外违约金。COVER 未公开此次和解的具体赔偿金额，也未透露受影响成员的身份。公司强调，侵权者即使尚未成年，也不意味着相关行为可以不予追究，未来仍将根据具体情况采取适当措施。公司特别指出，即使涉及成员私生活的信息属实，也可能侵犯当事人的权利；相关内容即便只是传闻或毫无根据的猜测，也不意味着",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-10-29",
+      "score": 0.695
+    },
+    {
+      "title": "Alphabet’s Revenue Rises 25% as Profit Falls",
+      "url": "https://www.nytimes.com/2026/10/28/technology/alphabet-earnings-google-ai.html",
+      "summary": "The company has been spending relentlessly to build A.I. and said it would increase those investments next year. Profit dropped because of changes to the value of its investments.",
+      "detail": "The company has been spending relentlessly to build A.I. and said it would increase those investments next year. Profit dropped because of changes to the value of its investments.",
+      "source": "NYT",
+      "source_authority": 0.9,
+      "date": "2026-10-29",
+      "score": 0.67
+    }
+  ],
+  "category3": [
+    {
+      "title": "Foundation IP For The AI Era: Why Execution Saves You Millions On HPC And Edge AI SoCs",
+      "url": "https://semiengineering.com/foundation-ip-for-the-ai-era-why-execution-saves-you-millions-on-hpc-and-edge-ai-socs/",
+      "summary": "How a single, integrated Foundation IP platform reduces re-spin risk and integration delays and helps lower TCO. \nThe post Foundation IP For The AI Era: Why Execution Saves You Millions On HPC And Edge AI SoCs appeared first on Semiconductor Engineering.",
+      "detail": "How a single, integrated Foundation IP platform reduces re-spin risk and integration delays and helps lower TCO. \nThe post Foundation IP For The AI Era: Why Execution Saves You Millions On HPC And Edge AI SoCs appeared first on Semiconductor Engineering.",
+      "source": "SemiEngineering",
+      "source_authority": 0.85,
+      "date": "2026-10-28",
+      "score": 0.6775
+    },
+    {
+      "title": "Foundations of Power Management in the Age of AI",
+      "url": "https://semiengineering.com/foundations-of-power-management-in-the-age-of-ai/",
+      "summary": "Make every layer of your hardware PDN-aware and reach your maximum compute density.\nThe post Foundations of Power Management in the Age of AI appeared first on Semiconductor Engineering.",
+      "detail": "Make every layer of your hardware PDN-aware and reach your maximum compute density.\nThe post Foundations of Power Management in the Age of AI appeared first on Semiconductor Engineering.",
+      "source": "SemiEngineering",
+      "source_authority": 0.85,
+      "date": "2026-10-28",
+      "score": 0.665
+    },
+    {
+      "title": "‘Elonville’: US residents say Musk’s xAI offered to buy homes if they don’t sue over datacenter noise",
+      "url": "https://www.theguardian.com/us-news/2026/oct/28/datacenter-noise-lawsuit-elon-musk-mississippi",
+      "summary": "Several Mississippi homes have been purchased near datacenters and one resident said realtor outlined target to buy more than 400People in a Mississippi neighborhood, many of whom dislike a nearby power plant central to Elon Musk’s artificial intelligence ambitions, have received a stark offer – to sell their houses to his company and make way.Real estate agents have been going door to door in Southaven, Mississippi, on behalf of xAI, touting a deal to purchase houses as long as the owners agree",
+      "detail": "Several Mississippi homes have been purchased near datacenters and one resident said realtor outlined target to buy more than 400People in a Mississippi neighborhood, many of whom dislike a nearby power plant central to Elon Musk’s artificial intelligence ambitions, have received a stark offer – to sell their houses to his company and make way.Real estate agents have been going door to door in Southaven, Mississippi, on behalf of xAI, touting a deal to purchase houses as long as the owners agree",
+      "source": "The Guardian",
+      "source_authority": 0.85,
+      "date": "2026-10-28",
+      "score": 0.66
+    },
+    {
+      "title": "Using AI for Analog Design",
+      "url": "https://semiengineering.com/using-ai-for-analog-design/",
+      "summary": "The growing role of AI in analog and mixed-signal design, where complexity is rising, schedules are tightening, and the cost of mistakes is higher than ever.\nThe post Using AI for Analog Design appeared first on Semiconductor Engineering.",
+      "detail": "The growing role of AI in analog and mixed-signal design, where complexity is rising, schedules are tightening, and the cost of mistakes is higher than ever.\nThe post Using AI for Analog Design appeared first on Semiconductor Engineering.",
+      "source": "SemiEngineering",
+      "source_authority": 0.85,
+      "date": "2026-10-28",
+      "score": 0.64
+    }
+  ],
+  "category4": [
+    {
+      "title": "What Symbotic’s Walmart growth teaches robotics startups about anchor customers",
+      "url": "https://www.therobotreport.com/what-symbotic-growth-with-walmart-teaches-robotics-startups-about-anchor-customers/",
+      "summary": "Symbotic’s growth with Walmart shows how an anchor customer can fund a robotics startup’s scale while creating risks around customer concentration, contractual restrictions and the challenge of building a diversified, repeatable business.\nThe post What Symbotic’s Walmart growth teaches robotics startups about anchor customers appeared first on The Robot Report.",
+      "detail": "Symbotic’s growth with Walmart shows how an anchor customer can fund a robotics startup’s scale while creating risks around customer concentration, contractual restrictions and the challenge of building a diversified, repeatable business.\nThe post What Symbotic’s Walmart growth teaches robotics startups about anchor customers appeared first on The Robot Report.",
+      "source": "The Robot Report",
+      "source_authority": 0.85,
+      "date": "2026-10-29",
+      "score": 0.8575
+    },
+    {
+      "title": "中汽学会发布 2027 年度中国汽车十大技术趋势，含 400Wh/kg 级固态电池进入中试阶段等",
+      "url": "https://www.ithome.com/1/019/353.htm",
+      "summary": "IT之家 10 月 29 日消息，10 月 28 日下午，第三十三届中国汽车工程学会年会开幕式暨全体大会在苏州举行。中国汽车工程学会副秘书长、国汽战略院执行院长郑亚莉在会上发布《2027 年度中国汽车十大技术趋势》。据介绍，十大趋势主要聚焦性能与成本重大突破、新量产落地、应用规模显著提升三大方向，为产业前瞻布局、协同创新和创新资源配置提供了重要参考。IT之家附十大技术趋势如下：单体能量密度 400Wh/kg 级的固态电池进入中试阶段高安全等级 RISC-V 汽车 MCU 迎来量产元年融合型整车运动控制技术应用将加速普及V2G 日均可提供反向灵活调节能力达百万级千瓦镁合金一体化成形车身大铸件将实现小规模应用高级别自动驾驶卡车编队迈入千辆级示范运营分布式轮毂驱动工程化验证全面提速主流量产车型座舱端侧模型部署参数突破 14B网联辅助驾驶从示范验证走向小批量前装金属 3D 打印技术将在材料、设计、效率等方面协同突破▲ 图源中国汽车工程学会",
+      "detail": "IT之家 10 月 29 日消息，10 月 28 日下午，第三十三届中国汽车工程学会年会开幕式暨全体大会在苏州举行。中国汽车工程学会副秘书长、国汽战略院执行院长郑亚莉在会上发布《2027 年度中国汽车十大技术趋势》。据介绍，十大趋势主要聚焦性能与成本重大突破、新量产落地、应用规模显著提升三大方向，为产业前瞻布局、协同创新和创新资源配置提供了重要参考。IT之家附十大技术趋势如下：单体能量密度 400Wh/kg 级的固态电池进入中试阶段高安全等级 RISC-V 汽车 MCU 迎来量产元年融合型整车运动控制技术应用将加速普及V2G 日均可提供反向灵活调节能力达百万级千瓦镁合金一体化成形车身大铸件将实现小规模应用高级别自动驾驶卡车编队迈入千辆级示范运营分布式轮毂驱动工程化验证全面提速主流量产车型座舱端侧模型部署参数突破 14B网联辅助驾驶从示范验证走向小批量前装金属 3D 打印技术将在材料、设计、效率等方面协同突破▲ 图源中国汽车工程学会",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-10-29",
+      "score": 0.8225
+    },
+    {
+      "title": "North American robot orders climb 24.8% in Q3 of 2026, says A3",
+      "url": "https://www.therobotreport.com/north-american-robot-orders-climb-24-8-q3-2026-says-a3/",
+      "summary": "Robot demand from automotive component manufacturers nearly doubled in Q3, as other sectors posted strong gains, reported A3.\nThe post North American robot orders climb 24.8% in Q3 of 2026, says A3 appeared first on The Robot Report.",
+      "detail": "Robot demand from automotive component manufacturers nearly doubled in Q3, as other sectors posted strong gains, reported A3.\nThe post North American robot orders climb 24.8% in Q3 of 2026, says A3 appeared first on The Robot Report.",
+      "source": "The Robot Report",
+      "source_authority": 0.85,
+      "date": "2026-10-29",
+      "score": 0.775
+    },
+    {
+      "title": "WorldOracle Tests Whether World Models Can Reliably Predict Real-World Executions",
+      "url": "https://www.therobotreport.com/worldoracle-tests-whether-world-models-can-reliably-predict-real-world-executions/",
+      "summary": "In one case showcased by WorldOracle, a robot's grasp missed, yet the world model predicted that the robot had successfully picked up the fruit.\nThe post WorldOracle Tests Whether World Models Can Reliably Predict Real-World Executions appeared first on The Robot Report.",
+      "detail": "In one case showcased by WorldOracle, a robot's grasp missed, yet the world model predicted that the robot had successfully picked up the fruit.\nThe post WorldOracle Tests Whether World Models Can Reliably Predict Real-World Executions appeared first on The Robot Report.",
+      "source": "The Robot Report",
+      "source_authority": 0.85,
+      "date": "2026-10-28",
+      "score": 0.73
+    },
+    {
+      "title": "上海：拟依法有序推动自动驾驶技术在出租汽车行业的应用",
+      "url": "https://www.ithome.com/1/019/319.htm",
+      "summary": "IT之家 10 月 29 日消息，近日，《上海市出租汽车条例》公开征求意见。其中提出，依法有序推动自动驾驶技术在出租汽车行业的安全应用。交通、公安等部门依法加强指导和服务。IT之家从《条例》获悉，其中提到，运用大数据、区块链、人工智能等现代信息技术，拓展开发应用场景，提升出租汽车服务与管理的数字化、智能化水平。推进出租汽车行业的绿色低碳转型，鼓励和支持新技术、新能源、新装备在出租汽车行业的创新应用。总量调控方面，其中提出，市交通部门根据经济社会发展情况、市场供需状况、道路通行条件等因素，编制出租汽车总量调控方案，并建立动态监测机制。出租汽车总量调控方案报市人民政府批准后实施。区人民政府可以根据实际需要，设置区域巡游出租车。区域巡游出租车数量纳入出租汽车总量调控范围。服务设施方面，市、区人民政府应当结合乘客出行需求和道路通行条件，统筹布局出租汽车停车点、候客站、巡游出租车营业站、网约车专用上客区域、充电桩等服务设施。有关单位应当按照规定建设、维护出租汽车服务设施，任何单位和个人不得违法占用。运价方面，其中提出，市发展改革、交通、市场监管、人力资源社会保障等部门建立网约车运价监测机制，综合",
+      "detail": "IT之家 10 月 29 日消息，近日，《上海市出租汽车条例》公开征求意见。其中提出，依法有序推动自动驾驶技术在出租汽车行业的安全应用。交通、公安等部门依法加强指导和服务。IT之家从《条例》获悉，其中提到，运用大数据、区块链、人工智能等现代信息技术，拓展开发应用场景，提升出租汽车服务与管理的数字化、智能化水平。推进出租汽车行业的绿色低碳转型，鼓励和支持新技术、新能源、新装备在出租汽车行业的创新应用。总量调控方面，其中提出，市交通部门根据经济社会发展情况、市场供需状况、道路通行条件等因素，编制出租汽车总量调控方案，并建立动态监测机制。出租汽车总量调控方案报市人民政府批准后实施。区人民政府可以根据实际需要，设置区域巡游出租车。区域巡游出租车数量纳入出租汽车总量调控范围。服务设施方面，市、区人民政府应当结合乘客出行需求和道路通行条件，统筹布局出租汽车停车点、候客站、巡游出租车营业站、网约车专用上客区域、充电桩等服务设施。有关单位应当按照规定建设、维护出租汽车服务设施，任何单位和个人不得违法占用。运价方面，其中提出，市发展改革、交通、市场监管、人力资源社会保障等部门建立网约车运价监测机制，综合",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-10-29",
+      "score": 0.71
+    }
+  ]
+}
