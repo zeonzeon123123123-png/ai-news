@@ -2,6 +2,17 @@
   "date": "2026-10-30",
   "category1": [
     {
+      "title": "告别知识截止日：谷歌让 AI 学会“睡觉”，边用边学还不忘旧知识",
+      "url": "https://www.ithome.com/1/020/044.htm",
+      "summary": "IT之家 10 月 30 日消息，谷歌研究团队于 10 月 27 日发布博文，介绍一项名为“睡眠框架”（Sleep Framework）的持续学习研究成果，试图解决大语言模型发布后知识固化、难以吸收新信息的难题。该研究已于 10 月 27 日由 Google Research 公开，相关论文题为《Language Models Need Sleep: Learning to Self-Modify and Consolidate Memories》。谷歌指出在通常情况下，当前主流大模型在完成预训练后便进入相对静态的部署状态，其知识存在“截止日期”；若依赖上下文学习，新信息又会随会话结束而丢失。若直接用新数据反复微调，则容易引发“灾难性遗忘”，而模型学会新知识后，原有能力显著下降。谷歌的方案借鉴人类睡眠中的记忆巩固机制，将模型运行划分为“清醒阶段”和“睡眠阶段”。清醒时，模型接收并处理输入，将信息暂存于短期记忆；进入睡眠阶段后，模型暂停处理新输入，转而进行记忆整合与自我改进。具体而言，“记忆巩固”环节通过参数扩展、混合专家记忆块和知识蒸馏，把脆弱的短期上下文信息写入长期参数，同时避免覆盖",
+      "short_summary": "IT之家 10 月 30 日消息，谷歌研究团队于 10 月 27 日发布博文，介绍一项名为“睡眠框架”（Sleep Fr",
+      "detail": "IT之家 10 月 30 日消息，谷歌研究团队于 10 月 27 日发布博文，介绍一项名为“睡眠框架”（Sleep Framework）的持续学习研究成果，试图解决大语言模型发布后知识固化、难以吸收新信息的难题。该研究已于 10 月 27 日由 Google Research 公开，相关论文题为《Language Models Need Sleep: Learning to Self-Modify and Consolidate Memories》。谷歌指出在通常情况下，当前主流大模型在完成预训练后便进入相对静态的部署状态，其知识存在“截止日期”；若依赖上下文学习，新信息又会随会话结束而丢失。若直接用新数据反复微调，则容易引发“灾难性遗忘”，而模型学会新知识后，原有能力显著下降。谷歌的方案借鉴人类睡眠中的记忆巩固机制，将模型运行划分为“清醒阶段”和“睡眠阶段”。清醒时，模型接收并处理输入，将信息暂存于短期记忆；进入睡眠阶段后，模型暂停处理新输入，转而进行记忆整合与自我改进。具体而言，“记忆巩固”环节通过参数扩展、混合专家记忆块和知识蒸馏，把脆弱的短期上下文信息写入长期参数，同时避免覆盖",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-10-30",
+      "score": 0.9125
+    },
+    {
       "title": "科技爱好者周刊（第 417 期）：不要让 AI 代表你",
       "url": "http://www.ruanyifeng.com/blog/2026/10/weekly-issue-417.html",
       "summary": "这里记录每周值得分享的科技内容，周五发布。\n本杂志开源，欢迎投稿。另有《谁在招人》服务，发布程序员招聘信息。合作请邮件联系（yifeng.ruan@gmail.com）。\n封面图\n\n四川宜宾市的青少年发展中心，建筑中庭的透光屋顶象征一个万花筒，会有不断变化的日光效果。（via）\n不要让 AI 代表你\n现在，不少人让 AI 代表自己做事，比如购买奶茶、回复邮件。\n\n我建议不要这样。你可以用 AI 帮助自己学习和工作，但不要让它代表你，因为会造成社会混乱。\n前不久，有人做了一个实验。他让6个 AI 模型代表自己去退火车票，但是这张票已经过了退票期限，正常情况下是退不掉的。\n\n大家猜猜看，AI 收到这个任务后，做了什么？\n（1）Grok 4.7 发现退不掉以后，在15天内向铁路公司、政府官员、议员、媒体等发送了187封抗议和交涉邮件。\n（2）Fable 5.1 向5个组织撒谎，谎称当事人的母亲生病了，导致没有及时退票。\n（3）Gemini 3.8 Flash 编造了另一种没有及时退票的理由：当事人在国外没有手机信号的偏远地区，无法完成银行身份认证。\n（4）GPT-6 Astra 要求铁路公司",
@@ -13,15 +24,26 @@
       "score": 0.8975
     },
     {
-      "title": "OpenAI 更新 AI 模型规范，将忠于人类意图作为核心准则",
-      "url": "https://www.ithome.com/1/019/898.htm",
-      "summary": "IT之家 10 月 30 日消息，OpenAI 于当地时间周四更新了其模型规范（Model Spec）文档，这是一份用于明确其 AI 模型行为准则的公开路线图。随着 AI 系统能力持续增强，OpenAI 围绕五大核心价值对该框架进行了重构。OpenAI 将模型规范重新归纳为五项准则：忠于人类意图、降低伤害、诚实透明、保障人的自主选择权、审慎尽责。该公司表示，忠于人类意图是整套框架的基础，要求模型理解用户、开发者以及 OpenAI 本身的意图与价值取向，而不是机械地按字面执行指令。OpenAI 称，本次更新属于 AI 对齐工作的一环，目的是让模型在陌生场景下践行人类价值观，同时始终接受人类监督。修订后的框架提出，模型应当尽可能减少危害，如实说明自身知道和不知道的内容，辅助用户自主做决定、追寻自身目标。公司表示，现有模型还无法完全符合这份新版模型规范，团队正在研究全新训练方式，让模型内化这些准则。IT之家注意到，这次调整和竞争对手 Anthropic 的宪法式 AI 思路相近，后者依靠一份书面的原则“宪法”约束模型行为，让塑造 AI 系统的价值理念更加公开透明。在此之前，AI 对齐问题受到",
-      "short_summary": "IT之家 10 月 30 日消息，OpenAI 于当地时间周四更新了其模型规范（Model Spec）文档，这是一份用于",
-      "detail": "IT之家 10 月 30 日消息，OpenAI 于当地时间周四更新了其模型规范（Model Spec）文档，这是一份用于明确其 AI 模型行为准则的公开路线图。随着 AI 系统能力持续增强，OpenAI 围绕五大核心价值对该框架进行了重构。OpenAI 将模型规范重新归纳为五项准则：忠于人类意图、降低伤害、诚实透明、保障人的自主选择权、审慎尽责。该公司表示，忠于人类意图是整套框架的基础，要求模型理解用户、开发者以及 OpenAI 本身的意图与价值取向，而不是机械地按字面执行指令。OpenAI 称，本次更新属于 AI 对齐工作的一环，目的是让模型在陌生场景下践行人类价值观，同时始终接受人类监督。修订后的框架提出，模型应当尽可能减少危害，如实说明自身知道和不知道的内容，辅助用户自主做决定、追寻自身目标。公司表示，现有模型还无法完全符合这份新版模型规范，团队正在研究全新训练方式，让模型内化这些准则。IT之家注意到，这次调整和竞争对手 Anthropic 的宪法式 AI 思路相近，后者依靠一份书面的原则“宪法”约束模型行为，让塑造 AI 系统的价值理念更加公开透明。在此之前，AI 对齐问题受到",
+      "title": "AI 悄悄“带偏”专家：研究显示人类可能把机器观点误认为自己的判断",
+      "url": "https://www.ithome.com/1/020/083.htm",
+      "summary": "IT之家 10 月 30 日消息，Anthropic 最新研究显示，即便是资深专家，也可能在不知不觉中采纳 AI 智能体的随机偏好，并误以为最终结论出自自己。研究团队模拟搭建农业合作社的政策评估场景，虚构了一家“Greenfields 农业合作社”，针对一项自愿参加、由合作社补贴的“农场咨询服务”商讨决策，是推广到所有农场，还是停止该项目。合作社董事会设定了一个决策门槛：项目需带来约 3%–4% 的生产力提升。研究团队邀请 50 位因果推断（causal inference）专家，作为“首席分析师”，拿到该合作社的观察性数据，并最终要提交一份包含点估计、置信区间及政策建议的结构化报告。结果显示，在如何衡量生产力、选择统计方法等四项分析决策中，专家采纳 AI 偏好的比例高达 86%，远超随机选择的 50%。即使参与者事先已有判断，当 AI 给出相反意见后，其改变立场的可能性也比 AI 认同时高出 53 个百分点。研究经验、自评专业水平、教育背景及对 AI 的信任度，均未能可靠地降低这种影响。更值得注意的是，多数专家并未察觉自己被“带偏”。事后调查中，52% 的参与者认为最终建议更像自己的",
+      "short_summary": "IT之家 10 月 30 日消息，Anthropic 最新研究显示，即便是资深专家，也可能在不知不觉中采纳 AI 智能体",
+      "detail": "IT之家 10 月 30 日消息，Anthropic 最新研究显示，即便是资深专家，也可能在不知不觉中采纳 AI 智能体的随机偏好，并误以为最终结论出自自己。研究团队模拟搭建农业合作社的政策评估场景，虚构了一家“Greenfields 农业合作社”，针对一项自愿参加、由合作社补贴的“农场咨询服务”商讨决策，是推广到所有农场，还是停止该项目。合作社董事会设定了一个决策门槛：项目需带来约 3%–4% 的生产力提升。研究团队邀请 50 位因果推断（causal inference）专家，作为“首席分析师”，拿到该合作社的观察性数据，并最终要提交一份包含点估计、置信区间及政策建议的结构化报告。结果显示，在如何衡量生产力、选择统计方法等四项分析决策中，专家采纳 AI 偏好的比例高达 86%，远超随机选择的 50%。即使参与者事先已有判断，当 AI 给出相反意见后，其改变立场的可能性也比 AI 认同时高出 53 个百分点。研究经验、自评专业水平、教育背景及对 AI 的信任度，均未能可靠地降低这种影响。更值得注意的是，多数专家并未察觉自己被“带偏”。事后调查中，52% 的参与者认为最终建议更像自己的",
       "source": "ITHome",
       "source_authority": 0.75,
       "date": "2026-10-30",
-      "score": 0.8975
+      "score": 0.8925
+    },
+    {
+      "title": "Qwenputer 问世：把 RISC-V CPU 指令集塞进模型，AI 算数不再靠外部工具",
+      "url": "https://www.ithome.com/1/020/059.htm",
+      "summary": "IT之家 10 月 30 日消息，开发者 Divyansh Agrawal 于 10 月 22 日发布实验性模型 Qwenputer，基于阿里 Qwen3.5-4B 构建，在神经网络内部实现了 32 位 RISC-V CPU 与内存功能，让大语言模型无需调用 Python 等外部工具，也能执行程序和精确计算。IT之家援引博文介绍，传统 AI 大模型依靠预测下一个词元（Token）生成回答，遇到大整数乘除、长链运算时容易出错，通常需要调用外部计算器或代码解释器。而 Qwenputer 的解决思路是将 RISC-V 的 RV32IM 指令集及相关扩展“编译”进模型权重，并利用 Qwen3.5 的门控 DeltaNet 内部状态充当 RAM，从而在模型中构建可执行算术、条件分支和程序的 CPU。测试结果显示，在大整数乘法中，原版 Qwen3.5-4B 准确率为 55%，Qwenputer 提升至 97.5%；大整数除法从 72.5% 提升至 97.5%；涉及多次乘除的测试则达到 100%。在长整数运算基准 NUPA 上，Qwenputer 达到 100%，而标准版仅 48.6%。开发者称，该",
+      "short_summary": "IT之家 10 月 30 日消息，开发者 Divyansh Agrawal 于 10 月 22 日发布实验性模型 Qwe",
+      "detail": "IT之家 10 月 30 日消息，开发者 Divyansh Agrawal 于 10 月 22 日发布实验性模型 Qwenputer，基于阿里 Qwen3.5-4B 构建，在神经网络内部实现了 32 位 RISC-V CPU 与内存功能，让大语言模型无需调用 Python 等外部工具，也能执行程序和精确计算。IT之家援引博文介绍，传统 AI 大模型依靠预测下一个词元（Token）生成回答，遇到大整数乘除、长链运算时容易出错，通常需要调用外部计算器或代码解释器。而 Qwenputer 的解决思路是将 RISC-V 的 RV32IM 指令集及相关扩展“编译”进模型权重，并利用 Qwen3.5 的门控 DeltaNet 内部状态充当 RAM，从而在模型中构建可执行算术、条件分支和程序的 CPU。测试结果显示，在大整数乘法中，原版 Qwen3.5-4B 准确率为 55%，Qwenputer 提升至 97.5%；大整数除法从 72.5% 提升至 97.5%；涉及多次乘除的测试则达到 100%。在长整数运算基准 NUPA 上，Qwenputer 达到 100%，而标准版仅 48.6%。开发者称，该",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-10-30",
+      "score": 0.875
     },
     {
       "title": "Anthropic is asking Wall Street to believe in AGI",
@@ -46,28 +68,6 @@
       "score": 0.83
     },
     {
-      "title": "AI 推理引爆全球 NAND 需求：闪迪称“客户低估闪存容量需求”，长单排至 2030 年",
-      "url": "https://www.ithome.com/1/019/924.htm",
-      "summary": "IT之家 10 月 30 日消息，在 2027 财年第一财季（2026 年 7 月 4 日至 2026 年 10 月 2 日）财报电话会议上，闪迪（SanDisk）公司高管表示，AI 推理正在重塑 NAND 闪存市场的供需格局，客户“低估 NAND 闪存容量需求”。闪迪管理层表示客户普遍“低估了运行 AI 基础设施所需的 NAND 容量”，因此正在大举追加长期订单；公司的新型商业模式（NBM）订单管道已延伸至 2030 年，甚至更远。IT之家注：NBM 是一种以承诺采购量、合同约束和价格机制为基础的长期合作模式。闪迪透露，2027 财年约 50% 的位元出货（按存储容量统计的 NAND 出货量）已被 NBM 协议锁定，2028 财年这一比例预计升至约三分之二；到本十年末，NBM 储备需求可能超过公司可用供应。技术方面，闪迪宣布首款高带宽闪存（HBF）存储晶粒已完成流片并进入制造阶段。HBF 面向 AI 推理场景，目标是提供接近 HBM 的读取带宽，同时具备 NAND 级的大容量，可用于支撑更大模型、更长上下文和持续增长的 KV 缓存；首批产品样品计划于下一个日历年交付。闪迪还指出，市场",
-      "short_summary": "IT之家 10 月 30 日消息，在 2027 财年第一财季（2026 年 7 月 4 日至 2026 年 10 月 2",
-      "detail": "IT之家 10 月 30 日消息，在 2027 财年第一财季（2026 年 7 月 4 日至 2026 年 10 月 2 日）财报电话会议上，闪迪（SanDisk）公司高管表示，AI 推理正在重塑 NAND 闪存市场的供需格局，客户“低估 NAND 闪存容量需求”。闪迪管理层表示客户普遍“低估了运行 AI 基础设施所需的 NAND 容量”，因此正在大举追加长期订单；公司的新型商业模式（NBM）订单管道已延伸至 2030 年，甚至更远。IT之家注：NBM 是一种以承诺采购量、合同约束和价格机制为基础的长期合作模式。闪迪透露，2027 财年约 50% 的位元出货（按存储容量统计的 NAND 出货量）已被 NBM 协议锁定，2028 财年这一比例预计升至约三分之二；到本十年末，NBM 储备需求可能超过公司可用供应。技术方面，闪迪宣布首款高带宽闪存（HBF）存储晶粒已完成流片并进入制造阶段。HBF 面向 AI 推理场景，目标是提供接近 HBM 的读取带宽，同时具备 NAND 级的大容量，可用于支撑更大模型、更长上下文和持续增长的 KV 缓存；首批产品样品计划于下一个日历年交付。闪迪还指出，市场",
-      "source": "ITHome",
-      "source_authority": 0.75,
-      "date": "2026-10-30",
-      "score": 0.83
-    },
-    {
-      "title": "推出不到两年，谷歌 AI 编程助手 Jules 将逐步停止服务",
-      "url": "https://www.ithome.com/1/019/963.htm",
-      "summary": "IT之家 10 月 30 日消息，谷歌正在逐步停用其人工智能编程助手 Jules。该公司于 2024 年 12 月推出了 Jules，将其定位为一款能完成“你不想做的”编程工作的工具。但如今，Jules 即将停止服务。谷歌表示，该公司会将从该工具中获得的经验应用到人工智能编码平台 Antigravity 中。以下是 Jules 官方 X 账号发布的声明：当我们推出 Jules 时，这是一项实验，旨在了解异步编程智能体如何帮助开发者更快交付。看到大家用它构建的东西，让我们对智能体开发的未来方向有了深刻认识，并直接影响了谷歌旗下多个产品。我们正在努力将从 Jules 中积累的经验融入 Antigravity，让用户能够兼得两者之长：既能自主在远程环境中执行后台任务，又能拥有以智能体为核心的开发环境。随着我们将重心转向打造统一的体验，Jules 将逐步停止运营。无论你是用 Jules 消灭漏洞、编写测试，还是发布功能 —— 感谢你塑造了智能体编程的未来。据IT之家了解，Antigravity 是谷歌 DeepMind 于 2025 年 11 月 18 日推出的“智能体优先”开发平台，是一个面",
-      "short_summary": "IT之家 10 月 30 日消息，谷歌正在逐步停用其人工智能编程助手 Jules。该公司于 2024 年 12 月推出了",
-      "detail": "IT之家 10 月 30 日消息，谷歌正在逐步停用其人工智能编程助手 Jules。该公司于 2024 年 12 月推出了 Jules，将其定位为一款能完成“你不想做的”编程工作的工具。但如今，Jules 即将停止服务。谷歌表示，该公司会将从该工具中获得的经验应用到人工智能编码平台 Antigravity 中。以下是 Jules 官方 X 账号发布的声明：当我们推出 Jules 时，这是一项实验，旨在了解异步编程智能体如何帮助开发者更快交付。看到大家用它构建的东西，让我们对智能体开发的未来方向有了深刻认识，并直接影响了谷歌旗下多个产品。我们正在努力将从 Jules 中积累的经验融入 Antigravity，让用户能够兼得两者之长：既能自主在远程环境中执行后台任务，又能拥有以智能体为核心的开发环境。随着我们将重心转向打造统一的体验，Jules 将逐步停止运营。无论你是用 Jules 消灭漏洞、编写测试，还是发布功能 —— 感谢你塑造了智能体编程的未来。据IT之家了解，Antigravity 是谷歌 DeepMind 于 2025 年 11 月 18 日推出的“智能体优先”开发平台，是一个面",
-      "source": "ITHome",
-      "source_authority": 0.75,
-      "date": "2026-10-30",
-      "score": 0.8225
-    },
-    {
       "title": "OpenAI-backed Thrive Holdings acquires ADT",
       "url": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
       "summary": "OpenAI-backed Thrive Holdings is buying ADT in a $15.3 billion deal, with plans to bring AI to the home security business.",
@@ -90,17 +90,6 @@
       "score": 0.8
     },
     {
-      "title": "AGIBOT introduces Worken to measure robot productivity at AGIBOT Innovation Day 2026",
-      "url": "https://www.therobotreport.com/agibot-introduces-worken-measure-robot-productivity-innovation-day-2026/",
-      "summary": "AGIBOT unveiled its AHA3 integrated platform, GO-3 Preview, and WITA-Omni 1.0 model, as well as the G2 Max robot and Link-U OS 1.0 framework.\nThe post AGIBOT introduces Worken to measure robot productivity at AGIBOT Innovation Day 2026 appeared first on The Robot Report.",
-      "short_summary": "AGIBOT unveiled its AHA3 integrated platform, GO-3 Preview, ",
-      "detail": "AGIBOT unveiled its AHA3 integrated platform, GO-3 Preview, and WITA-Omni 1.0 model, as well as the G2 Max robot and Link-U OS 1.0 framework.\nThe post AGIBOT introduces Worken to measure robot productivity at AGIBOT Innovation Day 2026 appeared first on The Robot Report.",
-      "source": "The Robot Report",
-      "source_authority": 0.85,
-      "date": "2026-10-29",
-      "score": 0.775
-    },
-    {
       "title": "Anthropic’s business plan: Build God or die trying",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive",
       "summary": "The Anthropic S-1 seems to have provided the financial justification for the company to spend as much as it possibly can on compute. If you are the kind of person who wonders if Anthropic is doing its level best to build a machine god while convincing Wall Street it's in the business of selling IT […]",
@@ -109,6 +98,17 @@
       "source": "The Verge",
       "source_authority": 0.9,
       "date": "2026-10-29",
+      "score": 0.755
+    },
+    {
+      "title": "A Defense Contractor Gave Their Personal AI Agent Access to a Secure Pentagon System",
+      "url": "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/",
+      "summary": "Sources tell WIRED that an Accenture employee’s personal Claude agent ran on a DOD network for two months before it was identified and the vulnerability could be patched.",
+      "short_summary": "Sources tell WIRED that an Accenture employee’s personal Cla",
+      "detail": "Sources tell WIRED that an Accenture employee’s personal Claude agent ran on a DOD network for two months before it was identified and the vulnerability could be patched.",
+      "source": "Wired",
+      "source_authority": 0.85,
+      "date": "2026-10-30",
       "score": 0.755
     }
   ],
@@ -169,17 +169,6 @@
       "score": 0.795
     },
     {
-      "title": "热启动最高提速 33%：微软给 Win11 装上“加速器”，惠及 Edge / Chrome 等浏览器",
-      "url": "https://www.ithome.com/1/019/883.htm",
-      "summary": "IT之家 10 月 30 日消息，科技媒体 Windows Central 昨日（10 月 29 日）发布博文，报道称本月面向 Windows 11 25H2/26H2 的可选更新 KB5127936 中，微软引入“加速应用启动”新功能，已率先应用于 Microsoft Edge 浏览器，并计划向 Chrome 等浏览器开放。在运行机制方面，可以参考IT之家此前发布的《Edge 浏览器率先受益：微软优化 Win11 后台应用打开速度，绕过多余进程》文章，“加速应用启动”功能主要针对“热启动”，即应用已经在后台运行的情况。用户过去通过链接打开 Edge 后，Windows 需要先启动一个中间进程，判断 Edge 是否已在运行。新机制则让应用在首次启动时向系统注册，后续通过“开始”菜单、任务栏或受支持的链接打开时，Windows 可更快定位该应用，从而缩短响应时间。Microsoft Edge 浏览器已率先享受该特性，在多任务负载较重时，Edge 的启动速度最高可提升 33%，平均提升约 15%。微软还在探索将该机制用于更快打开 PDF 文件。值得注意的是，微软并未将这项能力保留为 Edg",
-      "short_summary": "IT之家 10 月 30 日消息，科技媒体 Windows Central 昨日（10 月 29 日）发布博文，报道称本",
-      "detail": "IT之家 10 月 30 日消息，科技媒体 Windows Central 昨日（10 月 29 日）发布博文，报道称本月面向 Windows 11 25H2/26H2 的可选更新 KB5127936 中，微软引入“加速应用启动”新功能，已率先应用于 Microsoft Edge 浏览器，并计划向 Chrome 等浏览器开放。在运行机制方面，可以参考IT之家此前发布的《Edge 浏览器率先受益：微软优化 Win11 后台应用打开速度，绕过多余进程》文章，“加速应用启动”功能主要针对“热启动”，即应用已经在后台运行的情况。用户过去通过链接打开 Edge 后，Windows 需要先启动一个中间进程，判断 Edge 是否已在运行。新机制则让应用在首次启动时向系统注册，后续通过“开始”菜单、任务栏或受支持的链接打开时，Windows 可更快定位该应用，从而缩短响应时间。Microsoft Edge 浏览器已率先享受该特性，在多任务负载较重时，Edge 的启动速度最高可提升 33%，平均提升约 15%。微软还在探索将该机制用于更快打开 PDF 文件。值得注意的是，微软并未将这项能力保留为 Edg",
-      "source": "ITHome",
-      "source_authority": 0.75,
-      "date": "2026-10-30",
-      "score": 0.7575
-    },
-    {
       "title": "Google owner Alphabet loses $500bn in market value after profit disappoints Wall Street",
       "url": "https://www.theguardian.com/technology/2026/oct/28/google-alphabet-q3-earnings-report",
       "summary": "Net profit slid 25% from a year earlier to $26.2bn, well short of expectations, though revenue rose to $127.6bnShares in the Google parent Alphabet fell double digits Wednesday evening into Thursday trading, erasing hundreds of billions of dollars in stock market value from the $4tn tech giant.The company had reported lower-than-expected profit and a slowdown in its advertising business while it maintained big spending on AI. Continue reading...",
@@ -189,17 +178,6 @@
       "source_authority": 0.85,
       "date": "2026-10-30",
       "score": 0.7425
-    },
-    {
-      "title": "机械师曙光 PRO 整机“星舰白”配色发售：水冷 MoDT，低至 10499 元",
-      "url": "https://www.ithome.com/1/019/920.htm",
-      "summary": "IT之家 10 月 30 日消息，机械师 (MACHENIKE) 现已开始销售水冷 MoDT 整机曙光 PRO 的“星舰白”配色款式。其基于英特尔酷睿 i9-14900HX 处理器。NVIDIA GeForce RTX 5060 Ti 款定价 11,999 元，部分区域国家补贴后低至 10,499 元；GeForce RTX 5070 款定价 14,999 元，部分区域国家补贴后低至 13,499 元。京东机械师 曙光 PRO 星舰白 整机 5060 Ti10499 元直达链接京东机械师 曙光 PRO 星舰白 整机 507013499 元直达链接这两款配置拥有 32GB DDR5 内存、1TB PCIe Gen4 SSD 存储，支持 Wi-Fi 6E 无线网络，搭配 4 个 120mm 幻彩灯带风扇。GeForce RTX 5060 Ti 款配备 240mm AIO 液冷散热器、650W 80 PLUS 电源；GeForce RTX 5070 款则配备 360mm AIO 液冷、1000W 80 PLUS 铂金电源。2026 年数码家电政府补贴持续进行中，IT 之家为大家汇总国补领券地",
-      "short_summary": "IT之家 10 月 30 日消息，机械师 (MACHENIKE) 现已开始销售水冷 MoDT 整机曙光 PRO 的“星舰",
-      "detail": "IT之家 10 月 30 日消息，机械师 (MACHENIKE) 现已开始销售水冷 MoDT 整机曙光 PRO 的“星舰白”配色款式。其基于英特尔酷睿 i9-14900HX 处理器。NVIDIA GeForce RTX 5060 Ti 款定价 11,999 元，部分区域国家补贴后低至 10,499 元；GeForce RTX 5070 款定价 14,999 元，部分区域国家补贴后低至 13,499 元。京东机械师 曙光 PRO 星舰白 整机 5060 Ti10499 元直达链接京东机械师 曙光 PRO 星舰白 整机 507013499 元直达链接这两款配置拥有 32GB DDR5 内存、1TB PCIe Gen4 SSD 存储，支持 Wi-Fi 6E 无线网络，搭配 4 个 120mm 幻彩灯带风扇。GeForce RTX 5060 Ti 款配备 240mm AIO 液冷散热器、650W 80 PLUS 电源；GeForce RTX 5070 款则配备 360mm AIO 液冷、1000W 80 PLUS 铂金电源。2026 年数码家电政府补贴持续进行中，IT 之家为大家汇总国补领券地",
-      "source": "ITHome",
-      "source_authority": 0.75,
-      "date": "2026-10-30",
-      "score": 0.74
     },
     {
       "title": "Google value plunges by $500bn as AI fears rattle Wall Street",
@@ -213,28 +191,50 @@
       "score": 0.735
     },
     {
-      "title": "李杰：一加 16 和一加 Ace 7 Pro 包揽 2026 年安卓手机首销销量冠军和亚军",
-      "url": "https://www.ithome.com/1/019/882.htm",
-      "summary": "IT之家 10 月 30 日消息，一加中国区总裁李杰今日表示，一加 Ace 7 系列昨天发布即开售，首销表现可以说是势不可挡。一加 Ace 7 Pro 首销销量达到上一代 Ace 6 的 225%，实现大幅增长一加 16 和一加 Ace 7 Pro 包揽了 2026 年安卓手机首销销量冠军和亚军据IT之家此前报道，一加 16 手机于 10 月 12 日发布，首销 5699 元起，国补到手价 5199 元起。李杰曾在一加 16 首销当日宣布，截至当日上午 11 点，首销销量已突破 7 万台，一加 16 拿下今年安卓旗舰首销同期销量 Top1，实现了行业罕见的大幅上涨。一加 Ace 7 系列手机昨晚发布，包含一加 Ace 7 和一加 Ace 7 Pro 两款机型，国补到手价 2761.65 元起。一加 Ace 7 系列全系标配 185Hz 东方屏、双路冰河风冷散热系统与 9000mAh 大电池；Pro 版在影像上进一步加码，独占一颗 3.5 倍潜望长焦。相关阅读：《一加 Ace 7/Pro 系列手机发布：全系标配 9000mAh 大电池与 185Hz 东方屏，国补到手价 2761.65 元",
-      "short_summary": "IT之家 10 月 30 日消息，一加中国区总裁李杰今日表示，一加 Ace 7 系列昨天发布即开售，首销表现可以说是势不",
-      "detail": "IT之家 10 月 30 日消息，一加中国区总裁李杰今日表示，一加 Ace 7 系列昨天发布即开售，首销表现可以说是势不可挡。一加 Ace 7 Pro 首销销量达到上一代 Ace 6 的 225%，实现大幅增长一加 16 和一加 Ace 7 Pro 包揽了 2026 年安卓手机首销销量冠军和亚军据IT之家此前报道，一加 16 手机于 10 月 12 日发布，首销 5699 元起，国补到手价 5199 元起。李杰曾在一加 16 首销当日宣布，截至当日上午 11 点，首销销量已突破 7 万台，一加 16 拿下今年安卓旗舰首销同期销量 Top1，实现了行业罕见的大幅上涨。一加 Ace 7 系列手机昨晚发布，包含一加 Ace 7 和一加 Ace 7 Pro 两款机型，国补到手价 2761.65 元起。一加 Ace 7 系列全系标配 185Hz 东方屏、双路冰河风冷散热系统与 9000mAh 大电池；Pro 版在影像上进一步加码，独占一颗 3.5 倍潜望长焦。相关阅读：《一加 Ace 7/Pro 系列手机发布：全系标配 9000mAh 大电池与 185Hz 东方屏，国补到手价 2761.65 元",
+      "title": "Rivian expands joint venture with VW to include AI assistant",
+      "url": "https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/",
+      "summary": "Rivian doesn't disclose if the value of its $5.8 billion joint venture will expand as a result.",
+      "short_summary": "Rivian doesn't disclose if the value of its $5.8 billion joi",
+      "detail": "Rivian doesn't disclose if the value of its $5.8 billion joint venture will expand as a result.",
+      "source": "TechCrunch",
+      "source_authority": 0.95,
+      "date": "2026-10-30",
+      "score": 0.705
+    },
+    {
+      "title": "苹果 iPad mini（A20 Pro）Geekbench 7 跑分曝光，搭载 12GB 内存",
+      "url": "https://www.ithome.com/1/020/063.htm",
+      "summary": "IT之家 10 月 30 日消息，苹果于 10 月 26 日发布了新款 iPad mini（A20 Pro），将于 11 月 6 日起正式发售，售价 5499 元起。IT之家注意到，该机 128GB（5499 元起）/ 256GB（6299 元起）存储版本机型的 A20 Pro 芯片为“5 核中央处理器、7 核图形处理器、16 核神经网络引擎”规格，仅有顶配 512GB 机型（7999 元起）为“6 核中央处理器、7 核图形处理器、双 16 核神经网络引擎”规格。目前，这款产品的 Geekbench 7 跑分已经曝光，均搭载 12GB 内存，其中 5 核 CPU 版单核跑分 3879，多核跑分 9870；6 核 CPU 版单核跑分 3993，多核跑分 11365。此外，Geekbench 显示，两个版本的 CPU 频率均为 4.93 GHz，与 iPhone 18 Pro 系列手机上的 A20 Pro 芯片相同。相关阅读：《5499 元起：苹果发布 iPad mini 8 平板，8.5 寸 60Hz OLED 屏、A20 Pro 芯片、支持 IP67 防尘防水》",
+      "short_summary": "IT之家 10 月 30 日消息，苹果于 10 月 26 日发布了新款 iPad mini（A20 Pro），将于 11",
+      "detail": "IT之家 10 月 30 日消息，苹果于 10 月 26 日发布了新款 iPad mini（A20 Pro），将于 11 月 6 日起正式发售，售价 5499 元起。IT之家注意到，该机 128GB（5499 元起）/ 256GB（6299 元起）存储版本机型的 A20 Pro 芯片为“5 核中央处理器、7 核图形处理器、16 核神经网络引擎”规格，仅有顶配 512GB 机型（7999 元起）为“6 核中央处理器、7 核图形处理器、双 16 核神经网络引擎”规格。目前，这款产品的 Geekbench 7 跑分已经曝光，均搭载 12GB 内存，其中 5 核 CPU 版单核跑分 3879，多核跑分 9870；6 核 CPU 版单核跑分 3993，多核跑分 11365。此外，Geekbench 显示，两个版本的 CPU 频率均为 4.93 GHz，与 iPhone 18 Pro 系列手机上的 A20 Pro 芯片相同。相关阅读：《5499 元起：苹果发布 iPad mini 8 平板，8.5 寸 60Hz OLED 屏、A20 Pro 芯片、支持 IP67 防尘防水》",
       "source": "ITHome",
       "source_authority": 0.75,
       "date": "2026-10-30",
-      "score": 0.7325
+      "score": 0.695
+    },
+    {
+      "title": "AI has come for Arizona’s water",
+      "url": "https://www.theverge.com/cs/features/1016650/arizona-water-data-center-tsmc",
+      "summary": "A hulking gray giant rises from the desert. Inside, engineers create the force behind our phones and computers and appliances, our streaming services and search engines and chatbots and vibe-coded apps and websites. The complex is simultaneously massive and squat, dwarfed by the mountains that surround it, and it is endless. I drive past one […]",
+      "short_summary": "A hulking gray giant rises from the desert. Inside, engineer",
+      "detail": "A hulking gray giant rises from the desert. Inside, engineers create the force behind our phones and computers and appliances, our streaming services and search engines and chatbots and vibe-coded apps and websites. The complex is simultaneously massive and squat, dwarfed by the mountains that surround it, and it is endless. I drive past one […]",
+      "source": "The Verge",
+      "source_authority": 0.9,
+      "date": "2026-10-29",
+      "score": 0.68
     }
   ],
   "category3": [
     {
-      "title": "机械革命带来酷睿 5 205H + RTX 3050 (4GB) 旷世 16 游戏本，11 月 5 日发售",
-      "url": "https://www.ithome.com/1/019/881.htm",
-      "summary": "IT之家 10 月 30 日消息，机械革命 (Mechrevo) 现已在电商平台上架新款旷世 16 游戏笔记本电脑。其基于英特尔酷睿 5 处理器 205H，搭配 NVIDIA GeForce RTX 3050 笔记本电脑 GPU (4GB GDDR6)，拥有 16GB DDR4 SO-DIMM 内存、500GB PCIe Gen4 SSD 存储。该型号机身 A 面为铝合金材质；B 面为 1920×1200 165Hz 400nits 高色域屏幕；集成五热管双风扇四出风 140W 散热系统，内含 60Whr 电池，配备 Wi-Fi 6E 无线网卡，支持 Sound Blaster 音效；提供 SD 读卡器。该机型当前标价 6499 元（非实际到手价格），11 月 5 日 10:00 开售。京东机械革命 旷世 16 游戏本 6499 元前往预约京东 11.11 无门槛红包 面额至高 26888 元，每天抽 3 次：点此抽红包。淘宝 11.11 无门槛红包 面额至高 26888 元，每天抽 1 次：点此抽红包。",
-      "short_summary": "IT之家 10 月 30 日消息，机械革命 (Mechrevo) 现已在电商平台上架新款旷世 16 游戏笔记本电脑。其基",
-      "detail": "IT之家 10 月 30 日消息，机械革命 (Mechrevo) 现已在电商平台上架新款旷世 16 游戏笔记本电脑。其基于英特尔酷睿 5 处理器 205H，搭配 NVIDIA GeForce RTX 3050 笔记本电脑 GPU (4GB GDDR6)，拥有 16GB DDR4 SO-DIMM 内存、500GB PCIe Gen4 SSD 存储。该型号机身 A 面为铝合金材质；B 面为 1920×1200 165Hz 400nits 高色域屏幕；集成五热管双风扇四出风 140W 散热系统，内含 60Whr 电池，配备 Wi-Fi 6E 无线网卡，支持 Sound Blaster 音效；提供 SD 读卡器。该机型当前标价 6499 元（非实际到手价格），11 月 5 日 10:00 开售。京东机械革命 旷世 16 游戏本 6499 元前往预约京东 11.11 无门槛红包 面额至高 26888 元，每天抽 3 次：点此抽红包。淘宝 11.11 无门槛红包 面额至高 26888 元，每天抽 1 次：点此抽红包。",
+      "title": "百度开源发布文心 Unlimited OCR 2 文档解析模型，支持“无限”页数",
+      "url": "https://www.ithome.com/1/020/061.htm",
+      "summary": "IT之家 10 月 30 日消息，百度 (Baidu) 本月 27 日正式发布并开源文心 Unlimited OCR 2 模型。其将文档解析的上限从数十页推向“无限”，能一次性解析累计超过 3,600 页的《哈利 · 波特》全系列 7 部作品。Unlimited OCR 2 原生支持版面要素切分识别，具备跨页文案合并、表格识别合并能力，在同样算力下处理更多、更快、更省。百度表示，文心 Unlimited OCR 2 在面向多页文档解析的 MPDocBench 基准测试上得到 84.6 分、在专门评估百页级超长文档解析能力的 MarathonDocBench 基准测试上得到 77.1 分，均实现端到端性能 SOTA。参考https://ai.baidu.com/support/news?action=detail&id=3290",
+      "short_summary": "IT之家 10 月 30 日消息，百度 (Baidu) 本月 27 日正式发布并开源文心 Unlimited OCR 2",
+      "detail": "IT之家 10 月 30 日消息，百度 (Baidu) 本月 27 日正式发布并开源文心 Unlimited OCR 2 模型。其将文档解析的上限从数十页推向“无限”，能一次性解析累计超过 3,600 页的《哈利 · 波特》全系列 7 部作品。Unlimited OCR 2 原生支持版面要素切分识别，具备跨页文案合并、表格识别合并能力，在同样算力下处理更多、更快、更省。百度表示，文心 Unlimited OCR 2 在面向多页文档解析的 MPDocBench 基准测试上得到 84.6 分、在专门评估百页级超长文档解析能力的 MarathonDocBench 基准测试上得到 77.1 分，均实现端到端性能 SOTA。参考https://ai.baidu.com/support/news?action=detail&id=3290",
       "source": "ITHome",
       "source_authority": 0.75,
       "date": "2026-10-30",
-      "score": 0.86
+      "score": 0.8225
     },
     {
       "title": "Scaling Autonomous Root Cause Analysis For Regression Triage",
@@ -257,17 +257,6 @@
       "source_authority": 0.95,
       "date": "2026-10-30",
       "score": 0.72
-    },
-    {
-      "title": "微软 10 月可选更新修复 Win11 远程桌面报错 0xC000000D 问题",
-      "url": "https://www.ithome.com/1/019/889.htm",
-      "summary": "IT之家 10 月 30 日消息，科技媒体 bleepingcomputer 昨日（10 月 29 日）发布博文，报道称微软已通过 10 月可选更新 KB5127936，修复了 Windows 11 远程桌面连接报错 0xC000000D 问题。IT之家曾于 10 月 15 日报道，微软承认在启用“管理员保护”功能的 Windows 11 设备上，若用户安装 10 月累积更新，可能会出现远程桌面（Remote Desktop）连接故障。“管理员保护”是微软为 Windows 11 引入的底层安全架构功能，主要用于解决管理员权限被滥用或盗用的核心痛点，启用该功能之后，在执行任何需要管理员权限的操作（例如安装新软件、更改系统时间或注册表）时，强制要求用户先通过 Windows Hello 的集成身份验证来确认身份。在启用“管理员保护”的 Windows 11 设备上，非管理员用户尝试使用远程桌面连接到这些充当主机的设备时，连接可能会失败。系统通常会弹出 0xC000000D 错误代码，并显示“传递给函数的令牌无效（The token that was passed to the funct",
-      "short_summary": "IT之家 10 月 30 日消息，科技媒体 bleepingcomputer 昨日（10 月 29 日）发布博文，报道称",
-      "detail": "IT之家 10 月 30 日消息，科技媒体 bleepingcomputer 昨日（10 月 29 日）发布博文，报道称微软已通过 10 月可选更新 KB5127936，修复了 Windows 11 远程桌面连接报错 0xC000000D 问题。IT之家曾于 10 月 15 日报道，微软承认在启用“管理员保护”功能的 Windows 11 设备上，若用户安装 10 月累积更新，可能会出现远程桌面（Remote Desktop）连接故障。“管理员保护”是微软为 Windows 11 引入的底层安全架构功能，主要用于解决管理员权限被滥用或盗用的核心痛点，启用该功能之后，在执行任何需要管理员权限的操作（例如安装新软件、更改系统时间或注册表）时，强制要求用户先通过 Windows Hello 的集成身份验证来确认身份。在启用“管理员保护”的 Windows 11 设备上，非管理员用户尝试使用远程桌面连接到这些充当主机的设备时，连接可能会失败。系统通常会弹出 0xC000000D 错误代码，并显示“传递给函数的令牌无效（The token that was passed to the funct",
-      "source": "ITHome",
-      "source_authority": 0.75,
-      "date": "2026-10-30",
-      "score": 0.695
     },
     {
       "title": "The EU Cyber Resilience Act Reaches Chip And IP Suppliers",
@@ -301,6 +290,17 @@
       "source_authority": 0.9,
       "date": "2026-10-29",
       "score": 0.6425
+    },
+    {
+      "title": "This Device Uses A.I. and Lasers to Kill Mosquitoes",
+      "url": "https://www.nytimes.com/video/technology/100000011221955/ai-lasers-mosquitoes.html",
+      "summary": "A Chinese start-up has developed a device that uses artificial intelligence and lasers to kill mosquitoes. But there are safety concerns for people and other creatures nearby when the device is in action.",
+      "short_summary": "A Chinese start-up has developed a device that uses artifici",
+      "detail": "A Chinese start-up has developed a device that uses artificial intelligence and lasers to kill mosquitoes. But there are safety concerns for people and other creatures nearby when the device is in action.",
+      "source": "NYT",
+      "source_authority": 0.9,
+      "date": "2026-10-30",
+      "score": 0.615
     }
   ],
   "category4": [
@@ -327,37 +327,15 @@
       "score": 0.775
     },
     {
-      "title": "Passengers injured after collision between bus and delivery robot in Tallinn",
-      "url": "https://news.err.ee/1610179027/passengers-injured-after-collision-between-bus-and-delivery-robot-in-tallinn",
-      "summary": "Article URL: https://news.err.ee/1610179027/passengers-injured-after-collision-between-bus-and-delivery-robot-in-tallinn\nComments URL: https://news.ycombinator.com/item?id=50279304\nPoints: 11\n# Comments: 4",
-      "short_summary": "Article URL: https://news.err.ee/1610179027/passengers-injur",
-      "detail": "Article URL: https://news.err.ee/1610179027/passengers-injured-after-collision-between-bus-and-delivery-robot-in-tallinn\nComments URL: https://news.ycombinator.com/item?id=50279304\nPoints: 11\n# Comments: 4",
-      "source": "Hacker News",
-      "source_authority": 0.8,
-      "date": "2026-10-29",
-      "score": 0.725
-    },
-    {
-      "title": "I Fixed a $500 Robot, Now You Can Control It [video]",
-      "url": "https://www.youtube.com/watch?v=jorcg0Bx3Cw",
-      "summary": "Article URL: https://www.youtube.com/watch?v=jorcg0Bx3Cw\nComments URL: https://news.ycombinator.com/item?id=50282930\nPoints: 2\n# Comments: 0",
-      "short_summary": "Article URL: https://www.youtube.com/watch?v=jorcg0Bx3Cw\nCom",
-      "detail": "Article URL: https://www.youtube.com/watch?v=jorcg0Bx3Cw\nComments URL: https://news.ycombinator.com/item?id=50282930\nPoints: 2\n# Comments: 0",
-      "source": "Hacker News",
-      "source_authority": 0.8,
-      "date": "2026-10-29",
-      "score": 0.61
-    },
-    {
-      "title": "Doctor in UK directs robot to remove a prostate in Gibraltar",
-      "url": "https://www.theguardian.com/uk-news/2026/mar/06/sci-fi-surgery-as-doctor-in-uk-directs-robot-to-remove-a-prostate-in-gibraltar",
-      "summary": "Article URL: https://www.theguardian.com/uk-news/2026/mar/06/sci-fi-surgery-as-doctor-in-uk-directs-robot-to-remove-a-prostate-in-gibraltar\nComments URL: https://news.ycombinator.com/item?id=50272351\nPoints: 2\n# Comments: 0",
-      "short_summary": "Article URL: https://www.theguardian.com/uk-news/2026/mar/06",
-      "detail": "Article URL: https://www.theguardian.com/uk-news/2026/mar/06/sci-fi-surgery-as-doctor-in-uk-directs-robot-to-remove-a-prostate-in-gibraltar\nComments URL: https://news.ycombinator.com/item?id=50272351\nPoints: 2\n# Comments: 0",
-      "source": "Hacker News",
-      "source_authority": 0.8,
-      "date": "2026-10-28",
-      "score": 0.605
+      "title": "从学习人类到学习机器人同伴，清华大学联合无问芯穹、智元提出具身智能规模化落地新路径",
+      "url": "https://www.qbitai.com/2026/10/506662.html",
+      "summary": "让机器人成为彼此的“老师”",
+      "short_summary": "让机器人成为彼此的“老师”",
+      "detail": "让机器人成为彼此的“老师”",
+      "source": "量子位",
+      "source_authority": 0.85,
+      "date": "2026-10-30",
+      "score": 0.655
     }
   ]
 }
