@@ -1,0 +1,171 @@
+{
+  "date": "2026-11-01",
+  "category1": [
+    {
+      "title": "华境 S 10 月交付 7507 台，连续 6 个月增长",
+      "url": "https://www.ithome.com/1/020/658.htm",
+      "summary": "IT之家 11 月 1 日消息，华境汽车官方今日宣布，旗下华境 S 10 月交付 7507 台，交付量逆势攀升，连续 6 个月稳步增长。据IT之家了解，华境 S 是上汽通用五菱与华为合作的首款搭载华为乾崑科技旗舰大六座 SUV，2026 年 9 月交付 7416 台、8 月交付 7306 台、7 月交付 7203 台、6 月交付 5689 台。华境 S 全系标配华为乾崑智驾 ADS Pro 增强版与鸿蒙座舱。该车已于 5 月 8 日正式上市，长 5235mm / 宽 1999mm / 高 1800mm，轴距 3105mm。9 月 12 日，华境 S 新增 4 款配置，全系超级置换价 14.98 万元-19.68 万元。新增的 4 款配置主要在鸿蒙座舱方面迎来升级，搭载 MoLA 2.0 混合大模型架构，支持方言交流识别，车机 UI 迎来焕新。",
+      "detail": "IT之家 11 月 1 日消息，华境汽车官方今日宣布，旗下华境 S 10 月交付 7507 台，交付量逆势攀升，连续 6 个月稳步增长。据IT之家了解，华境 S 是上汽通用五菱与华为合作的首款搭载华为乾崑科技旗舰大六座 SUV，2026 年 9 月交付 7416 台、8 月交付 7306 台、7 月交付 7203 台、6 月交付 5689 台。华境 S 全系标配华为乾崑智驾 ADS Pro 增强版与鸿蒙座舱。该车已于 5 月 8 日正式上市，长 5235mm / 宽 1999mm / 高 1800mm，轴距 3105mm。9 月 12 日，华境 S 新增 4 款配置，全系超级置换价 14.98 万元-19.68 万元。新增的 4 款配置主要在鸿蒙座舱方面迎来升级，搭载 MoLA 2.0 混合大模型架构，支持方言交流识别，车机 UI 迎来焕新。",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-11-01",
+      "score": 0.8225
+    },
+    {
+      "title": "商汤开源 SenseNova Loop-9B-Preview，宣称媲美 27B 参数大小模型",
+      "url": "https://www.ithome.com/1/020/654.htm",
+      "summary": "IT之家 11 月 1 日消息，商汤科技 10 月 30 日宣布开源商汤日日新 SenseNova Loop-9B-Preview。官方表示，该模型采用 Looped Transformer 架构，引入循环计算、扩展模型的有效计算深度，并探索更充分的信息交互机制，提升模型在复杂任务上的处理能力，在仅 9B 的有限参数规模下，媲美 27B 参数大小模型。SenseNova Loop-9B-Preview 以 9B 尺度模型为基座，保留首尾各 4 层原始解码器模块，将中间层改造为参数共享的循环计算模块，通过多轮迭代扩展有效计算深度。在此基础上，模型进一步探索循环计算中的信息传递机制，尝试引入 mHC（Manifold-Constrained Hyper-Connections），利用多路残差连接与受约束的信息混合，增强特征交互并维持信号传播的稳定性。据介绍，在当前评测设置下，模型在代码生成、办公场景和智能体任务等多个方向上均优于其他模型，并在 WorkBuddy Bench、RaccoonPPT Bench 和 AutomationBench 等评测中进一步超过 Qwen3.5-27B。这",
+      "detail": "IT之家 11 月 1 日消息，商汤科技 10 月 30 日宣布开源商汤日日新 SenseNova Loop-9B-Preview。官方表示，该模型采用 Looped Transformer 架构，引入循环计算、扩展模型的有效计算深度，并探索更充分的信息交互机制，提升模型在复杂任务上的处理能力，在仅 9B 的有限参数规模下，媲美 27B 参数大小模型。SenseNova Loop-9B-Preview 以 9B 尺度模型为基座，保留首尾各 4 层原始解码器模块，将中间层改造为参数共享的循环计算模块，通过多轮迭代扩展有效计算深度。在此基础上，模型进一步探索循环计算中的信息传递机制，尝试引入 mHC（Manifold-Constrained Hyper-Connections），利用多路残差连接与受约束的信息混合，增强特征交互并维持信号传播的稳定性。据介绍，在当前评测设置下，模型在代码生成、办公场景和智能体任务等多个方向上均优于其他模型，并在 WorkBuddy Bench、RaccoonPPT Bench 和 AutomationBench 等评测中进一步超过 Qwen3.5-27B。这",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-11-01",
+      "score": 0.785
+    },
+    {
+      "title": "Is AI your new wingman? How chatbots are transforming dating",
+      "url": "https://www.theguardian.com/lifeandstyle/2026/oct/31/ai-your-wingman-chatbots-transforming-dating",
+      "summary": "Almost 40% of British singles have used AI for romantic advice, from writing messages to assessing potential partnersAfter Sam’s ex joked that her sister found him ugly, he turned to AI. Google Gemini had a look at the photo and politely disagreed. AI has been his wingman ever since, aiding his dating life by giving pep talks and vetting his messages.The 27-year-old from Stoke-on-Trent is not the only AI-assisted romantic – a survey of 3,000 British singles published this month by Match Group, t",
+      "detail": "Almost 40% of British singles have used AI for romantic advice, from writing messages to assessing potential partnersAfter Sam’s ex joked that her sister found him ugly, he turned to AI. Google Gemini had a look at the photo and politely disagreed. AI has been his wingman ever since, aiding his dating life by giving pep talks and vetting his messages.The 27-year-old from Stoke-on-Trent is not the only AI-assisted romantic – a survey of 3,000 British singles published this month by Match Group, t",
+      "source": "The Guardian",
+      "source_authority": 0.85,
+      "date": "2026-10-31",
+      "score": 0.75
+    },
+    {
+      "title": "OpenAI reportedly lowers funding target for new round",
+      "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+      "summary": "OpenAI’s latest funding round doesn't seem to be living up to expectations.",
+      "detail": "OpenAI’s latest funding round doesn't seem to be living up to expectations.",
+      "source": "TechCrunch",
+      "source_authority": 0.95,
+      "date": "2026-11-01",
+      "score": 0.7425
+    },
+    {
+      "title": "全新奖励计划海外推出后，曝特斯拉砍掉买车推荐奖励",
+      "url": "https://www.ithome.com/1/020/665.htm",
+      "summary": "IT之家 11 月 1 日消息，据汽车媒体 Electrek 前天报道，特斯拉现已在美国推出全新推荐奖励计划，车主推荐好友购买车辆不再获得购车奖励，而是获得一个月 FSD 监督版使用权益。如果推荐对象随后开始订阅 FSD，推荐人可获得 1 个月免费 FSD 或价值 99 美元（IT之家注：现汇率约合 660.4 元人民币）的特斯拉积分。据报道，特斯拉的「推荐有礼」计划条款中，已经不再有购车奖励礼品相关条文。等于说使用朋友的推荐码购买特斯拉车型时，不会有任何奖励发放。目前购买者仅可以获得太阳能电池板奖励；推荐人则可以通过太阳能产品、首次预约试驾和全新的 FSD 推荐计划获得奖励。不过，特斯拉暂时还没有官宣这项调整，相关页面最后更新日期为 2026 年 2 月 24 日。因此我们尚不清楚，特斯拉究竟何时将汽车从奖励名单中移除。作为参考，特斯拉上次推出恢复购车奖励计划是 2024 年 8 月，购车者通过推荐码购买 Model S、Model X、Model Y 或 Model 3，可以获得 1,000 美元（现汇率约合 6,671 元人民币）优惠；推荐人则可以获得 500 美元（现汇率约合",
+      "detail": "IT之家 11 月 1 日消息，据汽车媒体 Electrek 前天报道，特斯拉现已在美国推出全新推荐奖励计划，车主推荐好友购买车辆不再获得购车奖励，而是获得一个月 FSD 监督版使用权益。如果推荐对象随后开始订阅 FSD，推荐人可获得 1 个月免费 FSD 或价值 99 美元（IT之家注：现汇率约合 660.4 元人民币）的特斯拉积分。据报道，特斯拉的「推荐有礼」计划条款中，已经不再有购车奖励礼品相关条文。等于说使用朋友的推荐码购买特斯拉车型时，不会有任何奖励发放。目前购买者仅可以获得太阳能电池板奖励；推荐人则可以通过太阳能产品、首次预约试驾和全新的 FSD 推荐计划获得奖励。不过，特斯拉暂时还没有官宣这项调整，相关页面最后更新日期为 2026 年 2 月 24 日。因此我们尚不清楚，特斯拉究竟何时将汽车从奖励名单中移除。作为参考，特斯拉上次推出恢复购车奖励计划是 2024 年 8 月，购车者通过推荐码购买 Model S、Model X、Model Y 或 Model 3，可以获得 1,000 美元（现汇率约合 6,671 元人民币）优惠；推荐人则可以获得 500 美元（现汇率约合",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-11-01",
+      "score": 0.7325
+    }
+  ],
+  "category2": [
+    {
+      "title": "小米汽车 2026 年 10 月交付量超过 50,000 台",
+      "url": "https://www.ithome.com/1/020/656.htm",
+      "summary": "IT之家 11 月 1 日消息，小米汽车官方刚刚宣布，2026 年 10 月，小米汽车交付量超过 50,000 台。在 7 月 30 日的小米澎程技术发布会上，小米创办人、董事长兼 CEO 雷军表示，2 年半的时间，小米汽车发布了两款车 —— 小米 SU7 和小米 YU7。这两款车都成了爆品，并且累计交付 70 多万台。IT之家附小米汽车 2026 年各月交付量：1 月交付量超 39,000 台2 月交付量超 20,000 台3 月交付量超 20,000 台4 月交付量超 30,000 台5 月交付量超 30,000 台6 月交付量超 30,000 台7 月交付量超 30,000 台8 月交付量超 30,000 台9 月交付量超 40,000 台10 月交付量超 50,000 台小米汽车的全新系列 —— 小米澎程两款新车 N90 Max / Max 探索版、N70 Pro / Max 今年 9 月正式上市并启动交付。当月晚些时候，雷军透露，小米通常会在首销月结束的时候公布整个首销月的数字。具体到澎程的销量上，澎程系列 4 分钟锁单突破 1 万台、上市 30 天锁单超过 7 万台。",
+      "detail": "IT之家 11 月 1 日消息，小米汽车官方刚刚宣布，2026 年 10 月，小米汽车交付量超过 50,000 台。在 7 月 30 日的小米澎程技术发布会上，小米创办人、董事长兼 CEO 雷军表示，2 年半的时间，小米汽车发布了两款车 —— 小米 SU7 和小米 YU7。这两款车都成了爆品，并且累计交付 70 多万台。IT之家附小米汽车 2026 年各月交付量：1 月交付量超 39,000 台2 月交付量超 20,000 台3 月交付量超 20,000 台4 月交付量超 30,000 台5 月交付量超 30,000 台6 月交付量超 30,000 台7 月交付量超 30,000 台8 月交付量超 30,000 台9 月交付量超 40,000 台10 月交付量超 50,000 台小米汽车的全新系列 —— 小米澎程两款新车 N90 Max / Max 探索版、N70 Pro / Max 今年 9 月正式上市并启动交付。当月晚些时候，雷军透露，小米通常会在首销月结束的时候公布整个首销月的数字。具体到澎程的销量上，澎程系列 4 分钟锁单突破 1 万台、上市 30 天锁单超过 7 万台。",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-11-01",
+      "score": 0.7575
+    },
+    {
+      "title": "小米澎程少量 N70 现车可选：享 3 年 0 息 / 5 年分期前 3 年 0 息等方案",
+      "url": "https://www.ithome.com/1/020/668.htm",
+      "summary": "IT之家 11 月 1 日消息，小米汽车官方今日宣布，2026 年 10 月，小米汽车交付量超过 50,000 台。IT之家注意到，小米汽车 App 显示，少量 N70 现车可选。2026 年 11 月 1 日 0 点至 2026 年 11 月 30 日 24 点期间下定，可享以下权益：5 年分期 3 年 0 息 / 3 年 0 息 / 轻松还 / 5 年低息金融方案 / 6,000 元保险补贴（其中仅轻松还 / 5 年低息金融方案与保险补贴可同享）。5 年分期 3 年 0 息金融方案，首付 7.99 万元起，前 3 年 0 息，月供 2,167 元起；后 2 年年化费率 1.99%（近似年化利率 3.80%）起3 年 0 息金融方案，首付 7.99 万元起，月供 3,611 元起小米汽车的全新系列 —— 小米澎程两款新车 N90 Max / Max 探索版、N70 Pro / Max 今年 9 月正式上市并启动交付。小米此前公布的数据显示，澎程系列 4 分钟锁单突破 1 万台、上市 30 天锁单超过 7 万台。",
+      "detail": "IT之家 11 月 1 日消息，小米汽车官方今日宣布，2026 年 10 月，小米汽车交付量超过 50,000 台。IT之家注意到，小米汽车 App 显示，少量 N70 现车可选。2026 年 11 月 1 日 0 点至 2026 年 11 月 30 日 24 点期间下定，可享以下权益：5 年分期 3 年 0 息 / 3 年 0 息 / 轻松还 / 5 年低息金融方案 / 6,000 元保险补贴（其中仅轻松还 / 5 年低息金融方案与保险补贴可同享）。5 年分期 3 年 0 息金融方案，首付 7.99 万元起，前 3 年 0 息，月供 2,167 元起；后 2 年年化费率 1.99%（近似年化利率 3.80%）起3 年 0 息金融方案，首付 7.99 万元起，月供 3,611 元起小米汽车的全新系列 —— 小米澎程两款新车 N90 Max / Max 探索版、N70 Pro / Max 今年 9 月正式上市并启动交付。小米此前公布的数据显示，澎程系列 4 分钟锁单突破 1 万台、上市 30 天锁单超过 7 万台。",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-11-01",
+      "score": 0.7325
+    },
+    {
+      "title": "CHERRY《宝可梦》“伊布与星夜”外设上市：键盘 899 元、桌垫 129 元",
+      "url": "https://www.ithome.com/1/020/669.htm",
+      "summary": "IT之家 11 月 1 日消息，樱桃现已开始销售与《宝可梦》联名的“伊布与星夜”主题外设，其中 CHERRY MX3.0S PRO 三模机械键盘 899 元、CHERRY XTRFY 桌垫 129 元。该联名 MX3.0S PRO 是 CHERRY 首款图案跨键拼图的《宝可梦》主题键盘。其主键区展示了彼此对望的月亮伊布和太阳伊布，其余区域则点缀以伊布、仙子伊布、冰伊布的形象。京东 CHERRY 伊布与星夜 三模键盘 899 元直达链接联名款 CHERRY XTRFY 布面桌垫则以热转印工艺将现有全部 9 种伊布形态汇集在星夜之下。其三维达到 900×400×4 (mm)，采用双重精密锁边工艺。京东 CHERRY XTRFY 伊布与星夜 桌垫 129 元直达链接京东 11.11 无门槛红包 面额至高 26888 元，每天抽 3 次：点此抽红包。淘宝 11.11 无门槛红包 面额至高 26888 元，每天抽 1 次：点此抽红包。",
+      "detail": "IT之家 11 月 1 日消息，樱桃现已开始销售与《宝可梦》联名的“伊布与星夜”主题外设，其中 CHERRY MX3.0S PRO 三模机械键盘 899 元、CHERRY XTRFY 桌垫 129 元。该联名 MX3.0S PRO 是 CHERRY 首款图案跨键拼图的《宝可梦》主题键盘。其主键区展示了彼此对望的月亮伊布和太阳伊布，其余区域则点缀以伊布、仙子伊布、冰伊布的形象。京东 CHERRY 伊布与星夜 三模键盘 899 元直达链接联名款 CHERRY XTRFY 布面桌垫则以热转印工艺将现有全部 9 种伊布形态汇集在星夜之下。其三维达到 900×400×4 (mm)，采用双重精密锁边工艺。京东 CHERRY XTRFY 伊布与星夜 桌垫 129 元直达链接京东 11.11 无门槛红包 面额至高 26888 元，每天抽 3 次：点此抽红包。淘宝 11.11 无门槛红包 面额至高 26888 元，每天抽 1 次：点此抽红包。",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-11-01",
+      "score": 0.695
+    },
+    {
+      "title": "Meta’s Muse Could Upend All Kinds of Businesses. It Hasn’t Yet",
+      "url": "https://www.wired.com/story/metas-muse-could-upend-all-kinds-of-businesses-it-hasnt-yet/",
+      "summary": "Companies have spent the past several weeks trying to reassure investors that Muse and other AI agents pose more of an opportunity than a threat.",
+      "detail": "Companies have spent the past several weeks trying to reassure investors that Muse and other AI agents pose more of an opportunity than a threat.",
+      "source": "Wired",
+      "source_authority": 0.85,
+      "date": "2026-10-31",
+      "score": 0.69
+    },
+    {
+      "title": "An AI Agent Injected Drugs Into a Live Mouse’s Brain",
+      "url": "https://www.wired.com/story/an-ai-agent-did-brain-surgery-on-live-mouse/",
+      "summary": "A biotech startup let an agent choose a gene therapy and successfully inject the treatment, offering a startling glimpse of the future of research labs.",
+      "detail": "A biotech startup let an agent choose a gene therapy and successfully inject the treatment, offering a startling glimpse of the future of research labs.",
+      "source": "Wired",
+      "source_authority": 0.85,
+      "date": "2026-10-31",
+      "score": 0.635
+    }
+  ],
+  "category3": [
+    {
+      "title": "高通发布骁龙 X 系列 PC 处理器 Windows 显卡驱动，改进多款游戏体验",
+      "url": "https://www.ithome.com/1/020/667.htm",
+      "summary": "IT之家 11 月 1 日消息，Qualcomm（高通）于当地时间 10 月 29 日发布了适用于骁龙 X 系列 PC 处理器的 2026.10.1 版本 Adreno GPU Windows 显卡驱动程序。该驱动程序针对初代骁龙 X 和骁龙 X2 处理器有以下改进：骁龙 X游戏稳定性 / 质量改进《永劫无间》(NARAKA: BLADEPOINT)《荒野大镖客：救赎 2》(Red Dead Redemption 2)《机械战警：暴戾都市》(RoboCop: Rogue City)应用稳定性与性能提升Luminar NeoScam AI骁龙 X2游戏稳定性 / 质量改进《刺客信条：黑旗记忆重置》(Assassin's Creed Black Flag Resynced)《驱灵者：新伊甸的幽灵》(Banishers: Ghosts of New Eden)《极限竞速：地平线 6》(Forza Horizon 6)《侠盗猎车手 5 传承版》(Grand Theft Auto V Legacy)《漫威对决》(Marvel Rivals)《NBA 2K26》《机械战警：暴戾都市》(RoboCo",
+      "detail": "IT之家 11 月 1 日消息，Qualcomm（高通）于当地时间 10 月 29 日发布了适用于骁龙 X 系列 PC 处理器的 2026.10.1 版本 Adreno GPU Windows 显卡驱动程序。该驱动程序针对初代骁龙 X 和骁龙 X2 处理器有以下改进：骁龙 X游戏稳定性 / 质量改进《永劫无间》(NARAKA: BLADEPOINT)《荒野大镖客：救赎 2》(Red Dead Redemption 2)《机械战警：暴戾都市》(RoboCop: Rogue City)应用稳定性与性能提升Luminar NeoScam AI骁龙 X2游戏稳定性 / 质量改进《刺客信条：黑旗记忆重置》(Assassin's Creed Black Flag Resynced)《驱灵者：新伊甸的幽灵》(Banishers: Ghosts of New Eden)《极限竞速：地平线 6》(Forza Horizon 6)《侠盗猎车手 5 传承版》(Grand Theft Auto V Legacy)《漫威对决》(Marvel Rivals)《NBA 2K26》《机械战警：暴戾都市》(RoboCo",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-11-01",
+      "score": 0.8975
+    },
+    {
+      "title": "《影之刃零》初体验：快意恩仇武侠路，NVIDIA DLSS 4.5 来相助",
+      "url": "https://www.ithome.com/1/020/664.htm",
+      "summary": "10 月 29 日，灵游坊 S-GAME 自主研发和发行，虚幻 5 引擎打造的全新功夫朋克暗黑武侠动作 RPG 游戏《影之刃零》（Phantom Blade Zero）正式发售。游戏世界观承接《雨血》系列，舞台设定在架空江湖“影境”，玩家将化身心脏遭受重创的剑客 —— 魂，用仅有的六十六天寿命，查找武林阴谋真相，并寻求续命之法。游戏首销日热度极高，Steam 在线玩家峰值数量达到了 72.39 万，位居 Steam 实时榜第二名的位置，在线人数仅次于《CS2》。而在评价方面，首批专业游戏媒体的游戏开分均达到 9 分以上（满分 10 分）水平，首发就支持了路径追踪和 NVIDIA DLSS 4.5 动态多帧生成。IT之家也于游戏发售当天第一时间进行了体验，本次我们将通过 2 套主流 PC 硬件，带大家看看这款游戏的实际体验如何。一、测试平台为了给玩家朋友们提供具有价值的性能参考，IT之家这次以 AMD 锐龙 7 9800X3D 处理器，技嘉 B850 雕妹主板，RTX 5080 和 RTX 5070 显卡，64GB DDR5 6000MHz C30 内存套条为核心搭建测试平台。其中，主板",
+      "detail": "10 月 29 日，灵游坊 S-GAME 自主研发和发行，虚幻 5 引擎打造的全新功夫朋克暗黑武侠动作 RPG 游戏《影之刃零》（Phantom Blade Zero）正式发售。游戏世界观承接《雨血》系列，舞台设定在架空江湖“影境”，玩家将化身心脏遭受重创的剑客 —— 魂，用仅有的六十六天寿命，查找武林阴谋真相，并寻求续命之法。游戏首销日热度极高，Steam 在线玩家峰值数量达到了 72.39 万，位居 Steam 实时榜第二名的位置，在线人数仅次于《CS2》。而在评价方面，首批专业游戏媒体的游戏开分均达到 9 分以上（满分 10 分）水平，首发就支持了路径追踪和 NVIDIA DLSS 4.5 动态多帧生成。IT之家也于游戏发售当天第一时间进行了体验，本次我们将通过 2 套主流 PC 硬件，带大家看看这款游戏的实际体验如何。一、测试平台为了给玩家朋友们提供具有价值的性能参考，IT之家这次以 AMD 锐龙 7 9800X3D 处理器，技嘉 B850 雕妹主板，RTX 5080 和 RTX 5070 显卡，64GB DDR5 6000MHz C30 内存套条为核心搭建测试平台。其中，主板",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-11-01",
+      "score": 0.7775
+    },
+    {
+      "title": "华为鲲鹏 920 上跑出超越同代主流硬件的性能：北大团队完成 ABACUS 原子算筹软件深度优化，优化 19 类材料核心算子",
+      "url": "https://www.ithome.com/1/020/650.htm",
+      "summary": "IT之家 11 月 1 日消息，密度泛函理论（Density Functional Theory，DFT）是研究半导体、金属等关键材料性质的主流第一性原理方法。ABACUS（原子算筹）是国内自主研发的密度泛函开源软件，由多家单位联合开发，国内外用户超过一千人，应用单位过百家。华为计算昨晚发文，在北京大学鲲鹏昇腾科教创新卓越中心支持下，北京大学力学与工程科学学院陈默涵研究员团队完成了 ABACUS 在鲲鹏 920 全系列平台上的适配，并把 19 类材料领域核心算子抽出来逐项优化。据介绍，在和业界主流 CPU 相同的 28 核、28 进程 ×1 线程配置下，采用 SVE 指令集的版本在标准测试集上快 1.3 至 3.9 倍；放到单节点满核、启用矩阵运算单元的配置，最高快 10.7 倍。相关代码已经推送到 GitHub 开源社区。▲ 10 种典型材料体系总计算耗时对比（同为 28 核、28 进程 ×1 线程，绿色为业界主流 x86，蓝色为鲲鹏 920 新型号）IT之家附技术内容如下：要让 ABACUS 先跑起来，第一步是把编译链和数学库依赖打通。这里遇到的第一个问题比较隐蔽：鲲鹏 920 的",
+      "detail": "IT之家 11 月 1 日消息，密度泛函理论（Density Functional Theory，DFT）是研究半导体、金属等关键材料性质的主流第一性原理方法。ABACUS（原子算筹）是国内自主研发的密度泛函开源软件，由多家单位联合开发，国内外用户超过一千人，应用单位过百家。华为计算昨晚发文，在北京大学鲲鹏昇腾科教创新卓越中心支持下，北京大学力学与工程科学学院陈默涵研究员团队完成了 ABACUS 在鲲鹏 920 全系列平台上的适配，并把 19 类材料领域核心算子抽出来逐项优化。据介绍，在和业界主流 CPU 相同的 28 核、28 进程 ×1 线程配置下，采用 SVE 指令集的版本在标准测试集上快 1.3 至 3.9 倍；放到单节点满核、启用矩阵运算单元的配置，最高快 10.7 倍。相关代码已经推送到 GitHub 开源社区。▲ 10 种典型材料体系总计算耗时对比（同为 28 核、28 进程 ×1 线程，绿色为业界主流 x86，蓝色为鲲鹏 920 新型号）IT之家附技术内容如下：要让 ABACUS 先跑起来，第一步是把编译链和数学库依赖打通。这里遇到的第一个问题比较隐蔽：鲲鹏 920 的",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-11-01",
+      "score": 0.665
+    },
+    {
+      "title": "世界模型首次指导设计芯片！超大核NPU700TOPS，99%算力可用",
+      "url": "https://www.qbitai.com/2026/10/506866.html",
+      "summary": "AI算力利用“九九成”",
+      "detail": "AI算力利用“九九成”",
+      "source": "量子位",
+      "source_authority": 0.85,
+      "date": "2026-10-31",
+      "score": 0.61
+    }
+  ],
+  "category4": [
+    {
+      "title": "小鹏集团 2026 年 10 月交付新车 50,237 台，创单月历史新高",
+      "url": "https://www.ithome.com/1/020/675.htm",
+      "summary": "IT之家 11 月 1 日消息，小鹏汽车官方微博刚刚宣布，2026 年 10 月，小鹏集团共交付新车 50,237 台，环比增长 22%，同比增长 20%，创单月交付量历史新高。IT之家从官方数据获悉，小鹏海外市场交付 13,326 台，同比增长 166%，创海外市场单月交付量历史新高。另外，MONA 系列上市两年来，累计交付超 36 万台；小鹏 GX 在中东区域售价尚未公布的情况下，收获近 4,000 台订单。今年 10 月 26 日，小鹏集团还获批广州市智能网联汽车应用示范运营资格，可在广州全域开展 L4 级 Robotaxi 示范运营。今年 8 月，何小鹏透露，搭载第二代 VLA 的前装量产 Robotaxi 已在广州完成超 2000 次内测订单，跑通载人示范运营的全流程。相关阅读：《2026 年 10 月汽车销量 / 交付汇总（持续更新）》",
+      "detail": "IT之家 11 月 1 日消息，小鹏汽车官方微博刚刚宣布，2026 年 10 月，小鹏集团共交付新车 50,237 台，环比增长 22%，同比增长 20%，创单月交付量历史新高。IT之家从官方数据获悉，小鹏海外市场交付 13,326 台，同比增长 166%，创海外市场单月交付量历史新高。另外，MONA 系列上市两年来，累计交付超 36 万台；小鹏 GX 在中东区域售价尚未公布的情况下，收获近 4,000 台订单。今年 10 月 26 日，小鹏集团还获批广州市智能网联汽车应用示范运营资格，可在广州全域开展 L4 级 Robotaxi 示范运营。今年 8 月，何小鹏透露，搭载第二代 VLA 的前装量产 Robotaxi 已在广州完成超 2000 次内测订单，跑通载人示范运营的全流程。相关阅读：《2026 年 10 月汽车销量 / 交付汇总（持续更新）》",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-11-01",
+      "score": 0.785
+    },
+    {
+      "title": "Unusual robotic animals can prove their utility",
+      "url": "https://www.therobotreport.com/unusual-robotic-animals-can-prove-their-utility/",
+      "summary": "Robotic animals are designed to be helpful rather than scary, showing promise in disaster recovery, utility inspection, and companionship.\nThe post Unusual robotic animals can prove their utility appeared first on The Robot Report.",
+      "detail": "Robotic animals are designed to be helpful rather than scary, showing promise in disaster recovery, utility inspection, and companionship.\nThe post Unusual robotic animals can prove their utility appeared first on The Robot Report.",
+      "source": "The Robot Report",
+      "source_authority": 0.85,
+      "date": "2026-10-31",
+      "score": 0.73
+    }
+  ]
+}
