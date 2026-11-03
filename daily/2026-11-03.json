@@ -1,0 +1,281 @@
+{
+  "date": "2026-11-03",
+  "category1": [
+    {
+      "title": "OpenAI 下一代 GPT-6.2 Astra 正灰度测试，Codex 用量统计中已单独列出",
+      "url": "https://www.ithome.com/1/021/352.htm",
+      "summary": "IT之家 11 月 3 日消息，经大量用户反馈，OpenAI 下一代模型 GPT-6.2 Astra 疑似已进入小范围测试，部分 Codex 用户的使用量统计中已经出现独立模型标识「gpt-6.2-astra」。不过，截至目前，OpenAI 官方 API 模型目录、更新日志及公开公告均未确认这一型号，OpenAI 也没有确认其发布时间。据科技媒体 TestingCatalog 昨日报道，多个 Codex 用户在使用量分析页面发现了这一新模型标识。不同用户分享的截图显示，GPT-6.2 Astra 已经占据部分账户的模型调用量，IT之家注意到其中一个账户的占比达到 19.8%（相关记录主要出现在 10 月 31 日的使用统计中）。TestingCatalog 认为，这些记录可能意味着 OpenAI 正在进行灰度测试或 A/B 测试，即让部分用户的请求在后台转发至新模型，同时暂时保留原有的界面名称。作为背景，OpenAI 于 2026 年 9 月 3 日发布 GPT-6 Astra。根据 Terminal-Bench 4.0 测试成绩，GPT-6 Astra 得分为 57.9%，Claud",
+      "detail": "IT之家 11 月 3 日消息，经大量用户反馈，OpenAI 下一代模型 GPT-6.2 Astra 疑似已进入小范围测试，部分 Codex 用户的使用量统计中已经出现独立模型标识「gpt-6.2-astra」。不过，截至目前，OpenAI 官方 API 模型目录、更新日志及公开公告均未确认这一型号，OpenAI 也没有确认其发布时间。据科技媒体 TestingCatalog 昨日报道，多个 Codex 用户在使用量分析页面发现了这一新模型标识。不同用户分享的截图显示，GPT-6.2 Astra 已经占据部分账户的模型调用量，IT之家注意到其中一个账户的占比达到 19.8%（相关记录主要出现在 10 月 31 日的使用统计中）。TestingCatalog 认为，这些记录可能意味着 OpenAI 正在进行灰度测试或 A/B 测试，即让部分用户的请求在后台转发至新模型，同时暂时保留原有的界面名称。作为背景，OpenAI 于 2026 年 9 月 3 日发布 GPT-6 Astra。根据 Terminal-Bench 4.0 测试成绩，GPT-6 Astra 得分为 57.9%，Claud",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-11-03",
+      "score": 0.8975
+    },
+    {
+      "title": "AI 制药公司“同构实验室”总裁贾德伯格大胆预测：未来所有药物都将由 AI 设计",
+      "url": "https://www.ithome.com/1/021/477.htm",
+      "summary": "IT之家 11 月 3 日消息，据彭博社报道，人工智能制药公司同构实验室总裁马克斯 · 贾德伯格相信，未来所有药物都将由 AI 设计，区别只在于这一目标需要多久才能实现。“这一天肯定会到来。我毫不怀疑，未来所有药物都会由 AI 设计。我只是不希望大家被动等待，结果要过 20 年甚至 50 年才能实现。”当地时间 2 日，贾德伯格在伦敦举行的彭博科技大会上介绍，实验室希望通过 AI 提高新药研发的速度和效率，目前仍处于临床前试验阶段，公司的发展也才刚刚起步。今年 1 月，同构实验室 CEO 德米斯 · 哈萨比斯曾透露，公司计划年底前启动首批临床试验。同构实验室由 Alphabet 旗下的谷歌 DeepMind 分拆成立，除了利用 AI 模型自主研发药物，还为礼来、诺华等生物制药企业提供药物研发技术。同构实验室累计融资约 27 亿美元（IT之家注：现汇率约合 179.97 亿元人民币），投资方包括 Alphabet 和 Thrive Capital。该公司近期正洽谈新一轮融资，估值有望达到 400 亿美元（现汇率约合 2,666.16 亿元人民币）或更高。今年 5 月公布上一轮融资时，同构",
+      "detail": "IT之家 11 月 3 日消息，据彭博社报道，人工智能制药公司同构实验室总裁马克斯 · 贾德伯格相信，未来所有药物都将由 AI 设计，区别只在于这一目标需要多久才能实现。“这一天肯定会到来。我毫不怀疑，未来所有药物都会由 AI 设计。我只是不希望大家被动等待，结果要过 20 年甚至 50 年才能实现。”当地时间 2 日，贾德伯格在伦敦举行的彭博科技大会上介绍，实验室希望通过 AI 提高新药研发的速度和效率，目前仍处于临床前试验阶段，公司的发展也才刚刚起步。今年 1 月，同构实验室 CEO 德米斯 · 哈萨比斯曾透露，公司计划年底前启动首批临床试验。同构实验室由 Alphabet 旗下的谷歌 DeepMind 分拆成立，除了利用 AI 模型自主研发药物，还为礼来、诺华等生物制药企业提供药物研发技术。同构实验室累计融资约 27 亿美元（IT之家注：现汇率约合 179.97 亿元人民币），投资方包括 Alphabet 和 Thrive Capital。该公司近期正洽谈新一轮融资，估值有望达到 400 亿美元（现汇率约合 2,666.16 亿元人民币）或更高。今年 5 月公布上一轮融资时，同构",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-11-03",
+      "score": 0.885
+    },
+    {
+      "title": "Anthropic clamps down on Claude’s AI video game clones",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones",
+      "summary": "Anthropic has updated Claude Code's system prompt to prevent the AI tool from being used to re-create existing video games, as reported by Tom's Hardware. Retro gaming is currently being overrun with AI-made decompilations, recompilations, and ports, but while Anthropic will still let people use Claude Code to make games, it doesn't want people to […]",
+      "detail": "Anthropic has updated Claude Code's system prompt to prevent the AI tool from being used to re-create existing video games, as reported by Tom's Hardware. Retro gaming is currently being overrun with AI-made decompilations, recompilations, and ports, but while Anthropic will still let people use Claude Code to make games, it doesn't want people to […]",
+      "source": "The Verge",
+      "source_authority": 0.9,
+      "date": "2026-11-03",
+      "score": 0.875
+    },
+    {
+      "title": "New York Times and other outlets sue web browser Brave over alleged content scraping",
+      "url": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
+      "summary": "The New York Times is suing privacy-focused web browser company Brave for allegedly scraping the outlet’s copyrighted content and unlawfully distributing it to its own customers, like Anthropic and Perplexity.",
+      "detail": "The New York Times is suing privacy-focused web browser company Brave for allegedly scraping the outlet’s copyrighted content and unlawfully distributing it to its own customers, like Anthropic and Perplexity.",
+      "source": "TechCrunch",
+      "source_authority": 0.95,
+      "date": "2026-11-03",
+      "score": 0.8225
+    },
+    {
+      "title": "美国“最年轻”前陆军部长德里斯科尔加入 OpenAI，出任国家安全与现代化事务高级顾问",
+      "url": "https://www.ithome.com/1/021/382.htm",
+      "summary": "IT之家 11 月 3 日消息，OpenAI 聘请美国前陆军部长丹尼尔 · 德里斯科尔担任顾问，协助推动人工智能在国家安全和网络安全领域的应用。德里斯科尔今年 8 月辞去陆军部长职务，此前曾与美国国防部长皮特 · 赫格塞思多次发生冲突。他将在 OpenAI 担任国家安全与现代化事务高级顾问。当地时间 2 日，OpenAI 通过声明宣布，德里斯科尔将与公司及政府、学术界、产业界等各方负责人合作，推动具体的现代化改革措施，促进符合民主原则的 AI 技术发展。OpenAI CEO 萨姆 · 奥尔特曼在文章中说：“美国迎来了难得的机遇，可以与其他国家携手，推动符合民主原则的 AI 技术得到更广泛的应用。”根据 OpenAI 的介绍，德里斯科尔还将为公司在公共和私营领域的合作伙伴提供咨询，辅助利用 AI 提升国家安全能力，并推动全球开发“符合民主原则”的 AI 技术。2025 年，德里斯科尔以 38 岁的年龄出任美国第 26 任陆军部长，成为美国历史上最年轻的陆军部长。他与美国副总统 JD· 万斯是耶鲁大学法学院时期的好友。德里斯科尔在辞职前与赫格塞思关系紧张，两人在人事安排和领导层决策上存在分",
+      "detail": "IT之家 11 月 3 日消息，OpenAI 聘请美国前陆军部长丹尼尔 · 德里斯科尔担任顾问，协助推动人工智能在国家安全和网络安全领域的应用。德里斯科尔今年 8 月辞去陆军部长职务，此前曾与美国国防部长皮特 · 赫格塞思多次发生冲突。他将在 OpenAI 担任国家安全与现代化事务高级顾问。当地时间 2 日，OpenAI 通过声明宣布，德里斯科尔将与公司及政府、学术界、产业界等各方负责人合作，推动具体的现代化改革措施，促进符合民主原则的 AI 技术发展。OpenAI CEO 萨姆 · 奥尔特曼在文章中说：“美国迎来了难得的机遇，可以与其他国家携手，推动符合民主原则的 AI 技术得到更广泛的应用。”根据 OpenAI 的介绍，德里斯科尔还将为公司在公共和私营领域的合作伙伴提供咨询，辅助利用 AI 提升国家安全能力，并推动全球开发“符合民主原则”的 AI 技术。2025 年，德里斯科尔以 38 岁的年龄出任美国第 26 任陆军部长，成为美国历史上最年轻的陆军部长。他与美国副总统 JD· 万斯是耶鲁大学法学院时期的好友。德里斯科尔在辞职前与赫格塞思关系紧张，两人在人事安排和领导层决策上存在分",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-11-03",
+      "score": 0.8225
+    },
+    {
+      "title": "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
+      "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
+      "summary": "RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleration of AI capabilities. To the AI doomers, RSI represents the cataclysm from which there is no return.",
+      "detail": "RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleration of AI capabilities. To the AI doomers, RSI represents the cataclysm from which there is no return.",
+      "source": "TechCrunch",
+      "source_authority": 0.95,
+      "date": "2026-11-03",
+      "score": 0.81
+    },
+    {
+      "title": "OpenAI pitches data center power plants as a way to protect nearby areas",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
+      "summary": "In an announcement on Monday, OpenAI says it will pilot its \"Grid Protectors Program\" at an upcoming data center in Effingham County, Georgia, where the company promises to free up to 1,000 megawatts of power during extreme weather or emergencies, enough to power air conditioners in around 700,000 homes. The announcement comes as opposition to […]",
+      "detail": "In an announcement on Monday, OpenAI says it will pilot its \"Grid Protectors Program\" at an upcoming data center in Effingham County, Georgia, where the company promises to free up to 1,000 megawatts of power during extreme weather or emergencies, enough to power air conditioners in around 700,000 homes. The announcement comes as opposition to […]",
+      "source": "The Verge",
+      "source_authority": 0.9,
+      "date": "2026-11-03",
+      "score": 0.8
+    },
+    {
+      "title": "Tutor Intelligence raises Series B to scale model training, robot deployments",
+      "url": "https://www.therobotreport.com/tutor-intelligence-raises-series-b-to-scale-model-training-robot-deployments/",
+      "summary": "Tutor Intelligence has raised funding to further develop its picking robots, networked intelligence, and commercial deployments.\nThe post Tutor Intelligence raises Series B to scale model training, robot deployments appeared first on The Robot Report.",
+      "detail": "Tutor Intelligence has raised funding to further develop its picking robots, networked intelligence, and commercial deployments.\nThe post Tutor Intelligence raises Series B to scale model training, robot deployments appeared first on The Robot Report.",
+      "source": "The Robot Report",
+      "source_authority": 0.85,
+      "date": "2026-11-03",
+      "score": 0.7925
+    },
+    {
+      "title": "Unions gain access to thousands of Google workers after UK employment rights overhaul",
+      "url": "https://www.theguardian.com/politics/2026/nov/02/unions-google-workers-uk-employment-rights",
+      "summary": "Prospect to hold workplace sessions and recruit members under agreement with tech companyTrade unions are expected to make further inroads into big tech companies in the UK after new rights for unions to access workplaces came into force, with Google UK signing an agreement on Monday.The Prospect union has reached an agreement with Google to begin organising among about 7,000 workers across its UK operations, including YouTube but excluding DeepMind. Continue reading...",
+      "detail": "Prospect to hold workplace sessions and recruit members under agreement with tech companyTrade unions are expected to make further inroads into big tech companies in the UK after new rights for unions to access workplaces came into force, with Google UK signing an agreement on Monday.The Prospect union has reached an agreement with Google to begin organising among about 7,000 workers across its UK operations, including YouTube but excluding DeepMind. Continue reading...",
+      "source": "The Guardian",
+      "source_authority": 0.85,
+      "date": "2026-11-02",
+      "score": 0.7875
+    },
+    {
+      "title": "Anthropic Reveals $17 Billion in Revenue as I.P.O. Approaches",
+      "url": "https://www.nytimes.com/2026/11/02/business/anthropic-earnings-ai.html",
+      "summary": "The A.I. company’s quarterly revenue totaled $17 billion, 12 times as high as the same quarter last year, while its net loss totaled $23 billion.",
+      "detail": "The A.I. company’s quarterly revenue totaled $17 billion, 12 times as high as the same quarter last year, while its net loss totaled $23 billion.",
+      "source": "NYT",
+      "source_authority": 0.9,
+      "date": "2026-11-03",
+      "score": 0.7775
+    }
+  ],
+  "category2": [
+    {
+      "title": "苹果 CEO 特努斯：Siri 每日处理超过 25 亿次请求，部分高级 AI 功能将收费",
+      "url": "https://www.ithome.com/1/021/400.htm",
+      "summary": "IT之家 11 月 3 日消息，科技媒体 AppleInsider 今天（11 月 3 日）发布博文，报道称在最新财报电话会议上，苹果首席执行官约翰 · 特努斯（John Ternus）重申 Siri 每天处理超过 25 亿次请求，部分高级 AI 功能将收费。IT之家注：这并非苹果公司首次宣布该数据，在 9 月召开的 iPhone 18 Pro 系列以及其首款折叠 iPhone Duo 发布活动中，苹果公司人工智能产品营销副总裁莉莲 · 林孔（Lilian Rincon）首次披露了该数据。相比 2024 年 WWDC 公布的“每天 15 亿次语音请求”，最新数字高出逾 10 亿次，不过苹果并未说明两次统计口径是否一致。苹果正借这一庞大用户基础推进 Siri 的 AI 化改造。新版 Siri 已随 iOS 27 于 9 月起逐步推出，能够结合个人上下文理解更复杂的问题，并跨应用执行操作；它还可从信息、邮件和照片中检索内容，帮助用户不必记住信息具体存放在哪个应用或对话中。但新体验尚未全面开放。Siri AI 仍处于测试阶段，符合条件的用户需加入等候名单；部分依赖服务器端 AI 模型的功能设",
+      "detail": "IT之家 11 月 3 日消息，科技媒体 AppleInsider 今天（11 月 3 日）发布博文，报道称在最新财报电话会议上，苹果首席执行官约翰 · 特努斯（John Ternus）重申 Siri 每天处理超过 25 亿次请求，部分高级 AI 功能将收费。IT之家注：这并非苹果公司首次宣布该数据，在 9 月召开的 iPhone 18 Pro 系列以及其首款折叠 iPhone Duo 发布活动中，苹果公司人工智能产品营销副总裁莉莲 · 林孔（Lilian Rincon）首次披露了该数据。相比 2024 年 WWDC 公布的“每天 15 亿次语音请求”，最新数字高出逾 10 亿次，不过苹果并未说明两次统计口径是否一致。苹果正借这一庞大用户基础推进 Siri 的 AI 化改造。新版 Siri 已随 iOS 27 于 9 月起逐步推出，能够结合个人上下文理解更复杂的问题，并跨应用执行操作；它还可从信息、邮件和照片中检索内容，帮助用户不必记住信息具体存放在哪个应用或对话中。但新体验尚未全面开放。Siri AI 仍处于测试阶段，符合条件的用户需加入等候名单；部分依赖服务器端 AI 模型的功能设",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-11-03",
+      "score": 0.7825
+    },
+    {
+      "title": "内存危机冲击苹果：Mac 与 iPad 供应紧张将持续至 2026 年底",
+      "url": "https://www.ithome.com/1/021/489.htm",
+      "summary": "IT之家 11 月 3 日消息，科技媒体 AppleInsider 今天（11 月 3 日）发布博文，报道称在最新财季电话会议上，苹果确认内存供应危机影响，Mac 和 iPad 产品线的供货将持续紧张，至少延续至 2026 年年底。苹果方面表示，全球内存短缺不仅推高了零部件价格，也直接压缩了生产线的物料供应。由于内存是 Mac、iPad 等设备的关键元器件，供应不足使苹果难以按正常节奏满足市场需求。IT之家援引博文介绍，缺货和延迟目前已经体现在苹果官网及渠道订单上。例如，Mac Studio M5 Ultra 版的等待时间约为 7 至 8 周；配备 512GB 内存的版本，等待时间更是达到 10 至 12 周。部分配备纳米纹理显示屏的 14 英寸 MacBook Pro，交货周期也达到 10 个工作日。对于近期计划购买 Mac 或 iPad 的用户，若遇到现货、可靠渠道优惠或所需配置有货，提前下单可能是更稳妥的选择；否则，越接近年末，等待周期和选购空间都可能进一步收窄。",
+      "detail": "IT之家 11 月 3 日消息，科技媒体 AppleInsider 今天（11 月 3 日）发布博文，报道称在最新财季电话会议上，苹果确认内存供应危机影响，Mac 和 iPad 产品线的供货将持续紧张，至少延续至 2026 年年底。苹果方面表示，全球内存短缺不仅推高了零部件价格，也直接压缩了生产线的物料供应。由于内存是 Mac、iPad 等设备的关键元器件，供应不足使苹果难以按正常节奏满足市场需求。IT之家援引博文介绍，缺货和延迟目前已经体现在苹果官网及渠道订单上。例如，Mac Studio M5 Ultra 版的等待时间约为 7 至 8 周；配备 512GB 内存的版本，等待时间更是达到 10 至 12 周。部分配备纳米纹理显示屏的 14 英寸 MacBook Pro，交货周期也达到 10 个工作日。对于近期计划购买 Mac 或 iPad 的用户，若遇到现货、可靠渠道优惠或所需配置有货，提前下单可能是更稳妥的选择；否则，越接近年末，等待周期和选购空间都可能进一步收窄。",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-11-03",
+      "score": 0.7325
+    },
+    {
+      "title": "荣耀 700 系列即将发布，三款机型已通过 3C 入网",
+      "url": "https://www.ithome.com/1/021/474.htm",
+      "summary": "IT之家 11 月 3 日消息，荣耀在 10 月有三款 5G 手机、两款平板电脑、一款笔记本电脑通过 3C 认证，博主 @旺仔百事通 确认三款新机属于荣耀 700 系列，分别为荣耀 700 元气版、荣耀 700 标准版和荣耀 700 Pro 版，新机将于本月正式发布。根据 3C 数据库记录，三款机型的生产安排并不相同。FAA-AN00 与 FAP-AN00 由深圳荣耀智能机器有限公司制造，FAS-AN00 则由长沙比亚迪电子有限公司代工，三款机型配套的电源适配器均支持最高 20V 4A 的 80W 有线充电功率输出。结合此前爆料，荣耀 700 系列延续“大电池 + 中尺寸屏幕 + 窄边框”的组合，全系搭载骁龙系列处理器，且标配背屏。其中标准版与 Pro 版采用 6.57 英寸 1.5K OLED 直屏，四边等窄；背屏尺寸约为 1.72 英寸，嵌入后置镜头模组区域，可用于显示时间、天气和消息通知，控制音乐播放，也可充当后置摄像头自拍取景器。影像方面，系列预计全系配备 2 亿像素主摄，Pro 版在此基础上增加 5000 万像素潜望式长焦镜头。电池最高容量指向 9000mAh，Pro 版还可",
+      "detail": "IT之家 11 月 3 日消息，荣耀在 10 月有三款 5G 手机、两款平板电脑、一款笔记本电脑通过 3C 认证，博主 @旺仔百事通 确认三款新机属于荣耀 700 系列，分别为荣耀 700 元气版、荣耀 700 标准版和荣耀 700 Pro 版，新机将于本月正式发布。根据 3C 数据库记录，三款机型的生产安排并不相同。FAA-AN00 与 FAP-AN00 由深圳荣耀智能机器有限公司制造，FAS-AN00 则由长沙比亚迪电子有限公司代工，三款机型配套的电源适配器均支持最高 20V 4A 的 80W 有线充电功率输出。结合此前爆料，荣耀 700 系列延续“大电池 + 中尺寸屏幕 + 窄边框”的组合，全系搭载骁龙系列处理器，且标配背屏。其中标准版与 Pro 版采用 6.57 英寸 1.5K OLED 直屏，四边等窄；背屏尺寸约为 1.72 英寸，嵌入后置镜头模组区域，可用于显示时间、天气和消息通知，控制音乐播放，也可充当后置摄像头自拍取景器。影像方面，系列预计全系配备 2 亿像素主摄，Pro 版在此基础上增加 5000 万像素潜望式长焦镜头。电池最高容量指向 9000mAh，Pro 版还可",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-11-03",
+      "score": 0.7325
+    },
+    {
+      "title": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
+      "url": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
+      "summary": "Y Combinator Garry Tan has jokingly admitted that he's suffered from \"cyber psychosis” and barely sleeps sometimes because he’s so excited to be working with his AI agents. On a new episode of Walter Isaacson’s podcast, The Builders, Tan put a price tag on his passion.",
+      "detail": "Y Combinator Garry Tan has jokingly admitted that he's suffered from \"cyber psychosis” and barely sleeps sometimes because he’s so excited to be working with his AI agents. On a new episode of Walter Isaacson’s podcast, The Builders, Tan put a price tag on his passion.",
+      "source": "TechCrunch",
+      "source_authority": 0.95,
+      "date": "2026-11-03",
+      "score": 0.71
+    },
+    {
+      "title": "Stop counting tokens, start counting what ships",
+      "url": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/",
+      "summary": "When a developer gives an AI agent a coding task, the agent does more than answer once. It plans, generates code, runs tests, and repeats the process to correct errors. A single task can use 10 to 50 times more tokens than a basic chat prompt. The more useful the agent becomes, the more calls…",
+      "detail": "When a developer gives an AI agent a coding task, the agent does more than answer once. It plans, generates code, runs tests, and repeats the process to correct errors. A single task can use 10 to 50 times more tokens than a basic chat prompt. The more useful the agent becomes, the more calls…",
+      "source": "MIT Tech Review",
+      "source_authority": 0.9,
+      "date": "2026-11-02",
+      "score": 0.705
+    },
+    {
+      "title": "AI-powered malware ‘highly likely’ to be used to hack UK infrastructure by 2028",
+      "url": "https://www.theguardian.com/technology/2026/nov/03/ai-powered-malware-artificial-intelligence-hacking-critical-uk-infrastructure",
+      "summary": "National Cyber Security Centre expects attacks on critical facilities such as power stations, airports and hospitalsAI-powered malicious software is “highly likely” to be used in hacking attacks against the UK’s power stations, airports and hospitals by 2028, according to the state cybersecurity body.The National Cyber Security Centre (NCSC) said AI will probably enable a ransomware attack against critical national infrastructure [CNI] between now and 2028. The UK’s definition of CNI covers a ra",
+      "detail": "National Cyber Security Centre expects attacks on critical facilities such as power stations, airports and hospitalsAI-powered malicious software is “highly likely” to be used in hacking attacks against the UK’s power stations, airports and hospitals by 2028, according to the state cybersecurity body.The National Cyber Security Centre (NCSC) said AI will probably enable a ransomware attack against critical national infrastructure [CNI] between now and 2028. The UK’s definition of CNI covers a ra",
+      "source": "The Guardian",
+      "source_authority": 0.85,
+      "date": "2026-11-03",
+      "score": 0.675
+    },
+    {
+      "title": "Apple may try to increase revenue by doing…something with third-party AI apps",
+      "url": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/",
+      "summary": "Apple hinted at ways that it could spur revenue through third-party \"opportunities\" during its Monday night earnings call.",
+      "detail": "Apple hinted at ways that it could spur revenue through third-party \"opportunities\" during its Monday night earnings call.",
+      "source": "TechCrunch",
+      "source_authority": 0.95,
+      "date": "2026-11-03",
+      "score": 0.655
+    },
+    {
+      "title": "Raising the quality of insights in agentic analytics",
+      "url": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/",
+      "summary": "In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization. Agentic AI promises to do even more, by automating entire workflows and taking actions based on agent insights. But there is a problem: The quality of insights that agents currently generate…",
+      "detail": "In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization. Agentic AI promises to do even more, by automating entire workflows and taking actions based on agent insights. But there is a problem: The quality of insights that agents currently generate…",
+      "source": "MIT Tech Review",
+      "source_authority": 0.9,
+      "date": "2026-11-03",
+      "score": 0.635
+    },
+    {
+      "title": "When You Should—and Shouldn’t—Use AI to Search the Web",
+      "url": "https://www.wired.com/story/when-you-should-and-shouldnt-use-ai-to-search-the-web/",
+      "summary": "Chatbots are often quite good at retrieving the information you want from the web. But sometimes you’ll get better results by typing your query into a good old search engine.",
+      "detail": "Chatbots are often quite good at retrieving the information you want from the web. But sometimes you’ll get better results by typing your query into a good old search engine.",
+      "source": "Wired",
+      "source_authority": 0.85,
+      "date": "2026-11-02",
+      "score": 0.635
+    },
+    {
+      "title": "Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition",
+      "url": "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/",
+      "summary": "Two startups tackling the data center water problem are joining forces in a $16 million deal.",
+      "detail": "Two startups tackling the data center water problem are joining forces in a $16 million deal.",
+      "source": "TechCrunch",
+      "source_authority": 0.95,
+      "date": "2026-11-02",
+      "score": 0.6325
+    }
+  ],
+  "category3": [
+    {
+      "title": "刷新半导体并购纪录：美满电子 Marvell 约 1150 亿美元全股票收购光通信巨头 Lumentum",
+      "url": "https://www.ithome.com/1/021/478.htm",
+      "summary": "IT之家 11 月 3 日消息，美国半导体公司美满电子（Marvell）昨日（11 月 2 日）发布公告，宣布以约 1,150 亿美元（IT之家注：现汇率约合 7,665.2 亿元人民币）全股票交易，收购光通信企业 Lumentum。根据双方达成的最终协议，Lumentum 的隐含企业价值约为 1,150 亿美元（现汇率约合 7,665.2 亿元人民币），相当于每股约 1,132 美元（现汇率约合 7,545 元人民币），较交易传闻出现前（10 月 28 日）的股价溢价约 23.9%。交易完成后，Marvell 现有股东预计持有合并后公司约 67% 的股份，Lumentum 股东持有约 33%。该交易仍需双方股东批准及监管机构核准，预计于 2028 年上半年完成。Marvell 董事长兼 CEO Matt Murphy 将继续担任合并后公司的董事长兼 CEO；Lumentum CEO Michael Hurlston 及另外两名 Lumentum 董事将加入 Marvell 董事会。市场调查机构 CounterPoint Research 认为本次合并的核心逻辑，是抢占 AI 数据中心",
+      "detail": "IT之家 11 月 3 日消息，美国半导体公司美满电子（Marvell）昨日（11 月 2 日）发布公告，宣布以约 1,150 亿美元（IT之家注：现汇率约合 7,665.2 亿元人民币）全股票交易，收购光通信企业 Lumentum。根据双方达成的最终协议，Lumentum 的隐含企业价值约为 1,150 亿美元（现汇率约合 7,665.2 亿元人民币），相当于每股约 1,132 美元（现汇率约合 7,545 元人民币），较交易传闻出现前（10 月 28 日）的股价溢价约 23.9%。交易完成后，Marvell 现有股东预计持有合并后公司约 67% 的股份，Lumentum 股东持有约 33%。该交易仍需双方股东批准及监管机构核准，预计于 2028 年上半年完成。Marvell 董事长兼 CEO Matt Murphy 将继续担任合并后公司的董事长兼 CEO；Lumentum CEO Michael Hurlston 及另外两名 Lumentum 董事将加入 Marvell 董事会。市场调查机构 CounterPoint Research 认为本次合并的核心逻辑，是抢占 AI 数据中心",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-11-03",
+      "score": 0.7825
+    },
+    {
+      "title": "模拟计算进入矩阵时代！北大联手硅谷IBM，写下新定义",
+      "url": "https://www.qbitai.com/2026/11/507367.html",
+      "summary": "GPU迭代一百次的事，它一步做完",
+      "detail": "GPU迭代一百次的事，它一步做完",
+      "source": "量子位",
+      "source_authority": 0.85,
+      "date": "2026-11-03",
+      "score": 0.655
+    },
+    {
+      "title": "小米 REDMI Book 2027 今日开售：6799 元起，国补价 5779.15 元起",
+      "url": "https://www.ithome.com/1/021/448.htm",
+      "summary": "IT之家 11 月 3 日消息，小米 REDMI Book 2027 今日 10:00 正式开售，首销赠送 20000mAh 充电宝。IT之家汇总价格如下：REDMI Book 14酷睿 5 320、16GB+512GB 版本：6799 元，国补价 5779.15 元酷睿 7 350、16GB+1TB 版本：7999 元，国补价 6799.15 元REDMI Book 16酷睿 5 320、16GB+512GB 版本：6999 元，国补价 5949.15 元酷睿 7 350、16GB+1TB 版本：8199 元，国补价 6969.15 元这款笔记本电脑 A/C/D 面采用全金属铝合金机身，提供多种配色，14 英寸版本重约 1.28kg，厚 13.95mm；16 英寸机型约 1.56kg，厚 14.35mm，采用视觉均厚设计搭配圆润弧面轮廓。该系列机型搭载第三代英特尔酷睿 Wildcat Lake 处理器，采用 Intel 18A 制程工艺，包含酷睿 7 350（6 核 6 线程，最高睿频 4.8GHz，6MB 三级缓存）与酷睿 5 320（6 核 6 线程，最高睿频 4.6GHz，6M",
+      "detail": "IT之家 11 月 3 日消息，小米 REDMI Book 2027 今日 10:00 正式开售，首销赠送 20000mAh 充电宝。IT之家汇总价格如下：REDMI Book 14酷睿 5 320、16GB+512GB 版本：6799 元，国补价 5779.15 元酷睿 7 350、16GB+1TB 版本：7999 元，国补价 6799.15 元REDMI Book 16酷睿 5 320、16GB+512GB 版本：6999 元，国补价 5949.15 元酷睿 7 350、16GB+1TB 版本：8199 元，国补价 6969.15 元这款笔记本电脑 A/C/D 面采用全金属铝合金机身，提供多种配色，14 英寸版本重约 1.28kg，厚 13.95mm；16 英寸机型约 1.56kg，厚 14.35mm，采用视觉均厚设计搭配圆润弧面轮廓。该系列机型搭载第三代英特尔酷睿 Wildcat Lake 处理器，采用 Intel 18A 制程工艺，包含酷睿 7 350（6 核 6 线程，最高睿频 4.8GHz，6MB 三级缓存）与酷睿 5 320（6 核 6 线程，最高睿频 4.6GHz，6M",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-11-03",
+      "score": 0.62
+    },
+    {
+      "title": "中国台湾地区拟在台南建设大型科学园区，因应 1nm 晶圆厂建设需求",
+      "url": "https://www.ithome.com/1/021/355.htm",
+      "summary": "IT之家 11 月 3 日消息，中国台湾地区科学与技术委员会负责人吴诚文昨日在 IEEE A-SSCC 2026 亚洲固态电路会议上表示，计划在台南建设一座超大规模科学园区，预计 2027 年动工。吴诚文所在的委员会下辖 3 个科学园区管理局，目前总共拥有 18 个园区。而台南新园区主要为了因应 1nm 晶圆厂的建设需求。根据台积电当前路线图，其下一代先进逻辑制程技术 A14 预计 2028 年开始量产，衍生变体 A13 和 A12 则分别会在 2028、2028 年量产。",
+      "detail": "IT之家 11 月 3 日消息，中国台湾地区科学与技术委员会负责人吴诚文昨日在 IEEE A-SSCC 2026 亚洲固态电路会议上表示，计划在台南建设一座超大规模科学园区，预计 2027 年动工。吴诚文所在的委员会下辖 3 个科学园区管理局，目前总共拥有 18 个园区。而台南新园区主要为了因应 1nm 晶圆厂的建设需求。根据台积电当前路线图，其下一代先进逻辑制程技术 A14 预计 2028 年开始量产，衍生变体 A13 和 A12 则分别会在 2028、2028 年量产。",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-11-03",
+      "score": 0.6
+    }
+  ],
+  "category4": [
+    {
+      "title": "Churchill Capital XI shareholders approve $2.5B Agility Robotics humanoid SPAC",
+      "url": "https://www.therobotreport.com/agility-robotics-shareholders-approve-25b-humanoid-spac/",
+      "summary": "Deal is expected to provide approximately $465 million in gross capital as Agility expands deployments of its Digit humanoid with industrial customers.\nThe post Churchill Capital XI shareholders approve $2.5B Agility Robotics humanoid SPAC appeared first on The Robot Report.",
+      "detail": "Deal is expected to provide approximately $465 million in gross capital as Agility expands deployments of its Digit humanoid with industrial customers.\nThe post Churchill Capital XI shareholders approve $2.5B Agility Robotics humanoid SPAC appeared first on The Robot Report.",
+      "source": "The Robot Report",
+      "source_authority": 0.85,
+      "date": "2026-11-03",
+      "score": 0.8975
+    },
+    {
+      "title": "Gentherm designs ThermAffyx to protect, move patients during robotic surgeries",
+      "url": "https://www.therobotreport.com/gentherm-designs-thermaffyx-protect-move-patients-during-robotic-surgeries/",
+      "summary": "ThermAffyx addresses secure positioning and heating of patients for robot-assisted surgical procedures with a minimal OR footprint.\nThe post Gentherm designs ThermAffyx to protect, move patients during robotic surgeries appeared first on The Robot Report.",
+      "detail": "ThermAffyx addresses secure positioning and heating of patients for robot-assisted surgical procedures with a minimal OR footprint.\nThe post Gentherm designs ThermAffyx to protect, move patients during robotic surgeries appeared first on The Robot Report.",
+      "source": "The Robot Report",
+      "source_authority": 0.85,
+      "date": "2026-11-03",
+      "score": 0.775
+    },
+    {
+      "title": "Top 10 robotics developments of October 2026",
+      "url": "https://www.therobotreport.com/top-10-robotics-developments-october-2026/",
+      "summary": "Last month, we celebrated the 20th anniversary of RoboBusiness, whic is being rebranded to Robotics Summit & Expo West.\nThe post Top 10 robotics developments of October 2026 appeared first on The Robot Report.",
+      "detail": "Last month, we celebrated the 20th anniversary of RoboBusiness, whic is being rebranded to Robotics Summit & Expo West.\nThe post Top 10 robotics developments of October 2026 appeared first on The Robot Report.",
+      "source": "The Robot Report",
+      "source_authority": 0.85,
+      "date": "2026-11-03",
+      "score": 0.775
+    }
+  ]
+}
