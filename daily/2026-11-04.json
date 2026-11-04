@@ -1,0 +1,291 @@
+{
+  "date": "2026-11-04",
+  "category1": [
+    {
+      "title": "OpenAI says ChatGPT is catching up to Google in search",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search",
+      "summary": "In many circles, \"Ask Chat\" has replaced \"Google it,\" and that's reflected in a new announcement from OpenAI: the volume of search queries run through ChatGPT now equals 20 percent of the volume run through Google. Adam Fry, OpenAI's consumer product lead for ChatGPT, made the announcement at a press event on Monday. He said […]",
+      "detail": "In many circles, \"Ask Chat\" has replaced \"Google it,\" and that's reflected in a new announcement from OpenAI: the volume of search queries run through ChatGPT now equals 20 percent of the volume run through Google. Adam Fry, OpenAI's consumer product lead for ChatGPT, made the announcement at a press event on Monday. He said […]",
+      "source": "The Verge",
+      "source_authority": 0.9,
+      "date": "2026-11-04",
+      "score": 0.9125
+    },
+    {
+      "title": "OpenAI and Anthropic Set Up ‘War Rooms’ to Fight Disinfo About Midterm Elections",
+      "url": "https://www.nytimes.com/2026/11/03/business/ai-midterm-election-misinformation.html",
+      "summary": "OpenAI, Anthropic and other tech companies have vowed to protect Tuesday’s elections from efforts to undermine democracy.",
+      "detail": "OpenAI, Anthropic and other tech companies have vowed to protect Tuesday’s elections from efforts to undermine democracy.",
+      "source": "NYT",
+      "source_authority": 0.9,
+      "date": "2026-11-04",
+      "score": 0.8525
+    },
+    {
+      "title": "国内首款：网易《燕云十六声》官宣 11 月 24 日实装英伟达 DLSS 5",
+      "url": "https://www.ithome.com/1/021/935.htm",
+      "summary": "IT之家 11 月 4 日消息，网易旗下开放世界武侠游戏《燕云十六声》官方宣布将于 2026 年 11 月 24 日正式实装英伟达 DLSS 5 技术，成为全球首批、国内首款支持该技术的游戏（北美地区将提前一天，于 11 月 23 日先行上线）。DLSS 5 是英伟达在 2026 年 3 月 GTC 大会上公布的新一代实时神经渲染技术，官方将其定位为“图形领域的 GPT 时刻”。与单纯提升分辨率的传统超采样不同，DLSS 5 以游戏每帧的颜色和动态向量为输入，利用 AI 模型为场景生成与原始 3D 内容紧密对齐的拟真光照和材质，最高可在 4K 分辨率下实时运行。据介绍，《燕云十六声》此次接入的是 DLSS 5 中的 3D 引导神经渲染方案。该方案以游戏引擎渲染的帧为不可更改的基础，在完整保留美术人员设计的几何结构、纹理和光照缓冲的前提下，由神经网络实时重建复杂光照与材质细节，目标是提升光照与角色质感，同时避免模糊或清晰度损失。《燕云十六声》官方表示，11 月 24 日上线的版本历经英伟达多轮专项调优，在画面效果与运行帧率之间实现了更好的平衡。官方称后续将继续与英伟达保持技术合作，持续更",
+      "detail": "IT之家 11 月 4 日消息，网易旗下开放世界武侠游戏《燕云十六声》官方宣布将于 2026 年 11 月 24 日正式实装英伟达 DLSS 5 技术，成为全球首批、国内首款支持该技术的游戏（北美地区将提前一天，于 11 月 23 日先行上线）。DLSS 5 是英伟达在 2026 年 3 月 GTC 大会上公布的新一代实时神经渲染技术，官方将其定位为“图形领域的 GPT 时刻”。与单纯提升分辨率的传统超采样不同，DLSS 5 以游戏每帧的颜色和动态向量为输入，利用 AI 模型为场景生成与原始 3D 内容紧密对齐的拟真光照和材质，最高可在 4K 分辨率下实时运行。据介绍，《燕云十六声》此次接入的是 DLSS 5 中的 3D 引导神经渲染方案。该方案以游戏引擎渲染的帧为不可更改的基础，在完整保留美术人员设计的几何结构、纹理和光照缓冲的前提下，由神经网络实时重建复杂光照与材质细节，目标是提升光照与角色质感，同时避免模糊或清晰度损失。《燕云十六声》官方表示，11 月 24 日上线的版本历经英伟达多轮专项调优，在画面效果与运行帧率之间实现了更好的平衡。官方称后续将继续与英伟达保持技术合作，持续更",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-11-04",
+      "score": 0.83
+    },
+    {
+      "title": "曝字节将大面积限制员工在内部自费使用 Claude、Codex 等",
+      "url": "https://www.ithome.com/1/021/917.htm",
+      "summary": "IT之家 11 月 4 日消息，据大厂日爆 11 月 3 日爆料，字节迎来新规，将大面积限制 Claude、Codex 等个人账号的内部使用。爆料称，本月起，字节跳动将会对所有 L4 级别的代码仓库和飞书文档进行外部 AI 访问封禁，覆盖范围全公司，员工个人采买的 AI 账号不能再用。爆料还称，通知自上周发出后，引起了内部一些讨论，字节跳动技术副总裁洪定坤还在内网进行了详细回应，比如“L3 及以上内容一旦有泄露，后果是非常严重的”、“推广产品不需要用这种禁掉其他选择强迫使用的方式，因为这样效果很差”。据 The Information 今年 8 月报道，字节跳动创始人张一鸣在上个月的 Seed 团队全体会议上明确表示，即使意味着暂时落后于竞争对手，公司也不会依赖 AI 蒸馏技术来改进其模型。延伸阅读在字节跳动的职级体系中，L4 通常对应原 3-1 级别，属于团队 TL 或初级经理，是核心技术骨干与管理者的分水岭。L4 级别的代码仓库，几乎沉淀了公司全线业务的核心资产与底层架构，这也是此次封禁被内部高度重视的原因。这并非字节跳动首次收紧外部 AI 工具的使用。2025 年 5 月，字节跳",
+      "detail": "IT之家 11 月 4 日消息，据大厂日爆 11 月 3 日爆料，字节迎来新规，将大面积限制 Claude、Codex 等个人账号的内部使用。爆料称，本月起，字节跳动将会对所有 L4 级别的代码仓库和飞书文档进行外部 AI 访问封禁，覆盖范围全公司，员工个人采买的 AI 账号不能再用。爆料还称，通知自上周发出后，引起了内部一些讨论，字节跳动技术副总裁洪定坤还在内网进行了详细回应，比如“L3 及以上内容一旦有泄露，后果是非常严重的”、“推广产品不需要用这种禁掉其他选择强迫使用的方式，因为这样效果很差”。据 The Information 今年 8 月报道，字节跳动创始人张一鸣在上个月的 Seed 团队全体会议上明确表示，即使意味着暂时落后于竞争对手，公司也不会依赖 AI 蒸馏技术来改进其模型。延伸阅读在字节跳动的职级体系中，L4 通常对应原 3-1 级别，属于团队 TL 或初级经理，是核心技术骨干与管理者的分水岭。L4 级别的代码仓库，几乎沉淀了公司全线业务的核心资产与底层架构，这也是此次封禁被内部高度重视的原因。这并非字节跳动首次收紧外部 AI 工具的使用。2025 年 5 月，字节跳",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-11-04",
+      "score": 0.8225
+    },
+    {
+      "title": "Anthropic is working on a system to prove AI models’ identity",
+      "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
+      "summary": "Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from.",
+      "detail": "Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from.",
+      "source": "TechCrunch",
+      "source_authority": 0.95,
+      "date": "2026-11-04",
+      "score": 0.805
+    },
+    {
+      "title": "Google is entirely disabling Search in schools that don&#8217;t want AI",
+      "url": "https://www.theverge.com/tech/1025411/google-turn-off-search-ai-features",
+      "summary": "Google is completely turning off Search in schools that reject its AI features, the company told The New York Times. The decision was also shared in a broader education-related update from Google on Tuesday, saying that access to Gemini, Gemini Notebook, Gemini in Classroom, and Google Search \"will be entirely off\" for K-12 student accounts […]",
+      "detail": "Google is completely turning off Search in schools that reject its AI features, the company told The New York Times. The decision was also shared in a broader education-related update from Google on Tuesday, saying that access to Gemini, Gemini Notebook, Gemini in Classroom, and Google Search \"will be entirely off\" for K-12 student accounts […]",
+      "source": "The Verge",
+      "source_authority": 0.9,
+      "date": "2026-11-04",
+      "score": 0.8
+    },
+    {
+      "title": "Anthropic is still grappling with the economics of compute",
+      "url": "https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/",
+      "summary": "At a moment when Anthropic's compute margins should be getting better, they’re getting worse.",
+      "detail": "At a moment when Anthropic's compute margins should be getting better, they’re getting worse.",
+      "source": "TechCrunch",
+      "source_authority": 0.95,
+      "date": "2026-11-04",
+      "score": 0.705
+    }
+  ],
+  "category2": [
+    {
+      "title": "Google says there’s no way to use Search without using artificial intelligence",
+      "url": "https://www.theguardian.com/technology/2026/nov/03/google-search-artificial-intelligence",
+      "summary": "In announcement geared to schools, tech giant shows how entwined AI is with the world’s most popular websiteGoogle just acknowledged that you can’t use Google Search without using artificial intelligence.The search giant announced a slate of new AI products for classrooms and schools on Tuesday as well as more ways for teachers and schools to limit or restrict use of those AI tools. The company said the schools should have control over whether students use AI in the classroom. There’s one catch,",
+      "detail": "In announcement geared to schools, tech giant shows how entwined AI is with the world’s most popular websiteGoogle just acknowledged that you can’t use Google Search without using artificial intelligence.The search giant announced a slate of new AI products for classrooms and schools on Tuesday as well as more ways for teachers and schools to limit or restrict use of those AI tools. The company said the schools should have control over whether students use AI in the classroom. There’s one catch,",
+      "source": "The Guardian",
+      "source_authority": 0.85,
+      "date": "2026-11-04",
+      "score": 0.8325
+    },
+    {
+      "title": "How “reverse game theory” could keep AI agents in check",
+      "url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
+      "summary": "A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to stick to the rules. As AI models become more capable, safety researchers are scrambling to ensure they are “aligned” with human desires—to make sure, in other words, that rogue agents don’t break the law,…",
+      "detail": "A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to stick to the rules. As AI models become more capable, safety researchers are scrambling to ensure they are “aligned” with human desires—to make sure, in other words, that rogue agents don’t break the law,…",
+      "source": "MIT Tech Review",
+      "source_authority": 0.9,
+      "date": "2026-11-03",
+      "score": 0.8
+    },
+    {
+      "title": "Google will let schools disable its AI tools, but not without sacrificing Search",
+      "url": "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/",
+      "summary": "Schools choosing to restrict AI altogether will no longer be able to access Google Search, as AI features are now integrated into the search engine.",
+      "detail": "Schools choosing to restrict AI altogether will no longer be able to access Google Search, as AI features are now integrated into the search engine.",
+      "source": "TechCrunch",
+      "source_authority": 0.95,
+      "date": "2026-11-04",
+      "score": 0.7375
+    },
+    {
+      "title": "Apple restricts dating apps and AI companions to users 18 and up",
+      "url": "https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/",
+      "summary": "Apple's new App Store rules will require 18+ ratings for dating apps and AI companions that offer sexual or romantic content.",
+      "detail": "Apple's new App Store rules will require 18+ ratings for dating apps and AI companions that offer sexual or romantic content.",
+      "source": "TechCrunch",
+      "source_authority": 0.95,
+      "date": "2026-11-03",
+      "score": 0.7375
+    },
+    {
+      "title": "The Download: controlling AI agents and “Super Intelligence” loyalty tests",
+      "url": "https://www.technologyreview.com/2026/11/03/1147940/the-download-controlling-ai-agents-trump-super-intelligence/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How “reverse game theory” could keep AI agents in check A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to…",
+      "detail": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How “reverse game theory” could keep AI agents in check A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to…",
+      "source": "MIT Tech Review",
+      "source_authority": 0.9,
+      "date": "2026-11-03",
+      "score": 0.725
+    },
+    {
+      "title": "Apple starts giving Siri AI access to third-party apps",
+      "url": "https://www.theverge.com/tech/1025694/apple-siri-ai-third-party-apps",
+      "summary": "Apple will now let Siri AI perform actions across third-party apps. As part of the iOS 27.3 update rolling out on Tuesday, Apple announced developers can now integrate Siri AI's new features in \"all apps,\" allowing the voice assistant to draw on a user's personal context, process natural language prompts, and use on-screen awareness to […]",
+      "detail": "Apple will now let Siri AI perform actions across third-party apps. As part of the iOS 27.3 update rolling out on Tuesday, Apple announced developers can now integrate Siri AI's new features in \"all apps,\" allowing the voice assistant to draw on a user's personal context, process natural language prompts, and use on-screen awareness to […]",
+      "source": "The Verge",
+      "source_authority": 0.9,
+      "date": "2026-11-04",
+      "score": 0.71
+    },
+    {
+      "title": "苹果 Apple Music 新增“自唱自拍”功能：一边 K 歌一边录制视频",
+      "url": "https://www.ithome.com/1/021/918.htm",
+      "summary": "IT之家 11 月 4 日消息，@aaronp613 今日发现，苹果在 iOS 27.3 开发者测试版中为 Apple Music 上线了一项名为 Selfie Sing 的新功能，允许用户一边跟随屏幕滚动的歌词唱歌，一边使用 iPhone 前置摄像头录制视频，并在录制完成后调整人声效果、保存或分享视频。Selfie Sing 是苹果对现有 Apple Music 卡拉 OK 功能的进一步扩展。此前，Apple Music 的 K 歌模式已支持降低歌曲原唱音量，并通过高亮显示的同步歌词帮助用户跟唱。新增的 Selfie Sing 则将视频录制功能整合进音乐播放界面。升级到 iOS 27.3 测试版后，用户在 Apple Music 中播放支持 Selfie Sing 的歌曲后，可以在歌曲的人声音量控制下方找到新的摄像头按钮。点击后即可进入视频录制界面，屏幕会同步滚动显示歌词，录制的视频采用竖屏格式。歌曲播放结束后，用户可以调整自己的声音音量，还能选择 Megaphone（扩音器）、Echo（回声）、Concert Hall（音乐厅）和 Studio（录音室）等效果。完成编辑后，视频可以",
+      "detail": "IT之家 11 月 4 日消息，@aaronp613 今日发现，苹果在 iOS 27.3 开发者测试版中为 Apple Music 上线了一项名为 Selfie Sing 的新功能，允许用户一边跟随屏幕滚动的歌词唱歌，一边使用 iPhone 前置摄像头录制视频，并在录制完成后调整人声效果、保存或分享视频。Selfie Sing 是苹果对现有 Apple Music 卡拉 OK 功能的进一步扩展。此前，Apple Music 的 K 歌模式已支持降低歌曲原唱音量，并通过高亮显示的同步歌词帮助用户跟唱。新增的 Selfie Sing 则将视频录制功能整合进音乐播放界面。升级到 iOS 27.3 测试版后，用户在 Apple Music 中播放支持 Selfie Sing 的歌曲后，可以在歌曲的人声音量控制下方找到新的摄像头按钮。点击后即可进入视频录制界面，屏幕会同步滚动显示歌词，录制的视频采用竖屏格式。歌曲播放结束后，用户可以调整自己的声音音量，还能选择 Megaphone（扩音器）、Echo（回声）、Concert Hall（音乐厅）和 Studio（录音室）等效果。完成编辑后，视频可以",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-11-04",
+      "score": 0.695
+    },
+    {
+      "title": "三星 Galaxy S27 系列智能手机海关舱单信息现身，高通骁龙 8 Elite Gen 6 版 S27 Pro 曝光",
+      "url": "https://www.ithome.com/1/022/008.htm",
+      "summary": "IT之家 11 月 4 日消息，根据在第三方海关舱单数据平台纽佰德 (NBD) 上的查询，今年 9 月出现了 4 条三星电子 Galaxy S27 系列智能手机的记录，分别对应标准、Plus、Pro、Ultra 版本。这些产品的型号均符合 SM-S95xB / DS 格式，部分产品代号符合 SM-S95xBE_SEA_DX 格式，很可能对应着在东南亚 (SEA) 区域销售的国际版双卡机型。以下是IT之家整理的屏幕与处理器规格信息：Galaxy S27：6.3\" 屏幕，三星 Exynos 2700 处理器；Galaxy S27 Plus：6.7\" 屏幕，三星 Exynos 2700 处理器；Galaxy S27 Pro：6.5\" 屏幕，高通 SM8950（第 6 代骁龙 8 至尊版，骁龙 8 Elite Gen6）处理器；Galaxy S27 Ultra：6.9\" 屏幕，高通 SM8975（第 6 代骁龙 8 超级至尊版，骁龙 8 Elite Extreme Gen 6）处理器。相关阅读：《高通第六代骁龙 8 至尊版芯片配置曝光：SM8950 和 SM8975 双版本，台积电 2nm 工",
+      "detail": "IT之家 11 月 4 日消息，根据在第三方海关舱单数据平台纽佰德 (NBD) 上的查询，今年 9 月出现了 4 条三星电子 Galaxy S27 系列智能手机的记录，分别对应标准、Plus、Pro、Ultra 版本。这些产品的型号均符合 SM-S95xB / DS 格式，部分产品代号符合 SM-S95xBE_SEA_DX 格式，很可能对应着在东南亚 (SEA) 区域销售的国际版双卡机型。以下是IT之家整理的屏幕与处理器规格信息：Galaxy S27：6.3\" 屏幕，三星 Exynos 2700 处理器；Galaxy S27 Plus：6.7\" 屏幕，三星 Exynos 2700 处理器；Galaxy S27 Pro：6.5\" 屏幕，高通 SM8950（第 6 代骁龙 8 至尊版，骁龙 8 Elite Gen6）处理器；Galaxy S27 Ultra：6.9\" 屏幕，高通 SM8975（第 6 代骁龙 8 超级至尊版，骁龙 8 Elite Extreme Gen 6）处理器。相关阅读：《高通第六代骁龙 8 至尊版芯片配置曝光：SM8950 和 SM8975 双版本，台积电 2nm 工",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-11-04",
+      "score": 0.665
+    },
+    {
+      "title": "Apple warns of ‘unprecedented’ rise in memory chip prices",
+      "url": "https://www.theguardian.com/technology/2026/nov/02/apple-third-quarter-revenue-earnings",
+      "summary": "iPhone maker says decision to raise prices has offset some of impact, as revenues are stronger than expectedBusiness live – latest updatesApple has warned of an “unprecedented” rise in memory chip prices, as it battles with datacentres to lay its hands on supplies.The iPhone maker’s shares fell in after-hours trading after it told investors that the higher prices will eat into its profit margins. Continue reading...",
+      "detail": "iPhone maker says decision to raise prices has offset some of impact, as revenues are stronger than expectedBusiness live – latest updatesApple has warned of an “unprecedented” rise in memory chip prices, as it battles with datacentres to lay its hands on supplies.The iPhone maker’s shares fell in after-hours trading after it told investors that the higher prices will eat into its profit margins. Continue reading...",
+      "source": "The Guardian",
+      "source_authority": 0.85,
+      "date": "2026-11-03",
+      "score": 0.66
+    },
+    {
+      "title": "Indie games are missing launch dates because Steam is backed up",
+      "url": "https://www.theverge.com/games/1025596/valve-steam-indie-games-missing-launch-dates",
+      "summary": "Many indie game developers have recently posted on social media about unexpectedly long approval wait times for their game submissions on Steam, with some of the approvals causing developers to miss their planned launch dates. For example, Studio Daimon, the team behind an upcoming title called Food Devils, had planned to launch the game in […]",
+      "detail": "Many indie game developers have recently posted on social media about unexpectedly long approval wait times for their game submissions on Steam, with some of the approvals causing developers to miss their planned launch dates. For example, Studio Daimon, the team behind an upcoming title called Food Devils, had planned to launch the game in […]",
+      "source": "The Verge",
+      "source_authority": 0.9,
+      "date": "2026-11-04",
+      "score": 0.635
+    }
+  ],
+  "category3": [
+    {
+      "title": "消息称三星电子计划在美国泰勒第二晶圆厂为 AMD 等客户生产 HBM 基础裸片",
+      "url": "https://www.ithome.com/1/021/954.htm",
+      "summary": "IT之家 11 月 4 日消息，韩媒《每日经济》当地时间昨日报道称，三星电子晶圆代工业务计划在其美国得克萨斯州泰勒市集群的第二晶圆厂为 AMD 等客户生产 HBM 基础裸片 (Base Die)。IT之家注意到，三星晶圆代工泰勒集群的首座晶圆厂将在 2026 年内投运；第二晶圆厂则将在本月动工，预计 2030 年投运。三星晶圆代工主要向自家存储器业务供应 HBM 基础裸片。自 HBM4 世代开始，内存制造商的自有工艺逐渐无法满足 HBM 堆栈底层与 XPU 通信的基础裸片的性能需求，而未来定制 HBM 还要将部分 XPU 功能卸载到基础裸片上，这导致内存制造商开始向外部先进制程代工企业提供基础裸片制造订单。业内人士认为，三星晶圆代工泰勒第二晶圆厂制造的 HBM 基础裸片除流向 AMD 外，也可能被用于博通为客户打造的 AI ASIC。参考https://www.mk.co.kr/news/business/12195087",
+      "detail": "IT之家 11 月 4 日消息，韩媒《每日经济》当地时间昨日报道称，三星电子晶圆代工业务计划在其美国得克萨斯州泰勒市集群的第二晶圆厂为 AMD 等客户生产 HBM 基础裸片 (Base Die)。IT之家注意到，三星晶圆代工泰勒集群的首座晶圆厂将在 2026 年内投运；第二晶圆厂则将在本月动工，预计 2030 年投运。三星晶圆代工主要向自家存储器业务供应 HBM 基础裸片。自 HBM4 世代开始，内存制造商的自有工艺逐渐无法满足 HBM 堆栈底层与 XPU 通信的基础裸片的性能需求，而未来定制 HBM 还要将部分 XPU 功能卸载到基础裸片上，这导致内存制造商开始向外部先进制程代工企业提供基础裸片制造订单。业内人士认为，三星晶圆代工泰勒第二晶圆厂制造的 HBM 基础裸片除流向 AMD 外，也可能被用于博通为客户打造的 AI ASIC。参考https://www.mk.co.kr/news/business/12195087",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-11-04",
+      "score": 0.845
+    },
+    {
+      "title": "Chip Industry Technical Paper Roundup: Nov. 3",
+      "url": "https://semiengineering.com/chip-industry-technical-paper-roundup-nov-3/",
+      "summary": "Meter-scale quantum interconnects; 2.5D/3D GPU integration and embodied emissions; secure memory-dependent prefetching; routing-aware analog placement; AI-enhanced flip-chip defect detection; superposed PCM for neural-network vector storage.\nThe post Chip Industry Technical Paper Roundup: Nov. 3 appeared first on Semiconductor Engineering.",
+      "detail": "Meter-scale quantum interconnects; 2.5D/3D GPU integration and embodied emissions; secure memory-dependent prefetching; routing-aware analog placement; AI-enhanced flip-chip defect detection; superposed PCM for neural-network vector storage.\nThe post Chip Industry Technical Paper Roundup: Nov. 3 appeared first on Semiconductor Engineering.",
+      "source": "SemiEngineering",
+      "source_authority": 0.85,
+      "date": "2026-11-03",
+      "score": 0.825
+    },
+    {
+      "title": "预订价格 13.98 万-17.58 万元，奇瑞 iCAR V25 方盒子 SUV 上市定档 11 月 19 日",
+      "url": "https://www.ithome.com/1/021/949.htm",
+      "summary": "IT之家 11 月 4 日消息，今天（4 日）上午，奇瑞 iCAR 汽车官微宣布，方盒子 SUV 新车 iCAR V25 将于 11 月 19 日正式上市。该车已在今年 10 月开启预订，提供四种配置，价格区间在 13.98-17.58 万元。IT之家附该车各版本预订价格如下：后驱 Pro：13.98 万元后驱 Max：14.98 万元四驱 Max+：16.38 万元四驱 Ultra：17.58 万元外观方面，iCAR V25 采用经典方盒子造型，拥有垂立 A 柱搭配宽体轮眉，提供白（珠光漆）、黑、银、绿、灰（哑光）等 5 种车色。该车尺寸为 4636*1920*1855mm，轴距 2820mm。提供 21 英寸轮辋搭配 265mm 宽胎，D 柱盲窗饰板支持拆卸，支持加装爬梯、侧背箱等配件。同时，该车搭载超级猎鹰 700+ 辅助驾驶系统，以及地平线征程 6P 芯片，算力可达 560TOPS。侧面配备半隐藏式机械门，车上配备一体式高强度铝合金固定式侧踏。车尾带有乐高模块风格的九宫格高位制动灯。车辆采用 88° 大开口侧开尾门，搭载高强度锻造铰链，具备无级限位功能，能够在任意角度稳定悬停。",
+      "detail": "IT之家 11 月 4 日消息，今天（4 日）上午，奇瑞 iCAR 汽车官微宣布，方盒子 SUV 新车 iCAR V25 将于 11 月 19 日正式上市。该车已在今年 10 月开启预订，提供四种配置，价格区间在 13.98-17.58 万元。IT之家附该车各版本预订价格如下：后驱 Pro：13.98 万元后驱 Max：14.98 万元四驱 Max+：16.38 万元四驱 Ultra：17.58 万元外观方面，iCAR V25 采用经典方盒子造型，拥有垂立 A 柱搭配宽体轮眉，提供白（珠光漆）、黑、银、绿、灰（哑光）等 5 种车色。该车尺寸为 4636*1920*1855mm，轴距 2820mm。提供 21 英寸轮辋搭配 265mm 宽胎，D 柱盲窗饰板支持拆卸，支持加装爬梯、侧背箱等配件。同时，该车搭载超级猎鹰 700+ 辅助驾驶系统，以及地平线征程 6P 芯片，算力可达 560TOPS。侧面配备半隐藏式机械门，车上配备一体式高强度铝合金固定式侧踏。车尾带有乐高模块风格的九宫格高位制动灯。车辆采用 88° 大开口侧开尾门，搭载高强度锻造铰链，具备无级限位功能，能够在任意角度稳定悬停。",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-11-04",
+      "score": 0.785
+    },
+    {
+      "title": "博世将于 2028 年 1 月成立独立的半导体业务部门",
+      "url": "https://www.ithome.com/1/021/931.htm",
+      "summary": "IT之家 11 月 4 日消息，BOSCH（博世）当地时间本月 3 日宣布，计划于 2028 年 1 月将长期隶属移动电子事业部的半导体业务升格为独立业务部门。半导体部门未来仍将是其移动出行业务板块的一部分。博世目前在全球拥有约 40 个半导体研发、生产、制造基地。该企业近年来已向德国两处晶圆厂投资约 30 亿美元，美国加州的碳化硅设施也在建设之中，马来西亚槟城测试中心将在 2035 年前进一步扩展。博世也是台积电在欧合资晶圆厂 ESMC 的股东之一。博世目标到 2030 年实现约 50 亿欧元（IT之家注：现汇率约合 373.56 亿元人民币）的半导体销售额。",
+      "detail": "IT之家 11 月 4 日消息，BOSCH（博世）当地时间本月 3 日宣布，计划于 2028 年 1 月将长期隶属移动电子事业部的半导体业务升格为独立业务部门。半导体部门未来仍将是其移动出行业务板块的一部分。博世目前在全球拥有约 40 个半导体研发、生产、制造基地。该企业近年来已向德国两处晶圆厂投资约 30 亿美元，美国加州的碳化硅设施也在建设之中，马来西亚槟城测试中心将在 2035 年前进一步扩展。博世也是台积电在欧合资晶圆厂 ESMC 的股东之一。博世目标到 2030 年实现约 50 亿欧元（IT之家注：现汇率约合 373.56 亿元人民币）的半导体销售额。",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-11-04",
+      "score": 0.7825
+    },
+    {
+      "title": "Apple’s latest watchOS beta includes its new always-on Audio Intelligence features",
+      "url": "https://www.theverge.com/tech/1025002/apple-watch-audio-intelligence-watchos-beta",
+      "summary": "Starting today, Siri can tune into the Apple Watch's mic with Audio Intelligence features that are available in the new watchOS 27.3 developer beta rolling out now. The two new additions are Siri Recap, which uses \"ambient listening\" to generate summaries of your conversation, and Live Rewind, which generates text transcripts of the last 15 […]",
+      "detail": "Starting today, Siri can tune into the Apple Watch's mic with Audio Intelligence features that are available in the new watchOS 27.3 developer beta rolling out now. The two new additions are Siri Recap, which uses \"ambient listening\" to generate summaries of your conversation, and Live Rewind, which generates text transcripts of the last 15 […]",
+      "source": "The Verge",
+      "source_authority": 0.9,
+      "date": "2026-11-04",
+      "score": 0.71
+    },
+    {
+      "title": "AI ‘godfather’ Geoffrey Hinton: it might turn out we were better off without AI",
+      "url": "https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai",
+      "summary": "Nobel winner warns the tech could be near to triggering major incident such as power or banking shutdownOne of the “godfathers of AI”, Geoffrey Hinton, has said it could turn out that humans would have been better off never developing the technology as he warned it could trigger a large-scale incident this year or next, such as a temporary blackout of financial or power systems.The Nobel prize-winning computer scientist told the Guardian he is not a “doomer” about the technology that is underpin",
+      "detail": "Nobel winner warns the tech could be near to triggering major incident such as power or banking shutdownOne of the “godfathers of AI”, Geoffrey Hinton, has said it could turn out that humans would have been better off never developing the technology as he warned it could trigger a large-scale incident this year or next, such as a temporary blackout of financial or power systems.The Nobel prize-winning computer scientist told the Guardian he is not a “doomer” about the technology that is underpin",
+      "source": "The Guardian",
+      "source_authority": 0.85,
+      "date": "2026-11-04",
+      "score": 0.705
+    },
+    {
+      "title": "‘Our Risk, Their Reward’: Zohran Mamdani on AI and Data Centers",
+      "url": "https://www.wired.com/story/the-big-interview-podcast-nyc-mayor-zohran-mamdani/",
+      "summary": "Ahead of the midterms, WIRED talked to New York City’s mayor about data centers, AI in schools, and the future of the Democratic party.",
+      "detail": "Ahead of the midterms, WIRED talked to New York City’s mayor about data centers, AI in schools, and the future of the Democratic party.",
+      "source": "Wired",
+      "source_authority": 0.85,
+      "date": "2026-11-03",
+      "score": 0.6
+    }
+  ],
+  "category4": [
+    {
+      "title": "Ben Waters on the latest wireless charging strategies",
+      "url": "https://www.therobotreport.com/ben-waters-on-the-latest-wireless-charging-strategies/",
+      "summary": "Ben Waters discusses opportunity charging, battery life, and the infrastructure needed to keep growing robot fleets running.\nThe post Ben Waters on the latest wireless charging strategies appeared first on The Robot Report.",
+      "detail": "Ben Waters discusses opportunity charging, battery life, and the infrastructure needed to keep growing robot fleets running.\nThe post Ben Waters on the latest wireless charging strategies appeared first on The Robot Report.",
+      "source": "The Robot Report",
+      "source_authority": 0.85,
+      "date": "2026-11-04",
+      "score": 0.775
+    },
+    {
+      "title": "比亚迪新车型确认 11 月 27 日广州车展首发，预计为全新一代比亚迪汉",
+      "url": "https://www.ithome.com/1/021/955.htm",
+      "summary": "IT之家 11 月 4 日消息，比亚迪王朝网销售事业部总经理路天 11 月 2 日公布，王朝网 10 月销量达到 203,040 辆，为其今年首次站上 20 万辆台阶。路天同时宣布，11 月广州车展将推出一款“用户呼声很高的车型”。同时，比亚迪第三代唐 8 系大五座科技旗舰 SUV 正在上市筹备中，展车已经陆续到店。虽然路天没有透露关于新车的任何信息，但结合最近工信部新车申报但没发布以及“用户呼声很高”这一特点来看，这款新车大概率会是全新一代比亚迪汉。新一代比亚迪汉已在工信部第 412 批新车申报目录中完成申报，共涉及四款车型，包括三款纯电版本与一款插混版本。新车车身长宽高为 5156/1969/1507（1492）mm，轴距 3030mm。对比现款汉，车长增加 161mm，宽度增加 59mm，轴距增加 110mm。车头造型饱满圆润，配备贯穿式前大灯，车头顶端搭载激光雷达。纯电版本提供三种动力配置。245kW 后驱入门版搭载型号 TZ205QYS 永磁同步单电机，峰值功率 245kW，最高车速 240km/h，整备质量 2005kg；300kW 高性能后驱版搭载 TZ205QYD 永磁",
+      "detail": "IT之家 11 月 4 日消息，比亚迪王朝网销售事业部总经理路天 11 月 2 日公布，王朝网 10 月销量达到 203,040 辆，为其今年首次站上 20 万辆台阶。路天同时宣布，11 月广州车展将推出一款“用户呼声很高的车型”。同时，比亚迪第三代唐 8 系大五座科技旗舰 SUV 正在上市筹备中，展车已经陆续到店。虽然路天没有透露关于新车的任何信息，但结合最近工信部新车申报但没发布以及“用户呼声很高”这一特点来看，这款新车大概率会是全新一代比亚迪汉。新一代比亚迪汉已在工信部第 412 批新车申报目录中完成申报，共涉及四款车型，包括三款纯电版本与一款插混版本。新车车身长宽高为 5156/1969/1507（1492）mm，轴距 3030mm。对比现款汉，车长增加 161mm，宽度增加 59mm，轴距增加 110mm。车头造型饱满圆润，配备贯穿式前大灯，车头顶端搭载激光雷达。纯电版本提供三种动力配置。245kW 后驱入门版搭载型号 TZ205QYS 永磁同步单电机，峰值功率 245kW，最高车速 240km/h，整备质量 2005kg；300kW 高性能后驱版搭载 TZ205QYD 永磁",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-11-04",
+      "score": 0.7575
+    },
+    {
+      "title": "New ISO interoperability standard covers collaboration among mobile robots from multiple vendors",
+      "url": "https://www.therobotreport.com/new-iso-interoperability-standard-covers-collaboration-among-mobile-robots-from-multiple-vendors/",
+      "summary": "The ISO 21423:2026 interoperability standard is intended to allow mobile robots from multiple vendors to communicate and coordinate.\nThe post New ISO interoperability standard covers collaboration among mobile robots from multiple vendors appeared first on The Robot Report.",
+      "detail": "The ISO 21423:2026 interoperability standard is intended to allow mobile robots from multiple vendors to communicate and coordinate.\nThe post New ISO interoperability standard covers collaboration among mobile robots from multiple vendors appeared first on The Robot Report.",
+      "source": "The Robot Report",
+      "source_authority": 0.85,
+      "date": "2026-11-03",
+      "score": 0.73
+    },
+    {
+      "title": "明知车辆用不了 FSD 却仍然推销，特斯拉在韩国遭消费者组织投诉",
+      "url": "https://www.ithome.com/1/022/009.htm",
+      "summary": "IT之家 11 月 4 日消息，据路透社报道，韩国消费者权益组织准备于当地时间 5 日向韩国公平交易委员会投诉特斯拉，指控特斯拉明知在韩销售的大多数车辆无法合法使用 FSD 驾驶辅助系统，却仍向消费者推销该功能，涉嫌误导数万名韩国消费者。多年来，特斯拉一直在韩国向潜在购车者推销完全自动驾驶（驾驶员监督版，FSD）软件，通常要求消费者一次性支付 904.3 万韩元（IT之家注：现汇率约合 44,862 元人民币）。特斯拉韩国负责人徐永得上个月在国会作证时透露，韩国注册的特斯拉汽车中，只有约 20% 能够使用 FSD，均为美国生产的车辆。然而，韩国销售的大部分特斯拉汽车产自中国，中韩之间并无类似协议。特斯拉向消费者收取 FSD 费用已有三年多，最近才开始为中国生产的车辆申请使用 FSD 所需的认证。特斯拉向韩国国会提供的数据显示，自 2023 年以来，特斯拉在韩国销售的上海工厂生产车辆超过 17 万辆。韩国消费者权益组织“消费者主权市民会议”汽车事务负责人崔永锡指出：“特斯拉向买了之后一天都用不了的普通消费者出售昂贵的驾驶辅助系统，赚取了巨额收入。”投诉指出，特斯拉 2025 年曾以“即将",
+      "detail": "IT之家 11 月 4 日消息，据路透社报道，韩国消费者权益组织准备于当地时间 5 日向韩国公平交易委员会投诉特斯拉，指控特斯拉明知在韩销售的大多数车辆无法合法使用 FSD 驾驶辅助系统，却仍向消费者推销该功能，涉嫌误导数万名韩国消费者。多年来，特斯拉一直在韩国向潜在购车者推销完全自动驾驶（驾驶员监督版，FSD）软件，通常要求消费者一次性支付 904.3 万韩元（IT之家注：现汇率约合 44,862 元人民币）。特斯拉韩国负责人徐永得上个月在国会作证时透露，韩国注册的特斯拉汽车中，只有约 20% 能够使用 FSD，均为美国生产的车辆。然而，韩国销售的大部分特斯拉汽车产自中国，中韩之间并无类似协议。特斯拉向消费者收取 FSD 费用已有三年多，最近才开始为中国生产的车辆申请使用 FSD 所需的认证。特斯拉向韩国国会提供的数据显示，自 2023 年以来，特斯拉在韩国销售的上海工厂生产车辆超过 17 万辆。韩国消费者权益组织“消费者主权市民会议”汽车事务负责人崔永锡指出：“特斯拉向买了之后一天都用不了的普通消费者出售昂贵的驾驶辅助系统，赚取了巨额收入。”投诉指出，特斯拉 2025 年曾以“即将",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-11-04",
+      "score": 0.71
+    }
+  ]
+}
