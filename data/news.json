@@ -2,15 +2,15 @@
   "date": "2026-11-05",
   "category1": [
     {
-      "title": "前 Anthropic Claude Code 产品负责人 Cat Wu 跳槽加入 OpenAI，负责核心产品管理",
-      "url": "https://www.ithome.com/1/022/604.htm",
-      "summary": "IT之家 11 月 5 日消息，前 Anthropic Claude Code 产品负责人 Cat Wu 今日宣布加入 OpenAI，担任核心产品（Core Products）产品管理负责人。她将参与 OpenAI 核心产品及智能体相关工作，与企业产品负责人 Nick Turley、消费级产品负责人 Ashley Alexander 等人协作，并向 Tibo Sottiaux 汇报。OpenAI 总裁 Greg Brockman 随后也在 X 上转发她的入职消息并表示欢迎。公开报道显示，她此前曾主导 Claude Code 的产品规划与商业化发展，帮助这款最初仅供 Anthropic 内部使用的工具成长为公司的重要商业产品。Cat Wu 表示，她非常尊重 OpenAI，尤其认可该公司将 AI 带给超过 10 亿用户的规模化能力。她期待与 Tibo Sottiaux 及产品团队合作，打造能够帮助个人和团队完成工作的智能体，同时让用户始终保有控制权。《Business Insider》将这次事件称为 OpenAI 的一次重大挖角。报道指出，Cat Wu 曾负责 Claude Code 的产",
-      "short_summary": "IT之家 11 月 5 日消息，前 Anthropic Claude Code 产品负责人 Cat Wu 今日宣布加入 ",
-      "detail": "IT之家 11 月 5 日消息，前 Anthropic Claude Code 产品负责人 Cat Wu 今日宣布加入 OpenAI，担任核心产品（Core Products）产品管理负责人。她将参与 OpenAI 核心产品及智能体相关工作，与企业产品负责人 Nick Turley、消费级产品负责人 Ashley Alexander 等人协作，并向 Tibo Sottiaux 汇报。OpenAI 总裁 Greg Brockman 随后也在 X 上转发她的入职消息并表示欢迎。公开报道显示，她此前曾主导 Claude Code 的产品规划与商业化发展，帮助这款最初仅供 Anthropic 内部使用的工具成长为公司的重要商业产品。Cat Wu 表示，她非常尊重 OpenAI，尤其认可该公司将 AI 带给超过 10 亿用户的规模化能力。她期待与 Tibo Sottiaux 及产品团队合作，打造能够帮助个人和团队完成工作的智能体，同时让用户始终保有控制权。《Business Insider》将这次事件称为 OpenAI 的一次重大挖角。报道指出，Cat Wu 曾负责 Claude Code 的产",
+      "title": "OpenAI 总裁布罗克曼：目前公司大部分营收来自企业客户，明年具备上市条件",
+      "url": "https://www.ithome.com/1/022/734.htm",
+      "summary": "IT之家 11 月 5 日消息，OpenAI 总裁格雷格 · 布罗克曼（Greg Brockman）当地时间周三表示，公司目前的营收大部分来自企业客户业务，并且他认为 OpenAI 将在 2027 年具备上市条件。布罗克曼表示，OpenAI 正在加大面向企业客户的销售力度，与竞争对手 Anthropic 展开竞争。后者预计将在今年年底前上市。OpenAI 正在积极推广旗下的 Codex 智能体等产品，以拓展企业市场。IT之家注意到，布罗克曼在美国加利福尼亚州纳帕举行的《华尔街日报》科技大会上发表了上述言论。当被现场问及 OpenAI 是否已准备好在明年进行首次公开募股（IPO）时，他回答说：“我认为可以。”据路透社此前报道，总部位于旧金山的 OpenAI 正在加快融资步伐。此前，该公司曾推迟上市计划，如今希望借助近期的业务增长势头，进一步推进融资工作。",
+      "short_summary": "IT之家 11 月 5 日消息，OpenAI 总裁格雷格 · 布罗克曼（Greg Brockman）当地时间周三表示，公",
+      "detail": "IT之家 11 月 5 日消息，OpenAI 总裁格雷格 · 布罗克曼（Greg Brockman）当地时间周三表示，公司目前的营收大部分来自企业客户业务，并且他认为 OpenAI 将在 2027 年具备上市条件。布罗克曼表示，OpenAI 正在加大面向企业客户的销售力度，与竞争对手 Anthropic 展开竞争。后者预计将在今年年底前上市。OpenAI 正在积极推广旗下的 Codex 智能体等产品，以拓展企业市场。IT之家注意到，布罗克曼在美国加利福尼亚州纳帕举行的《华尔街日报》科技大会上发表了上述言论。当被现场问及 OpenAI 是否已准备好在明年进行首次公开募股（IPO）时，他回答说：“我认为可以。”据路透社此前报道，总部位于旧金山的 OpenAI 正在加快融资步伐。此前，该公司曾推迟上市计划，如今希望借助近期的业务增长势头，进一步推进融资工作。",
       "source": "ITHome",
       "source_authority": 0.75,
       "date": "2026-11-05",
-      "score": 0.9625
+      "score": 0.96
     },
     {
       "title": "ChatGPT will now make you animated GIFs",
@@ -35,11 +35,11 @@
       "score": 0.8375
     },
     {
-      "title": "原 Uber 总裁 Jill Hazelbaker 加入 OpenAI：美国政界出身，担任首席企业事务官",
-      "url": "https://www.ithome.com/1/022/536.htm",
-      "summary": "IT之家 11 月 5 日消息，OpenAI 于 11 月 3 日宣布，Jill Hazelbaker 将加入 OpenAI，担任首席企业事务官，负责公司的全球传播与企业定位工作。加入 OpenAI 之前，Jill 担任 Uber 总裁兼首席企业事务官，负责领导公司的全球传播、市场营销、公共政策、安全及人力资源团队。加入 Uber 之前，Jill 在 Snap 负责传播与公共政策工作。更早之前，她曾在谷歌担任高级领导职务，负责全球企业传播、欧洲、中东和非洲地区的传播，以及欧洲地区的政府关系工作。IT之家从公告了解到，Jill 的职业生涯始于美国政界，曾在地方、州及全国层面的竞选活动中担任领导职务。她曾在参议员 John McCain 的 2008 年总统竞选团队中担任全国传播总监兼首席发言人，也曾担任纽约市市长 Michael Bloomberg 的新闻秘书。OpenAI 联合创始人兼总裁 Greg Brockman 表示：“随着 AI 融入越来越多人的生活，如何与公众沟通、互动并赢得信任，变得前所未有地重要。Jill 拥有出色的判断力和久经磨炼的领导能力，也深刻理解在全球范围内开发技",
-      "short_summary": "IT之家 11 月 5 日消息，OpenAI 于 11 月 3 日宣布，Jill Hazelbaker 将加入 Open",
-      "detail": "IT之家 11 月 5 日消息，OpenAI 于 11 月 3 日宣布，Jill Hazelbaker 将加入 OpenAI，担任首席企业事务官，负责公司的全球传播与企业定位工作。加入 OpenAI 之前，Jill 担任 Uber 总裁兼首席企业事务官，负责领导公司的全球传播、市场营销、公共政策、安全及人力资源团队。加入 Uber 之前，Jill 在 Snap 负责传播与公共政策工作。更早之前，她曾在谷歌担任高级领导职务，负责全球企业传播、欧洲、中东和非洲地区的传播，以及欧洲地区的政府关系工作。IT之家从公告了解到，Jill 的职业生涯始于美国政界，曾在地方、州及全国层面的竞选活动中担任领导职务。她曾在参议员 John McCain 的 2008 年总统竞选团队中担任全国传播总监兼首席发言人，也曾担任纽约市市长 Michael Bloomberg 的新闻秘书。OpenAI 联合创始人兼总裁 Greg Brockman 表示：“随着 AI 融入越来越多人的生活，如何与公众沟通、互动并赢得信任，变得前所未有地重要。Jill 拥有出色的判断力和久经磨炼的领导能力，也深刻理解在全球范围内开发技",
+      "title": "OpenAI 宣布收购 Pierre，扩充 Codex 第一方代码编写、理解、审查工具",
+      "url": "https://www.ithome.com/1/022/758.htm",
+      "summary": "IT之家 11 月 5 日消息，OpenAI 当地时间本月 4 日宣布将收购企业 Pierre。该公司开发了 Code Storage 大规模分布式存储系统，此外还有 Trees、Diffs 功能库以及 Highlights 实时更新高亮工具。Pierre 的 Trees 让开发者能快速浏览和定位项目文件，Diffs 则让代码变更一目了然。这两款工具都能让开发者轻松审查和浏览大量代码，同时保持出色的性能。OpenAI 希望与 Pierre 团队一道，为从智能体创建第一个分支到代码部署上线的现代软件开发树立标准。OpenAI 表示，Pierre 的开源项目将继续保持开源，该企业也将继续为这些项目贡献力量。收购完成后，客户可以继续使用 Code Storage，同时 OpenAI 将着手将其各项功能整合到 Codex 中。",
+      "short_summary": "IT之家 11 月 5 日消息，OpenAI 当地时间本月 4 日宣布将收购企业 Pierre。该公司开发了 Code ",
+      "detail": "IT之家 11 月 5 日消息，OpenAI 当地时间本月 4 日宣布将收购企业 Pierre。该公司开发了 Code Storage 大规模分布式存储系统，此外还有 Trees、Diffs 功能库以及 Highlights 实时更新高亮工具。Pierre 的 Trees 让开发者能快速浏览和定位项目文件，Diffs 则让代码变更一目了然。这两款工具都能让开发者轻松审查和浏览大量代码，同时保持出色的性能。OpenAI 希望与 Pierre 团队一道，为从智能体创建第一个分支到代码部署上线的现代软件开发树立标准。OpenAI 表示，Pierre 的开源项目将继续保持开源，该企业也将继续为这些项目贡献力量。收购完成后，客户可以继续使用 Code Storage，同时 OpenAI 将着手将其各项功能整合到 Codex 中。",
       "source": "ITHome",
       "source_authority": 0.75,
       "date": "2026-11-05",
@@ -55,17 +55,6 @@
       "source_authority": 0.95,
       "date": "2026-11-05",
       "score": 0.8025
-    },
-    {
-      "title": "小米多款新机通过 SRRC 认证，预计明年年初发布",
-      "url": "https://www.ithome.com/1/022/576.htm",
-      "summary": "IT之家 11 月 5 日消息，型号为 M016EB、M841EE、M077CE、M540BF 的小米新机已于本周早些时候通过 SRRC 认证，博主 @体验more 确认这批新机将于明年年初发布。从认证信息来看，这四款新机支持小米自家端侧大模型，备案编号为：Beijing-XiaoAiTongXueAIZhuShou-20240102、Beijing-XiaoMi-202404280002、Beijing-XiaoMiPengPaiShiJue-202503180057、Beijing-XiaoMiPengPaiGanZhi-202507250109、Beijing-XiaomiMiMo-202601050182。以 M016EB 为例，这款新机支持 n1、n3、n5、n8、n28、n41、n78 等频段，但没有中国移动 n79 的 5G 补充频段（4800–4900MHz）。根据博主 @体验more 的说法，OPPO Reno17 系列、荣耀 700 系列、vivo S70 系列、华为 Nova 17 系列将会于 11 月、12 月陆续发布，而小米 18T 系列的进度也会大幅提前。I",
-      "short_summary": "IT之家 11 月 5 日消息，型号为 M016EB、M841EE、M077CE、M540BF 的小米新机已于本周早些时",
-      "detail": "IT之家 11 月 5 日消息，型号为 M016EB、M841EE、M077CE、M540BF 的小米新机已于本周早些时候通过 SRRC 认证，博主 @体验more 确认这批新机将于明年年初发布。从认证信息来看，这四款新机支持小米自家端侧大模型，备案编号为：Beijing-XiaoAiTongXueAIZhuShou-20240102、Beijing-XiaoMi-202404280002、Beijing-XiaoMiPengPaiShiJue-202503180057、Beijing-XiaoMiPengPaiGanZhi-202507250109、Beijing-XiaomiMiMo-202601050182。以 M016EB 为例，这款新机支持 n1、n3、n5、n8、n28、n41、n78 等频段，但没有中国移动 n79 的 5G 补充频段（4800–4900MHz）。根据博主 @体验more 的说法，OPPO Reno17 系列、荣耀 700 系列、vivo S70 系列、华为 Nova 17 系列将会于 11 月、12 月陆续发布，而小米 18T 系列的进度也会大幅提前。I",
-      "source": "ITHome",
-      "source_authority": 0.75,
-      "date": "2026-11-05",
-      "score": 0.785
     },
     {
       "title": "Sam Altman addresses RAM comments: People should &#8216;put as much as they want in their computers&#8217;",
@@ -125,26 +114,15 @@
       "score": 0.79
     },
     {
-      "title": "OPPO Reno17 系列手机官宣 11 月 9 日见，全焦段 4K 超清长实况",
-      "url": "https://www.ithome.com/1/022/537.htm",
-      "summary": "IT之家 11 月 5 日消息，OPPO 今日官宣 Reno17 系列手机 11 月 9 日见，新机外观以及配置信息暂未公布。IT之家注意到，OPPO Reno17 系列手机、Watch 5 手表、Pad Air6 平板于 10 月 30 日开启预约，预计将于近期上市。此外，博主 @数码闲聊站 已爆料了 OPPO Reno17 Pro 的部分核心配置：6.32 英寸 1.5K 分辨率、120Hz 刷新率直屏联发科天玑 8550 SUPER 处理器前置摄像头 5000 万像素后置 2 亿像素大底云台主摄、5000 万像素超广角和 5000 万像素潜望长焦电池容量预计在 7000mAh 上下定位“轻薄拍照小屏机”据 OPPO Reno 系列产品经理张若星分享 Reno17 系列全新样张，新机将搭载“全焦段 4K 超清长实况”，首次将实况时长由原先 3 秒延长至 6 秒。",
-      "short_summary": "IT之家 11 月 5 日消息，OPPO 今日官宣 Reno17 系列手机 11 月 9 日见，新机外观以及配置信息暂未",
-      "detail": "IT之家 11 月 5 日消息，OPPO 今日官宣 Reno17 系列手机 11 月 9 日见，新机外观以及配置信息暂未公布。IT之家注意到，OPPO Reno17 系列手机、Watch 5 手表、Pad Air6 平板于 10 月 30 日开启预约，预计将于近期上市。此外，博主 @数码闲聊站 已爆料了 OPPO Reno17 Pro 的部分核心配置：6.32 英寸 1.5K 分辨率、120Hz 刷新率直屏联发科天玑 8550 SUPER 处理器前置摄像头 5000 万像素后置 2 亿像素大底云台主摄、5000 万像素超广角和 5000 万像素潜望长焦电池容量预计在 7000mAh 上下定位“轻薄拍照小屏机”据 OPPO Reno 系列产品经理张若星分享 Reno17 系列全新样张，新机将搭载“全焦段 4K 超清长实况”，首次将实况时长由原先 3 秒延长至 6 秒。",
+      "title": "华为余承东：鸿蒙电脑迈过百万台门槛，是新的起点",
+      "url": "https://www.ithome.com/1/022/771.htm",
+      "summary": "IT之家 11 月 5 日现场消息，在今天的华为擎云 2026 鸿蒙办公产业峰会现场，华为终端平板与 PC 产品线总裁朱懂东宣布，鸿蒙电脑累计发货量破百万。华为终端官方也转发了这一全新成就。IT之家注意到，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东随后发文，表示：鸿蒙电脑迈过百万台门槛，是新的起点。感谢大家的选择和支持 [抱拳] 今天，面向企业办公的华为擎云 HM650 系列、鸿蒙电脑企业版也来了。未来我们会继续和伙伴们一起，不断丰富应用、打磨体验！延伸阅读鸿蒙电脑于 2025 年 5 月 19 日在成都首次发布，首批产品为 HUAWEI MateBook Pro 与 HUAWEI MateBook Fold 非凡大师，两款产品均搭载基于开源鸿蒙打造的 HarmonyOS 5，是首个从操作系统内核层面重构的国产电脑。华为擎云是华为面向政企市场的商用终端品牌。本次亮相的擎云 HM650 系列是华为首款鸿蒙台式机，搭载麒麟 X90 处理器，运行 HarmonyOS 7，整机国产化率达到 100%，定位政企办公市场，此前已在华为全联接大会上公开展示。擎云 HM650/HM",
+      "short_summary": "IT之家 11 月 5 日现场消息，在今天的华为擎云 2026 鸿蒙办公产业峰会现场，华为终端平板与 PC 产品线总裁朱",
+      "detail": "IT之家 11 月 5 日现场消息，在今天的华为擎云 2026 鸿蒙办公产业峰会现场，华为终端平板与 PC 产品线总裁朱懂东宣布，鸿蒙电脑累计发货量破百万。华为终端官方也转发了这一全新成就。IT之家注意到，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东随后发文，表示：鸿蒙电脑迈过百万台门槛，是新的起点。感谢大家的选择和支持 [抱拳] 今天，面向企业办公的华为擎云 HM650 系列、鸿蒙电脑企业版也来了。未来我们会继续和伙伴们一起，不断丰富应用、打磨体验！延伸阅读鸿蒙电脑于 2025 年 5 月 19 日在成都首次发布，首批产品为 HUAWEI MateBook Pro 与 HUAWEI MateBook Fold 非凡大师，两款产品均搭载基于开源鸿蒙打造的 HarmonyOS 5，是首个从操作系统内核层面重构的国产电脑。华为擎云是华为面向政企市场的商用终端品牌。本次亮相的擎云 HM650 系列是华为首款鸿蒙台式机，搭载麒麟 X90 处理器，运行 HarmonyOS 7，整机国产化率达到 100%，定位政企办公市场，此前已在华为全联接大会上公开展示。擎云 HM650/HM",
       "source": "ITHome",
       "source_authority": 0.75,
       "date": "2026-11-05",
-      "score": 0.7575
-    },
-    {
-      "title": "Steam 之外的另一种选择：GOG 官宣北京时间明日举办首届游戏展",
-      "url": "https://www.ithome.com/1/022/533.htm",
-      "summary": "IT之家 11 月 5 日消息，科技媒体 Windows Central 昨日（11 月 4 日）发布博文，报道称 PC 游戏平台 GOG 官宣将于美国太平洋时间 11 月 5 日上午 10 点（IT之家注：北京时间 11 月 6 日凌晨 2 点）举办其历史上首次游戏展示活动“GOG Showcase”。官方表示，本次活动将公布新游戏、平台新功能及更多惊喜，并借平台 18 周年之机开启新篇章。GOG 长期以“玩家可永久拥有游戏”为核心卖点：其发售的 PC 游戏不绑定在线验证或 DRM 限制，并提供 30 天退款保障。该平台近年来还陆续将《恐龙危机》系列、《龙战士 4》等经典作品移植到现代 PC，让其成为复古游戏复兴和数字所有权讨论中的代表性平台。该媒体认为在数字游戏所有权日益受到关注的背景下，此次发布会尤其引人注目。随着实体光盘逐渐退出主流主机生态、部分在线服务对玩家游戏库的访问构成限制，GOG 的“无 DRM、可离线保存”模式被视为对传统数字商店的一种替代方案。",
-      "short_summary": "IT之家 11 月 5 日消息，科技媒体 Windows Central 昨日（11 月 4 日）发布博文，报道称 PC",
-      "detail": "IT之家 11 月 5 日消息，科技媒体 Windows Central 昨日（11 月 4 日）发布博文，报道称 PC 游戏平台 GOG 官宣将于美国太平洋时间 11 月 5 日上午 10 点（IT之家注：北京时间 11 月 6 日凌晨 2 点）举办其历史上首次游戏展示活动“GOG Showcase”。官方表示，本次活动将公布新游戏、平台新功能及更多惊喜，并借平台 18 周年之机开启新篇章。GOG 长期以“玩家可永久拥有游戏”为核心卖点：其发售的 PC 游戏不绑定在线验证或 DRM 限制，并提供 30 天退款保障。该平台近年来还陆续将《恐龙危机》系列、《龙战士 4》等经典作品移植到现代 PC，让其成为复古游戏复兴和数字所有权讨论中的代表性平台。该媒体认为在数字游戏所有权日益受到关注的背景下，此次发布会尤其引人注目。随着实体光盘逐渐退出主流主机生态、部分在线服务对玩家游戏库的访问构成限制，GOG 的“无 DRM、可离线保存”模式被视为对传统数字商店的一种替代方案。",
-      "source": "ITHome",
-      "source_authority": 0.75,
-      "date": "2026-11-05",
-      "score": 0.7575
+      "score": 0.7825
     },
     {
       "title": "Uber only fulfilled 4 rides from AI agents last quarter",
@@ -156,17 +134,6 @@
       "source_authority": 0.9,
       "date": "2026-11-04",
       "score": 0.755
-    },
-    {
-      "title": "消息称某厂子系 2nm 旗舰测试 50Mp 中底潜望镜，预计小米 REDMI 旗下",
-      "url": "https://www.ithome.com/1/022/571.htm",
-      "summary": "IT之家 11 月 5 日消息，据博主 @数码闲聊站 今日爆料，某厂子系 2nm 旗舰新机的潜望镜测试 50Mp 1/1.95 英寸中底传感器，支持 3X± 光变。结合该博主此前的爆料习惯，预计该机为小米 REDMI 旗下。目前，这款新机的具体型号还未知。该博主此前曾爆料，某厂子系测试了 4 台 7 英寸大屏 + 万级大电池，包含有 2nm 旗舰机，预计明年上半年都能见到。当时，外界同样推测该机为小米 REDMI 旗下。▲ IT之家开箱：REDMI K100 Pro 系列图赏作为参考，小米现款 REDMI K100 系列手机发布于今年 8 月。其中 Pro Max 机型采用 6.9 英寸 2608×1200 分辨率 OLED 直屏，搭载第五代骁龙 8 至尊版处理器及 LPDDR5X+UFS 4.1 组合，电池容量增至 9070mAh，上市建议零售价为 4499 元起。",
-      "short_summary": "IT之家 11 月 5 日消息，据博主 @数码闲聊站 今日爆料，某厂子系 2nm 旗舰新机的潜望镜测试 50Mp 1/1",
-      "detail": "IT之家 11 月 5 日消息，据博主 @数码闲聊站 今日爆料，某厂子系 2nm 旗舰新机的潜望镜测试 50Mp 1/1.95 英寸中底传感器，支持 3X± 光变。结合该博主此前的爆料习惯，预计该机为小米 REDMI 旗下。目前，这款新机的具体型号还未知。该博主此前曾爆料，某厂子系测试了 4 台 7 英寸大屏 + 万级大电池，包含有 2nm 旗舰机，预计明年上半年都能见到。当时，外界同样推测该机为小米 REDMI 旗下。▲ IT之家开箱：REDMI K100 Pro 系列图赏作为参考，小米现款 REDMI K100 系列手机发布于今年 8 月。其中 Pro Max 机型采用 6.9 英寸 2608×1200 分辨率 OLED 直屏，搭载第五代骁龙 8 至尊版处理器及 LPDDR5X+UFS 4.1 组合，电池容量增至 9070mAh，上市建议零售价为 4499 元起。",
-      "source": "ITHome",
-      "source_authority": 0.75,
-      "date": "2026-11-05",
-      "score": 0.7325
     },
     {
       "title": "The Biggest Pro-AI Super PAC Network Didn’t Really Impact the Midterms",
@@ -222,41 +189,63 @@
       "source_authority": 0.85,
       "date": "2026-11-04",
       "score": 0.6775
+    },
+    {
+      "title": "UK to deploy facial recognition in biggest-ever immigration crackdown",
+      "url": "https://www.theguardian.com/technology/2026/nov/04/uk-deploy-facial-recognition-biggest-ever-immigration-crackdown",
+      "summary": "Documents show Home Office developing programme to use technology for general immigration enforcementThe Home Office is preparing to deploy facial recognition technology at transport hubs and public events as part of the biggest immigration enforcement crackdown in British history.Policy documents show the government has been developing a programme to deploy live facial recognition (LFR) cameras for “general immigration enforcement”, including non-criminal immigration offences. Continue reading.",
+      "short_summary": "Documents show Home Office developing programme to use techn",
+      "detail": "Documents show Home Office developing programme to use technology for general immigration enforcementThe Home Office is preparing to deploy facial recognition technology at transport hubs and public events as part of the biggest immigration enforcement crackdown in British history.Policy documents show the government has been developing a programme to deploy live facial recognition (LFR) cameras for “general immigration enforcement”, including non-criminal immigration offences. Continue reading.",
+      "source": "The Guardian",
+      "source_authority": 0.85,
+      "date": "2026-11-04",
+      "score": 0.66
+    },
+    {
+      "title": "French blood banks hacked in latest cyber-attack on Europe",
+      "url": "https://www.theguardian.com/technology/2026/nov/04/france-national-blood-service-hack-cyber-attack-europe",
+      "summary": "Temperature and defrosting thresholds raised to ‘very high levels’ at three cold stores stocking vital blood productsFrance’s national blood service has said hackers accessed control systems and boosted temperatures at three cold stores stocking vital blood products, in an apparent escalation of recent cyber-attacks on fridges and freezers across Europe.The French blood service (EFS) said temperature and defrosting thresholds had been raised to “very high levels” in the attack, adding that its a",
+      "short_summary": "Temperature and defrosting thresholds raised to ‘very high l",
+      "detail": "Temperature and defrosting thresholds raised to ‘very high levels’ at three cold stores stocking vital blood productsFrance’s national blood service has said hackers accessed control systems and boosted temperatures at three cold stores stocking vital blood products, in an apparent escalation of recent cyber-attacks on fridges and freezers across Europe.The French blood service (EFS) said temperature and defrosting thresholds had been raised to “very high levels” in the attack, adding that its a",
+      "source": "The Guardian",
+      "source_authority": 0.85,
+      "date": "2026-11-04",
+      "score": 0.66
     }
   ],
   "category3": [
     {
-      "title": "CPU 格局将迎分水岭：AMD 有望史上首次单季营收超越英特尔",
-      "url": "https://www.ithome.com/1/022/607.htm",
-      "summary": "IT之家 11 月 5 日消息，科技媒体 Tom's Hardware 昨日（11 月 4 日）发布博文，报道称 AMD 官方预估 2026 财年（2025 年 12 月 28 日～2026 年 12 月 26 日）第四财季（2026 年 9 月 26 日～2026 年 12 月 26 日）的营收，有望首次超越英特尔。IT之家查询 AMD 和英特尔官方公布的业绩指引（guidance），AMD 预测第四财季营收约 170 亿美元，同比约增长 66%、环比约增长 27%；而英特尔预估第四财季（2026 年 9 月 26 日～2026 年 12 月 26 日）营收为 150~160 亿美元。该媒体认为该预期若兑现，将成为 x86 芯片行业格局的标志性转折。AMD 的强劲表现主要来自数据中心业务，目前占比已达到 64%。其 EPYC 服务器处理器与 Instinct AI 加速器的需求同比增长接近一倍，成为抵消消费级市场压力的核心动力。随着 AI 训练、推理和云计算需求持续扩张，数据中心芯片正在取代传统 PC 处理器，成为 AMD 最重要的增长引擎。AMD 的盈利能力也因高附加值数据中心产品",
-      "short_summary": "IT之家 11 月 5 日消息，科技媒体 Tom's Hardware 昨日（11 月 4 日）发布博文，报道称 AMD",
-      "detail": "IT之家 11 月 5 日消息，科技媒体 Tom's Hardware 昨日（11 月 4 日）发布博文，报道称 AMD 官方预估 2026 财年（2025 年 12 月 28 日～2026 年 12 月 26 日）第四财季（2026 年 9 月 26 日～2026 年 12 月 26 日）的营收，有望首次超越英特尔。IT之家查询 AMD 和英特尔官方公布的业绩指引（guidance），AMD 预测第四财季营收约 170 亿美元，同比约增长 66%、环比约增长 27%；而英特尔预估第四财季（2026 年 9 月 26 日～2026 年 12 月 26 日）营收为 150~160 亿美元。该媒体认为该预期若兑现，将成为 x86 芯片行业格局的标志性转折。AMD 的强劲表现主要来自数据中心业务，目前占比已达到 64%。其 EPYC 服务器处理器与 Instinct AI 加速器的需求同比增长接近一倍，成为抵消消费级市场压力的核心动力。随着 AI 训练、推理和云计算需求持续扩张，数据中心芯片正在取代传统 PC 处理器，成为 AMD 最重要的增长引擎。AMD 的盈利能力也因高附加值数据中心产品",
+      "title": "消息称微软放弃扩大与 Nscale 的算力租赁合同，后者 IPO 前夕遭遇新考验",
+      "url": "https://www.ithome.com/1/022/753.htm",
+      "summary": "IT之家 11 月 5 日消息，据英国《金融时报》报道，英国估值最高的人工智能初创公司 Nscale 在争取 350 亿美元（IT之家注：现汇率约合 2,339.9 亿元人民币）估值上市的过程中遭遇新的考验。该公司未能与微软达成一项潜在的新交易，涉及金额可能高达数百亿美元。据三位知情人士透露，这家美国软件巨头已经放弃了一项选择权，原本可以将其现有合同规模扩大一倍以上，继续租用 Nscale 位于美国得克萨斯州某数据中心园区的计算能力。这意味着，Nscale 必须为该园区寻找新的客户，否则未来可能损失数十亿美元的收入。Nscale 的董事会成员包括 Meta 前高管谢丽尔 · 桑德伯格（Sheryl Sandberg）和英国前副首相尼克 · 克莱格爵士（Sir Nick Clegg）。此次受挫之际，这家获得英伟达投资的英国公司正准备于今年启动首次公开募股（IPO）。公司由曾在澳大利亚从事加密货币挖矿业务的乔希 · 佩恩（Josh Payne）领导。不过，投资者对人工智能基础设施建设所带来的高额债务日益谨慎，尤其是对 CoreWeave 和 Nebius 等所谓的“新云”（Neocloud",
+      "short_summary": "IT之家 11 月 5 日消息，据英国《金融时报》报道，英国估值最高的人工智能初创公司 Nscale 在争取 350 亿",
+      "detail": "IT之家 11 月 5 日消息，据英国《金融时报》报道，英国估值最高的人工智能初创公司 Nscale 在争取 350 亿美元（IT之家注：现汇率约合 2,339.9 亿元人民币）估值上市的过程中遭遇新的考验。该公司未能与微软达成一项潜在的新交易，涉及金额可能高达数百亿美元。据三位知情人士透露，这家美国软件巨头已经放弃了一项选择权，原本可以将其现有合同规模扩大一倍以上，继续租用 Nscale 位于美国得克萨斯州某数据中心园区的计算能力。这意味着，Nscale 必须为该园区寻找新的客户，否则未来可能损失数十亿美元的收入。Nscale 的董事会成员包括 Meta 前高管谢丽尔 · 桑德伯格（Sheryl Sandberg）和英国前副首相尼克 · 克莱格爵士（Sir Nick Clegg）。此次受挫之际，这家获得英伟达投资的英国公司正准备于今年启动首次公开募股（IPO）。公司由曾在澳大利亚从事加密货币挖矿业务的乔希 · 佩恩（Josh Payne）领导。不过，投资者对人工智能基础设施建设所带来的高额债务日益谨慎，尤其是对 CoreWeave 和 Nebius 等所谓的“新云”（Neocloud",
       "source": "ITHome",
       "source_authority": 0.75,
       "date": "2026-11-05",
       "score": 0.93
     },
     {
-      "title": "GPU 压力测试 FurMark 2 时隔一年迎来版本更新，支持 RTX Spark 等平台",
-      "url": "https://www.ithome.com/1/022/605.htm",
-      "summary": "IT之家 11 月 5 日消息，GPU 压力测试软件 FurMark 2 近日迎来了最新版本 2.11.0.4，这是其近一年来的首次更新。最新版本的 FurMark 2 已可在 NVIDIA RTX Spark 超级芯片等一系列新 GPU 设备上进行测试，优化时间管理，在 Windows 上合并了 GPU 核心热点与内存温度显示支持，在 Linux 上可与 Wayland 合成器正常协同工作。参考https://www.geeks3d.com/20261102/furmark-2-11-gpu-stress-test-and-graphics-benchmark/",
-      "short_summary": "IT之家 11 月 5 日消息，GPU 压力测试软件 FurMark 2 近日迎来了最新版本 2.11.0.4，这是其近",
-      "detail": "IT之家 11 月 5 日消息，GPU 压力测试软件 FurMark 2 近日迎来了最新版本 2.11.0.4，这是其近一年来的首次更新。最新版本的 FurMark 2 已可在 NVIDIA RTX Spark 超级芯片等一系列新 GPU 设备上进行测试，优化时间管理，在 Windows 上合并了 GPU 核心热点与内存温度显示支持，在 Linux 上可与 Wayland 合成器正常协同工作。参考https://www.geeks3d.com/20261102/furmark-2-11-gpu-stress-test-and-graphics-benchmark/",
+      "title": "微软官宣：AMD FSR 4.1.2 超分辨率技术首次登陆微软 XBOX Series X|S",
+      "url": "https://www.ithome.com/1/022/736.htm",
+      "summary": "IT之家 11 月 5 日消息，微软 XBOX 游戏及 XBOX 生态系统副总裁杰森 · 罗纳德（Jason Ronald）今天宣布，AMD FSR 4.1.2 现已向 XBOX Series X|S 开发者提供。IT之家注意到，AMD 这边已经发布对应新闻稿，宣布 2026 年 10 月版 GDK（微软游戏开发工具包）已经支持 AMD FSR 超分辨率技术 4.1.2，这标志着 AMD FSR 超分辨率技术首次登陆 XBOX 游戏主机。此前在 XBOX 选择使用 AMD FSR 传统分析算法的游戏，现在可以升级方案。在 XBOX Series X|S 主机中，开发者适配 FSR 4.1.2 时可以选择完整 INT8 模型，或全新的高效 Lite INT8 模型。后者的体积不到前者的一半，同时具有更低的超分辨率处理开销。开发者可以根据不同游戏的需求，选择在 GPU 性能与画面质量之间取得合适平衡的模型。此外，两款模型超分辨率时所需的显存完全相同，因为显存占用取决于渲染分辨率和显示分辨率，而非所使用的模型。开发者适配时需要考虑性能取舍，而不是显存占用。",
+      "short_summary": "IT之家 11 月 5 日消息，微软 XBOX 游戏及 XBOX 生态系统副总裁杰森 · 罗纳德（Jason Ronal",
+      "detail": "IT之家 11 月 5 日消息，微软 XBOX 游戏及 XBOX 生态系统副总裁杰森 · 罗纳德（Jason Ronald）今天宣布，AMD FSR 4.1.2 现已向 XBOX Series X|S 开发者提供。IT之家注意到，AMD 这边已经发布对应新闻稿，宣布 2026 年 10 月版 GDK（微软游戏开发工具包）已经支持 AMD FSR 超分辨率技术 4.1.2，这标志着 AMD FSR 超分辨率技术首次登陆 XBOX 游戏主机。此前在 XBOX 选择使用 AMD FSR 传统分析算法的游戏，现在可以升级方案。在 XBOX Series X|S 主机中，开发者适配 FSR 4.1.2 时可以选择完整 INT8 模型，或全新的高效 Lite INT8 模型。后者的体积不到前者的一半，同时具有更低的超分辨率处理开销。开发者可以根据不同游戏的需求，选择在 GPU 性能与画面质量之间取得合适平衡的模型。此外，两款模型超分辨率时所需的显存完全相同，因为显存占用取决于渲染分辨率和显示分辨率，而非所使用的模型。开发者适配时需要考虑性能取舍，而不是显存占用。",
       "source": "ITHome",
       "source_authority": 0.75,
       "date": "2026-11-05",
-      "score": 0.8775
+      "score": 0.9225
     },
     {
-      "title": "AI 抢走产能，任天堂实体游戏卡带供应链告急",
-      "url": "https://www.ithome.com/1/022/574.htm",
-      "summary": "IT之家 11 月 5 日消息，科技媒体 Ars Technica 昨日（11 月 4 日）发布博文，报道称由于 AI 抢走产能，任天堂实体游戏卡带的核心零部件正遭遇罕见供应压力。任天堂实体卡带的主要 ROM 存储芯片供应商旺宏电子（Macronix）第三季度（2026 年 7 月 1 日至 2026 年 9 月 30 日）财报中，其 ROM 芯片生产“已告一段落”，并将逐步退出游戏产业。旺宏电子称，过去一年其 ROM 芯片产量下降约 39%，目前仅占公司业务的 5%；相比之下，NOR 闪存、NAND 闪存和 eMMC 等芯片利润更高、需求更旺，正在挤占 ROM 芯片的晶圆产能。IT之家附上相关截图如下：图源：旺宏电子财报分析师 David Gibson 指出，旺宏电子一直是任天堂实体游戏卡带的“主要存储芯片供应商”。在旺宏逐步退出后，任天堂可能需要更多依赖罗姆半导体（Rohm）和蓝碧石半导体（Lapis Semiconductor）等供应商，卡带生产成本存在上升风险。该媒体解读认为这并不意味着任天堂将立即放弃实体游戏。任天堂上月表示，近期没有取消游戏卡带的计划；但若生产成本继续走高，",
-      "short_summary": "IT之家 11 月 5 日消息，科技媒体 Ars Technica 昨日（11 月 4 日）发布博文，报道称由于 AI ",
-      "detail": "IT之家 11 月 5 日消息，科技媒体 Ars Technica 昨日（11 月 4 日）发布博文，报道称由于 AI 抢走产能，任天堂实体游戏卡带的核心零部件正遭遇罕见供应压力。任天堂实体卡带的主要 ROM 存储芯片供应商旺宏电子（Macronix）第三季度（2026 年 7 月 1 日至 2026 年 9 月 30 日）财报中，其 ROM 芯片生产“已告一段落”，并将逐步退出游戏产业。旺宏电子称，过去一年其 ROM 芯片产量下降约 39%，目前仅占公司业务的 5%；相比之下，NOR 闪存、NAND 闪存和 eMMC 等芯片利润更高、需求更旺，正在挤占 ROM 芯片的晶圆产能。IT之家附上相关截图如下：图源：旺宏电子财报分析师 David Gibson 指出，旺宏电子一直是任天堂实体游戏卡带的“主要存储芯片供应商”。在旺宏逐步退出后，任天堂可能需要更多依赖罗姆半导体（Rohm）和蓝碧石半导体（Lapis Semiconductor）等供应商，卡带生产成本存在上升风险。该媒体解读认为这并不意味着任天堂将立即放弃实体游戏。任天堂上月表示，近期没有取消游戏卡带的计划；但若生产成本继续走高，",
+      "title": "Wi‑Fi/5G 极客神器：多功能无线设备 Flipper One 开启预订，厂商坦言“几乎不赚钱”",
+      "url": "https://www.ithome.com/1/022/763.htm",
+      "summary": "IT之家 11 月 5 日消息，Flipper Devices 昨日（11 月 4 日）发布公告，宣布多功能无线通信设备 Flipper One 开启预订，采用 20 美元（IT之家注：现汇率约合 133.7 元人民币）“预订券”模式，持有者可在未来 Kickstarter 众筹时以 379 美元（现汇率约合 2,534 元人民币）优先购买。厂商解释称，由于内存供应紧张导致零部件价格大幅上涨且难以预测，团队必须在众筹启动前提前判断真实需求，以便规划产量并锁定元器件。Flipper Devices 创始人 Pavel Zhovner 表示，Flipper One 的利润率已接近零，公司希望众筹结束后才可能实现盈利；而内存价格何时恢复正常，目前无人能够判断。IT之家此前报道，这款设备搭载瑞芯微 RK3576 处理器、Mali-G52 GPU，带有 NPU 神经网络引擎，核心性能优于树莓派 5，能够运行端侧 AI 大模型。出厂预装基于 Linux 的 Flipper OS 操作系统，提供应用商店，可自由使用。规格方面，这款设备带有十字方向键及多个可编程按钮，内置 2 个千兆以太网接口、Wi-",
+      "short_summary": "IT之家 11 月 5 日消息，Flipper Devices 昨日（11 月 4 日）发布公告，宣布多功能无线通信设备",
+      "detail": "IT之家 11 月 5 日消息，Flipper Devices 昨日（11 月 4 日）发布公告，宣布多功能无线通信设备 Flipper One 开启预订，采用 20 美元（IT之家注：现汇率约合 133.7 元人民币）“预订券”模式，持有者可在未来 Kickstarter 众筹时以 379 美元（现汇率约合 2,534 元人民币）优先购买。厂商解释称，由于内存供应紧张导致零部件价格大幅上涨且难以预测，团队必须在众筹启动前提前判断真实需求，以便规划产量并锁定元器件。Flipper Devices 创始人 Pavel Zhovner 表示，Flipper One 的利润率已接近零，公司希望众筹结束后才可能实现盈利；而内存价格何时恢复正常，目前无人能够判断。IT之家此前报道，这款设备搭载瑞芯微 RK3576 处理器、Mali-G52 GPU，带有 NPU 神经网络引擎，核心性能优于树莓派 5，能够运行端侧 AI 大模型。出厂预装基于 Linux 的 Flipper OS 操作系统，提供应用商店，可自由使用。规格方面，这款设备带有十字方向键及多个可编程按钮，内置 2 个千兆以太网接口、Wi-",
       "source": "ITHome",
       "source_authority": 0.75,
       "date": "2026-11-05",
-      "score": 0.74
+      "score": 0.8975
     },
     {
       "title": "Google faces backlash for plan that would turn off Search for schools that restrict AI",
@@ -316,6 +305,17 @@
   ],
   "category4": [
     {
+      "title": "丰田成立机器人部门，整合研发资源加速技术落地",
+      "url": "https://www.ithome.com/1/022/709.htm",
+      "summary": "IT之家 11 月 5 日消息，丰田汽车公司（Toyota Motor Corp.）成立了专门的机器人部门，加入全球主要汽车制造商的行列，加速布局机器人技术。丰田在一份声明中表示，该部门将由公司首席生产官志贺武文（Takefumi Shiga）负责，重点推动机器人在生产一线的实际应用、商业化及部署。此举旨在将公司此前分散开展的机器人研发工作整合到统一的组织架构之下。IT之家注意到，越来越多的汽车制造商开始押注机器人领域，希望将自身在制造工艺和运动控制方面积累的技术优势，转化为在人形机器人和工业机器人研发中的竞争力。拥有波士顿动力（Boston Dynamics）的现代汽车集团（Hyundai Motor Co.）已将机器人业务定位为核心增长支柱。与此同时，中国汽车制造商比亚迪（BYD Co.）也释放出投资机器人系统的信号，反映出汽车企业正将业务视野拓展至传统汽车市场之外。",
+      "short_summary": "IT之家 11 月 5 日消息，丰田汽车公司（Toyota Motor Corp.）成立了专门的机器人部门，加入全球主要",
+      "detail": "IT之家 11 月 5 日消息，丰田汽车公司（Toyota Motor Corp.）成立了专门的机器人部门，加入全球主要汽车制造商的行列，加速布局机器人技术。丰田在一份声明中表示，该部门将由公司首席生产官志贺武文（Takefumi Shiga）负责，重点推动机器人在生产一线的实际应用、商业化及部署。此举旨在将公司此前分散开展的机器人研发工作整合到统一的组织架构之下。IT之家注意到，越来越多的汽车制造商开始押注机器人领域，希望将自身在制造工艺和运动控制方面积累的技术优势，转化为在人形机器人和工业机器人研发中的竞争力。拥有波士顿动力（Boston Dynamics）的现代汽车集团（Hyundai Motor Co.）已将机器人业务定位为核心增长支柱。与此同时，中国汽车制造商比亚迪（BYD Co.）也释放出投资机器人系统的信号，反映出汽车企业正将业务视野拓展至传统汽车市场之外。",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-11-05",
+      "score": 0.875
+    },
+    {
       "title": "LiberAI Unveils Liber-0, a World Action Model That Grounds Human Experience in Robot Action",
       "url": "https://www.therobotreport.com/liberai-unveils-liber-0-a-world-action-model-that-grounds-human-experience-in-robot-action/",
       "summary": "LiberAI introduces Liber-0, a world action model pretrained on more than 2.2 million hours of human experience to support zero-shot robot manipulation.\nThe post LiberAI Unveils Liber-0, a World Action Model That Grounds Human Experience in Robot Action appeared first on The Robot Report.",
@@ -325,17 +325,6 @@
       "source_authority": 0.85,
       "date": "2026-11-04",
       "score": 0.8125
-    },
-    {
-      "title": "SEMI：全球硅晶圆出货量 2026Q3 同比增长 13.4%、环比增长 5.1%",
-      "url": "https://www.ithome.com/1/022/532.htm",
-      "summary": "IT之家 11 月 5 日消息，SEMI（国际半导体产业协会）旗下硅制造商组织 (SMG) 当地时间 4 日指出，全球硅晶圆出货量在 2026 年第 3 季度达到 37.56 亿平方英寸（IT之家注：约 242.3 万平方米）。这一数据相当于 3,321 万片 300mm（12 英寸）晶圆，同比增长 13.4%，环比增长 5.1%。▲ 图源：SEMISEMI SMG 主席、SUMCO（胜高）销售与市场部总经理 Masatsugu Miura 表示：得益于强劲的人工智能相关需求以及不断改善的工业需求，第三季度硅片出货量有所增长。人工智能相关需求持续扩展，不仅涵盖先进逻辑芯片和存储器，还延伸至功率器件和光子学领域。在机器人技术、人工智能服务器电源以及通用工业半导体需求回升的推动下，工业需求有所增强。键合和先进封装应用也继续支撑着对 300mm 抛光晶圆的需求。参考Worldwide Silicon Wafer Shipments Increase 13.4% Year-on-Year in Q3 2026, SEMI Reports相关阅读：《SEMI 预测：2026 年全球半导体硅晶圆出",
-      "short_summary": "IT之家 11 月 5 日消息，SEMI（国际半导体产业协会）旗下硅制造商组织 (SMG) 当地时间 4 日指出，全球硅",
-      "detail": "IT之家 11 月 5 日消息，SEMI（国际半导体产业协会）旗下硅制造商组织 (SMG) 当地时间 4 日指出，全球硅晶圆出货量在 2026 年第 3 季度达到 37.56 亿平方英寸（IT之家注：约 242.3 万平方米）。这一数据相当于 3,321 万片 300mm（12 英寸）晶圆，同比增长 13.4%，环比增长 5.1%。▲ 图源：SEMISEMI SMG 主席、SUMCO（胜高）销售与市场部总经理 Masatsugu Miura 表示：得益于强劲的人工智能相关需求以及不断改善的工业需求，第三季度硅片出货量有所增长。人工智能相关需求持续扩展，不仅涵盖先进逻辑芯片和存储器，还延伸至功率器件和光子学领域。在机器人技术、人工智能服务器电源以及通用工业半导体需求回升的推动下，工业需求有所增强。键合和先进封装应用也继续支撑着对 300mm 抛光晶圆的需求。参考Worldwide Silicon Wafer Shipments Increase 13.4% Year-on-Year in Q3 2026, SEMI Reports相关阅读：《SEMI 预测：2026 年全球半导体硅晶圆出",
-      "source": "ITHome",
-      "source_authority": 0.75,
-      "date": "2026-11-05",
-      "score": 0.785
     },
     {
       "title": "Robotics Startup Radar 2026",
@@ -369,6 +358,17 @@
       "source_authority": 0.85,
       "date": "2026-11-05",
       "score": 0.695
+    },
+    {
+      "title": "以“真实工作”检验机器人价值，XROGO在CeMAT ASIA发布机器人到岗计划",
+      "url": "https://www.qbitai.com/2026/11/507767.html",
+      "summary": "像雇人一样雇机器人",
+      "short_summary": "像雇人一样雇机器人",
+      "detail": "像雇人一样雇机器人",
+      "source": "量子位",
+      "source_authority": 0.85,
+      "date": "2026-11-05",
+      "score": 0.655
     }
   ]
 }
