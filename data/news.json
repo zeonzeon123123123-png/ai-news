@@ -1,187 +1,220 @@
 {
-  "date": "2026-11-08",
+  "date": "2026-11-09",
   "category1": [
     {
-      "title": "曝 ChatGPT 突现封号风波，200 美元 Pro 用户也遭殃",
-      "url": "https://www.ithome.com/1/023/879.htm",
-      "summary": "北京时间 11 月 8 日，近日多名用户在 Reddit 及 OpenAI 官方开发者社区反映，自己的 ChatGPT 账号突然遭到停用，其中包括每月订阅费用为 200 美元（IT之家注：现汇率约合 1,338 元人民币）的 Pro 用户。部分用户表示，账号被封前没有收到任何通知，长期积累的聊天记录和工作资料也因此无法访问。11 月 7 日，一名用户在 OpenAI 官方开发者社区发帖称，自己的 ChatGPT Pro 账号当天突然被停用，系统显示错误代码“account_deactivated”，但没有收到任何预警或封禁通知邮件。该用户表示，自己不仅是 ChatGPT Pro 订阅用户，还加入了 OpenAI 的网络安全相关访问计划，账号启用了需要实体安全密钥验证的高级安全设置。他怀疑，封号可能与自己近期通过不同地区的 VPN 节点访问 ChatGPT 和 Codex 有关。不过，这只是用户个人的推测。OpenAI Support 账号随后在帖子下作出回复，表示由于涉及具体账号信息，无法在公开社区论坛处理账号停用申诉。用户应通过封禁通知邮件中的链接提出申诉；如果没有收到邮件，可以通过",
-      "short_summary": "北京时间 11 月 8 日，近日多名用户在 Reddit 及 OpenAI 官方开发者社区反映，自己的 ChatGPT ",
-      "detail": "北京时间 11 月 8 日，近日多名用户在 Reddit 及 OpenAI 官方开发者社区反映，自己的 ChatGPT 账号突然遭到停用，其中包括每月订阅费用为 200 美元（IT之家注：现汇率约合 1,338 元人民币）的 Pro 用户。部分用户表示，账号被封前没有收到任何通知，长期积累的聊天记录和工作资料也因此无法访问。11 月 7 日，一名用户在 OpenAI 官方开发者社区发帖称，自己的 ChatGPT Pro 账号当天突然被停用，系统显示错误代码“account_deactivated”，但没有收到任何预警或封禁通知邮件。该用户表示，自己不仅是 ChatGPT Pro 订阅用户，还加入了 OpenAI 的网络安全相关访问计划，账号启用了需要实体安全密钥验证的高级安全设置。他怀疑，封号可能与自己近期通过不同地区的 VPN 节点访问 ChatGPT 和 Codex 有关。不过，这只是用户个人的推测。OpenAI Support 账号随后在帖子下作出回复，表示由于涉及具体账号信息，无法在公开社区论坛处理账号停用申诉。用户应通过封禁通知邮件中的链接提出申诉；如果没有收到邮件，可以通过",
+      "title": "LG AI 研究院宣布对外免费开放 K-EXAONE 2.5 模型 API",
+      "url": "https://www.ithome.com/1/024/069.htm",
+      "summary": "IT之家 11 月 9 日消息，LG AI 研究院韩国当地时间今日宣布，对外免费开放其 K-EXAONE 2.5 模型的 API。包括开发者、企业、研究机构在内任何用户，可无需付费地将 K-EXAONE 2.5 应用于服务开发和研究。这一自研技术验证模型在今年 8 月发布的原版基础上进行了追加训练，拥有比肩头部开源 AI 模型的智能体能力，在 AutomationBench、SWE-Bench Pro、BrowseComp、Claw-Eval 上的表现与 DeepSeek-V4.1-Flash 和 GLM-5.3 难分伯仲。参考https://www.lgresearch.ai/news/view?seq=754",
+      "short_summary": "IT之家 11 月 9 日消息，LG AI 研究院韩国当地时间今日宣布，对外免费开放其 K-EXAONE 2.5 模型的",
+      "detail": "IT之家 11 月 9 日消息，LG AI 研究院韩国当地时间今日宣布，对外免费开放其 K-EXAONE 2.5 模型的 API。包括开发者、企业、研究机构在内任何用户，可无需付费地将 K-EXAONE 2.5 应用于服务开发和研究。这一自研技术验证模型在今年 8 月发布的原版基础上进行了追加训练，拥有比肩头部开源 AI 模型的智能体能力，在 AutomationBench、SWE-Bench Pro、BrowseComp、Claw-Eval 上的表现与 DeepSeek-V4.1-Flash 和 GLM-5.3 难分伯仲。参考https://www.lgresearch.ai/news/view?seq=754",
       "source": "ITHome",
       "source_authority": 0.75,
-      "date": "2026-11-08",
-      "score": 0.8975
+      "date": "2026-11-09",
+      "score": 0.8675
     },
     {
-      "title": "Menlo Ventures 报告：中国 AI 模型占全球开源模型企业支出 89%，Kimi、DeepSeek、GLM 位列前三",
-      "url": "https://www.ithome.com/1/023/885.htm",
-      "summary": "IT之家 11 月 8 日消息，据《南华早报》前天报道，一项新研究显示，以月之暗面 Kimi 系列为代表的中国 AI 模型，在全球企业开源模型支出的占比为 89%，接近九成。IT之家从原报道获悉，硅谷风投公司 Menlo Ventures 近期发布的报告指出上述观点。其中月之暗面 Kimi 以 61% 份额，在全球企业开源模型支出位居第一；深度求索 DeepSeek 以 15% 排名第二；智谱的 GLM 以 11% 位列第三。相比之下，Meta Platforms 旗下的 Llama 系列是该领域市场份额最高的西方模型，但其在开源模型企业支出中的占比仅为 7%。",
-      "short_summary": "IT之家 11 月 8 日消息，据《南华早报》前天报道，一项新研究显示，以月之暗面 Kimi 系列为代表的中国 AI 模",
-      "detail": "IT之家 11 月 8 日消息，据《南华早报》前天报道，一项新研究显示，以月之暗面 Kimi 系列为代表的中国 AI 模型，在全球企业开源模型支出的占比为 89%，接近九成。IT之家从原报道获悉，硅谷风投公司 Menlo Ventures 近期发布的报告指出上述观点。其中月之暗面 Kimi 以 61% 份额，在全球企业开源模型支出位居第一；深度求索 DeepSeek 以 15% 排名第二；智谱的 GLM 以 11% 位列第三。相比之下，Meta Platforms 旗下的 Llama 系列是该领域市场份额最高的西方模型，但其在开源模型企业支出中的占比仅为 7%。",
-      "source": "ITHome",
-      "source_authority": 0.75,
-      "date": "2026-11-08",
-      "score": 0.8775
-    },
-    {
-      "title": "上汽荣威家越 07 上市首周交付突破 5000 台，限时权益价 11.98-14.48 万元",
-      "url": "https://www.ithome.com/1/023/884.htm",
-      "summary": "IT之家 11 月 8 日消息，上汽荣威今天宣布，家越 07 汽车上市首周交付量突破 5000 台（11 月 1 日至 11 月 7 日数据）。该车包含四款车型，限时权益价区间 11.98-14.48 万元。荣威家越 07 长宽高为 4900*1910*1745mm，轴距 2908mm，提供龙晶紫、玛瑙灰、宝石蓝、珍溪黑、钻石白、翡翠绿等宝石车色，可选绵云青空、坚果可可、云绒暖灰内饰色，车内还配有 AI 灵光氛围灯、双 15.6 英寸 2.5K 超清大屏。此次新车搭载 AI 极速制冰冷暖两用冰箱，可实现最快十分钟制冰。IT之家注意到，该车行业首搭豆包座舱助手支持拟人化表情、FaceID 账号识别记忆、豆包 App 联动、方言外语，实现一句话联动全车、多人交流不打断等。该车还将搭载最新 Momenta R7 世界模型与新芯航图 XHEART X7 大模型专用芯片组成的软硬一体方案。可实现单侧余量 20cm 的极窄垂直泊车，适配 300 余种车位。覆盖常规车位及断头路泊车、离车泊入、一键贴边等场景，兼容城市 NOA、高速 NOA 等功能。规格方面，该车采用增程系统，配备 32.6kWh 和",
-      "short_summary": "IT之家 11 月 8 日消息，上汽荣威今天宣布，家越 07 汽车上市首周交付量突破 5000 台（11 月 1 日至 ",
-      "detail": "IT之家 11 月 8 日消息，上汽荣威今天宣布，家越 07 汽车上市首周交付量突破 5000 台（11 月 1 日至 11 月 7 日数据）。该车包含四款车型，限时权益价区间 11.98-14.48 万元。荣威家越 07 长宽高为 4900*1910*1745mm，轴距 2908mm，提供龙晶紫、玛瑙灰、宝石蓝、珍溪黑、钻石白、翡翠绿等宝石车色，可选绵云青空、坚果可可、云绒暖灰内饰色，车内还配有 AI 灵光氛围灯、双 15.6 英寸 2.5K 超清大屏。此次新车搭载 AI 极速制冰冷暖两用冰箱，可实现最快十分钟制冰。IT之家注意到，该车行业首搭豆包座舱助手支持拟人化表情、FaceID 账号识别记忆、豆包 App 联动、方言外语，实现一句话联动全车、多人交流不打断等。该车还将搭载最新 Momenta R7 世界模型与新芯航图 XHEART X7 大模型专用芯片组成的软硬一体方案。可实现单侧余量 20cm 的极窄垂直泊车，适配 300 余种车位。覆盖常规车位及断头路泊车、离车泊入、一键贴边等场景，兼容城市 NOA、高速 NOA 等功能。规格方面，该车采用增程系统，配备 32.6kWh 和",
-      "source": "ITHome",
-      "source_authority": 0.75,
-      "date": "2026-11-08",
-      "score": 0.8225
-    },
-    {
-      "title": "Why a new report on Anthropic automating AI development is alarming researchers",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
-      "summary": "Anthropic is using AI to build more powerful AI. And it appears to be working remarkably well, with the company's models improving roughly twice as quickly as a year ago, with little indication of slowing down. That's according to a new report published Thursday by the AI safety research organization METR, following an 11-week investigation […]",
-      "short_summary": "Anthropic is using AI to build more powerful AI. And it appe",
-      "detail": "Anthropic is using AI to build more powerful AI. And it appears to be working remarkably well, with the company's models improving roughly twice as quickly as a year ago, with little indication of slowing down. That's according to a new report published Thursday by the AI safety research organization METR, following an 11-week investigation […]",
+      "title": "Apple is racing to make Siri more agentic",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
+      "summary": "Bloomberg's Mark Gurman says CEO John Ternus is pressuring AI czar Craig Federighi to accelerate the Siri roadmap and deliver a powerful AI agent that can compete with OpenAI's Dots or Meta's Muse. While Federighi has delivered a functional version of Siri AI on an incredibly short timeline, the company has no illusions that it's […]",
+      "short_summary": "Bloomberg's Mark Gurman says CEO John Ternus is pressuring A",
+      "detail": "Bloomberg's Mark Gurman says CEO John Ternus is pressuring AI czar Craig Federighi to accelerate the Siri roadmap and deliver a powerful AI agent that can compete with OpenAI's Dots or Meta's Muse. While Federighi has delivered a functional version of Siri AI on an incredibly short timeline, the company has no illusions that it's […]",
       "source": "The Verge",
       "source_authority": 0.9,
-      "date": "2026-11-07",
-      "score": 0.8
+      "date": "2026-11-09",
+      "score": 0.8625
     }
   ],
   "category2": [
     {
-      "title": "NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake",
-      "url": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review",
-      "summary": "Around 7PM each weeknight, I find myself standing in front of the fridge, trying to decide on something for dinner that won't make my husband complain, \"Chicken again?\" Yes, I should meal plan more, but I don't, so this is where I'm at. A nightly battle in which the chicken usually wins. Recently, my best […]",
-      "short_summary": "Around 7PM each weeknight, I find myself standing in front o",
-      "detail": "Around 7PM each weeknight, I find myself standing in front of the fridge, trying to decide on something for dinner that won't make my husband complain, \"Chicken again?\" Yes, I should meal plan more, but I don't, so this is where I'm at. A nightly battle in which the chicken usually wins. Recently, my best […]",
+      "title": "‘AI clog’: UK public bodies battle onslaught of chatbot-generated complaints",
+      "url": "https://www.theguardian.com/technology/2026/nov/08/ai-clog-public-bodies-local-authorities-onslaught-chatbot-generated-correspondence",
+      "summary": "MPs, local authorities, lawyers, schools and more are receiving floods of grievances, requests and legal challenges, often complex to read and respond to‘It started as a trickle in 2024 and now it’s an onslaught.” Hollie Wickens, a senior caseworker in a Labour MP’s office, is explaining the daily reality of dealing with surging volumes of artificial intelligence-generated correspondence.“Half the emails we receive are some form of AI,” she says, adding that this has made requests and complaints",
+      "short_summary": "MPs, local authorities, lawyers, schools and more are receiv",
+      "detail": "MPs, local authorities, lawyers, schools and more are receiving floods of grievances, requests and legal challenges, often complex to read and respond to‘It started as a trickle in 2024 and now it’s an onslaught.” Hollie Wickens, a senior caseworker in a Labour MP’s office, is explaining the daily reality of dealing with surging volumes of artificial intelligence-generated correspondence.“Half the emails we receive are some form of AI,” she says, adding that this has made requests and complaints",
+      "source": "The Guardian",
+      "source_authority": 0.85,
+      "date": "2026-11-08",
+      "score": 0.7875
+    },
+    {
+      "title": "Elvis and Eminem rights holders are suing Suno",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit",
+      "summary": "Suno is facing yet another pair of lawsuits. A group of rights holders of Elvis Presley's music and the publisher of some of Eminem's biggest records are suing the AI music company, claiming it illegally generates music and lyrics that mimic those artists. The lawyers in the Presley suit claim that Suno has violated Tennessee's […]",
+      "short_summary": "Suno is facing yet another pair of lawsuits. A group of righ",
+      "detail": "Suno is facing yet another pair of lawsuits. A group of rights holders of Elvis Presley's music and the publisher of some of Eminem's biggest records are suing the AI music company, claiming it illegally generates music and lyrics that mimic those artists. The lawyers in the Presley suit claim that Suno has violated Tennessee's […]",
       "source": "The Verge",
       "source_authority": 0.9,
-      "date": "2026-11-07",
-      "score": 0.755
+      "date": "2026-11-09",
+      "score": 0.7475
     },
     {
-      "title": "The datacentre arms race hits pause in south-east Asia",
-      "url": "https://www.theguardian.com/technology/2026/nov/07/datacentres-southeast-asia",
-      "summary": "Power and water constraints are pressuring what seemed like a juggernaut of growth for the region just months agoIn early 2026, Thailand’s datacentre industry was on a roll. The country’s board of investment had recently announced approval of datacentre projects from Tiktok, a UAE-based Skyline datacentre and Singapore’s Bridge datacentres, totalling a planned investment of $27bn.As the year has passed, however, what once seemed like a new industrial juggernaut has ground to a halt. Thailand pau",
-      "short_summary": "Power and water constraints are pressuring what seemed like ",
-      "detail": "Power and water constraints are pressuring what seemed like a juggernaut of growth for the region just months agoIn early 2026, Thailand’s datacentre industry was on a roll. The country’s board of investment had recently announced approval of datacentre projects from Tiktok, a UAE-based Skyline datacentre and Singapore’s Bridge datacentres, totalling a planned investment of $27bn.As the year has passed, however, what once seemed like a new industrial juggernaut has ground to a halt. Thailand pau",
-      "source": "The Guardian",
-      "source_authority": 0.85,
-      "date": "2026-11-07",
-      "score": 0.66
+      "title": "12+256G 版 3999 → 2530 元：小米 REDMI K100 Pro 官方 11.11 直降",
+      "url": "https://www.ithome.com/1/024/066.htm",
+      "summary": "小米 8 月发布新一代 REDMI K100 Pro 系列手机，今日天猫旗舰店 11.11 狂促再加码。先领天猫数码家电消费券：点此领券（非 88VIP 也能领）。淘宝 11.11 红包至高 26888 元，每天可抽 1 次：点此抽红包。本次需叠加 200 元淘金币，如果淘金币不够，下方已附借币方法。REDMI K100 Pro12+256GB 上市定价 3999 元，今日 2530.49 元。16+256GB 上市定价 4599 元，今日 2821.19 元。12+512GB 上市定价 4399 元，今日 3015.04 元。16+512GB 上市定价 4999 元，今日 3407.04 元。点击下方卡片领券后 → 点击宝贝右上角“…” → 点击弹出页面右下角“淘金币”下单即可：天猫 REDMI K100 Pro 需叠加 88VIP 消费券国补后 2530 元直达链接如果价格不对，大概率是没领开头的消费券或淘金币不够。目前可向官方借 300 元淘金币，后续如果还不上不会扣现金。点击宝贝右上角“…” → 点击弹出页面右下角“淘金币” → 进入淘金币页面后，点击左上角金币数额，即可借币。",
+      "short_summary": "小米 8 月发布新一代 REDMI K100 Pro 系列手机，今日天猫旗舰店 11.11 狂促再加码。先领天猫数码家电",
+      "detail": "小米 8 月发布新一代 REDMI K100 Pro 系列手机，今日天猫旗舰店 11.11 狂促再加码。先领天猫数码家电消费券：点此领券（非 88VIP 也能领）。淘宝 11.11 红包至高 26888 元，每天可抽 1 次：点此抽红包。本次需叠加 200 元淘金币，如果淘金币不够，下方已附借币方法。REDMI K100 Pro12+256GB 上市定价 3999 元，今日 2530.49 元。16+256GB 上市定价 4599 元，今日 2821.19 元。12+512GB 上市定价 4399 元，今日 3015.04 元。16+512GB 上市定价 4999 元，今日 3407.04 元。点击下方卡片领券后 → 点击宝贝右上角“…” → 点击弹出页面右下角“淘金币”下单即可：天猫 REDMI K100 Pro 需叠加 88VIP 消费券国补后 2530 元直达链接如果价格不对，大概率是没领开头的消费券或淘金币不够。目前可向官方借 300 元淘金币，后续如果还不上不会扣现金。点击宝贝右上角“…” → 点击弹出页面右下角“淘金币” → 进入淘金币页面后，点击左上角金币数额，即可借币。",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-11-09",
+      "score": 0.7325
     },
     {
-      "title": "A ‘customer success story’: leaked documents show Cisco doubled down on Israeli military deals during Gaza war",
-      "url": "https://www.theguardian.com/world/2026/nov/07/israel-intelligence-cisco-gaza-palestine",
-      "summary": "Tech giant leaped to shore up relationship even as company was roiled by worker protest over its role in the warA year into the war in Gaza, the networks of Israel’s military intelligence community were plagued with technical problems. There were major, multi-hour outages to their systems, and repeated crashes. Built-in debugging mechanisms failed.The problems, which started as intelligence operations were undergoing updates to digital infrastructure, became so persistent as to undermine the “co",
-      "short_summary": "Tech giant leaped to shore up relationship even as company w",
-      "detail": "Tech giant leaped to shore up relationship even as company was roiled by worker protest over its role in the warA year into the war in Gaza, the networks of Israel’s military intelligence community were plagued with technical problems. There were major, multi-hour outages to their systems, and repeated crashes. Built-in debugging mechanisms failed.The problems, which started as intelligence operations were undergoing updates to digital infrastructure, became so persistent as to undermine the “co",
-      "source": "The Guardian",
-      "source_authority": 0.85,
-      "date": "2026-11-07",
-      "score": 0.66
+      "title": "何刚解释华为睿影 XMAGE 命名：三次升级始终保留了字母“X”，代表着未知",
+      "url": "https://www.ithome.com/1/024/064.htm",
+      "summary": "IT之家 11 月 9 日消息，华为董事、终端 BG CEO 何刚今日发布长文，回顾了华为影像大赛的发展历程，并宣布华为影像大赛颁奖盛典暨 10 周年展“温暖共生”将于 11 月 11 日至 15 日在巴黎大皇宫举行。文中，何刚还解释了华为睿影 XMAGE 的命名：从 2017 年的新影像 Next-Image，2022 年成为独立影像品牌 XMAGE，再到今年的华为睿影 XMAGE。三次品牌升级，我们始终保留了字母“X”，代表着未知：下一张照片能拍得更好，下一部手机能带来更好的体验，移动影像还有无数可能性，等待我们和用户一起去探索、去发现。据IT之家此前报道，今年 10 月 1 日，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东宣布，华为移动影像迎来全新升级 —— 正式发布华为睿影 XMAGE。余承东表示，希望从全栈自研影像技术品牌，成长为走向世界的影像文化品牌。而在 10 月 1 日的华为 Mate 90 系列及全场景新品发布会中，华为 Mate 90 Pro Max 典藏版“睿影 Z10 模块化相机”正式发布，定价 5999 元。搭配 Mate 90 Pro Ma",
+      "short_summary": "IT之家 11 月 9 日消息，华为董事、终端 BG CEO 何刚今日发布长文，回顾了华为影像大赛的发展历程，并宣布华为",
+      "detail": "IT之家 11 月 9 日消息，华为董事、终端 BG CEO 何刚今日发布长文，回顾了华为影像大赛的发展历程，并宣布华为影像大赛颁奖盛典暨 10 周年展“温暖共生”将于 11 月 11 日至 15 日在巴黎大皇宫举行。文中，何刚还解释了华为睿影 XMAGE 的命名：从 2017 年的新影像 Next-Image，2022 年成为独立影像品牌 XMAGE，再到今年的华为睿影 XMAGE。三次品牌升级，我们始终保留了字母“X”，代表着未知：下一张照片能拍得更好，下一部手机能带来更好的体验，移动影像还有无数可能性，等待我们和用户一起去探索、去发现。据IT之家此前报道，今年 10 月 1 日，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东宣布，华为移动影像迎来全新升级 —— 正式发布华为睿影 XMAGE。余承东表示，希望从全栈自研影像技术品牌，成长为走向世界的影像文化品牌。而在 10 月 1 日的华为 Mate 90 系列及全场景新品发布会中，华为 Mate 90 Pro Max 典藏版“睿影 Z10 模块化相机”正式发布，定价 5999 元。搭配 Mate 90 Pro Ma",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-11-09",
+      "score": 0.7325
+    },
+    {
+      "title": "某阔直板手机正面图曝光，预计为华为星芒 OSTA O1 Pro",
+      "url": "https://www.ithome.com/1/024/072.htm",
+      "summary": "IT之家 11 月 9 日消息，博主 @数码闲聊站 今日曝光了某新机正面图，采用阔直板造型设计，评论区网友推测为华为星芒 OSTA O1 Pro。IT之家注意到，该博主此前曾爆料华为子品牌星芒的英文名是 OSTA，手机盒上也写的 OSTA，第一款阔直板手机叫 OSTA O1 Pro。该机可选星空黑 / 星云白 / 星芒紫三款配色，以及 12+256GB/12+512GB/16+512GB/16+1TB 容量。“星芒”这一名称并非首次出现在公众视野。IT之家查询公开商标信息获悉，华为技术有限公司早在 2023 年 2 月便申请注册了“华为星芒”商标，并于 2023 年 9 月完成注册公告。2026 年 7 月，华为再次提交“星芒”商标申请，覆盖智能手机与芯片品类，目前状态为“注册申请中”。此外，华为近期还申请注册了“OSTA”商标，涵盖的商品 / 服务范围包括：笔记本电脑、平板电脑、电子笔、智能手表（数据处理）、智能眼镜（数据处理）、智能手机、耳机、芯片（集成电路）等。",
+      "short_summary": "IT之家 11 月 9 日消息，博主 @数码闲聊站 今日曝光了某新机正面图，采用阔直板造型设计，评论区网友推测为华为星芒",
+      "detail": "IT之家 11 月 9 日消息，博主 @数码闲聊站 今日曝光了某新机正面图，采用阔直板造型设计，评论区网友推测为华为星芒 OSTA O1 Pro。IT之家注意到，该博主此前曾爆料华为子品牌星芒的英文名是 OSTA，手机盒上也写的 OSTA，第一款阔直板手机叫 OSTA O1 Pro。该机可选星空黑 / 星云白 / 星芒紫三款配色，以及 12+256GB/12+512GB/16+512GB/16+1TB 容量。“星芒”这一名称并非首次出现在公众视野。IT之家查询公开商标信息获悉，华为技术有限公司早在 2023 年 2 月便申请注册了“华为星芒”商标，并于 2023 年 9 月完成注册公告。2026 年 7 月，华为再次提交“星芒”商标申请，覆盖智能手机与芯片品类，目前状态为“注册申请中”。此外，华为近期还申请注册了“OSTA”商标，涵盖的商品 / 服务范围包括：笔记本电脑、平板电脑、电子笔、智能手表（数据处理）、智能眼镜（数据处理）、智能手机、耳机、芯片（集成电路）等。",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-11-09",
+      "score": 0.695
     }
   ],
   "category3": [
     {
-      "title": "The US let Nvidia sell chips to an empty office in China",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
-      "summary": "Concerns are being raised that neither the Commerce Department nor Nvidia are doing their due diligence when it comes to vetting Chinese firms cleared to handle the company's H200 AI chips. According to The New York Times, New Matrix is on the list of approved firms, yet its offices are empty, \"a hollow gray shell […]",
-      "short_summary": "Concerns are being raised that neither the Commerce Departme",
-      "detail": "Concerns are being raised that neither the Commerce Department nor Nvidia are doing their due diligence when it comes to vetting Chinese firms cleared to handle the company's H200 AI chips. According to The New York Times, New Matrix is on the list of approved firms, yet its offices are empty, \"a hollow gray shell […]",
+      "title": "日本产业革新投资机构向三井化学和 DBJ 出售 JSR，总交易价值超 1.8 万亿日元",
+      "url": "https://www.ithome.com/1/024/086.htm",
+      "summary": "IT之家 11 月 9 日消息，日本产业革新投资机构 (JIC) 当地时间今日发布正式公告，将向三井化学 (Mitsui Chemicals) 和日本政策投资银行 (DBJ) 出售旗下企业 JSR，交易完成后 JSR 将成为三井化学控股子公司。本次交易对 JSR 股权估值 13921 亿日元，另有 4479 亿日元债务承担，总交易价值超 1.8 万亿日元（IT之家注：现汇率约合 758.84 亿元人民币），预计将于 2027 财年下半年完成。JSR 是全球第二大光刻胶制造商，交易完成后三井化学将拥有更广泛的半导体材料产品线。JSR 旗下的生命科学业务将继续被视为非核心业务。此外，三井化学还将移动业务也划为待剥离部分。",
+      "short_summary": "IT之家 11 月 9 日消息，日本产业革新投资机构 (JIC) 当地时间今日发布正式公告，将向三井化学 (Mitsui",
+      "detail": "IT之家 11 月 9 日消息，日本产业革新投资机构 (JIC) 当地时间今日发布正式公告，将向三井化学 (Mitsui Chemicals) 和日本政策投资银行 (DBJ) 出售旗下企业 JSR，交易完成后 JSR 将成为三井化学控股子公司。本次交易对 JSR 股权估值 13921 亿日元，另有 4479 亿日元债务承担，总交易价值超 1.8 万亿日元（IT之家注：现汇率约合 758.84 亿元人民币），预计将于 2027 财年下半年完成。JSR 是全球第二大光刻胶制造商，交易完成后三井化学将拥有更广泛的半导体材料产品线。JSR 旗下的生命科学业务将继续被视为非核心业务。此外，三井化学还将移动业务也划为待剥离部分。",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-11-09",
+      "score": 0.7825
+    },
+    {
+      "title": "What to Know About Nvidia’s Investigation of Its C.E.O.",
+      "url": "https://www.nytimes.com/2026/11/08/technology/nvidias-investigation-jensen-huang.html",
+      "summary": "Jensen Huang, the chief executive of the A.I. chip company, admitted to a romantic relationship with a woman who U.S. intelligence says was recruited by China’s top spy agency.",
+      "short_summary": "Jensen Huang, the chief executive of the A.I. chip company, ",
+      "detail": "Jensen Huang, the chief executive of the A.I. chip company, admitted to a romantic relationship with a woman who U.S. intelligence says was recruited by China’s top spy agency.",
+      "source": "NYT",
+      "source_authority": 0.9,
+      "date": "2026-11-09",
+      "score": 0.76
+    },
+    {
+      "title": "Nvidia Opens Investigation Into Jensen Huang’s Relationship With Chinese Spy",
+      "url": "https://www.nytimes.com/2026/11/08/technology/nvidia-investigation-jensen-huang-china.html",
+      "summary": "Mr. Huang, the company’s chief executive, acknowledged on Sunday that he was intimate with a business executive who U.S. officials had determined was working for Chinese intelligence.",
+      "short_summary": "Mr. Huang, the company’s chief executive, acknowledged on Su",
+      "detail": "Mr. Huang, the company’s chief executive, acknowledged on Sunday that he was intimate with a business executive who U.S. officials had determined was working for Chinese intelligence.",
+      "source": "NYT",
+      "source_authority": 0.9,
+      "date": "2026-11-09",
+      "score": 0.715
+    },
+    {
+      "title": "Rubio Warned Officials About Nvidia Chief’s Entanglement With Chinese Spy",
+      "url": "https://www.nytimes.com/2026/11/08/us/politics/rubio-nvidia-ceo-chinese-spy.html",
+      "summary": "The secretary of state’s role in drafting a secret memo highlights how top officials were concerned by this past spring about Jensen Huang’s relationship with a woman tied to Chinese intelligence.",
+      "short_summary": "The secretary of state’s role in drafting a secret memo high",
+      "detail": "The secretary of state’s role in drafting a secret memo highlights how top officials were concerned by this past spring about Jensen Huang’s relationship with a woman tied to Chinese intelligence.",
+      "source": "NYT",
+      "source_authority": 0.9,
+      "date": "2026-11-09",
+      "score": 0.715
+    },
+    {
+      "title": "Here’s the full text of Jensen Huang’s memo to Nvidia",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia",
+      "summary": "On Sunday, Nvidia announced it was launching an investigation into CEO Jensen Huang's relationship with Alice Huang, an AI executive and agent of the Chinese government. In addition to the Board of Directors announcing the investigation, Huang sent a memo to Nvidia employees acknowledging the affair. You can read the full text below. To my […]",
+      "short_summary": "On Sunday, Nvidia announced it was launching an investigatio",
+      "detail": "On Sunday, Nvidia announced it was launching an investigation into CEO Jensen Huang's relationship with Alice Huang, an AI executive and agent of the Chinese government. In addition to the Board of Directors announcing the investigation, Huang sent a memo to Nvidia employees acknowledging the affair. You can read the full text below. To my […]",
       "source": "The Verge",
       "source_authority": 0.9,
-      "date": "2026-11-07",
-      "score": 0.83
+      "date": "2026-11-09",
+      "score": 0.71
     },
     {
-      "title": "特斯拉更新 AI 加速器路线图：SI6 算力达 HW4 的 80 倍，Dojo D3 将面向太空部署",
-      "url": "https://www.ithome.com/1/023/876.htm",
-      "summary": "IT之家 11 月 8 日消息，特斯拉公布了更新后的 AI 加速器路线图，进一步揭示了公司未来几年的芯片研发方向。根据这份路线图，特斯拉第六代推理加速器的算力预计将达到现有第四代芯片的 80 倍；而用于训练任务的 Dojo D3 将放弃以 SRAM 为核心的架构，转向采用多芯粒设计，并搭载堆叠式 HBM 高带宽内存。此外，特斯拉还开始用“超级智能”（Super Intelligence，SI）取代“人工智能”（Artificial Intelligence，AI）这一名称，为旗下 AI 加速器启用 SI 系列命名。出于相同原因，马斯克近期也确认，SpaceXAI 将更名为 SpaceXSI。特斯拉 AI 加速器路线图根据披露的信息，特斯拉目前的芯片产品线及规划如下：项目HW3 / AI3SI4 / HW4SI5 / AI5SI6 / AI6Dojo D1Dojo D3用途推理推理推理推理训练训练制程工艺三星 14nm三星 7nm台积电 3nm / 三星 2nm2nm 级台积电 7nm待定架构单片式单片式多芯片模块（MCM）多芯片模块（MCM）晶圆级系统（SoW）多芯粒封装FCBGAFC",
-      "short_summary": "IT之家 11 月 8 日消息，特斯拉公布了更新后的 AI 加速器路线图，进一步揭示了公司未来几年的芯片研发方向。根据这",
-      "detail": "IT之家 11 月 8 日消息，特斯拉公布了更新后的 AI 加速器路线图，进一步揭示了公司未来几年的芯片研发方向。根据这份路线图，特斯拉第六代推理加速器的算力预计将达到现有第四代芯片的 80 倍；而用于训练任务的 Dojo D3 将放弃以 SRAM 为核心的架构，转向采用多芯粒设计，并搭载堆叠式 HBM 高带宽内存。此外，特斯拉还开始用“超级智能”（Super Intelligence，SI）取代“人工智能”（Artificial Intelligence，AI）这一名称，为旗下 AI 加速器启用 SI 系列命名。出于相同原因，马斯克近期也确认，SpaceXAI 将更名为 SpaceXSI。特斯拉 AI 加速器路线图根据披露的信息，特斯拉目前的芯片产品线及规划如下：项目HW3 / AI3SI4 / HW4SI5 / AI5SI6 / AI6Dojo D1Dojo D3用途推理推理推理推理训练训练制程工艺三星 14nm三星 7nm台积电 3nm / 三星 2nm2nm 级台积电 7nm待定架构单片式单片式多芯片模块（MCM）多芯片模块（MCM）晶圆级系统（SoW）多芯粒封装FCBGAFC",
+      "title": "英伟达发言人确认黄仁勋将继续履职公司 CEO 一职不中断，特朗普表态支持",
+      "url": "https://www.ithome.com/1/024/073.htm",
+      "summary": "IT之家 11 月 9 日消息，据 CNBC 报道，当地时间 11 月 8 日，英伟达发言人对外明确，黄仁勋将继续担任公司首席执行官（Chief Executive Officer，简称 CEO），履职不会中断，相关风波不会打乱英伟达正常经营节奏。据IT之家今日早些时候报道，英伟达创始人兼 CEO 黄仁勋向英伟达员工发布了公开信。信中，他公开致歉并承认对妻子不忠，称自己的行为伤害了她和孩子，所做的一切没有任何借口。美国总统特朗普在被福克斯新闻记者问及相关问题时表示黄仁勋是个很好的人，并支持他继续担任英伟达 CEO。相关阅读：《美国总统特朗普回应黄仁勋出轨：他是个很好的人，应该继续担任英伟达 CEO》《马斯克回应黄仁勋出轨风波，同意其对美国 AI 产业不可或缺》《英伟达黄仁勋长女黄敏珊因“家庭原因”取消韩国之行》《英伟达黄仁勋承认出轨道歉信全文：“我对妻子不忠，伤害了家人，没有任何借口”》",
+      "short_summary": "IT之家 11 月 9 日消息，据 CNBC 报道，当地时间 11 月 8 日，英伟达发言人对外明确，黄仁勋将继续担任公",
+      "detail": "IT之家 11 月 9 日消息，据 CNBC 报道，当地时间 11 月 8 日，英伟达发言人对外明确，黄仁勋将继续担任公司首席执行官（Chief Executive Officer，简称 CEO），履职不会中断，相关风波不会打乱英伟达正常经营节奏。据IT之家今日早些时候报道，英伟达创始人兼 CEO 黄仁勋向英伟达员工发布了公开信。信中，他公开致歉并承认对妻子不忠，称自己的行为伤害了她和孩子，所做的一切没有任何借口。美国总统特朗普在被福克斯新闻记者问及相关问题时表示黄仁勋是个很好的人，并支持他继续担任英伟达 CEO。相关阅读：《美国总统特朗普回应黄仁勋出轨：他是个很好的人，应该继续担任英伟达 CEO》《马斯克回应黄仁勋出轨风波，同意其对美国 AI 产业不可或缺》《英伟达黄仁勋长女黄敏珊因“家庭原因”取消韩国之行》《英伟达黄仁勋承认出轨道歉信全文：“我对妻子不忠，伤害了家人，没有任何借口”》",
       "source": "ITHome",
       "source_authority": 0.75,
-      "date": "2026-11-08",
-      "score": 0.77
+      "date": "2026-11-09",
+      "score": 0.695
     },
     {
-      "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
-      "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
-      "summary": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.",
-      "short_summary": "A memo circulated earlier this year reportedly claimed that ",
-      "detail": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.",
-      "source": "TechCrunch",
-      "source_authority": 0.95,
-      "date": "2026-11-08",
-      "score": 0.72
-    },
-    {
-      "title": "Lanarkshire AI datacentre to fully rely on National Grid despite renewables claim",
-      "url": "https://www.theguardian.com/uk-news/2026/nov/07/lanarkshire-ai-datacentre-datavita-chapelhall-national-grid-renewable-energy",
-      "summary": "DataVita has revised plan for Chapelhall development to be wholly powered by 1GW of renewable energyA datacentre company that said it would power a massive AI development near Glasgow with renewable energy has admitted that the scheme will be entirely served by the National Grid.DataVita, a key plank of the UK’s AI strategy, had promised that the Lanarkshire project would draw 1GW – the equivalent output of a small nuclear reactor, or Britain’s largest windfarm – from green sources. But when the",
-      "short_summary": "DataVita has revised plan for Chapelhall development to be w",
-      "detail": "DataVita has revised plan for Chapelhall development to be wholly powered by 1GW of renewable energyA datacentre company that said it would power a massive AI development near Glasgow with renewable energy has admitted that the scheme will be entirely served by the National Grid.DataVita, a key plank of the UK’s AI strategy, had promised that the Lanarkshire project would draw 1GW – the equivalent output of a small nuclear reactor, or Britain’s largest windfarm – from green sources. But when the",
-      "source": "The Guardian",
-      "source_authority": 0.85,
-      "date": "2026-11-07",
-      "score": 0.675
-    },
-    {
-      "title": "台积电否认应英伟达要求研发 3D DRAM：公司始终专注于集成电路代工这个核心业务",
-      "url": "https://www.ithome.com/1/023/870.htm",
-      "summary": "IT之家 11 月 8 日消息，据 The Information 近日报道，随着人工智能硬件需求激增，全球 DRAM 内存供应持续紧张、价格不断上涨，台积电正在应英伟达要求，研究开发 3D DRAM 内存的可能性。如果这一计划最终落地，台积电将有望开辟一项新业务，但也需要面对内存市场周期性波动带来的风险，同时进一步扩大其在 AI 供应链中的影响力。不过，台积电对此予以否认，并强调公司将继续专注于逻辑芯片代工业务。台积电一名发言人向 Tom's Hardware 表示：“请注意，台积电始终专注于核心业务，即专业集成电路代工。我们的使命是多年来持续成为全球逻辑集成电路产业值得信赖的技术与产能供应商。”尽管台积电否认了相关报道，但 The Information 援引两名了解该计划的人士称，在最大客户英伟达提出要求后，台积电已经开始为 3D DRAM 制造业务制定相关计划。据称，这项工作由台积电副总裁徐国晋负责监督。他负责公司的先进封装业务，此前曾担任美光科技台湾地区业务负责人。这一计划出台之际，全球正面临普遍的内存供应短缺。内存已经逐渐从一种普通商品转变为战略性资源，甚至可能决定一家企业",
-      "short_summary": "IT之家 11 月 8 日消息，据 The Information 近日报道，随着人工智能硬件需求激增，全球 DRAM ",
-      "detail": "IT之家 11 月 8 日消息，据 The Information 近日报道，随着人工智能硬件需求激增，全球 DRAM 内存供应持续紧张、价格不断上涨，台积电正在应英伟达要求，研究开发 3D DRAM 内存的可能性。如果这一计划最终落地，台积电将有望开辟一项新业务，但也需要面对内存市场周期性波动带来的风险，同时进一步扩大其在 AI 供应链中的影响力。不过，台积电对此予以否认，并强调公司将继续专注于逻辑芯片代工业务。台积电一名发言人向 Tom's Hardware 表示：“请注意，台积电始终专注于核心业务，即专业集成电路代工。我们的使命是多年来持续成为全球逻辑集成电路产业值得信赖的技术与产能供应商。”尽管台积电否认了相关报道，但 The Information 援引两名了解该计划的人士称，在最大客户英伟达提出要求后，台积电已经开始为 3D DRAM 制造业务制定相关计划。据称，这项工作由台积电副总裁徐国晋负责监督。他负责公司的先进封装业务，此前曾担任美光科技台湾地区业务负责人。这一计划出台之际，全球正面临普遍的内存供应短缺。内存已经逐渐从一种普通商品转变为战略性资源，甚至可能决定一家企业",
+      "title": "美国总统特朗普回应黄仁勋出轨：他是个很好的人，应该继续担任英伟达 CEO",
+      "url": "https://www.ithome.com/1/024/053.htm",
+      "summary": "IT之家 11 月 9 日消息，当地时间 11 月 8 日，英伟达创始人兼 CEO 黄仁勋向英伟达员工发布了公开信。信中，他公开致歉并承认对妻子不忠，称自己的行为伤害了她和孩子，所做的一切没有任何借口。美国总统特朗普在被福克斯新闻记者问及相关问题时表示：“我还没跟他谈过这件事。我只知道他是个很好的人，但谁也说不准到底发生了什么。我当然希望一切都好。他一直以来的表现非常出色。所以我真心希望一切都好。在我看来，他是个很好的人。”他认为黄仁勋应该继续担任英伟达 CEO。据IT之家今日早些时候报道，韩国科学技术信息通信部透露，英伟达首席执行官黄仁勋的长女、英伟达物理 AI 平台产品和技术营销高级总监黄敏珊突然取消访韩计划，其与韩国副总理兼科技信息通信部长官裴庆勋会面等日程安排随之告吹。黄敏珊原本计划访韩出席定于 9 日至 10 日举行的“2026 年英伟达首尔 AI 日”活动。该活动将如期举行，由英伟达其他高管替黄敏珊出席。据悉，黄敏珊以“家庭原因”为由取消访韩，但具体理由不得而知。相关阅读：《马斯克回应黄仁勋出轨风波，同意其对美国 AI 产业不可或缺》《英伟达黄仁勋长女黄敏珊因“家庭原因”取",
+      "short_summary": "IT之家 11 月 9 日消息，当地时间 11 月 8 日，英伟达创始人兼 CEO 黄仁勋向英伟达员工发布了公开信。信中",
+      "detail": "IT之家 11 月 9 日消息，当地时间 11 月 8 日，英伟达创始人兼 CEO 黄仁勋向英伟达员工发布了公开信。信中，他公开致歉并承认对妻子不忠，称自己的行为伤害了她和孩子，所做的一切没有任何借口。美国总统特朗普在被福克斯新闻记者问及相关问题时表示：“我还没跟他谈过这件事。我只知道他是个很好的人，但谁也说不准到底发生了什么。我当然希望一切都好。他一直以来的表现非常出色。所以我真心希望一切都好。在我看来，他是个很好的人。”他认为黄仁勋应该继续担任英伟达 CEO。据IT之家今日早些时候报道，韩国科学技术信息通信部透露，英伟达首席执行官黄仁勋的长女、英伟达物理 AI 平台产品和技术营销高级总监黄敏珊突然取消访韩计划，其与韩国副总理兼科技信息通信部长官裴庆勋会面等日程安排随之告吹。黄敏珊原本计划访韩出席定于 9 日至 10 日举行的“2026 年英伟达首尔 AI 日”活动。该活动将如期举行，由英伟达其他高管替黄敏珊出席。据悉，黄敏珊以“家庭原因”为由取消访韩，但具体理由不得而知。相关阅读：《马斯克回应黄仁勋出轨风波，同意其对美国 AI 产业不可或缺》《英伟达黄仁勋长女黄敏珊因“家庭原因”取",
       "source": "ITHome",
       "source_authority": 0.75,
-      "date": "2026-11-08",
-      "score": 0.665
+      "date": "2026-11-09",
+      "score": 0.695
     }
   ],
   "category4": [
     {
-      "title": "Standing in the way of slop bowls: the woman blocking food delivery robots",
-      "url": "https://www.theguardian.com/technology/ng-interactive/2026/nov/07/philadelphia-blocking-food-delivery-robots",
-      "summary": "Semi-retired professor Carolyn Marvin became a local celebrity facing down Philadelphia’s growing robot delivery army: ‘It’s my first amendment right to protest’“One of you needs to be on the lookout for cops, while I block the robot, OK?”It is a crisp fall morning in Philadelphia. Tucked away in a dingy alley, opposite a garage called Patriot Parking, 78-year-old Carolyn Marvin is laying out some ground rules for a robot-disrupting expedition. Once a suitable target is identified, we will follo",
-      "short_summary": "Semi-retired professor Carolyn Marvin became a local celebri",
-      "detail": "Semi-retired professor Carolyn Marvin became a local celebrity facing down Philadelphia’s growing robot delivery army: ‘It’s my first amendment right to protest’“One of you needs to be on the lookout for cops, while I block the robot, OK?”It is a crisp fall morning in Philadelphia. Tucked away in a dingy alley, opposite a garage called Patriot Parking, 78-year-old Carolyn Marvin is laying out some ground rules for a robot-disrupting expedition. Once a suitable target is identified, we will follo",
-      "source": "The Guardian",
-      "source_authority": 0.85,
-      "date": "2026-11-07",
-      "score": 0.825
-    },
-    {
-      "title": "量产一个月，上纬新材旗下启元机器人第 10000 台下线",
-      "url": "https://www.ithome.com/1/023/891.htm",
-      "summary": "IT之家 11 月 8 日消息，据界面新闻今日，上纬新材启元机器人第 10000 台个人机器人正式下线。继今年 10 月 25 日第 5000 台下线后，启元机器人 14 天累计下线量从 5000 台增至 10000 台。IT之家注意到，该公司 9 月 20 日正式发售启元 Q1、启元 T1 两款个人机器人，今年 10 月，启元机器人整机生产工厂正式量产，采用“车规标准 +3C 量级”制造体系。启元 Q1/T1 人形机器人正式售价：启元 Q1 售价 19,999 元启元 Q1 探索版售价 26,999 元启元 T1 售价 19,999 元启元 T1 Pro 售价 29,999 元启元 Q1 定位为个人机器人，身高 88 厘米，可折叠放入背包，全身 22 个柔顺力控自由度，支持外观结构件定制，宣称是“全球首个个人机器人”。启元 Q1 主打自定义特性，支持自定义设计互动动作、3D 打印改造外观，用户可自由调整机器人的外观造型、性格特质、动作姿态与语音音色。启元 T1 支持轮足人形与四足形态切换，宣称是“全球首个可变形个人机器人”，官方现场演示了形态切换。启元 T1 可选五款配色，身高约 1",
-      "short_summary": "IT之家 11 月 8 日消息，据界面新闻今日，上纬新材启元机器人第 10000 台个人机器人正式下线。继今年 10 月",
-      "detail": "IT之家 11 月 8 日消息，据界面新闻今日，上纬新材启元机器人第 10000 台个人机器人正式下线。继今年 10 月 25 日第 5000 台下线后，启元机器人 14 天累计下线量从 5000 台增至 10000 台。IT之家注意到，该公司 9 月 20 日正式发售启元 Q1、启元 T1 两款个人机器人，今年 10 月，启元机器人整机生产工厂正式量产，采用“车规标准 +3C 量级”制造体系。启元 Q1/T1 人形机器人正式售价：启元 Q1 售价 19,999 元启元 Q1 探索版售价 26,999 元启元 T1 售价 19,999 元启元 T1 Pro 售价 29,999 元启元 Q1 定位为个人机器人，身高 88 厘米，可折叠放入背包，全身 22 个柔顺力控自由度，支持外观结构件定制，宣称是“全球首个个人机器人”。启元 Q1 主打自定义特性，支持自定义设计互动动作、3D 打印改造外观，用户可自由调整机器人的外观造型、性格特质、动作姿态与语音音色。启元 T1 支持轮足人形与四足形态切换，宣称是“全球首个可变形个人机器人”，官方现场演示了形态切换。启元 T1 可选五款配色，身高约 1",
+      "title": "2027 款领克 08 EM-P 将支持选装 EVA 实体机器人，年内更新 FlymeAuto 2.5.0",
+      "url": "https://www.ithome.com/1/024/055.htm",
+      "summary": "IT之家 11 月 9 日消息，领克汽车今日发布 2027 款领克 08 EM-P 答网友问，其中提到，2026 款领克 08 EM-P 将于年内进行 LYNK FlymeAuto 2.5.0 版本更新。届时，可以通过领克 App 的服务商城购买 EVA 实体机器人，预约到领克门店进行安装。IT之家注意到，2027 款领克 08 EM-P 于 11 月 5 日晚正式上市，限时置换价 15.98 万元起。该车尺寸为 4813×1915×1660mm、轴距 2842mm，提供极光银、拂晓白、极夜黑三款经典车色，并新增了一款跃动橙车色；内饰则提供暖云沙、星夜蓝两款配色。新车配备 20 英寸流光轮毂，全系标配金属迎宾饰条。座舱方面，新车新增副驾零重力座椅，支持 16 向电动座椅调节，拥有 270mm 腿托最大伸展长度、至高 11 层座椅结构（Nappa 真皮设计）；支持至高四座座椅加热 / 通风 / 按摩，后排座椅还支持电动调节，可实现 118°-129° 电动调节。智驾方面，2027 款领克 08 EM-P 全系标配 192 线激光雷达。动力方面，新车全系标配 EM-P 智能电混系统，支持至",
+      "short_summary": "IT之家 11 月 9 日消息，领克汽车今日发布 2027 款领克 08 EM-P 答网友问，其中提到，2026 款领克",
+      "detail": "IT之家 11 月 9 日消息，领克汽车今日发布 2027 款领克 08 EM-P 答网友问，其中提到，2026 款领克 08 EM-P 将于年内进行 LYNK FlymeAuto 2.5.0 版本更新。届时，可以通过领克 App 的服务商城购买 EVA 实体机器人，预约到领克门店进行安装。IT之家注意到，2027 款领克 08 EM-P 于 11 月 5 日晚正式上市，限时置换价 15.98 万元起。该车尺寸为 4813×1915×1660mm、轴距 2842mm，提供极光银、拂晓白、极夜黑三款经典车色，并新增了一款跃动橙车色；内饰则提供暖云沙、星夜蓝两款配色。新车配备 20 英寸流光轮毂，全系标配金属迎宾饰条。座舱方面，新车新增副驾零重力座椅，支持 16 向电动座椅调节，拥有 270mm 腿托最大伸展长度、至高 11 层座椅结构（Nappa 真皮设计）；支持至高四座座椅加热 / 通风 / 按摩，后排座椅还支持电动调节，可实现 118°-129° 电动调节。智驾方面，2027 款领克 08 EM-P 全系标配 192 线激光雷达。动力方面，新车全系标配 EM-P 智能电混系统，支持至",
       "source": "ITHome",
       "source_authority": 0.75,
-      "date": "2026-11-08",
-      "score": 0.785
+      "date": "2026-11-09",
+      "score": 0.8675
     },
     {
-      "title": "启境 GX7 累计交付量突破 4000 台，搭载华为乾崑智驾 ADS 5 与鸿蒙座舱 6",
-      "url": "https://www.ithome.com/1/023/875.htm",
-      "summary": "IT之家 11 月 8 日消息，今日，启境 GX7 集体交付活动在深圳盐田云海广场举行，上市至今累计交付已突破 4000 台。IT之家注意到，启境 GX7 于 9 月 23 日上市，共 3 款车型，官方指导价 23.99 万至 30.19 万元，限时权益价 22.99 万至 29.19 万元。作为启境品牌第二款量产车，该车定位“阔五座智能百变 SUV”，车身尺寸 5099/2006/1750 毫米，轴距 3070 毫米。新车全系标配华为乾崑智驾 ADS 5，感知方案由 4 颗激光雷达构成，包括 1 颗 896 线双光路图像级激光雷达和 3 颗高精度固态激光雷达，全车传感器数量为 38 。座舱方面，GX7 首批搭载鸿蒙座舱 6，配备双 15.6 英寸智慧屏，支持主动式儿童关怀与智能萌宠交互等功能。动力方面，GX7 全系采用 1.5T 增程系统，提供三种电机布局。单电机后驱版最大功率 200 千瓦，百公里加速 7.6 秒；双电机版总功率 340 千瓦，加速 4.9 秒；三电机四驱版总功率 550 千瓦，加速 3.9 秒。电池方面，启境提供 52 千瓦时磷酸铁锂与 67 千瓦时三元锂两种方案",
-      "short_summary": "IT之家 11 月 8 日消息，今日，启境 GX7 集体交付活动在深圳盐田云海广场举行，上市至今累计交付已突破 4000",
-      "detail": "IT之家 11 月 8 日消息，今日，启境 GX7 集体交付活动在深圳盐田云海广场举行，上市至今累计交付已突破 4000 台。IT之家注意到，启境 GX7 于 9 月 23 日上市，共 3 款车型，官方指导价 23.99 万至 30.19 万元，限时权益价 22.99 万至 29.19 万元。作为启境品牌第二款量产车，该车定位“阔五座智能百变 SUV”，车身尺寸 5099/2006/1750 毫米，轴距 3070 毫米。新车全系标配华为乾崑智驾 ADS 5，感知方案由 4 颗激光雷达构成，包括 1 颗 896 线双光路图像级激光雷达和 3 颗高精度固态激光雷达，全车传感器数量为 38 。座舱方面，GX7 首批搭载鸿蒙座舱 6，配备双 15.6 英寸智慧屏，支持主动式儿童关怀与智能萌宠交互等功能。动力方面，GX7 全系采用 1.5T 增程系统，提供三种电机布局。单电机后驱版最大功率 200 千瓦，百公里加速 7.6 秒；双电机版总功率 340 千瓦，加速 4.9 秒；三电机四驱版总功率 550 千瓦，加速 3.9 秒。电池方面，启境提供 52 千瓦时磷酸铁锂与 67 千瓦时三元锂两种方案",
+      "title": "特朗普称 AI 风险可控，但不介意设置监管护栏",
+      "url": "https://www.ithome.com/1/024/071.htm",
+      "summary": "IT之家 11 月 9 日消息，据路透社今日报道，美国总统唐纳德 · 特朗普表示，AI 带来的风险是可控的，但其对监管措施持开放态度，他“不介意设置护栏”。当被问及美国是否应该接受 AI 的风险时，特朗普表示这些危险是可控的，并表示愿意与民主党在监管措施方面进行合作。特朗普此前支持让科技公司自我监管，而不是实施全面的政府限制。他的最新发言表明，其对 AI 监管持某种开放态度，尽管目前尚不清楚开放程度如何。据IT之家此前报道，当地时间 9 月 14 日，英伟达 CEO 黄仁勋现身美国洛杉矶的 All-in Summit 峰会，公开驳斥了“AI 末日论”，并且意外收到来自特朗普的来电。特朗普在免提电话中全力为 AI 辩护，将对 AI 安全的担忧称为“骗局”，并在大会上告诉黄仁勋：“机器人不会接管。AI 不会统治世界其他地方。这整个事情都是骗局。”",
+      "short_summary": "IT之家 11 月 9 日消息，据路透社今日报道，美国总统唐纳德 · 特朗普表示，AI 带来的风险是可控的，但其对监管措",
+      "detail": "IT之家 11 月 9 日消息，据路透社今日报道，美国总统唐纳德 · 特朗普表示，AI 带来的风险是可控的，但其对监管措施持开放态度，他“不介意设置护栏”。当被问及美国是否应该接受 AI 的风险时，特朗普表示这些危险是可控的，并表示愿意与民主党在监管措施方面进行合作。特朗普此前支持让科技公司自我监管，而不是实施全面的政府限制。他的最新发言表明，其对 AI 监管持某种开放态度，尽管目前尚不清楚开放程度如何。据IT之家此前报道，当地时间 9 月 14 日，英伟达 CEO 黄仁勋现身美国洛杉矶的 All-in Summit 峰会，公开驳斥了“AI 末日论”，并且意外收到来自特朗普的来电。特朗普在免提电话中全力为 AI 辩护，将对 AI 安全的担忧称为“骗局”，并在大会上告诉黄仁勋：“机器人不会接管。AI 不会统治世界其他地方。这整个事情都是骗局。”",
       "source": "ITHome",
       "source_authority": 0.75,
-      "date": "2026-11-08",
-      "score": 0.7325
+      "date": "2026-11-09",
+      "score": 0.8225
     },
     {
-      "title": "Robot integration brings high-precision production to midmarket manufacturers",
-      "url": "https://www.therobotreport.com/robot-integration-brings-high-precision-production-to-midmarket-manufacturers/",
-      "summary": "Properly integrated industrial and collaborative robots can help midmarket manufacturers, according to a columnist.\nThe post Robot integration brings high-precision production to midmarket manufacturers appeared first on The Robot Report.",
-      "short_summary": "Properly integrated industrial and collaborative robots can ",
-      "detail": "Properly integrated industrial and collaborative robots can help midmarket manufacturers, according to a columnist.\nThe post Robot integration brings high-precision production to midmarket manufacturers appeared first on The Robot Report.",
+      "title": "ARM Institute consortium grows to more than 500 organizations",
+      "url": "https://www.therobotreport.com/arm-institute-members-grows-more-than-500-organizations/",
+      "summary": "The ARM Institute reached the milestone as it prepares to host its 10th annual member meeting in Pittsburgh.\nThe post ARM Institute consortium grows to more than 500 organizations appeared first on The Robot Report.",
+      "short_summary": "The ARM Institute reached the milestone as it prepares to ho",
+      "detail": "The ARM Institute reached the milestone as it prepares to host its 10th annual member meeting in Pittsburgh.\nThe post ARM Institute consortium grows to more than 500 organizations appeared first on The Robot Report.",
       "source": "The Robot Report",
       "source_authority": 0.85,
-      "date": "2026-11-07",
-      "score": 0.73
+      "date": "2026-11-08",
+      "score": 0.7675
+    },
+    {
+      "title": "2027 款岚图知音汽车 11 月 13 日上市，896 线双光路激光雷达 + 81 度电池",
+      "url": "https://www.ithome.com/1/024/059.htm",
+      "summary": "IT之家 11 月 9 日消息，2027 款岚图知音汽车官宣将于 11  月 13 日上市，定位“智慧超充纯电大五座 SUV”。IT之家从官方预热了解到，2027 款岚图知音搭载：896 线双光路激光雷达 + 华为乾崑智驾 ADS 581 度电池，支持 5C 快充，CLTC 纯电续航 650km90.8% 得房率，后排腿部空间达 1038mm7L 冷暖冰箱、副驾零重力座椅、后排折叠小桌板、后排座椅一键放倒 / 升起“暮山紫”外观车色、“极光紫”内饰车色相关阅读：《全新岚图知音上市：标配华为乾崑智驾 ADS 4、首批搭载鸿蒙座舱 HarmonySpace 5，20.29 万起》",
+      "short_summary": "IT之家 11 月 9 日消息，2027 款岚图知音汽车官宣将于 11  月 13 日上市，定位“智慧超充纯电大五座 S",
+      "detail": "IT之家 11 月 9 日消息，2027 款岚图知音汽车官宣将于 11  月 13 日上市，定位“智慧超充纯电大五座 SUV”。IT之家从官方预热了解到，2027 款岚图知音搭载：896 线双光路激光雷达 + 华为乾崑智驾 ADS 581 度电池，支持 5C 快充，CLTC 纯电续航 650km90.8% 得房率，后排腿部空间达 1038mm7L 冷暖冰箱、副驾零重力座椅、后排折叠小桌板、后排座椅一键放倒 / 升起“暮山紫”外观车色、“极光紫”内饰车色相关阅读：《全新岚图知音上市：标配华为乾崑智驾 ADS 4、首批搭载鸿蒙座舱 HarmonySpace 5，20.29 万起》",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-11-09",
+      "score": 0.675
+    },
+    {
+      "title": "World Models Will Soon Be Inescapable. Here’s What You Need to Know",
+      "url": "https://www.wired.com/story/world-models-will-soon-be-inescapable-what-you-need-to-know/",
+      "summary": "Moving AI from text to 3D space, world models simulate real-world physics to teach robots and autonomous cars how to navigate reality.",
+      "short_summary": "Moving AI from text to 3D space, world models simulate real-",
+      "detail": "Moving AI from text to 3D space, world models simulate real-world physics to teach robots and autonomous cars how to navigate reality.",
+      "source": "Wired",
+      "source_authority": 0.85,
+      "date": "2026-11-08",
+      "score": 0.66
     }
   ]
 }
