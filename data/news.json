@@ -2,6 +2,17 @@
   "date": "2026-11-11",
   "category1": [
     {
+      "title": "台积电押注 AI：批准对 Anthropic、OpenAI 最高 10 亿美元的投资计划",
+      "url": "https://www.ithome.com/1/025/481.htm",
+      "summary": "IT之家 11 月 11 日消息，全球最大晶圆代工厂台积电（TSMC）批准了一项最高 10 亿美元（IT之家注：现汇率约合 66.88 亿元人民币）的投资计划，分别向人工智能公司 Anthropic 和 OpenAI 投资最多 5 亿美元（现汇率约合 33.44 亿元人民币）。在人工智能投资热潮显露疲态之际，此举无疑为市场注入了一剂强心针。台积电周二表示，公司董事会已批准两项投资计划：分别以 Anthropic 首次公开募股（IPO）的发行价认购最多 5 亿美元（现汇率约合 33.44 亿元人民币）普通股，以及投资最多 5 亿美元（现汇率约合 33.44 亿元人民币）认购 OpenAI 的优先股。Anthropic 周二宣布，计划以每股 70 至 78 美元（现汇率约合 468.1 至 521.6 元人民币）的价格进行 IPO。按照发行价区间中间值计算，公司此次上市募资规模有望超过 610 亿美元（现汇率约合 4,079.53 亿元人民币）。这家 Claude 聊天机器人的开发商还计划从大型投资者手中筹集 260 亿美元（现汇率约合 1,738.82 亿元人民币）资金，参与方包括谷歌母",
+      "short_summary": "IT之家 11 月 11 日消息，全球最大晶圆代工厂台积电（TSMC）批准了一项最高 10 亿美元（IT之家注：现汇率约",
+      "detail": "IT之家 11 月 11 日消息，全球最大晶圆代工厂台积电（TSMC）批准了一项最高 10 亿美元（IT之家注：现汇率约合 66.88 亿元人民币）的投资计划，分别向人工智能公司 Anthropic 和 OpenAI 投资最多 5 亿美元（现汇率约合 33.44 亿元人民币）。在人工智能投资热潮显露疲态之际，此举无疑为市场注入了一剂强心针。台积电周二表示，公司董事会已批准两项投资计划：分别以 Anthropic 首次公开募股（IPO）的发行价认购最多 5 亿美元（现汇率约合 33.44 亿元人民币）普通股，以及投资最多 5 亿美元（现汇率约合 33.44 亿元人民币）认购 OpenAI 的优先股。Anthropic 周二宣布，计划以每股 70 至 78 美元（现汇率约合 468.1 至 521.6 元人民币）的价格进行 IPO。按照发行价区间中间值计算，公司此次上市募资规模有望超过 610 亿美元（现汇率约合 4,079.53 亿元人民币）。这家 Claude 聊天机器人的开发商还计划从大型投资者手中筹集 260 亿美元（现汇率约合 1,738.82 亿元人民币）资金，参与方包括谷歌母",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-11-11",
+      "score": 0.975
+    },
+    {
       "title": "Anthropic has its own AI-powered office suite now",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1030709/anthropic-has-its-own-ai-powered-office-suite-now",
       "summary": "For years, Anthropic has been known for its focus on enterprise and coding tools that attract high-flying corporate clients, inspiring competing frontier labs - like OpenAI, SpaceXSI, and Meta - to copy its strategies. Earlier this year, Claude Code went through its own particular hype cycle. And now, Anthropic is trying to expand its footprint […]",
@@ -35,6 +46,17 @@
       "score": 0.9325
     },
     {
+      "title": "苹果计划限制 Apple Intelligence 云端 AI 使用额度：可订阅 iCloud+ 套餐扩容，Logic Pro 已单独售卖用量包",
+      "url": "https://www.ithome.com/1/025/502.htm",
+      "summary": "IT之家 11 月 11 日消息，苹果计划对部分 Apple Intelligence 云端 AI 功能实施使用额度限制，用户未来可以付费获得更多使用额度。根据苹果发布的支持文档，部分依赖服务器端模型的 Apple Intelligence 功能将受到使用限制，涉及 Siri AI、图乐园、照片应用中的智能编辑工具，以及「快捷指令」中的 AFM 3 Cloud 和 AFM 3 Cloud Pro 模型等功能。此外，使用苹果私有云计算系统中 Apple Foundation Models 的第三方开发者应用也可能受到限制。在此之前，苹果已经在专业音乐制作软件 Logic Pro 中推出额外 AI 用量包，美区售价为 49.99 美元（IT之家注：现汇率约合 334.3 元人民币）。具体而言，照片应用中的相关工具包括「清理」「扩展」和「空间重新构图」。当用户达到某项功能的使用上限后，该功能需要等待一段时间才能重新使用。苹果表示，具体限制可能根据功能类型、请求复杂度、系统需求和系统策略等因素动态调整。苹果此前在官方新闻稿中表示，依赖云端模型的部分 Apple Intelligence 功能设",
+      "short_summary": "IT之家 11 月 11 日消息，苹果计划对部分 Apple Intelligence 云端 AI 功能实施使用额度限制",
+      "detail": "IT之家 11 月 11 日消息，苹果计划对部分 Apple Intelligence 云端 AI 功能实施使用额度限制，用户未来可以付费获得更多使用额度。根据苹果发布的支持文档，部分依赖服务器端模型的 Apple Intelligence 功能将受到使用限制，涉及 Siri AI、图乐园、照片应用中的智能编辑工具，以及「快捷指令」中的 AFM 3 Cloud 和 AFM 3 Cloud Pro 模型等功能。此外，使用苹果私有云计算系统中 Apple Foundation Models 的第三方开发者应用也可能受到限制。在此之前，苹果已经在专业音乐制作软件 Logic Pro 中推出额外 AI 用量包，美区售价为 49.99 美元（IT之家注：现汇率约合 334.3 元人民币）。具体而言，照片应用中的相关工具包括「清理」「扩展」和「空间重新构图」。当用户达到某项功能的使用上限后，该功能需要等待一段时间才能重新使用。苹果表示，具体限制可能根据功能类型、请求复杂度、系统需求和系统策略等因素动态调整。苹果此前在官方新闻稿中表示，依赖云端模型的部分 Apple Intelligence 功能设",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-11-11",
+      "score": 0.9175
+    },
+    {
       "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
       "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
       "summary": "New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to register, disclose safety practices, and report critical incidents or face fines.",
@@ -57,6 +79,17 @@
       "score": 0.8975
     },
     {
+      "title": "消息称 Anthropic 承销商考虑上调 IPO 发行价，估值或突破 1.5 万亿美元",
+      "url": "https://www.ithome.com/1/025/526.htm",
+      "summary": "IT之家 11 月 11 日消息，据英国《金融时报》报道，在投资者认购需求异常旺盛的推动下，Anthropic 的承销商正在考虑提高这家人工智能公司的首次公开募股（IPO）发行价。就在不到一天前，Anthropic 刚刚披露，公司计划于下周上市，目标估值约为 1.4 万亿美元（IT之家注：现汇率约合 9.36 万亿元人民币）。据五位知情人士透露，承销商已表示，预计将把股价上调至周二早些时候提交的文件所公布的每股 70 至 78 美元（现汇率约合 468.1 至 521.6 元人民币）区间之上。未来几天，Anthropic 的目标估值可能因此提高至 1.5 万亿美元（现汇率约合 10.03 万亿元人民币）甚至更高。发行价上调还将推动 IPO 募资总额突破 1,000 亿美元（现汇率约合 6,687.76 亿元人民币）。三位 Anthropic 投资方表示，公司目前更关注通过上市尽可能多地筹集资金，以支持计算能力方面的巨额开支，而不是一味追求更高的估值。Anthropic 周二表示，此次 IPO 计划募资最高 640 亿美元（现汇率约合 4,280.16 亿元人民币），有望成为有史以来规模",
+      "short_summary": "IT之家 11 月 11 日消息，据英国《金融时报》报道，在投资者认购需求异常旺盛的推动下，Anthropic 的承销商",
+      "detail": "IT之家 11 月 11 日消息，据英国《金融时报》报道，在投资者认购需求异常旺盛的推动下，Anthropic 的承销商正在考虑提高这家人工智能公司的首次公开募股（IPO）发行价。就在不到一天前，Anthropic 刚刚披露，公司计划于下周上市，目标估值约为 1.4 万亿美元（IT之家注：现汇率约合 9.36 万亿元人民币）。据五位知情人士透露，承销商已表示，预计将把股价上调至周二早些时候提交的文件所公布的每股 70 至 78 美元（现汇率约合 468.1 至 521.6 元人民币）区间之上。未来几天，Anthropic 的目标估值可能因此提高至 1.5 万亿美元（现汇率约合 10.03 万亿元人民币）甚至更高。发行价上调还将推动 IPO 募资总额突破 1,000 亿美元（现汇率约合 6,687.76 亿元人民币）。三位 Anthropic 投资方表示，公司目前更关注通过上市尽可能多地筹集资金，以支持计算能力方面的巨额开支，而不是一味追求更高的估值。Anthropic 周二表示，此次 IPO 计划募资最高 640 亿美元（现汇率约合 4,280.16 亿元人民币），有望成为有史以来规模",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-11-11",
+      "score": 0.885
+    },
+    {
       "title": "ChatGPT’s Teen Mode could deprive teenagers of a fundamental need | Robin Kirman",
       "url": "https://www.theguardian.com/commentisfree/2026/nov/10/chatgpt-teen-mode-cognitive-skills",
       "summary": "What young students stand to lose is more than cognitive skill: it’s a reliable sense of their own mindsIn August, OpenAI launched Teen Mode – a version of ChatGPT in which every user under 18 will automatically be enrolled – a year after a lawsuit alleged that ChatGPT had contributed to the suicide of a 16-year-old named Adam Raine.For years, the tech industry has contested any causal link between its products and the harms named in a wave of similar lawsuits, each alleging that the companies h",
@@ -77,39 +110,6 @@
       "source_authority": 0.95,
       "date": "2026-11-11",
       "score": 0.8575
-    },
-    {
-      "title": "Anthropic’s Giant IPO Will Tie It Closer to Nvidia",
-      "url": "https://www.nytimes.com/2026/11/10/business/anthropic-ipo-nvidia.html",
-      "summary": "Nvidia planned to invest $10 billion in Anthropic alongside its initial public offering, the largest of the new financial commitments from several giants to the A.I. company.",
-      "short_summary": "Nvidia planned to invest $10 billion in Anthropic alongside ",
-      "detail": "Nvidia planned to invest $10 billion in Anthropic alongside its initial public offering, the largest of the new financial commitments from several giants to the A.I. company.",
-      "source": "NYT",
-      "source_authority": 0.9,
-      "date": "2026-11-11",
-      "score": 0.8475
-    },
-    {
-      "title": "Amazon and Google Will See Big Paydays from Anthropic IPO",
-      "url": "https://www.nytimes.com/2026/11/10/technology/anthropic-ipo-google-amazon.html",
-      "summary": "Amazon and Google are the largest investors in the A.I. start-up, and their shares could gain hundreds of billions of dollars in value.",
-      "short_summary": "Amazon and Google are the largest investors in the A.I. star",
-      "detail": "Amazon and Google are the largest investors in the A.I. start-up, and their shares could gain hundreds of billions of dollars in value.",
-      "source": "NYT",
-      "source_authority": 0.9,
-      "date": "2026-11-11",
-      "score": 0.84
-    },
-    {
-      "title": "阿里全新一代千问大模型 Qwen4 即将发布，预览版已首发上线",
-      "url": "https://www.ithome.com/1/025/301.htm",
-      "summary": "IT之家 11 月 11 日消息，阿里巴巴今日官宣，全新一代千问大模型 Qwen4 即将发布：知识理解更深入，世界感知更立体，Coding 与 Agentic 能力持续进阶。现在，Qwen4-Max 预览版已首发上线阿里 Token Plan，限时最低 1 折即可体验 Qwen4 模型。同时，千问办公、Qoder、千问 App、QwenStudio 等也已第一时间接入新模型。IT之家查询了解到，阿里 Token Plan 个人版 Lite / Essential 日常限时价 39 元 / 月起，活动期间新客折上再享 5 折，低至 19.5 元。",
-      "short_summary": "IT之家 11 月 11 日消息，阿里巴巴今日官宣，全新一代千问大模型 Qwen4 即将发布：知识理解更深入，世界感知更",
-      "detail": "IT之家 11 月 11 日消息，阿里巴巴今日官宣，全新一代千问大模型 Qwen4 即将发布：知识理解更深入，世界感知更立体，Coding 与 Agentic 能力持续进阶。现在，Qwen4-Max 预览版已首发上线阿里 Token Plan，限时最低 1 折即可体验 Qwen4 模型。同时，千问办公、Qoder、千问 App、QwenStudio 等也已第一时间接入新模型。IT之家查询了解到，阿里 Token Plan 个人版 Lite / Essential 日常限时价 39 元 / 月起，活动期间新客折上再享 5 折，低至 19.5 元。",
-      "source": "ITHome",
-      "source_authority": 0.75,
-      "date": "2026-11-11",
-      "score": 0.84
     }
   ],
   "category2": [
@@ -123,28 +123,6 @@
       "source_authority": 0.95,
       "date": "2026-11-10",
       "score": 0.8125
-    },
-    {
-      "title": "微软 Auto SR 正式登场：兼容华硕 ROG Xbox Ally X 掌机及部分 AMD 锐龙机型，帧率最高 120 FPS",
-      "url": "https://www.ithome.com/1/025/311.htm",
-      "summary": "IT之家 11 月 11 日消息，当地时间 11 月 10 日，微软宣布旗下 AI 超分辨率技术 Automatic Super Resolution 正式面向 Xbox Ally X、Xbox Ally X20 以及部分搭载 AMD 锐龙处理器的 Windows Copilot+ PC 推出。微软 & 华硕 Xbox Ally X 用户现在可以在掌机模式下使用 Auto SR，不再需要将设备连接底座。与英伟达 DLSS、AMD FSR 等技术类似，Auto SR 是微软面向 Windows 游戏推出的 AI 超分技术，能够通过图像处理和 AI 算法提升游戏画面分辨率，在改善视觉效果的同时降低原生渲染负担。微软今年 4 月开始在 Xbox Ally X 上测试 Auto SR，当时该功能仅支持设备连接底座后的使用场景。此次正式推出后，玩家可以在手持设备、使用电池供电的情况下启用 Auto SR，同时新增对 1080p 游戏的支持。微软表示，掌机模式和 1080p 分辨率组合下的性能表现可能不如其他配置理想，但在部分较老游戏中，玩家仍能明显感受到画面质量改善。微软此次还引入了全新的 Pe",
-      "short_summary": "IT之家 11 月 11 日消息，当地时间 11 月 10 日，微软宣布旗下 AI 超分辨率技术 Automatic S",
-      "detail": "IT之家 11 月 11 日消息，当地时间 11 月 10 日，微软宣布旗下 AI 超分辨率技术 Automatic Super Resolution 正式面向 Xbox Ally X、Xbox Ally X20 以及部分搭载 AMD 锐龙处理器的 Windows Copilot+ PC 推出。微软 & 华硕 Xbox Ally X 用户现在可以在掌机模式下使用 Auto SR，不再需要将设备连接底座。与英伟达 DLSS、AMD FSR 等技术类似，Auto SR 是微软面向 Windows 游戏推出的 AI 超分技术，能够通过图像处理和 AI 算法提升游戏画面分辨率，在改善视觉效果的同时降低原生渲染负担。微软今年 4 月开始在 Xbox Ally X 上测试 Auto SR，当时该功能仅支持设备连接底座后的使用场景。此次正式推出后，玩家可以在手持设备、使用电池供电的情况下启用 Auto SR，同时新增对 1080p 游戏的支持。微软表示，掌机模式和 1080p 分辨率组合下的性能表现可能不如其他配置理想，但在部分较老游戏中，玩家仍能明显感受到画面质量改善。微软此次还引入了全新的 Pe",
-      "source": "ITHome",
-      "source_authority": 0.75,
-      "date": "2026-11-11",
-      "score": 0.785
-    },
-    {
-      "title": "余承东换上 OSTA O1 Pro 阔直板新机，官宣全新华为子品牌 OSTA 星芒",
-      "url": "https://www.ithome.com/1/025/300.htm",
-      "summary": "IT之家 11 月 11 日消息，华为官方今日宣布，鸿蒙智行享界 V8 及星芒品牌发布会定档 2026 年 11 月 20 日 14:30。华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东发文，全新华为子品牌 OSTA 星芒，将在本次发布会首次和大家见面。IT之家注意到，余承东的微博小尾巴已经变成了 OSTA O1 Pro，正是此前爆料的星芒阔直板手机。博主 @数码闲聊站 本周曝光了某新机正面图，采用阔直板造型设计，评论区网友推测为华为星芒 OSTA O1 Pro。该博主此前曾爆料华为子品牌星芒的英文名是 OSTA，手机盒上也写的 OSTA，第一款阔直板手机叫 OSTA O1 Pro。该机可选星空黑 / 星云白 / 星芒紫三款配色，以及 12+256GB/12+512GB/16+512GB/16+1TB 容量。",
-      "short_summary": "IT之家 11 月 11 日消息，华为官方今日宣布，鸿蒙智行享界 V8 及星芒品牌发布会定档 2026 年 11 月 2",
-      "detail": "IT之家 11 月 11 日消息，华为官方今日宣布，鸿蒙智行享界 V8 及星芒品牌发布会定档 2026 年 11 月 20 日 14:30。华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东发文，全新华为子品牌 OSTA 星芒，将在本次发布会首次和大家见面。IT之家注意到，余承东的微博小尾巴已经变成了 OSTA O1 Pro，正是此前爆料的星芒阔直板手机。博主 @数码闲聊站 本周曝光了某新机正面图，采用阔直板造型设计，评论区网友推测为华为星芒 OSTA O1 Pro。该博主此前曾爆料华为子品牌星芒的英文名是 OSTA，手机盒上也写的 OSTA，第一款阔直板手机叫 OSTA O1 Pro。该机可选星空黑 / 星云白 / 星芒紫三款配色，以及 12+256GB/12+512GB/16+512GB/16+1TB 容量。",
-      "source": "ITHome",
-      "source_authority": 0.75,
-      "date": "2026-11-11",
-      "score": 0.7575
     },
     {
       "title": "Adobe is going all in on agentic AI",
@@ -169,15 +147,15 @@
       "score": 0.7425
     },
     {
-      "title": "华为星芒手机官方微博上线：新品牌 11 月 20 日发布，余承东已换上 OSTA O1 Pro 阔直板新机",
-      "url": "https://www.ithome.com/1/025/313.htm",
-      "summary": "IT之家 11 月 11 日消息，华为官方今日宣布，鸿蒙智行享界 V8 及星芒品牌发布会定档 2026 年 11 月 20 日 14:30。IT之家注意到，目前 OSTA 星芒手机官方微博已上线，暂未发布相关内容，但背景图率先展示了“OSTA”的品牌字母标识。此外，抖音、小红书等平台也有相关名称的账号出现，但暂未通过认证，是否为官号存疑。参考IT之家今日早些时候报道，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东发文，宣布全新华为子品牌 OSTA 星芒，将在本次发布会首次和大家见面。余承东的微博小尾巴已经变成了 OSTA O1 Pro，正是此前爆料的星芒阔直板手机。",
-      "short_summary": "IT之家 11 月 11 日消息，华为官方今日宣布，鸿蒙智行享界 V8 及星芒品牌发布会定档 2026 年 11 月 2",
-      "detail": "IT之家 11 月 11 日消息，华为官方今日宣布，鸿蒙智行享界 V8 及星芒品牌发布会定档 2026 年 11 月 20 日 14:30。IT之家注意到，目前 OSTA 星芒手机官方微博已上线，暂未发布相关内容，但背景图率先展示了“OSTA”的品牌字母标识。此外，抖音、小红书等平台也有相关名称的账号出现，但暂未通过认证，是否为官号存疑。参考IT之家今日早些时候报道，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东发文，宣布全新华为子品牌 OSTA 星芒，将在本次发布会首次和大家见面。余承东的微博小尾巴已经变成了 OSTA O1 Pro，正是此前爆料的星芒阔直板手机。",
+      "title": "币安示警 iPhone 18 Pro 等用户：苹果 iOS 27.2 等存在漏洞，恶意 App 可越界读取隐私文件",
+      "url": "https://www.ithome.com/1/025/484.htm",
+      "summary": "IT之家 11 月 11 日消息，币安（Binance）昨日（11 月 10 日）在 X 平台发出安全警告，称苹果 iOS 26.7.1、iOS 27.0.1 和 iOS 27.2 系统存在安全风险，恶意应用可能读取其它应用保存的本地文件，涉及加密货币钱包助记词、私钥及登录凭证。IT之家附上相关截图如下：影响范围上，币安强调这是操作系统层面的问题，并非仅影响币安应用。科技媒体 bleepingcomputer 指出，目前没有查询到有用户反馈因该风险而导致加密货币损失的报道。漏洞细节方面，该风险涉及名为“worse_query”的沙箱逃逸技术，可突破应用之间的数据隔离。相关概念验证工具 WQ Files 已公开，无需越狱即可浏览、导出、修改或删除其他应用的数据。该媒体指出攻击需要先在目标 iPhone 上安装相关工具，因此对于 iPhone 18 Pro 等普通用户而言，其风险可能比较有限。币安建议用户及时更新 iOS 及应用，删除不必要或不可信的软件。若怀疑设备已遭入侵，应在安全、未受入侵的设备上创建新钱包并转移资金，同时重置所有活跃登录会话。",
+      "short_summary": "IT之家 11 月 11 日消息，币安（Binance）昨日（11 月 10 日）在 X 平台发出安全警告，称苹果 iO",
+      "detail": "IT之家 11 月 11 日消息，币安（Binance）昨日（11 月 10 日）在 X 平台发出安全警告，称苹果 iOS 26.7.1、iOS 27.0.1 和 iOS 27.2 系统存在安全风险，恶意应用可能读取其它应用保存的本地文件，涉及加密货币钱包助记词、私钥及登录凭证。IT之家附上相关截图如下：影响范围上，币安强调这是操作系统层面的问题，并非仅影响币安应用。科技媒体 bleepingcomputer 指出，目前没有查询到有用户反馈因该风险而导致加密货币损失的报道。漏洞细节方面，该风险涉及名为“worse_query”的沙箱逃逸技术，可突破应用之间的数据隔离。相关概念验证工具 WQ Files 已公开，无需越狱即可浏览、导出、修改或删除其他应用的数据。该媒体指出攻击需要先在目标 iPhone 上安装相关工具，因此对于 iPhone 18 Pro 等普通用户而言，其风险可能比较有限。币安建议用户及时更新 iOS 及应用，删除不必要或不可信的软件。若怀疑设备已遭入侵，应在安全、未受入侵的设备上创建新钱包并转移资金，同时重置所有活跃登录会话。",
       "source": "ITHome",
       "source_authority": 0.75,
       "date": "2026-11-11",
-      "score": 0.7375
+      "score": 0.695
     },
     {
       "title": "Tear Down Those Guardrails! Meet the Renegades Freeing Chatbots From Corporate Enslavers",
@@ -222,41 +200,41 @@
       "source_authority": 0.95,
       "date": "2026-11-10",
       "score": 0.65
+    },
+    {
+      "title": "Overcoming Silicon Photonics Process Control Challenges in the AI Era",
+      "url": "https://semiengineering.com/overcoming-silicon-photonics-process-control-challenges-in-the-ai-era/",
+      "summary": "How connected inspection, metrology and software can help manufacturers move SiPh and CPO toward high-volume production.\nThe post Overcoming Silicon Photonics Process Control Challenges in the AI Era appeared first on Semiconductor Engineering.",
+      "short_summary": "How connected inspection, metrology and software can help ma",
+      "detail": "How connected inspection, metrology and software can help manufacturers move SiPh and CPO toward high-volume production.\nThe post Overcoming Silicon Photonics Process Control Challenges in the AI Era appeared first on Semiconductor Engineering.",
+      "source": "SemiEngineering",
+      "source_authority": 0.85,
+      "date": "2026-11-10",
+      "score": 0.64
+    },
+    {
+      "title": "Photoshop, Lightroom, and Premiere are making it easier to remove things",
+      "url": "https://www.theverge.com/tech/1030653/adobe-max-2026-photoshop-premiere-removal-updates",
+      "summary": "Adobe is expanding its Creative Cloud apps and Firefly AI platform with new capabilities that aim to make design and editing projects faster and less complicated. Some of the announcements from Adobe's Max event today include features for automatically removing objects, blemishes, and other unwanted distractions in Premiere, Photoshop, and Lightroom, alongside new generative AI […]",
+      "short_summary": "Adobe is expanding its Creative Cloud apps and Firefly AI pl",
+      "detail": "Adobe is expanding its Creative Cloud apps and Firefly AI platform with new capabilities that aim to make design and editing projects faster and less complicated. Some of the announcements from Adobe's Max event today include features for automatically removing objects, blemishes, and other unwanted distractions in Premiere, Photoshop, and Lightroom, alongside new generative AI […]",
+      "source": "The Verge",
+      "source_authority": 0.9,
+      "date": "2026-11-10",
+      "score": 0.635
     }
   ],
   "category3": [
     {
-      "title": "马斯克 SpaceX 备战太空 AI 算力：锁定 100GW 设备产能，约为 4.4 座三峡电站总装机容量",
-      "url": "https://www.ithome.com/1/025/314.htm",
-      "summary": "IT之家 11 月 11 日消息，全球首富埃隆 · 马斯克（Elon Musk）旗下 SpaceX 公司今天（11 月 11 日）发布公告，宣布与德国太阳能电池设备制造商 SINGULUS 签署重大供应合同，将引进异质结（HJT）太阳能电池整套生产线，从而加速制造 Starmind 卫星。IT之家注：HJT 全称为 Heterojunction Technology，是一种发电技术，主要结合晶体硅与超薄的非晶硅薄膜，让太阳能电池在接收阳光后，尽量少损失电能、更有效地把电流导出来。“异质”指的是不同结构的半导体材料。在常见的 HJT 电池中，中间是一片 N 型晶体硅，两面覆盖极薄的非晶硅层，外侧再加上透明导电膜和金属电极。晶体硅和非晶硅虽然都含硅，但原子排列方式不同，因此能够形成“异质结”。而 Starmind 是 SpaceX 正在推进的太空人工智能计算卫星项目，卫星利用太阳能供电，在太空中运行计算任务，再通过激光链路和星链网络把结果传回地球，其首款公开设计名为 AI1。根据 SINGULUS 昨日发布的公告，本次合作并非采购现成太阳能电池，主要是制造电池的设备与工艺。SINGULUS",
-      "short_summary": "IT之家 11 月 11 日消息，全球首富埃隆 · 马斯克（Elon Musk）旗下 SpaceX 公司今天（11 月 ",
-      "detail": "IT之家 11 月 11 日消息，全球首富埃隆 · 马斯克（Elon Musk）旗下 SpaceX 公司今天（11 月 11 日）发布公告，宣布与德国太阳能电池设备制造商 SINGULUS 签署重大供应合同，将引进异质结（HJT）太阳能电池整套生产线，从而加速制造 Starmind 卫星。IT之家注：HJT 全称为 Heterojunction Technology，是一种发电技术，主要结合晶体硅与超薄的非晶硅薄膜，让太阳能电池在接收阳光后，尽量少损失电能、更有效地把电流导出来。“异质”指的是不同结构的半导体材料。在常见的 HJT 电池中，中间是一片 N 型晶体硅，两面覆盖极薄的非晶硅层，外侧再加上透明导电膜和金属电极。晶体硅和非晶硅虽然都含硅，但原子排列方式不同，因此能够形成“异质结”。而 Starmind 是 SpaceX 正在推进的太空人工智能计算卫星项目，卫星利用太阳能供电，在太空中运行计算任务，再通过激光链路和星链网络把结果传回地球，其首款公开设计名为 AI1。根据 SINGULUS 昨日发布的公告，本次合作并非采购现成太阳能电池，主要是制造电池的设备与工艺。SINGULUS",
+      "title": "IDC：2030 年，全球数据中心机柜量将达 5800 万架",
+      "url": "https://www.ithome.com/1/025/483.htm",
+      "summary": "IT之家 11 月 11 日消息，IDC《全球半年度数据中心设施跟踪报告》数据显示，全球已配置机柜数量预计将从 2026 年的约 2500 万架增长至 2030 年的 5800 万架。同期，全球数据中心年度能源消耗预计将从 2025 年的 519 太瓦时（TWh）增长至 2030 年的 1308 太瓦时；全球数据中心设施资本支出预计将从 2025 年的 2,760 亿美元（IT之家注：现汇率约合 1.85 万亿元人民币）增长至 2030 年的 6,550 亿美元（现汇率约合 4.38 万亿元人民币）。该统计不含服务器、GPU 等 IT 基础设施投入，主要反映电力、制冷、建筑等物理设施的建设需求。AI 基础设施扩张不仅是计算设备规模的增长，更需要庞大的物理设施与能源资源支撑。但设施供给增长并非总能与需求同步：电力供应、电网接入与数据中心建设能力，正成为全球部分市场近期增长的重要制约因素，关键电力设备、液冷及相关供应链的交付周期也在影响新增设施的建设进度。全球数据中心供给面临约束，并不代表所有地区都处于供不应求状态。IDC 全球研究指出，部分地区资源紧缺与其他地区容量利用不足可能同时存在，",
+      "short_summary": "IT之家 11 月 11 日消息，IDC《全球半年度数据中心设施跟踪报告》数据显示，全球已配置机柜数量预计将从 2026",
+      "detail": "IT之家 11 月 11 日消息，IDC《全球半年度数据中心设施跟踪报告》数据显示，全球已配置机柜数量预计将从 2026 年的约 2500 万架增长至 2030 年的 5800 万架。同期，全球数据中心年度能源消耗预计将从 2025 年的 519 太瓦时（TWh）增长至 2030 年的 1308 太瓦时；全球数据中心设施资本支出预计将从 2025 年的 2,760 亿美元（IT之家注：现汇率约合 1.85 万亿元人民币）增长至 2030 年的 6,550 亿美元（现汇率约合 4.38 万亿元人民币）。该统计不含服务器、GPU 等 IT 基础设施投入，主要反映电力、制冷、建筑等物理设施的建设需求。AI 基础设施扩张不仅是计算设备规模的增长，更需要庞大的物理设施与能源资源支撑。但设施供给增长并非总能与需求同步：电力供应、电网接入与数据中心建设能力，正成为全球部分市场近期增长的重要制约因素，关键电力设备、液冷及相关供应链的交付周期也在影响新增设施的建设进度。全球数据中心供给面临约束，并不代表所有地区都处于供不应求状态。IDC 全球研究指出，部分地区资源紧缺与其他地区容量利用不足可能同时存在，",
       "source": "ITHome",
       "source_authority": 0.75,
       "date": "2026-11-11",
-      "score": 0.8675
-    },
-    {
-      "title": "AMD 推出企业级 AI 辅助编程平台 Instinct Coder 355，支持本地运行 GLM-5.3",
-      "url": "https://www.ithome.com/1/025/305.htm",
-      "summary": "IT之家 11 月 11 日消息，AMD 当地时间本月 9 日宣布携手 Spectro Cloud 推出企业级 AI 辅助编程平台 Instinct Coder 355。该系统支持 GLM-5.3 推理部署，可在本地实现前沿模型 98% 的性能。▲ 戴尔版本Instinct Coder 355 的核心是 8 张 AMD Instinct MI355X 显卡加速器，配套 2 颗 64 核的 EPYC 9575F \"Zen 5\" CPU，此外还包括 3TB DDR5-6400 RDIMM、合计 63.36TB 的 SSD 存储。戴尔版本和 Supermicro 版本在其它规格上存在差异。▲ Supermicro 版本该系统每个节点可满足最多 85 位开发者的需求（并发 50 位）。Spectro Cloud 为 Instinct Coder 355 系统提供了配套的 PaletteAI Inference Launchpad 管理软件，默认调用本地算力而不是云端 API。",
-      "short_summary": "IT之家 11 月 11 日消息，AMD 当地时间本月 9 日宣布携手 Spectro Cloud 推出企业级 AI 辅",
-      "detail": "IT之家 11 月 11 日消息，AMD 当地时间本月 9 日宣布携手 Spectro Cloud 推出企业级 AI 辅助编程平台 Instinct Coder 355。该系统支持 GLM-5.3 推理部署，可在本地实现前沿模型 98% 的性能。▲ 戴尔版本Instinct Coder 355 的核心是 8 张 AMD Instinct MI355X 显卡加速器，配套 2 颗 64 核的 EPYC 9575F \"Zen 5\" CPU，此外还包括 3TB DDR5-6400 RDIMM、合计 63.36TB 的 SSD 存储。戴尔版本和 Supermicro 版本在其它规格上存在差异。▲ Supermicro 版本该系统每个节点可满足最多 85 位开发者的需求（并发 50 位）。Spectro Cloud 为 Instinct Coder 355 系统提供了配套的 PaletteAI Inference Launchpad 管理软件，默认调用本地算力而不是云端 API。",
-      "source": "ITHome",
-      "source_authority": 0.75,
-      "date": "2026-11-11",
-      "score": 0.86
-    },
-    {
-      "title": "Arm 发布 Cortex-M42 处理器：向量算力最高达前代 3 倍，让更多小型设备用上本地 AI",
-      "url": "https://www.ithome.com/1/025/294.htm",
-      "summary": "IT之家 11 月 11 日消息，Arm 昨日（11 月 10 日）发布公告，宣布推出 Cortex-M42 处理器，并将其纳入 Flexible Access 和 Total Access 两项技术授权计划。定位方面，Cortex-M42 处理器主要面向对成本和芯片面积敏感的智能终端，目标为可穿戴设备、工业控制器等产品带来更强的机器学习与数字信号处理能力。架构方面，Cortex-M42 处理器采用基于 Armv8.1-M 架构，结合 Helium 技术与紧凑的 AHB 总线设计，方便芯片厂商升级现有的 Cortex-M4、Cortex-M33 微控制器方案。Helium 是一套用于 Cortex-M 处理器的向量扩展技术，让同一个 CPU 既能执行控制代码，也能更高效地处理适合向量化的数据运算。性能方面，相比较 Cortex-M33，最新 Cortex-M42 处理器向量计算能力最高可达 3 倍，向量计算能效最高可达 2 倍。IT之家注：向量计算是指让处理器用一条指令，对一组数据执行同一种运算，主要通过 SIMD（单指令、多数据）提高数据处理效率。SIMD 把多个数据元素放进较大的寄",
-      "short_summary": "IT之家 11 月 11 日消息，Arm 昨日（11 月 10 日）发布公告，宣布推出 Cortex-M42 处理器，并",
-      "detail": "IT之家 11 月 11 日消息，Arm 昨日（11 月 10 日）发布公告，宣布推出 Cortex-M42 处理器，并将其纳入 Flexible Access 和 Total Access 两项技术授权计划。定位方面，Cortex-M42 处理器主要面向对成本和芯片面积敏感的智能终端，目标为可穿戴设备、工业控制器等产品带来更强的机器学习与数字信号处理能力。架构方面，Cortex-M42 处理器采用基于 Armv8.1-M 架构，结合 Helium 技术与紧凑的 AHB 总线设计，方便芯片厂商升级现有的 Cortex-M4、Cortex-M33 微控制器方案。Helium 是一套用于 Cortex-M 处理器的向量扩展技术，让同一个 CPU 既能执行控制代码，也能更高效地处理适合向量化的数据运算。性能方面，相比较 Cortex-M33，最新 Cortex-M42 处理器向量计算能力最高可达 3 倍，向量计算能效最高可达 2 倍。IT之家注：向量计算是指让处理器用一条指令，对一组数据执行同一种运算，主要通过 SIMD（单指令、多数据）提高数据处理效率。SIMD 把多个数据元素放进较大的寄",
-      "source": "ITHome",
-      "source_authority": 0.75,
-      "date": "2026-11-11",
-      "score": 0.785
+      "score": 0.8975
     },
     {
       "title": "Who Is Alice Huang, the Woman in the Middle of Nvidia’s Spy Scandal?",
@@ -334,41 +312,41 @@
       "source_authority": 0.85,
       "date": "2026-11-11",
       "score": 0.6825
+    },
+    {
+      "title": "Test Struggles To Keep Pace With AI",
+      "url": "https://semiengineering.com/test-struggles-to-keep-pace-with-ai/",
+      "summary": "Rapidly changing workloads, more test insertions, and fragmented data complicate chip testing.\nThe post Test Struggles To Keep Pace With AI appeared first on Semiconductor Engineering.",
+      "short_summary": "Rapidly changing workloads, more test insertions, and fragme",
+      "detail": "Rapidly changing workloads, more test insertions, and fragmented data complicate chip testing.\nThe post Test Struggles To Keep Pace With AI appeared first on Semiconductor Engineering.",
+      "source": "SemiEngineering",
+      "source_authority": 0.85,
+      "date": "2026-11-10",
+      "score": 0.665
+    },
+    {
+      "title": "Shrinking Hybrid Bonding Pitches Push Inspection Limits",
+      "url": "https://semiengineering.com/shrinking-hybrid-bonding-pitches-push-inspection-limits/",
+      "summary": "Existing inspection tools struggle to capture defects, especially those hidden at the bond interface.\nThe post Shrinking Hybrid Bonding Pitches Push Inspection Limits appeared first on Semiconductor Engineering.",
+      "short_summary": "Existing inspection tools struggle to capture defects, espec",
+      "detail": "Existing inspection tools struggle to capture defects, especially those hidden at the bond interface.\nThe post Shrinking Hybrid Bonding Pitches Push Inspection Limits appeared first on Semiconductor Engineering.",
+      "source": "SemiEngineering",
+      "source_authority": 0.85,
+      "date": "2026-11-10",
+      "score": 0.64
     }
   ],
   "category4": [
     {
-      "title": "马斯克宣布特斯拉 Cybertruck 赛博皮卡即将停产后，改装厂主动请缨接手",
-      "url": "https://www.ithome.com/1/025/310.htm",
-      "summary": "IT之家 11 月 11 日消息，特斯拉汽车改装厂商 Unplugged Performance 今天在 X 平台表示，他们希望接手特斯拉 Cybertruck 赛博皮卡的生产线。据IT之家此前报道，特斯拉 CEO 埃隆 · 马斯克此前宣布，公司计划在 2027 年年中左右结束 Cybertruck 的生产，以便腾出得州超级工厂（Giga Texas）的生产空间，用于扩大 Cybercab 的产能。Unplugged Performance 表示，他们完全支持特斯拉将 Cybercab 放在首位，并愿意接手 Cybertruck 的生产工作。他们会在不占用特斯拉场地空间、员工资源的情况下生产赛博皮卡。同时，特斯拉可以从生产的赛博皮卡中赚取授权费，并通过 FSD 和 Robotaxi 网络获得收入。Unplugged Performance 甚至表示，特斯拉可以让 Cybercab 优先获得电池电芯。此外这家改装厂还表示，如果能获得授权，他们希望生产 Cybertruck 赛博皮卡、三排座的 CyberSUV，以及一款无人驾驶运输车 CyberCargo。这条帖子发布后不久浏览量突破 2",
-      "short_summary": "IT之家 11 月 11 日消息，特斯拉汽车改装厂商 Unplugged Performance 今天在 X 平台表示，",
-      "detail": "IT之家 11 月 11 日消息，特斯拉汽车改装厂商 Unplugged Performance 今天在 X 平台表示，他们希望接手特斯拉 Cybertruck 赛博皮卡的生产线。据IT之家此前报道，特斯拉 CEO 埃隆 · 马斯克此前宣布，公司计划在 2027 年年中左右结束 Cybertruck 的生产，以便腾出得州超级工厂（Giga Texas）的生产空间，用于扩大 Cybercab 的产能。Unplugged Performance 表示，他们完全支持特斯拉将 Cybercab 放在首位，并愿意接手 Cybertruck 的生产工作。他们会在不占用特斯拉场地空间、员工资源的情况下生产赛博皮卡。同时，特斯拉可以从生产的赛博皮卡中赚取授权费，并通过 FSD 和 Robotaxi 网络获得收入。Unplugged Performance 甚至表示，特斯拉可以让 Cybercab 优先获得电池电芯。此外这家改装厂还表示，如果能获得授权，他们希望生产 Cybertruck 赛博皮卡、三排座的 CyberSUV，以及一款无人驾驶运输车 CyberCargo。这条帖子发布后不久浏览量突破 2",
+      "title": "亚马逊 Ring 推出两款安防机器人：一款飞着看家，一款巡逻商铺",
+      "url": "https://www.ithome.com/1/025/465.htm",
+      "summary": "IT之家 11 月 11 日消息，亚马逊旗下安防品牌 Ring 昨日（11 月 10 日）宣布扩展推出 Ring Robotics 产品线，首批产品包括面向家庭的飞行摄像头 Drone Cam，以及面向商业场所的轮式机器人 Rover Cam。两款设备均搭载 AI Pilot 系统，结合摄像头、传感器、视觉模型和云端处理实现自主导航。首次设置后，设备会绘制室内地图，建议重点监控门窗、走廊等位置；配置完成后，可自主避障，并响应现有 Ring 设备发出的警报。Drone Cam 配备 2K 摄像头，支持 148 度视角和 360 度旋转，弱光下可自动开启 LED 灯。用户可通过应用设置飞行路线、安排巡逻，或派它前往指定位置查看；不使用时，设备停靠基座，摄像头关闭。Ring 早在 2020 年便提出室内飞行安防摄像头，如今再次推进这一方向。Rover Cam 则面向办公室、商店和仓库，配备可升降的潜望式摄像头，可越过柜台、货架取景，支持最高 4K 连续录像和直播，并集成警报器、灯光及双向语音功能。价格方面，Rover Cam 已在美国开启预售，售价 999.99 美元（IT之家注：现汇率约合",
+      "short_summary": "IT之家 11 月 11 日消息，亚马逊旗下安防品牌 Ring 昨日（11 月 10 日）宣布扩展推出 Ring Rob",
+      "detail": "IT之家 11 月 11 日消息，亚马逊旗下安防品牌 Ring 昨日（11 月 10 日）宣布扩展推出 Ring Robotics 产品线，首批产品包括面向家庭的飞行摄像头 Drone Cam，以及面向商业场所的轮式机器人 Rover Cam。两款设备均搭载 AI Pilot 系统，结合摄像头、传感器、视觉模型和云端处理实现自主导航。首次设置后，设备会绘制室内地图，建议重点监控门窗、走廊等位置；配置完成后，可自主避障，并响应现有 Ring 设备发出的警报。Drone Cam 配备 2K 摄像头，支持 148 度视角和 360 度旋转，弱光下可自动开启 LED 灯。用户可通过应用设置飞行路线、安排巡逻，或派它前往指定位置查看；不使用时，设备停靠基座，摄像头关闭。Ring 早在 2020 年便提出室内飞行安防摄像头，如今再次推进这一方向。Rover Cam 则面向办公室、商店和仓库，配备可升降的潜望式摄像头，可越过柜台、货架取景，支持最高 4K 连续录像和直播，并集成警报器、灯光及双向语音功能。价格方面，Rover Cam 已在美国开启预售，售价 999.99 美元（IT之家注：现汇率约合",
       "source": "ITHome",
       "source_authority": 0.75,
       "date": "2026-11-11",
       "score": 0.8975
-    },
-    {
-      "title": "成都第五代贡嘎人形机器人发布，宣称拥有“全球最领先人形机器人大脑核心技术”",
-      "url": "https://www.ithome.com/1/025/295.htm",
-      "summary": "IT之家 11 月 11 日消息，成都人形机器人创新中心今日发布了第五代贡嘎人形机器人，宣称拥有“全球最领先人形机器人大脑核心技术”。作为成都人形机器人创新中心具身智能大脑技术的集大成之作，五代贡嘎搭载自研一体化具身智能系统，在场景感知、时空记忆、因果推理规划、动作世界模型等核心模块完成系统性迭代，宣称“代表当前全球第一梯队的人形机器人大脑技术最高水平”。五代贡嘎的具身大脑打通了“结构化感知 — 时空记忆 — 因果规划 — 动作推演 — 执行反馈”完整技术链路，实现环境认知、记忆更新、任务规划与操作执行的端到端协同。在环境感知维度，机器人融合 RGB 视觉、深度信息与本体位姿数据，构建层次化三维场景图。依托跨视角实体关联、语义关系建模与增量式场景更新机制，持续对动态家庭空间做结构化表征，能够稳定识别物品位置、类别、摆放关系，适应居家环境里物品移位、杂物新增这类高频变化。在记忆体系上，创新中心自研的物理时空记忆引擎，将空间坐标、物体物理状态、时间演化规律、历史交互经验统一存储管理。机器人可以长期维护物体身份一致性，支持时序记忆检索、多轮记忆对齐与冲突自动消解；简单来说，它能“记住”东西之",
-      "short_summary": "IT之家 11 月 11 日消息，成都人形机器人创新中心今日发布了第五代贡嘎人形机器人，宣称拥有“全球最领先人形机器人大",
-      "detail": "IT之家 11 月 11 日消息，成都人形机器人创新中心今日发布了第五代贡嘎人形机器人，宣称拥有“全球最领先人形机器人大脑核心技术”。作为成都人形机器人创新中心具身智能大脑技术的集大成之作，五代贡嘎搭载自研一体化具身智能系统，在场景感知、时空记忆、因果推理规划、动作世界模型等核心模块完成系统性迭代，宣称“代表当前全球第一梯队的人形机器人大脑技术最高水平”。五代贡嘎的具身大脑打通了“结构化感知 — 时空记忆 — 因果规划 — 动作推演 — 执行反馈”完整技术链路，实现环境认知、记忆更新、任务规划与操作执行的端到端协同。在环境感知维度，机器人融合 RGB 视觉、深度信息与本体位姿数据，构建层次化三维场景图。依托跨视角实体关联、语义关系建模与增量式场景更新机制，持续对动态家庭空间做结构化表征，能够稳定识别物品位置、类别、摆放关系，适应居家环境里物品移位、杂物新增这类高频变化。在记忆体系上，创新中心自研的物理时空记忆引擎，将空间坐标、物体物理状态、时间演化规律、历史交互经验统一存储管理。机器人可以长期维护物体身份一致性，支持时序记忆检索、多轮记忆对齐与冲突自动消解；简单来说，它能“记住”东西之",
-      "source": "ITHome",
-      "source_authority": 0.75,
-      "date": "2026-11-11",
-      "score": 0.875
-    },
-    {
-      "title": "谷歌本月开放 3 个顶级域名注册：吃饭用 .eat、出行用 .fly、办事用 .here",
-      "url": "https://www.ithome.com/1/025/298.htm",
-      "summary": "IT之家 11 月 11 日消息，谷歌昨日（11 月 10 日）发布公告，宣布旗下域名注册管理机构 Google Registry 推出 .eat、.fly 和 .here 三款顶级域名，为企业和个人提供新的网址后缀选择。IT之家援引博文介绍，上述 3 款顶级域名各有应用侧重，其中 .eat 围绕餐饮和食品业务展开，鸡翅连锁品牌 Wingstop 已使用 wingstop.eat，制作新鲜沙拉和餐食的机器人自助售餐服务 Xook 也已采用 xook.eat。.fly 的应用涵盖旅行、无人机及科技服务，例如 AI 旅行助手 Caddy 使用 caddy.fly，电力线路巡检无人机企业 Voltair 使用 voltair.fly。.here 则突出“在这里办事”的表达。房地产平台 Zillow 使用 rent.here 和 sell.here，分别对应租房与卖房；此外，谷歌还展示了法律服务网站 lawyer.here、求职平台 apply.here，以及居家血液检测服务网站 bloodtest.here。注册方面，三款后缀已进入抢先注册阶段，用户可通过域名注册商购买尚可注册的域名，但需支",
-      "short_summary": "IT之家 11 月 11 日消息，谷歌昨日（11 月 10 日）发布公告，宣布旗下域名注册管理机构 Google Reg",
-      "detail": "IT之家 11 月 11 日消息，谷歌昨日（11 月 10 日）发布公告，宣布旗下域名注册管理机构 Google Registry 推出 .eat、.fly 和 .here 三款顶级域名，为企业和个人提供新的网址后缀选择。IT之家援引博文介绍，上述 3 款顶级域名各有应用侧重，其中 .eat 围绕餐饮和食品业务展开，鸡翅连锁品牌 Wingstop 已使用 wingstop.eat，制作新鲜沙拉和餐食的机器人自助售餐服务 Xook 也已采用 xook.eat。.fly 的应用涵盖旅行、无人机及科技服务，例如 AI 旅行助手 Caddy 使用 caddy.fly，电力线路巡检无人机企业 Voltair 使用 voltair.fly。.here 则突出“在这里办事”的表达。房地产平台 Zillow 使用 rent.here 和 sell.here，分别对应租房与卖房；此外，谷歌还展示了法律服务网站 lawyer.here、求职平台 apply.here，以及居家血液检测服务网站 bloodtest.here。注册方面，三款后缀已进入抢先注册阶段，用户可通过域名注册商购买尚可注册的域名，但需支",
-      "source": "ITHome",
-      "source_authority": 0.75,
-      "date": "2026-11-11",
-      "score": 0.8475
     },
     {
       "title": "Dynamic Creatures partners with Sixth Wall Studio to bring Hasbro characters to life with robots",
@@ -424,6 +402,17 @@
       "source_authority": 0.85,
       "date": "2026-11-11",
       "score": 0.665
+    },
+    {
+      "title": "英伟达机器人开源撞上Fable 5.2发布！Jim Fan：不是寒冬是夏天",
+      "url": "https://www.qbitai.com/2026/11/509032.html",
+      "summary": "",
+      "short_summary": "",
+      "detail": "",
+      "source": "量子位",
+      "source_authority": 0.85,
+      "date": "2026-11-10",
+      "score": 0.61
     }
   ]
 }
