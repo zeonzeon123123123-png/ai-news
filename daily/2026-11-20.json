@@ -2,6 +2,16 @@
   "date": "2026-11-20",
   "category1": [
     {
+      "title": "消息称英伟达将豪掷逾 5 亿美元，收购“比 ChatGPT 更快的 AI”公司 Inception",
+      "url": "https://www.ithome.com/1/029/886.htm",
+      "summary": "IT之家 11 月 20 日消息，科技媒体 The Information 今天（11 月 20 日）发布博文，报道称英伟达计划收购 AI 初创公司 Inception，目前双方已深入谈判，交易估值至少超过 5 亿美元（IT之家注：现汇率约合 33.46 亿元人民币），并可能附加与业绩挂钩的额外奖励。Amir Efrati 是 The Information 的执行主编IT之家查询公开资料，Inception 成立于 2024 年，总部位于美国加州帕洛阿尔托，由斯坦福大学教授 Stefano Ermon、UCLA 教授 Aditya Grover 和康奈尔大学教授 Volodymyr Kuleshov 联合创办。该公司主要研发“扩散式大语言模型”（dLLM），于 2025 年 2 月发布 Mercury，自称是全球首个商用规模的扩散式大语言模型，其产品已通过自有 API、Azure AI Foundry、OpenRouter、Baseten 等渠道提供给开发者使用。Mercury 模型的最大亮点是并行生成，不同于 OpenAI 的 GPT 系列、Anthropic 的 Claude 系",
+      "detail": "IT之家 11 月 20 日消息，科技媒体 The Information 今天（11 月 20 日）发布博文，报道称英伟达计划收购 AI 初创公司 Inception，目前双方已深入谈判，交易估值至少超过 5 亿美元（IT之家注：现汇率约合 33.46 亿元人民币），并可能附加与业绩挂钩的额外奖励。Amir Efrati 是 The Information 的执行主编IT之家查询公开资料，Inception 成立于 2024 年，总部位于美国加州帕洛阿尔托，由斯坦福大学教授 Stefano Ermon、UCLA 教授 Aditya Grover 和康奈尔大学教授 Volodymyr Kuleshov 联合创办。该公司主要研发“扩散式大语言模型”（dLLM），于 2025 年 2 月发布 Mercury，自称是全球首个商用规模的扩散式大语言模型，其产品已通过自有 API、Azure AI Foundry、OpenRouter、Baseten 等渠道提供给开发者使用。Mercury 模型的最大亮点是并行生成，不同于 OpenAI 的 GPT 系列、Anthropic 的 Claude 系",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-11-20",
+      "score": 0.975
+    },
+    {
       "title": "Anthropic closes first day of public trading at $1.3tn valuation after largest-ever IPO",
       "url": "https://www.theguardian.com/technology/2026/nov/19/anthropic-public-trading-ipo",
       "summary": "AI startup and Claude chatbot maker became one of the world’s most valuable publicly traded businesses with final share price of $97Anthropic’s historic stock market debut: key takeaways, and what comes next for the AI industry Anthropic closed its first day of trading on the US stock market about 17% higher than its initial public offering price. At the close of market on Thursday, Anthropic shares were trading at just over $97 with a nearly $1.3tn total market capitalization, $1.75tn fully dil",
@@ -12,14 +22,14 @@
       "score": 0.9575
     },
     {
-      "title": "腾讯 Hy4 正式开源，混元 LLM 系列实现全量开放",
-      "url": "https://www.ithome.com/1/029/841.htm",
-      "summary": "IT之家 11 月 20 日消息，腾讯混元团队今日宣布 Hy4 大模型正式开源，模型权重已在 GitHub、Hugging Face、ModelScope 和 GitCode 四个平台同步上线，开发者可自行下载部署。至此，混元 LLM 系列已完成全部开源，覆盖 Hy3 preview、Hy3、Hy4 preview、Hy4 及 Hy4 flash 等版本。Hy4 正式版最早于 11 月 4 日发布，本次开源的是此前预告的模型权重。Hy4 采用 MoE 混合专家架构，总参数 770B，激活参数 49B，上下文窗口突破 100 万 Token。IT之家此前报道，与旗舰版 Hy4 同步开放的还有主打性价比的 Hy4 flash。Hy4 flash 总参数约 2200 亿，其中包含约 635 亿 Engram 参数，每个 Token 仅激活约 120 亿参数，同样支持最高 100 万 Token 的上下文窗口，并支持文本与图像输入。两者形成从旗舰能力到低成本规模化落地的梯次搭配。开源协议方面，Hy4 及 Hy4 preview 采用 Apache 2.0 许可证，允许商业使用与修改。腾讯混元同",
-      "detail": "IT之家 11 月 20 日消息，腾讯混元团队今日宣布 Hy4 大模型正式开源，模型权重已在 GitHub、Hugging Face、ModelScope 和 GitCode 四个平台同步上线，开发者可自行下载部署。至此，混元 LLM 系列已完成全部开源，覆盖 Hy3 preview、Hy3、Hy4 preview、Hy4 及 Hy4 flash 等版本。Hy4 正式版最早于 11 月 4 日发布，本次开源的是此前预告的模型权重。Hy4 采用 MoE 混合专家架构，总参数 770B，激活参数 49B，上下文窗口突破 100 万 Token。IT之家此前报道，与旗舰版 Hy4 同步开放的还有主打性价比的 Hy4 flash。Hy4 flash 总参数约 2200 亿，其中包含约 635 亿 Engram 参数，每个 Token 仅激活约 120 亿参数，同样支持最高 100 万 Token 的上下文窗口，并支持文本与图像输入。两者形成从旗舰能力到低成本规模化落地的梯次搭配。开源协议方面，Hy4 及 Hy4 preview 采用 Apache 2.0 许可证，允许商业使用与修改。腾讯混元同",
+      "title": "约 14MB 内存运行 2.7 亿参数模型：谷歌工程师把 AI 装进打印机，每词元耗时约 60 秒",
+      "url": "https://www.ithome.com/1/029/953.htm",
+      "summary": "IT之家 11 月 20 日消息，谷歌 DeepMind 技术团队成员奥马尔 · 圣塞维耶罗（Omar Sanseviero）于 11 月 17 日在 X 平台发布推文，在只占用 14.1MB 内存的情况下，成功让办公激光打印机运行 2.7 亿参数的 Gemma 3 270M 模型，每输出一个词元（Token）消耗约 60 秒。圣塞维耶罗借助谷歌的 Gemini 4 Carbon 模型，探索展示了一个特别实验，将小型 Transformer 推理引擎与量化后的模型编译成一个 PostScript 打印任务。本次实验没有修改理光打印机固件，也未加装外部计算板，而是利用打印机内置的 PostScript 解释器执行计算，让原本用于描述打印页面的语言承担起运行 AI 的工作。为充分发挥打印机有限的内存资源，本次实验并未一次性装下整个模型，改为采用动态层加载方式，轮流将模型各层调入、移出内存，该实验运行时峰值占用约为 14.1MB。IT之家附上相关截图如下：性能输出方面，本次实验处理速度约为每个词元 60 秒（不是每秒 60 个词元）。报道称整个计算发生在打印机内部，由打印机的 CPU 执行",
+      "detail": "IT之家 11 月 20 日消息，谷歌 DeepMind 技术团队成员奥马尔 · 圣塞维耶罗（Omar Sanseviero）于 11 月 17 日在 X 平台发布推文，在只占用 14.1MB 内存的情况下，成功让办公激光打印机运行 2.7 亿参数的 Gemma 3 270M 模型，每输出一个词元（Token）消耗约 60 秒。圣塞维耶罗借助谷歌的 Gemini 4 Carbon 模型，探索展示了一个特别实验，将小型 Transformer 推理引擎与量化后的模型编译成一个 PostScript 打印任务。本次实验没有修改理光打印机固件，也未加装外部计算板，而是利用打印机内置的 PostScript 解释器执行计算，让原本用于描述打印页面的语言承担起运行 AI 的工作。为充分发挥打印机有限的内存资源，本次实验并未一次性装下整个模型，改为采用动态层加载方式，轮流将模型各层调入、移出内存，该实验运行时峰值占用约为 14.1MB。IT之家附上相关截图如下：性能输出方面，本次实验处理速度约为每个词元 60 秒（不是每秒 60 个词元）。报道称整个计算发生在打印机内部，由打印机的 CPU 执行",
       "source": "ITHome",
       "source_authority": 0.75,
       "date": "2026-11-20",
-      "score": 0.9225
+      "score": 0.9375
     },
     {
       "title": "Apple may be developing its own AI agent that runs your Mac",
@@ -62,20 +72,20 @@
       "score": 0.8425
     },
     {
-      "title": "Anthropic CEO acknowledges AI has 'very real risks' shortly before IPO – video",
-      "url": "https://www.theguardian.com/technology/video/2026/nov/19/anthropic-dario-amodei-acknowledges-ai-risks-before-ipo-video",
-      "summary": "Anthropic's CEO, Dario Amodei, issued a warning about the dangers of AI, saying it has 'very real' but 'avoidable' risks, shortly before the company rang the opening bell at NasdaqAnthropic ‘to open up more than 20% higher at over $100 a share’ after blockbuster IPO – business live Continue reading...",
-      "detail": "Anthropic's CEO, Dario Amodei, issued a warning about the dangers of AI, saying it has 'very real' but 'avoidable' risks, shortly before the company rang the opening bell at NasdaqAnthropic ‘to open up more than 20% higher at over $100 a share’ after blockbuster IPO – business live Continue reading...",
+      "title": "Protesters rally against Anthropic in New York and San Francisco after $2tn stock market debut",
+      "url": "https://www.theguardian.com/technology/2026/nov/19/anthropic-ipo-protests",
+      "summary": "Anti-AI groups gather in front of Nasdaq exchange in Times Square and Anthropic’s headquarters in San FranciscoAs the artificial intelligence startup Anthropic debuted on the US stock market at an eye-popping $2tn valuation on Thursday, protesters from anti-AI groups rallied in front of the Nasdaq exchange at its New York City headquarters in Times Square and several were arrested. Similar demonstrations took place outside Anthropic’s San Francisco headquarters.“I think people are starting to ge",
+      "detail": "Anti-AI groups gather in front of Nasdaq exchange in Times Square and Anthropic’s headquarters in San FranciscoAs the artificial intelligence startup Anthropic debuted on the US stock market at an eye-popping $2tn valuation on Thursday, protesters from anti-AI groups rallied in front of the Nasdaq exchange at its New York City headquarters in Times Square and several were arrested. Similar demonstrations took place outside Anthropic’s San Francisco headquarters.“I think people are starting to ge",
       "source": "The Guardian",
       "source_authority": 0.85,
       "date": "2026-11-20",
       "score": 0.8325
     },
     {
-      "title": "Anthropic keeps the AI party swinging, but the atmosphere is bubbly | Nils Pratley",
-      "url": "https://www.theguardian.com/technology/nils-pratley-on-finance/2026/nov/19/anthropic-keeps-ai-party-swinging-but-atmosphere-bubbly",
-      "summary": "Can the newly listed AI company really be worth $2tn? Anyone who remembers the late 1990s has good reason to askBusiness live – latest updatesRoll up, roll up, who wants to buy shares in a company whose technology “could pose catastrophic or existential risks to humanity”, as the prospectus had it? Virtually everybody, as it turned out. Anthropic flew out of the blocks on its first day as a listed company.From the point of view of the promoters, the result was as good as it gets. The final prici",
-      "detail": "Can the newly listed AI company really be worth $2tn? Anyone who remembers the late 1990s has good reason to askBusiness live – latest updatesRoll up, roll up, who wants to buy shares in a company whose technology “could pose catastrophic or existential risks to humanity”, as the prospectus had it? Virtually everybody, as it turned out. Anthropic flew out of the blocks on its first day as a listed company.From the point of view of the promoters, the result was as good as it gets. The final prici",
+      "title": "Anthropic CEO acknowledges AI has 'very real risks' shortly before IPO – video",
+      "url": "https://www.theguardian.com/technology/video/2026/nov/19/anthropic-dario-amodei-acknowledges-ai-risks-before-ipo-video",
+      "summary": "Anthropic's CEO, Dario Amodei, issued a warning about the dangers of AI, saying it has 'very real' but 'avoidable' risks, shortly before the company rang the opening bell at NasdaqAnthropic ‘to open up more than 20% higher at over $100 a share’ after blockbuster IPO – business live Continue reading...",
+      "detail": "Anthropic's CEO, Dario Amodei, issued a warning about the dangers of AI, saying it has 'very real' but 'avoidable' risks, shortly before the company rang the opening bell at NasdaqAnthropic ‘to open up more than 20% higher at over $100 a share’ after blockbuster IPO – business live Continue reading...",
       "source": "The Guardian",
       "source_authority": 0.85,
       "date": "2026-11-20",
@@ -90,16 +100,6 @@
       "source_authority": 0.75,
       "date": "2026-11-20",
       "score": 0.8225
-    },
-    {
-      "title": "Anthropic’s IPO could deliver $156B to charity",
-      "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/",
-      "summary": "At a stock price of $95, the frontier lab's Public Benefit Foundation, its employee donations, and the company's match tot up to $156 billion.",
-      "detail": "At a stock price of $95, the frontier lab's Public Benefit Foundation, its employee donations, and the company's match tot up to $156 billion.",
-      "source": "TechCrunch",
-      "source_authority": 0.95,
-      "date": "2026-11-20",
-      "score": 0.8075
     }
   ],
   "category2": [
@@ -164,10 +164,10 @@
       "score": 0.8
     },
     {
-      "title": "TUXEDO InfinityBook Pro 15 - Gen11 - AMD 笔电发布，搭载 HX 470",
-      "url": "https://www.ithome.com/1/029/831.htm",
-      "summary": "IT之家 11 月 20 日消息，德国 Linux PC 制造商 TUXEDO 当地时间昨日发布了 InfinityBook Pro 15 - Gen11 - AMD 笔记本电脑。这一机型基于 AMD 锐龙 AI 9 HX 470 处理器，配备 15.3\" 屏幕，内置 99Whr 电池，三维 342×240×20 (mm)，质量 1.75kg，不含增值税 / 进口税的起价约为 1,500 欧元（IT之家注：现汇率约合 11,013 元人民币）。InfinityBook Pro 15 - Gen11 - AMD 配备 2 热管 2 风扇 (7007) 散热系统，支持 90W 持续性能释放；提供包含全尺寸下沉方向键和数字键区的键盘、玻璃精准触控板。其搭载 2560×1600 300Hz 500nits 的京东方 NE153QDM-NZ2 显示面板，色域 100% sRGB，支持 180° 开合；提供 2 个 DDR5-5600 SO-DIMM 内存插槽、2 个 M.2 2280 (PCIe Gen4 ×4) 插槽；提供无线网卡；集成 2MP + IR 摄像头。而在外部，TUXEDO Inf",
-      "detail": "IT之家 11 月 20 日消息，德国 Linux PC 制造商 TUXEDO 当地时间昨日发布了 InfinityBook Pro 15 - Gen11 - AMD 笔记本电脑。这一机型基于 AMD 锐龙 AI 9 HX 470 处理器，配备 15.3\" 屏幕，内置 99Whr 电池，三维 342×240×20 (mm)，质量 1.75kg，不含增值税 / 进口税的起价约为 1,500 欧元（IT之家注：现汇率约合 11,013 元人民币）。InfinityBook Pro 15 - Gen11 - AMD 配备 2 热管 2 风扇 (7007) 散热系统，支持 90W 持续性能释放；提供包含全尺寸下沉方向键和数字键区的键盘、玻璃精准触控板。其搭载 2560×1600 300Hz 500nits 的京东方 NE153QDM-NZ2 显示面板，色域 100% sRGB，支持 180° 开合；提供 2 个 DDR5-5600 SO-DIMM 内存插槽、2 个 M.2 2280 (PCIe Gen4 ×4) 插槽；提供无线网卡；集成 2MP + IR 摄像头。而在外部，TUXEDO Inf",
+      "title": "Steam 喜加一：动作冒险游戏《The Ghost Of Solaris》转付费前免费领",
+      "url": "https://www.ithome.com/1/029/902.htm",
+      "summary": "IT之家 11 月 20 日消息，由 MSP Universe、GAZA Games 开发，MR SAQLAIN PRODUCTIONS 发行的动作冒险游戏《The Ghost Of Solaris》宣布即将由免费游玩模式转为付费销售，未来售价定为 49.99 美元（IT之家注：现汇率约合 334.5 元人民币）。开发团队表示，此次调整至少会在公告发布一周后正式生效，具体日期仍需等待 Valve 审核完成后公布。玩家可以在游戏转付费前免费领取（https://store.steampowered.com/app/4452300/The_Ghost_Of_Solaris/）。值得注意的是，本作名称疑似致敬《对马岛之魂》，但游戏实际表现却引发不少争议。Steam 商店页面展示的图片大多疑似由 AI 生成，游戏场景空洞，音效质量欠佳，预告片也因内容混乱受到批评。此外，游戏建模较为粗糙，运行过程中还存在严重卡顿，甚至被网友戏称为「PPT 游戏」，认为其完成度如同学生在电脑课上制作失败的课程项目。因此，对于打算领取后游玩的玩家，可以谨慎考虑。游戏信息显示，本作故事发生在名为 Solaris Ba",
+      "detail": "IT之家 11 月 20 日消息，由 MSP Universe、GAZA Games 开发，MR SAQLAIN PRODUCTIONS 发行的动作冒险游戏《The Ghost Of Solaris》宣布即将由免费游玩模式转为付费销售，未来售价定为 49.99 美元（IT之家注：现汇率约合 334.5 元人民币）。开发团队表示，此次调整至少会在公告发布一周后正式生效，具体日期仍需等待 Valve 审核完成后公布。玩家可以在游戏转付费前免费领取（https://store.steampowered.com/app/4452300/The_Ghost_Of_Solaris/）。值得注意的是，本作名称疑似致敬《对马岛之魂》，但游戏实际表现却引发不少争议。Steam 商店页面展示的图片大多疑似由 AI 生成，游戏场景空洞，音效质量欠佳，预告片也因内容混乱受到批评。此外，游戏建模较为粗糙，运行过程中还存在严重卡顿，甚至被网友戏称为「PPT 游戏」，认为其完成度如同学生在电脑课上制作失败的课程项目。因此，对于打算领取后游玩的玩家，可以谨慎考虑。游戏信息显示，本作故事发生在名为 Solaris Ba",
       "source": "ITHome",
       "source_authority": 0.75,
       "date": "2026-11-20",
@@ -194,10 +194,10 @@
       "score": 0.7025
     },
     {
-      "title": "荣耀 7 英寸大屏新机被曝年前发布，有望搭载 13500mAh± 电池",
-      "url": "https://www.ithome.com/1/029/827.htm",
-      "summary": "IT之家 11 月 20 日消息，博主 @数码闲聊站 今日曝光荣耀多款新机最新进展，包含 7 英寸大屏、阔折叠、阔直板等机型。据其爆料，荣耀新年前将推出 X 系列新机，搭载 13500mAh± 巨容量电池，配备 6.96/7 英寸大屏，主打长续航；Power3 也在加速中，搭载一块 7 英寸新大屏 + 巨容量电池方案，处理器更强；阔折叠大概率在春节后，阔直板暂定 27 上半年。IT之家注意到，今年多次传出荣耀将推出 7 英寸大屏手机。该博主今年 5 月爆料称，荣耀迭代线开了几块大尺寸屏幕。目前在售的旗舰手机中，小米 17 Ultra、华为 Mate 80 Pro Max、苹果 iPhone 17 Pro Max 等均配备 6.9 英寸大屏，这也是旗舰手机里面的主流尺寸，中端线新机有望超越这一尺寸。结合目前的爆料来看，今年及明年市场有望出现多款大屏新机，喜欢大屏手机的用户可以关注一下。",
-      "detail": "IT之家 11 月 20 日消息，博主 @数码闲聊站 今日曝光荣耀多款新机最新进展，包含 7 英寸大屏、阔折叠、阔直板等机型。据其爆料，荣耀新年前将推出 X 系列新机，搭载 13500mAh± 巨容量电池，配备 6.96/7 英寸大屏，主打长续航；Power3 也在加速中，搭载一块 7 英寸新大屏 + 巨容量电池方案，处理器更强；阔折叠大概率在春节后，阔直板暂定 27 上半年。IT之家注意到，今年多次传出荣耀将推出 7 英寸大屏手机。该博主今年 5 月爆料称，荣耀迭代线开了几块大尺寸屏幕。目前在售的旗舰手机中，小米 17 Ultra、华为 Mate 80 Pro Max、苹果 iPhone 17 Pro Max 等均配备 6.9 英寸大屏，这也是旗舰手机里面的主流尺寸，中端线新机有望超越这一尺寸。结合目前的爆料来看，今年及明年市场有望出现多款大屏新机，喜欢大屏手机的用户可以关注一下。",
+      "title": "谷歌确认原生“应用锁”功能无法通过 Google Play 推送至旧版安卓设备，需升级至安卓 17 QPR3",
+      "url": "https://www.ithome.com/1/030/004.htm",
+      "summary": "IT之家 11 月 20 日消息，随着谷歌近年来逐渐通过独立更新向用户推送 Android 新功能，部分用户希望无需升级至最新版 Android，也能通过更新 Google Play 获得最新“应用锁”功能。不过谷歌员工 Mishaal Rahman 在 Reddit 确认，Android 原生应用锁功能不会通过 Google Play 系统更新推送至旧版 Android 设备，相应功能依赖操作系统底层 API 支持，将于 2027 年第一季度随 Android 17 QPR3 正式版推出，安卓原生用户必须为自己的设备更新最新系统才能获得相应功能。不过这并不意味着旧版 Android 手机永远无法获得原生应用锁，事实上包括小米等厂商多年来就早已在自家系统中提供类似功能，用户可以通过指纹、PIN 码、图案或密码验证才能打开受保护的应用。",
+      "detail": "IT之家 11 月 20 日消息，随着谷歌近年来逐渐通过独立更新向用户推送 Android 新功能，部分用户希望无需升级至最新版 Android，也能通过更新 Google Play 获得最新“应用锁”功能。不过谷歌员工 Mishaal Rahman 在 Reddit 确认，Android 原生应用锁功能不会通过 Google Play 系统更新推送至旧版 Android 设备，相应功能依赖操作系统底层 API 支持，将于 2027 年第一季度随 Android 17 QPR3 正式版推出，安卓原生用户必须为自己的设备更新最新系统才能获得相应功能。不过这并不意味着旧版 Android 手机永远无法获得原生应用锁，事实上包括小米等厂商多年来就早已在自家系统中提供类似功能，用户可以通过指纹、PIN 码、图案或密码验证才能打开受保护的应用。",
       "source": "ITHome",
       "source_authority": 0.75,
       "date": "2026-11-20",
@@ -205,16 +205,6 @@
     }
   ],
   "category3": [
-    {
-      "title": "GPU-Z 2.72.0 发布：可识别英伟达 RTX Spark、RTX 4090 Ti ES，新增 AMD 多显卡热点温度监控",
-      "url": "https://www.ithome.com/1/029/823.htm",
-      "summary": "IT之家 11 月 20 日消息，TechPowerUp 今日发布了 GPU-Z 2.72.0 版本更新，此次新增对 NVIDIA RTX Spark 处理器、GB203 版本 GeForce RTX 5070 以及尚未发布的 GeForce RTX 4090 Ti 工程样品的支持，同时扩展了对 AMD 和 Intel 多款图形产品的识别能力。在 NVIDIA 产品方面，GPU-Z 2.72.0 新增对 RTX Spark 的支持，但部分显存信息暂时仍无法读取。此外，软件还加入了对 GB203 核心 GeForce RTX 5070 以及 GeForce RTX 4090 Ti 工程样品（ES）的支持。AMD 方面，新版本增加了对 BC-250 矿卡的支持，并为部分 AMD 集成 GPU 加入时钟频率和温度监控功能。同时，软件现在能够读取 AMD R9 200/300、Fury 和 RX 400/500 系列显卡的 GPU 热点温度，涉及 Polaris、Lexa、Hawaii、Fiji、Bonaire 和 Tonga 等 GPU 架构。Intel 方面，GPU-Z 2.72.0 新增",
-      "detail": "IT之家 11 月 20 日消息，TechPowerUp 今日发布了 GPU-Z 2.72.0 版本更新，此次新增对 NVIDIA RTX Spark 处理器、GB203 版本 GeForce RTX 5070 以及尚未发布的 GeForce RTX 4090 Ti 工程样品的支持，同时扩展了对 AMD 和 Intel 多款图形产品的识别能力。在 NVIDIA 产品方面，GPU-Z 2.72.0 新增对 RTX Spark 的支持，但部分显存信息暂时仍无法读取。此外，软件还加入了对 GB203 核心 GeForce RTX 5070 以及 GeForce RTX 4090 Ti 工程样品（ES）的支持。AMD 方面，新版本增加了对 BC-250 矿卡的支持，并为部分 AMD 集成 GPU 加入时钟频率和温度监控功能。同时，软件现在能够读取 AMD R9 200/300、Fury 和 RX 400/500 系列显卡的 GPU 热点温度，涉及 Polaris、Lexa、Hawaii、Fiji、Bonaire 和 Tonga 等 GPU 架构。Intel 方面，GPU-Z 2.72.0 新增",
-      "source": "ITHome",
-      "source_authority": 0.75,
-      "date": "2026-11-20",
-      "score": 0.9225
-    },
     {
       "title": "What’s With All These Outages?",
       "url": "https://www.wired.com/story/uncanny-valley-podcast-whats-with-all-these-outages/",
@@ -224,6 +214,16 @@
       "source_authority": 0.85,
       "date": "2026-11-20",
       "score": 0.8375
+    },
+    {
+      "title": "马斯克太空计划遇阻：SpaceX 债主不允许将作为贷款抵押品的 AI 芯片发射上天",
+      "url": "https://www.ithome.com/1/029/896.htm",
+      "summary": "IT 之家 11 月 20 日消息，据《金融时报》今日报道，SpaceX 最新一笔以英伟达 AI 芯片为抵押的 430 亿美元（IT之家注：现汇率约合 2,877.55 亿元人民币）债务融资，正与其 CEO 埃隆 · 马斯克的太空 AI 数据中心计划产生冲突。为这笔融资提供支持的贷款方曾试图在合同中加入限制条款，禁止 SpaceX 将作为贷款抵押品的 AI 芯片发射到太空（目前尚不确定该条款是否被纳入最终签署的融资文件）。债权人担心，这批芯片一旦被送入太空，后续哪怕 SpaceX 发生债务违约，债权人也无法在地面收回并出售这些芯片来挽回损失。SpaceX 方面则表示，这笔债务交易所涉及的芯片计划用于美国境内的地面数据中心。但马斯克此前已公开推进利用太空真空环境冷却数据中心的构想，而实现该构想的前提正是将大量先进芯片装载至卫星并送入轨道。当地时间 11 月 19 日，SpaceX 已通过代号“土星计划”的融资安排向大型投资者出售了超过 300 亿美元（现汇率约合 2,007.59 亿元人民币）的债务。其中最大部分是一笔 250 亿美元（现汇率约合 1,672.99 亿元人民币）的投资级债",
+      "detail": "IT 之家 11 月 20 日消息，据《金融时报》今日报道，SpaceX 最新一笔以英伟达 AI 芯片为抵押的 430 亿美元（IT之家注：现汇率约合 2,877.55 亿元人民币）债务融资，正与其 CEO 埃隆 · 马斯克的太空 AI 数据中心计划产生冲突。为这笔融资提供支持的贷款方曾试图在合同中加入限制条款，禁止 SpaceX 将作为贷款抵押品的 AI 芯片发射到太空（目前尚不确定该条款是否被纳入最终签署的融资文件）。债权人担心，这批芯片一旦被送入太空，后续哪怕 SpaceX 发生债务违约，债权人也无法在地面收回并出售这些芯片来挽回损失。SpaceX 方面则表示，这笔债务交易所涉及的芯片计划用于美国境内的地面数据中心。但马斯克此前已公开推进利用太空真空环境冷却数据中心的构想，而实现该构想的前提正是将大量先进芯片装载至卫星并送入轨道。当地时间 11 月 19 日，SpaceX 已通过代号“土星计划”的融资安排向大型投资者出售了超过 300 亿美元（现汇率约合 2,007.59 亿元人民币）的债务。其中最大部分是一笔 250 亿美元（现汇率约合 1,672.99 亿元人民币）的投资级债",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-11-20",
+      "score": 0.795
     },
     {
       "title": "AI Accelerators Drive Changes In Power Delivery Networks",
@@ -244,6 +244,16 @@
       "source_authority": 0.9,
       "date": "2026-11-20",
       "score": 0.755
+    },
+    {
+      "title": "玩家为 PC 串流游玩《GTA6》开发实验方案：利用电脑显卡帧生成技术将 30 帧游戏补帧至 60 帧",
+      "url": "https://www.ithome.com/1/029/978.htm",
+      "summary": "IT之家 11 月 20 日消息，开发者 Phosphen 宣布为《GTA6》开发了一套特殊串流方案，玩家在 PC 平台通过串流游玩 PS5 版《GTA6》时，可以调用显卡对游戏串流画面进行二次处理，将游戏画面提升至 60 FPS，还能改善视觉效果。不过，由于 PS5 原本仍以 30 FPS 运行游戏，这套方案并不能降低实际操作延迟。据介绍，相应串流方案基本原理是强制将 30FPS 的游戏画面以 1080P60 Hz 的规格传输至 Windows PC，之后利用开源软件 Veyra 识别剔除重复画面，并通过帧生成技术补充中间帧，最终让 PC 显示器以 60 FPS 呈现游戏画面。在画质增强方面，该方案还接入了实验性的 DLSS 5 实现。根据项目介绍，Veyra 在 RTX 5080 显卡上使用了经过 NVIDIA 签名的神经渲染运行环境。由于这套方案是在游戏画面渲染完成后进行二次处理，因此存在一定技术限制。与直接集成 DLSS 的游戏不同，Veyra 无法读取游戏引擎提供的原始数据，只能处理已经渲染并经过压缩的视频画面，需要自行估算深度信息和运动矢量。在快速运动场景中，这种处理方式可",
+      "detail": "IT之家 11 月 20 日消息，开发者 Phosphen 宣布为《GTA6》开发了一套特殊串流方案，玩家在 PC 平台通过串流游玩 PS5 版《GTA6》时，可以调用显卡对游戏串流画面进行二次处理，将游戏画面提升至 60 FPS，还能改善视觉效果。不过，由于 PS5 原本仍以 30 FPS 运行游戏，这套方案并不能降低实际操作延迟。据介绍，相应串流方案基本原理是强制将 30FPS 的游戏画面以 1080P60 Hz 的规格传输至 Windows PC，之后利用开源软件 Veyra 识别剔除重复画面，并通过帧生成技术补充中间帧，最终让 PC 显示器以 60 FPS 呈现游戏画面。在画质增强方面，该方案还接入了实验性的 DLSS 5 实现。根据项目介绍，Veyra 在 RTX 5080 显卡上使用了经过 NVIDIA 签名的神经渲染运行环境。由于这套方案是在游戏画面渲染完成后进行二次处理，因此存在一定技术限制。与直接集成 DLSS 的游戏不同，Veyra 无法读取游戏引擎提供的原始数据，只能处理已经渲染并经过压缩的视频画面，需要自行估算深度信息和运动矢量。在快速运动场景中，这种处理方式可",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-11-20",
+      "score": 0.7325
     },
     {
       "title": "Nvidia approaches Arm boss Rene Haas in search for new CEO",
@@ -294,16 +304,6 @@
       "source_authority": 0.85,
       "date": "2026-11-19",
       "score": 0.64
-    },
-    {
-      "title": "具身机器人进入真机时代，华为云CloudRobo开始组队发力了",
-      "url": "https://www.qbitai.com/2026/11/511426.html",
-      "summary": "一批卡可以轮流服务多家公司，一次适配也能让更多团队受益。算力不必家家从头买，工程上的坑也不用家家重新踩。",
-      "detail": "一批卡可以轮流服务多家公司，一次适配也能让更多团队受益。算力不必家家从头买，工程上的坑也不用家家重新踩。",
-      "source": "量子位",
-      "source_authority": 0.85,
-      "date": "2026-11-20",
-      "score": 0.62
     }
   ],
   "category4": [
@@ -318,6 +318,16 @@
       "score": 0.775
     },
     {
+      "title": "South Korean firm plans $150M lifeline for Eric Trump-backed robot maker",
+      "url": "https://www.reuters.com/world/south-korean-firm-plans-150-million-lifeline-eric-trump-backed-robot-maker-2026-11-19/",
+      "summary": "Article URL: https://www.reuters.com/world/south-korean-firm-plans-150-million-lifeline-eric-trump-backed-robot-maker-2026-11-19/\nComments URL: https://news.ycombinator.com/item?id=50569905\nPoints: 1\n# Comments: 0",
+      "detail": "Article URL: https://www.reuters.com/world/south-korean-firm-plans-150-million-lifeline-eric-trump-backed-robot-maker-2026-11-19/\nComments URL: https://news.ycombinator.com/item?id=50569905\nPoints: 1\n# Comments: 0",
+      "source": "Hacker News",
+      "source_authority": 0.8,
+      "date": "2026-11-20",
+      "score": 0.77
+    },
+    {
       "title": "Robotics enters its post-Jensen Huang era",
       "url": "https://www.therobotreport.com/robotics-enters-its-post-jensen-huang-era/",
       "summary": "One of robotics' most influential advocates is gone. Can the industry sustain its momentum without him?\nThe post Robotics enters its post-Jensen Huang era appeared first on The Robot Report.",
@@ -328,14 +338,24 @@
       "score": 0.755
     },
     {
-      "title": "广汽传祺越 7 两驱激光雷达版上市：1.1 米贯穿屏、1.9 米纯平大床，限时权益价 18.78 万元",
-      "url": "https://www.ithome.com/1/029/850.htm",
-      "summary": "IT之家 11 月 20 日消息，广汽传祺越 7 两驱激光雷达版 SUV 今日上市，官方指导价 19.58 万元，限时权益价 18.78 万元。IT之家注意到，新车延续“方盒子”车身轮廓，前脸为封闭式设计，搭配纵向排列的三颗日间行车灯，车顶安装激光雷达，前翼子板处配备传感器硬件。车尾采用蓄光组合式尾灯，直射与反射灯组结合；车门采用双色悬浮式门把手。车身尺寸方面，该车长宽高分别为 5045x2004x1933mm，轴距 2900mm，接近角 30°、离去角 33°，空载离地间隙 230mm，空气悬架升至最高时可达 310mm。座舱方面，越 7 是广汽星灵架构 4.0 的首发车型，搭载星际视界智能座舱系统，由 1.1 米 MiniLED 全景贯穿星际屏、星环视界与 15.6 英寸中控屏组成。官方称，贯穿屏支持 55 种功能组件自由拖拽，内置性能、智驾、萌宠、通勤、越野五大主题模式。乘坐空间上，第二排腿部最大空间 1015mm、头部空间 1020mm，配备 170mm 二排电动滑轨与 127° 可调座椅。前排为十层结构真皮座椅，支持加热、通风、按摩，放倒后可形成 1.9 米纯平大床；车内配备",
-      "detail": "IT之家 11 月 20 日消息，广汽传祺越 7 两驱激光雷达版 SUV 今日上市，官方指导价 19.58 万元，限时权益价 18.78 万元。IT之家注意到，新车延续“方盒子”车身轮廓，前脸为封闭式设计，搭配纵向排列的三颗日间行车灯，车顶安装激光雷达，前翼子板处配备传感器硬件。车尾采用蓄光组合式尾灯，直射与反射灯组结合；车门采用双色悬浮式门把手。车身尺寸方面，该车长宽高分别为 5045x2004x1933mm，轴距 2900mm，接近角 30°、离去角 33°，空载离地间隙 230mm，空气悬架升至最高时可达 310mm。座舱方面，越 7 是广汽星灵架构 4.0 的首发车型，搭载星际视界智能座舱系统，由 1.1 米 MiniLED 全景贯穿星际屏、星环视界与 15.6 英寸中控屏组成。官方称，贯穿屏支持 55 种功能组件自由拖拽，内置性能、智驾、萌宠、通勤、越野五大主题模式。乘坐空间上，第二排腿部最大空间 1015mm、头部空间 1020mm，配备 170mm 二排电动滑轨与 127° 可调座椅。前排为十层结构真皮座椅，支持加热、通风、按摩，放倒后可形成 1.9 米纯平大床；车内配备",
-      "source": "ITHome",
-      "source_authority": 0.75,
+      "title": "Decision model for robot status 90% less time and money",
+      "url": "https://www.rightnowai.co/rightnow",
+      "summary": "Article URL: https://www.rightnowai.co/rightnow\nComments URL: https://news.ycombinator.com/item?id=50569850\nPoints: 3\n# Comments: 0",
+      "detail": "Article URL: https://www.rightnowai.co/rightnow\nComments URL: https://news.ycombinator.com/item?id=50569850\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "source_authority": 0.8,
       "date": "2026-11-20",
-      "score": 0.695
+      "score": 0.655
+    },
+    {
+      "title": "Show HN: Break a robot arm and watch a meta-RL agent keep writing",
+      "url": "https://randman444.github.io/meta-rl-draw/web/",
+      "summary": "Article URL: https://randman444.github.io/meta-rl-draw/web/\nComments URL: https://news.ycombinator.com/item?id=50547628\nPoints: 1\n# Comments: 3",
+      "detail": "Article URL: https://randman444.github.io/meta-rl-draw/web/\nComments URL: https://news.ycombinator.com/item?id=50547628\nPoints: 1\n# Comments: 3",
+      "source": "Hacker News",
+      "source_authority": 0.8,
+      "date": "2026-11-18",
+      "score": 0.64
     }
   ]
 }
