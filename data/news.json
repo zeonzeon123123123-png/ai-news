@@ -2,28 +2,6 @@
   "date": "2026-11-25",
   "category1": [
     {
-      "title": "OpenAI 眼中的新 AI 金矿：从写代码转向防黑客",
-      "url": "https://www.ithome.com/1/031/989.htm",
-      "summary": "IT之家 11 月 25 日消息，科技媒体 The Information 昨日（11 月 24 日）发布博文，报道称 OpenAI 正把网络安全视为可能超越编程业务的下一个增长引擎，但外界仍不清楚该公司将如何把这一愿景转化为可规模化、可盈利的产品。IT之家援引博文介绍，OpenAI 首席财务官萨拉 · 弗莱尔（Sarah Friar）认为，外界对网络安全市场规模超过 3,000 亿美元（IT之家注：现汇率约合 2 万亿元人民币）的估计，可能仍低估了这一领域的长期潜力。该公司联合创始人兼总裁格雷格 · 布罗克曼（Greg Brockman）也表示，网络安全有望成为比编程更具潜力的业务方向。该媒体称 OpenAI 可能不再把 AI 编程视为唯一或最主要的商业化赛道，更希望借助安全运营、漏洞分析、恶意软件研判、代码安全审查等场景，建立新的收入来源。对于正寻求强化财务基础、并为潜在上市做准备的 OpenAI 而言，网络安全被外界视为一条重要的增长曲线。布罗克曼概述了三步路径：先构建高质量、面向网络安全的专业模型；再将产品提供给经过审核的可信客户；最后帮助客户掌握使用方式。他强调，强大的安全产",
-      "short_summary": "IT之家 11 月 25 日消息，科技媒体 The Information 昨日（11 月 24 日）发布博文，报道称 ",
-      "detail": "IT之家 11 月 25 日消息，科技媒体 The Information 昨日（11 月 24 日）发布博文，报道称 OpenAI 正把网络安全视为可能超越编程业务的下一个增长引擎，但外界仍不清楚该公司将如何把这一愿景转化为可规模化、可盈利的产品。IT之家援引博文介绍，OpenAI 首席财务官萨拉 · 弗莱尔（Sarah Friar）认为，外界对网络安全市场规模超过 3,000 亿美元（IT之家注：现汇率约合 2 万亿元人民币）的估计，可能仍低估了这一领域的长期潜力。该公司联合创始人兼总裁格雷格 · 布罗克曼（Greg Brockman）也表示，网络安全有望成为比编程更具潜力的业务方向。该媒体称 OpenAI 可能不再把 AI 编程视为唯一或最主要的商业化赛道，更希望借助安全运营、漏洞分析、恶意软件研判、代码安全审查等场景，建立新的收入来源。对于正寻求强化财务基础、并为潜在上市做准备的 OpenAI 而言，网络安全被外界视为一条重要的增长曲线。布罗克曼概述了三步路径：先构建高质量、面向网络安全的专业模型；再将产品提供给经过审核的可信客户；最后帮助客户掌握使用方式。他强调，强大的安全产",
-      "source": "ITHome",
-      "source_authority": 0.75,
-      "date": "2026-11-25",
-      "score": 0.885
-    },
-    {
-      "title": "“人类史上最大 IPO”上市不到 1 周就破发，Anthropic 跌破 83 美元发行价",
-      "url": "https://www.ithome.com/1/031/983.htm",
-      "summary": "IT之家 11 月 25 日消息，彭博社昨日（11 月 24 日）发布博文，报道称“人类史上最大 IPO”上市（11 月 19 日）的 Anthropic 首次跌破每股 83 美元（IT之家注：现汇率约合 554.3 元人民币）的 IPO 发行价，美国东部时间 11 月 24 日 16 点（北京时间 25 日凌晨 4 点）收报 81.91 美元（现汇率约合 547 元人民币），单日下跌 6.54%。这家上周刚创下纪录登陆纳斯达克的 AI 公司，上市首日曾以 111.50 美元（现汇率约合 744.6 元人民币）开盘，较发行价高出 34%，盘中一度突破 115 美元（现汇率约合 768 元人民币），完全稀释估值一度超过 2 万亿美元（现汇率约合 13.36 万亿元人民币）。然而，短短数个交易日后，市场情绪迅速逆转。Anthropic 盘中最低跌至约 76 美元（现汇率约合 507.5 元人民币），较发行价低近 9%，较上市首日高点回撤约 34%；路透社测算，其市值一度面临蒸发近 2,000 亿美元（现汇率约合 1.34 万亿元人民币）的压力。本轮下跌并非 Anthropic 独有。市场对",
-      "short_summary": "IT之家 11 月 25 日消息，彭博社昨日（11 月 24 日）发布博文，报道称“人类史上最大 IPO”上市（11 月",
-      "detail": "IT之家 11 月 25 日消息，彭博社昨日（11 月 24 日）发布博文，报道称“人类史上最大 IPO”上市（11 月 19 日）的 Anthropic 首次跌破每股 83 美元（IT之家注：现汇率约合 554.3 元人民币）的 IPO 发行价，美国东部时间 11 月 24 日 16 点（北京时间 25 日凌晨 4 点）收报 81.91 美元（现汇率约合 547 元人民币），单日下跌 6.54%。这家上周刚创下纪录登陆纳斯达克的 AI 公司，上市首日曾以 111.50 美元（现汇率约合 744.6 元人民币）开盘，较发行价高出 34%，盘中一度突破 115 美元（现汇率约合 768 元人民币），完全稀释估值一度超过 2 万亿美元（现汇率约合 13.36 万亿元人民币）。然而，短短数个交易日后，市场情绪迅速逆转。Anthropic 盘中最低跌至约 76 美元（现汇率约合 507.5 元人民币），较发行价低近 9%，较上市首日高点回撤约 34%；路透社测算，其市值一度面临蒸发近 2,000 亿美元（现汇率约合 1.34 万亿元人民币）的压力。本轮下跌并非 Anthropic 独有。市场对",
-      "source": "ITHome",
-      "source_authority": 0.75,
-      "date": "2026-11-25",
-      "score": 0.885
-    },
-    {
       "title": "‘The mistake has been corrected’: end of Jensen Huang’s brief walk in the wilderness",
       "url": "https://www.theguardian.com/technology/2026/nov/24/mistake-corrected-jensen-huang-resinstated-nvidia-analysis",
       "summary": "Tech sector’s campaign to reinstate Nvidia boss began soon after ousting over affair with alleged Chinese spyThe tech billionaires could hardly contain their delight. “Jensen!” exclaimed OpenAI’s chief executive, Sam Altman, in a one-word post on X.“Thanksgiving”, said Travis Kalanick, the Uber founder, who had been part of a core group of Silicon Valley leaders campaigning for this moment. Continue reading...",
@@ -35,11 +13,22 @@
       "score": 0.8575
     },
     {
-      "title": "约 1/9 体积保留 93.7% 编程能力：Bonsai 2.5 27B AI 模型登场，手机、电脑都能跑",
-      "url": "https://www.ithome.com/1/032/101.htm",
-      "summary": "IT之家 11 月 25 日消息，美国 AI 公司 PrismML 昨日（11 月 24 日）发布 Ternary Bonsai 2.5 27B 模型，基于 Qwen3.8 27B 基座，相比较今年 9 月推出的 Bonsai 2 27B，重点提升智能体编程、多轮工具调用和长任务执行能力。Ternary Bonsai 2.5 27B 模型采用“三值”量化，权重只取 -1、0、1 三种数值。在最紧凑格式下，该模型仍只占用 5.9GB 内存，体积约为全精度版本（约 53.8GB）的九分之一，压缩后依然保留了原模型约 93.7% 的 Agent 编程评测得分（SWE-bench Verified 得分 75.6，完整精度得分为 80.6）。性能方面，按 PrismML 公布的数据，代码能力测试 SWE-bench Verified 得分从 60.8 升至 75.6。工具使用测试 AppWorld 得分从 51.2 跃升至 90.5；LiveCodeBench v6 则从 83.8 小幅降至 83.0。IT之家附上相关数据如下：PrismML 称，压缩模型在长任务中容易出现误差累积，导致智能体",
-      "short_summary": "IT之家 11 月 25 日消息，美国 AI 公司 PrismML 昨日（11 月 24 日）发布 Ternary Bo",
-      "detail": "IT之家 11 月 25 日消息，美国 AI 公司 PrismML 昨日（11 月 24 日）发布 Ternary Bonsai 2.5 27B 模型，基于 Qwen3.8 27B 基座，相比较今年 9 月推出的 Bonsai 2 27B，重点提升智能体编程、多轮工具调用和长任务执行能力。Ternary Bonsai 2.5 27B 模型采用“三值”量化，权重只取 -1、0、1 三种数值。在最紧凑格式下，该模型仍只占用 5.9GB 内存，体积约为全精度版本（约 53.8GB）的九分之一，压缩后依然保留了原模型约 93.7% 的 Agent 编程评测得分（SWE-bench Verified 得分 75.6，完整精度得分为 80.6）。性能方面，按 PrismML 公布的数据，代码能力测试 SWE-bench Verified 得分从 60.8 升至 75.6。工具使用测试 AppWorld 得分从 51.2 跃升至 90.5；LiveCodeBench v6 则从 83.8 小幅降至 83.0。IT之家附上相关数据如下：PrismML 称，压缩模型在长任务中容易出现误差累积，导致智能体",
+      "title": "谷歌为 Gemini 推出新隐私设置：用户可独立控制聊天记录是否用于 AI 训练",
+      "url": "https://www.ithome.com/1/032/191.htm",
+      "summary": "IT之家 11 月 25 日消息，谷歌宣布为 Gemini 应用推出一系列新的隐私设置，允许用户在保留聊天记录的同时，独立控制是否将聊天内容用于生成式 AI 模型训练。具体来看，用户可以在 Gemini 中点击设置图标，即可在页面底部找到新增的“活动记录”选项。点击后将跳转至“Google 我的活动页面”，用户可以通过下拉菜单选择开启或关闭相关功能。谷歌表示，如今用户可以自主控制是否授权 Google 将自己的聊天记录用于生成式 AI 模型训练。如果用户关闭相关功能，用户今后进行的聊天将不会用于训练生成式 AI 模型，但“用户主动提交的反馈内容”情况除外。",
+      "short_summary": "IT之家 11 月 25 日消息，谷歌宣布为 Gemini 应用推出一系列新的隐私设置，允许用户在保留聊天记录的同时，独",
+      "detail": "IT之家 11 月 25 日消息，谷歌宣布为 Gemini 应用推出一系列新的隐私设置，允许用户在保留聊天记录的同时，独立控制是否将聊天内容用于生成式 AI 模型训练。具体来看，用户可以在 Gemini 中点击设置图标，即可在页面底部找到新增的“活动记录”选项。点击后将跳转至“Google 我的活动页面”，用户可以通过下拉菜单选择开启或关闭相关功能。谷歌表示，如今用户可以自主控制是否授权 Google 将自己的聊天记录用于生成式 AI 模型训练。如果用户关闭相关功能，用户今后进行的聊天将不会用于训练生成式 AI 模型，但“用户主动提交的反馈内容”情况除外。",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-11-25",
+      "score": 0.81
+    },
+    {
+      "title": "荣耀一碰传更新：实现与 OPPO、vivo、小米、Apple 跨品牌原图文件互传",
+      "url": "https://www.ithome.com/1/032/349.htm",
+      "summary": "IT之家 11 月 25 日消息，荣耀研发工程师 @荣耀曹工 今日发文，宣布荣耀一碰传更新。据介绍，这次不仅实现了跟 OPPO、vivo、小米、Apple 跨品牌原图文件互传，还打通了影石 Insta360 相机原图直传。另外，高德地图、百度网盘、腾讯 WorkBuddy、喜马拉雅也正式加入荣耀一碰生态，扫街榜、网盘资料，到 AI 智能体对话、播客书单都能直接一碰传。根据 @荣耀曹工 分享，一碰传已支持 70+ 应用内容，覆盖社交、办公、出行、影音、游戏等。据IT之家 11 月 11 日报道，荣耀 Magic9 Pro Max、Magic9、Magic9 超能版、WIN2、WIN RT2、WIN Turbo2 新版本已经推送。主要更新点如下：双卡信号图标堆叠跨品牌一碰传，支持与 OPPO、vivo、小米一碰传图和视频Magic9 系列新增 AI 自动构图WIN2 系列支持调音大师延伸阅读荣耀一碰传基于 NFC 近场通信技术触发传输链路。使用时需在设备上开启一碰传开关，并打开 NFC 与蓝牙，随后将两台设备的顶部轻轻触碰，即可触发传输任务，无需流量、无需扫码或蓝牙配对，也可传输图片、视频",
+      "short_summary": "IT之家 11 月 25 日消息，荣耀研发工程师 @荣耀曹工 今日发文，宣布荣耀一碰传更新。据介绍，这次不仅实现了跟 O",
+      "detail": "IT之家 11 月 25 日消息，荣耀研发工程师 @荣耀曹工 今日发文，宣布荣耀一碰传更新。据介绍，这次不仅实现了跟 OPPO、vivo、小米、Apple 跨品牌原图文件互传，还打通了影石 Insta360 相机原图直传。另外，高德地图、百度网盘、腾讯 WorkBuddy、喜马拉雅也正式加入荣耀一碰生态，扫街榜、网盘资料，到 AI 智能体对话、播客书单都能直接一碰传。根据 @荣耀曹工 分享，一碰传已支持 70+ 应用内容，覆盖社交、办公、出行、影音、游戏等。据IT之家 11 月 11 日报道，荣耀 Magic9 Pro Max、Magic9、Magic9 超能版、WIN2、WIN RT2、WIN Turbo2 新版本已经推送。主要更新点如下：双卡信号图标堆叠跨品牌一碰传，支持与 OPPO、vivo、小米一碰传图和视频Magic9 系列新增 AI 自动构图WIN2 系列支持调音大师延伸阅读荣耀一碰传基于 NFC 近场通信技术触发传输链路。使用时需在设备上开启一碰传开关，并打开 NFC 与蓝牙，随后将两台设备的顶部轻轻触碰，即可触发传输任务，无需流量、无需扫码或蓝牙配对，也可传输图片、视频",
       "source": "ITHome",
       "source_authority": 0.75,
       "date": "2026-11-25",
@@ -114,6 +103,28 @@
       "score": 0.7425
     },
     {
+      "title": "Pura X Max 也能吃上！华为云晰柔光膜适配机型公布，预计 2027 年 1 月下旬上线",
+      "url": "https://www.ithome.com/1/032/172.htm",
+      "summary": "IT之家 11 月 25 日消息，在昨天下午的 HUAWEI Mate X8 及全场景新品发布会上，华为 Mate X8 大折旗舰机正式发布，全系搭载麒麟 9050 Pro 处理器，售价 12,999 元起。除了首创磁控展平技术，通过“削峰填谷”解决折痕问题外。华为官方还为这款新机推出了云晰柔光膜，用户在华为授权服务中心可购买更换。IT之家就云晰柔光膜支持哪些机型询问了华为客户服务。对方表示，该膜支持 HUAWEI Mate X8、Pura X Max（内屏贴膜），预计 2027 年 1 月下旬正式上线。上线后，用户可以前往华为授权服务中心更换。需要注意的是，屏幕表面层（内屏保护膜）由华为特殊设计，是屏幕的重要组成部分，官方提醒不要自行撕除或更换，否则会损坏屏幕影响保修。",
+      "short_summary": "IT之家 11 月 25 日消息，在昨天下午的 HUAWEI Mate X8 及全场景新品发布会上，华为 Mate X8",
+      "detail": "IT之家 11 月 25 日消息，在昨天下午的 HUAWEI Mate X8 及全场景新品发布会上，华为 Mate X8 大折旗舰机正式发布，全系搭载麒麟 9050 Pro 处理器，售价 12,999 元起。除了首创磁控展平技术，通过“削峰填谷”解决折痕问题外。华为官方还为这款新机推出了云晰柔光膜，用户在华为授权服务中心可购买更换。IT之家就云晰柔光膜支持哪些机型询问了华为客户服务。对方表示，该膜支持 HUAWEI Mate X8、Pura X Max（内屏贴膜），预计 2027 年 1 月下旬正式上线。上线后，用户可以前往华为授权服务中心更换。需要注意的是，屏幕表面层（内屏保护膜）由华为特殊设计，是屏幕的重要组成部分，官方提醒不要自行撕除或更换，否则会损坏屏幕影响保修。",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-11-25",
+      "score": 0.7325
+    },
+    {
+      "title": "China-linked battery projects could receive UK funding despite security warnings",
+      "url": "https://www.theguardian.com/business/2026/nov/25/china-battery-projects-uk-funding-security-warnings",
+      "summary": "China-made lithium-ion batteries, which are relatively low-cost, dominate Ofgem project shortlistA string of battery projects linked to China are expected to be granted UK state subsidies despite deepening fears over the risk of foreign interference they could pose to Europe’s energy systems.Ofgem, Great Britain’s energy regulator, published a provisional shortlist for a new “long duration” energy storage scheme in June. The list was dominated by projects relying on lithium-ion batteries, which",
+      "short_summary": "China-made lithium-ion batteries, which are relatively low-c",
+      "detail": "China-made lithium-ion batteries, which are relatively low-cost, dominate Ofgem project shortlistA string of battery projects linked to China are expected to be granted UK state subsidies despite deepening fears over the risk of foreign interference they could pose to Europe’s energy systems.Ofgem, Great Britain’s energy regulator, published a provisional shortlist for a new “long duration” energy storage scheme in June. The list was dominated by projects relying on lithium-ion batteries, which",
+      "source": "The Guardian",
+      "source_authority": 0.85,
+      "date": "2026-11-25",
+      "score": 0.705
+    },
+    {
       "title": "You Can See Everything’s chaotic battle for the narrative about Elizabeth Holmes",
       "url": "https://www.theguardian.com/culture/2026/nov/23/you-can-see-everythings-chaotic-battle-for-the-narrative-about-elizabeth-holmes",
       "summary": "In Nathan Fielder’s new documentary, the protagonists and film-makers battle over who is the hero and who is the villain. It’s a fascinating insight into modern celebrity promotion• Don’t get the Close Up delivered to your inbox? Sign up hereThank you for signing up to the Close Up newsletter. This is our first-ever edition! And, just like on the show, I’ll be zooming in on the big culture questions and recommending things I’m obsessed with. I’ll also give you a sneak peek of what’s coming up on",
@@ -136,37 +147,15 @@
       "score": 0.695
     },
     {
-      "title": "《英雄联盟》全队语音开启测试，拳头合作主播 Tyler1 因辱骂队友被封 3 天",
-      "url": "https://www.ithome.com/1/032/091.htm",
-      "summary": "IT之家 11 月 25 日消息，《英雄联盟》全队语音功能开测后，Twitch 知名游戏主播 Tyler1 因在游戏中辱骂队友遭到处罚，游戏账号被封禁 3 天、聊天功能停用 7 天，同时拳头官方的《英雄联盟》合作伙伴计划资格也被暂停 30 天。对于网络上流传的游戏语音片段，Tyler1 表示，当时自己是在和一名玩娜美的队友开玩笑，事后双方也一起笑了。他质疑 Riot Games 的处罚力度，认为他们没有充分考虑当时的语境。另外，Tyler1 还曾于 2016 年遭到《英雄联盟》无限期封禁，2018 年解禁后重新回归，并多次与 Riot Games 合作，还曾亮相 2026 年《英雄联盟》全球总决赛的决赛舞台转播。IT之家注：《英雄联盟》全队语音功能于 11 月 18 日随 26.23 版本在北美和大洋洲服务器开启测试。与此前主要面向预组队玩家的全队语音交流方式不同，新功能允许随机匹配到同一队伍的玩家直接通过语音沟通。Riot Games 在功能上线时已明确说明，系统会录制玩家之间的语音对话，相关聊天内容可能被用于调查违规行为，并作为游戏处罚依据。相关阅读：《拳头宣布为〈英雄联盟〉引入全",
-      "short_summary": "IT之家 11 月 25 日消息，《英雄联盟》全队语音功能开测后，Twitch 知名游戏主播 Tyler1 因在游戏中辱",
-      "detail": "IT之家 11 月 25 日消息，《英雄联盟》全队语音功能开测后，Twitch 知名游戏主播 Tyler1 因在游戏中辱骂队友遭到处罚，游戏账号被封禁 3 天、聊天功能停用 7 天，同时拳头官方的《英雄联盟》合作伙伴计划资格也被暂停 30 天。对于网络上流传的游戏语音片段，Tyler1 表示，当时自己是在和一名玩娜美的队友开玩笑，事后双方也一起笑了。他质疑 Riot Games 的处罚力度，认为他们没有充分考虑当时的语境。另外，Tyler1 还曾于 2016 年遭到《英雄联盟》无限期封禁，2018 年解禁后重新回归，并多次与 Riot Games 合作，还曾亮相 2026 年《英雄联盟》全球总决赛的决赛舞台转播。IT之家注：《英雄联盟》全队语音功能于 11 月 18 日随 26.23 版本在北美和大洋洲服务器开启测试。与此前主要面向预组队玩家的全队语音交流方式不同，新功能允许随机匹配到同一队伍的玩家直接通过语音沟通。Riot Games 在功能上线时已明确说明，系统会录制玩家之间的语音对话，相关聊天内容可能被用于调查违规行为，并作为游戏处罚依据。相关阅读：《拳头宣布为〈英雄联盟〉引入全",
-      "source": "ITHome",
+      "title": "AI is forcing researchers to confront the possibility of artificial minds",
+      "url": "https://www.newscientist.com/article/2600589-ai-is-forcing-researchers-to-confront-the-possibility-of-artificial-minds/?utm_campaign=RSS|NSNS&utm_content=technology&utm_medium=RSS&utm_source=NSNS",
+      "summary": "Neuroscientists and philosophers met at a conference to discuss ‘exotic, mind-like entities’ – and how chatbots might be moulding our own minds",
+      "short_summary": "Neuroscientists and philosophers met at a conference to disc",
+      "detail": "Neuroscientists and philosophers met at a conference to discuss ‘exotic, mind-like entities’ – and how chatbots might be moulding our own minds",
+      "source": "New Scientist",
       "source_authority": 0.75,
       "date": "2026-11-25",
-      "score": 0.695
-    },
-    {
-      "title": "Raising the stakes for enterprise networks with AI modernization",
-      "url": "https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/",
-      "summary": "Enterprise networks are under severe strain. As companies rush to deploy artificial intelligence, the technology is quickly becoming the biggest source of demand on the network. Now, agentic AI is adding to the load. Tasks conducted by AI agents generate an estimated 450% more network traffic than the same tasks done by human workers. As…",
-      "short_summary": "Enterprise networks are under severe strain. As companies ru",
-      "detail": "Enterprise networks are under severe strain. As companies rush to deploy artificial intelligence, the technology is quickly becoming the biggest source of demand on the network. Now, agentic AI is adding to the load. Tasks conducted by AI agents generate an estimated 450% more network traffic than the same tasks done by human workers. As…",
-      "source": "MIT Tech Review",
-      "source_authority": 0.9,
-      "date": "2026-11-24",
-      "score": 0.68
-    },
-    {
-      "title": "GTA VI’s jaw-dropping success: in figures",
-      "url": "https://www.theguardian.com/games/2026/nov/24/gta-vi-streaming-numbers-charts",
-      "summary": "Content creators have produced hundreds of millions of hours of video game since its launchGrand Theft Auto (GTA) VI became the largest video game release of all time last week and while it is hard to say exactly how many people are playing the game (current estimates say at least 30 million), there are plenty of other jaw-dropping data points we do know.Data on streaming the game suggests that only two days into its release a cumulative 364.5m hours have been watched – roughly 41,000 years of c",
-      "short_summary": "Content creators have produced hundreds of millions of hours",
-      "detail": "Content creators have produced hundreds of millions of hours of video game since its launchGrand Theft Auto (GTA) VI became the largest video game release of all time last week and while it is hard to say exactly how many people are playing the game (current estimates say at least 30 million), there are plenty of other jaw-dropping data points we do know.Data on streaming the game suggests that only two days into its release a cumulative 364.5m hours have been watched – roughly 41,000 years of c",
-      "source": "The Guardian",
-      "source_authority": 0.85,
-      "date": "2026-11-24",
-      "score": 0.66
+      "score": 0.65
     },
     {
       "title": "The New York Times warns photographers not to update Photoshop over AI features",
@@ -182,26 +171,48 @@
   ],
   "category3": [
     {
-      "title": "黄仁勋重掌英伟达：公司股价创 23 年来最大单日涨幅，身价日增约 330 亿美元跻身全球富豪第 13 位",
-      "url": "https://www.ithome.com/1/031/980.htm",
-      "summary": "IT之家 11 月 25 日消息，《福布斯》昨日（11 月 24 日）发布博文，报道称受黄仁勋复职英伟达公司 CEO 利好消息影响，英伟达公司股价于当地时间 11 月 23 日盘中上涨 34.3%，创下自 2003 年 5 月以来最大单日增幅，带动黄仁勋个人财富单日增加约 330 亿美元（IT之家注：现汇率约合 2,203.8 亿元人民币）。根据《福布斯》报道，黄仁勋目前持有英伟达约 3.5% 股份，个人净资产已升至约 1,431 亿美元（现汇率约合 9,556.47 亿元人民币），在全球富豪榜上升至第 13 位。黄仁勋于 1993 年联合创立英伟达，并在 1999 年推动公司上市。在其主导下，英伟达的 GPU 从游戏显卡逐步发展为全球人工智能算力的核心基础设施，公司市值曾在 2025 年突破 5 万亿美元（现汇率约合 33.39 万亿元人民币）。IT之家发稿前查询《福布斯》实时富豪榜数据，截至 2026 年 11 月 24 日，黄仁勋实时净资产约为 1,355 亿美元（现汇率约合 9,048.93 亿元人民币），位列全球富豪榜第 14 位；他持有英伟达超过 3.5% 的股份。上图中机",
-      "short_summary": "IT之家 11 月 25 日消息，《福布斯》昨日（11 月 24 日）发布博文，报道称受黄仁勋复职英伟达公司 CEO 利",
-      "detail": "IT之家 11 月 25 日消息，《福布斯》昨日（11 月 24 日）发布博文，报道称受黄仁勋复职英伟达公司 CEO 利好消息影响，英伟达公司股价于当地时间 11 月 23 日盘中上涨 34.3%，创下自 2003 年 5 月以来最大单日增幅，带动黄仁勋个人财富单日增加约 330 亿美元（IT之家注：现汇率约合 2,203.8 亿元人民币）。根据《福布斯》报道，黄仁勋目前持有英伟达约 3.5% 股份，个人净资产已升至约 1,431 亿美元（现汇率约合 9,556.47 亿元人民币），在全球富豪榜上升至第 13 位。黄仁勋于 1993 年联合创立英伟达，并在 1999 年推动公司上市。在其主导下，英伟达的 GPU 从游戏显卡逐步发展为全球人工智能算力的核心基础设施，公司市值曾在 2025 年突破 5 万亿美元（现汇率约合 33.39 万亿元人民币）。IT之家发稿前查询《福布斯》实时富豪榜数据，截至 2026 年 11 月 24 日，黄仁勋实时净资产约为 1,355 亿美元（现汇率约合 9,048.93 亿元人民币），位列全球富豪榜第 14 位；他持有英伟达超过 3.5% 的股份。上图中机",
+      "title": "马斯克带俩娃到访英伟达总部与黄仁勋会面，还拍了大合照",
+      "url": "https://www.ithome.com/1/032/293.htm",
+      "summary": "IT之家 11 月 25 日消息，当地时间 2026 年 11 月 25 日，特斯拉与 SpaceX 首席执行官埃隆 · 马斯克通过转发相关帖文，确认自己已到访英伟达总部，并与该公司首席执行官黄仁勋会面。此前，多张合影在社交平台 X 上流传。照片显示，马斯克身着黑色 T 恤，与黄仁勋并肩站立于英伟达总部中庭，马斯克旁边还站着他的两个儿子，合影背景为英伟达标志性的现代化办公空间。马斯克随后转发了特斯拉粉丝账号 @teslaownersSV 发布的帖文，间接确认了这一会面。此次会面发生在黄仁勋戏剧性复职后仅两天。11 月 23 日，英伟达董事会一致决定恢复黄仁勋的总裁、首席执行官及董事职务。此前，黄仁勋因涉及婚外情而于 11 月 12 日辞职，引发公司市值大幅波动及多方关注。马斯克是黄仁勋复职最坚定的公开支持者之一，并在黄仁勋复职后在社交平台上表示“错误已经得到纠正”。英伟达是全球 AI 芯片领域的绝对主导者，特斯拉、xAI 等马斯克旗下公司高度依赖其 GPU 产品。两人此次在黄仁勋复职后迅速会面，被视为科技界两大关键人物就 AI 算力供应、合作前景及行业形势进行直接沟通的信号。截至IT之",
+      "short_summary": "IT之家 11 月 25 日消息，当地时间 2026 年 11 月 25 日，特斯拉与 SpaceX 首席执行官埃隆 ·",
+      "detail": "IT之家 11 月 25 日消息，当地时间 2026 年 11 月 25 日，特斯拉与 SpaceX 首席执行官埃隆 · 马斯克通过转发相关帖文，确认自己已到访英伟达总部，并与该公司首席执行官黄仁勋会面。此前，多张合影在社交平台 X 上流传。照片显示，马斯克身着黑色 T 恤，与黄仁勋并肩站立于英伟达总部中庭，马斯克旁边还站着他的两个儿子，合影背景为英伟达标志性的现代化办公空间。马斯克随后转发了特斯拉粉丝账号 @teslaownersSV 发布的帖文，间接确认了这一会面。此次会面发生在黄仁勋戏剧性复职后仅两天。11 月 23 日，英伟达董事会一致决定恢复黄仁勋的总裁、首席执行官及董事职务。此前，黄仁勋因涉及婚外情而于 11 月 12 日辞职，引发公司市值大幅波动及多方关注。马斯克是黄仁勋复职最坚定的公开支持者之一，并在黄仁勋复职后在社交平台上表示“错误已经得到纠正”。英伟达是全球 AI 芯片领域的绝对主导者，特斯拉、xAI 等马斯克旗下公司高度依赖其 GPU 产品。两人此次在黄仁勋复职后迅速会面，被视为科技界两大关键人物就 AI 算力供应、合作前景及行业形势进行直接沟通的信号。截至IT之",
       "source": "ITHome",
       "source_authority": 0.75,
       "date": "2026-11-25",
-      "score": 0.975
+      "score": 0.9375
     },
     {
-      "title": "AI 芯片挤占消费级 GPU 产能，英伟达被曝缩减 RTX 50 系列显卡供货量",
-      "url": "https://www.ithome.com/1/032/097.htm",
-      "summary": "IT之家 11 月 25 日消息，英伟达 AI 芯片供应持续紧张，正在进一步挤压消费级显卡的供货空间。据中国台湾《工商时报》今日报道，ODM 厂商透露，英伟达 B300、GB300 等 AI 芯片新订单交货周期大幅拉长，进一步排挤消费级显卡供货。受此影响，英伟达已缩减 GeForce RTX 50 系列游戏显卡供货，下一代 RTX 60 系列的更新节奏也可能放缓。目前英伟达合作的主要 ODM 厂商正将产能重心转向 B300、GB300，以及逐步进入量产交付阶段的 Vera Rubin 平台。与此同时，部分 AI 服务器和工作站产品仍按照原定计划推进交付，但新增订单的等待时间明显增加。业界人士称，B300 的新订单交货周期已经延长至 26 至 40 周，GB300 约为 14 至 26 周；搭载桌面版 GB300 的 DGX Station 工作站交期也达到约 26 周。RTX Pro 系列服务器及工作站版本 GPU 加速卡的交期则超过 26 周。供应链预估，近两个季度陆续下单的新项目，大多数要等到 2027 年第二至第三季度才能完成交付。消费级显卡方面，英伟达近期开始逐步缩减 GeFo",
-      "short_summary": "IT之家 11 月 25 日消息，英伟达 AI 芯片供应持续紧张，正在进一步挤压消费级显卡的供货空间。据中国台湾《工商时",
-      "detail": "IT之家 11 月 25 日消息，英伟达 AI 芯片供应持续紧张，正在进一步挤压消费级显卡的供货空间。据中国台湾《工商时报》今日报道，ODM 厂商透露，英伟达 B300、GB300 等 AI 芯片新订单交货周期大幅拉长，进一步排挤消费级显卡供货。受此影响，英伟达已缩减 GeForce RTX 50 系列游戏显卡供货，下一代 RTX 60 系列的更新节奏也可能放缓。目前英伟达合作的主要 ODM 厂商正将产能重心转向 B300、GB300，以及逐步进入量产交付阶段的 Vera Rubin 平台。与此同时，部分 AI 服务器和工作站产品仍按照原定计划推进交付，但新增订单的等待时间明显增加。业界人士称，B300 的新订单交货周期已经延长至 26 至 40 周，GB300 约为 14 至 26 周；搭载桌面版 GB300 的 DGX Station 工作站交期也达到约 26 周。RTX Pro 系列服务器及工作站版本 GPU 加速卡的交期则超过 26 周。供应链预估，近两个季度陆续下单的新项目，大多数要等到 2027 年第二至第三季度才能完成交付。消费级显卡方面，英伟达近期开始逐步缩减 GeFo",
+      "title": "无需虚拟机：XNULinux 开源项目让 Linux 电脑运行苹果 macOS 27",
+      "url": "https://www.ithome.com/1/032/170.htm",
+      "summary": "IT之家 11 月 25 日消息，科技媒体 AppleInsider 昨日（11 月 24 日）发布博文，报道介绍名为 XNULinux 的开源项目，宣称不依赖传统虚拟机，可在 Linux 电脑上直接运行 macOS 27 及其应用。报道称该项目处于早期测试阶段，目前已能运行 macOS 27.2.1，并支持桌面、Dock，以及 Spotlight、Safari、备忘录和计算器等部分应用，但无法作为独立系统启动。在实现方式上，不同于“黑苹果”（Hackintosh）或者虚拟机方案，XNULinux 项目把苹果开源的 XNU 内核作为可加载模块，嵌入未经修改的 arm64 Linux 内核中。这样在同一 CPU 上可以原生运行 macOS 和 Linux 进程，XNU 通过小型接口模块，从 Linux 获取内存、定时器、文件、网络和 GPU 等资源。项目要求方面，目前要求 arm64 Linux 主机至少配备 16GB 内存，并需要用户自行提供 macOS 安装镜像；创建系统盘和编译 GPU 相关组件时，仍需一台可使用 Xcode 的 Mac。XNULinux 目前 Nvidia DGX",
+      "short_summary": "IT之家 11 月 25 日消息，科技媒体 AppleInsider 昨日（11 月 24 日）发布博文，报道介绍名为 ",
+      "detail": "IT之家 11 月 25 日消息，科技媒体 AppleInsider 昨日（11 月 24 日）发布博文，报道介绍名为 XNULinux 的开源项目，宣称不依赖传统虚拟机，可在 Linux 电脑上直接运行 macOS 27 及其应用。报道称该项目处于早期测试阶段，目前已能运行 macOS 27.2.1，并支持桌面、Dock，以及 Spotlight、Safari、备忘录和计算器等部分应用，但无法作为独立系统启动。在实现方式上，不同于“黑苹果”（Hackintosh）或者虚拟机方案，XNULinux 项目把苹果开源的 XNU 内核作为可加载模块，嵌入未经修改的 arm64 Linux 内核中。这样在同一 CPU 上可以原生运行 macOS 和 Linux 进程，XNU 通过小型接口模块，从 Linux 获取内存、定时器、文件、网络和 GPU 等资源。项目要求方面，目前要求 arm64 Linux 主机至少配备 16GB 内存，并需要用户自行提供 macOS 安装镜像；创建系统盘和编译 GPU 相关组件时，仍需一台可使用 Xcode 的 Mac。XNULinux 目前 Nvidia DGX",
       "source": "ITHome",
       "source_authority": 0.75,
       "date": "2026-11-25",
-      "score": 0.86
+      "score": 0.9225
+    },
+    {
+      "title": "联想集团高性能服务器产线在天津落成，投建超节点产线预计 2027 年底前投产",
+      "url": "https://www.ithome.com/1/032/343.htm",
+      "summary": "IT之家 11 月 25 日消息，联想集团今日在天津举行高性能服务器产线落成暨超节点项目启动仪式。IT之家获悉，此次落成的高性能服务器产线位于联想（天津）创新产业园，于 2025 年底启动建设，总投资 1.2 亿元，现已建成并在本次活动正式宣布投产，具备年产 20 万台通用服务器、10 万台 AI 服务器的设计产能。仪式现场，联想集团与天津港保税区签署新一代智能算力研发与制造中心投资合作框架协议，计划于 2026 年底投资建设超节点服务器项目，超节点项目预计于 2027 年底前建成投产。据介绍，2026 年 1—9 月，联想在天津业务实现营收 485 亿元，同比增长 67%；1—10 月，天津创新产业园产值突破 155 亿元，同比增长 23%。相关阅读：《联想集团 2026 财年上半年归母亏损 12.48 亿美元，同比由盈转亏》",
+      "short_summary": "IT之家 11 月 25 日消息，联想集团今日在天津举行高性能服务器产线落成暨超节点项目启动仪式。IT之家获悉，此次落成",
+      "detail": "IT之家 11 月 25 日消息，联想集团今日在天津举行高性能服务器产线落成暨超节点项目启动仪式。IT之家获悉，此次落成的高性能服务器产线位于联想（天津）创新产业园，于 2025 年底启动建设，总投资 1.2 亿元，现已建成并在本次活动正式宣布投产，具备年产 20 万台通用服务器、10 万台 AI 服务器的设计产能。仪式现场，联想集团与天津港保税区签署新一代智能算力研发与制造中心投资合作框架协议，计划于 2026 年底投资建设超节点服务器项目，超节点项目预计于 2027 年底前建成投产。据介绍，2026 年 1—9 月，联想在天津业务实现营收 485 亿元，同比增长 67%；1—10 月，天津创新产业园产值突破 155 亿元，同比增长 23%。相关阅读：《联想集团 2026 财年上半年归母亏损 12.48 亿美元，同比由盈转亏》",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-11-25",
+      "score": 0.885
+    },
+    {
+      "title": "Chip Industry Technical Paper Roundup: Nov. 25",
+      "url": "https://semiengineering.com/chip-industry-technical-paper-roundup-nov-25-2/",
+      "summary": "Hybrid-bonded 3D NAND analog IMC; defect-aware chiplet matching for HI yield; HBF latency reduction for GPU systems; backside clock meshes for BSPDN; LLM-agent verification for post-quantum HW; self-supervised CMP virtual metrology; e-beam stitching losses in SOI waveguides.\nThe post Chip Industry Technical Paper Roundup: Nov. 25 appeared first on Semiconductor Engineering.",
+      "short_summary": "Hybrid-bonded 3D NAND analog IMC; defect-aware chiplet match",
+      "detail": "Hybrid-bonded 3D NAND analog IMC; defect-aware chiplet matching for HI yield; HBF latency reduction for GPU systems; backside clock meshes for BSPDN; LLM-agent verification for post-quantum HW; self-supervised CMP virtual metrology; e-beam stitching losses in SOI waveguides.\nThe post Chip Industry Technical Paper Roundup: Nov. 25 appeared first on Semiconductor Engineering.",
+      "source": "SemiEngineering",
+      "source_authority": 0.85,
+      "date": "2026-11-25",
+      "score": 0.87
     },
     {
       "title": "Mamdani questions AI economy as Jensen Huang returns to Nvidia – video",
@@ -213,17 +224,6 @@
       "source_authority": 0.85,
       "date": "2026-11-25",
       "score": 0.8325
-    },
-    {
-      "title": "截至 10 月底，我国累计发电装机容量同比增长 10.9%",
-      "url": "https://www.ithome.com/1/032/096.htm",
-      "summary": "IT之家 11 月 25 日消息，国家能源局今日发布 1—10 月份全国电力统计数据。数据显示，截至 10 月底，全国累计发电装机容量 41.6 亿千瓦，同比增长 10.9%。其中，太阳能发电装机容量 13.3 亿千瓦，同比增长 16.3%；风电装机容量 7.1 亿千瓦，同比增长 20.0%。新能源装机规模持续扩大，能源绿色低碳转型步伐不断加快。国家能源局发展规划司副司长葛炬 11 月 6 日在发布会上表示，“十五五”时期，在算力等新兴产业带动下，我国用电需求仍将刚性增长，预计年均增量将达到 6,000 亿度左右，相当于每年新增 3 个上海市的用电量。为做好电力保供，我们建立了电力供应充裕度预警机制，提出 2030 年电力供应充裕度大于 1.1，也就是在用电负荷最高峰时刻，仍然有 10% 的保供能力余量，确保关键时刻能够“顶住峰、兜住底”。具体来说，将从源网荷储协同发力，加强电力保供能力建设。IT之家获悉，今年迎峰度夏期间，全国用电负荷 4 次刷新历史极值，最大值比去年增加 5,000 万千瓦，华北、东北、华东等 6 个区域电网用电负荷 23 次创新高，我国电力系统平稳运行，有力保障了",
-      "short_summary": "IT之家 11 月 25 日消息，国家能源局今日发布 1—10 月份全国电力统计数据。数据显示，截至 10 月底，全国累",
-      "detail": "IT之家 11 月 25 日消息，国家能源局今日发布 1—10 月份全国电力统计数据。数据显示，截至 10 月底，全国累计发电装机容量 41.6 亿千瓦，同比增长 10.9%。其中，太阳能发电装机容量 13.3 亿千瓦，同比增长 16.3%；风电装机容量 7.1 亿千瓦，同比增长 20.0%。新能源装机规模持续扩大，能源绿色低碳转型步伐不断加快。国家能源局发展规划司副司长葛炬 11 月 6 日在发布会上表示，“十五五”时期，在算力等新兴产业带动下，我国用电需求仍将刚性增长，预计年均增量将达到 6,000 亿度左右，相当于每年新增 3 个上海市的用电量。为做好电力保供，我们建立了电力供应充裕度预警机制，提出 2030 年电力供应充裕度大于 1.1，也就是在用电负荷最高峰时刻，仍然有 10% 的保供能力余量，确保关键时刻能够“顶住峰、兜住底”。具体来说，将从源网荷储协同发力，加强电力保供能力建设。IT之家获悉，今年迎峰度夏期间，全国用电负荷 4 次刷新历史极值，最大值比去年增加 5,000 万千瓦，华北、东北、华东等 6 个区域电网用电负荷 23 次创新高，我国电力系统平稳运行，有力保障了",
-      "source": "ITHome",
-      "source_authority": 0.75,
-      "date": "2026-11-25",
-      "score": 0.8225
     },
     {
       "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion",
@@ -279,41 +279,30 @@
       "source_authority": 0.9,
       "date": "2026-11-25",
       "score": 0.7475
-    },
-    {
-      "title": "Jensen Huang’s Return Shows Nvidia Is Too Big to Police",
-      "url": "https://www.wired.com/story/jensen-huang-nvidia-us-national-security-risks/",
-      "summary": "Nvidia’s place at the center of the US economy may have outweighed concerns about its CEO’s ties to a suspected Chinese intelligence asset, national security and foreign policy experts say.",
-      "short_summary": "Nvidia’s place at the center of the US economy may have outw",
-      "detail": "Nvidia’s place at the center of the US economy may have outweighed concerns about its CEO’s ties to a suspected Chinese intelligence asset, national security and foreign policy experts say.",
-      "source": "Wired",
-      "source_authority": 0.85,
-      "date": "2026-11-25",
-      "score": 0.7475
     }
   ],
   "category4": [
     {
-      "title": "众擎 CEO 赵同阳：人形机器人进入商业化关键阶段，下一阶段比拼的是工程能力",
-      "url": "https://www.ithome.com/1/032/062.htm",
-      "summary": "IT之家 11 月 25 日消息，据新浪科技报道，众擎机器人创始人兼 CEO 赵同阳今日在众擎机器人全球开发者大会表示，人形机器人正处在从整机量产走向商业化应用的关键阶段，下一阶段的竞争不再只是能不能造出来，而是考验多方面的工程能力。赵同阳表示，机器人不是为了取代人的岗位，而是走进影响人类健康和安全的场景；行业需求庞大而分散，靠一家公司很难一一满足，生态协同是必然选择，企业应选对一行、锁定客户、穿透场景、集中突破。他谈到，十年前创业时，自己想造“机器人界的苹果”。今天，他更希望与开发者和产业伙伴一起，让千行百业造出自己的机器人。公开资料显示，深圳市众擎机器人科技有限公司成立于 2023 年 10 月，专注于通用智能机器人及行业场景解决方案的研发与生产，产品涵盖人形机器人及相关领域。2025 年底，众擎 T800 人形机器人正式发布，定价 18 万元起。赵同阳在穿戴护具的情况下尝试“正面硬抗 T800 一脚”，这一整活视频在网上广泛流传。据IT之家此前报道，2026 年 5 月，众擎智能制造（深圳红花岭）基地启用，首批 T800 人形机器人顺利下线。官方表示，该产线集智能制造与研发测试于",
-      "short_summary": "IT之家 11 月 25 日消息，据新浪科技报道，众擎机器人创始人兼 CEO 赵同阳今日在众擎机器人全球开发者大会表示，",
-      "detail": "IT之家 11 月 25 日消息，据新浪科技报道，众擎机器人创始人兼 CEO 赵同阳今日在众擎机器人全球开发者大会表示，人形机器人正处在从整机量产走向商业化应用的关键阶段，下一阶段的竞争不再只是能不能造出来，而是考验多方面的工程能力。赵同阳表示，机器人不是为了取代人的岗位，而是走进影响人类健康和安全的场景；行业需求庞大而分散，靠一家公司很难一一满足，生态协同是必然选择，企业应选对一行、锁定客户、穿透场景、集中突破。他谈到，十年前创业时，自己想造“机器人界的苹果”。今天，他更希望与开发者和产业伙伴一起，让千行百业造出自己的机器人。公开资料显示，深圳市众擎机器人科技有限公司成立于 2023 年 10 月，专注于通用智能机器人及行业场景解决方案的研发与生产，产品涵盖人形机器人及相关领域。2025 年底，众擎 T800 人形机器人正式发布，定价 18 万元起。赵同阳在穿戴护具的情况下尝试“正面硬抗 T800 一脚”，这一整活视频在网上广泛流传。据IT之家此前报道，2026 年 5 月，众擎智能制造（深圳红花岭）基地启用，首批 T800 人形机器人顺利下线。官方表示，该产线集智能制造与研发测试于",
+      "title": "小鹏 IRON 人形机器人官宣明年 Q2 正式对外发布，Q1 率先在小鹏国内门店实习",
+      "url": "https://www.ithome.com/1/032/194.htm",
+      "summary": "IT之家 11 月 25 日现场消息，在今日的「Origin 原点」2026 小鹏科技日活动中，小鹏集团董事长、CEO 何小鹏宣布，小鹏高阶通用人形机器人 IRON 将于 2027 年第一季度开始实习，将作为导购率先进入小鹏国内的门店实习。此外，小鹏 IRON 未来将解锁更多能力，进入更多场景进行工作。IT之家在发布会现场了解到，小鹏 IRON 正在进入上市准备的最后阶段，计划 2027 年 1 月进入硬件量产，2027 年第二季度正式对外发布。何小鹏还展望了未来的人形机器人商业模式，表示将来一定会有软件订阅、Token 订阅的收费模型，让 IRON 可以不断学习新的技能。何小鹏表示，也希望通过小鹏的 skills 商店、模型商店模式，让更多的合作伙伴获利。相关阅读：《小鹏高阶通用人形机器人 IRON 真机亮相：再秀自然步伐，全身 76 自由度，不同部位软硬度不同》",
+      "short_summary": "IT之家 11 月 25 日现场消息，在今日的「Origin 原点」2026 小鹏科技日活动中，小鹏集团董事长、CEO ",
+      "detail": "IT之家 11 月 25 日现场消息，在今日的「Origin 原点」2026 小鹏科技日活动中，小鹏集团董事长、CEO 何小鹏宣布，小鹏高阶通用人形机器人 IRON 将于 2027 年第一季度开始实习，将作为导购率先进入小鹏国内的门店实习。此外，小鹏 IRON 未来将解锁更多能力，进入更多场景进行工作。IT之家在发布会现场了解到，小鹏 IRON 正在进入上市准备的最后阶段，计划 2027 年 1 月进入硬件量产，2027 年第二季度正式对外发布。何小鹏还展望了未来的人形机器人商业模式，表示将来一定会有软件订阅、Token 订阅的收费模型，让 IRON 可以不断学习新的技能。何小鹏表示，也希望通过小鹏的 skills 商店、模型商店模式，让更多的合作伙伴获利。相关阅读：《小鹏高阶通用人形机器人 IRON 真机亮相：再秀自然步伐，全身 76 自由度，不同部位软硬度不同》",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-11-25",
+      "score": 0.9225
+    },
+    {
+      "title": "行业首次：小鹏 IRON 人形机器人将亲自主持 2026 广州车展发布会",
+      "url": "https://www.ithome.com/1/032/263.htm",
+      "summary": "IT之家 11 月 25 日现场消息，在今日的「Origin 原点」2026 小鹏科技日活动中，小鹏集团董事长、CEO 何小鹏宣布，11 月 27 日 2026 广州车展，小鹏 IRON 人形机器人将亲自主持小鹏的发布会。何小鹏表示，这可能是历史上第一次由机器人在车展进行新车发布。IT之家查询 2026 广州车展参展信息了解到，小鹏集团登陆 2026 广州国际车展，展期 2026 年 11 月 27 日–12 月 6 日，地点为中国进出口商品交易会展馆 D 区 2 楼 17.2 馆 17203 展位。新车方面，小鹏 P7 全新车色「晨曦粉」本周正式亮相，预计将在 2026 广州国际车展进行展示。",
+      "short_summary": "IT之家 11 月 25 日现场消息，在今日的「Origin 原点」2026 小鹏科技日活动中，小鹏集团董事长、CEO ",
+      "detail": "IT之家 11 月 25 日现场消息，在今日的「Origin 原点」2026 小鹏科技日活动中，小鹏集团董事长、CEO 何小鹏宣布，11 月 27 日 2026 广州车展，小鹏 IRON 人形机器人将亲自主持小鹏的发布会。何小鹏表示，这可能是历史上第一次由机器人在车展进行新车发布。IT之家查询 2026 广州车展参展信息了解到，小鹏集团登陆 2026 广州国际车展，展期 2026 年 11 月 27 日–12 月 6 日，地点为中国进出口商品交易会展馆 D 区 2 楼 17.2 馆 17203 展位。新车方面，小鹏 P7 全新车色「晨曦粉」本周正式亮相，预计将在 2026 广州国际车展进行展示。",
       "source": "ITHome",
       "source_authority": 0.75,
       "date": "2026-11-25",
       "score": 0.8975
-    },
-    {
-      "title": "小米卢伟冰称 Q3 是他从业以来感觉最难的一个季度，但不影响对未来坚定投资",
-      "url": "https://www.ithome.com/1/032/015.htm",
-      "summary": "IT之家 11 月 25 日消息，小米集团 11 月 24 日发布 2026 年 Q3 业绩，称稳中求进，单季营收站稳千亿。总营收 1,072 亿元，经调整净利润 49 亿元。据中国证券报报道，小米集团合伙人、总裁、手机部总裁、小米品牌总经理卢伟冰在财报电话会上表示，这是他从业以来感觉最难的一个季度。IDC 初步统计显示，2026 年第三季度，全球智能手机市场同比下跌 22%，创下有统计以来单季度最大同比降幅。卢伟冰表示，经过前三季度的历练，小米应对困难已经比较主动和从容，营收站稳千亿规模，收入同比下滑幅度也在逐步收窄。他表示，存储芯片涨价短期对公司经营压力明显，但并不影响对未来的坚定投资，小米仍然会持续加大在 AI、芯片、机器人等领域的投资。卢伟冰认为，增程市场依然大有可为，小米澎程上市首月锁单超 7 万辆，稳态期销量保持平稳。同时，小米澎程也很大程度拓展丰富了小米汽车的用户构成，在更多圈层实现破圈：澎程用户年龄大于 SU7/YU7，截至目前 35 岁以上用户占比超 50%；购车家庭用户占比达 87.8%；油车增换购用户占比 50.3%。上市两个月来，澎程车主行驶里程纯电占比超九成；",
-      "short_summary": "IT之家 11 月 25 日消息，小米集团 11 月 24 日发布 2026 年 Q3 业绩，称稳中求进，单季营收站稳千",
-      "detail": "IT之家 11 月 25 日消息，小米集团 11 月 24 日发布 2026 年 Q3 业绩，称稳中求进，单季营收站稳千亿。总营收 1,072 亿元，经调整净利润 49 亿元。据中国证券报报道，小米集团合伙人、总裁、手机部总裁、小米品牌总经理卢伟冰在财报电话会上表示，这是他从业以来感觉最难的一个季度。IDC 初步统计显示，2026 年第三季度，全球智能手机市场同比下跌 22%，创下有统计以来单季度最大同比降幅。卢伟冰表示，经过前三季度的历练，小米应对困难已经比较主动和从容，营收站稳千亿规模，收入同比下滑幅度也在逐步收窄。他表示，存储芯片涨价短期对公司经营压力明显，但并不影响对未来的坚定投资，小米仍然会持续加大在 AI、芯片、机器人等领域的投资。卢伟冰认为，增程市场依然大有可为，小米澎程上市首月锁单超 7 万辆，稳态期销量保持平稳。同时，小米澎程也很大程度拓展丰富了小米汽车的用户构成，在更多圈层实现破圈：澎程用户年龄大于 SU7/YU7，截至目前 35 岁以上用户占比超 50%；购车家庭用户占比达 87.8%；油车增换购用户占比 50.3%。上市两个月来，澎程车主行驶里程纯电占比超九成；",
-      "source": "ITHome",
-      "source_authority": 0.75,
-      "date": "2026-11-25",
-      "score": 0.8725
     },
     {
       "title": "SoftBank acquires Marc Raibert’s Robotics and AI Institute",
