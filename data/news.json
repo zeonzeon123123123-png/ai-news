@@ -1,117 +1,139 @@
 {
-  "date": "2026-11-25",
+  "date": "2026-11-26",
   "category1": [
     {
-      "title": "‘The mistake has been corrected’: end of Jensen Huang’s brief walk in the wilderness",
-      "url": "https://www.theguardian.com/technology/2026/nov/24/mistake-corrected-jensen-huang-resinstated-nvidia-analysis",
-      "summary": "Tech sector’s campaign to reinstate Nvidia boss began soon after ousting over affair with alleged Chinese spyThe tech billionaires could hardly contain their delight. “Jensen!” exclaimed OpenAI’s chief executive, Sam Altman, in a one-word post on X.“Thanksgiving”, said Travis Kalanick, the Uber founder, who had been part of a core group of Silicon Valley leaders campaigning for this moment. Continue reading...",
-      "short_summary": "Tech sector’s campaign to reinstate Nvidia boss began soon a",
-      "detail": "Tech sector’s campaign to reinstate Nvidia boss began soon after ousting over affair with alleged Chinese spyThe tech billionaires could hardly contain their delight. “Jensen!” exclaimed OpenAI’s chief executive, Sam Altman, in a one-word post on X.“Thanksgiving”, said Travis Kalanick, the Uber founder, who had been part of a core group of Silicon Valley leaders campaigning for this moment. Continue reading...",
-      "source": "The Guardian",
-      "source_authority": 0.85,
-      "date": "2026-11-25",
-      "score": 0.8575
-    },
-    {
-      "title": "谷歌为 Gemini 推出新隐私设置：用户可独立控制聊天记录是否用于 AI 训练",
-      "url": "https://www.ithome.com/1/032/191.htm",
-      "summary": "IT之家 11 月 25 日消息，谷歌宣布为 Gemini 应用推出一系列新的隐私设置，允许用户在保留聊天记录的同时，独立控制是否将聊天内容用于生成式 AI 模型训练。具体来看，用户可以在 Gemini 中点击设置图标，即可在页面底部找到新增的“活动记录”选项。点击后将跳转至“Google 我的活动页面”，用户可以通过下拉菜单选择开启或关闭相关功能。谷歌表示，如今用户可以自主控制是否授权 Google 将自己的聊天记录用于生成式 AI 模型训练。如果用户关闭相关功能，用户今后进行的聊天将不会用于训练生成式 AI 模型，但“用户主动提交的反馈内容”情况除外。",
-      "short_summary": "IT之家 11 月 25 日消息，谷歌宣布为 Gemini 应用推出一系列新的隐私设置，允许用户在保留聊天记录的同时，独",
-      "detail": "IT之家 11 月 25 日消息，谷歌宣布为 Gemini 应用推出一系列新的隐私设置，允许用户在保留聊天记录的同时，独立控制是否将聊天内容用于生成式 AI 模型训练。具体来看，用户可以在 Gemini 中点击设置图标，即可在页面底部找到新增的“活动记录”选项。点击后将跳转至“Google 我的活动页面”，用户可以通过下拉菜单选择开启或关闭相关功能。谷歌表示，如今用户可以自主控制是否授权 Google 将自己的聊天记录用于生成式 AI 模型训练。如果用户关闭相关功能，用户今后进行的聊天将不会用于训练生成式 AI 模型，但“用户主动提交的反馈内容”情况除外。",
+      "title": "Anthropic 掌门人阿莫迪怒斥“人类将控制权交给 AI”说法荒谬，讽刺某些对手口是心非",
+      "url": "https://www.ithome.com/1/032/655.htm",
+      "summary": "IT之家 11 月 26 日消息，Anthropic 首席执行官达里奥 · 阿莫迪（Dario Amodei）今天（11 月 26 日）在 X 平台发布推文，公开否认外界对其“主张人类应向 AI 交出自由意志”的指控，称这种说法“荒谬”。他在社交平台 X 上发布长文表示，AI 必须接受合法的民主程序治理，人类不应为了效率或安全而牺牲合法性与自主决定权，并强调将治理权交给 AI 是“糟糕的主意”。IT之家援引 TechCrunch 报道，这场争论的背景，是关于“AI 替人干活”与“AI 替人做主”之间的界限在哪里？一方认为，只要人类保留监督和最终决定权，任务层面的自动化就是技术进步；另一方则担心，当自动化从具体任务扩展到研发、治理乃至社会运行，人类控制权会被逐步稀释。OpenAI 首席执行官萨姆 · 奥尔特曼（Sam Altman）表示，必须确保人类继续拥有“对未来的自主权”，不能让 AI 在发展方向和关键选择上取代人类。Meta 首席人工智能官亚历山大 · 王（Alexandr Wang）也撰文称，人类不应接受社会被“移交”给人工智能。他认为，随着人工智能能力快速提升，安全、对齐与保障",
+      "short_summary": "IT之家 11 月 26 日消息，Anthropic 首席执行官达里奥 · 阿莫迪（Dario Amodei）今天（11",
+      "detail": "IT之家 11 月 26 日消息，Anthropic 首席执行官达里奥 · 阿莫迪（Dario Amodei）今天（11 月 26 日）在 X 平台发布推文，公开否认外界对其“主张人类应向 AI 交出自由意志”的指控，称这种说法“荒谬”。他在社交平台 X 上发布长文表示，AI 必须接受合法的民主程序治理，人类不应为了效率或安全而牺牲合法性与自主决定权，并强调将治理权交给 AI 是“糟糕的主意”。IT之家援引 TechCrunch 报道，这场争论的背景，是关于“AI 替人干活”与“AI 替人做主”之间的界限在哪里？一方认为，只要人类保留监督和最终决定权，任务层面的自动化就是技术进步；另一方则担心，当自动化从具体任务扩展到研发、治理乃至社会运行，人类控制权会被逐步稀释。OpenAI 首席执行官萨姆 · 奥尔特曼（Sam Altman）表示，必须确保人类继续拥有“对未来的自主权”，不能让 AI 在发展方向和关键选择上取代人类。Meta 首席人工智能官亚历山大 · 王（Alexandr Wang）也撰文称，人类不应接受社会被“移交”给人工智能。他认为，随着人工智能能力快速提升，安全、对齐与保障",
       "source": "ITHome",
       "source_authority": 0.75,
-      "date": "2026-11-25",
-      "score": 0.81
+      "date": "2026-11-26",
+      "score": 0.9475
     },
     {
-      "title": "荣耀一碰传更新：实现与 OPPO、vivo、小米、Apple 跨品牌原图文件互传",
-      "url": "https://www.ithome.com/1/032/349.htm",
-      "summary": "IT之家 11 月 25 日消息，荣耀研发工程师 @荣耀曹工 今日发文，宣布荣耀一碰传更新。据介绍，这次不仅实现了跟 OPPO、vivo、小米、Apple 跨品牌原图文件互传，还打通了影石 Insta360 相机原图直传。另外，高德地图、百度网盘、腾讯 WorkBuddy、喜马拉雅也正式加入荣耀一碰生态，扫街榜、网盘资料，到 AI 智能体对话、播客书单都能直接一碰传。根据 @荣耀曹工 分享，一碰传已支持 70+ 应用内容，覆盖社交、办公、出行、影音、游戏等。据IT之家 11 月 11 日报道，荣耀 Magic9 Pro Max、Magic9、Magic9 超能版、WIN2、WIN RT2、WIN Turbo2 新版本已经推送。主要更新点如下：双卡信号图标堆叠跨品牌一碰传，支持与 OPPO、vivo、小米一碰传图和视频Magic9 系列新增 AI 自动构图WIN2 系列支持调音大师延伸阅读荣耀一碰传基于 NFC 近场通信技术触发传输链路。使用时需在设备上开启一碰传开关，并打开 NFC 与蓝牙，随后将两台设备的顶部轻轻触碰，即可触发传输任务，无需流量、无需扫码或蓝牙配对，也可传输图片、视频",
-      "short_summary": "IT之家 11 月 25 日消息，荣耀研发工程师 @荣耀曹工 今日发文，宣布荣耀一碰传更新。据介绍，这次不仅实现了跟 O",
-      "detail": "IT之家 11 月 25 日消息，荣耀研发工程师 @荣耀曹工 今日发文，宣布荣耀一碰传更新。据介绍，这次不仅实现了跟 OPPO、vivo、小米、Apple 跨品牌原图文件互传，还打通了影石 Insta360 相机原图直传。另外，高德地图、百度网盘、腾讯 WorkBuddy、喜马拉雅也正式加入荣耀一碰生态，扫街榜、网盘资料，到 AI 智能体对话、播客书单都能直接一碰传。根据 @荣耀曹工 分享，一碰传已支持 70+ 应用内容，覆盖社交、办公、出行、影音、游戏等。据IT之家 11 月 11 日报道，荣耀 Magic9 Pro Max、Magic9、Magic9 超能版、WIN2、WIN RT2、WIN Turbo2 新版本已经推送。主要更新点如下：双卡信号图标堆叠跨品牌一碰传，支持与 OPPO、vivo、小米一碰传图和视频Magic9 系列新增 AI 自动构图WIN2 系列支持调音大师延伸阅读荣耀一碰传基于 NFC 近场通信技术触发传输链路。使用时需在设备上开启一碰传开关，并打开 NFC 与蓝牙，随后将两台设备的顶部轻轻触碰，即可触发传输任务，无需流量、无需扫码或蓝牙配对，也可传输图片、视频",
-      "source": "ITHome",
-      "source_authority": 0.75,
-      "date": "2026-11-25",
-      "score": 0.785
-    },
-    {
-      "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
-      "url": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
-      "summary": "Anthropic’s post-IPO slump could put pressure on AI startup valuations.",
-      "short_summary": "Anthropic’s post-IPO slump could put pressure on AI startup ",
-      "detail": "Anthropic’s post-IPO slump could put pressure on AI startup valuations.",
+      "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
+      "url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
+      "summary": "Anthropic CEO Dario Amodei pushes back against rivals’ accusations that he favors surrendering human agency to AI, even as leading AI companies increasingly automate their own research and model development.",
+      "short_summary": "Anthropic CEO Dario Amodei pushes back against rivals’ accus",
+      "detail": "Anthropic CEO Dario Amodei pushes back against rivals’ accusations that he favors surrendering human agency to AI, even as leading AI companies increasingly automate their own research and model development.",
       "source": "TechCrunch",
       "source_authority": 0.95,
-      "date": "2026-11-25",
-      "score": 0.7675
+      "date": "2026-11-26",
+      "score": 0.83
     },
     {
-      "title": "Tidal will start banning AI-generated music next month",
-      "url": "https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban",
-      "summary": "Tidal is officially banning AI-generated music on December 9th. As a result of this change, Tidal will delete around 29 million AI-generated songs and reject an estimated 80,000 to 85,000 tracks per day, according to Tidal music lead Robert Andersen. The move comes just months after Tidal began labeling and demonetizing tracks identified as 100 […]",
-      "short_summary": "Tidal is officially banning AI-generated music on December 9",
-      "detail": "Tidal is officially banning AI-generated music on December 9th. As a result of this change, Tidal will delete around 29 million AI-generated songs and reject an estimated 80,000 to 85,000 tracks per day, according to Tidal music lead Robert Andersen. The move comes just months after Tidal began labeling and demonetizing tracks identified as 100 […]",
-      "source": "The Verge",
+      "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+      "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+      "summary": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.",
+      "short_summary": "OpenAI will introduce a single usage meter across ChatGPT as",
+      "detail": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.",
+      "source": "TechCrunch",
+      "source_authority": 0.95,
+      "date": "2026-11-26",
+      "score": 0.82
+    },
+    {
+      "title": "荣耀 Life 45W 20000mAh 新国标充电宝上架，自带线设计",
+      "url": "https://www.ithome.com/1/032/620.htm",
+      "summary": "IT之家 11 月 26 日消息，荣耀 HONOR Life 45W 20000mAh 新国标充电宝现已在京东上架。新品采用自带线设计，支持 45W MAX 快充，价格未公布，11 月 30 日开售。据介绍，这款充电宝提供星光白、幻夜黑两种配色，最高输出功率可达 45W，可在 30 分钟内给荣耀 Magic8 Pro 充入 61% 电量，支持 45W 自充，兼容 PD3.0、PPS、QC3.0 等主流协议。同时，该充电器支持边充边放和小电流模式。容量为 20000mAh 可上飞机，自带 USB-C 编织线，还带有 1 个 USB-C 接口和 1 个 USB-A 接口。此外，该充电宝配备智能数显屏幕，通过新国标 3C 认证，支持连接电脑查看电池信息、异常充电记录等。IT之家附该充电宝详细参数如下：目前该产品已在京东上架，价格未公布。京东荣耀 HONOR Life 45W 20000mAh 新国标充电宝待公布直达链接",
+      "short_summary": "IT之家 11 月 26 日消息，荣耀 HONOR Life 45W 20000mAh 新国标充电宝现已在京东上架。新品",
+      "detail": "IT之家 11 月 26 日消息，荣耀 HONOR Life 45W 20000mAh 新国标充电宝现已在京东上架。新品采用自带线设计，支持 45W MAX 快充，价格未公布，11 月 30 日开售。据介绍，这款充电宝提供星光白、幻夜黑两种配色，最高输出功率可达 45W，可在 30 分钟内给荣耀 Magic8 Pro 充入 61% 电量，支持 45W 自充，兼容 PD3.0、PPS、QC3.0 等主流协议。同时，该充电器支持边充边放和小电流模式。容量为 20000mAh 可上飞机，自带 USB-C 编织线，还带有 1 个 USB-C 接口和 1 个 USB-A 接口。此外，该充电宝配备智能数显屏幕，通过新国标 3C 认证，支持连接电脑查看电池信息、异常充电记录等。IT之家附该充电宝详细参数如下：目前该产品已在京东上架，价格未公布。京东荣耀 HONOR Life 45W 20000mAh 新国标充电宝待公布直达链接",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-11-26",
+      "score": 0.755
+    },
+    {
+      "title": "Anthropic’s Stock Debut Could Hurt Tech Start-Ups",
+      "url": "https://www.nytimes.com/2026/11/25/technology/anthropic-stock-tech-start-ups.html",
+      "summary": "As the share price drops, it could act as a brake on Silicon Valley’s frenzied investing in younger companies.",
+      "short_summary": "As the share price drops, it could act as a brake on Silicon",
+      "detail": "As the share price drops, it could act as a brake on Silicon Valley’s frenzied investing in younger companies.",
+      "source": "NYT",
+      "source_authority": 0.9,
+      "date": "2026-11-26",
+      "score": 0.74
+    },
+    {
+      "title": "iSeeCars 报告：特斯拉 Cybertruck 成美国销售速度最快的二手皮卡",
+      "url": "https://www.ithome.com/1/032/613.htm",
+      "summary": "IT之家 11 月 26 日消息，汽车研究平台 iSeeCars.com 近日发布研究报告，分析美国 2026 年 10 月超 110 万辆车龄 1-5 年的二手车销售数据，按照动力系统、车型类别和具体车型，统计车辆从上市到售出的平均天数。该报告显示，特斯拉 Cybertruck 是美国销售速度最快的二手皮卡，平均挂牌 39.1 天就能卖出，而所有皮卡的平均销售周期为 65.5 天。Cybertruck 的销售速度超过了其他所有皮卡，包括排名第二的福特 Maverick Hybrid 混动皮卡，以及排名第三的 Rivian R1T。从平均挂牌销售天数来看，纯电动车甚至已经超过了混合动力汽车。纯电动车的平均销售周期为 45.6 天，混合动力汽车为 54.5 天，汽油车则为 61 天。IT之家注意到，凯迪拉克 Escalade IQ 是此次调查中销售速度最慢的车型，平均挂牌销售时间达到 134.3 天，是整个汽车行业平均水平的两倍以上。此外该平台表示，Cybertruck 在停产以前就相对稀缺，因此市场需求被推动。目前进入二手车市场的主要是租赁车，与官方建议零售价相比，二手 Cybertr",
+      "short_summary": "IT之家 11 月 26 日消息，汽车研究平台 iSeeCars.com 近日发布研究报告，分析美国 2026 年 10",
+      "detail": "IT之家 11 月 26 日消息，汽车研究平台 iSeeCars.com 近日发布研究报告，分析美国 2026 年 10 月超 110 万辆车龄 1-5 年的二手车销售数据，按照动力系统、车型类别和具体车型，统计车辆从上市到售出的平均天数。该报告显示，特斯拉 Cybertruck 是美国销售速度最快的二手皮卡，平均挂牌 39.1 天就能卖出，而所有皮卡的平均销售周期为 65.5 天。Cybertruck 的销售速度超过了其他所有皮卡，包括排名第二的福特 Maverick Hybrid 混动皮卡，以及排名第三的 Rivian R1T。从平均挂牌销售天数来看，纯电动车甚至已经超过了混合动力汽车。纯电动车的平均销售周期为 45.6 天，混合动力汽车为 54.5 天，汽油车则为 61 天。IT之家注意到，凯迪拉克 Escalade IQ 是此次调查中销售速度最慢的车型，平均挂牌销售时间达到 134.3 天，是整个汽车行业平均水平的两倍以上。此外该平台表示，Cybertruck 在停产以前就相对稀缺，因此市场需求被推动。目前进入二手车市场的主要是租赁车，与官方建议零售价相比，二手 Cybertr",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-11-26",
+      "score": 0.7325
+    },
+    {
+      "title": "The Download: AI swamping open records, and firefighting for permafrost",
+      "url": "https://www.technologyreview.com/2026/11/25/1149808/the-download-ai-open-records-permafrost-fires/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI is straining America’s open records systems AI has intensified investors’ interest in public records. Over the last few years, venture-backed startups have raised upwards of $100 million to collect data…",
+      "short_summary": "This is today’s edition of The Download, our weekday newslet",
+      "detail": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI is straining America’s open records systems AI has intensified investors’ interest in public records. Over the last few years, venture-backed startups have raised upwards of $100 million to collect data…",
+      "source": "MIT Tech Review",
       "source_authority": 0.9,
       "date": "2026-11-25",
-      "score": 0.7475
+      "score": 0.7025
     }
   ],
   "category2": [
     {
-      "title": "Even the best AI agents struggle with everyday life",
-      "url": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
-      "summary": "As millions embrace personal AI assistants, a new benchmark reveals that even the most advanced AI models struggle to complete everyday tasks reliably and safely without introducing potential new problems.",
-      "short_summary": "As millions embrace personal AI assistants, a new benchmark ",
-      "detail": "As millions embrace personal AI assistants, a new benchmark reveals that even the most advanced AI models struggle to complete everyday tasks reliably and safely without introducing potential new problems.",
-      "source": "TechCrunch",
-      "source_authority": 0.95,
+      "title": "Amazon is reportedly in talks to end Muse AI shopping block",
+      "url": "https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions",
+      "summary": "Amazon has held talks about letting Meta's Muse AI agent shop on its online marketplace, according to a report from Fortune. The discussions, which could end Amazon's block on Muse, reportedly center on the kinds of products the AI agent recommends and the potential impact on the ecommerce giant's advertising revenue. As reported by Fortune, […]",
+      "short_summary": "Amazon has held talks about letting Meta's Muse AI agent sho",
+      "detail": "Amazon has held talks about letting Meta's Muse AI agent shop on its online marketplace, according to a report from Fortune. The discussions, which could end Amazon's block on Muse, reportedly center on the kinds of products the AI agent recommends and the potential impact on the ecommerce giant's advertising revenue. As reported by Fortune, […]",
+      "source": "The Verge",
+      "source_authority": 0.9,
       "date": "2026-11-25",
-      "score": 0.86
+      "score": 0.8375
     },
     {
-      "title": "Meta brings its Muse AI assistant directly into Instagram DMs",
-      "url": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/",
-      "summary": "The new integration gets rid of the need for users to toggle between Instagram and the Muse app when they want to interact with the AI agent.",
-      "short_summary": "The new integration gets rid of the need for users to toggle",
-      "detail": "The new integration gets rid of the need for users to toggle between Instagram and the Muse app when they want to interact with the AI agent.",
+      "title": "Want to buy your kid an AI toy this Christmas? Not in New York",
+      "url": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
+      "summary": "New York has banned AI chatbot toys for five years as new research from Common Sense Media reveals troubling safety failures, including exposure to inappropriate content and risks to emotional development.",
+      "short_summary": "New York has banned AI chatbot toys for five years as new re",
+      "detail": "New York has banned AI chatbot toys for five years as new research from Common Sense Media reveals troubling safety failures, including exposure to inappropriate content and risks to emotional development.",
       "source": "TechCrunch",
       "source_authority": 0.95,
-      "date": "2026-11-25",
-      "score": 0.82
+      "date": "2026-11-26",
+      "score": 0.83
     },
     {
-      "title": "Pinterest will now let parents limit the AI-generated content their teens see",
-      "url": "https://techcrunch.com/2026/11/24/pinterest-will-now-let-parents-limit-the-ai-generated-content-their-teens-see/",
-      "summary": "While other social platforms have focused on restricting teens' access to AI chatbots, Pinterest is addressing the AI content filling their feeds.",
-      "short_summary": "While other social platforms have focused on restricting tee",
-      "detail": "While other social platforms have focused on restricting teens' access to AI chatbots, Pinterest is addressing the AI content filling their feeds.",
-      "source": "TechCrunch",
-      "source_authority": 0.95,
-      "date": "2026-11-25",
-      "score": 0.745
+      "title": "Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future",
+      "url": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent",
+      "summary": "Last year, Google filed a patent for a system called My Channel that's designed to create feeds filled with personalized, AI-generated videos and advertisements based on information the company knows about its users. The patent has been rejected, but unfortunately, Google might appeal or resubmit an amended version, and we could see this monstrosity come […]",
+      "short_summary": "Last year, Google filed a patent for a system called My Chan",
+      "detail": "Last year, Google filed a patent for a system called My Channel that's designed to create feeds filled with personalized, AI-generated videos and advertisements based on information the company knows about its users. The patent has been rejected, but unfortunately, Google might appeal or resubmit an amended version, and we could see this monstrosity come […]",
+      "source": "The Verge",
+      "source_authority": 0.9,
+      "date": "2026-11-26",
+      "score": 0.71
     },
     {
-      "title": "Tidal bans 100% AI-generated music with plans to delete more than 27m tracks",
-      "url": "https://www.theguardian.com/music/2026/nov/25/tidal-streaming-service-bans-ai-generated-music",
-      "summary": "Streaming service says 43% of uploads to platform in past 90 days were made entirely by artificial intelligenceThe music streaming service Tidal has announced it will ban entirely AI-generated music from its platform and remove millions of songs, saying AI music “diverts streams and royalties away from the artists, and confuses fans”.“To ensure Tidal remains the best place for artists to share their work, and for listeners to enjoy it, we’re removing all tracks that we determine are 100% AI gene",
-      "short_summary": "Streaming service says 43% of uploads to platform in past 90",
-      "detail": "Streaming service says 43% of uploads to platform in past 90 days were made entirely by artificial intelligenceThe music streaming service Tidal has announced it will ban entirely AI-generated music from its platform and remove millions of songs, saying AI music “diverts streams and royalties away from the artists, and confuses fans”.“To ensure Tidal remains the best place for artists to share their work, and for listeners to enjoy it, we’re removing all tracks that we determine are 100% AI gene",
+      "title": "铠侠发布 XD20 移动固态硬盘新版固件，强烈建议用户更新",
+      "url": "https://www.ithome.com/1/032/662.htm",
+      "summary": "IT之家 11 月 26 日消息，KIOXIA（铠侠）本月 16 日发布公告：该企业已为 EXCERIA PLUS G2 (XD20) 移动固态硬盘发布新版本固件。此次固件更新旨在解决关键错误和 / 或提高 SSD 的可靠性和性能。铠侠强烈建议用户更新固件。对于现有固件版本为 UHFA20.1 或 UHFA20.2 的产品，新版固件为 UHFA20.5；对于现有固件版本为 UHFAC0.0 的产品，新版固件为 UHFAC0.1。IT之家了解到，铠侠 EXCERIA PLUS G2 (XD20) 移动固态硬盘于 2024 年发布，采用 USB 3.2 Gen 2 (10Gbps) Type-C 接口，拥有凹面铝制外壳。",
+      "short_summary": "IT之家 11 月 26 日消息，KIOXIA（铠侠）本月 16 日发布公告：该企业已为 EXCERIA PLUS G2",
+      "detail": "IT之家 11 月 26 日消息，KIOXIA（铠侠）本月 16 日发布公告：该企业已为 EXCERIA PLUS G2 (XD20) 移动固态硬盘发布新版本固件。此次固件更新旨在解决关键错误和 / 或提高 SSD 的可靠性和性能。铠侠强烈建议用户更新固件。对于现有固件版本为 UHFA20.1 或 UHFA20.2 的产品，新版固件为 UHFA20.5；对于现有固件版本为 UHFAC0.0 的产品，新版固件为 UHFAC0.1。IT之家了解到，铠侠 EXCERIA PLUS G2 (XD20) 移动固态硬盘于 2024 年发布，采用 USB 3.2 Gen 2 (10Gbps) Type-C 接口，拥有凹面铝制外壳。",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-11-26",
+      "score": 0.695
+    },
+    {
+      "title": "Our ‘Paris manifesto’ proposes how to deal with extreme wealth in the AI age | Open letter",
+      "url": "https://www.theguardian.com/commentisfree/2026/nov/25/paris-manifesto-open-letter-ai-oligarchy",
+      "summary": "It is possible for democracy to reverse the dynamic of oligarchy. But we must act nowThe explosion of extreme wealth in the world is the defining social fact of our times.When Forbes magazine began ranking the world’s largest fortunes in 1987, the wealth of the richest 0.0001% of our planet’s population equaled 3% of global GDP. Since that time, the wealth held by this tiny group of people – just 3,000 households – has ballooned and now reaches 17% of global GDP. Continue reading...",
+      "short_summary": "It is possible for democracy to reverse the dynamic of oliga",
+      "detail": "It is possible for democracy to reverse the dynamic of oligarchy. But we must act nowThe explosion of extreme wealth in the world is the defining social fact of our times.When Forbes magazine began ranking the world’s largest fortunes in 1987, the wealth of the richest 0.0001% of our planet’s population equaled 3% of global GDP. Since that time, the wealth held by this tiny group of people – just 3,000 households – has ballooned and now reaches 17% of global GDP. Continue reading...",
       "source": "The Guardian",
       "source_authority": 0.85,
       "date": "2026-11-25",
-      "score": 0.7425
-    },
-    {
-      "title": "Pura X Max 也能吃上！华为云晰柔光膜适配机型公布，预计 2027 年 1 月下旬上线",
-      "url": "https://www.ithome.com/1/032/172.htm",
-      "summary": "IT之家 11 月 25 日消息，在昨天下午的 HUAWEI Mate X8 及全场景新品发布会上，华为 Mate X8 大折旗舰机正式发布，全系搭载麒麟 9050 Pro 处理器，售价 12,999 元起。除了首创磁控展平技术，通过“削峰填谷”解决折痕问题外。华为官方还为这款新机推出了云晰柔光膜，用户在华为授权服务中心可购买更换。IT之家就云晰柔光膜支持哪些机型询问了华为客户服务。对方表示，该膜支持 HUAWEI Mate X8、Pura X Max（内屏贴膜），预计 2027 年 1 月下旬正式上线。上线后，用户可以前往华为授权服务中心更换。需要注意的是，屏幕表面层（内屏保护膜）由华为特殊设计，是屏幕的重要组成部分，官方提醒不要自行撕除或更换，否则会损坏屏幕影响保修。",
-      "short_summary": "IT之家 11 月 25 日消息，在昨天下午的 HUAWEI Mate X8 及全场景新品发布会上，华为 Mate X8",
-      "detail": "IT之家 11 月 25 日消息，在昨天下午的 HUAWEI Mate X8 及全场景新品发布会上，华为 Mate X8 大折旗舰机正式发布，全系搭载麒麟 9050 Pro 处理器，售价 12,999 元起。除了首创磁控展平技术，通过“削峰填谷”解决折痕问题外。华为官方还为这款新机推出了云晰柔光膜，用户在华为授权服务中心可购买更换。IT之家就云晰柔光膜支持哪些机型询问了华为客户服务。对方表示，该膜支持 HUAWEI Mate X8、Pura X Max（内屏贴膜），预计 2027 年 1 月下旬正式上线。上线后，用户可以前往华为授权服务中心更换。需要注意的是，屏幕表面层（内屏保护膜）由华为特殊设计，是屏幕的重要组成部分，官方提醒不要自行撕除或更换，否则会损坏屏幕影响保修。",
-      "source": "ITHome",
-      "source_authority": 0.75,
-      "date": "2026-11-25",
-      "score": 0.7325
+      "score": 0.66
     },
     {
       "title": "China-linked battery projects could receive UK funding despite security warnings",
@@ -122,29 +144,29 @@
       "source": "The Guardian",
       "source_authority": 0.85,
       "date": "2026-11-25",
-      "score": 0.705
+      "score": 0.66
     },
     {
-      "title": "You Can See Everything’s chaotic battle for the narrative about Elizabeth Holmes",
-      "url": "https://www.theguardian.com/culture/2026/nov/23/you-can-see-everythings-chaotic-battle-for-the-narrative-about-elizabeth-holmes",
-      "summary": "In Nathan Fielder’s new documentary, the protagonists and film-makers battle over who is the hero and who is the villain. It’s a fascinating insight into modern celebrity promotion• Don’t get the Close Up delivered to your inbox? Sign up hereThank you for signing up to the Close Up newsletter. This is our first-ever edition! And, just like on the show, I’ll be zooming in on the big culture questions and recommending things I’m obsessed with. I’ll also give you a sneak peek of what’s coming up on",
-      "short_summary": "In Nathan Fielder’s new documentary, the protagonists and fi",
-      "detail": "In Nathan Fielder’s new documentary, the protagonists and film-makers battle over who is the hero and who is the villain. It’s a fascinating insight into modern celebrity promotion• Don’t get the Close Up delivered to your inbox? Sign up hereThank you for signing up to the Close Up newsletter. This is our first-ever edition! And, just like on the show, I’ll be zooming in on the big culture questions and recommending things I’m obsessed with. I’ll also give you a sneak peek of what’s coming up on",
+      "title": "Botty? AI helps resurrect voice of John Motson for football video game",
+      "url": "https://www.theguardian.com/media/2026/nov/25/ai-helps-resurrect-voice-john-motson-football-video-game-fc27",
+      "summary": "Late broadcaster’s family allows EA Sports to create digital version of ‘Motty’ to commentate on popular FC27First it was Val Kilmer, then Greta Garbo, but finally AI has resurrected a star the terraces can cheer for: John Motson, the BBC football pundit who died in February 2023, is coming back to commentate on the next generation of footballers – at least on a video game.The legendary commentator’s family has approved the use of AI technology to create a digital version of “Motty” – as he was",
+      "short_summary": "Late broadcaster’s family allows EA Sports to create digital",
+      "detail": "Late broadcaster’s family allows EA Sports to create digital version of ‘Motty’ to commentate on popular FC27First it was Val Kilmer, then Greta Garbo, but finally AI has resurrected a star the terraces can cheer for: John Motson, the BBC football pundit who died in February 2023, is coming back to commentate on the next generation of footballers – at least on a video game.The legendary commentator’s family has approved the use of AI technology to create a digital version of “Motty” – as he was",
       "source": "The Guardian",
       "source_authority": 0.85,
       "date": "2026-11-25",
-      "score": 0.705
+      "score": 0.66
     },
     {
-      "title": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
-      "url": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/",
-      "summary": "The Cairn AI framework is proving to be a boon for defenders and attackers.",
-      "short_summary": "The Cairn AI framework is proving to be a boon for defenders",
-      "detail": "The Cairn AI framework is proving to be a boon for defenders and attackers.",
-      "source": "Ars Technica",
-      "source_authority": 0.85,
-      "date": "2026-11-24",
-      "score": 0.695
+      "title": "How data centers are driving a US natural-gas boom",
+      "url": "https://www.technologyreview.com/2026/11/25/1149836/data-centers-gas-power-plants/",
+      "summary": "In May 2025, my colleague David Rotman wrote a feature story describing how AI could keep us dependent on natural gas. Just 18 months later, I’ve lost count of how many times he’s already been proved right. Sure, it’s technically possible to meet the world’s rising electricity demand with other power sources, including renewables like…",
+      "short_summary": "In May 2025, my colleague David Rotman wrote a feature story",
+      "detail": "In May 2025, my colleague David Rotman wrote a feature story describing how AI could keep us dependent on natural gas. Just 18 months later, I’ve lost count of how many times he’s already been proved right. Sure, it’s technically possible to meet the world’s rising electricity demand with other power sources, including renewables like…",
+      "source": "MIT Tech Review",
+      "source_authority": 0.9,
+      "date": "2026-11-26",
+      "score": 0.635
     },
     {
       "title": "AI is forcing researchers to confront the possibility of artificial minds",
@@ -155,53 +177,42 @@
       "source": "New Scientist",
       "source_authority": 0.75,
       "date": "2026-11-25",
-      "score": 0.65
-    },
-    {
-      "title": "The New York Times warns photographers not to update Photoshop over AI features",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
-      "summary": "The New York Times is asking freelance photographers not to use the newest version of Adobe Photoshop because features in the 2027 update use AI \"in ways that may not be apparent to users.\" In an email seen by The Verge and posted on Threads, two of the Times' photography leaders, Meaghan Looram and Josh […]",
-      "short_summary": "The New York Times is asking freelance photographers not to ",
-      "detail": "The New York Times is asking freelance photographers not to use the newest version of Adobe Photoshop because features in the 2027 update use AI \"in ways that may not be apparent to users.\" In an email seen by The Verge and posted on Threads, two of the Times' photography leaders, Meaghan Looram and Josh […]",
-      "source": "The Verge",
-      "source_authority": 0.9,
-      "date": "2026-11-25",
-      "score": 0.635
+      "score": 0.605
     }
   ],
   "category3": [
     {
-      "title": "马斯克带俩娃到访英伟达总部与黄仁勋会面，还拍了大合照",
-      "url": "https://www.ithome.com/1/032/293.htm",
-      "summary": "IT之家 11 月 25 日消息，当地时间 2026 年 11 月 25 日，特斯拉与 SpaceX 首席执行官埃隆 · 马斯克通过转发相关帖文，确认自己已到访英伟达总部，并与该公司首席执行官黄仁勋会面。此前，多张合影在社交平台 X 上流传。照片显示，马斯克身着黑色 T 恤，与黄仁勋并肩站立于英伟达总部中庭，马斯克旁边还站着他的两个儿子，合影背景为英伟达标志性的现代化办公空间。马斯克随后转发了特斯拉粉丝账号 @teslaownersSV 发布的帖文，间接确认了这一会面。此次会面发生在黄仁勋戏剧性复职后仅两天。11 月 23 日，英伟达董事会一致决定恢复黄仁勋的总裁、首席执行官及董事职务。此前，黄仁勋因涉及婚外情而于 11 月 12 日辞职，引发公司市值大幅波动及多方关注。马斯克是黄仁勋复职最坚定的公开支持者之一，并在黄仁勋复职后在社交平台上表示“错误已经得到纠正”。英伟达是全球 AI 芯片领域的绝对主导者，特斯拉、xAI 等马斯克旗下公司高度依赖其 GPU 产品。两人此次在黄仁勋复职后迅速会面，被视为科技界两大关键人物就 AI 算力供应、合作前景及行业形势进行直接沟通的信号。截至IT之",
-      "short_summary": "IT之家 11 月 25 日消息，当地时间 2026 年 11 月 25 日，特斯拉与 SpaceX 首席执行官埃隆 ·",
-      "detail": "IT之家 11 月 25 日消息，当地时间 2026 年 11 月 25 日，特斯拉与 SpaceX 首席执行官埃隆 · 马斯克通过转发相关帖文，确认自己已到访英伟达总部，并与该公司首席执行官黄仁勋会面。此前，多张合影在社交平台 X 上流传。照片显示，马斯克身着黑色 T 恤，与黄仁勋并肩站立于英伟达总部中庭，马斯克旁边还站着他的两个儿子，合影背景为英伟达标志性的现代化办公空间。马斯克随后转发了特斯拉粉丝账号 @teslaownersSV 发布的帖文，间接确认了这一会面。此次会面发生在黄仁勋戏剧性复职后仅两天。11 月 23 日，英伟达董事会一致决定恢复黄仁勋的总裁、首席执行官及董事职务。此前，黄仁勋因涉及婚外情而于 11 月 12 日辞职，引发公司市值大幅波动及多方关注。马斯克是黄仁勋复职最坚定的公开支持者之一，并在黄仁勋复职后在社交平台上表示“错误已经得到纠正”。英伟达是全球 AI 芯片领域的绝对主导者，特斯拉、xAI 等马斯克旗下公司高度依赖其 GPU 产品。两人此次在黄仁勋复职后迅速会面，被视为科技界两大关键人物就 AI 算力供应、合作前景及行业形势进行直接沟通的信号。截至IT之",
+      "title": "铠侠与英伟达合作，探索如何将 GPU 有效显存扩展至 PB 级",
+      "url": "https://www.ithome.com/1/032/722.htm",
+      "summary": "IT之家 11 月 26 日消息，铠侠今日宣布与英伟达展开合作，启动面向 AI 应用的概念验证。该项目将利用英伟达 SCADA 软件，结合铠侠 SSD 的性能，探索如何将 GPU 的有效显存扩展至 PB 级。IT之家了解到，此次合作将在一套英伟达 GB200 NVL72 机架级系统上展开验证。该系统搭载 144 块容量为 7.68TB 的 KIOXIA XD8 系列 E1.S NVMe SSD，总容量约 1.106PB，双方将测试其处理由 2 万亿个向量构成的数据库能力。随着 AI 使用的数据不断扩大，如何让 GPU 显存变大已经成为一项挑战。仅依靠 HBM （高带宽内存）处理不断增长的数据集时，往往需要根据内存容量将工作负载拆分为更小的任务，并在内存与速度较慢的存储系统之间频繁传输数据。在此次概念验证中，双方将结合英伟达 SCADA 软件与铠侠高性能 NVMe SSD，验证 HBM 的内存限制能否突破，以及 AI 能否在生成内容时更高效地访问大规模数据集。英伟达 SCADA 软件是一套专门设计的软件库，能够通过 NVMe SSD 扩展 GPU 的有效内存容量，同时支持以较小数据块为单",
+      "short_summary": "IT之家 11 月 26 日消息，铠侠今日宣布与英伟达展开合作，启动面向 AI 应用的概念验证。该项目将利用英伟达 SC",
+      "detail": "IT之家 11 月 26 日消息，铠侠今日宣布与英伟达展开合作，启动面向 AI 应用的概念验证。该项目将利用英伟达 SCADA 软件，结合铠侠 SSD 的性能，探索如何将 GPU 的有效显存扩展至 PB 级。IT之家了解到，此次合作将在一套英伟达 GB200 NVL72 机架级系统上展开验证。该系统搭载 144 块容量为 7.68TB 的 KIOXIA XD8 系列 E1.S NVMe SSD，总容量约 1.106PB，双方将测试其处理由 2 万亿个向量构成的数据库能力。随着 AI 使用的数据不断扩大，如何让 GPU 显存变大已经成为一项挑战。仅依靠 HBM （高带宽内存）处理不断增长的数据集时，往往需要根据内存容量将工作负载拆分为更小的任务，并在内存与速度较慢的存储系统之间频繁传输数据。在此次概念验证中，双方将结合英伟达 SCADA 软件与铠侠高性能 NVMe SSD，验证 HBM 的内存限制能否突破，以及 AI 能否在生成内容时更高效地访问大规模数据集。英伟达 SCADA 软件是一套专门设计的软件库，能够通过 NVMe SSD 扩展 GPU 的有效内存容量，同时支持以较小数据块为单",
       "source": "ITHome",
       "source_authority": 0.75,
-      "date": "2026-11-25",
+      "date": "2026-11-26",
+      "score": 0.9625
+    },
+    {
+      "title": "降幅约 20%~35%：报告称马斯克 SpaceX 降价出租 AI 算力",
+      "url": "https://www.ithome.com/1/032/716.htm",
+      "summary": "IT之家 11 月 26 日消息，行业研究机构 SemiAnalysis 昨日（11 月 25 日）发布报告，称全球首富埃隆 · 马斯克（Elon Musk）旗下 SpaceX 公司正在下调其 AI 计算资源的租赁价格，其重要客户 Anthropic 是否续签约 5 万台 H200 GPU 的计算合同，也出现新的不确定性。报道称，SpaceX 已将面向小型计算集群的 Blackwell GPU 现货租赁报价，从每 GPU 小时约 15.0 至 15.5 美元（IT之家注：现汇率约合 100.2 至 103.5 元人民币），下调至 10 至 12 美元（现汇率约合 66.8 至 80.1 元人民币），降幅约为 20% 到 35%。IT之家援引博文介绍，所谓“现货租赁”，通常指客户按需租用算力，而非签订长期固定合同，因此价格变化更能直接反映短期供需状况。与此同时，该报告称 Anthropic 可能不会续约涉及约 5 万台 H200 GPU 的集群合同。此前 Anthropic 高管在与卖方分析师会面时曾表示，其与 SpaceX 的计算协议不会延长至 2027 年第二季度之后。不过，马斯克随",
+      "short_summary": "IT之家 11 月 26 日消息，行业研究机构 SemiAnalysis 昨日（11 月 25 日）发布报告，称全球首富",
+      "detail": "IT之家 11 月 26 日消息，行业研究机构 SemiAnalysis 昨日（11 月 25 日）发布报告，称全球首富埃隆 · 马斯克（Elon Musk）旗下 SpaceX 公司正在下调其 AI 计算资源的租赁价格，其重要客户 Anthropic 是否续签约 5 万台 H200 GPU 的计算合同，也出现新的不确定性。报道称，SpaceX 已将面向小型计算集群的 Blackwell GPU 现货租赁报价，从每 GPU 小时约 15.0 至 15.5 美元（IT之家注：现汇率约合 100.2 至 103.5 元人民币），下调至 10 至 12 美元（现汇率约合 66.8 至 80.1 元人民币），降幅约为 20% 到 35%。IT之家援引博文介绍，所谓“现货租赁”，通常指客户按需租用算力，而非签订长期固定合同，因此价格变化更能直接反映短期供需状况。与此同时，该报告称 Anthropic 可能不会续约涉及约 5 万台 H200 GPU 的集群合同。此前 Anthropic 高管在与卖方分析师会面时曾表示，其与 SpaceX 的计算协议不会延长至 2027 年第二季度之后。不过，马斯克随",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-11-26",
       "score": 0.9375
     },
     {
-      "title": "无需虚拟机：XNULinux 开源项目让 Linux 电脑运行苹果 macOS 27",
-      "url": "https://www.ithome.com/1/032/170.htm",
-      "summary": "IT之家 11 月 25 日消息，科技媒体 AppleInsider 昨日（11 月 24 日）发布博文，报道介绍名为 XNULinux 的开源项目，宣称不依赖传统虚拟机，可在 Linux 电脑上直接运行 macOS 27 及其应用。报道称该项目处于早期测试阶段，目前已能运行 macOS 27.2.1，并支持桌面、Dock，以及 Spotlight、Safari、备忘录和计算器等部分应用，但无法作为独立系统启动。在实现方式上，不同于“黑苹果”（Hackintosh）或者虚拟机方案，XNULinux 项目把苹果开源的 XNU 内核作为可加载模块，嵌入未经修改的 arm64 Linux 内核中。这样在同一 CPU 上可以原生运行 macOS 和 Linux 进程，XNU 通过小型接口模块，从 Linux 获取内存、定时器、文件、网络和 GPU 等资源。项目要求方面，目前要求 arm64 Linux 主机至少配备 16GB 内存，并需要用户自行提供 macOS 安装镜像；创建系统盘和编译 GPU 相关组件时，仍需一台可使用 Xcode 的 Mac。XNULinux 目前 Nvidia DGX",
-      "short_summary": "IT之家 11 月 25 日消息，科技媒体 AppleInsider 昨日（11 月 24 日）发布博文，报道介绍名为 ",
-      "detail": "IT之家 11 月 25 日消息，科技媒体 AppleInsider 昨日（11 月 24 日）发布博文，报道介绍名为 XNULinux 的开源项目，宣称不依赖传统虚拟机，可在 Linux 电脑上直接运行 macOS 27 及其应用。报道称该项目处于早期测试阶段，目前已能运行 macOS 27.2.1，并支持桌面、Dock，以及 Spotlight、Safari、备忘录和计算器等部分应用，但无法作为独立系统启动。在实现方式上，不同于“黑苹果”（Hackintosh）或者虚拟机方案，XNULinux 项目把苹果开源的 XNU 内核作为可加载模块，嵌入未经修改的 arm64 Linux 内核中。这样在同一 CPU 上可以原生运行 macOS 和 Linux 进程，XNU 通过小型接口模块，从 Linux 获取内存、定时器、文件、网络和 GPU 等资源。项目要求方面，目前要求 arm64 Linux 主机至少配备 16GB 内存，并需要用户自行提供 macOS 安装镜像；创建系统盘和编译 GPU 相关组件时，仍需一台可使用 Xcode 的 Mac。XNULinux 目前 Nvidia DGX",
-      "source": "ITHome",
-      "source_authority": 0.75,
-      "date": "2026-11-25",
-      "score": 0.9225
-    },
-    {
-      "title": "联想集团高性能服务器产线在天津落成，投建超节点产线预计 2027 年底前投产",
-      "url": "https://www.ithome.com/1/032/343.htm",
-      "summary": "IT之家 11 月 25 日消息，联想集团今日在天津举行高性能服务器产线落成暨超节点项目启动仪式。IT之家获悉，此次落成的高性能服务器产线位于联想（天津）创新产业园，于 2025 年底启动建设，总投资 1.2 亿元，现已建成并在本次活动正式宣布投产，具备年产 20 万台通用服务器、10 万台 AI 服务器的设计产能。仪式现场，联想集团与天津港保税区签署新一代智能算力研发与制造中心投资合作框架协议，计划于 2026 年底投资建设超节点服务器项目，超节点项目预计于 2027 年底前建成投产。据介绍，2026 年 1—9 月，联想在天津业务实现营收 485 亿元，同比增长 67%；1—10 月，天津创新产业园产值突破 155 亿元，同比增长 23%。相关阅读：《联想集团 2026 财年上半年归母亏损 12.48 亿美元，同比由盈转亏》",
-      "short_summary": "IT之家 11 月 25 日消息，联想集团今日在天津举行高性能服务器产线落成暨超节点项目启动仪式。IT之家获悉，此次落成",
-      "detail": "IT之家 11 月 25 日消息，联想集团今日在天津举行高性能服务器产线落成暨超节点项目启动仪式。IT之家获悉，此次落成的高性能服务器产线位于联想（天津）创新产业园，于 2025 年底启动建设，总投资 1.2 亿元，现已建成并在本次活动正式宣布投产，具备年产 20 万台通用服务器、10 万台 AI 服务器的设计产能。仪式现场，联想集团与天津港保税区签署新一代智能算力研发与制造中心投资合作框架协议，计划于 2026 年底投资建设超节点服务器项目，超节点项目预计于 2027 年底前建成投产。据介绍，2026 年 1—9 月，联想在天津业务实现营收 485 亿元，同比增长 67%；1—10 月，天津创新产业园产值突破 155 亿元，同比增长 23%。相关阅读：《联想集团 2026 财年上半年归母亏损 12.48 亿美元，同比由盈转亏》",
-      "source": "ITHome",
-      "source_authority": 0.75,
-      "date": "2026-11-25",
-      "score": 0.885
+      "title": "FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space",
+      "url": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers",
+      "summary": "In an announcement on Wednesday, the FCC says it authorized SpaceX to deploy up to 1 million AI chip-equipped satellites as part of the Elon Musk-owned company's \"Starmind\" initiative. With several others also pursuing the idea of putting AI data centers in space, including Google and Blue Origin, this is the first approval the agency […]",
+      "short_summary": "In an announcement on Wednesday, the FCC says it authorized ",
+      "detail": "In an announcement on Wednesday, the FCC says it authorized SpaceX to deploy up to 1 million AI chip-equipped satellites as part of the Elon Musk-owned company's \"Starmind\" initiative. With several others also pursuing the idea of putting AI data centers in space, including Google and Blue Origin, this is the first approval the agency […]",
+      "source": "The Verge",
+      "source_authority": 0.9,
+      "date": "2026-11-26",
+      "score": 0.9075
     },
     {
       "title": "Chip Industry Technical Paper Roundup: Nov. 25",
@@ -212,119 +223,141 @@
       "source": "SemiEngineering",
       "source_authority": 0.85,
       "date": "2026-11-25",
-      "score": 0.87
+      "score": 0.825
     },
     {
-      "title": "Mamdani questions AI economy as Jensen Huang returns to Nvidia – video",
-      "url": "https://www.theguardian.com/technology/video/2026/nov/24/mamdani-questions-ai-economy-as-jensen-huang-returns-to-nvidia-video",
-      "summary": "New York City mayor Zohran Mamdani weighed in on the corporate turbulence surrounding Nvidia and the chipmaker’s chief executive officer, Jensen Huang, saying he does not think working Americans 'signed up for their pensions being tied to the question of Huang’s fidelity to his marriage'. The mayor said Huang 'had a massive impact', with Nvidia’s share price dropping dramatically after he stepped down as the company’s CEO on 12 November over a reported extramarital relationship with a suspected",
-      "short_summary": "New York City mayor Zohran Mamdani weighed in on the corpora",
-      "detail": "New York City mayor Zohran Mamdani weighed in on the corporate turbulence surrounding Nvidia and the chipmaker’s chief executive officer, Jensen Huang, saying he does not think working Americans 'signed up for their pensions being tied to the question of Huang’s fidelity to his marriage'. The mayor said Huang 'had a massive impact', with Nvidia’s share price dropping dramatically after he stepped down as the company’s CEO on 12 November over a reported extramarital relationship with a suspected",
+      "title": "全球首款 RGB 单芯片：首尔半导体量产新 LCD 背光技术，峰值 3000 尼特、覆盖 100% DCI-P3 色域",
+      "url": "https://www.ithome.com/1/032/614.htm",
+      "summary": "IT之家 11 月 26 日消息，首尔半导体株式会社（Seoul Semiconductor Co., Ltd.）昨日（11 月 25 日）发布公告，其子公司首尔威迅（Seoul Viosys）开发的全球首款 WICOP Pixel 技术已进入全面量产，并开始向全球电视厂商供货。在技术实现方面，WICOP Pixel 技术有别于自发光的 Micro LED 方案，不改变液晶面板本身，主要把传统“白光背光＋彩色滤光片”的方案，改为更精细、可独立控制的红、绿、蓝三色光源，从而提升液晶电视的色彩、亮度和寿命。该技术以数十微米级的超细间距排列红、绿、蓝三种发光芯片，并集成到同一个像素单元中。每种颜色可以独立驱动和控制，再通过精确混光，呈现数万种自然色彩。IT之家附上相关图片如下：WICOP 可视为“无封装芯片”，传统 LED 芯片通常需要单独封装，才能保护芯片、引出电极并方便安装；而 WICOP 则通过芯片级结构，让发光芯片无需独立封装即可像普通电子元件一样使用。对 WICOP Pixel 而言，这意味着红、绿、蓝芯片可以更紧密地排布，减少传统封装带来的体积、光路和组装限制。在画质指标方面，首",
+      "short_summary": "IT之家 11 月 26 日消息，首尔半导体株式会社（Seoul Semiconductor Co., Ltd.）昨日（",
+      "detail": "IT之家 11 月 26 日消息，首尔半导体株式会社（Seoul Semiconductor Co., Ltd.）昨日（11 月 25 日）发布公告，其子公司首尔威迅（Seoul Viosys）开发的全球首款 WICOP Pixel 技术已进入全面量产，并开始向全球电视厂商供货。在技术实现方面，WICOP Pixel 技术有别于自发光的 Micro LED 方案，不改变液晶面板本身，主要把传统“白光背光＋彩色滤光片”的方案，改为更精细、可独立控制的红、绿、蓝三色光源，从而提升液晶电视的色彩、亮度和寿命。该技术以数十微米级的超细间距排列红、绿、蓝三种发光芯片，并集成到同一个像素单元中。每种颜色可以独立驱动和控制，再通过精确混光，呈现数万种自然色彩。IT之家附上相关图片如下：WICOP 可视为“无封装芯片”，传统 LED 芯片通常需要单独封装，才能保护芯片、引出电极并方便安装；而 WICOP 则通过芯片级结构，让发光芯片无需独立封装即可像普通电子元件一样使用。对 WICOP Pixel 而言，这意味着红、绿、蓝芯片可以更紧密地排布，减少传统封装带来的体积、光路和组装限制。在画质指标方面，首",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-11-26",
+      "score": 0.7775
+    },
+    {
+      "title": "‘It’s been really a mess’: Meta insiders concerned over push to AI content moderation",
+      "url": "https://www.theguardian.com/technology/2026/nov/25/meta-insiders-concerned-push-to-ai-content-moderation",
+      "summary": "Several employees say rapid speed at which algorithms work means mistakes can happen at greater scaleMeta employees have expressed concern at the company’s push to replace human moderators with artificial intelligence, claiming the technology is leading to mistakes with the potential for sweeping political consequences.The social media company, which owns Facebook and Instagram, has been experimenting with AI-driven moderation for years, first introducing it in 2017 to filter out violent extremi",
+      "short_summary": "Several employees say rapid speed at which algorithms work m",
+      "detail": "Several employees say rapid speed at which algorithms work means mistakes can happen at greater scaleMeta employees have expressed concern at the company’s push to replace human moderators with artificial intelligence, claiming the technology is leading to mistakes with the potential for sweeping political consequences.The social media company, which owns Facebook and Instagram, has been experimenting with AI-driven moderation for years, first introducing it in 2017 to filter out violent extremi",
       "source": "The Guardian",
       "source_authority": 0.85,
       "date": "2026-11-25",
-      "score": 0.8325
+      "score": 0.6975
     },
     {
-      "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion",
-      "url": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
-      "summary": "Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House–backed return as Nvidia's CEO and board member, could prove a giant mistake, exposing the directors to \"historic\" personal liability from a growing pile of lawsuits and raising the question of whether the country is celebrating a company that has helped put advanced chips in its adversaries' hands.",
-      "short_summary": "Yale's Jeffrey Sonnenfeld warns that what the market cheered",
-      "detail": "Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House–backed return as Nvidia's CEO and board member, could prove a giant mistake, exposing the directors to \"historic\" personal liability from a growing pile of lawsuits and raising the question of whether the country is celebrating a company that has helped put advanced chips in its adversaries' hands.",
+      "title": "The questions Jensen Huang and Nvidia will still have to answer about Megaspeed",
+      "url": "https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/",
+      "summary": "The central question for investigators is what Nvidia knew about where those chips ended up and whether Huang's affair with a Megaspeed executive gave the company reason to doubt Megaspeed's assurances.",
+      "short_summary": "The central question for investigators is what Nvidia knew a",
+      "detail": "The central question for investigators is what Nvidia knew about where those chips ended up and whether Huang's affair with a Megaspeed executive gave the company reason to doubt Megaspeed's assurances.",
       "source": "TechCrunch",
       "source_authority": 0.95,
       "date": "2026-11-25",
-      "score": 0.7975
+      "score": 0.695
     },
     {
-      "title": "Mamdani says Nvidia drama shows stock market is overly dependent on AI",
-      "url": "https://www.theguardian.com/us-news/2026/nov/24/mamdani-nvidia-stock-market-ai",
-      "summary": "New York City mayor notes ‘massive impact’ on working Americans’ lives when Jensen Huang stepped down as CEOZohran Mamdani, New York City’s mayor, on Monday weighed in on the corporate turbulence surrounding Nvidia and the chipmaker’s chief executive officer, Jensen Huang, saying he does not think working Americans “signed up for their pensions being tied to the question of … Huang’s fidelity to his marriage”.The mayor said Huang “had a massive impact”, with Nvidia’s share price dropping dramati",
-      "short_summary": "New York City mayor notes ‘massive impact’ on working Americ",
-      "detail": "New York City mayor notes ‘massive impact’ on working Americans’ lives when Jensen Huang stepped down as CEOZohran Mamdani, New York City’s mayor, on Monday weighed in on the corporate turbulence surrounding Nvidia and the chipmaker’s chief executive officer, Jensen Huang, saying he does not think working Americans “signed up for their pensions being tied to the question of … Huang’s fidelity to his marriage”.The mayor said Huang “had a massive impact”, with Nvidia’s share price dropping dramati",
-      "source": "The Guardian",
+      "title": "AI data centers are becoming harder to build, and neoclouds are feeling it",
+      "url": "https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it/",
+      "summary": "⁠Nvidia has made clear⁠ it won’t backstop an AI data center until it’s nearly ready to run, and that’s landing just as neoclouds report construction delays and more expensive debt. The message to developers is that land, power, and a finished building matter more than a pitch deck.  ⁠Anita Verma-Lallian⁠ has been selling exactly that. […]",
+      "short_summary": "⁠Nvidia has made clear⁠ it won’t backstop an AI data center ",
+      "detail": "⁠Nvidia has made clear⁠ it won’t backstop an AI data center until it’s nearly ready to run, and that’s landing just as neoclouds report construction delays and more expensive debt. The message to developers is that land, power, and a finished building matter more than a pitch deck.  ⁠Anita Verma-Lallian⁠ has been selling exactly that. […]",
+      "source": "TechCrunch",
+      "source_authority": 0.95,
+      "date": "2026-11-25",
+      "score": 0.67
+    },
+    {
+      "title": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
+      "url": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
+      "summary": "Most codes of conduct serve as a reflection of corporate culture. In Nvidia's case, that could have consequences.",
+      "short_summary": "Most codes of conduct serve as a reflection of corporate cul",
+      "detail": "Most codes of conduct serve as a reflection of corporate culture. In Nvidia's case, that could have consequences.",
+      "source": "TechCrunch",
+      "source_authority": 0.95,
+      "date": "2026-11-26",
+      "score": 0.655
+    },
+    {
+      "title": "算力唤醒真实世界：九章云极发布物理AI工厂与生态开放计划",
+      "url": "https://www.qbitai.com/2026/11/512582.html",
+      "summary": "11月25日，以“算力唤醒真实世界”为主题的2026物理AI行业峰会暨九章云极智算生态大会在深圳举行。",
+      "short_summary": "11月25日，以“算力唤醒真实世界”为主题的2026物理AI行业峰会暨九章云极智算生态大会在深圳举行。",
+      "detail": "11月25日，以“算力唤醒真实世界”为主题的2026物理AI行业峰会暨九章云极智算生态大会在深圳举行。",
+      "source": "量子位",
       "source_authority": 0.85,
-      "date": "2026-11-24",
-      "score": 0.7875
-    },
-    {
-      "title": "Blanche Downplays Questions Over Nvidia as Investigators Examine Company’s Customers",
-      "url": "https://www.nytimes.com/2026/11/24/us/politics/nvidia-justice-department-todd-blanche.html",
-      "summary": "Justice Department investigators have gathered evidence of Nvidia’s high-powered computer chips being illegally diverted by other firms to China, according to people familiar with the inquiries.",
-      "short_summary": "Justice Department investigators have gathered evidence of N",
-      "detail": "Justice Department investigators have gathered evidence of Nvidia’s high-powered computer chips being illegally diverted by other firms to China, according to people familiar with the inquiries.",
-      "source": "NYT",
-      "source_authority": 0.9,
       "date": "2026-11-25",
-      "score": 0.76
-    },
-    {
-      "title": "Jensen Huang reportedly tells Nvidia staff it&#8217;s ‘not true’ Trump got him rehired",
-      "url": "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology",
-      "summary": "Nvidia CEO Jensen Huang apologized to staff during his first all-hands since returning to the company, while attempting to distance himself from the narrative that the White House and tech leaders helped him get his job back, according to reports from Bloomberg, The New York Times, and The Handbasket's Marisa Kabas. During the meeting, Huang […]",
-      "short_summary": "Nvidia CEO Jensen Huang apologized to staff during his first",
-      "detail": "Nvidia CEO Jensen Huang apologized to staff during his first all-hands since returning to the company, while attempting to distance himself from the narrative that the White House and tech leaders helped him get his job back, according to reports from Bloomberg, The New York Times, and The Handbasket's Marisa Kabas. During the meeting, Huang […]",
-      "source": "The Verge",
-      "source_authority": 0.9,
-      "date": "2026-11-25",
-      "score": 0.7475
-    },
-    {
-      "title": "Jensen Huang deepfakes are the hot new AI slop",
-      "url": "https://www.theverge.com/tech/1041222/jensen-huang-nvidia-scandal-deepfakes",
-      "summary": "Jensen Huang is partying it up in Ibiza. In a video with nearly 6 million views on Instagram, the former CEO of Nvidia is dancing in a crowded club, champagne glass in hand, still wearing his signature black leather jacket. Suddenly, from behind him, Alice Huang - the Chinese technology executive and suspected spy he […]",
-      "short_summary": "Jensen Huang is partying it up in Ibiza. In a video with nea",
-      "detail": "Jensen Huang is partying it up in Ibiza. In a video with nearly 6 million views on Instagram, the former CEO of Nvidia is dancing in a crowded club, champagne glass in hand, still wearing his signature black leather jacket. Suddenly, from behind him, Alice Huang - the Chinese technology executive and suspected spy he […]",
-      "source": "The Verge",
-      "source_authority": 0.9,
-      "date": "2026-11-25",
-      "score": 0.7475
+      "score": 0.65
     }
   ],
   "category4": [
     {
-      "title": "小鹏 IRON 人形机器人官宣明年 Q2 正式对外发布，Q1 率先在小鹏国内门店实习",
-      "url": "https://www.ithome.com/1/032/194.htm",
-      "summary": "IT之家 11 月 25 日现场消息，在今日的「Origin 原点」2026 小鹏科技日活动中，小鹏集团董事长、CEO 何小鹏宣布，小鹏高阶通用人形机器人 IRON 将于 2027 年第一季度开始实习，将作为导购率先进入小鹏国内的门店实习。此外，小鹏 IRON 未来将解锁更多能力，进入更多场景进行工作。IT之家在发布会现场了解到，小鹏 IRON 正在进入上市准备的最后阶段，计划 2027 年 1 月进入硬件量产，2027 年第二季度正式对外发布。何小鹏还展望了未来的人形机器人商业模式，表示将来一定会有软件订阅、Token 订阅的收费模型，让 IRON 可以不断学习新的技能。何小鹏表示，也希望通过小鹏的 skills 商店、模型商店模式，让更多的合作伙伴获利。相关阅读：《小鹏高阶通用人形机器人 IRON 真机亮相：再秀自然步伐，全身 76 自由度，不同部位软硬度不同》",
-      "short_summary": "IT之家 11 月 25 日现场消息，在今日的「Origin 原点」2026 小鹏科技日活动中，小鹏集团董事长、CEO ",
-      "detail": "IT之家 11 月 25 日现场消息，在今日的「Origin 原点」2026 小鹏科技日活动中，小鹏集团董事长、CEO 何小鹏宣布，小鹏高阶通用人形机器人 IRON 将于 2027 年第一季度开始实习，将作为导购率先进入小鹏国内的门店实习。此外，小鹏 IRON 未来将解锁更多能力，进入更多场景进行工作。IT之家在发布会现场了解到，小鹏 IRON 正在进入上市准备的最后阶段，计划 2027 年 1 月进入硬件量产，2027 年第二季度正式对外发布。何小鹏还展望了未来的人形机器人商业模式，表示将来一定会有软件订阅、Token 订阅的收费模型，让 IRON 可以不断学习新的技能。何小鹏表示，也希望通过小鹏的 skills 商店、模型商店模式，让更多的合作伙伴获利。相关阅读：《小鹏高阶通用人形机器人 IRON 真机亮相：再秀自然步伐，全身 76 自由度，不同部位软硬度不同》",
+      "title": "马斯克质疑称多数机器人演示是摆拍，Figure 接招用 41 秒视频回击",
+      "url": "https://www.ithome.com/1/032/739.htm",
+      "summary": "IT之家 11 月 26 日消息，人形机器人公司 Figure 于 11 月 24 日回应马斯克的“摆拍、预先编程”质疑，发布一段 41 秒视频，展示 Figure 03 机器人在桌子被人为移动后，仍能重新定位并取回放在桌上的苹果。11 月 18 日在 TomorrowX 峰会上，马斯克表示目前多数人形机器人演示并非真正的自主运行，通常是经过事先安排和预编程，缺乏真实环境中的自主适应能力。他举例表示“让机器人去拿一个苹果，然后把桌子挪走，它就拿不到苹果了。”该测试可视为“环境变化泛化”测试，机器人不能只记住“苹果在某个固定坐标”，还要靠视觉感知、场景理解、重新规划路径和抓取策略，在桌子被移动后完成任务。马斯克还表示，特斯拉正在推进 Optimus 人形机器人，并计划在一两个月内展示一次未经摆拍、无需预编程动作的“真实”演示。针对这一说法，Figure 首席执行官布雷特 · 阿德科克“接招”，在 X 平台发布了 41 秒视频。画面中，Figure 03 先按指令从桌上拿起苹果，将苹果放回桌面；在桌子被移到新位置后，机器人再次接到取回苹果的指令，随后走向新位置并成功完成动作。IT之家附上相",
+      "short_summary": "IT之家 11 月 26 日消息，人形机器人公司 Figure 于 11 月 24 日回应马斯克的“摆拍、预先编程”质疑",
+      "detail": "IT之家 11 月 26 日消息，人形机器人公司 Figure 于 11 月 24 日回应马斯克的“摆拍、预先编程”质疑，发布一段 41 秒视频，展示 Figure 03 机器人在桌子被人为移动后，仍能重新定位并取回放在桌上的苹果。11 月 18 日在 TomorrowX 峰会上，马斯克表示目前多数人形机器人演示并非真正的自主运行，通常是经过事先安排和预编程，缺乏真实环境中的自主适应能力。他举例表示“让机器人去拿一个苹果，然后把桌子挪走，它就拿不到苹果了。”该测试可视为“环境变化泛化”测试，机器人不能只记住“苹果在某个固定坐标”，还要靠视觉感知、场景理解、重新规划路径和抓取策略，在桌子被移动后完成任务。马斯克还表示，特斯拉正在推进 Optimus 人形机器人，并计划在一两个月内展示一次未经摆拍、无需预编程动作的“真实”演示。针对这一说法，Figure 首席执行官布雷特 · 阿德科克“接招”，在 X 平台发布了 41 秒视频。画面中，Figure 03 先按指令从桌上拿起苹果，将苹果放回桌面；在桌子被移到新位置后，机器人再次接到取回苹果的指令，随后走向新位置并成功完成动作。IT之家附上相",
       "source": "ITHome",
       "source_authority": 0.75,
-      "date": "2026-11-25",
-      "score": 0.9225
+      "date": "2026-11-26",
+      "score": 0.86
     },
     {
-      "title": "行业首次：小鹏 IRON 人形机器人将亲自主持 2026 广州车展发布会",
-      "url": "https://www.ithome.com/1/032/263.htm",
-      "summary": "IT之家 11 月 25 日现场消息，在今日的「Origin 原点」2026 小鹏科技日活动中，小鹏集团董事长、CEO 何小鹏宣布，11 月 27 日 2026 广州车展，小鹏 IRON 人形机器人将亲自主持小鹏的发布会。何小鹏表示，这可能是历史上第一次由机器人在车展进行新车发布。IT之家查询 2026 广州车展参展信息了解到，小鹏集团登陆 2026 广州国际车展，展期 2026 年 11 月 27 日–12 月 6 日，地点为中国进出口商品交易会展馆 D 区 2 楼 17.2 馆 17203 展位。新车方面，小鹏 P7 全新车色「晨曦粉」本周正式亮相，预计将在 2026 广州国际车展进行展示。",
-      "short_summary": "IT之家 11 月 25 日现场消息，在今日的「Origin 原点」2026 小鹏科技日活动中，小鹏集团董事长、CEO ",
-      "detail": "IT之家 11 月 25 日现场消息，在今日的「Origin 原点」2026 小鹏科技日活动中，小鹏集团董事长、CEO 何小鹏宣布，11 月 27 日 2026 广州车展，小鹏 IRON 人形机器人将亲自主持小鹏的发布会。何小鹏表示，这可能是历史上第一次由机器人在车展进行新车发布。IT之家查询 2026 广州车展参展信息了解到，小鹏集团登陆 2026 广州国际车展，展期 2026 年 11 月 27 日–12 月 6 日，地点为中国进出口商品交易会展馆 D 区 2 楼 17.2 馆 17203 展位。新车方面，小鹏 P7 全新车色「晨曦粉」本周正式亮相，预计将在 2026 广州国际车展进行展示。",
-      "source": "ITHome",
-      "source_authority": 0.75,
-      "date": "2026-11-25",
-      "score": 0.8975
-    },
-    {
-      "title": "SoftBank acquires Marc Raibert’s Robotics and AI Institute",
-      "url": "https://www.therobotreport.com/softbank-acquires-marc-raiberts-robotics-and-ai-institute/",
-      "summary": "SoftBank has completed its acquisition of the Robotics and AI Institute from Hyundai Motor Group, expanding its robotics portfolio as the research organization looks to fill 24 open positions in Massachusetts and Switzerland.\nThe post SoftBank acquires Marc Raibert’s Robotics and AI Institute appeared first on The Robot Report.",
-      "short_summary": "SoftBank has completed its acquisition of the Robotics and A",
-      "detail": "SoftBank has completed its acquisition of the Robotics and AI Institute from Hyundai Motor Group, expanding its robotics portfolio as the research organization looks to fill 24 open positions in Massachusetts and Switzerland.\nThe post SoftBank acquires Marc Raibert’s Robotics and AI Institute appeared first on The Robot Report.",
+      "title": "How Vention is cutting factory programming from weeks to minutes",
+      "url": "https://www.therobotreport.com/how-vention-is-cutting-factory-programming-from-weeks-to-minutes/",
+      "summary": "Etienne Lacroix explains why AI deployment—not just better models—will define the future of industrial automation.\nThe post How Vention is cutting factory programming from weeks to minutes appeared first on The Robot Report.",
+      "short_summary": "Etienne Lacroix explains why AI deployment—not just better m",
+      "detail": "Etienne Lacroix explains why AI deployment—not just better models—will define the future of industrial automation.\nThe post How Vention is cutting factory programming from weeks to minutes appeared first on The Robot Report.",
       "source": "The Robot Report",
       "source_authority": 0.85,
-      "date": "2026-11-24",
-      "score": 0.8125
-    },
-    {
-      "title": "Robotics Summit 2027 opens call for speakers",
-      "url": "https://www.therobotreport.com/robotics-summit-2027-opens-call-for-speakers/",
-      "summary": "The Robotics Summit & Expo returns to Boston June 2-3, 2027 with deepened coverage, an expanded expo floor, and more.\nThe post Robotics Summit 2027 opens call for speakers appeared first on The Robot Report.",
-      "short_summary": "The Robotics Summit & Expo returns to Boston June 2-3, 2027 ",
-      "detail": "The Robotics Summit & Expo returns to Boston June 2-3, 2027 with deepened coverage, an expanded expo floor, and more.\nThe post Robotics Summit 2027 opens call for speakers appeared first on The Robot Report.",
-      "source": "The Robot Report",
-      "source_authority": 0.85,
-      "date": "2026-11-25",
+      "date": "2026-11-26",
       "score": 0.775
+    },
+    {
+      "title": "FCC should focus on robot security, not country of origin",
+      "url": "https://www.therobotreport.com/fcc-should-focus-on-robot-security-not-country-of-origin/",
+      "summary": "Where a robot was assembled tells you little about who controls it once it's deployed, writes Brain Corp CEO David Pinn.\nThe post FCC should focus on robot security, not country of origin appeared first on The Robot Report.",
+      "short_summary": "Where a robot was assembled tells you little about who contr",
+      "detail": "Where a robot was assembled tells you little about who controls it once it's deployed, writes Brain Corp CEO David Pinn.\nThe post FCC should focus on robot security, not country of origin appeared first on The Robot Report.",
+      "source": "The Robot Report",
+      "source_authority": 0.85,
+      "date": "2026-11-26",
+      "score": 0.775
+    },
+    {
+      "title": "奇瑞艾瑞泽 7 将推出纯电版，已完成工信部申报",
+      "url": "https://www.ithome.com/1/032/682.htm",
+      "summary": "IT之家 11 月 26 日消息，工信部昨晚发布第 414 批《道路机动车辆生产企业及产品公告》新产品公示，奇瑞艾瑞泽 7 纯电版完成申报。本次申报的艾瑞泽 7 纯电版为奇瑞牌纯电动轿车，由奇瑞汽车股份有限公司生产，车身长宽高分别为 4765mm / 4722mm、1850mm、1497mm，轴距为 2770mm，整备质量为 1650kg / 1699kg，总质量为 2100kg / 2149kg，额定载客人数为 5 人，最高车速可达 180km/h。IT之家注意到，该车轮胎规格提供 215/50R17、215/55R17 两种选择，配备防抱死制动系统，由上海利氪科技有限公司提供，同时标配汽车事件数据记录系统（EDR），并可选装 ETC 车载装置。外观方面，车尾印有 ARRIZO 7 标识，中央为 CHERY 品牌英文标识，后包围配备装饰性排气布局，整体风格简洁大气。选装配置方面，该车可选装前保装饰罩、前雷达、前摄像头、后保装饰罩、后背门、后雷达、哑光黑车窗装饰条、鲨鱼鳍天线、激光雷达、后周视摄像头、轮辋装饰罩、外后视镜摄像头、终身质保标、前侧雷达、侧周视摄像头、侧装饰件、后侧雷达，还",
+      "short_summary": "IT之家 11 月 26 日消息，工信部昨晚发布第 414 批《道路机动车辆生产企业及产品公告》新产品公示，奇瑞艾瑞泽 ",
+      "detail": "IT之家 11 月 26 日消息，工信部昨晚发布第 414 批《道路机动车辆生产企业及产品公告》新产品公示，奇瑞艾瑞泽 7 纯电版完成申报。本次申报的艾瑞泽 7 纯电版为奇瑞牌纯电动轿车，由奇瑞汽车股份有限公司生产，车身长宽高分别为 4765mm / 4722mm、1850mm、1497mm，轴距为 2770mm，整备质量为 1650kg / 1699kg，总质量为 2100kg / 2149kg，额定载客人数为 5 人，最高车速可达 180km/h。IT之家注意到，该车轮胎规格提供 215/50R17、215/55R17 两种选择，配备防抱死制动系统，由上海利氪科技有限公司提供，同时标配汽车事件数据记录系统（EDR），并可选装 ETC 车载装置。外观方面，车尾印有 ARRIZO 7 标识，中央为 CHERY 品牌英文标识，后包围配备装饰性排气布局，整体风格简洁大气。选装配置方面，该车可选装前保装饰罩、前雷达、前摄像头、后保装饰罩、后背门、后雷达、哑光黑车窗装饰条、鲨鱼鳍天线、激光雷达、后周视摄像头、轮辋装饰罩、外后视镜摄像头、终身质保标、前侧雷达、侧周视摄像头、侧装饰件、后侧雷达，还",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-11-26",
+      "score": 0.695
+    },
+    {
+      "title": "A Man in Denver Has Been Throwing Eggs at Waymo Vehicles",
+      "url": "https://www.nytimes.com/2026/11/25/us/waymo-denver-egg-throwing.html",
+      "summary": "The man, who drove a Toyota Corolla from a fleet leased to Lyft drivers, used orange cones to trap the self-driving vehicles before pelting them with eggs, the police said. No charges have been filed.",
+      "short_summary": "The man, who drove a Toyota Corolla from a fleet leased to L",
+      "detail": "The man, who drove a Toyota Corolla from a fleet leased to Lyft drivers, used orange cones to trap the self-driving vehicles before pelting them with eggs, the police said. No charges have been filed.",
+      "source": "NYT",
+      "source_authority": 0.9,
+      "date": "2026-11-26",
+      "score": 0.685
+    },
+    {
+      "title": "零基础也能做开发，智元灵心平台一年孵化超3万个机器人智能体",
+      "url": "https://www.qbitai.com/2026/11/512715.html",
+      "summary": "智元推出行业首个开放且完整的具身智能生态技术体系AIMA",
+      "short_summary": "智元推出行业首个开放且完整的具身智能生态技术体系AIMA",
+      "detail": "智元推出行业首个开放且完整的具身智能生态技术体系AIMA",
+      "source": "量子位",
+      "source_authority": 0.85,
+      "date": "2026-11-25",
+      "score": 0.61
     }
   ]
 }
