@@ -2,15 +2,26 @@
   "date": "2026-11-26",
   "category1": [
     {
-      "title": "Anthropic 掌门人阿莫迪怒斥“人类将控制权交给 AI”说法荒谬，讽刺某些对手口是心非",
-      "url": "https://www.ithome.com/1/032/655.htm",
-      "summary": "IT之家 11 月 26 日消息，Anthropic 首席执行官达里奥 · 阿莫迪（Dario Amodei）今天（11 月 26 日）在 X 平台发布推文，公开否认外界对其“主张人类应向 AI 交出自由意志”的指控，称这种说法“荒谬”。他在社交平台 X 上发布长文表示，AI 必须接受合法的民主程序治理，人类不应为了效率或安全而牺牲合法性与自主决定权，并强调将治理权交给 AI 是“糟糕的主意”。IT之家援引 TechCrunch 报道，这场争论的背景，是关于“AI 替人干活”与“AI 替人做主”之间的界限在哪里？一方认为，只要人类保留监督和最终决定权，任务层面的自动化就是技术进步；另一方则担心，当自动化从具体任务扩展到研发、治理乃至社会运行，人类控制权会被逐步稀释。OpenAI 首席执行官萨姆 · 奥尔特曼（Sam Altman）表示，必须确保人类继续拥有“对未来的自主权”，不能让 AI 在发展方向和关键选择上取代人类。Meta 首席人工智能官亚历山大 · 王（Alexandr Wang）也撰文称，人类不应接受社会被“移交”给人工智能。他认为，随着人工智能能力快速提升，安全、对齐与保障",
-      "short_summary": "IT之家 11 月 26 日消息，Anthropic 首席执行官达里奥 · 阿莫迪（Dario Amodei）今天（11",
-      "detail": "IT之家 11 月 26 日消息，Anthropic 首席执行官达里奥 · 阿莫迪（Dario Amodei）今天（11 月 26 日）在 X 平台发布推文，公开否认外界对其“主张人类应向 AI 交出自由意志”的指控，称这种说法“荒谬”。他在社交平台 X 上发布长文表示，AI 必须接受合法的民主程序治理，人类不应为了效率或安全而牺牲合法性与自主决定权，并强调将治理权交给 AI 是“糟糕的主意”。IT之家援引 TechCrunch 报道，这场争论的背景，是关于“AI 替人干活”与“AI 替人做主”之间的界限在哪里？一方认为，只要人类保留监督和最终决定权，任务层面的自动化就是技术进步；另一方则担心，当自动化从具体任务扩展到研发、治理乃至社会运行，人类控制权会被逐步稀释。OpenAI 首席执行官萨姆 · 奥尔特曼（Sam Altman）表示，必须确保人类继续拥有“对未来的自主权”，不能让 AI 在发展方向和关键选择上取代人类。Meta 首席人工智能官亚历山大 · 王（Alexandr Wang）也撰文称，人类不应接受社会被“移交”给人工智能。他认为，随着人工智能能力快速提升，安全、对齐与保障",
+      "title": "商汤开源机器人操作视觉语言模型 SenseNova-RoboRSI-27B 正式版，RoboDojo 评测得分超 GPT-6 Astra",
+      "url": "https://www.ithome.com/1/032/887.htm",
+      "summary": "IT之家 11 月 26 日消息，商汤科技昨日发布面向机器人操作的视觉语言模型 SenseNova-RoboRSI-27B 正式版。据介绍，相较于 Preview 版本主要依赖视觉语言动作模型（VLA）执行任务，正式版能够自主判断何时调用 VLA、何时通过代码直接控制机械臂，并根据实际执行反馈调整动作策略。官方表示，在知名机器人仿真榜单 RoboDojo 最新版评测中，模型取得 34.7 分的平均成绩，较 Preview 版本的 10.0 分提升至原来的 3.47 倍，以 27B 的模型体量超越 RoboDojo 官方团队测试的 GPT-6 Astra 的成绩。相关演示图片如下：▲ 模型通过 Code as Policy 控制局部动作，包括按物体朝向抓取、侧推 T 形块、双臂对准衣摆两角，以及对准孔位后分步下探。▲ 模型通过多视角观测获取目标位置，并在执行过程中根据反馈重新定位、调整动作，实现自主纠错。SenseNova-RoboRSI-27B 采用 Apache License 2.0，IT之家附相关链接：GitHub：https://github.com/OpenSenseNova",
+      "short_summary": "IT之家 11 月 26 日消息，商汤科技昨日发布面向机器人操作的视觉语言模型 SenseNova-RoboRSI-27",
+      "detail": "IT之家 11 月 26 日消息，商汤科技昨日发布面向机器人操作的视觉语言模型 SenseNova-RoboRSI-27B 正式版。据介绍，相较于 Preview 版本主要依赖视觉语言动作模型（VLA）执行任务，正式版能够自主判断何时调用 VLA、何时通过代码直接控制机械臂，并根据实际执行反馈调整动作策略。官方表示，在知名机器人仿真榜单 RoboDojo 最新版评测中，模型取得 34.7 分的平均成绩，较 Preview 版本的 10.0 分提升至原来的 3.47 倍，以 27B 的模型体量超越 RoboDojo 官方团队测试的 GPT-6 Astra 的成绩。相关演示图片如下：▲ 模型通过 Code as Policy 控制局部动作，包括按物体朝向抓取、侧推 T 形块、双臂对准衣摆两角，以及对准孔位后分步下探。▲ 模型通过多视角观测获取目标位置，并在执行过程中根据反馈重新定位、调整动作，实现自主纠错。SenseNova-RoboRSI-27B 采用 Apache License 2.0，IT之家附相关链接：GitHub：https://github.com/OpenSenseNova",
       "source": "ITHome",
       "source_authority": 0.75,
       "date": "2026-11-26",
-      "score": 0.9475
+      "score": 0.8975
+    },
+    {
+      "title": "德国一消费者保护中心起诉 OpenAI，称 ChatGPT 订阅容易取消难",
+      "url": "https://www.ithome.com/1/032/888.htm",
+      "summary": "IT之家 11 月 26 日消息，据科技媒体 ComputerBase 今天报道，德国勃兰登堡消费者保护中心现已对 OpenAI 提起诉讼，原因是 ChatGPT 订阅服务的取消流程过于繁琐。勃兰登堡消费者中心法律事务顾问 Dunja Neukamp 表示，要给 ChatGPT 开通订阅服务非常简单，只需要点几下按钮。然而反过来要取消，就没有那么简单。用户必须通过最初开通订阅的平台管理订阅服务，例如用电脑网页订阅的话，就无法用手机 App 取消。该机构认为，OpenAI 并没有给退订留出足够的透明度，且这种做法不符合德国法律要求。此外，该消费者组织还对 OpenAI 用户合同中的“需要时可以单方面调整订阅价格”提出质疑。他们认为这种条款不具备法律效力，因为 OpenAI 没有充分说明调整价格的合理依据。例如条款并未明确规定，只有在实际运营成本上涨时才能提高价格。",
+      "short_summary": "IT之家 11 月 26 日消息，据科技媒体 ComputerBase 今天报道，德国勃兰登堡消费者保护中心现已对 Op",
+      "detail": "IT之家 11 月 26 日消息，据科技媒体 ComputerBase 今天报道，德国勃兰登堡消费者保护中心现已对 OpenAI 提起诉讼，原因是 ChatGPT 订阅服务的取消流程过于繁琐。勃兰登堡消费者中心法律事务顾问 Dunja Neukamp 表示，要给 ChatGPT 开通订阅服务非常简单，只需要点几下按钮。然而反过来要取消，就没有那么简单。用户必须通过最初开通订阅的平台管理订阅服务，例如用电脑网页订阅的话，就无法用手机 App 取消。该机构认为，OpenAI 并没有给退订留出足够的透明度，且这种做法不符合德国法律要求。此外，该消费者组织还对 OpenAI 用户合同中的“需要时可以单方面调整订阅价格”提出质疑。他们认为这种条款不具备法律效力，因为 OpenAI 没有充分说明调整价格的合理依据。例如条款并未明确规定，只有在实际运营成本上涨时才能提高价格。",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-11-26",
+      "score": 0.86
     },
     {
       "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
@@ -35,11 +46,11 @@
       "score": 0.82
     },
     {
-      "title": "荣耀 Life 45W 20000mAh 新国标充电宝上架，自带线设计",
-      "url": "https://www.ithome.com/1/032/620.htm",
-      "summary": "IT之家 11 月 26 日消息，荣耀 HONOR Life 45W 20000mAh 新国标充电宝现已在京东上架。新品采用自带线设计，支持 45W MAX 快充，价格未公布，11 月 30 日开售。据介绍，这款充电宝提供星光白、幻夜黑两种配色，最高输出功率可达 45W，可在 30 分钟内给荣耀 Magic8 Pro 充入 61% 电量，支持 45W 自充，兼容 PD3.0、PPS、QC3.0 等主流协议。同时，该充电器支持边充边放和小电流模式。容量为 20000mAh 可上飞机，自带 USB-C 编织线，还带有 1 个 USB-C 接口和 1 个 USB-A 接口。此外，该充电宝配备智能数显屏幕，通过新国标 3C 认证，支持连接电脑查看电池信息、异常充电记录等。IT之家附该充电宝详细参数如下：目前该产品已在京东上架，价格未公布。京东荣耀 HONOR Life 45W 20000mAh 新国标充电宝待公布直达链接",
-      "short_summary": "IT之家 11 月 26 日消息，荣耀 HONOR Life 45W 20000mAh 新国标充电宝现已在京东上架。新品",
-      "detail": "IT之家 11 月 26 日消息，荣耀 HONOR Life 45W 20000mAh 新国标充电宝现已在京东上架。新品采用自带线设计，支持 45W MAX 快充，价格未公布，11 月 30 日开售。据介绍，这款充电宝提供星光白、幻夜黑两种配色，最高输出功率可达 45W，可在 30 分钟内给荣耀 Magic8 Pro 充入 61% 电量，支持 45W 自充，兼容 PD3.0、PPS、QC3.0 等主流协议。同时，该充电器支持边充边放和小电流模式。容量为 20000mAh 可上飞机，自带 USB-C 编织线，还带有 1 个 USB-C 接口和 1 个 USB-A 接口。此外，该充电宝配备智能数显屏幕，通过新国标 3C 认证，支持连接电脑查看电池信息、异常充电记录等。IT之家附该充电宝详细参数如下：目前该产品已在京东上架，价格未公布。京东荣耀 HONOR Life 45W 20000mAh 新国标充电宝待公布直达链接",
+      "title": "让 Hy4 flash 吐字提速 4.2 倍，腾讯混元开源新一代草稿模型 DFly2",
+      "url": "https://www.ithome.com/1/032/929.htm",
+      "summary": "IT之家 11 月 26 日消息，腾讯混元团队今日开源新一代草稿模型 DFly2。官方表示，DFly2 不替换 Hy4 flash，作用更像是挂在旁边的加速组件，可以在保持模型权重不变、输出不变的前提下，让模型吐字速度成倍提升。DFly2 专为 DSA 类稀疏注意力大模型和长上下文场景设计，适配 Hy4 flash 的权重及完整训练代码同步开源。据介绍，DFly2 实现了：同等训练条件下表现更优：Hy4 flash 在 19 个公开评测集上，DFly2 的接收长度与加速比整体优于 DFlash 与 DSpark，长文与 Agentic 优势更明显，平均加速比较 DSpark 分别高约 12% 与 30%，单项最高提速 4.2×。对比开源方案同样占优：与主流开源模型自带的 DSpark 相比，Hy4 flash 的 DFly2 在 Agentic 与真实任务（WorkBuddy）上接收长度领先 10.4% 。官方表示，DFly2 最大的亮点是极致复用目标模型：每个 draft 层直接共享目标模型对应稀疏注意力层的  KV cache（KV Share）和 indexer 选出的至多 2,",
+      "short_summary": "IT之家 11 月 26 日消息，腾讯混元团队今日开源新一代草稿模型 DFly2。官方表示，DFly2 不替换 Hy4 ",
+      "detail": "IT之家 11 月 26 日消息，腾讯混元团队今日开源新一代草稿模型 DFly2。官方表示，DFly2 不替换 Hy4 flash，作用更像是挂在旁边的加速组件，可以在保持模型权重不变、输出不变的前提下，让模型吐字速度成倍提升。DFly2 专为 DSA 类稀疏注意力大模型和长上下文场景设计，适配 Hy4 flash 的权重及完整训练代码同步开源。据介绍，DFly2 实现了：同等训练条件下表现更优：Hy4 flash 在 19 个公开评测集上，DFly2 的接收长度与加速比整体优于 DFlash 与 DSpark，长文与 Agentic 优势更明显，平均加速比较 DSpark 分别高约 12% 与 30%，单项最高提速 4.2×。对比开源方案同样占优：与主流开源模型自带的 DSpark 相比，Hy4 flash 的 DFly2 在 Agentic 与真实任务（WorkBuddy）上接收长度领先 10.4% 。官方表示，DFly2 最大的亮点是极致复用目标模型：每个 draft 层直接共享目标模型对应稀疏注意力层的  KV cache（KV Share）和 indexer 选出的至多 2,",
       "source": "ITHome",
       "source_authority": 0.75,
       "date": "2026-11-26",
@@ -55,17 +66,6 @@
       "source_authority": 0.9,
       "date": "2026-11-26",
       "score": 0.74
-    },
-    {
-      "title": "iSeeCars 报告：特斯拉 Cybertruck 成美国销售速度最快的二手皮卡",
-      "url": "https://www.ithome.com/1/032/613.htm",
-      "summary": "IT之家 11 月 26 日消息，汽车研究平台 iSeeCars.com 近日发布研究报告，分析美国 2026 年 10 月超 110 万辆车龄 1-5 年的二手车销售数据，按照动力系统、车型类别和具体车型，统计车辆从上市到售出的平均天数。该报告显示，特斯拉 Cybertruck 是美国销售速度最快的二手皮卡，平均挂牌 39.1 天就能卖出，而所有皮卡的平均销售周期为 65.5 天。Cybertruck 的销售速度超过了其他所有皮卡，包括排名第二的福特 Maverick Hybrid 混动皮卡，以及排名第三的 Rivian R1T。从平均挂牌销售天数来看，纯电动车甚至已经超过了混合动力汽车。纯电动车的平均销售周期为 45.6 天，混合动力汽车为 54.5 天，汽油车则为 61 天。IT之家注意到，凯迪拉克 Escalade IQ 是此次调查中销售速度最慢的车型，平均挂牌销售时间达到 134.3 天，是整个汽车行业平均水平的两倍以上。此外该平台表示，Cybertruck 在停产以前就相对稀缺，因此市场需求被推动。目前进入二手车市场的主要是租赁车，与官方建议零售价相比，二手 Cybertr",
-      "short_summary": "IT之家 11 月 26 日消息，汽车研究平台 iSeeCars.com 近日发布研究报告，分析美国 2026 年 10",
-      "detail": "IT之家 11 月 26 日消息，汽车研究平台 iSeeCars.com 近日发布研究报告，分析美国 2026 年 10 月超 110 万辆车龄 1-5 年的二手车销售数据，按照动力系统、车型类别和具体车型，统计车辆从上市到售出的平均天数。该报告显示，特斯拉 Cybertruck 是美国销售速度最快的二手皮卡，平均挂牌 39.1 天就能卖出，而所有皮卡的平均销售周期为 65.5 天。Cybertruck 的销售速度超过了其他所有皮卡，包括排名第二的福特 Maverick Hybrid 混动皮卡，以及排名第三的 Rivian R1T。从平均挂牌销售天数来看，纯电动车甚至已经超过了混合动力汽车。纯电动车的平均销售周期为 45.6 天，混合动力汽车为 54.5 天，汽油车则为 61 天。IT之家注意到，凯迪拉克 Escalade IQ 是此次调查中销售速度最慢的车型，平均挂牌销售时间达到 134.3 天，是整个汽车行业平均水平的两倍以上。此外该平台表示，Cybertruck 在停产以前就相对稀缺，因此市场需求被推动。目前进入二手车市场的主要是租赁车，与官方建议零售价相比，二手 Cybertr",
-      "source": "ITHome",
-      "source_authority": 0.75,
-      "date": "2026-11-26",
-      "score": 0.7325
     },
     {
       "title": "The Download: AI swamping open records, and firefighting for permafrost",
@@ -114,33 +114,11 @@
       "score": 0.71
     },
     {
-      "title": "铠侠发布 XD20 移动固态硬盘新版固件，强烈建议用户更新",
-      "url": "https://www.ithome.com/1/032/662.htm",
-      "summary": "IT之家 11 月 26 日消息，KIOXIA（铠侠）本月 16 日发布公告：该企业已为 EXCERIA PLUS G2 (XD20) 移动固态硬盘发布新版本固件。此次固件更新旨在解决关键错误和 / 或提高 SSD 的可靠性和性能。铠侠强烈建议用户更新固件。对于现有固件版本为 UHFA20.1 或 UHFA20.2 的产品，新版固件为 UHFA20.5；对于现有固件版本为 UHFAC0.0 的产品，新版固件为 UHFAC0.1。IT之家了解到，铠侠 EXCERIA PLUS G2 (XD20) 移动固态硬盘于 2024 年发布，采用 USB 3.2 Gen 2 (10Gbps) Type-C 接口，拥有凹面铝制外壳。",
-      "short_summary": "IT之家 11 月 26 日消息，KIOXIA（铠侠）本月 16 日发布公告：该企业已为 EXCERIA PLUS G2",
-      "detail": "IT之家 11 月 26 日消息，KIOXIA（铠侠）本月 16 日发布公告：该企业已为 EXCERIA PLUS G2 (XD20) 移动固态硬盘发布新版本固件。此次固件更新旨在解决关键错误和 / 或提高 SSD 的可靠性和性能。铠侠强烈建议用户更新固件。对于现有固件版本为 UHFA20.1 或 UHFA20.2 的产品，新版固件为 UHFA20.5；对于现有固件版本为 UHFAC0.0 的产品，新版固件为 UHFAC0.1。IT之家了解到，铠侠 EXCERIA PLUS G2 (XD20) 移动固态硬盘于 2024 年发布，采用 USB 3.2 Gen 2 (10Gbps) Type-C 接口，拥有凹面铝制外壳。",
-      "source": "ITHome",
-      "source_authority": 0.75,
-      "date": "2026-11-26",
-      "score": 0.695
-    },
-    {
       "title": "Our ‘Paris manifesto’ proposes how to deal with extreme wealth in the AI age | Open letter",
       "url": "https://www.theguardian.com/commentisfree/2026/nov/25/paris-manifesto-open-letter-ai-oligarchy",
       "summary": "It is possible for democracy to reverse the dynamic of oligarchy. But we must act nowThe explosion of extreme wealth in the world is the defining social fact of our times.When Forbes magazine began ranking the world’s largest fortunes in 1987, the wealth of the richest 0.0001% of our planet’s population equaled 3% of global GDP. Since that time, the wealth held by this tiny group of people – just 3,000 households – has ballooned and now reaches 17% of global GDP. Continue reading...",
       "short_summary": "It is possible for democracy to reverse the dynamic of oliga",
       "detail": "It is possible for democracy to reverse the dynamic of oligarchy. But we must act nowThe explosion of extreme wealth in the world is the defining social fact of our times.When Forbes magazine began ranking the world’s largest fortunes in 1987, the wealth of the richest 0.0001% of our planet’s population equaled 3% of global GDP. Since that time, the wealth held by this tiny group of people – just 3,000 households – has ballooned and now reaches 17% of global GDP. Continue reading...",
-      "source": "The Guardian",
-      "source_authority": 0.85,
-      "date": "2026-11-25",
-      "score": 0.66
-    },
-    {
-      "title": "China-linked battery projects could receive UK funding despite security warnings",
-      "url": "https://www.theguardian.com/business/2026/nov/25/china-battery-projects-uk-funding-security-warnings",
-      "summary": "China-made lithium-ion batteries, which are relatively low-cost, dominate Ofgem project shortlistA string of battery projects linked to China are expected to be granted UK state subsidies despite deepening fears over the risk of foreign interference they could pose to Europe’s energy systems.Ofgem, Great Britain’s energy regulator, published a provisional shortlist for a new “long duration” energy storage scheme in June. The list was dominated by projects relying on lithium-ion batteries, which",
-      "short_summary": "China-made lithium-ion batteries, which are relatively low-c",
-      "detail": "China-made lithium-ion batteries, which are relatively low-cost, dominate Ofgem project shortlistA string of battery projects linked to China are expected to be granted UK state subsidies despite deepening fears over the risk of foreign interference they could pose to Europe’s energy systems.Ofgem, Great Britain’s energy regulator, published a provisional shortlist for a new “long duration” energy storage scheme in June. The list was dominated by projects relying on lithium-ion batteries, which",
       "source": "The Guardian",
       "source_authority": 0.85,
       "date": "2026-11-25",
@@ -169,40 +147,29 @@
       "score": 0.635
     },
     {
-      "title": "AI is forcing researchers to confront the possibility of artificial minds",
-      "url": "https://www.newscientist.com/article/2600589-ai-is-forcing-researchers-to-confront-the-possibility-of-artificial-minds/?utm_campaign=RSS|NSNS&utm_content=technology&utm_medium=RSS&utm_source=NSNS",
-      "summary": "Neuroscientists and philosophers met at a conference to discuss ‘exotic, mind-like entities’ – and how chatbots might be moulding our own minds",
-      "short_summary": "Neuroscientists and philosophers met at a conference to disc",
-      "detail": "Neuroscientists and philosophers met at a conference to discuss ‘exotic, mind-like entities’ – and how chatbots might be moulding our own minds",
-      "source": "New Scientist",
+      "title": "149 元：联想推出 thinkplus USB4 全功能伸缩数据线",
+      "url": "https://www.ithome.com/1/032/912.htm",
+      "summary": "IT之家 11 月 26 日消息，联想现已在官网上架 thinkplus USB4 全功能伸缩数据线，售价 149 元。该产品集成 PD3.2 240W 快充、20Gbps 数据传输及 4K@60Hz 视频输出。IT之家注意到，该产品采用鹅卵石造型收纳盒设计，拥有双向伸缩结构，线材使用 3D 双色编织工艺及 48 锭高密编织技术，可根据使用需求自由拉伸，提供 0.3 米、0.6 米、1 米及 1.2 米四种使用长度，USB-C 接头处采用抗弯折网尾设计。该数据线支持 PD3.2 快充，最高可承载 240W 充电功率，还支持至高 20Gbps 数据传输速率及至高 4K@60Hz 视频输出规格，线材内置 E-Marker 芯片，可向连接设备提供线缆能力信息，配合充电器和终端设备完成供电协商。",
+      "short_summary": "IT之家 11 月 26 日消息，联想现已在官网上架 thinkplus USB4 全功能伸缩数据线，售价 149 元。",
+      "detail": "IT之家 11 月 26 日消息，联想现已在官网上架 thinkplus USB4 全功能伸缩数据线，售价 149 元。该产品集成 PD3.2 240W 快充、20Gbps 数据传输及 4K@60Hz 视频输出。IT之家注意到，该产品采用鹅卵石造型收纳盒设计，拥有双向伸缩结构，线材使用 3D 双色编织工艺及 48 锭高密编织技术，可根据使用需求自由拉伸，提供 0.3 米、0.6 米、1 米及 1.2 米四种使用长度，USB-C 接头处采用抗弯折网尾设计。该数据线支持 PD3.2 快充，最高可承载 240W 充电功率，还支持至高 20Gbps 数据传输速率及至高 4K@60Hz 视频输出规格，线材内置 E-Marker 芯片，可向连接设备提供线缆能力信息，配合充电器和终端设备完成供电协商。",
+      "source": "ITHome",
       "source_authority": 0.75,
-      "date": "2026-11-25",
-      "score": 0.605
+      "date": "2026-11-26",
+      "score": 0.62
+    },
+    {
+      "title": "2026 年 12 月索尼 PS Plus 会免游戏公布，含《龙珠：超宇宙 2》等",
+      "url": "https://www.ithome.com/1/032/905.htm",
+      "summary": "IT之家 11 月 26 日消息，索尼 2026 年 12 月 PlayStation Plus 一档会免游戏阵容现已正式公布，分别为《托尼霍克职业滑板 3+4 跨世代版》PS4/PS5 版、《龙珠：超宇宙 2》PS4/PS5 版等，玩家可以在 12 月 1 日至 1 月 4 日领取。《托尼霍克职业滑板 3+4 跨世代版》PSN 页面：点此访问游戏价格：390 港币（IT之家注：现汇率约合 332.2 元人民币）《托尼霍克职业滑板 3+4》是由 Iron Galaxy 开发、动视发行的经典极限运动滑板游戏重制合集，于 2025 年正式推出。本次会免的跨世代版同时包含 PS4 与 PS5 两个版本，让不同世代主机的玩家都能畅享高清重制与流畅帧率带来的街头滑板体验。本作对系列游戏中备受赞誉的第三代与第四代作品进行了全面升级，不仅完整保留了爽快流畅的连招手感与震撼耳膜的经典配乐，还加入了更多滑板手阵容、全新设计的滑板公园以及更炫酷的特技动作。玩家可以在场地中重温限时挑战、收集目标与高难度连段的街机快感，也能在自由滑行中不断磨练技巧。《龙珠：超宇宙 2》PSN 港服页面：点此访问游戏价格：14",
+      "short_summary": "IT之家 11 月 26 日消息，索尼 2026 年 12 月 PlayStation Plus 一档会免游戏阵容现已正",
+      "detail": "IT之家 11 月 26 日消息，索尼 2026 年 12 月 PlayStation Plus 一档会免游戏阵容现已正式公布，分别为《托尼霍克职业滑板 3+4 跨世代版》PS4/PS5 版、《龙珠：超宇宙 2》PS4/PS5 版等，玩家可以在 12 月 1 日至 1 月 4 日领取。《托尼霍克职业滑板 3+4 跨世代版》PSN 页面：点此访问游戏价格：390 港币（IT之家注：现汇率约合 332.2 元人民币）《托尼霍克职业滑板 3+4》是由 Iron Galaxy 开发、动视发行的经典极限运动滑板游戏重制合集，于 2025 年正式推出。本次会免的跨世代版同时包含 PS4 与 PS5 两个版本，让不同世代主机的玩家都能畅享高清重制与流畅帧率带来的街头滑板体验。本作对系列游戏中备受赞誉的第三代与第四代作品进行了全面升级，不仅完整保留了爽快流畅的连招手感与震撼耳膜的经典配乐，还加入了更多滑板手阵容、全新设计的滑板公园以及更炫酷的特技动作。玩家可以在场地中重温限时挑战、收集目标与高难度连段的街机快感，也能在自由滑行中不断磨练技巧。《龙珠：超宇宙 2》PSN 港服页面：点此访问游戏价格：14",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-11-26",
+      "score": 0.62
     }
   ],
   "category3": [
-    {
-      "title": "铠侠与英伟达合作，探索如何将 GPU 有效显存扩展至 PB 级",
-      "url": "https://www.ithome.com/1/032/722.htm",
-      "summary": "IT之家 11 月 26 日消息，铠侠今日宣布与英伟达展开合作，启动面向 AI 应用的概念验证。该项目将利用英伟达 SCADA 软件，结合铠侠 SSD 的性能，探索如何将 GPU 的有效显存扩展至 PB 级。IT之家了解到，此次合作将在一套英伟达 GB200 NVL72 机架级系统上展开验证。该系统搭载 144 块容量为 7.68TB 的 KIOXIA XD8 系列 E1.S NVMe SSD，总容量约 1.106PB，双方将测试其处理由 2 万亿个向量构成的数据库能力。随着 AI 使用的数据不断扩大，如何让 GPU 显存变大已经成为一项挑战。仅依靠 HBM （高带宽内存）处理不断增长的数据集时，往往需要根据内存容量将工作负载拆分为更小的任务，并在内存与速度较慢的存储系统之间频繁传输数据。在此次概念验证中，双方将结合英伟达 SCADA 软件与铠侠高性能 NVMe SSD，验证 HBM 的内存限制能否突破，以及 AI 能否在生成内容时更高效地访问大规模数据集。英伟达 SCADA 软件是一套专门设计的软件库，能够通过 NVMe SSD 扩展 GPU 的有效内存容量，同时支持以较小数据块为单",
-      "short_summary": "IT之家 11 月 26 日消息，铠侠今日宣布与英伟达展开合作，启动面向 AI 应用的概念验证。该项目将利用英伟达 SC",
-      "detail": "IT之家 11 月 26 日消息，铠侠今日宣布与英伟达展开合作，启动面向 AI 应用的概念验证。该项目将利用英伟达 SCADA 软件，结合铠侠 SSD 的性能，探索如何将 GPU 的有效显存扩展至 PB 级。IT之家了解到，此次合作将在一套英伟达 GB200 NVL72 机架级系统上展开验证。该系统搭载 144 块容量为 7.68TB 的 KIOXIA XD8 系列 E1.S NVMe SSD，总容量约 1.106PB，双方将测试其处理由 2 万亿个向量构成的数据库能力。随着 AI 使用的数据不断扩大，如何让 GPU 显存变大已经成为一项挑战。仅依靠 HBM （高带宽内存）处理不断增长的数据集时，往往需要根据内存容量将工作负载拆分为更小的任务，并在内存与速度较慢的存储系统之间频繁传输数据。在此次概念验证中，双方将结合英伟达 SCADA 软件与铠侠高性能 NVMe SSD，验证 HBM 的内存限制能否突破，以及 AI 能否在生成内容时更高效地访问大规模数据集。英伟达 SCADA 软件是一套专门设计的软件库，能够通过 NVMe SSD 扩展 GPU 的有效内存容量，同时支持以较小数据块为单",
-      "source": "ITHome",
-      "source_authority": 0.75,
-      "date": "2026-11-26",
-      "score": 0.9625
-    },
-    {
-      "title": "降幅约 20%~35%：报告称马斯克 SpaceX 降价出租 AI 算力",
-      "url": "https://www.ithome.com/1/032/716.htm",
-      "summary": "IT之家 11 月 26 日消息，行业研究机构 SemiAnalysis 昨日（11 月 25 日）发布报告，称全球首富埃隆 · 马斯克（Elon Musk）旗下 SpaceX 公司正在下调其 AI 计算资源的租赁价格，其重要客户 Anthropic 是否续签约 5 万台 H200 GPU 的计算合同，也出现新的不确定性。报道称，SpaceX 已将面向小型计算集群的 Blackwell GPU 现货租赁报价，从每 GPU 小时约 15.0 至 15.5 美元（IT之家注：现汇率约合 100.2 至 103.5 元人民币），下调至 10 至 12 美元（现汇率约合 66.8 至 80.1 元人民币），降幅约为 20% 到 35%。IT之家援引博文介绍，所谓“现货租赁”，通常指客户按需租用算力，而非签订长期固定合同，因此价格变化更能直接反映短期供需状况。与此同时，该报告称 Anthropic 可能不会续约涉及约 5 万台 H200 GPU 的集群合同。此前 Anthropic 高管在与卖方分析师会面时曾表示，其与 SpaceX 的计算协议不会延长至 2027 年第二季度之后。不过，马斯克随",
-      "short_summary": "IT之家 11 月 26 日消息，行业研究机构 SemiAnalysis 昨日（11 月 25 日）发布报告，称全球首富",
-      "detail": "IT之家 11 月 26 日消息，行业研究机构 SemiAnalysis 昨日（11 月 25 日）发布报告，称全球首富埃隆 · 马斯克（Elon Musk）旗下 SpaceX 公司正在下调其 AI 计算资源的租赁价格，其重要客户 Anthropic 是否续签约 5 万台 H200 GPU 的计算合同，也出现新的不确定性。报道称，SpaceX 已将面向小型计算集群的 Blackwell GPU 现货租赁报价，从每 GPU 小时约 15.0 至 15.5 美元（IT之家注：现汇率约合 100.2 至 103.5 元人民币），下调至 10 至 12 美元（现汇率约合 66.8 至 80.1 元人民币），降幅约为 20% 到 35%。IT之家援引博文介绍，所谓“现货租赁”，通常指客户按需租用算力，而非签订长期固定合同，因此价格变化更能直接反映短期供需状况。与此同时，该报告称 Anthropic 可能不会续约涉及约 5 万台 H200 GPU 的集群合同。此前 Anthropic 高管在与卖方分析师会面时曾表示，其与 SpaceX 的计算协议不会延长至 2027 年第二季度之后。不过，马斯克随",
-      "source": "ITHome",
-      "source_authority": 0.75,
-      "date": "2026-11-26",
-      "score": 0.9375
-    },
     {
       "title": "FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space",
       "url": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers",
@@ -215,37 +182,37 @@
       "score": 0.9075
     },
     {
-      "title": "Chip Industry Technical Paper Roundup: Nov. 25",
-      "url": "https://semiengineering.com/chip-industry-technical-paper-roundup-nov-25-2/",
-      "summary": "Hybrid-bonded 3D NAND analog IMC; defect-aware chiplet matching for HI yield; HBF latency reduction for GPU systems; backside clock meshes for BSPDN; LLM-agent verification for post-quantum HW; self-supervised CMP virtual metrology; e-beam stitching losses in SOI waveguides.\nThe post Chip Industry Technical Paper Roundup: Nov. 25 appeared first on Semiconductor Engineering.",
-      "short_summary": "Hybrid-bonded 3D NAND analog IMC; defect-aware chiplet match",
-      "detail": "Hybrid-bonded 3D NAND analog IMC; defect-aware chiplet matching for HI yield; HBF latency reduction for GPU systems; backside clock meshes for BSPDN; LLM-agent verification for post-quantum HW; self-supervised CMP virtual metrology; e-beam stitching losses in SOI waveguides.\nThe post Chip Industry Technical Paper Roundup: Nov. 25 appeared first on Semiconductor Engineering.",
-      "source": "SemiEngineering",
-      "source_authority": 0.85,
-      "date": "2026-11-25",
-      "score": 0.825
-    },
-    {
-      "title": "全球首款 RGB 单芯片：首尔半导体量产新 LCD 背光技术，峰值 3000 尼特、覆盖 100% DCI-P3 色域",
-      "url": "https://www.ithome.com/1/032/614.htm",
-      "summary": "IT之家 11 月 26 日消息，首尔半导体株式会社（Seoul Semiconductor Co., Ltd.）昨日（11 月 25 日）发布公告，其子公司首尔威迅（Seoul Viosys）开发的全球首款 WICOP Pixel 技术已进入全面量产，并开始向全球电视厂商供货。在技术实现方面，WICOP Pixel 技术有别于自发光的 Micro LED 方案，不改变液晶面板本身，主要把传统“白光背光＋彩色滤光片”的方案，改为更精细、可独立控制的红、绿、蓝三色光源，从而提升液晶电视的色彩、亮度和寿命。该技术以数十微米级的超细间距排列红、绿、蓝三种发光芯片，并集成到同一个像素单元中。每种颜色可以独立驱动和控制，再通过精确混光，呈现数万种自然色彩。IT之家附上相关图片如下：WICOP 可视为“无封装芯片”，传统 LED 芯片通常需要单独封装，才能保护芯片、引出电极并方便安装；而 WICOP 则通过芯片级结构，让发光芯片无需独立封装即可像普通电子元件一样使用。对 WICOP Pixel 而言，这意味着红、绿、蓝芯片可以更紧密地排布，减少传统封装带来的体积、光路和组装限制。在画质指标方面，首",
-      "short_summary": "IT之家 11 月 26 日消息，首尔半导体株式会社（Seoul Semiconductor Co., Ltd.）昨日（",
-      "detail": "IT之家 11 月 26 日消息，首尔半导体株式会社（Seoul Semiconductor Co., Ltd.）昨日（11 月 25 日）发布公告，其子公司首尔威迅（Seoul Viosys）开发的全球首款 WICOP Pixel 技术已进入全面量产，并开始向全球电视厂商供货。在技术实现方面，WICOP Pixel 技术有别于自发光的 Micro LED 方案，不改变液晶面板本身，主要把传统“白光背光＋彩色滤光片”的方案，改为更精细、可独立控制的红、绿、蓝三色光源，从而提升液晶电视的色彩、亮度和寿命。该技术以数十微米级的超细间距排列红、绿、蓝三种发光芯片，并集成到同一个像素单元中。每种颜色可以独立驱动和控制，再通过精确混光，呈现数万种自然色彩。IT之家附上相关图片如下：WICOP 可视为“无封装芯片”，传统 LED 芯片通常需要单独封装，才能保护芯片、引出电极并方便安装；而 WICOP 则通过芯片级结构，让发光芯片无需独立封装即可像普通电子元件一样使用。对 WICOP Pixel 而言，这意味着红、绿、蓝芯片可以更紧密地排布，减少传统封装带来的体积、光路和组装限制。在画质指标方面，首",
+      "title": "JPR 数据：全球 PC GPU 出货量 2026Q3 环比下降 3.6%、同比下降 5.0%",
+      "url": "https://www.ithome.com/1/032/925.htm",
+      "summary": "IT之家 11 月 26 日消息，Jon Peddie Research 当地时间 23 日报告称，全球 PC GPU 出货量在 2026 年第 3 季度达到 7,280 万颗，环比下降 3.6%、同比下降 5.0%。该数据在历年三季度通常会环比增长。图源：Pexels从供应商角度，英特尔的 PC GPU 市场份额上升 2.6 个百分点、AMD 与英伟达各下跌 1.3% 左右；英特尔出货量增长 0.8%，另两家的跌幅在 9% 附近。而从平台来看，桌面 GPU 出货量环比增长 13%、移动端则下降 9.6%。整体客户端独立显卡出货量环比下降 8.4%、同比下降 11%；桌面端独立显卡出货环比下降 4%。其它数据方面，PC CPU 出货量环比下降 2.5% 至 6,140 万颗。台式机、笔电、工作站的整体 GPU 装机率为 118%，环比下降 1.2 个百分点。参考https://www.jonpeddie.com/news/pc-gpu-shipments-declined-3-6-quarter-to-quarter-and-5-0-year-to-year/",
+      "short_summary": "IT之家 11 月 26 日消息，Jon Peddie Research 当地时间 23 日报告称，全球 PC GPU ",
+      "detail": "IT之家 11 月 26 日消息，Jon Peddie Research 当地时间 23 日报告称，全球 PC GPU 出货量在 2026 年第 3 季度达到 7,280 万颗，环比下降 3.6%、同比下降 5.0%。该数据在历年三季度通常会环比增长。图源：Pexels从供应商角度，英特尔的 PC GPU 市场份额上升 2.6 个百分点、AMD 与英伟达各下跌 1.3% 左右；英特尔出货量增长 0.8%，另两家的跌幅在 9% 附近。而从平台来看，桌面 GPU 出货量环比增长 13%、移动端则下降 9.6%。整体客户端独立显卡出货量环比下降 8.4%、同比下降 11%；桌面端独立显卡出货环比下降 4%。其它数据方面，PC CPU 出货量环比下降 2.5% 至 6,140 万颗。台式机、笔电、工作站的整体 GPU 装机率为 118%，环比下降 1.2 个百分点。参考https://www.jonpeddie.com/news/pc-gpu-shipments-declined-3-6-quarter-to-quarter-and-5-0-year-to-year/",
       "source": "ITHome",
       "source_authority": 0.75,
       "date": "2026-11-26",
-      "score": 0.7775
+      "score": 0.86
     },
     {
-      "title": "‘It’s been really a mess’: Meta insiders concerned over push to AI content moderation",
-      "url": "https://www.theguardian.com/technology/2026/nov/25/meta-insiders-concerned-push-to-ai-content-moderation",
-      "summary": "Several employees say rapid speed at which algorithms work means mistakes can happen at greater scaleMeta employees have expressed concern at the company’s push to replace human moderators with artificial intelligence, claiming the technology is leading to mistakes with the potential for sweeping political consequences.The social media company, which owns Facebook and Instagram, has been experimenting with AI-driven moderation for years, first introducing it in 2017 to filter out violent extremi",
-      "short_summary": "Several employees say rapid speed at which algorithms work m",
-      "detail": "Several employees say rapid speed at which algorithms work means mistakes can happen at greater scaleMeta employees have expressed concern at the company’s push to replace human moderators with artificial intelligence, claiming the technology is leading to mistakes with the potential for sweeping political consequences.The social media company, which owns Facebook and Instagram, has been experimenting with AI-driven moderation for years, first introducing it in 2017 to filter out violent extremi",
-      "source": "The Guardian",
-      "source_authority": 0.85,
-      "date": "2026-11-25",
-      "score": 0.6975
+      "title": "日本厂商 Mouse 推出 CA 系列迷你主机，搭载锐龙 5 3501U/6600H/7 255 处理器",
+      "url": "https://www.ithome.com/1/032/883.htm",
+      "summary": "IT之家 11 月 26 日消息，日本计算机制造商 Mouse Computer 近日推出 CA 系列迷你主机，包含三种机型，均搭载 AMD 锐龙系列处理器，并采用纯白色机身。其中，入门款 CA-A5A01 搭载锐龙 5 3501U 处理器，采用 4 核心 8 线程设计，集成 Radeon Vega 8 核显。配备 8GB DDR4-2400 内存与 128GB NVMe SSD，最高支持 64GB 内存，并提供 1 个 PCIe 3.0 x4 SSD 插槽，售价 99,800 日元（IT之家注：现汇率约合 4,184 元人民币）。标准款 CA-A5A01 采用锐龙 5 6600H 处理器，采用 6 核心 12 线程设计，集成 Radeon 660M 核显。配备 16GB 板载 LPDDR5-6400 内存和 2 块 256GB NVMe SSD，同时提供 2 个 PCIe 4.0 x4 存储插槽，售价 139,800 日元（现汇率约合 5,860 元人民币）。高端款 CA-A7A01 搭载锐龙 7 255 处理器，采用 8 核心 16 线程设计，集成 Radeon 780M 核显。配",
+      "short_summary": "IT之家 11 月 26 日消息，日本计算机制造商 Mouse Computer 近日推出 CA 系列迷你主机，包含三种",
+      "detail": "IT之家 11 月 26 日消息，日本计算机制造商 Mouse Computer 近日推出 CA 系列迷你主机，包含三种机型，均搭载 AMD 锐龙系列处理器，并采用纯白色机身。其中，入门款 CA-A5A01 搭载锐龙 5 3501U 处理器，采用 4 核心 8 线程设计，集成 Radeon Vega 8 核显。配备 8GB DDR4-2400 内存与 128GB NVMe SSD，最高支持 64GB 内存，并提供 1 个 PCIe 3.0 x4 SSD 插槽，售价 99,800 日元（IT之家注：现汇率约合 4,184 元人民币）。标准款 CA-A5A01 采用锐龙 5 6600H 处理器，采用 6 核心 12 线程设计，集成 Radeon 660M 核显。配备 16GB 板载 LPDDR5-6400 内存和 2 块 256GB NVMe SSD，同时提供 2 个 PCIe 4.0 x4 存储插槽，售价 139,800 日元（现汇率约合 5,860 元人民币）。高端款 CA-A7A01 搭载锐龙 7 255 处理器，采用 8 核心 16 线程设计，集成 Radeon 780M 核显。配",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-11-26",
+      "score": 0.74
+    },
+    {
+      "title": "广东：按需有序开展词元（Token）经济，积极推动词元出海",
+      "url": "https://www.ithome.com/1/032/927.htm",
+      "summary": "IT之家 11 月 26 日消息，广东省政务服务和数据管理局、广东省发展和改革委员会今日印发《广东省算力发展“十五五”规划》，其中提到，带动现代服务向智向新发展。IT之家注意到，该《规划》还提到依托算力供给能力迭代升级，全力打造一流人工智能企业，推动服务业从“数字赋能”的互联网服务向“智能驱动”的新型服务方式演进。按需有序开展词元（Token）经济，积极推动词元出海。加快培育智能原生新模式新业态，推动生产性服务业向专业化和价值链高端延伸，推进生活性服务业高品质多样化便利化发展，促进服务业扩能提质。此外，该规划还提出健全词元经济制度，推动词元交易规则和流程标准化，完善交易信息披露、动态监测、风险预警机制。用好数据跨境制度规则，支持横琴、前海、南沙、河套四大平台释放跨境数据制度红利，探索“来数加工”与词元跨境结算。",
+      "short_summary": "IT之家 11 月 26 日消息，广东省政务服务和数据管理局、广东省发展和改革委员会今日印发《广东省算力发展“十五五”规",
+      "detail": "IT之家 11 月 26 日消息，广东省政务服务和数据管理局、广东省发展和改革委员会今日印发《广东省算力发展“十五五”规划》，其中提到，带动现代服务向智向新发展。IT之家注意到，该《规划》还提到依托算力供给能力迭代升级，全力打造一流人工智能企业，推动服务业从“数字赋能”的互联网服务向“智能驱动”的新型服务方式演进。按需有序开展词元（Token）经济，积极推动词元出海。加快培育智能原生新模式新业态，推动生产性服务业向专业化和价值链高端延伸，推进生活性服务业高品质多样化便利化发展，促进服务业扩能提质。此外，该规划还提出健全词元经济制度，推动词元交易规则和流程标准化，完善交易信息披露、动态监测、风险预警机制。用好数据跨境制度规则，支持横琴、前海、南沙、河套四大平台释放跨境数据制度红利，探索“来数加工”与词元跨境结算。",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-11-26",
+      "score": 0.71
     },
     {
       "title": "The questions Jensen Huang and Nvidia will still have to answer about Megaspeed",
@@ -294,15 +261,15 @@
   ],
   "category4": [
     {
-      "title": "马斯克质疑称多数机器人演示是摆拍，Figure 接招用 41 秒视频回击",
-      "url": "https://www.ithome.com/1/032/739.htm",
-      "summary": "IT之家 11 月 26 日消息，人形机器人公司 Figure 于 11 月 24 日回应马斯克的“摆拍、预先编程”质疑，发布一段 41 秒视频，展示 Figure 03 机器人在桌子被人为移动后，仍能重新定位并取回放在桌上的苹果。11 月 18 日在 TomorrowX 峰会上，马斯克表示目前多数人形机器人演示并非真正的自主运行，通常是经过事先安排和预编程，缺乏真实环境中的自主适应能力。他举例表示“让机器人去拿一个苹果，然后把桌子挪走，它就拿不到苹果了。”该测试可视为“环境变化泛化”测试，机器人不能只记住“苹果在某个固定坐标”，还要靠视觉感知、场景理解、重新规划路径和抓取策略，在桌子被移动后完成任务。马斯克还表示，特斯拉正在推进 Optimus 人形机器人，并计划在一两个月内展示一次未经摆拍、无需预编程动作的“真实”演示。针对这一说法，Figure 首席执行官布雷特 · 阿德科克“接招”，在 X 平台发布了 41 秒视频。画面中，Figure 03 先按指令从桌上拿起苹果，将苹果放回桌面；在桌子被移到新位置后，机器人再次接到取回苹果的指令，随后走向新位置并成功完成动作。IT之家附上相",
-      "short_summary": "IT之家 11 月 26 日消息，人形机器人公司 Figure 于 11 月 24 日回应马斯克的“摆拍、预先编程”质疑",
-      "detail": "IT之家 11 月 26 日消息，人形机器人公司 Figure 于 11 月 24 日回应马斯克的“摆拍、预先编程”质疑，发布一段 41 秒视频，展示 Figure 03 机器人在桌子被人为移动后，仍能重新定位并取回放在桌上的苹果。11 月 18 日在 TomorrowX 峰会上，马斯克表示目前多数人形机器人演示并非真正的自主运行，通常是经过事先安排和预编程，缺乏真实环境中的自主适应能力。他举例表示“让机器人去拿一个苹果，然后把桌子挪走，它就拿不到苹果了。”该测试可视为“环境变化泛化”测试，机器人不能只记住“苹果在某个固定坐标”，还要靠视觉感知、场景理解、重新规划路径和抓取策略，在桌子被移动后完成任务。马斯克还表示，特斯拉正在推进 Optimus 人形机器人，并计划在一两个月内展示一次未经摆拍、无需预编程动作的“真实”演示。针对这一说法，Figure 首席执行官布雷特 · 阿德科克“接招”，在 X 平台发布了 41 秒视频。画面中，Figure 03 先按指令从桌上拿起苹果，将苹果放回桌面；在桌子被移到新位置后，机器人再次接到取回苹果的指令，随后走向新位置并成功完成动作。IT之家附上相",
+      "title": "消息称三星电子成立半导体工厂机器人团队，2028 年启动内部部署",
+      "url": "https://www.ithome.com/1/032/931.htm",
+      "summary": "IT之家 11 月 26 日消息，韩媒 ETNEWS 当地时间今日报道称，三星电子半导体板块 —— DS（设备解决方案）部，已在其全球制造与基础设施总部下设立“机器人团队”，推进机器人技术在半导体工厂中的实际应用。业内人士透露，目前半导体工厂的前端自动化程度已达 90%、后端也已达到 80%，但仍需要人来负责零件耗材更换、设备维护等部分工序。三星电子计划以内部团队为核心，与外部供应商合作，进一步减少真人的使用，提高生产效率、增强安全性。报道指出，三星电子计划年内遴选合作伙伴，明年进行技术评估，2028 年开始实际部署。相关阅读：《消息称三星组建新团队研发芯片工厂机器人，推进半导体工厂自动化转型》《三星电子公布工业 AI 路线图：数字孪生 + 专用机器人，到 2030 年全球制造基地将实现自主化生产》参考https://www.etnews.com/20261126000296",
+      "short_summary": "IT之家 11 月 26 日消息，韩媒 ETNEWS 当地时间今日报道称，三星电子半导体板块 —— DS（设备解决方案）",
+      "detail": "IT之家 11 月 26 日消息，韩媒 ETNEWS 当地时间今日报道称，三星电子半导体板块 —— DS（设备解决方案）部，已在其全球制造与基础设施总部下设立“机器人团队”，推进机器人技术在半导体工厂中的实际应用。业内人士透露，目前半导体工厂的前端自动化程度已达 90%、后端也已达到 80%，但仍需要人来负责零件耗材更换、设备维护等部分工序。三星电子计划以内部团队为核心，与外部供应商合作，进一步减少真人的使用，提高生产效率、增强安全性。报道指出，三星电子计划年内遴选合作伙伴，明年进行技术评估，2028 年开始实际部署。相关阅读：《消息称三星组建新团队研发芯片工厂机器人，推进半导体工厂自动化转型》《三星电子公布工业 AI 路线图：数字孪生 + 专用机器人，到 2030 年全球制造基地将实现自主化生产》参考https://www.etnews.com/20261126000296",
       "source": "ITHome",
       "source_authority": 0.75,
       "date": "2026-11-26",
-      "score": 0.86
+      "score": 0.785
     },
     {
       "title": "How Vention is cutting factory programming from weeks to minutes",
@@ -325,17 +292,6 @@
       "source_authority": 0.85,
       "date": "2026-11-26",
       "score": 0.775
-    },
-    {
-      "title": "奇瑞艾瑞泽 7 将推出纯电版，已完成工信部申报",
-      "url": "https://www.ithome.com/1/032/682.htm",
-      "summary": "IT之家 11 月 26 日消息，工信部昨晚发布第 414 批《道路机动车辆生产企业及产品公告》新产品公示，奇瑞艾瑞泽 7 纯电版完成申报。本次申报的艾瑞泽 7 纯电版为奇瑞牌纯电动轿车，由奇瑞汽车股份有限公司生产，车身长宽高分别为 4765mm / 4722mm、1850mm、1497mm，轴距为 2770mm，整备质量为 1650kg / 1699kg，总质量为 2100kg / 2149kg，额定载客人数为 5 人，最高车速可达 180km/h。IT之家注意到，该车轮胎规格提供 215/50R17、215/55R17 两种选择，配备防抱死制动系统，由上海利氪科技有限公司提供，同时标配汽车事件数据记录系统（EDR），并可选装 ETC 车载装置。外观方面，车尾印有 ARRIZO 7 标识，中央为 CHERY 品牌英文标识，后包围配备装饰性排气布局，整体风格简洁大气。选装配置方面，该车可选装前保装饰罩、前雷达、前摄像头、后保装饰罩、后背门、后雷达、哑光黑车窗装饰条、鲨鱼鳍天线、激光雷达、后周视摄像头、轮辋装饰罩、外后视镜摄像头、终身质保标、前侧雷达、侧周视摄像头、侧装饰件、后侧雷达，还",
-      "short_summary": "IT之家 11 月 26 日消息，工信部昨晚发布第 414 批《道路机动车辆生产企业及产品公告》新产品公示，奇瑞艾瑞泽 ",
-      "detail": "IT之家 11 月 26 日消息，工信部昨晚发布第 414 批《道路机动车辆生产企业及产品公告》新产品公示，奇瑞艾瑞泽 7 纯电版完成申报。本次申报的艾瑞泽 7 纯电版为奇瑞牌纯电动轿车，由奇瑞汽车股份有限公司生产，车身长宽高分别为 4765mm / 4722mm、1850mm、1497mm，轴距为 2770mm，整备质量为 1650kg / 1699kg，总质量为 2100kg / 2149kg，额定载客人数为 5 人，最高车速可达 180km/h。IT之家注意到，该车轮胎规格提供 215/50R17、215/55R17 两种选择，配备防抱死制动系统，由上海利氪科技有限公司提供，同时标配汽车事件数据记录系统（EDR），并可选装 ETC 车载装置。外观方面，车尾印有 ARRIZO 7 标识，中央为 CHERY 品牌英文标识，后包围配备装饰性排气布局，整体风格简洁大气。选装配置方面，该车可选装前保装饰罩、前雷达、前摄像头、后保装饰罩、后背门、后雷达、哑光黑车窗装饰条、鲨鱼鳍天线、激光雷达、后周视摄像头、轮辋装饰罩、外后视镜摄像头、终身质保标、前侧雷达、侧周视摄像头、侧装饰件、后侧雷达，还",
-      "source": "ITHome",
-      "source_authority": 0.75,
-      "date": "2026-11-26",
-      "score": 0.695
     },
     {
       "title": "A Man in Denver Has Been Throwing Eggs at Waymo Vehicles",
