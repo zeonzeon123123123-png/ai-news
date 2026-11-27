@@ -1,0 +1,191 @@
+{
+  "date": "2026-11-27",
+  "category1": [
+    {
+      "title": "腾讯混元发布 3D 生成大模型 Hy3D 3.6：面向专业 3D 创作",
+      "url": "https://www.ithome.com/1/033/282.htm",
+      "summary": "IT之家 11 月 27 日消息，腾讯混元今天（27 日）正式发布最新一代 3D 大模型 Hy3D 3.6。新版本面向专业 3D 创作，重点优化了高模和 PBR 材质贴图的生成能力。腾讯混元表示，通过该模型生成的几何表面整洁、结构清晰、高模刻画细腻，贴图质量也更高，可以为艺术家、建模师、技术美术和 3D 内容创作者提供高质量的 3D 资产。Hy3D 3.6 作为原生 3D 生成模型，在训练阶段直接“学习” 3D 资产中几何、纹理与材质的分布，让模型生成可以进入专业生产工作流的原生资产。语言模型适合生成具有规则硬表面的 3D 资产、参数化零件和场景布局，尺寸可以精确修改，Hy3D 3.6 则更擅长角色、生物、服装和复杂道具的生成任务，能够还原原画的剪影与细腻曲面，并生成 PBR 贴图，为后续加工提供 3D 资产。在数据层面，混元 3D 团队组织了一套“敏捷评测 — 数据引擎 — 算法实验”的数据迭代流程。评测定义数据的“理想态”，数据引擎补充高质量及弱项数据，算法实验再将数据效果反馈到评测与下一轮数据迭代，从而让优质的反馈和数据形成循环，提升模型表现。在原生几何纹理表征上，Hy3D 3.",
+      "detail": "IT之家 11 月 27 日消息，腾讯混元今天（27 日）正式发布最新一代 3D 大模型 Hy3D 3.6。新版本面向专业 3D 创作，重点优化了高模和 PBR 材质贴图的生成能力。腾讯混元表示，通过该模型生成的几何表面整洁、结构清晰、高模刻画细腻，贴图质量也更高，可以为艺术家、建模师、技术美术和 3D 内容创作者提供高质量的 3D 资产。Hy3D 3.6 作为原生 3D 生成模型，在训练阶段直接“学习” 3D 资产中几何、纹理与材质的分布，让模型生成可以进入专业生产工作流的原生资产。语言模型适合生成具有规则硬表面的 3D 资产、参数化零件和场景布局，尺寸可以精确修改，Hy3D 3.6 则更擅长角色、生物、服装和复杂道具的生成任务，能够还原原画的剪影与细腻曲面，并生成 PBR 贴图，为后续加工提供 3D 资产。在数据层面，混元 3D 团队组织了一套“敏捷评测 — 数据引擎 — 算法实验”的数据迭代流程。评测定义数据的“理想态”，数据引擎补充高质量及弱项数据，算法实验再将数据效果反馈到评测与下一轮数据迭代，从而让优质的反馈和数据形成循环，提升模型表现。在原生几何纹理表征上，Hy3D 3.",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-11-27",
+      "score": 0.86
+    },
+    {
+      "title": "A vocal cohort of tech leaders celebrates Huang’s Nvidia return, but others are keeping quiet",
+      "url": "https://www.theguardian.com/technology/2026/nov/26/jensen-huang-nvidia-tech",
+      "summary": "Elon Musk and Sam Altman among those rejoicing but Google, Meta and Apple chiefs have declined to weigh inThe phrase “return of the king” rippled across social media on Monday. A vocal subsection of the tech industry was celebrating the resurrection of Jensen Huang as Nvidia’s CEO. Some called him the “imperial and royal majesty”, others anointed him as “our Jesus” and several simply posted a crown emoji.“The mistake has been corrected,” said Elon Musk. “Jensen!” exclaimed OpenAI’s Sam Altman. C",
+      "detail": "Elon Musk and Sam Altman among those rejoicing but Google, Meta and Apple chiefs have declined to weigh inThe phrase “return of the king” rippled across social media on Monday. A vocal subsection of the tech industry was celebrating the resurrection of Jensen Huang as Nvidia’s CEO. Some called him the “imperial and royal majesty”, others anointed him as “our Jesus” and several simply posted a crown emoji.“The mistake has been corrected,” said Elon Musk. “Jensen!” exclaimed OpenAI’s Sam Altman. C",
+      "source": "The Guardian",
+      "source_authority": 0.85,
+      "date": "2026-11-26",
+      "score": 0.85
+    },
+    {
+      "title": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
+      "url": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
+      "summary": "On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time.",
+      "detail": "On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time.",
+      "source": "TechCrunch",
+      "source_authority": 0.95,
+      "date": "2026-11-27",
+      "score": 0.8025
+    }
+  ],
+  "category2": [
+    {
+      "title": "Slow internet? The best wifi extenders and mesh systems to boost your home network – tested",
+      "url": "https://www.theguardian.com/thefilter/2026/nov/26/best-wifi-extender-repeater-uk",
+      "summary": "We put 11 range extenders and mesh systems to the test to find the fastest and most reliable for streaming, gaming and working from home• The best office chairsFast fibre broadband is fantastic – if the wifi signal reaches the part of your home where you need it. Most of us use the router provided by our broadband provider, often tucked away in a hallway or corner of the lounge. Sadly, these often don’t have the range to cover every room in your home, leaving you high and dry when you’re trying",
+      "detail": "We put 11 range extenders and mesh systems to the test to find the fastest and most reliable for streaming, gaming and working from home• The best office chairsFast fibre broadband is fantastic – if the wifi signal reaches the part of your home where you need it. Most of us use the router provided by our broadband provider, often tucked away in a hallway or corner of the lounge. Sadly, these often don’t have the range to cover every room in your home, leaving you high and dry when you’re trying",
+      "source": "The Guardian",
+      "source_authority": 0.85,
+      "date": "2026-11-27",
+      "score": 0.705
+    },
+    {
+      "title": "42 state AGs are trying to stop Character.AI from selling users’ chats",
+      "url": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
+      "summary": "A coalition of 42 state attorneys general is trying to prevent Character.AI from selling off user data as it navigates Chapter 11 bankruptcy proceedings. In a deluge of nearly identical press releases, the various AGs accuse the company of planning to auction off \"the private chat histories of more than 21 million U.S. accounts - […]",
+      "detail": "A coalition of 42 state attorneys general is trying to prevent Character.AI from selling off user data as it navigates Chapter 11 bankruptcy proceedings. In a deluge of nearly identical press releases, the various AGs accuse the company of planning to auction off \"the private chat histories of more than 21 million U.S. accounts - […]",
+      "source": "The Verge",
+      "source_authority": 0.9,
+      "date": "2026-11-26",
+      "score": 0.7025
+    },
+    {
+      "title": "Dozens of court cases in England and Wales affected by undisclosed AI use in 2026",
+      "url": "https://www.theguardian.com/technology/2026/nov/26/dozens-of-court-cases-in-england-and-wales-affected-by-undisclosed-ai-use-in-2026",
+      "summary": "Exclusive: Investigation finds at least 25 cases affected by AI-generated witness statements, fictitious case law and nonexistent statutes Undisclosed AI use has affected more than two dozen court cases this year, prompting judges to complain about AI-generated witness statements, fictitious case law and nonexistent statutes, an investigation has revealed.Proceedings where judges have been forced to deal with lawyers, police officers and claimants misusing the technology in 2026 include a high c",
+      "detail": "Exclusive: Investigation finds at least 25 cases affected by AI-generated witness statements, fictitious case law and nonexistent statutes Undisclosed AI use has affected more than two dozen court cases this year, prompting judges to complain about AI-generated witness statements, fictitious case law and nonexistent statutes, an investigation has revealed.Proceedings where judges have been forced to deal with lawyers, police officers and claimants misusing the technology in 2026 include a high c",
+      "source": "The Guardian",
+      "source_authority": 0.85,
+      "date": "2026-11-26",
+      "score": 0.6975
+    },
+    {
+      "title": "The next generation of bionic hands is here—and they can feel",
+      "url": "https://www.technologyreview.com/2026/11/26/1149923/the-next-generation-of-bionic-hands-is-here-and-they-can-feel/",
+      "summary": "Avi Davidson lost his left hand as a teenager. Since then, he’s cycled through a few prosthetics. But his latest is different—it’s wired up to nerves in the upper part of his forearm and allows him to feel pressure. For the first time in years, he can use his left limb to handle delicate objects…",
+      "detail": "Avi Davidson lost his left hand as a teenager. Since then, he’s cycled through a few prosthetics. But his latest is different—it’s wired up to nerves in the upper part of his forearm and allows him to feel pressure. For the first time in years, he can use his left limb to handle delicate objects…",
+      "source": "MIT Tech Review",
+      "source_authority": 0.9,
+      "date": "2026-11-26",
+      "score": 0.645
+    },
+    {
+      "title": "长城欧拉 5 PLUS 全新车色“云栖青”亮相广州车展",
+      "url": "https://www.ithome.com/1/033/327.htm",
+      "summary": "IT之家 11 月 27 日消息，长城欧拉汽车官方微博今日宣布，欧拉 5 PLUS 全新车色“云栖青”于广州车展正式亮相。据介绍，欧拉 5 PLUS 是欧拉 5 家族新成员，定位年轻家庭的时尚智能 SUV。IT之家了解到，新车延续欧拉 5 家族的设计风格，长宽高分别为 4758/1833（1844）/1626mm，轴距为 2720mm，车侧采用传统样式门把手，提供多种轮圈样式选择。该车此前已经完成工信部申报，新车不仅延续了家族式设计语言，带来了纯电、混动、燃油三种动力版本选择，进一步完善品牌产品矩阵。与欧拉 5 家族其它车型保持一致，燃油版本搭载长城 1.5T 涡轮增压发动机，最大功率 135 千瓦，最大扭矩 275 牛 · 米。混动版本搭载 Hi2 第五代智能混动技术，包含 1.5T HEV 专用发动机，发动机功率 112 千瓦，系统综合功率 166 千瓦，综合扭矩 476 牛 · 米。纯电版本搭载蜂巢 14 合 1 高效智能电驱系统，最大功率 150 千瓦，峰值扭矩 260 牛 · 米。",
+      "detail": "IT之家 11 月 27 日消息，长城欧拉汽车官方微博今日宣布，欧拉 5 PLUS 全新车色“云栖青”于广州车展正式亮相。据介绍，欧拉 5 PLUS 是欧拉 5 家族新成员，定位年轻家庭的时尚智能 SUV。IT之家了解到，新车延续欧拉 5 家族的设计风格，长宽高分别为 4758/1833（1844）/1626mm，轴距为 2720mm，车侧采用传统样式门把手，提供多种轮圈样式选择。该车此前已经完成工信部申报，新车不仅延续了家族式设计语言，带来了纯电、混动、燃油三种动力版本选择，进一步完善品牌产品矩阵。与欧拉 5 家族其它车型保持一致，燃油版本搭载长城 1.5T 涡轮增压发动机，最大功率 135 千瓦，最大扭矩 275 牛 · 米。混动版本搭载 Hi2 第五代智能混动技术，包含 1.5T HEV 专用发动机，发动机功率 112 千瓦，系统综合功率 166 千瓦，综合扭矩 476 牛 · 米。纯电版本搭载蜂巢 14 合 1 高效智能电驱系统，最大功率 150 千瓦，峰值扭矩 260 牛 · 米。",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-11-27",
+      "score": 0.62
+    },
+    {
+      "title": "Musk's plan to send a million SpaceX data satellites into space approved",
+      "url": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Starmind constellation aims to be the most cost and energy-efficient way to meet the growing demand for AI computing power.",
+      "detail": "The Starmind constellation aims to be the most cost and energy-efficient way to meet the growing demand for AI computing power.",
+      "source": "BBC Tech",
+      "source_authority": 0.85,
+      "date": "2026-11-26",
+      "score": 0.6
+    }
+  ],
+  "category3": [
+    {
+      "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+      "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+      "summary": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.",
+      "detail": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.",
+      "source": "TechCrunch",
+      "source_authority": 0.95,
+      "date": "2026-11-27",
+      "score": 0.825
+    },
+    {
+      "title": "深蓝汽车：2027 年华为引望星驰辅助驾驶开通订阅时，所有已售“AI 激光版”车辆免费 OTA 升级",
+      "url": "https://www.ithome.com/1/033/280.htm",
+      "summary": "IT之家 11 月 27 日现场消息，在 11 月 26 日晚的 2026 华为乾崑生态大会上，华为智能汽车解决方案 BU CEO 靳玉志正式发布了华为星驰辅助驾驶系统。深蓝汽车董事长邓承浩现场透露，全新深蓝 S07 AI 激光版和即将上市的全新深蓝 L07 AI 激光版是行业首批搭载华为星驰驾驶辅助解决方案的车型。在今日的 2026 广州车展上，邓承浩宣布，2027 年华为引望星驰辅助驾驶正式开通订阅时，所有已售“AI 激光版”车辆均将免费 OTA 升级为星驰辅助驾驶解决方案。“早买早享受，早买才免费。”据介绍，这两台车是当前市面上唯一能体验星驰魅力的车型，当前已经硬件预埋，所有新老用户，明年都将通过 OTA 免费升级为正式的星驰辅助驾驶。功能方面，华为引望星驰辅助驾驶支持高速领航驾驶辅助、全场景辅助泊车、全维防碰撞系统。据IT之家此前报道，华为引望星驰辅助驾驶将只专注于辅助驾驶领域，与面向自动驾驶的乾崑智驾技术同源（WEWA 架构）、资源共享（云端训练算力 | 高质量训练里程数据）、流程 & 质量（IPD 研发流程 | 车规质量管理体系）。",
+      "detail": "IT之家 11 月 27 日现场消息，在 11 月 26 日晚的 2026 华为乾崑生态大会上，华为智能汽车解决方案 BU CEO 靳玉志正式发布了华为星驰辅助驾驶系统。深蓝汽车董事长邓承浩现场透露，全新深蓝 S07 AI 激光版和即将上市的全新深蓝 L07 AI 激光版是行业首批搭载华为星驰驾驶辅助解决方案的车型。在今日的 2026 广州车展上，邓承浩宣布，2027 年华为引望星驰辅助驾驶正式开通订阅时，所有已售“AI 激光版”车辆均将免费 OTA 升级为星驰辅助驾驶解决方案。“早买早享受，早买才免费。”据介绍，这两台车是当前市面上唯一能体验星驰魅力的车型，当前已经硬件预埋，所有新老用户，明年都将通过 OTA 免费升级为正式的星驰辅助驾驶。功能方面，华为引望星驰辅助驾驶支持高速领航驾驶辅助、全场景辅助泊车、全维防碰撞系统。据IT之家此前报道，华为引望星驰辅助驾驶将只专注于辅助驾驶领域，与面向自动驾驶的乾崑智驾技术同源（WEWA 架构）、资源共享（云端训练算力 | 高质量训练里程数据）、流程 & 质量（IPD 研发流程 | 车规质量管理体系）。",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-11-27",
+      "score": 0.8225
+    },
+    {
+      "title": "京瓷将在 5 个财年内向半导体组件领域投资 8100 亿日元",
+      "url": "https://www.ithome.com/1/033/271.htm",
+      "summary": "IT之家 11 月 27 日消息，京瓷 (Kyocera) 当地时间昨日宣布了从现在到 2031 财年的中期经营战略，计划在这 5 个财年内向半导体组件领域投资 8,100 亿日元（IT之家注：现汇率约合 339.33 亿元人民币）。京瓷预计，AI 光模块、AI 服务器 MLCC、半导体制造设备 3 个市场的规模将分别实现 19.1%、38.5%、14.7% 的年化增长。该企业将发挥自身在各类陶瓷技术（如陶瓷封装、MLCC 电容器）上的积累，瞄准小尺寸高容量 MLCC、陶瓷基板等关键领域扩大营收规模。而在企业整体角度，京瓷目标到 2031 财年实现 2.6 万亿日元的年度营收，较 2026 财年提升约 25.6%；归母净利润达 2,500 亿日元，增幅 77.3%；资本利润率升至 8.2%。",
+      "detail": "IT之家 11 月 27 日消息，京瓷 (Kyocera) 当地时间昨日宣布了从现在到 2031 财年的中期经营战略，计划在这 5 个财年内向半导体组件领域投资 8,100 亿日元（IT之家注：现汇率约合 339.33 亿元人民币）。京瓷预计，AI 光模块、AI 服务器 MLCC、半导体制造设备 3 个市场的规模将分别实现 19.1%、38.5%、14.7% 的年化增长。该企业将发挥自身在各类陶瓷技术（如陶瓷封装、MLCC 电容器）上的积累，瞄准小尺寸高容量 MLCC、陶瓷基板等关键领域扩大营收规模。而在企业整体角度，京瓷目标到 2031 财年实现 2.6 万亿日元的年度营收，较 2026 财年提升约 25.6%；归母净利润达 2,500 亿日元，增幅 77.3%；资本利润率升至 8.2%。",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-11-27",
+      "score": 0.7325
+    },
+    {
+      "title": "Jensen Huang Is Back, and So Is His Plaque at Denny’s",
+      "url": "https://www.nytimes.com/2026/11/26/business/dennys-jensen-huang-nvidia-plaque.html",
+      "summary": "The chain said it had restored a plaque honoring Mr. Huang above a booth in San Jose, Calif., after he was reinstated at Nvidia, the company he is said to have co-founded while eating there.",
+      "detail": "The chain said it had restored a plaque honoring Mr. Huang above a booth in San Jose, Calif., after he was reinstated at Nvidia, the company he is said to have co-founded while eating there.",
+      "source": "NYT",
+      "source_authority": 0.9,
+      "date": "2026-11-27",
+      "score": 0.67
+    },
+    {
+      "title": "Asia made a big AI bet on Nvidia. What happens now?",
+      "url": "https://www.bbc.co.uk/news/articles/cqevr4lnd1nxo?at_medium=RSS&at_campaign=rss",
+      "summary": "Asian stocks have been on a rollercoaster ride after Jensen Huang's shock return as Nvidia CEO.",
+      "detail": "Asian stocks have been on a rollercoaster ride after Jensen Huang's shock return as Nvidia CEO.",
+      "source": "BBC Tech",
+      "source_authority": 0.85,
+      "date": "2026-11-27",
+      "score": 0.605
+    }
+  ],
+  "category4": [
+    {
+      "title": "科技爱好者周刊（第 421 期）：AI 的疯狂造富",
+      "url": "http://www.ruanyifeng.com/blog/2026/11/weekly-issue-421.html",
+      "summary": "这里记录每周值得分享的科技内容，周五发布。\n本杂志开源，欢迎投稿。另有《谁在招人》服务，发布程序员招聘信息。合作请邮件联系（yifeng.ruan@gmail.com）。\n封面图\n\n本周，小鹏公司展示它的人形机器人。（via）\nAI 的疯狂造富\n上周，模型公司 Anthropic 公司上市，创造出巨额财富。\n\n这是一家历史很短的公司。它成立于2021年，当时规模很小，正式的大量对外招聘是2023年开始的。\n大家知道吗，这么短的成立时间，又有这么高的估值，意味着什么？\n说得庸俗一点，就是加入这家公司，很快就能发大财。\n根据 @AndrewBenson 的统计，截止今年9月底，它有约5300名员工，这些员工可以分到股票。\n如果它的市值达到1.4万亿美元（目前是1.17万美元），这些员工的股票获利中位数是这样的。\n\n2023年招聘的290人：1.51亿美元\n2024年招聘的640人：7900万美元\n2025年招聘的1360人：2600万美元\n2026年招聘的3000人：500万美元\n\n这很惊人，只要你在这家公司入职两年，就能拿到几千万美元。哪怕你今年年初才入职，几个月后就能拿到几百万美元。",
+      "detail": "这里记录每周值得分享的科技内容，周五发布。\n本杂志开源，欢迎投稿。另有《谁在招人》服务，发布程序员招聘信息。合作请邮件联系（yifeng.ruan@gmail.com）。\n封面图\n\n本周，小鹏公司展示它的人形机器人。（via）\nAI 的疯狂造富\n上周，模型公司 Anthropic 公司上市，创造出巨额财富。\n\n这是一家历史很短的公司。它成立于2021年，当时规模很小，正式的大量对外招聘是2023年开始的。\n大家知道吗，这么短的成立时间，又有这么高的估值，意味着什么？\n说得庸俗一点，就是加入这家公司，很快就能发大财。\n根据 @AndrewBenson 的统计，截止今年9月底，它有约5300名员工，这些员工可以分到股票。\n如果它的市值达到1.4万亿美元（目前是1.17万美元），这些员工的股票获利中位数是这样的。\n\n2023年招聘的290人：1.51亿美元\n2024年招聘的640人：7900万美元\n2025年招聘的1360人：2600万美元\n2026年招聘的3000人：500万美元\n\n这很惊人，只要你在这家公司入职两年，就能拿到几千万美元。哪怕你今年年初才入职，几个月后就能拿到几百万美元。",
+      "source": "Ruan Yifeng",
+      "source_authority": 0.75,
+      "date": "2026-11-27",
+      "score": 0.96
+    },
+    {
+      "title": "何小鹏带 IRON 人形机器人到 2026 广州车展小米展台互动，和李肖爽互祝大卖",
+      "url": "https://www.ithome.com/1/033/334.htm",
+      "summary": "IT之家 11 月 27 日消息，据新浪科技报道，在今日的 2026 广州车展上，小鹏集团董事长、CEO 何小鹏与小鹏人形机器人 IRON 共同巡展，并来到小米展台与小米汽车副总裁李肖爽互动。在合照环节，何小鹏喊道：“小米（汽车）大卖！”李肖爽则回应称：“小米（汽车）大卖，小鹏（汽车）也大卖”。2026 广州车展期间，小鹏 IRON 人形机器人亲自主持了小鹏的发布会。何小鹏表示，这可能是历史上第一次由机器人在车展进行新车发布。此外，小鹏 IRON 机器人首次上岗，多台机器人在现场接待、导购、导览，用户可以直接和 IRON 近距离互动。",
+      "detail": "IT之家 11 月 27 日消息，据新浪科技报道，在今日的 2026 广州车展上，小鹏集团董事长、CEO 何小鹏与小鹏人形机器人 IRON 共同巡展，并来到小米展台与小米汽车副总裁李肖爽互动。在合照环节，何小鹏喊道：“小米（汽车）大卖！”李肖爽则回应称：“小米（汽车）大卖，小鹏（汽车）也大卖”。2026 广州车展期间，小鹏 IRON 人形机器人亲自主持了小鹏的发布会。何小鹏表示，这可能是历史上第一次由机器人在车展进行新车发布。此外，小鹏 IRON 机器人首次上岗，多台机器人在现场接待、导购、导览，用户可以直接和 IRON 近距离互动。",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-11-27",
+      "score": 0.8775
+    },
+    {
+      "title": "广汽昊铂官宣全新跨界车型：主打宽阔低趴，明年见",
+      "url": "https://www.ithome.com/1/033/322.htm",
+      "summary": "IT之家 11 月 27 日消息，在今天（27 日）上午开幕的 2026 广州车展上，广汽昊铂宣布即将推出全新的跨界车型。该车基于概念车“大地 Earth”打造，拥有宽阔低趴、优雅舒展的姿态，将于 2027 年正式亮相。不过，截至IT之家发稿，官方尚未公布新车更详细的信息。说回前面提到的“大地 Earth”概念车，其在 2025 上海车展首秀，官方称其为一款“集前瞻设计、尖端科技与可持续理念于一身”的未来座驾。新车外观采用了“熔岩流动”设计语言，以黑曜石色为主色调，车身的姿态较低，线条借鉴风蚀地貌的天然曲线，整车风阻系数仅 0.19。这款概念车搭载广汽最新“星灵 2.0”电子电气架构，支持 L4 级自动驾驶，同时实现首创“地磁导航系统”，可通过分析地球磁场变化实现无 GPS 环境下的精准定位。官方表示，该系统使车辆在隧道、地下停车场等场景也能确保行车安全。新车搭载了昊铂自研“固态电池 2.0”技术，能量密度超 500Wh/kg，同时得益于整车的轻量化设计，CLTC 续航里程可达 1200km。同时，其车顶、引擎盖覆盖了高效柔性太阳能薄膜，日均发电量可补充 50km 续航。",
+      "detail": "IT之家 11 月 27 日消息，在今天（27 日）上午开幕的 2026 广州车展上，广汽昊铂宣布即将推出全新的跨界车型。该车基于概念车“大地 Earth”打造，拥有宽阔低趴、优雅舒展的姿态，将于 2027 年正式亮相。不过，截至IT之家发稿，官方尚未公布新车更详细的信息。说回前面提到的“大地 Earth”概念车，其在 2025 上海车展首秀，官方称其为一款“集前瞻设计、尖端科技与可持续理念于一身”的未来座驾。新车外观采用了“熔岩流动”设计语言，以黑曜石色为主色调，车身的姿态较低，线条借鉴风蚀地貌的天然曲线，整车风阻系数仅 0.19。这款概念车搭载广汽最新“星灵 2.0”电子电气架构，支持 L4 级自动驾驶，同时实现首创“地磁导航系统”，可通过分析地球磁场变化实现无 GPS 环境下的精准定位。官方表示，该系统使车辆在隧道、地下停车场等场景也能确保行车安全。新车搭载了昊铂自研“固态电池 2.0”技术，能量密度超 500Wh/kg，同时得益于整车的轻量化设计，CLTC 续航里程可达 1200km。同时，其车顶、引擎盖覆盖了高效柔性太阳能薄膜，日均发电量可补充 50km 续航。",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-11-27",
+      "score": 0.71
+    },
+    {
+      "title": "领克 900L 预售：定位 900V 旗舰大七座 SUV，30.98 万-36.98 万元",
+      "url": "https://www.ithome.com/1/033/264.htm",
+      "summary": "IT之家 11 月 27 日消息，在今天上午开幕的 2026 广州车展期间，领克 900L 正式开启预售。新车定位 900V 超级电混旗舰大七座 SUV，提供 320km（Halo、Ultra）和 430km（Ultra、Ultra+）两种续航共 4 种配置，价格区间为 32.98 万-38.98 万元，先享提车价 30.98 万-36.98 万元。据IT之家了解，新车长宽高分别为 5280/1999/1810mm，轴距 3170mm。相比领克 900 车长增加 40mm，车高与轴距各增加 10mm，车宽保持不变。其外观延续家族分体式灯组轮廓，前脸将大灯与中央饰板整合为一体式结构，车尾贯穿式 LED 尾灯中央嵌入可发光的“LYNK&CO”标识。车顶前部集成激光雷达，车身侧面采用半隐藏式门把手。座舱内部采用浅色内饰基调，前排提供双 30 英寸屏幕，搭配 31 扬声器哈曼卡顿音响系统。中控区域使用天然白栓岑木饰板与巴黎钉饰条。车内采用 2+2+3 七座布局，官方公布的得房率为 89.5%（IT之家注：得房率指乘员舱有效空间与车身外廓体积的比值，常用于衡量车内空间利用率）。第二排座椅支持双",
+      "detail": "IT之家 11 月 27 日消息，在今天上午开幕的 2026 广州车展期间，领克 900L 正式开启预售。新车定位 900V 超级电混旗舰大七座 SUV，提供 320km（Halo、Ultra）和 430km（Ultra、Ultra+）两种续航共 4 种配置，价格区间为 32.98 万-38.98 万元，先享提车价 30.98 万-36.98 万元。据IT之家了解，新车长宽高分别为 5280/1999/1810mm，轴距 3170mm。相比领克 900 车长增加 40mm，车高与轴距各增加 10mm，车宽保持不变。其外观延续家族分体式灯组轮廓，前脸将大灯与中央饰板整合为一体式结构，车尾贯穿式 LED 尾灯中央嵌入可发光的“LYNK&CO”标识。车顶前部集成激光雷达，车身侧面采用半隐藏式门把手。座舱内部采用浅色内饰基调，前排提供双 30 英寸屏幕，搭配 31 扬声器哈曼卡顿音响系统。中控区域使用天然白栓岑木饰板与巴黎钉饰条。车内采用 2+2+3 七座布局，官方公布的得房率为 89.5%（IT之家注：得房率指乘员舱有效空间与车身外廓体积的比值，常用于衡量车内空间利用率）。第二排座椅支持双",
+      "source": "ITHome",
+      "source_authority": 0.75,
+      "date": "2026-11-27",
+      "score": 0.62
+    }
+  ]
+}
